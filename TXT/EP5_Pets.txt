@@ -1,0 +1,1495 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x5C5) ---
+   [000] 0xB9BE197B1A99DB56: These crates are made of wood.
+   [001] 0x5789656468A1E949: Wooden Crates
+   [002] 0xA39AC48220BA912C: Delicate Drain
+   [003] 0xD4AD26B8FF42C4F8: Delicate Drain with Trim
+   [004] 0xE82E9264217B02A3: Fancy Parquetry
+   [005] 0x02256324E4057ACB: Fancier Parquetry
+   [006] 0x848644CDD76B1016: Barn Board
+   [007] 0x0C22CEC201075A77: Barn Interior One
+   [008] 0x0C22CEC201075A74: Barn Interior Two
+   [009] 0x0C22CEC201075A75: Barn Interior Three
+   [00A] 0x5708D4121744898B: Barn Suite One
+   [00B] 0x5708D41217448988: Barn Suite Two
+   [00C] 0x5708D41217448989: Barn Suite Three
+   [00D] 0x5708D4121744898E: Barn Suite Four
+   [00E] 0x5708D4121744898F: Barn Suite Five
+   [00F] 0xAE0FF27D80143A4C: Parquetry
+   [010] 0x2CEDA8EF3C382D06: Fossil Wall
+   [011] 0x2CEDA8EF3C382D05: Fossil Wall Too
+   [012] 0xF6C54E3D3552A8BE: Three Quarter Paneling
+   [013] 0x5AC5587CB03C7B2A: Rustic Embossed Metal
+   [014] 0x197D27F93A66BC57: Rustic Paneling Left
+   [015] 0x197D31F93A66CD5B: Rustic Paneling Right
+   [016] 0x91941F08F76FF06A: Rustic Stonework
+   [017] 0x91941F08F76FF069: More Rustic Stonework
+   [018] 0x91941F08F76FF068: Really Rustic Stonework
+   [019] 0xD2420C81A3E5417C: Spider Web
+   [01A] 0x1116821FD7B76BD7: Tooled Leather
+   [01B] 0xBB0D813011513BB9: The Sims™ 3 Pets
+   [01C] 0xAC4D7BFF032C03D6: The joy of farming - in miniature!  Without any backbreaking labor required.  Why spend the effort?  Let these industrious little fellows do all the work and enjoy the fruits of their labors… for as long as you desire.
+   [01D] 0x9994ABDC81D38CAA: It's a big backdrop!
+   [01E] 0xB8FE1C456C544942: Built strong and hearty like the farm folk of yore, Old Barley's Lucky Barstool will keep your Sims deeply grounded while they enjoy their favorite meals. Luck implied, but not included.
+   [01F] 0xF09A8591BD4BD0FA: Inspired by the teen drama "Porcelwood's Creek", we've created a furniture line made from porcelain and wood. These materials also represent our human strength juxtaposed with our weaknesses . This tub is deep, literally.
+   [020] 0x4F8EA8B240065D07: Each headboard is made of the finest wood from the Giant Bacon Tree! We also take great care in coating each piece with mesquite wood stain. No assembly required, and no cholesterol. This bed is not only pre-fab it IS fab! Warning: Attempting to eat the bed will give you splinters.
+   [021] 0xC45A40F2F0A96EA8: Sims deeply invested in all things horse might consider including the Rancher's Bed of Dreams in their collection. Guaranteed not to smell like a horse or a rancher...what is there to lose?
+   [022] 0xA605CD31DC0F1463: This bed represents all that is good in the world: peace, love, happiness, and unicorns. In fact, each bed is infused with a single unicorn hair that might have your Sim seeing rainbows in their dreams, or perhaps creepy clowns.
+   [023] 0x36F2C9E07348686C: This newly renovated building hosts a suite of offices, most notably those of the venerable Hueber Associates - known for their legal wranglings and cutthroat business tactics. The main suite is occupied by Kim Gould's Steakhouse; a venture in fine dining that offers cuts of fresh local meat.
+   [024] 0x79EE849BD72EDF44: Inspired by the old west, Don Libro and Co. bring to you a bookshelf deeply-rooted in history! In fact, each bookshelf is sandblasted and then left in a ghost town until one of the local ghosts reads from it!
+   [025] 0x3A095CF9F9758E5B: In days of yore, retired Bavarian Superheroes took up furniture making as a way to get some extra cash near the end of their golden years. They developed solid methods leading to solid furniture, and passed those techniques on to us! If there is anything we can say about The Sturdy Gurdy Bookshelf, it is that it is amazingly solid!
+   [026] 0x438CBC26B770DC26: Straight out of Chapter 11 bankruptcy comes a fresh new book shopping concept at Walls Book 'n Bath! What's the answer to an archaic business model fighting a losing battle against the coming electronic age? Water of course! Slip into a soothing hot bath with an old fashioned book; after all, e-readers and water can have shocking results!
+   [027] 0x63D314190BEEC9F8: Every pet deserves a clean place to live.  Give your horse a box stall that never needs to be cleaned.
+   [028] 0xB4CD7D9341C26C11: Keep them safe and keep them healthy! The Western Box Stall is the perfect room to give your horse all the major necessities it needs. Just be sure you clean up after them once in a while or you'll start smelling unfamiliar and unwanted aromas.
+   [029] 0xE81C750A4D4150FF: With a sturdy wood frame and large living space, the Old Western Box Stall is the optimal place to keep your horses during the day or night. It’s like giving them their own hotel room right in your own lot.
+   [02A] 0x07E742779B0DBFCB: This bridge goes great with rivers!
+   [02B] 0xC45BA749FD79FE9B: Back in the day cowboys were better known for their grit rather than their capacity for kitchen organization. But heavens to Betsy, the modern cowboy now knows his way around the kitchen! Use these cowboy inspired furnishings to help you organize your kitchen the cowboy way.
+   [02C] 0xEFF397E0E087E477: Only Animal Control officers may drive this vehicle.
+   [02D] 0xD9D1562D4BDDE878: IceCreamTruck - if you see this in game BUG it
+   [02E] 0x087AC58D4385F41C: Carrots are tasty, yum!
+   [02F] 0x67E34465FEA14A46: Frosty Dreams…serving Sims since the dawn of refrigeration on wheels.
+   [030] 0x43E7DBC389B4C1A3: Whether it’s nap time, sleep time, scratch time, or simply hang-about-and-do-nothing time Classy Cats know that the Cat Condo is where it’s at! Durable, shred resistant covering, and plenty of perches make this the ultimate in kitty cohabitation environments. It is kitten friendly too!
+   [031] 0x17EFEE66F254A0D0: There is no fancier place for felines to frolic than the Cat Jungle Gym! Constructed of sturdy, yet malleable cat friendly fibers this playhouse is designed to stimulate your pet’s sense of independence and adventure, all the while creating a fun filled environment in which to interact with other cats. Catnip included.
+   [032] 0x6B5D6D3682E54A3D: Hypnotic, entrancing, wobbly…these are but three of the words used to describe this fantastical Wall Dancer cat toy! Watch it bounce and bob to and fro as cats attack it with their paws and claws! Sims can get in on the action too by joining their pet in the rambunctious merriment this toy provides!
+   [033] 0x78869F03D1A9716A: Wondrous worlds of feline fascination are found within the bouncy bounds of this Feathered Wall Dancer cat toy! Cats love to paw at it, bat at it, even nibble at it! For extra fun, and feline bonding, have a Sim and a cat play with it together!
+   [034] 0x6D68B78840FA518E: Feeling sassy, classy, or both? Mix it with tongue-in-cheek expressions and elegant word play. Pull up The Sassy Classy Dining Chair for a unique dining experience! 
+   [035] 0xE3416A8669589478: This dining chair is made from the sturdiest and heaviest wood. In fact, each chair weighs as much as a small car! To add to your bragging rights of owning the world's heaviest chair, we've also included heavy iron brackets that hold each chair together!
+   [036] 0x5E04B44398EFF295: It's a well-known fact that having a puffy chair is considered high class, but a tufted, puffy chair is simply royal! So plunk down your money, and your bottom, for this one of a kind chair!
+   [037] 0x8C003A46A22282BE: There ain’t nobody nowhere that can make a more good sittin’ chair than the good ol’ El Comforto. Made over many years with careful carvin’, stichin’, and constructin’, El Comforto will provide any cowboy or girl a good sit after a long day tumblin’ on down the trail.
+   [038] 0x54E99805D8751914: Do you like many decorating styles, but have limited space to decorate in style? Then pick the Mixed Media Chair! With a classic silhouette, this chair allows for multiple design decisions! Mixed Media Chair - for the indecisive Sim with a fat wallet!
+   [039] 0x3E1216D726ED6E9D: You can tell a lot about a person based on what kind of chair they choose to lounge on. Choosing The Rustic Lounger implies intelligence, taste, comfort… or whatever it will take to get you to buy this chair.
+   [03A] 0x5874F2C09EA94729: The only thing better than a real bone is a chewy bone! A super duper, squeaky, chicken flavored chewy bone! Keep your dog occupied for minutes (and maybe hours!) with the Chewy Toy Bone. Made with love (and real chickens!) by the good folks at Simina Pet Products.
+   [03B] 0x27B13815D9F97F4E: The Bow WOW Chew Toy lives up to its name! The high quality, flexible plastic is a real hit with the canine crowd! If they could speak Simlish they’d say “WOW” every time they put this bad boy in their mouth. Mostly natural materials and durable to a point, this is the one, the only, the WOW-erific King of dog chew novelties…and it even tastes like bacon.
+   [03C] 0xB9D7C2A2FC24189E: The early promise of the local mine saw money pour into the community, even enticing the governor to establish his seat of power in the region. When the gold ran out the governor relocated, but his extravagant mansion remained. It now serves as city hall, as well as housing the police department and a military outpost.
+   [03D] 0xF2625B0ABA3932B8: Imported from a far away land this clever little clock is fashioned in a style known as 'Kitty Couture'. Popular the world over - or at least in the world overseas - this precious time piece is sure to add a dash of cuteness to any room.
+   [03E] 0xB78A1C920298AAF2: Believe it or not these columns are found naturally in nature and are simply harvested by the experts at Landgraab Industries. Moving them is a challenge, as a stack o’ rocks is highly unstable when in motion.
+   [03F] 0xCA32D4FE167B3B80: Columns need not be shiny or ornate to be functional. This wooden column is solid and safe! Perfect for a barn, cabin, lodge, or outdoor structure.
+   [040] 0xD5350BFE6BB7C437: Back in the day, cowboys were better known for their grit, rather than their capacity for kitchen organization. But heavens to Betsy, the modern cowboy knows his way around the kitchen now! Use these cowboy inspired furnishings to help you organize your kitchen the cowboy way.
+   [041] 0x90986A528F12C52B: This model home is mistakenly thought to be one of the older buildings in the town. In actuality it's one of the more recent additions of the aptly named "Sudden Valley" housing development, built adjacent to the town's old mine. A criminal element has moved in as the building fell into disrepair.
+   [042] 0x10EA60496FD89142: The It's Got Swagger! Drape Set adds a LOT of attitude to a little room! If it starts talking back or throwing a tantrum, you can't say we didn't warn you.
+   [043] 0xF4C9C32B054A1919: At Contemptuous Office Furnishings we believe that the desk you write on says a lot about you. Consequently, we also believe our customer says a lot about us. The Pretentious Desk: recommended for elitists, bureaucrats, and, our personal favorite, the super rich.
+   [044] 0x7620E84E95C16A2F: Made from compressed cactus needles, this desk is sure to please your sharpest-minded Sims. The grain looks rough, but is polished and smooth to the touch. If you cut open during a drought you may just find water.
+   [045] 0xB36F83853ACB3DB4: A glittering fragment of a magnificent canine.
+   [046] 0x1BD46ABD9BDDE475: This dog glitters!
+   [047] 0xB36F83853ACB3DB7: A solid section of a broken statue. In the light it sparkles.
+   [048] 0xB36F83853ACB3DB6: Shimmering fragments of something grand!
+   [049] 0xEA294C83CAC0191F: Bangers, sausages... if it's a hot link you're after, Darris Teeter's Grocery or The Koffi Cafe has you covered. Take one home or have it served fresh and piping hot, the choice is yours!
+   [04A] 0x6A1AC41C6C099C66: Legs from an ancient dinosaur.
+   [04B] 0xEF15691C25DC7E3F: Ribs from an ancient dinosaur.
+   [04C] 0xE1BEB49426093B8C: A collection of dinosaur bones.
+   [04D] 0x5AAF4773905578D5: The skull of a T-Rex.
+   [04E] 0x8143E70A2BD64D1C: The skull of a Triceratops.
+   [04F] 0xE6C36E7D4D259E09: A statue of a dinosaur.
+   [050] 0xA32DE29AB605F946: If a tree falls in the forest and no one is there to hear it, does it make a sound? Not necessarily! Each machine is made from world-renowned Silent Spruce, guaranteeing your dishes a silent wash cycle! Timberrrrrrrr!
+   [051] 0xD7E77D3BCB66B6E9: Dogs they love it, dogs they need it, dogs just gotta have the Biscuit ball!
+   [052] 0x0C90DBBF0D5CD080: A dog dug this hole.
+   [053] 0xD38AA7BF7DFE5FAE: Dogs like to dig here.
+   [054] 0xA60904B9AFED44D9: Need an arch that looks both rustic and can support over ten times its own weight? Then the Cinder Burrow is your arch of the day. Its reinforced frame makes the Cinder Burrow Arch the perfect entryway for walls built from the heaviest of materials.
+   [055] 0x57B268FA6C942702: When you think of a barn door perhaps you envision a weather, cracked, moldering piece of ancient wood. Thoughts like this sadden the good folks at FarmCo. They build their barn doors to last! Weather, fire, hoards of angry llamas, none of these things can damage the fine craftsmanship and quality found in a FarmCo. barn door!
+   [056] 0x57B974FA6C9A5A74: Balance is an important aspect of a well-structured barn door. The master crafters at FarmCo. spend days carefully measuring and sanding each door to ensure that it is perfectly symmetrical at all points. Perfection may be a science, but no one can deny that these barn doors are art.
+   [057] 0x7A9F6789753E7C36: Some barn arches are small. Some barn arches are slender. This barn arch is big. Really big. Super big. So big that the arch masters at FarmCo. felt they should use the word ‘big’ in its name. Big Barn Arch. A name that conveys….big.
+   [058] 0x7A8A6389752C1900: Not all barn arches are built to be equal. If you want the biggest, the grandest, the mightiest of barn aches then you need THIS barn arch. It is guaranteed to be the best – its name says so.
+   [059] 0x86A70DD02E597E9F: Icelandic design meets country flavor with the Björn Barn Door. These sleek doors have a bold geometric style combined with just the right touch of the back country to make them the perfect first impression for visitors to your home. Not to be confused with the Bjørn Sliding Door, from the Norwegian designers that shamefully rip off Björn's fine products.
+   [05A] 0x863385F37BC32270: The Agricola's Gateway is made from old barn doors with updated modern hardware! With a 500% markup, this piece is well worth the price as a conversation starter and guest impressor! "Hey! Did you know these doors are from an old barn? You didn't? Well let me tell you about them!" You're welcome.
+   [05B] 0x91783FC1309864B2: Add a touch of Western flair to any abode with this classy set of saloon doors. Guaranteed to let lawmen in and keep varmints out!
+   [05C] 0xC93BD44D7C518A53: The finest in Norwegian design takes on the rustic outdoors with the Bjørn Sliding Door. Tempered in the volcanic northwestern region of Norway, lifelong artisans work day and night to satisfy demand for this regal door. Of course, that's not what those Icelandic thieves would have you believe with their imitation line of Björn Barn Doors.
+   [05D] 0x1EB93C171E86D027: After years of research and testing the tensile strength needed to withstand the force of stampede, Grady McPherson has begun manufacturing common household fixtures designed to withstand a rush of wild animals. The Stampede Stopper Garage Door should be your first purchase when living on the range.
+   [05E] 0x31D5FB4AC3FF503C: When it’s round up  time for the little ones in your house, the Round Up Time Door is the perfect instrument to make sure your cowboys or cowgirls stay put for the night. Ain't nothin’ good about havin’ the herd skedaddling about in the night!
+   [05F] 0x730B494094732C36: In need of a quick change of clothes to escape the law? Been on the trail for days with no respite? Do yourself a favor, partner, and lasso one of these Desperado Dressers for a fresh set of threads. Ain’t nothin’ better, less a clean shave, than a new pair of britches for the desperado in us all.
+   [060] 0xD581F4CDD53B4984: This glamorous country dresser is the perfect finishing piece for your dream ranch bedroom. For the cowboy or cowgirl with an eye to accessorize, you'll find ample room for outfits to match any occasion. No matter if it's an impromptu hoedown or just a playful roll in the hay, with the Hot to Trot dresser you'll always be good to go!
+   [061] 0xB635DD0E80DB53AC: Proof that Sims settled in this area in ancient times.
+   [062] 0x1664FE4983E033CD: The fully assembled skeleton of an early Sim.
+   [063] 0xB635DD0E80DB53AF: All that remains of an ancient Sim settler.
+   [064] 0xB635DD0E80DB53AE: The bones of an ancient, cave dwelling Sim.
+   [065] 0x05805030A8812209: Nothing says farm livin' like a Hoofin' It End Table. Reclaimed wood from old barn siding matched with a horseshoe handle make this the ultimate accessory for the townie looking to bring an authentic piece of the country into their life. 
+   [066] 0xE15FCDB651010E66: Cute and cuddly, just like a real cat! And, like a real cat, you never know what kind of trouble this magic gnome will be up to...
+   [067] 0xE155CFB650F8BC94: This magic gnome is a fiercely loyal companion.
+   [068] 0x1BC01ACDAB130DE1: This magical gnome is still as can be. Yet, when you aren't looking, you sense this gnome moves very fast indeed...
+   [069] 0xFB84C34A6D163264: In days past the JRA International Equestrian Center played host to numerous competitions, welcoming visitors from far and wide in races that spanned the entire animal kingdom. As time passed and the novelty waned, the center focused on horses to provide an outlet for local talent.
+   [06A] 0xE2803C4E30044921: "It's not the size of the Equestrian Center, but how you use it." Famous last words from politicians of towns unable to accommodate a full size Equestrian Center in all its stature. Unless you live in Bridgeport - city slickers there just hate ponies and are happy to tell you about it.
+   [06B] 0x08D8FC127B92CE33: Much like the Stampede Stopper Garage Door, this fence has been built with a tensile strength in excess of the brute force of today’s modern stampedes. Whether you’re keeping the pets in or the stampeding herds out, this is the fence for you!
+   [06C] 0x8F4FE4F0938E1A55: The Greenhorn’s Gate is modeled after the famous entryway new cowboys walk through after earning their spurs at the Double Eagle Cowboy College. Just don’t trip, spurs are sharp! Goes perfectly with the Stampede Stopper Fence.
+   [06D] 0x006668656A8214FE: A large fence for ranches.
+   [06E] 0xD73429450323C2EA: This fence is very strong.
+   [06F] 0x6C2096D96C215C5D: Obtain your own self-contained fire starter with this Incinerating Firepit by It's a Blaze Co. Its stone base and open frame provides maximum illumination and an efficient energy conversion ratio. You will definitely want to place this in the center of any living space or outdoor area. Marshmallows not included.
+   [070] 0x9C664ED8F9C571FC: Each stone in the Stonestown Fireplace is geologist excavated and approved. With a rigorous check list, they ensure that each piece is in fact made from real rock. Wow!
+   [071] 0x9DC547889F7A2CA5: All art conveys a message to its viewers, and each one of us is responsible for what message we choose to convey in our homes. The Murally Responsible Fireplace has a safe message asking Sims, "Won't you please warm your buns here?"
+   [072] 0x7908B8689A20C3A8: Sheriff "Hop Away" McGillicutty loved sitting in front of a warm fire after a hard day's work of chasing bandits and herding cattle. In his old age, he often confused jack rabbits for bandits and fat opossums for cattle, but he still enjoyed a good fire.
+   [073] 0xB239ED8C5435DE93: Yum!
+   [074] 0x28CAED488FD6B980: Be prepared to feel the power of this gate! This new Double Bronco Gate is equipped with top class iron material that will deter any determined burglar. It's specially designed emblem truly expresses the beauty and the strength of the bronco just like this gate does.
+   [075] 0x3D663852C1EA68FD: Buy a Click Clack Cutaway and you're buying a piece of history! For a hundred years, the railroad triumphed as the backbone of the economy, until that highway came along and one by one the trains stopped running. Long after it fell into disrepair, an entrepreneur named Jebediah tore up the tracks and used the pieces to build the wall you see before you today.
+   [076] 0xEEA3E16B3FC2422F: This tree is rumored to be haunted! Even the squirrels stay away...
+   [077] 0x06F27967AA36DB2A: These are the remains of a plant that one of your pets ate.
+   [078] 0x0443EF2897A70112: "Hay" is for horses. But "Hay" can also be for Sims looking for a little fun...
+   [079] 0xCBBCE9BEC2D49D21: Store hay here.
+   [07A] 0x98F2D5B3AD8732C3: It's a shack...for hay.
+   [07B] 0x0E389256901EFCA9: Strange creatures reside in the depths of hollow logs...
+   [07C] 0xC865F9572E1A9CEC: How do you get a happy horse? Why purchase them a Horse Ball, of course! Horse balls are big and bright and round. Horse ball roll across ground!
+   [07D] 0xFAB08A28FB3C52ED: It stinks!
+   [07E] 0x9CA75988EC98A895: No ranch entrance is complete without this stately and majestic arch!
+   [07F] 0x937B3BAD5A309C2C: This attractive sign brings a touch of rustic beauty to any ranch or farm.
+   [080] 0x2F68F64FA161E2F4: Need to train your horse on how to jump over obstacles? The Cavaletti jump trainer is the perfect fit for those amateur horses getting ready to compete in jumping competitions. With steadfast training, your horse will be able to leap over more difficult objects.
+   [081] 0x8F958685985CB739: There is nothing more exciting than jumping through a hoop set on fire. Unless you are jumping through a hoop set on fire while riding a horse! Watch out for those flames!
+   [082] 0xB985779DEAED9E44: Continue training with this beginner level jump obstacle. With plenty of hard work, your horse will become the next jumping phenomenon the world has been waiting for!  After mastering this jump, your next obstacle is waiting for you just around the corner.
+   [083] 0x93A534166BD37E0A: Flames! Explosions! Fireworks! Show off your epic jumping skills with this Pyrotechnic jump obstacle. Enough flashy lights and loud noises to rival a travelling circus, this obstacle has it all! Flame-retardant jumpsuit with matching saddle not included. 
+   [084] 0xBC71D16DFA7443AF: This moderately difficult Oxer jump obstacle is for the more experienced jumper and companion. The six bar setup is perfect for conditioning your horse for moderate level obstacles.
+   [085] 0x749EDA4898479F58: The incline of the Triple Bars obstacle has a medium difficulty jump rating. Horses with moderate amounts of experience under their saddles would do well jumping over this type of obstacle.
+   [086] 0x8FD5D21F8634099B: Buckle down and strengthen those leg muscles. Get ready to expand your jump training by jumping over this easy-to-moderate wall obstacle.
+   [087] 0x88A9A21DDE966F03: Horses will think twice before jumping over this beast of an obstacle. Even the most experienced jumpers become intimated and are struck with fear, knowing that they’ll have to clear the Emerald’s Gaze to be considered a seasoned professional. 
+   [088] 0xD83D40F78B284BCA: This Water Obstacle was created specifically for the technically advanced. Only the very skilled will be able to clear this obstacle without breaking the mirror-like reflective water that awaits the jumper and their companion on the other side.
+   [089] 0x2E4848739B5C30EA: Don't let the cute duckies fool you. This Water Obstacle is not easy and should be reserved for the most advanced jumpers.
+   [08A] 0xDEAA39B0A50FF253: Wolfson's is the region's leading facility for genetics research, preventative medicine, and zoological treatment. In an attempt to counter the financial pitfall from treating uninsured patients, the hospital opened the Nardone Memorial Division of Taxidermy, which swiftly proved to be a short lived and unpopular service.
+   [08B] 0xBD9B46566F740A84: We all scream for ice cream!
+   [08C] 0xB89E65C0BBD19389: An ingenious design from your friends at Simina pet products, the Kitty Bag is a colorful cat and kitten enclosure that provides fun for felines and Sims alike! Cats will delight in the cave-like hideaway that allows them to Lure their Sim companions in for a friendly tap or a ferocious scratch! Sims will marvel at the “Awwww” inspiring cuteness of this innovative product.
+   [08D] 0x0905EE48BEE210C0: In an unfortunate misunderstanding of the recent vampire craze, a Transylvanian metal worker had the idea to make it big and put his life savings into creating his new Trilight ceiling light. If only he'd understood English accents a bit better, he would have known women everywhere weren't talking about lighting at all! Ultimately his misfortune is your good luck, as a surplus of these beautiful lights are available at rock bottom prices.
+   [08E] 0xD5BB87AD288EB69F: This lamp was inspired by the wedding cake of King and Queen of Llamaland. In fact, each lamp is made out of petrified wedding cake, coated with shellac: delicious, but not nutritious.
+   [08F] 0x0905EE48BEE210C3: A new decorative movement is sweeping the world: Rustic Modern! Taking the somewhat old and updating it with the ridiculously new is all the rage. This lamp is no exception. Each lamp is constructed from a wheel that is at least 100 years old, coupled with a set of laser-cut lamps that will still be hot and melty upon delivery.
+   [090] 0x35D2A22A69D6BDA1: Tired of those pesky candles jumping off of the candlestick and running around your house dripping wax? Then look no further! This lamp has a lockable cage that prevents any of that unwanted chaos. The Disciplinary Lamp: For candles that misbehave, but still let the light out.
+   [091] 0xBDC7EDB496D377BE: Bring the elegant brilliance of warm lighting into your own rustic kitchen with the Decadent Incandescence lighting solution. You'll quietly laugh to yourself as you insert the incandescent bulbs, with a smile breaking out across your face as you remember a simpler time. Relive the memories, make it a decadent night.
+   [092] 0x63F013B4B976AAC2: Inverted mining carts are used as the base for this delightful lamp! Here's something fun: When staring up at the ceiling, it will make you feel like you have a mine cart filled with shiny gold!
+   [093] 0xC00BB4914EEFA048: Each candle is hung from a sturdy wood post, creating the line of an isosceles triangle. It has often been said that geometry is, in fact, enlightening.
+   [094] 0xEC1FA83610FC3F95: Perfect for illuminating outdoor pathways big or small, This Little Light of Mine is stylish, yet low key. Use it in your garden, on your front walk, in the backyard, just about anywhere!
+   [095] 0x60A551B4F3E17D37: This is a street lamp.
+   [096] 0x9819498361FA9669: Do you enjoy hanging outdoors with your friends on a warm summer evening? How about hanging outdoors with your family catching fireflies? Or hanging outdoors with your sweetheart pretending to watch the moon rise? Whatever kind of hanging outdoors you’re doing, this street lamp is hanging outdoors with you.
+   [097] 0x406582E04978279C: The Libra Lamp is perfectly balanced both physically and spiritually. The manufacturing process includes high tech machinery and low tech paint brushes, then gets a seal of approval and a sprinkling of sacred water from world famous astrologer, Madame Chelsea Sagittarius.
+   [098] 0x214F8AD15753AFED: This little light gives off a cheery glow! All the more cheery because this little light is eco-friendly! The casing is made of buttons. Recycled buttons. Melted, gooey, molten-reformed-into-lamp-metal buttons. Don’t you want one?
+   [099] 0xDD21F309B34DF906: A pretty little light, delicate and small. Landgraab Industries promises that your Sim will love this lamp. And if they don't, too bad. There aren't any refunds.
+   [09A] 0x98CE31325DF9F614: Aged? Weathered? Distressed? Maybe, reclaimed? Whichever way you’d like to describe this replica lamp there is no doubt that it was designed so you could tell your friends you found it at an antique shop rather than the local mall. Certificate of authenticity not included.
+   [09B] 0x7CDE29275ACAB9FE: The Overhang Wall Lamp is the next generation in home décor! Flashy and modern, it is sure to find a place in homes for the next decade or more! Get a head start and replace all your other wall lamps with the Overhang Wall Lamp today.
+   [09C] 0x756A02239D50DC36: This little lamp may not look like much, but our much beloved bunny is very fond of it. He has excellent taste, don't you agree?
+   [09D] 0x2100685CE137AA62: It's amazing how a simple wall lamp can bring a brilliant glow that warms a whole room. It's a good thing you decided to place this in your main living area. And your kitchen. And your bathroom. Heck, you even decided to place one in your garage, didn't you? The Serenity Wall Lamp...may everywhere you go be shiny.
+   [09E] 0x73660018B0721B20: Trying to craft a mood of 'ye olden days' in your home? Using only the finest aged mahogany and handcrafted steel, Le Rustique Lighting can ensure your room feels musty, pale, and older than olde… well, not before the invention of the light bulb kind of olde, but you get the idea.
+   [09F] 0x432272949C20AF08: This rustic wall lamp embodies all that is great about country living. Rural simplicity paired with a homey design will make you feel like you are living on a ranch...without actually being there. A vacation experience in the comfort of your own home! Get The Wrangler's Wall Lamp today, and roam the frontier of the imagination tonight!
+   [0A0] 0xFD2401E634A3903B: Cleaning dirty litter boxes is a chore of the past! The Litter Box of the Future makes excellent use of the most futuristic feature of all - Lasers! Pew! Pew! Cat refuse is automatically vaporized in a matter of minutes! Warning: Vapor may be stinky.
+   [0A1] 0x89BF745B9EEECD14: A pile of used litter, yuck!
+   [0A2] 0x14296A8B64D4C07D: Designed by Mortimer Goth and built in cooperation with Landgraab Industries’ home furniture division, FurnoMax, this comfortable living room piece aims to give you that “gothy” vibe with the quality construction you’ve come to know and trust. Landgrabb Industries - we grab your simoleons, and your heart.
+   [0A3] 0xEB7CBB1D44B8B831: Wheely Bench strives to achieve everything that all other one wheeled creations have failed to do over their 10,000 year history...have a good use. Take a Wheely Bench home today and be one of the first in the history of Simkind to reap the benefits of one wheeled perfection!
+   [0A4] 0x849ADB602CBF8C78: The cutest Magic Gnome ever!
+   [0A5] 0x46A0A737C2F68CC1: This magical gnome is still as can be. Yet, when you aren't looking, you sense this gnome moves very fast indeed...
+   [0A6] 0x6527E9333B91294C: A banner. A big banner. A beautiful banner.
+   [0A7] 0x7DD057D1C19BA10A: A pennant. A plucky pennant. A pretty pennant!
+   [0A8] 0xE14C8D877BF1223C: As an early settler in the region, William Butterfield built his family's mausoleum on the outskirts of town beneath the Hangman's Tree. It seemed a suitable location to be placed in the shade of a tree that bore no life as far back as anyone could remember. The extensive caverns discovered beneath the foundation allow the mausoleum to still be used to this day.
+   [0A9] 0xBC2A200DCABA9C4D: An old mill.
+   [0AA] 0x4BD36034F4C9DB4B: A dark and gloomy mine...
+   [0AB] 0x11AA2FAEA24E24A2: These bones are aged and brittle.
+   [0AC] 0x5399F23A654E38DF: Museum quailty!
+   [0AD] 0x11AA2FAEA24E24A1: What funny looking bones!
+   [0AE] 0x11AA2FAEA24E24A0: These bones are large, but light weight.
+   [0AF] 0x829B7AEB4E412DB1: This is a Bird spawner.
+   [0B0] 0x829B7AEB4E412DB2: This is a Bird spawner.
+   [0B1] 0x829B7AEB4E412DB3: This is a Bird spawner.
+   [0B2] 0x829B7AEB4E412DB4: This is a Bird spawner.
+   [0B3] 0x1150C06DAC459789: This is a Bird spawner.
+   [0B4] 0x1150C06DAC45978A: This is a Bird spawner.
+   [0B5] 0x1150C06DAC45978B: This is a Bird spawner.
+   [0B6] 0xD24F9C64B0B8252F: This is a Lizard spawner.
+   [0B7] 0xD24F9C64B0B8252C: This is a Lizard spawner.
+   [0B8] 0xD24F9C64B0B8252D: This is a Lizard spawner.
+   [0B9] 0xD24F9C64B0B8252A: This is a Lizard spawner.
+   [0BA] 0x7008DCBA17104BED: This is a Rodent spawner.
+   [0BB] 0x7008DCBA17104BEE: This is a Rodent spawner.
+   [0BC] 0x7008DCBA17104BEF: This is a Rodent spawner.
+   [0BD] 0x7008DCBA17104BE8: This is a Rodent spawner.
+   [0BE] 0xF1250C1B18D2940B: This is a Snake spawner.
+   [0BF] 0xF1250C1B18D29408: This is a Snake spawner.
+   [0C0] 0xF1250C1B18D29409: This is a Snake spawner.
+   [0C1] 0xF1250C1B18D2940E: This is a Snake spawner.
+   [0C2] 0xF1250C1B18D2940F: This is a Snake spawner.
+   [0C3] 0xFF57AEF7A8DFFEAD: This is a Turtle spawner.
+   [0C4] 0xFF57AEF7A8DFFEAE: This is a Turtle spawner.
+   [0C5] 0xFF57AEF7A8DFFEAF: This is a Turtle spawner.
+   [0C6] 0xFF57AEF7A8DFFEA8: This is a Turtle spawner.
+   [0C7] 0xEE1E92826C7F9CDD: Mirror design has become extravagant over the decades, so much so that it can be frustrating to find the perfect frame to fit your desired decor and budget.  Don’t worry! Now you can just get all functionality of any and every mirror, with the Overly Simple Standup Mirror. This is the most cost efficient mirror out on the market!
+   [0C8] 0x65C5619D2D30321C: With all the obvious benefits of binding a mirror in leather, it goes without saying that this mirror is not only functional, but stylish to boot! Who would have ever thought that a leather bound mirror could reflect as well as one that wasn’t?
+   [0C9] 0x19CBA0D78F2B28D5: Entrepreneur Darris Teeter spent years attempting to expand his line of gourmet grocery stores. Unfortunately every time a location opened in a new community, people lined up thinking it was a trendy new movie theater! After years of frustration he succumbed to public perception and restored this old theater to its former glory, branding it with his infamous name.
+   [0CA] 0xA7262D725D63A543: Our favorite shades of the color spectrum!
+   [0CB] 0xA7262C725D63A38E: This is a Bird spawner.
+   [0CC] 0x5A73702EEF8DC3DC: These are the shredded remains of a newspaper.
+   [0CD] 0x130C189F1BE28143: This truck has seen better days.
+   [0CE] 0x389D3AE05ED34CCA: Handcrafted by mechanical artisans in the southern regions of Champs Les Sims, each and every patented Woah, Bessy! painting is unique! Well, only 0.01% unique, as they are churned out twelve at a time by the machinery.
+   [0CF] 0x8AB1E124C6EA0D9B: This sweet little kitten is looking for a home. He has big, beautiful eyes and an even bigger heart. Won't you fill his heart with love? Won't you take him home with you today?
+   [0D0] 0xDE193363FC482226: Sorcery isn't all magic mops and floating buckets - it is cuddly animals, too! Add enchantment to any room with these gorgeous portraits of magical companions.
+   [0D1] 0xDE193363FC482225: Wrought with wickedness, these paintings give a glimpse into the darker side of the magical arts. Fire, Dragons, and dire Chinchillas, oh my!
+   [0D2] 0xB0B69FC1CBC4AD87: Featuring life like multi-colored lasers and a spirited rainbow, this flashy little piece will make a wonderful conversation starter at your next cocktail party or rave.
+   [0D3] 0xE07DD59AF89BCDE7: My Favorite Film has plenty of action, a little bit of romance, and features stunning filming locations!
+   [0D4] 0x5772DCAFB24EF868: Cult Classic Films may be a little off beat, and may not feature the biggest stars, but they are still quite memorable! I can watch them again and again and again...
+   [0D5] 0xDADFFBD0321AB450: A cat has many dreams, and this cat has one very special dream...to nom on a tasty grilled cheese sandwhich! Grilled cheese...it's not just for Sims anymore.
+   [0D6] 0x9AE688E01803986A: Is there anything cuter than small animals you ask? Of course there is! Young small animals! Place this painting in your house today to remind you that no matter how cute you think your small animal is, there is a younger, cuter animal out there somewhere.
+   [0D7] 0x4D0B19FD9CFC3B6D: Hear the chirp of crickets and the mourning howls of coyotes. Let your eyes roam from one end of the desertscape to the other. Smell the aroma of the cactus flower wafting across the sand. Touch the rough grain of the pine frame. Taste…well, no. This painting only embodies four of the five senses.
+   [0D8] 0x3E702C8ECF5B6823: Can you tell what this is a painting of? A fool could tell you right off the bat, but he’d be wrong. Cowboys have been pondering this image for decades. Perhaps you can figure out just what it is you're supposed to be looking at?
+   [0D9] 0xFFE629F2F16D5C67: After being lost and alone in the northern plains for almost 6 months legendary cowboy Alfonso El Dorado returned a changed man. Without his horse and hat, Alfy (as his momma called him) took to the brush and canvas. These paintings are the only remaining testament to his cowboy legacy, because his sculptures were used for target practice.
+   [0DA] 0x41837DCA2181F896: If a fluffy feline is all you require to fulfill your calendar dreams and desires, then this Kitty Calendar was made just for you! Cuddly kitties abound in this lovely organizational wall piece. Your heart will melt as you gaze upon month after month of sweet kittens and cantankerous tom cats!
+   [0DB] 0x41797FCA2179A7A4: If a Sim's Best Friend is all you require to fulfill your calendar dreams and desires, then this Canine Calendar was made just for you! Noble pups abound in this lovely organizational wall piece. Month after month of boisterous barking beauties will greet you as you pencil in appointments and revelries.
+   [0DC] 0x4C1A80E31BBF93B1: If a noble steed is all you require to fulfill your calendar dreams and desires, then this Horsey Calendar was made just for you! Equine beauty abounds in this lovely organizational wall piece. Swoon over fillies and foals while you keep track of mundane tasks.
+   [0DD] 0xFB8CA3F798A3C021: Text deleted? Who’s messing with the copy? This brand new poster entitled Three Dog M[TEXT DELETED].  Grrr! Look, there are three dogs, there is a planetary body and thus it has been entitled Three Do[TEXT DELETED]. Argh! Can we please not edit the copy!? It’s a poster of three animals, there happens to be celestial object… you might even say moon. Moon. Now you’re ok with moon!? Three [TEXT DELETED]… seriously?!
+   [0DE] 0x316923B427E77ABD: This collection of frames comes straight from grandmother Alberta Werthington’s house. Alberta always prided herself on the classic arrangement of the frames; an arrangement that took her 5 years of staring at the wall.
+   [0DF] 0xA0148C3F2326FFBB: Deep in the undergrowth, natives silently stalk the Simadonian Python, waiting for the great serpents to shed their skin. It is whispered that the beasts only shed twice a year on nights with a full moon obscured by rain clouds. The Simadonian natives gather the delicate skin and quickly seal it behind glass before it flakes away into dust. From Simadonia to your living room.
+   [0E0] 0x3CEABA5672CE90C5: Bow wow wowzer! When it comes to top of the line doggy and kitty comfort, look no further than the Bow Wow Wowzer Pet Bed. It'll put a little wowzer into the dreams of your pets!
+   [0E1] 0x51EC03E69A5CCCBC: A really swank pet bed, so your pet can sleep in style.
+   [0E2] 0x67976885E8874A7D: Size isn't everything when it comes to a pet, but it is when it comes to a pet bed! Would you want too big of a bed? Ok well maybe, but your pet certainly doesn’t! Get this bed for all your lil' critters.
+   [0E3] 0x12C7057C544613D9: Fear not, this "bird cage" won't be tackling any issues of morality within society, and it's doubtful to provide many laughs either. What it will do though is provide an excellent home for your feathered companion, be they large or small. The bird cage features a very secure latch - just the thing for the household that also has hungry cats on the prowl.
+   [0E4] 0xD9CD927CC4F1C265: A bird tree is the perfect choice for the discerning - and trusting bird owner. Give your bird the freedom to spread their wings on this spacious tree. The steep price means you're purchasing a truly authentic piece; hand crafted from African Rosewood that was illegally harvested and exported from deep within the Congo Rainforest. Don't worry, your feathered friend may talk but they'll never tell!
+   [0E5] 0xB8975DE4FF4A1555: Give your pet a pet bowl that provides high quality sustenance and never needs refilling.
+   [0E6] 0x76764BC20404EB0C: For the undiscerning palette any grub will do. The Cheapo Chow Bowl is perfect for vittles that are unrefined, unaesthetic, and unidentifiable.
+   [0E7] 0x0B3ED276D77B9F1C: When it comes to top of the line pet dining, look no further than the Bow Wow Wowzer Pet Bowl. Unrivaled in both looks and style, this is the pet bowl for the discerning pet in your household.
+   [0E8] 0x9081A5330780317C: The Moderate Mayflower promises to deliver a sufficient, yet moderate, amount of food into the port that is your pet's mouth. Trust no other than the Mayflower to get the job done.
+   [0E9] 0x68E4C88EB333985A: Every day is a new day! Why worry about what happened yesterday, we don’t. With our patented paper rubberization formula, we recycle yesterday’s newspapers into industrial strength Rubatonium and instead give it straight to the dogs! Rubber and paper together as nature intended.
+   [0EA] 0x8C8AC8B6858E3886: A scrap of food.
+   [0EB] 0x2581388789B2B64E: Hand crafted to resemble some of Twinbrook's cheapest residential architecture, give your pet an abode that's just above cardboard! Complete with shingled roof!
+   [0EC] 0x48B227C4228C4378: Hand crafted to resemble some of Twinbrook's finest residential architecture, give your pet the best in multi-level living with the Twinbrook Tandem!
+   [0ED] 0xE14F65496571236F: Quick and easy way to clean your pet!
+   [0EE] 0x0AB0A2A751E9BEA4: Sir Bricks-a-lot Jr, from the same folks that brought you Sir Bricks-a-lot.  What could be more fun than a brick?  Nothing!  Sir Bricks-a-lot Jr, the cuddly wubbly brick for the whole family.  Now with 50% more wubbly!
+   [0EF] 0x86123D0770D54050: Not long ago there lived a fish named Fred.  Fred was a happy fish.  One day while Fred was leisurely swimming along enjoying a sun bath, he found himself hit in the head by a Gonk Rock.  And now Fred is dead, but the rock lives on…  it lives on for you.
+   [0F0] 0x68E8F98B2FE36428: A shiny ball of foil!
+   [0F1] 0xFA31422F0C48F9B0: A discarded piece of paper.
+   [0F2] 0xF470CDB7F2DE1606: A plastic cat toy.
+   [0F3] 0xD4CE598ADBC2C334: Yarn is soft and stringy!
+   [0F4] 0xFF58937B4CFD51CE: Pet Toy Crate
+   [0F5] 0x58177D6943FAED6A: His name is 'Mickey.'
+   [0F6] 0x6474A930BC6124B0: Redeem this Clone Voucher at the Science Facility to receive your very own clone!
+   [0F7] 0x4D34F136102B06FC: Azaleas are perennials, coming alive and blooming year after year. They need watering only during droughts and require almost no fertilization. A sturdy choice for any Sim lacking a green thumb.
+   [0F8] 0xEC768387281AA300: Heather plants should be pruned each year immediately after they have finished flowering.
+   [0F9] 0x71822F3AA9495133: Weeds are an unsightly nuisance! They grow everywhere a Sim doesn’t want them to grow!
+   [0FA] 0xF28E4D92E3F673A6: The only thing worse than ordinary weeds are dry weeds, yuck!
+   [0FB] 0x9FCEF98A408D6A60: SimKing's advanced kitchen technology and design brings you this southwestern-style ice box. Live life in the country without sacrificing the conveniences of modern technology. "Rough it, but don't" is their motto.
+   [0FC] 0x6E1FD4ED4665E0E9: Register used for purchasing items for pets.
+   [0FD] 0xB5C794AEA782B379: A great gathering once occured in the shade of this rock.
+   [0FE] 0xB5C494AEA7807D40: Named after the great explorer!
+   [0FF] 0xB5C494AEA7807D42: This rock was once used to mark the border between a ranch and a highway.
+   [100] 0x45FFDD94DAA5B052: The riddle has been forgotten, so sad!
+   [101] 0x45FFDD94DAA5B051: This rock is round.
+   [102] 0x45FFDD94DAA5B050: This rock is large and bare.
+   [103] 0x45FFDD94DAA5B057: Reptiles roam in the shadows.
+   [104] 0x64E9B53928E0659A: Snakes live here. Maybe.
+   [105] 0x852F1F35D4338B4F: It's a good idea to have a salt lick where your horse has free access to it, whether that's in his pasture, or in his stall. He'll lick it when he wants to, probably when he is hungry.
+   [106] 0xA010DE2A903DBD43: A little taste of paradise disguised in the form of a sparkling salt lick.
+   [107] 0x692C05B9BCDEB865: Crestview was a school founded on a single strong principal, the center for learning through writing. While noble in concept, this tactic ultimately proved futile in a ranching community that needed able bodies and strong workers. A tax was imposed in an attempt to rectify the situation, resulting in the construction of a world class sports facility attached to the school.
+   [108] 0x80A988516C341098: When cats feel the need to scratch, your furniture is in grave danger! Protect those pricey sofas and chairs by purchasing a scratching post for your kitty. Praise your precious pet when they rake their claws against this sturdy post, and scold them when they go after anything else!
+   [109] 0x904D92781EFE6168: Scrumptious and nutritious this hybrid pet chow is adored by dogs and cats alike! Every morsel is full of tender meat and dehydrated vegetables, providing your pet with the best nutrition Simoleons can buy. From our friends at Simina. 
+   [10A] 0xA7E519F4480958AC: Animals can accumulate at a rapid pace. If you’re short on space the best solution is to stack the animals, one on top of the other. The biggest should go on the bottom, of course, and the smallest on top. In this manner you will save space. And more space means room for more animals!
+   [10B] 0x85D1980BC04B1205: The English knew a good saddle when they saw one, so when they saw this one they named it after themselves so that no one could doubt their claim of discovering it! Did they really discover it? Who knows! But it still bears their name.
+   [10C] 0x9E853D78DF9C0306: This sturdy sign indicates that something remarkable once occurred at this very spot. Or near this spot. Or across the ravine from this spot. Maybe the spot is now covered in water?
+   [10D] 0xD25F4ADEA743C1DB: Jumping Jessica, legend of the old west! Equine mistress and horsewoman extraordinaire, Jessica was legendary for her ability to ride any horse, anywhere, at any time – and to guide them into jumping over seemingly impassable, impossible, implausible obstacles! This is a replica of her lucky jumping saddle as preserved, presented, and premanufactured for your viewing enjoyment.
+   [10E] 0xB7ABB03F7D5CCA07: The same folks that brought you such miraculous space saving concepts as "The Box and the Hollowed Out Ottoman" now bring us the latest advance:  STACKING!  "2 Buckets in 1" is representative of this life changing concept.  Embrace its revolutionary simplicity.
+   [10F] 0x1011526CDB88BEE0: Recovered during the recent dredging of the East River, these authentic milk barrels from the early ‘20s can now be yours.  Be the first to re-open these treasures from the past.
+   [110] 0xFA15861D07FDCCDB: This saddle was worn by champion race horse Black Thorn! It is said that Black Thorn never lost a race, that he was the fastest race horse ever seen east of the Mississippi! It still has a bit of luck in it, and will bring victory if worn by the proper stallion.
+   [111] 0x29152D1072573878: These crates may appear to be decorative items, but let me tell you, hauling cargo across the great western expanse used to be messy and unorganized until the invention of these handy, organizational crates. If these crates hadn’t been shipped to your home in other Wayne’s Crates, I reckon they would have been lost along the way!
+   [112] 0xB7C8FFFF323AE6DE: This is an abstract sculpture of Palomar, the first horse ever to be elected to Parliament. Not only was he the first horse in the history of the world to hold a government position, but he was the first member of parliament to vote “Nay” on every single issue that came before him. The people of Simlandonia will think twice next time a horse runs for office.
+   [113] 0xE319EF0E9BEF7D80: Hedera Simitae is a legendary ivy long sought-after by houseplant enthusiasts. The wilder species is known to climb away from pots until it takes root on the ground, letting neither tile or carpet or stone stop its growth. An equally legendary gardener tamed the ivy, and now you can have a piece of epic house-plant history.
+   [114] 0x4DBB4FF32E2419C3: In this world of black and white, sometimes it’s good to introduce some shades of gray in your life to change things up. Thus was the inspiration for the Shade of Gray umbrella; for those who want to be out in the sun, without being out in the sun!
+   [115] 0x12E6252D921DEB42: When Old decided to design and produce a decorative wheelbarrow, he knew it had to be one thing; Cool! What else could set it apart from the monotony of the decorative wheelbarrow world? Old struck a chord in our collective heart with this time-honored design and avant-garde finish. Get one today!
+   [116] 0xCF57365A541A8B00: Equine of Excellence is a fabulous sculpture that displays the epitome of wisdom and fame. Its magnificent large stature and wings bring awe to those that gaze upon it.
+   [117] 0x04113DB8E827790E: There once was a sawhorse that was old and sad. Its wooden beams were brittle and drab. What a sorrowful sawhorse! What a dark fate! Alone in the barn with the hay it does wait.
+   [118] 0x4DCB0622587FCE29: Fred was the premiere model of tractor from FarmCo. Last century. Now Fred is covered in dust and rust.
+   [119] 0x3CF32F1D4DEDFD06: Insert tree. Watch it flourish. The city is more beautiful. The air quality is improved. Why didn't we add trees sooner?
+   [11A] 0x095B5C6361A81B7B: This wagon wheel reproduction has been crafted from its very own piece of timber; lovingly shaved, sheered and carved until all that remained was a pair of perfect wagon wheels.  Remember the past by harvesting our future.
+   [11B] 0x4C5575AF7D7395F9: Now with 100% less horse for your safety, the Standing Riding Horse sculpture provides a unique opportunity to visualize your riding experience long before you climb aboard the real thing to risk life and limb.  Prepare before you dare!
+   [11C] 0x60C44DC758E03943: Brushes, lather, a hoof pick…all the things your Sim needs to keep their horse’s coat beautiful and clean! A clean horse is a happy horse. And we all want a happy horse, right? A sad horse…well, that would just be…sad.
+   [11D] 0x6D24015FE98598E4: These ultra pellets are biodegradable, squishy, and they smell nice too! This pet bedding is flexible! It will keep reptiles warm at night, and rodents entertained during the day! Birds love to play in it! The benefits almost outweigh the price tag. Almost.
+   [11E] 0x70DAC7051895376B: The daily walk is the highlight for many a dog! Keep them wondering when it will occur by furnishing your home with multiple Pet Leash sculptures. Also makes a great paperweight.
+   [11F] 0x138186B7FD10447F: Handcrafted by an old sea captain who was known only as "Salty." Some say he was really grumpy, some say he was seldom kind. But everyone agrees that his handcrafted flower barrels are top notch and sought after by flower barrel collector’s the world over.
+   [120] 0x508CFDB65C11908C: Pudgy is a cute pony who has big dreams of winning the Great Pony Race. Here, he shows off his victory gallop while daydreaming of the big day he crosses the finishing line.
+   [121] 0xCF0ACEC353A87789: The most prestigious of awards, the J. Black Cross-Country Cup symbolizes everything a champion horse and rider could hope to attain. We honor the memory of Mr. Black - a true connoisseur of the equine, with this glistening trophy that demonstrates the pinnacle of competition.
+   [122] 0xF88E3457F6674EA9: The Lepping Classic Trophy is steeped in tradition and spoken of in hushed whispers amongst those in the equestrian community. The finest gold, silver, and copper are imported annually from the foreign lands of Al Simhara. After all the necessary resources have been gathered, the creation ritual can begin. Forged deep within the earth by a secret society of jockeys, after precisely 29 days, the group emerges with the year's most prized possession in the world of Show Jumping.
+   [123] 0x06B66E470F8B4080: Originally founded in the town of Twinbrook, the National Association of Thoroughbred Horse Championship Racing found that they were losing popularity when compared to the blistering action and explosive crashes of stock car racing. After a short stint involving whips and brutal chariot races, they fell back on their long standing traditions with the re-introduction of the NATHCR Championship Trophy, the most prized possession in the eyes of jockeys worldwide.
+   [124] 0xDBDED6DA9F41C300: In ancient lore of Simlandonia, Llama ranchers believed a mystical stallion would lead them in the direction of fertile grazing lands. Symbolized in this weathervane, today’s Llama ranchers can look to the wind to tell them where the herd should graze.
+   [125] 0x54837A7C1D8954B6: This little wooden pony is brightly colored and cheerfully attired. He was carved in the spring, and painted in the summer. In the fall he became a girl child’s favorite plaything. But now, winter is coming. Will this little pony keep his bright colors through the bitter winds of winter? Let us hope so.
+   [126] 0x5F7EC245261FEEEA: Ducky is plucky and yellow and cute! He roams the world looking for fun loving Sims to befriend. Won't you take Ducky home with you today? It would make him soooo happy!
+   [127] 0xC188664306A2A533: This giraffe can look into the second-story window of a doll house without even having to stand on his tiptoes! Jeffrey is soft with a spotted coat and a lumpy head, just like a real giraffe!
+   [128] 0x2D25BC74318216F7: Nothing says 'I love you' like the gift of a soft and fluffy unicorn plushie! Enchant that special someone, or reward a diligent daughter with this extra soft, extra squishy, extra fluffy unicorn plushie! Imaginary rainbows and butterflies included.
+   [129] 0x75F34532480ADC43: Is it a cat? Is it a vase? It’s hard to tell, but it certainly looks awesome! Place this object in your home today to totally trick out your pad with a ferociously feline vibe!
+   [12A] 0x413B8D10189B4E6E: Only naturally growing inside of old gum trees, the Ranch Flower is a rare sight to be seen! Arranged tastefully to symbolize its natural habitat, this flower will surely impress any guests you have in your house.
+   [12B] 0x5F21E82275C5B8DC: Sculpted in the likeness of Palomar, the once famous horse who became a member of parliament, this sculpture should serve as a reminder to all people of Simlandonia to never again elect a horse to a government position.
+   [12C] 0xEAEC3567289CDBFB: Industrial strength rope powerful enough to stay a stallion, yet flexible enough to finesse a filly.
+   [12D] 0xF5D17898BFB2C98C: A bridle must be individually fitted to each horse’s unique head, and we here at Buntington believe that a comfortable horse is a happy horse! And what’s better than a happy horse? A stylish horse! Yes, our bridles are not only comfortable but attractive too! Bridles by Buntington…happening headgear for headstrong horses! 
+   [12E] 0x1DB1D130E4D93194: 2-Shoe is the official symbol of the Bi-Legged Derby, known mostly for its clip-clip-jump style of racing. It has the side benefit of only requiring the horse to wear two shoes. Which, to the joy of many a blacksmith, has been attributed to a dramatic decrease in shoulder injuries.
+   [12F] 0xAA8E66C87075A4E0: Gas prices have driven many an economical monstrosity to the top of the scrap heap.  Among the heap risers, are the town cars of the great lone star state.  Thousands of longhorn ornaments have been rescued from the maw of the crusher.  Get yours now, before the bulls come calling!
+   [130] 0x0629E4148623257E: Looking to complete that Tack-EE designed look in your house? Look no further than the Pet Plates! Honor your pets with these fine Tack-EE designs, because nothing screams Tack-EE louder than these plates!
+   [131] 0xAD5DE46370FBEED4: It's amazing what can be found on the back roads of this great land of ours! Rocks, trees, some dirt, and maybe if you look hard enough, you can find A Little Bit o'Country. But if you don't, we did! We've dusted it off, added simulated rust, dents, scratches and just about everything you need to make you feel country... without all that outdoor mess.
+   [132] 0x57C1EC678444AE98: Aromas from the plains of the Serengeti, oils from the rivers of Egypt, and fabrics woven by the hands of the world's finest artisans were our inspiration!  Our simulated accoutrement technology is ready to be put to the test in this first ever display for public acquisition.  Warning:  All shelved items are for display purposes only.  Please do not ingest display items or come within 2-1/2 feet of the display.
+   [133] 0xD485A215F58C8350: The wheels on the wagon go round and round, up and down, around and around…the wheels on the wagon go round and round…until they all fall off!
+   [134] 0x1E38DE8523DAA8C4: Chic, sophisticated, alluring, the G-Class shower by Ele-Gante has been named the best new luxury shower in its class for the 9th straight year.  J.C. E'Lane, director of public relations, commented: "She's a keeper!" at a recent press event and truer words could not be found.  The G-Class, a first time experience, every time!
+   [135] 0xA36CA4EF3AB09E7C: Ponies! Ponies! Ponies!
+   [136] 0x5F1CF4A7D7301460: Simina Pet Chow, making pets happy and keeping them healthy.
+   [137] 0x9AA4E54922C86A1F: They can't wait to share your Simoleons!
+   [138] 0x9D42ECF2BDC10287: Vets help keep pets healthy!
+   [139] 0xDF4F4CCCE2DB99AC: This sign will help you find your way!
+   [13A] 0x263D616916238F56: Be sure to watch for animals crossing the road!
+   [13B] 0xC44506E8DE224E61: Llamas are forbidden.
+   [13C] 0x34CDE4D15E44796F: The Flow!  Not one but a TWO handled Faucet?  Oh yea!  Hot AND cold water?  Of course!  A wash basin WITH a drain?  Why not.  WOW, The Flow has got it all!  And you know what?  YOU WANT IT!  And if you act now, we'll throw in, at no extra cost to you, a money back guarantee(guarantee offer subject to be discontinued at any time).
+   [13D] 0xCC28476561FAF035: In a shocking display of good will and cooperation, the furniture firms of Björn and Bjørn set aside their decade old rivalry to collaborate on this new age sofa. Presenting themselves as the unified front of Bjorn, their top designers submit this as a shining beacon of the future of furniture in the 21st century. From the city to the country, the retro cushions meld with a clean metallic frame to help create the ultimate in modern living.
+   [13E] 0x7F53FF30381E0D1D: Otherwise known as Bigfoot, the Sasquatch is a legendary creature that lurks deep in the forests and mountains. He is hairy and large, but known to be friendly. He is, however, photo shy.
+   [13F] 0xFC602D530C1BD671: This stone is hard and cool to the touch.
+   [140] 0x8D07E15888565014: A dog's best friend.
+   [141] 0xFC602D530C1BD672: This stone is smooth and partially round.
+   [142] 0xFC602D530C1BD673: This stone is not smooth to the touch.
+   [143] 0x260F5BE6EBE7A9FF: "Faux Stove? Faux sure!" That catchy marketing idiom adorns the windows of the appliance stores, and fills the airwaves until you feel compelled to learn more! And learn you shall! Is it a stove? Is it a cabinet? Well… one thing is certain, it's the absolute perfect fit for the kitchen of your dreams! Buy one today and you'll be cooking in "faux" time!
+   [144] 0xA0145EC70B7165DF: Place this gnome on your lawn to lure stray cats to your yard, or keep them away!
+   [145] 0x37405EEC81862A88: Place this gnome on your lawn to lure stray dogs to your yard, or keep them away!
+   [146] 0x1ACD6DA397DB2937: Place this gnome on your lawn to lure wildlife to your yard, or keep them away!
+   [147] 0xC261EA3395002736: A clumsy ranch hand's loss is your gain! Old MacGilscarbo gave up on fixing that rickety old gate years ago. On its last legs, the gate conveniently fell upon a nearby trough. MacGilscarbo's wife never had a more sturdy coffee table since.
+   [148] 0x0CA4F32229B0E553: Have you ever seen a gnome with a blow torch? Neither have we. But leave a 1/2 ton of scrap metal in a room with six or seven garden gnomes overnight and you'd be surprised to find a table the next day (we were)! Those gnomes took a whole room of scrap, worth nearly a million Simoleons, and created a table worth almost nothing! And why do we keep storing the garden gnomes and scrap metal in the same building!? ...we're broke.
+   [149] 0x028874639726D8EA: This dining table is made from the sturdiest and heaviest wood. In fact, each table weighs as much as a small pony! To add to your bragging rights of owning the world's heaviest table we've included heavy iron brackets that hold the table together!
+   [14A] 0x1F2133C8F8E31298: A newcomer to the craftsman stage, John C. Vaugn has turned his attention away from his former pursuit of involuntary home goods redistribution, and instead has chosen to focus on his institutionally sanctioned pastime, building furniture.  The "I-double D-I" End Table is John's first foray into the field and is made from recycled leg restraints and riot squad shield glass, from the very institution that he called home for the past 37 years.
+   [14B] 0x1CE146821B9ED23F: Every Cowgirl needs a trusty end table! She can store her boots, her spurs, her hat, her toy ponies! The possibilities are as limitless as the frontier. Yee-haw!
+   [14C] 0xB26F1C7CA098FFB4: My parent's progeny, Peter, preferred a plateau-like pulpit to promote his potted plants, platter of parquetry or other parallel playthings.  And if it pleases you to picture such pursuits as you place your own potted or plattered paraphernalia, then perhaps you should pride yourself to purchase the Perfect Pedestal, and point out to your partner it's "Peter Preferred!"
+   [14D] 0x9CE098A44671096F: Beautiful from far away, but hard to see up close...
+   [14E] 0x3E3C3A0E36A97037: The perfect way to recreate a natural habitat for your pet lizard!  The Lizard Terrarium has just enough room for lizards to hang out and soak up some artificial UV rays.
+   [14F] 0x51F82A8F41823305: The Rodent Terrarium includes all the essentials a rodent needs on a day to day basis: a wheel, a place to climb, and a place to hide!  What more could a rodent ask for?
+   [150] 0x8CDC8C9E26163AE5: The Snake Terrarium is essential for any Sim who plans to own a snake, while providing plenty of room for it to slither around.  After all, a snake running loose in the house isn't necessarily safe! 
+   [151] 0xAA5EB96FEB478821: Whether your turtle wants to soak up some "sun" or go for a swim, the Turtle Terrarium is the perfect place for it to reside.  Your turtle should feel right at home!
+   [152] 0x58C64CFDA2E7D267: Whatever your pursuits may be, the Reinforced Personal Stage is there to keep you put no matter what dangers may lurk!  Polyurethane ribbing and our patented "Bolt and Nut" securing method are guaranteed to prevent any of the usual malfunctions you might find with lesser brands.  Fear not friends, you shall never find yourself face first on the floor from unwanted bowl separation!  Bowl and tank, together as one... as was intended by the natural order!
+   [153] 0x217BE544A84139D7: Dinosaur teeth! 25 simoleons! Today only!
+   [154] 0xEA0AFC7B6113C11E: All that remains of a well loved pet toy.
+   [155] 0xD7838A388E8102CD: On your mark, get set… Go! The Dashing Training Post is a great way to condition your horse for those Racing and Cross-Country competitions. Horses specifically trained with these posts have been rumored to becoming faster than a speeding bullet! Ok, well maybe not that fast, but close enough!
+   [156] 0xA9829568AD6C49D0: Another breakthrough in style and functionality! After researching the behavior of children stuffing everything in their closets and under their beds instead of cleaning their room, SimKing brings you their latest line in trash receptacles that guarantees refuse to be out of sight and out of mind until the next trash day.
+   [157] 0x1FD7F8140081C2C6: Did you know that Cottonwoods can be either male or female? It is the fluffy white seeds produced by the females during early summer that give the tree its name.
+   [158] 0xB2BC5D09E3828776: The Yellow Cottonwood is a lot like a regular cottonwood. Only different. And our differences are what make us special.
+   [159] 0x3F48A5F50FF15C68: The slippery elm is a favorite of the Mayor of Sunset Valley, who is also rumored to enjoy eating slippery eels. Fortunately for the trees, they make for poor sushi.
+   [15A] 0x1427ACD2380B8B93: The Eucalyptus is known to be the favorite food of the koala! Unfortunatly there are no koalas in Sunset Valley...
+   [15B] 0x6E942CCC5949B026: This white fir tree was a favorite of the hill tribes that once roamed the heights above Twinbrook. They carved weapons and ornaments from its boughs, used the leaves to soften their beds, and the bark for medicinal reasons.
+   [15C] 0x3078282561798564: What a delightful tree! Gazing upon it brings up happy memories of the Fall season.
+   [15D] 0x0203B9D3BFB68478: Purely decorative.
+   [15E] 0x3BD7B8541D8DEE22: This water trough may look decrepit and unrefined, but throughout the decades thoroughbreds, stallions, and uncountable derby winners have partaken in its offered refreshments. It’s the quality of what’s inside that count, and the water is always cool and sweet.
+   [15F] 0x97A8079E2F235FC1: A pile of vomit, ew!
+   [160] 0x1EDE54734E964452: An authentic covered wagon.
+   [161] 0x77B845710152BA5C: This wooden wagon broke long ago... 
+   [162] 0xF324D4269FF70E03: This is a round water tank.
+   [163] 0xFDBB0F9FD9EE120B: A water tower is a large elevated water storage container constructed to hold, you guessed it, water!
+   [164] 0xD592B1C8D06F66B4: A windmill designed for Rooster Farms.
+   [165] 0xC88B566E1B78523D: This windmill lacks blades.
+   [166] 0x2F158ABCB00CA4AB: From rustic bungalows to grand ranch houses, these rustic windows provide copious amounts of natural light from dusk till dawn.
+   [167] 0xC6C5E0FFF84B2FE2: From rustic bungalows to grand ranch houses, these rustic windows provide copious amounts of natural light from dusk till dawn.
+   [168] 0xEF152DED312DAA1D: This Double X Window, an exciting new variant of The Classic X Window, will keep you awake at night wondering why you ever thought just one X would do.  Remember X is better with two, or even more when you pair it with The Classic X!
+   [169] 0x7186330F6DAF0DB4: An abstract interpretation of western idealism, Window with Boards attempts to capture the inherent conflict of the inner and outer spirit of the self.  Its simplicity compels you to look beyond its fragile glass shell, while the boards stand firm with their rigidity.  The window constrains you!  Window with Boards is the masterpiece every home should have... no, what every home needs!
+   [16A] 0x53B6B81E4F0EA803: Nestled within an aged wood-like material guaranteed to be nearly 99% perfectly harmless and pieced together with precision using 2-1/4" recycled nails salvaged from the depths of the icy northern waters, this window is lovingly hand etched by machine controlled laser systems.  Nothing says superior craftsmanship better than an assembly line of finely tuned robotic arms caring for every detail of your window.
+   [16B] 0xF092300BFC7117B1: Kyle was a master window builder when the world of windows was new. This window is his greatest creation. His brainchild. His legacy.
+   [16C] 0xB9987367EA5CB0C8: It's big, it's bold and it's in your face!  Now guaranteed to let in 10% more light than ever before.  Remember if it has to be an X window, make sure it's The Classic X.  Anything less is just an overhyped glass wall allowing the sun's rays to pass through its surface with minimal refraction.
+   [16D] 0x72DC67579C608CF6: This potion will magically turn back the time on your pet's life. Here's to starting over!
+   [16E] 0x51EA93AC012B82FD: Subterranean Simulation Device
+   [16F] 0x296438E7DF2D4A5F: Backdrop
+   [170] 0x9B789E5CDE3DCAE5: Old Barley's Lucky Barstool
+   [171] 0x3BB7266BD4243937: The Porcelwood Bathtub
+   [172] 0x77723FDE24B1B89C: Pre-fab Bacon Bed
+   [173] 0x57E88CF1C9CC8483: Rancher's Bed of Dreams
+   [174] 0x72896151ABA283CC: Bed of Innocence
+   [175] 0xD92CF8A3FBA2B749: Hueber Associates & Kim Gould's Steakhouse
+   [176] 0x60136FF1CBA3332B: Don Libro's Bookshelf
+   [177] 0x07946C51F584A38E: The Sturdy Gurdy Bookshelf
+   [178] 0x1BE765275C2DA09D: Walls Book 'n Bath LLC
+   [179] 0x67F5C6CFD0BF5F53: Self Cleaning Box Stall
+   [17A] 0xC72202BDEC33A7D2: Washington Box Stall
+   [17B] 0x740F6A020534B770: Old Western Box Stall
+   [17C] 0x7F95A3D0E5C02E74: River Bridge
+   [17D] 0xE81C3D69EFA06A28: Modern Cowboy Overhead Cabinets
+   [17E] 0x7FB79C1462596D7C: Animal Control
+   [17F] 0x0B165AAF302DF38B: Carrots
+   [180] 0x55D6246B370FB207: Frosty Dreams
+   [181] 0x1A85622AB06228FA: Classy Cat Condo
+   [182] 0xB1150AA9BE46EF7D: Beetle
+   [183] 0x049DAA0C6598FE05: Bird
+   [184] 0x74C448DED47CBFBB: Colorful Feather
+   [185] 0xE044FD0C5087DA2A: Fish
+   [186] 0x4E4EC4F69CAFAFB6: catHuntJig
+   [187] 0xCEE47F4CBD2AB968: Lizard
+   [188] 0xF72AB7BB9C29F1EF: Maple Leaf
+   [189] 0x88D9006CADFD76B2: Rodent
+   [18A] 0xF6F9979386E3F48C: Snake
+   [18B] 0x364F5BC9A1B7E7E7: Snake Skin
+   [18C] 0x2BDB9B67C983F302: Turtle
+   [18D] 0xC751A3721B15DA5D: Empty Chip Bag
+   [18E] 0x5D09759DB85FC215: Cat Jungle Gym
+   [18F] 0xE16629AA8C5C4ECA: Cat Pregnant Jig
+   [190] 0x1D1A5AECDA885C44: Wall Dancer
+   [191] 0x55A3915C405956C9: Feathered Wall Dancer
+   [192] 0x25D4F41EE79C0AB3: Rustically Elegant Dining Chair
+   [193] 0xE4E583838E262E1B: The Sassy Classy Dining Chair
+   [194] 0xFA86BE97DF64F30A: The Puffs-n-Tufts Chair
+   [195] 0x5E7C4E9AA5D79043: El Comforto
+   [196] 0x40823E98E28C7D85: Mixed Media Living Chair
+   [197] 0x203C19960A7DE4E0: Rustic Lounger
+   [198] 0xAFD90771DA246392: Chewy Toy Bone
+   [199] 0x2949B61C2A3CB691: Bow WOW Chew Toy
+   [19A] 0xA05C65E9E5EDD6BA: chewtoyjig
+   [19B] 0xEEC5A6D2923B5B49: chewToyNewspaper- BUG if this shows up in game
+   [19C] 0x8D5B2A6F718FD7BD: Historic Governors' Mansion
+   [19D] 0xB22AD9749BDD0D01: Neko Clock
+   [19E] 0x3CF56045D488E26D: Stack o’ Rocks Column
+   [19F] 0xC32F11007527998D: Rustic Column
+   [1A0] 0x0D9CCD48A19D3ACA: Modern Cowboy Island Counters
+   [1A1] 0x80F3718919D92A0C: Modern Cowboy Counters
+   [1A2] 0x9551540E20434CD6: Bluth Model Home
+   [1A3] 0x8EC3DDE5DB77E76F: The It's Got Swagger! Drape Set
+
+   [1A4] 0x1559D9AAE86E4B42: The Pretentious Desk
+   [1A5] 0xAB7E5E1D44CE204E: The Roll-y Poll-y Desk
+   [1A6] 0x8160C76B506A55AD: Diamond Dog Torso
+   [1A7] 0xED0E3F1971305808: Diamond Dog
+   [1A8] 0x8160C76B506A55AE: Diamond Dog Flank
+   [1A9] 0x8160C76B506A55AF: Diamond Dog Debris
+   [1AA] 0x67E1AA87FE7E0D44: Darris Teeter Grocery & The Koffi Cafe
+   [1AB] 0x9BC62D435E58E7A9: Dinosaur Legs
+   [1AC] 0x648A330604D1B2EC: Dinosaur Ribs
+   [1AD] 0x9C5FB935FBA24C5D: Dinosaur Bones
+   [1AE] 0x324E448F12524D2A: T-Rex Skull
+   [1AF] 0xD9422B33289A4CBF: Triceratops Skull
+   [1B0] 0xD865228B89D90718: Dinosaur Statue
+   [1B1] 0x7A3004338E43C345: Silent Bruce's Spruce Dishwasher
+   [1B2] 0x126B851FFEF13FE2: Biscuit Ball
+   [1B3] 0x00ACB70A843AAC5D: Hole
+   [1B4] 0xC3B49B0A6199308B: Dog Dig Spot
+   [1B5] 0x1495CB364C125DE0: dog generic idle jig
+   [1B6] 0x67AB279544F04188: Dog Pregnant Jig
+   [1B7] 0x4B139AFAF67B30AC: The Cinder Burrow Arch
+   [1B8] 0x99D8FE098FADE025: Best Barn Door (two stories)
+   [1B9] 0x99D202098FA7C803: Balanced Barn Door (two stories)
+   [1BA] 0xAF123C6D30E6AD1D: Big Barn Arch (two stories)
+   [1BB] 0xAF0B406D30E0957B: Best Barn Arch (two stories)
+   [1BC] 0x61441EF61455F940: Björn Barn Door
+   [1BD] 0xB7773092158B5DFB: Agricola's Gateway
+   [1BE] 0x979F44FB0236F577: Saloon Doors
+   [1BF] 0x6A353945C396D672: Bjørn Sliding Door
+   [1C0] 0xDBC14D2194F1EA78: Stampede Stopper Garage Door
+   [1C1] 0x7029CB55FD9DD6A5: Round Up Time Door
+   [1C2] 0x96E433BAB5CF0635: Desperado Dresser
+   [1C3] 0xEA2761FFC364C177: Hot to Trot Dresser
+   [1C4] 0x44410C57973B0DF3: Skeletal Pile
+   [1C5] 0x159788487F16C18A: Our Friend Fred
+   [1C6] 0x44410C57973B0DF0: Skeletal Remains
+   [1C7] 0x44410C57973B0DF1: Skeletal Fragments
+   [1C8] 0x09158338CDE68238: Hoofin' It End Table
+   [1C9] 0x018767A354E77A2B: Felix Felinenimus
+   [1CA] 0x01848DA354E5857D: Carter Caninenimus
+   [1CB] 0xCAD188173355AD90: Zenyatta
+   [1CC] 0x3950FA3982F88F35: JRA International Equestrian Center
+   [1CD] 0x130BCF590E88360A: Petite Pony Equestrian Center
+   [1CE] 0xAA3336E925E51D82: Stampede Stopper Fence
+   [1CF] 0x777ACE25EE6DEEFA: Greenhorn’s Gate
+   [1D0] 0x7B8663EEA7791501: Rustic Ranch Fence
+   [1D1] 0x3F230B84CBCA76D1: White Ranch Fence
+   [1D2] 0x6ECB74738BEC4F37: Brick and Mortar Fence
+   [1D3] 0xEF74E14B2342C7E4: Incinerating Firepit
+   [1D4] 0x3C9E350847E4C023: Stonestown Fireplace
+   [1D5] 0x3CC4EC63300D31D0: The Murally Responsible Fireplace
+   [1D6] 0xE2728451B0B2E8C1: The Sheriff McGillicutty's Fireplace
+   [1D7] 0xA480299A25C6DA02: Gourmet Horse Food
+   [1D8] 0x6FD520DDA85218ED: Gourmet Horse Food
+   [1D9] 0x225ADB68D1C15623: Double Bronco Gate
+   [1DA] 0x9F5287ECBD119C0E: Click Clack Cutaway
+   [1DB] 0xB4C9D576067EE88E: Super Spooky Tree
+   [1DC] 0x297ECACEFF356A21: Plant Shreds
+   [1DD] 0x7C3345A9F90FCAF7: Haystack
+   [1DE] 0xF15B39DDE4F7DED0: Hay Storage
+   [1DF] 0xBAEB317C7C3E7974: Hay Storage Shack
+   [1E0] 0xCCFCBC8872D19626: Hollow Log
+   [1E1] 0x0BE84291727CA119: Spooky Hollow Log
+   [1E2] 0xD4F233FB99BE60AD: Horse Training Posts Jig
+   [1E3] 0x0416A4A14A5049A3: Happy Horse Ball
+   [1E4] 0x7D1C492E46DDE6ED: horseNapJig
+   [1E5] 0x1ED631A2A8488C1D: horsePassOutJig
+   [1E6] 0x03319BE79C0EB5E7: Horse Pregnant Jig
+   [1E7] 0xDBB0DB4739AC4C1A: Ranch Entrance Arch
+   [1E8] 0xC71C103D71F97C19: Ranch Sign
+   [1E9] 0x72B0DA63196CBB37: 
+   [1EA] 0x9276D8BCFCD764FD: Cavaletti Jump Trainer
+   [1EB] 0x992F2660ED7F78BE: Inferno Hoop
+   [1EC] 0xECC3FE0FD87BBADF: Amateur's Gate Jump
+   [1ED] 0x47C0238D03902B19: Pyrotechnic Jump Obstacle
+   [1EE] 0xFB2B770ED47F0D10: Boxer's Oxer
+   [1EF] 0xA12684F1AD1513B5: Inclined Triple Bars
+   [1F0] 0xBCADD77700112478: Formidable Wall
+   [1F1] 0x191361FD46A0D0DC: Emerald's Gaze
+   [1F2] 0x9DA8561FA13E5D9F: Advanced Water Obstacle
+   [1F3] 0xEEDC812CDB2F1DE7: Waber's  Ducky Obstacle
+   [1F4] 0x76D6F0813187FD5F: Wild 'n Wet Water Trough
+   [1F5] 0x409A1A44F30297F0: Wolfson's Hospital and Research Facility
+   [1F6] 0x4CCCCFE76CD9C691: Ice Cream Cone
+   [1F7] 0xCB4C1D9E877202D3: Trilight
+   [1F8] 0xBE4ABE61CF6A0F90: The Royal Baker's Ceiling Lamp
+   [1F9] 0xCB4C1D9E877202D0: The Wheel of Modernity
+   [1FA] 0xFD1205E421F7F934: The Disciplinary Lamp
+   [1FB] 0x39E7B5B057C59E4B: Decadent Incandescence
+   [1FC] 0x303C369CF073BA91: Miner's Delightful Lamp
+   [1FD] 0xAF6F5B8D4FB5D5C9: The Isosceles Lamp
+   [1FE] 0x4C1F4C83FE1C0FDE: This Little Light of Mine
+   [1FF] 0x8DEF710A9A3DB3AC: Rosie's Street Lamp
+   [200] 0xF4503242DBD53C02: Bright Star Street Lamp
+   [201] 0x46B18F79E5E69FEE: Hanging Outdoors Street Light
+   [202] 0xE86691B3E3DC692F: Libra Lamp
+   [203] 0xD87ED4601B0E869A: Brass Button Lantern
+   [204] 0x00C2CB6D6DFFDE4F: Sarah's Simple Table Lamp
+   [205] 0x76FE1D1E324142FF: Old Timey Replica Lamp
+   [206] 0x951E8918D074919D: Overhanging Wall Lamp
+   [207] 0x0150518FBDC5F527: Freezer Bunny's Favorite Outdoor Lamp
+   [208] 0x1901FA17F72CABFD: The Serenity Wall Lamp
+   [209] 0xE5132C746E277C5D: Le Rustique Lighting
+   [20A] 0x1CC580B0F098CAA3: The Wrangler's Wall Lamp
+   [20B] 0x259371D24B841248: The Litter Box of the Future
+   [20C] 0xEEEF4F6F38A8D429: Kitty Litter
+   [20D] 0x0EADD6A42F383DDA: Goth Family Loveseat
+   [20E] 0x623FE1FD52A1E00C: Wheely Bench
+   [20F] 0x83BC3EE39B1E151D: Freezer Bunny Magic Gnome
+   [210] 0xD79EA24AAB5813B4: Zenyatta
+   [211] 0xE69D308829AC93B9: Main Street Banner
+   [212] 0xED2702D87928ED85: Main Street Pennant
+   [213] 0xA68E1275D4902E59: Butterfield Family Mausoleum
+   [214] 0xCACA34B706D240B6: Old Mill
+   [215] 0x0307FA98687F6372: Mine Entrance
+   [216] 0xDEBFF0B74565C7B1: Hollow Dinosaur Bones
+   [217] 0xFAEA89E72BB9BE54: Mini-Dinosaur Skeleton
+   [218] 0xDEBFF0B74565C7B2: Unique Dinosaur Bones
+   [219] 0xDEBFF0B74565C7B3: Large Dinosaur Bones
+   [21A] 0xAEE3A439DD1D2C26: Large Bird Spawner 1
+   [21B] 0xAEE3A439DD1D2C25: Large Bird Spawner 2
+   [21C] 0xAEE3A439DD1D2C24: Large Bird Spawner 3
+   [21D] 0xAEE3A439DD1D2C23: Large Bird Spawner 4
+   [21E] 0xB7BCE7A268C10A6A: Small Bird Spawner 1
+   [21F] 0xB7BCE7A268C10A69: Small Bird Spawner 2
+   [220] 0xB7BCE7A268C10A68: Small Bird Spawner 3
+   [221] 0xA6F70C7F154DB202: Lizard Spawner 1
+   [222] 0xA6F70C7F154DB201: Lizard Spawner 2
+   [223] 0xA6F70C7F154DB200: Lizard Spawner 3
+   [224] 0xA6F70C7F154DB207: Lizard Spawner 4
+   [225] 0x49265ACA663EAB18: Rodent Spawner 1
+   [226] 0x49265ACA663EAB1B: Rodent Spawner 2
+   [227] 0x49265ACA663EAB1A: Rodent Spawner 3
+   [228] 0x49265ACA663EAB1D: Rodent Spawner 4
+   [229] 0x1AA861742C6CA928: Snake Spawner 1
+   [22A] 0x1AA861742C6CA92B: Snake Spawner 2
+   [22B] 0x1AA861742C6CA92A: Snake Spawner 3
+   [22C] 0x1AA861742C6CA92D: Snake Spawner 4
+   [22D] 0x1AA861742C6CA92C: Snake Spawner 5
+   [22E] 0x07B8451AA97B3BAC: Turtle Spawner 1
+   [22F] 0x07B8451AA97B3BAF: Turtle Spawner 2
+   [230] 0x07B8451AA97B3BAE: Turtle Spawner 3
+   [231] 0x07B8451AA97B3BA9: Turtle Spawner 4
+   [232] 0x7C85425C4ABA2E88: Overly Simple Standup Mirror
+   [233] 0x90A463E72BF3DADD: Leather Bound Mirror
+   [234] 0x21F6D8D7239EDD0E: Darris Teeter Art Theater
+   [235] 0x8B7376EE5AE8F71A: Icey Rainbow
+   [236] 0x8B7377EE5AE8F8EB: Small Bird Spawner 4
+   [237] 0x98D62626B12FA62B: Newspaper Shreds
+   [238] 0x4BC1CF69360A8B3A: Rusted Truck
+   [239] 0xD39A0367126D5201: Artisan Animals
+   [23A] 0x8915699EF7EB1514: Big Eyes, Big Heart
+   [23B] 0xAD7964A70DA2C36D: Sorcerer’s Friends
+   [23C] 0xAD7964A70DA2C36E: Sorcerer's Fiends
+   [23D] 0xD2C4ADAC26DEA448: Rainbows! Lasers! Cat!
+   [23E] 0xBFD99253D4DD5320: My Favorite Film
+   [23F] 0x636FCF61FAA9517F: Cult Classic Films
+   [240] 0xFCB836F272E99B9B: Grilled Cheese!
+   [241] 0xC1566406B4909EF1: Small Animals
+   [242] 0x210276F19CDC6D64: Moonset in the West
+   [243] 0x466D690CE7E4D3AC: …A Fool From Any Direction
+   [244] 0x0D64418EBB5C7250: El Dorado’s Destiny
+   [245] 0x10F5A9F3293F2959: Kitty Calendar
+   [246] 0x11009BF32949188F: Canine Calendar
+   [247] 0x807D5CBA81D1DDB6: Horsey Calendar
+   [248] 0x89F392733D8BFB0E: Three Dog M[TEXT DELETED]
+   [249] 0x55D1C95A2A7639F2: Alberta’s Lament
+   [24A] 0x1D4B4EB90B8AB65C: Simadonian Snake Skin
+   [24B] 0xD6955FB14493B67E: Bow Wow Wowzer Pet Bed
+   [24C] 0x8C0D33A434AD3DD1: Super Swank Pet Bed
+   [24D] 0x276EB47AB2845EFA: Lil' Critter Pet Bed
+   [24E] 0x1EF7E94A02E2C664: Bird Cage
+   [24F] 0x57FE2C49924150EC: Bird Tree
+   [250] 0xD0063DAE727FEDE2: Bottomless Pet Bowl
+   [251] 0x37B01D9C31A1C169: Cheapo Chow Bowl
+   [252] 0xCC5392622C575823: Bow Wow Wowzer Bowl
+   [253] 0x79700A65BAE2DB73: The Moderate Mayflower
+   [254] 0x274DB9421D5C3A7B: Yesterday’s News
+   [255] 0xCA51A05E321EA5AB: Scrap of Food
+   [256] 0x5FB04F656B0F73ED: Low Country Living Pet House
+   [257] 0x84FE5BDDDAAFC0CB: The Twinbrook Tandem Pet House
+   [258] 0x9D86BAF25D7B8384: Pet Hygienator
+   [259] 0x0D2C7DB824BC883B: Bits of Rock
+   [25A] 0x1A7591A78F175FF1: Essence of Pure Love Rock
+   [25B] 0x6CC819C8A73EE8EB: Sir Bricks-a-lot Jr.
+   [25C] 0x9F9F252E06B44C83: Gonk Rock
+   [25D] 0x1328094C444D4C05: Foil Ball
+   [25E] 0x73A55B2C9E2B7D6B: Paper Ball
+   [25F] 0x4373B210A1391499: Plastic Ball
+   [260] 0x5F41694C6EE0BC81: Ball of Yarn
+   [261] 0x0AFDDAB2D2DB4991: The Pet Toy Crate contains a wonderful collection of playthings for cats and dogs!
+   [262] 0x97E934833D4BDDA1: Catnip Mouse
+   [263] 0x6D8C3916E33A14AC: Pet toy jig
+   [264] 0xF99AFC73ED4366C7: Pet Clone Voucher
+   [265] 0x795973CB12578719: Pile of Feathers
+   [266] 0xF70ACF8041C6D795: Red Azalea
+   [267] 0x5CB7D3CE383BCFE9: Purple Heather
+   [268] 0x14E5D463D220B024: Ranch Weeds
+   [269] 0x505F4D694B65EA27: Dry Ranch Weeds
+   [26A] 0x8D8BB49B1EF70014: Play Fetch Object
+   [26B] 0x6713D03706DA831D: Racoon Trash Can Jig
+   [26C] 0x77991E3DCCF25937: Ranchero Refrigerator by SimKing
+   [26D] 0xA701B55BAE7F591C: Pet Store Cash Register
+   [26E] 0x1D46C1C5DBCC250C: Rebel Rock
+   [26F] 0x1D49C1C5DBCE5B25: Rodney's Rock
+   [270] 0x1D49C1C5DBCE5B27: Ranch Rock
+   [271] 0xD15C8D80B294D24F: Riddler's Rock
+   [272] 0xD15C8D80B294D24C: Robert's Rock
+   [273] 0xD15C8D80B294D24D: Rover's Rock
+   [274] 0xD15C8D80B294D24A: Reptile Rock
+   [275] 0xE0F08FFDDD4A2283: Snake Den
+   [276] 0x928FC0190B597F26: Salt Lick
+   [277] 0x0B032CFCDAD15384: Celestial Salt Lick
+   [278] 0xD1C0ED9A3169CE8C: Crestview School and Stadium
+   [279] 0x50F6B17CD12A5F22: School / Stadium
+   [27A] 0xCD57A58FD1090291: Scratching Post
+   [27B] 0x0F5905A43B922D6B: Simina Pet Chow
+   [27C] 0xBCF3C9713D04D8B7: An Accumulation of Animals
+   [27D] 0x7C29470ED4D04C7E: English Riding Saddle
+   [27E] 0xDB1B720E094D4D4B: Historical Landmark
+   [27F] 0x65931C4D37E58562: Jessica's Favorite Saddle
+   [280] 0x0BE6752AC4CA270A: 2 Buckets in 1
+   [281] 0x8FF0012B505DC365: Merry Maids Milk Barrel
+   [282] 0x30F7E1AB32536D4C: Racing Horse Saddle
+   [283] 0xDD23E79287B189E1: Wayne’s Crates
+   [284] 0x2FB86F66417D3693: Horsey Says Nay!
+   [285] 0xB0AA979FA5D20A21: Desert Ivy
+   [286] 0xC848EEBF3AEA7E7A: Shade of Gray
+   [287] 0x4078C44B95447265: Old’s Cool Wheelbarrow
+   [288] 0xC49ABE91B22B072F: Equine of Excellence
+   [289] 0x51961F1CE5E15E4D: The Old Sawhorse
+   [28A] 0x9489B4A30E25BE12: Rusty Fred
+   [28B] 0xA475AECD7E7D6D87: Neighborhood Tree Guard
+   [28C] 0x2162918EC94F6BF4: The Forgotten Road
+   [28D] 0xDFB7604A48926A94: Standing Riding Horse
+   [28E] 0xE4D468E1744B7422: Happy Horse Groom's Tote
+   [28F] 0x2375582748F8738D: Inclusive Pet Bedding
+   [290] 0x8C84128186A71B4C: Pet Leash Sculpture
+   [291] 0x7D1EDFE1810A2CCC: Salty's Flower Barrel
+   [292] 0x27128018ED9A48D7: Pudgy the Pony
+   [293] 0x76ED1561440D3A5C: J. Black Cross-Country Cup
+   [294] 0x88A1775BA3F4B826: Lepping Classic Trophy
+   [295] 0xD9A5BD7E52E23739: NATHCR Championship Trophy
+   [296] 0xE9FA7C89EB48B6E3: Follow the Stallion!
+   [297] 0x56AC9E96D11B13A9: Arya's Pony
+   [298] 0x21D167D43595AA6D: Ducky
+   [299] 0x7F5249A6CB11051A: Jeffrey
+   [29A] 0xC60FBF4F8C35CBC2: I'm so Fluffy!
+   [29B] 0x4E7749CBA0982ED0: Meowzers!
+   [29C] 0x3A26C138B7220E4D: Ranch Flower
+   [29D] 0x333ECDDF1B0EA1D9: A Whole Horse of a Different Color
+   [29E] 0x20FA22904F74159C: Coils of Cordage
+   [29F] 0xB27D02F24DC0041F: Buntington Bridles
+   [2A0] 0x32D9BC2447D3017F: 2-Shoe
+   [2A1] 0x8AB02E85B7E93D1F: Longhorn Wall Ornaments
+   [2A2] 0xEF94E622BA60593B: Pet Plates by Tack-EE Inc.
+   [2A3] 0xE2EC54D68C3931A1: A Little Bit o'Country
+   [2A4] 0xEF4DEAF184A46CE7: Affichage Accoutrement
+   [2A5] 0xA1FC27AB403F3A83: Round Wagon Wheel
+   [2A6] 0xF9F1A4E17CE489E3: The Ele-Gante G-Class Shower
+   [2A7] 0x635CADA78EFA436B: Equestrian Center Ahead!
+   [2A8] 0x5FD1D5449B969121: Simina Pet Chow Billboard
+   [2A9] 0x66A7C8F614BC8DD2: Tourist Trap Ahead!
+   [2AA] 0x496DF1CDA3FF5890: Veterinarian Billboard
+   [2AB] 0x81991D47C3C640A9: Where am I going?
+   [2AC] 0xF76B9C44E1A4A767: Cat Crossing
+   [2AD] 0x4E12030B8DEA39D1: Dino Crossing
+   [2AE] 0x6624F032ACE4537E: Dog Crossing
+   [2AF] 0x7C197F816A68B24B: Dog Walker Crossing
+   [2B0] 0xC3847BA17A5EAB54: Horse Crossing
+   [2B1] 0x5930D956D0B915E3: Jackalope Crossing
+   [2B2] 0x32F071E6A17376B0: No Llamas Allowed
+   [2B3] 0x4C77EA2A81B3DB81: Unicorn Crossing
+   [2B4] 0xEDB76D631D193633: Squirrel Crossing
+   [2B5] 0x64A66E1A95BEA034: The Flow
+   [2B6] 0x263A30204D8A7A8B: small dog pregnant jig
+   [2B7] 0xF7CDD139C7BE3074: Small pet generic idle jig
+   [2B8] 0xF72AB2790D70E9D5: 
+   [2B9] 0x065D24D5F8B42CB6: Bjorn Sofa
+   [2BA] 0xF35CE684896C70E0: Sasquatch Standee
+   [2BB] 0x146853D7DB8C649C: Rigid Stone
+   [2BC] 0x3D68D016E3EC26FD: Stone Hydrant
+   [2BD] 0x146853D7DB8C649F: Round Stone
+   [2BE] 0x146853D7DB8C649E: Rough Stone
+   [2BF] 0x533D18D01A9E2F7E: Faux Stove
+   [2C0] 0x9B803E53A8C889BC: Feline Stray Gnome
+   [2C1] 0x94705DA202E72033: Canine Stray Gnome
+   [2C2] 0x844B083484C4A87A: Wildlife Stray Gnome
+   [2C3] 0x15532C0A85AD0113: Ranchhand's Bane Coffee Table
+   [2C4] 0x3FB6B81156FB9DBE: Gnome'ikin Dining Table
+   [2C5] 0x2E1779650F2F5BF1: Rustically Elegant Dining Table
+   [2C6] 0xEE267583DAA91FE9: The "I Didn't Do It" End Table
+   [2C7] 0xB6AD8F8E2527DA92: Cowgirl's End Table
+   [2C8] 0x12342217BF22982F: Perfect Pedestal End Table
+   [2C9] 0x2C7B4A86385F4BCA: Distant Terrain
+   [2CA] 0x585BDF347079F0A4: Lizard Terrarium
+   [2CB] 0x324F18C3383B1566: Rodent Terrarium
+   [2CC] 0x26BE01D8F94B7910: Snake Terrarium
+   [2CD] 0xD214EB2A7DB7B9B6: Turtle Terrarium
+   [2CE] 0x22DE241E2DEAC1C4: Reinforced Personal Stage
+   [2CF] 0x2E031F4D1BA9EEF8: Tourist Trap
+   [2D0] 0x75B6D9A6D75C2179: Toy Scraps
+   [2D1] 0xA93D2BAAFC266B2C: Dashing Training Posts
+   [2D2] 0xF92FA0BA172C57FF: Ranchero Compactor by SimKing
+   [2D3] 0xF15CABD5FAC338E3: Cottonwood Tree
+   [2D4] 0xEA137EA8061C7187: Yellow Cottonwood Tree
+   [2D5] 0x93362FD84AEED8AF: Slippery Elm
+   [2D6] 0x6B1ADFCBFA48D0EE: Eucalyptus
+   [2D7] 0xFA37612304BC67FB: White Fir Tree
+   [2D8] 0x2B5E470974C1940F: Fall Maple Tree
+   [2D9] 0xA357B6369452AE8B: Ornamental Tree
+   [2DA] 0x4C507907DB1CA766: Vomit Pile
+   [2DB] 0x664A3A5BB12111DF: Covered Wagon
+   [2DC] 0x1EDAE846F70947AB: Broken Wagon
+   [2DD] 0x7F9CD57C12615C86: Round Water Tank 
+   [2DE] 0xC8797B276FF4127A: Waylon's Water Tower
+   [2DF] 0x2FCDD7203DD9DB2F: Rooster Farm Windmill
+   [2E0] 0xADA7E70F1A60E05A: Headless Windmill
+   [2E1] 0x09DF6BD37CB23E88: Granger Double Panes
+   [2E2] 0x9401E27B84998BF9: Granger Panes
+   [2E3] 0xFD5141CF1D493DB8: The Double X Window
+   [2E4] 0xC68324555473803D: Window With Boards
+   [2E5] 0x1B72D9F74F9F7846: Poly-Methyl Methacrylate Wall Insert
+   [2E6] 0xAF920DEFDF0B1BBA: Kyle's Window
+   [2E7] 0x56C2863FCCAAC0E1: The Classic X Window
+   [2E8] 0x75D828BEC4BEC935: Young Again Potion for Pets
+   [2E9] 0xB82EF5E540EF3CEF: 
+   [2EA] 0xB82EF5E540EF3CEC: 
+   [2EB] 0xF74E51B3B6272D9F: 
+   [2EC] 0xA99F6283282794B3: Community Lot
+   [2ED] 0xC546EB989DC93C94: 2006 Sudden Valley Cove
+   [2EE] 0xC546EB989DC93C95: 2201 Nease Street
+   [2EF] 0xC546EA989DC93AC9: 123 Nandina Parkway
+   [2F0] 0xC546EA989DC93AC8: 205 West Appaloosa Avenue
+   [2F1] 0xC546EA989DC93ACB: 201 West Appaloosa Avenue
+   [2F2] 0xC546EA989DC93ACA: 200 East Appaloosa Avenue
+   [2F3] 0xC546EA989DC93ACD: 204 West Appaloosa Avenue
+   [2F4] 0xC546EA989DC93ACC: 207 West Appaloosa Avenue
+   [2F5] 0xC546EA989DC93ACF: 100 Derby Spur S.
+   [2F6] 0xC546EA989DC93ACE: 1 Rags 2 Riches Road
+   [2F7] 0xC546EA989DC93AC1: 196 East Appaloosa Avenue
+   [2F8] 0xC546EA989DC93AC0: 197 East Appaloosa Avenue
+   [2F9] 0xC546E9989DC93976: 203 West Appaloosa Avenue
+   [2FA] 0xC546E9989DC93977: 199 East Appaloosa Avenue
+   [2FB] 0xC546E9989DC93974: 2199 Nease Street
+   [2FC] 0xC546E9989DC93975: 253 Cinnamon Crest Rise
+   [2FD] 0xC546E9989DC93972: 2007 Newton Nook
+   [2FE] 0xC546E9989DC93973: 101 Nandina Parkway
+   [2FF] 0xC546E9989DC93970: 198 East Appaloosa Avenue
+   [300] 0xC546E9989DC93971: 357 Cinnamon Crest Rise
+   [301] 0xC546E9989DC9397E: 1967 Windiwell Heights
+   [302] 0xC546E9989DC9397F: 2 Novigan Gardens
+   [303] 0xC546E8989DC937A3: 1850 Little Bigridge Trail
+   [304] 0xC546E8989DC937A2: 202 West Appaloosa Avenue
+   [305] 0xC546E8989DC937A1: 101 Derby Spur N.
+   [306] 0xC546E8989DC937A0: 1944 Beach Boulevard
+   [307] 0xC546E8989DC937A7: 141 Nandina Parkway
+   [308] 0x3D138B37335EACCF: 303 Sweetapple Ridge Way
+   [309] 0x26E25DCC49DFA38D: 19442 Bob-o-Link Drive
+   [30A] 0x26E25DCC49DFA38C: 19440 Bob-o-Link Drive
+   [30B] 0x26E25DCC49DFA38F: 206 West Appaloosa Avenue
+   [30C] 0x26E25DCC49DFA38E: 1813 Ednamary Way
+   [30D] 0x26E25DCC49DFA389: 1814 Ednamary Way
+   [30E] 0x26E25DCC49DFA388: 1812 Ednamary Way
+   [30F] 0x26E25DCC49DFA38B: 1810 Ednamary Way
+   [310] 0x26E25DCC49DFA38A: 202 Horseshoe Loop
+   [311] 0x26E25DCC49DFA385: 71 Rachelle Lane
+   [312] 0x26E25DCC49DFA384: 68 Rachelle Lane
+   [313] 0x3D138B37335EACCC: 305 Sweetapple Ridge Way
+   [314] 0x26E25ACC49DF9E94: 73 Rachelle Lane
+   [315] 0x26E25ACC49DF9E95: 70 Rachelle Lane
+   [316] 0x26E25ACC49DF9E96: 72 Rachelle Lane
+   [317] 0x26E25ACC49DF9E97: 69 Rachelle Lane
+   [318] 0x26E25ACC49DF9E90: 1006 Pomona Promenade
+   [319] 0x26E25ACC49DF9E91: 190 Horseshoe Loop
+   [31A] 0x26E25ACC49DF9E92: 1005 Pomona Promenade
+   [31B] 0x26E25ACC49DF9E93: 27 Gentrify Manor
+   [31C] 0x26E25ACC49DF9E9C: 192 Horseshoe Loop
+   [31D] 0x26E25ACC49DF9E9D: 1004 Pomona Promenade
+   [31E] 0x3D138B37335EACCD: 301 Sweetapple Ridge Way
+   [31F] 0x26E25BCC49DFA067: 1936 Beach Boulevard
+   [320] 0x26E25BCC49DFA066: 1011 Pomona Promenade
+   [321] 0x26E25BCC49DFA065: 1874 Trex Hill
+   [322] 0x26E25BCC49DFA064: 1935 Beach Boulevard
+   [323] 0x26E25BCC49DFA063: 1012 Pomona Promenade
+   [324] 0x26E25BCC49DFA062: 1938 Beach Boulevard
+   [325] 0x26E25BCC49DFA061: 6 Floodplain Lane
+   [326] 0x26E25BCC49DFA060: 37 Eucalyptus Drive
+   [327] 0x3D138B37335EACCA: 311 Sweetapple Ridge Way
+   [328] 0x3D138B37335EACCB: 309 Sweetapple Ridge Way
+   [329] 0x3D138B37335EACC8: 19441 Bob-o-Link Drive
+   [32A] 0x26E256CC49DF97ED: 1815 Ednamary Way
+   [32B] 0x26E256CC49DF97EE: 1816 Ednamary Way
+   [32C] 0x26E256CC49DF97EF: 67 Rachelle Lane
+   [32D] 0x26E256CC49DF97E0: 1875 Trex Hill
+   [32E] 0x26E256CC49DF97E1: 1007 Pomona Promenade
+   [32F] 0x3D138B37335EACC9: 19443 Bob-o-Link Drive
+   [330] 0x3D138B37335EACC6: 19445 Bob-o-Link Drive
+   [331] 0x3D138B37335EACC7: 19444 Bob-o-Link Drive
+   [332] 0xE533AA4C61CB6AA0: Set somewhat apart from its neighbors, this once elegant Victorian graces the river's edge with a haunting reminder of days gone by. If you plan to restore this home, beware of feline vengeance - and musk!
+   [333] 0xACB293BBB1A14CB5: An open floor plan and a large fenced in yard make this house a veritable pooch palace. No misbehaving will be tolerated though so one wonders - should you beware of the dog, or should the dog beware of the owner?
+   [334] 0xA01A7769E924A0AD: Built from locally sourced materials to reflect a contemporary aesthetic, this sturdy house invites comments at the same time as its monolithic facade discourages uninvited guests. Heavy fieldstone walls keep the world, and any snooping paparazzi, at bay.
+   [335] 0x2502E338409614E8: An open floor plan and a generous number of bedrooms make this newer ranch home a good choice for a larger family, or potentially a group of friends. Entertaining in this house is made easier with its large deck and light filled sunroom.
+   [336] 0x795575710247EC76: Homesteaded many years ago by the ancestor of the current residents, this was once the finest house in town. Of course it was also the only house in town. Downsides include a somewhat distressed building, and the land it sits on is significantly diminished in acreage from its original size. However, if you can resist political pressure to rezone for commercial construction, and you don't mind the bustling downtown noise, you'll have quite the hot property for quick access to everything the town has to offer.
+   [337] 0x4487D152358E0375: Modestly priced but full of charm, this small Victorian house is just waiting to be shown some love. It's a simple starter home, but close to town and full of untapped potential.
+   [338] 0x40FD6E6B8532888A: Dwarfed by the grandeur of the landscape around it, this modest but proud ranch sits quietly on the powerful river's edge. Living here and working the land might be difficult for some, but with dedication comes reward.
+   [339] 0x1F3C4A626EB70325: An old fashioned farmhouse lovingly restored is the perfect place for a young couple hoping to build the foundations of a large family. In the meantime, the sizable barn and substantial yard can support a veritable menagerie of pets.
+   [33A] 0x737F8C8C2F746688: This large dwelling has a loft living room/bedroom, two patio areas for barbeque parties, and a large lap pool for those looking to stay fit. Main areas are all hardwood floors and furnishings have a modern flair. Owners can even enjoy sitting by the fire outside in the evenings.
+   [33B] 0x1A7A9D660CB8EFA2: A modest house in a forgotten corner of a nice neighborhood could be a diamond in the rough for the right investor. Why not take a chance on this one?
+   [33C] 0xBD24BB261B3141AA: Constructed of high grade wood and local stonework, this three bedroom house includes a spacious den overlooking the meticulously landscaped front yard. Perfect for any family, the dining room will accommodate large dinner parties with ease - and flair. A separate car port is sure to keep your vehicle secure.
+   [33D] 0xCFF8BD33869E5808: A very spacious five bedroom home complete with fireplace in the living room, a den, dining room with access to a large deck, and separate en suite bedroom upstairs for the master of the house. Great for a large family or even someone with lots of pets. The property also features a large backyard bordering into the hills.
+   [33E] 0x9F9FD7F1BB01F21F: This modern two bedroom includes a barn for potential horse owners, a beautiful stone fireplace, Mission style kitchen cabinetry, and a spacious dining room. It's the perfect house for any new home owner. Glass facades enhance the feeling of an open floor plan. A lap pool with spacious stone deck make evening barbeque parties a great event.
+   [33F] 0x49758E101A9270B3: Large rooms make this house exceptionally spacious for a one bedroom home, and the bathroom is equally roomy. Someone would have to accumulate quite a lot to make this place look cluttered - hoarders forewarned.
+   [340] 0xF6D4DD786246CAC5: More spacious than expected for a one bedroom home, this house is caught mid-renovation. Although currently boasting an updated kitchen and a large new deck, the bathroom is charitably described as "charmingly original" and the landscape remains "full of potential".
+   [341] 0xFBD7DF79FE29422F: For the decadent gardener, this home has a large atrium within the house and a roomy greenhouse in the back yard. Hardwood floors throughout and a Ranch Style kitchen add to its unique flair. The interior is spacious enough to include two living room areas, one casual and the other for formal occasions.
+   [342] 0x7A99B3A557EFC34A: This beautiful modern home with an amazing view features a gourmet kitchen and a workout room adjacent to the bedroom. One supposes this room might just make a good nursery instead, should you be so inclined.
+   [343] 0xC1E563A558086366: A quiet sedate house in a newer subdivision keeps its focus inward. You probably won't even have to meet your neighbors if you live in this starter home.
+   [344] 0x9EA52930DE9953CD: Thoroughly for thoroughbreds, this well-appointed farm house might be the best place to breed horses in the local township. It features a large stable and hay loft, plus a comfortable and elegant house with a solarium and wraparound porch.
+   [345] 0xEAAC0111403D8F1E: Elegant gardens and shabby chic décor through most of this house make it a gem of a find. However, things are rarely as innocent as they appear.
+   [346] 0x4469DA664B3C0E69: Simple and mostly sturdy, this home is the ideal first house for those who are a little bit country. No doubt the pleasant occasional drum of rain on the roof will make up for the minor flooding due to the lack of a foundation.
+   [347] 0xDFABF5F8EF18E837: When you really want to leave the city behind, this suburban style house will make you think there must be shopping malls and fast food chains nearby... it's just a bit too out in the country for that though.
+   [348] 0x54E40834EEAABB97: This deluxe home is great for any large family of Sims - or pets! The outdoorsy type will love the homey barn for horses and the large back deck for hosting parties. Notable features include an elegant full size dining room complete with marble tiled fireplace, not to mention the built in library. A kitchen with island counters makes the perfect space for serving a quick cozy meal.
+   [349] 0x5A21EF050E4B0212: This fine starter home has a spacious living room, adjoining work area suitable for a desk, and full size bedroom. It is surrounded by beautiful Hydrangea bushes that add a lush feel to the location. Its close vicinity to the equestrian center is an added perk for any aspiring rider.
+   [34A] 0x5B9410AAB20EC8A0: An ornate Victorian house on the edge of town exudes feminine charm. Strangely it is often the local male residents that find this home irresistible.
+   [34B] 0x24A173F798DD5A22: This house features a horse arena and accompanying barn for the prosperous horse owner. It has a spacious living room and two separate bedrooms each with en suite bathrooms. Perfect for two roommates or a couple with children. One bedroom even has a built in fireplace to stoke the romance in your life.
+   [34C] 0x610DE4B8C7264329: Rustic country living, but with all the modern conveniences can be found in this well appointed ranch. A three car (or truck) garage, custom built pool, horse barn, and a basement media room are among the features of this gentleman's country estate.
+   [34D] 0xD7B5CEDB14D3DF4B: This generously sized house for a growing family includes a large deck, pool, and solarium - all the while presenting a modest face to the street.
+   [34E] 0xD98B37355BD0301D: Cozy and compact is the perfect way to describe this newer home that is ready to go. A garage, paired with large decks and large windows, means this house is just waiting for the right occupant and their pets, be they beast or fowl.
+   [34F] 0xB83AACACCB007627: Named for the constant chirping heard from its feathered residents, this flea market decorated home exudes charm. Will it allow its residents to spread their wings or keep them in a gilded cage?
+   [350] 0xA6D82872331079D7: A charming house in an idyllic setting, features its own spring fed pond and a relaxing shady porch, yet still an air of gloom seems to persist.
+   [351] 0x01A5092F62F2CFED: Adventure Landing
+   [352] 0x26C53D69FC7C2EA1: Walls Book 'n Bath LLC
+   [353] 0x6514E830361B9B61: Hueber Associates & Kim Gould's Steakhouse
+   [354] 0x8D587A3708021853: Litter Acres Cat Jungle
+   [355] 0xFEFF1CFBEB4908D0: Novigan Community Cat Jungle
+   [356] 0xF332A14952F284C0: Newton Cemetery
+   [357] 0xBE909ABB83249462: Appaloosa Plains Civic Center
+   [358] 0x5ACB9B4203149C99: Rags to Riches Consignment Store
+   [359] 0xA9E7A8D8284FF6E3: Rustler's Den
+   [35A] 0x4357F810AA861AF1: The Watering Hole Saloon
+   [35B] 0x99BEB86030D45C7E: Faux Paw Dog Park
+   [35C] 0x80B417488B1BC13A: Dog's Day Town Plaza
+   [35D] 0x754BE7BEA5FAE397: Petite Pony Equestrian Center
+   [35E] 0xFF3BCC50308F3271: JRA International Equestrian Center
+   [35F] 0xDA0226884E4ED525: Verona County Fire Department
+   [360] 0xEB182999A6275035: Cinnamon Crest Falls
+   [361] 0xEB182999A627503A: Appaloosa County Water Treatment
+   [362] 0x6A1E3B1987810C1B: Darris Teeter Grocery & The Koffi Cafe
+   [363] 0x4AD2A1A214F2B0BD: Swole On Fitness
+   [364] 0xAC4B1FF96250592B: Pump It Up Pony Training Grounds
+   [365] 0x9D092A8E6502BFB2: Equestrian Regional Training Grounds
+   [366] 0xCA5667A5F71281C1: Wolfson's Hospital and Research Facility
+   [367] 0x32C90604B7E8C9B1: Pick 'n Pull Junkyard
+   [368] 0xACDED7A5514E7A3B: Appaloosa Plains Public Library
+   [369] 0xDD2690F4C05F7FCD: Appaloosa County Historical Society
+   [36A] 0x4B23AEC6143B95C7: Graham's Pet Swap Shop
+   [36B] 0x7ABAB55FBC1BD208: Appaloosa Plains Public Pool
+   [36C] 0x475C2D47E6B356BE: Shear Perfection Salon & Tattoo Parlor
+   [36D] 0x916E686E711392F7: Crestview School and Stadium
+   [36E] 0x31256557673332D6: Hangman's Tree National Historic Landmark
+   [36F] 0xDD06FE6906FEDB19: Darris Teeter Art Theater
+   [370] 0x8E30C7FF2AEF5DE9: Brookside - 1br, 1ba
+   [371] 0x99FEEFFEE992DBE8: Cave Canem - 1br, 1.5ba
+   [372] 0xA85B54DB28D587E2: Cliffside Haven - 1br, 1.5ba
+   [373] 0x8F9DECA48489DE71: Clydesdale Ranch - 4br, 3ba
+   [374] 0x62A42B809A00B8E3: Curley Copse - 1br, 1ba
+   [375] 0x8C368EEF2682687E: Hydrangea House - 1br, 1ba
+   [376] 0xD9657681E97CDC91: Little River House - 2br, 1ba
+   [377] 0xF74BE3BF36E3B32A: Mesa View Farm - 3br, 3ba
+   [378] 0x5E44EC2C62925AC3: Metropole Manor - 3br, 1ba
+   [379] 0xBB404610453138F1: Pacer Place - 1br, 1ba
+   [37A] 0x6DD5D1C74D1F09EB: Paddington House - 3br, 2ba
+   [37B] 0xE289AFC32BB5CC4F: Park Palace - 5br, 2ba
+   [37C] 0x3BF2B9F0A768CF22: Park Vista - 2br, 1ba
+   [37D] 0x7743C7FFE88AEC18: Pergola Place - 1br, 1ba
+   [37E] 0x85C5C6BA13AA1316: Pinto Palazzo - 1br, 1ba
+   [37F] 0x57229179805FBC12: Place Royale - 4br, 2ba
+   [380] 0xB21C2901C643999D: Playa Vista - 2br, 1ba
+   [381] 0xE7624EF9844724B7: Private Property - 1br, 1ba
+   [382] 0x5EB2B20B4EA2C65C: Six Gable Stables - 2br, 2.5ba
+   [383] 0xB7B3F6990732B65B: Still Water Run - 1br, 2ba
+   [384] 0x4B29A4FE454933F2: Sunflower Shack - 1br, 1ba
+   [385] 0x720C03282847421E: Super Suburban - 2br, 1ba
+   [386] 0x48EEFE82B8D346A0: The Lexington - 4br, 2ba
+   [387] 0x2D6C806335352129: The Madison - 1br, 1ba
+   [388] 0x932B66D8BC4E6313: The Painted Lady - 1br, 1.5ba
+   [389] 0x04885276723307AD: The Rancheroo - 2br, 2ba
+   [38A] 0xA559365A45E08CA8: The Render Farm - 2br, 2.5ba
+   [38B] 0xAE43D126079DA2CC: Trotter Cottage - 3br, 3ba
+   [38C] 0x817B5383AB669374: Turnkey Trot - 1br, 1ba
+   [38D] 0xDAB5BE47C90EF51C: Twitterhaven - 2br, 1ba
+   [38E] 0x8EB742ABE3837ED8: Wellspring - 3br, 2ba
+   [38F] 0x09CDDC5592F5238D: Bedlington
+   [390] 0x6ABC3F2771012388: Bird Sisters
+   [391] 0x3671E2E8048F5419: Blackburn
+   [392] 0xFC42A204275C7E90: Chandra
+   [393] 0xFD47436BF015D54D: Curley
+   [394] 0x250550EA3DB8A5C1: Darnell
+   [395] 0xE01CF21E03355CE3: Sports, Spice, and Everything Nice
+   [396] 0x364D8293CE48A800: Fox
+   [397] 0x6DB3BF77FDADEE79: Unfettered with Feathers
+   [398] 0x85C9190A75B50106: Country Cowpokes
+   [399] 0x54B0A99E4D418199: Lionheart
+   [39A] 0x291511835DC788AE: Loveland
+   [39B] 0x4CEFEB8191D7D2AB: Marshall
+   [39C] 0x7558E1BF4C286249: Martingale
+   [39D] 0x56EDD49D560ABFAE: Miller
+   [39E] 0xB8BB47B7635D86D3: Parrott
+   [39F] 0x5B37A792FC36F9ED: Pelly
+   [3A0] 0x06D0230CD3F1A35F: Pinkerton
+   [3A1] 0xA84860F2E23686CF: Riffin
+   [3A2] 0x9A547C5F97FA0FCB: Schmidt
+   [3A3] 0x7FFB7CDD89EE5D80: "Millions in Singles"-ton
+   [3A4] 0x0EA6FD1D285461B8: The Bedlingtons are just the sort of new money the residents of Appaloosa Plains frown upon, having come to live in the country with no real respect for the land. Bertram is rarely seen out of his tweed button down vest, with Buckley close at his heels. Along with his wife Patricia, they love the beautiful outdoor vistas found along the river's edge, but as they enter the twilight of their lives they care little for any manner of preservation. Were their eyesight better they may notice the angry glares of neighbors as they zip down the driveway in their gas guzzler, even if it's doubtful they'd give someone else's considerations a second thought.
+   [3A5] 0x59A23481095B39D7: The Bird sisters always seem to be above the daily squabbles of the other townsfolk. Slightly aloof and ever mysterious, their charm and porcelain doll appearance earns them many eager suitors. Oriole's fascination with other's knick-knacks has landed her in trouble on numerous occasions, but Alouette's work at the local paper generally keeps the family's name clean. Can this odd couple continue their troublesome ways or will their luck eventually run out?
+   [3A6] 0xDDB3D8089DEBCEB2: If you ask Vera Blackburn about dog obedience she'll bluntly tell you, "There's no such thing as a bad dog, merely a bad owner." It's hard to argue with her approach when you find yourself cut off mid-sentence with a snap of her fingers and a fire in her eyes. The years haven't been kind to her complexion - some say the wrinkles were sealed in place from her harsh demeanor and ever present frown. Those who get to know her though will discover the love she has for her canine companions, and may pick up some useful tricks to use on their own pets along the way.
+   [3A7] 0xE2DC00FA7C85BB61: Vallari is living the good life, unfettered by the rigors of such things as "responsibility", "basic decency", and "fiscal responsibility" - all those topics her mom used to nag her about. Well her mom isn't around now, and she's free to seek thrills and pursue hot fads as she blows through the family fortune. She thinks of her day job at the spa as simply a means to meet a wealthy and handsome client - preferably single.
+   [3A8] 0xFCD9E6BBC3223F4C: "Dangnabbit, NO this land is not for sale!" - These are the first and last words any politician or businessman will hear when they pay Tate Curley a visit. As a descendant of one of the oldest settlers in town, Tate finds himself sitting on a prime piece of real estate right along Main Street. As outside pressure increased, Tate and Esme became introverted and guarded, building walls to keep unwanted visitors out. If someone could only find a way to break through their gruff exterior, a veritable encyclopedia of the town's history and stories of the old west await.
+   [3A9] 0x1801E67CA2982C72: As a fresh face in the midwest, Honey is discovering a whole new meaning to country singing! This talented songbird hit a rut in writing her new album and thought some new scenery would break the block. Southern gentlemen and southern charm have inspired writers for generations, but life in Appaloosa Plains has taken on a style all its own. With things so good, will she become the town's newest permanent resident?
+   [3AA] 0x5FC0DD745D5BEC00: Barrington and Juanita fell madly in love in a whirlwind romance that swept through the town of Appaloosa like a twister speeding across the plains. Juanita was visiting home after her big win on the reality cooking competition Dishes to Delicacy, a show that takes minimum wage dishwashers and turns them into master chefs. She immediately caught the eye of Barrington, the high school coach turned administrator of Appaloosa's new world class stadium. These two rags to riches stories simply clicked, and with the expected pitter patter of tiny feet, it can't be too long before wedding bells chime throughout the town!
+   [3AB] 0x9BAF5DB0C1200629: As great descendants of the indigenous occupants of Appaloosa, the Fox family respects the land - and their privacy. Having reclaimed a large plot of land down in the flood plain, they prosper from the fertile soil that has built up over multiple generations. Now they run the most prosperous ranch in town and take great pride in their hand built home. They're certainly self-sufficient, but it wouldn't hurt them to broaden their social circle either.
+   [3AC] 0x4B3631BB656BD96E: This eclectic group has decided to pool money together to rent their own home on the range. They come from all walks of life... Benni is the southern belle with modern flair. Zac is the local bad boy - line cook by day and biker by night. Hailey is the typical girl next door who wants nothing more than a pup to call her own. Kenji is the junior archeologist who can't wait to get a closer look at the dinosaur dig on the edge of town. The one thing they all share is a love of animals, but the landlord has a very firm policy of no fur allowed. Until they can change his mind, it looks like they're stuck with a feathered friend.
+   [3AD] 0x20CE916782728653: Chuck Hobble has had enough of scrambling to book gigs and spending every night in a different dusty motel room. Bumps, lumps, thrills and spills have all contributed to the aches in his bones. Nobody said the life of a rodeo cowboy would be easy, but settling down as a minor celebrity in a town like Appaloosa has its perks. He moved in with his long time friend Johnny, a country songwriter who shares the pains of losing a family due to a life on the road. When they aren't busy swapping stories of groupies, they tend to their horses in their now peaceful existence.
+   [3AE] 0x1509B0E5473B0C8A: The townsfolk give Ms. Lionheart a wide birth should they see her approaching. Not that there's a problem with her that anyone can pinpoint per se, but she is a little... shall we say... eccentric. With her colorful leopard print hat and garish feline apron, the local teens have dubbed her "Old Kitty", a name she'd no doubt give them a good drubbing for should it ever be said to her face. As the last remaining member of her family, she lives out her days with her four cats, and that's just the way she likes things.
+   [3AF] 0xB65CCF01AD7BC719: Gracie is a free spirit, but she reigns it in for her day job. Don't be mistaken, she loves working with the kids at Crestview School and takes satisfaction from the opportunity to help shape their lives. But is there more to Graci than meets the eye? When she's not busy grading papers she dreams of a glamourous life in modeling and finding the right man to sweep her off her feet.
+   [3B0] 0xAE29537DD983AAB2: The Marshalls are madly in love, have a beautiful home, and successful careers. What could go wrong? A glossy exterior hides their secret pain - try as they might they've been unable to have a child. Crib, toy box, and highchair sit unused, and so the Marshall's bide their time and mask their emotions by adopting all the pets they can handle. Puppies, kittens, foals - anything they can nurse and cherish, they welcome into their home. Will they one day be able to have the final addition that would make their family complete?
+   [3B1] 0xEA1235183314C430: Sofia felt trapped for years - trapped in a loveless marriage, and trapped in the concrete jungle of the city. She made the decision to take back her life by kicking her husband to the curb, and uprooting her moody teenage son for a fresh start in the country. Flush with cash from the divorce, she purchased a horse to help charm the posh country crowd. Now that she's a cougar on the prowl, will young Cruz be able to adjust to his new family and make friends in a brand new town?
+   [3B2] 0xF4595F65048EF991: The Millers are one of the most well-liked families in all of Appaloosa. They've built a reputation as trustworthy humanitarians with their strong family values and unending generosity. As fate would have it, they live right next door to the Riffins - certainly a bunch that could use a helping hand. As Quincy and Jacquie keep a watchful eye over their young neighbors, will the seemingly innocent Maisy take her own special interest in Calvin Riffin?
+   [3B3] 0xEDE38796AF3CFF14: Having moved to the mainland from Hawaii a few years back, the Parrott family seems like an exotic bunch to the country locals. Their troubles are effectively masked by their neighbors believing their mannerisms stem from cultural differences. Kanoa leads a busy life, routinely commuting to the city on business - and perhaps more. Jazlyn however appears to have become meek and downtrodden over the years; can she find the strength to take back her life and come into her own?
+   [3B4] 0x6A8525FA60EB0CA2: Imogen had it all - as a young beauty pageant star she was at home on the stage! The world grew up with her year after teenage year on the hit show, "As the PlumBob Turns". And she blossomed into adulthood with a breakout role in "Simsylvania", playing the love interest between two clans of werewolves, oceans apart in Transylvania and Pennsylvania. Alas, her world came crashing down around her as an unexpected pregnancy led to some unfortunately botched plastic surgery. As the heiress to the silver screen, she's remaining incognito in the countryside until all her problems blow over.
+   [3B5] 0x56E33E1479E70F78: Gavin Pinkerton is slowly adjusting to life in the country. As a long time plastic surgeon to the stars, business was booming in the glamorous city of Bridgeport. One small slip of the scalpel and a medical malpractice lawsuit later though, Gavin found himself desperate for a change of scenery. Being the town doctor in Appaloosa isn't quite the fast paced high pressure life he was used to, but perhaps the countryside has other charms to offer. For the time being though, he plans to lay low and hope his tarnished reputation doesn't catch up to him.
+   [3B6] 0xB06AA6569118383A: The Riffin family - what's left of them that is - has suffered through extraordinary hardship. Clement and Clarissa were loving parents, living off the sweat of their brow and working the land until an unfortunate farming accident left the children orphaned at a young age. As the oldest, Calvin quickly shouldered the responsibility of holding the family together. With their parents watching over them from beyond, and some helping hands from the townsfolk, the Riffins endure and move on.
+   [3B7] 0x353A09AF69B95290: Benjamin - handyman by day, eligible bachelor by night. He lives alone with his pup Ralston, but by no means is he lonely. The women of Appaloosa appreciate his skills and there's nothing subtle about the number of house calls he makes for "broken" appliances. Will he ever find a reason to settle down?
+   [3B8] 0x3A023A8A2241DCE1: The Singleton brothers are self-made millionaires, striking it rich by cashing in on the tech sector just before the dot com bubble burst. With lots of money and lots of free time, they decided to head west - Midwest that is. They haven't exactly had a lot of success raising horses (but what city slicker does?), but they figure if they keep throwing enough money at it something will eventually click. Between Rodney's book smarts and Booker's charming looks, they're ultimately bound for success in anything they take on.
+   [3B9] 0xA804FCEA590AFF77: Acorn
+   [3BA] 0xF560D175A5C4DB58: 
+   [3BB] 0xF548D775A5B0531A: 
+   [3BC] 0x165DC22DB91D44DD: 
+   [3BD] 0x28DF43E8ED31745C: 
+   [3BE] 0x4E7317CADA2CB2DA: 
+   [3BF] 0x591B85EA2C14151B: Alani
+   [3C0] 0x8EB230EFC808640D: Alouette
+   [3C1] 0xCB8547706597FE02: Alouette is the older Bird sister. She uses her influence as a journalist to protect her younger sister's image. A positive story in the paper does wonders to fix a damaged reputation!
+   [3C2] 0x1CEFD4E8AEC592D3: Altman
+   [3C3] 0x46F55AEA21903897: Angel
+   [3C4] 0x8354572DDAE3918F: Ashford
+   [3C5] 0x861FA51A89E137AF: Ashleigh
+   [3C6] 0x971A7FA75A9C4BCA: Audrey
+   [3C7] 0x18931FEA98C833A1: Avery
+   [3C8] 0x2DC8CEDE6B4A79E0: BaBa
+   [3C9] 0xD1ECBA4B120E2798: This little puppy is a terrible terror! The constant yapping, digging, and slobbering EVERYWHERE is enough to drive anyone up a wall! Luckily he found a home with the Marshalls, a couple with more than enough love to lavish on this needy pup.
+   [3CA] 0x6399A7A35572263F: Babycakes
+   [3CB] 0x86532A9220C0A046: Babycakes is one pampered kitty. She has the best of everything in life, as Gracie literally babies her. Friendly and well behaved, you'd be hard pressed to find a better companion. Her one quirk is her preference to stick to the first floor. The red lights of Gracie's bedroom aren't very soothing, and the thumping coming from the room makes her dive for cover under the furniture!
+   [3CC] 0x16AD71F04F8946FD: Bacon
+   [3CD] 0x07C1A293335545DC: Barrington
+   [3CE] 0x0CC71B78369AC7AE: This high school coach turned sports administrator is livin' large in life. When the county approved funds for a world class indoor sports facility, he suddenly found himself in charge of a lot more than a rag-tag group of country kids. It's not just his career that's on the rise, because coming home to Juanita each night is any jock's dream. Can Barrington keep playing this hot hand, or will success catch up to him?
+   [3CF] 0x70D37AC6D6767C04: Bea
+   [3D0] 0x2DD5A6DE6B54BF80: BeBe
+   [3D1] 0x59C1A169D57DCCF0: Bedlington
+   [3D2] 0x2DD5A8DE6B54C327: Bell
+   [3D3] 0x12983FC5F94CE6E4: Benedict
+   [3D4] 0x8B0027006244D914: Benjamin
+   [3D5] 0x879DF69A5FB077CE: As the town's handyman, Ben leads an honest hard-working life. Equipped with a quick smile and a loaded tool belt, the women in town aren't exactly upset when something around the house breaks down. In fact - appliances in Appaloosa seem to have a mysteriously high defect rate!
+   [3D6] 0x36D836F0610DEC84: Benni
+   [3D7] 0xD4FCC00AA77D1C4C: Benni is a southern transplant, coming to the town of Appaloosa Plains to make new friends and discover new opportunities. This little flirt won't have any trouble attracting attention, but how long will her roommates tolerate it?
+   [3D8] 0xC559100F5B500B5B: Bertram
+   [3D9] 0x725E7E9867A5B4FF: Curt and proper, Bertram gets on in the community by ignoring those he chooses to disassociate himself with. In his mind, success in life bestows the privlidge of dictating ones retirement, and he plans to live out his days in whatever manner suits his current whims. He loves the peace of the countryside without realizing or caring that his glib attitude is contributing to the local's distrust of new faces moving into town.
+   [3DA] 0x2DE3AEDE6B610ABD: Bird
+   [3DB] 0x406B5791D88031EA: Blackburn
+   [3DC] 0x9F15B5B0685205C5: Blanco
+   [3DD] 0x2DEDC3DE6B698368: Blue
+   [3DE] 0x2DEACCDE6B675CF5: Bolt
+   [3DF] 0x510BF9AA83BB40C6: Booker
+   [3E0] 0x8712539DEC70D89D: Rodney got the brains, but Booker got the body. At a young age he learned to use his good looks to get his way, and those same skills served him well in the world of business. As the front man for the Singleton's projects, he excelled at raking in venture capital funds. After their big payoff, he's free to spend his days pretending he knows how to run a ranch.
+   [3E1] 0x793FE62A841F0CD9: Bramble
+   [3E2] 0x6814E1C3336B4B6E: Bramble is one rugged horse. He's certainly loved by the Fox's, but nobody that would call him a pet. This working animal knows his role around the ranch and dutifully performs his job day in and day out.
+   [3E3] 0x3AB0CF492C9167F0: Breaker
+   [3E4] 0x29424CC25FFB4EB5: Breezy
+   [3E5] 0x868AB0F08EB00C48: Brier
+   [3E6] 0x4DAFFEC2751ED700: Bright
+   [3E7] 0xD5D8256AA2E8C9F9: Buckley
+   [3E8] 0xBC07C45D7C3FEFB9: Imported from a renound breeder across the pond, Buckley is everything a sophisticated gentleman's dog should be. Loyal and proud, he puffs his chest out and waits patiently to be fed only the finest in gourmet foods. His keen nose makes him the most skilled hunter in all of Appaloosa.
+   [3E9] 0x58517A83711DA5FC: Bullock
+   [3EA] 0xDBB0D2FD7B707830: Button
+   [3EB] 0x6A291BB15FB5B76F: Calvin
+   [3EC] 0xE486654F26472E59: Calvin is a young adult, but there's no doubt he's mature beyond his age. He wasn't always this way, but responsibility was forced on him as a teen when he became the head of the family following his parents farming accident. Now that it's fallen on him to guide Cornell and Chantrelle through life, he's learning all sorts of new skills he never knew he had.
+   [3ED] 0xD9B46AE142491232: Stray Cat
+   [3EE] 0xED5EAB99E4E4172B: Wild Horse
+   [3EF] 0x2D81605FF57111FA: Cascade
+   [3F0] 0x8D292F375CF4BBA9: Cavatina
+   [3F1] 0x4538EA00B01B5FE7: Chandra
+   [3F2] 0xA18F68862593522C: Chantrelle
+   [3F3] 0x2655ACC6441725C4: Chantrelle was just a toddler when she lost her parents, shielding her from the worst memories of that unfortunate accident. She's old enough now though to realize that her family is pretty different from the other kids at school. Will she find a way to grow into a well adjusted teen, or will the past continue to haunt her?
+   [3F4] 0x951AF15FCED20A88: Charmaine
+   [3F5] 0x6FD3AAFC73E63A96: Chase
+   [3F6] 0x0ADE9FD46F560321: Cheyenne
+   [3F7] 0x29A6201091381A16: Cheyenne is a no nonsense woman, but that's not to say she doesn't get along well with others. After spending much of her life on the edge of town, she discovered the pleasure of going down to main street to mingle. Eventually it dawned on her that a seat in local politics was just the right fit, enabling her to protect the town's history from the recent influx of city slickers.
+   [3F8] 0x6FFCC2FC740968A4: Chuck
+   [3F9] 0xB64BC9A072228AE0: Yee-haw! An old regular on the rodeo circuit, Chuck has lots of tall stories to tell to anyone who cares to listen. After so many years on the road, he's happy to move in with his friend Johnny for a long deserved break. His body is feeling pretty busted and broken these days, but never say never when it comes to a return to competition.
+   [3FA] 0x920AB6485258283C: Clarissa
+   [3FB] 0x49020AB9B6EEA10E: Clement
+   [3FC] 0xB6F5A2DB28A4C673: Clover
+   [3FD] 0x390BD3DE72677223: Cole
+   [3FE] 0x07002B114BDD942B: Cornell
+   [3FF] 0x6EC50D403F352C0D: Little Cornell is getting used to life without a watchful parent's eyes on him. As his older brother Calvin struggles to keep up, young Cornell has turned into a bit of a troublemaker. Taking risks, accepting dares... how long can he keep going before something goes very wrong?
+   [400] 0x38CBD8DE723196AA: Cruz
+   [401] 0x4BB36B819AA9EB10: Cruz was perfectly happy living in Bridgeport. He had his friends, his hobbies... he'd even successfully blocked out his parents frequent fighting. Ever since his mom kicked his dad to the curb though, his life has been turned upside down. Dragged out to the country, he's being forced to fit in with a crowd that totally isn't his scene, in a time of life when you really don't want to stand out. Worse yet, he has to deal with his mom bringing new men home constantly. What's a troubled teen to do?
+   [402] 0xC440DD09FCDB80A8: Curley
+   [403] 0xBBAB5F822B06E6D2: Dakota
+   [404] 0x447393779B3F8171: Even as a toddler, young Dakota is already a natural with animals of all types. He's being raised with the same respect for the land and life his ancestors held in such high regard. 
+   [405] 0xE6F44B824389A329: Dancer
+   [406] 0x1CE13E8262A2E3D0: Dapple
+   [407] 0x159D307B9578BCC2: Darnell
+   [408] 0xDCFE01BD95FFE6AA: Dazzler
+   [409] 0x113A1FA1279C75DD: Devoir
+   [40A] 0x127A304F993F7560: Diamond
+   [40B] 0xFB9DCEDE4F62AAC7: Ditz
+   [40C] 0x92C94D37E3A518F1: This old mutt may just be the fabric that truly holds the Riffin family together through their troubled times. She's not always fully aware of her surroundings, and loud noises will send her running for cover, but her timid vulnerability gives the Riffin children something to love.
+   [40D] 0xEFA142C0E47EFEB2: Dizzy
+   [40E] 0x221E4CC100ACE8D4: Donna
+   [40F] 0x94EEBBC447ABA723: Dorothy
+   [410] 0x42B225C082A212F4: Ducky
+   [411] 0xA842340E32A850E1: Earth-Shaker
+   [412] 0x66F50998256C4BA0: Edison
+   [413] 0x81A45E9FAB19F123: Einstein
+   [414] 0xC1F187DA79A73487: Ellada
+   [415] 0xC20CAEDA79BE3E97: Elliot
+   [416] 0x4046127FE10BD627: Wild Horse
+   [417] 0x02A1FADE52E4CC62: Esme
+   [418] 0xDD5C100A7190D514: Esme is Tate's doting wife, having been married into the family for as long as anyone in Appaloosa can remember. Originally an outsider, she worked her way into Curley's heart in a way that none since have managed. Perhaps Esme is the one remaining link to repair the family's burnt bridges to the rest of the community.
+   [419] 0xB92F67E54600DF04: Estela
+   [41A] 0x9B73CCC6FDC85C5C: Ethan
+   [41B] 0xB60B03C447F1272E: Ethan is unfortunately caught in the middle of his parent's troubled marriage. With his dad's time spent away from home and penchant for partying, young Ethan has grown even closer to his mom. Will he have to make do without a strong father figure to guide him?
+   [41C] 0x02B2EADE52F32464: Evan
+   [41D] 0xD86F332F779D0321: Wild Horse
+   [41E] 0xB02218C8B946FDF3: Felipe
+   [41F] 0xCF70B88D5F694281: Felipe is a gentle man who loves his wife and wants to give her the child she desperately craves. Unfortunately things aren't going as planned, and the only family he's currently shepherding is covered in fur. The longer he goes without a child to rear, the more pets he seems to accumulate. Is his life going to the dogs?
+   [420] 0x5C207B2DFF6346C6: Fiddle
+   [421] 0x0AAF064B989CCC95: Fishfinger
+   [422] 0x2E0D55D2B1E0C365: Flint
+   [423] 0x70C6A0C6D66C32FC: Fog
+   [424] 0x6ED966FE245A2101: Foster
+   [425] 0x70C6A0C6D66C32E3: Fox
+   [426] 0x3B657FA7D9BE1AA7: Freebird
+   [427] 0x3356698FA807AB76: "'Cause I'm freeeeeee, free birding!" Alright, so nobody will ever mistake Johnson's lyrics as 100% originals, and his blends of popular songs and off-key covers can get a bit grating, but naming his horse Freebird was certainly apropo for anyone who had a passing interest in his career. Freebird on the other hand is anything but, with moods ranging from nervous to downright mean, she'd prefer an afternoon in the box stall to roaming the countryside.
+   [428] 0x6EB0CFD245438E3B: Frend
+   [429] 0x4D175BD87ACDA697: Gavin
+   [42A] 0xF4FDA7A106987E89: Stressed out and spurned by the very celebs Gavin used to rub shoulders with, he's escaped to the country where life moves at a slower pace. There's no room for error in the high stakes world of plastic surgery, and one malpractice lawsuit later left him disgraced and out of work. Wolfson's Hospital lept at the opportunity to bring a big city doctor on staff though, and he's working his way back up from the bottom.
+   [42B] 0x70CD20D88F5492F1: Genna
+   [42C] 0xE7EED824C8F0DFE7: 
+   [42D] 0xE806E624C9058959: 
+   [42E] 0x52D5AF4E37DFEBB4: 
+   [42F] 0xB1F24C81CFE9AF8D: Singleton
+   [430] 0x9C87C8966FA0E8E4: Ginger
+   [431] 0xD0B28958201415F8: Ginger is one troubled puppy! Passed from family to family, she eventually found her way to Vera's doorstep for some lessons in obedience. Although barely taller than a Sim's ankles, she's already a furry little bundle of destruction. Is there hope for turning this rough pup's life around?
+   [432] 0xB7E81FCA12D57376: Glint 2.0
+   [433] 0xB7E820CA12D574C9: Glint 3.0
+   [434] 0x84A9AEE174CFA05E: Glint 3.0 is the Singleton's third thoroughly inept attempt at a thoroughbred. Fresh off the hooves of Glint 1.0 and Glint 2.0, will this third version meet with success? This poor horse is treated more like a commodity than a pet - hopefully he doesn't meet the same fate as his predecessors.
+   [435] 0xED12FDC0CBA745FC: Gloria
+   [436] 0xC08CF7CC135616F2: GooGoo
+   [437] 0x67B881BF50BFE52A: Besides being saddled with a sickeningly sweet name, GooGoo has a pretty easy lot in life. Continually coddled by Kim, this sweet young foal gets the best of everything. Although he sometimes misses his real mom, Kim is overly eager to fill that role, feeding him with a bottle in one hand and carrot in the other. Will he still get all the loving attention he's grown accustomed to once he grows up?
+   [438] 0xD4D5C2DD04595E01: Gosling
+   [439] 0x238FB47876FBFFB5: Gracie
+   [43A] 0xD9FA554F73BACC58: Gracie is a total sweetheart. Patriotic to a fault, she takes time away from her job at Wolfson's Research Facility to teach science classes at Crestview School, always dedicating herself to each child to ensure they succeed. However when she escapes from work, is there more to this lady than meets the eye? A wild side just beneath the surface is waiting to be unlocked by the right man in her life!
+   [43B] 0x14DF20DE5D7B7E99: Gray
+   [43C] 0xF2E793D8D91222B8: Grubb
+   [43D] 0x2A02997F54A47FC9: Gurpal
+   [43E] 0x3168C27F58796654: Gussie
+   [43F] 0xB0C594941B17FDB4: Hailey
+   [440] 0xEBC0CB4FAC19DBF1: Hailey is the typical girl next door, although for Zac and Kenji she just so happens to be the girl the next room over. Though single, when it comes to priorities in her life she's far more interested in lovable puppies than a loving relationship. Because she can't yet own a pup of her own, she spends as much time as possible in the local dog park fawning over others - and their owners.
+   [441] 0x770A2F948B1EB185: Harley
+   [442] 0x2A006214515B216E: Hennessey
+   [443] 0x33449925EF61F40A: Hetty
+   [444] 0xFD5C0F960FC8BA4A: Crazy cat lady is never a term Hetty would consider, but there's nothing healthy about living in denial. Maybe "crazy" is a bit of a stretch, but eccentric is certainly spot on. She lives as a recluse in her musty old Victorian home, as far from her neighbors as she can possibly get. Townsfolk give her a wide birth as nobody looks forward to one of her hyperbolic rants on modern society. Perhaps it's best that she sticks to her cats after all. 
+   [445] 0xF5FDE9D5D1D54B74: Hiller
+   [446] 0x5EBADBD60D613CE8: HipHop
+   [447] 0x23AFB0C8C97BA532: Hobble
+   [448] 0x89CF522620611A11: Honey
+   [449] 0xFE2D130053D5A6A5: Honey is a veritable superstar in the world of country music. It isn't just a facade, she truly lives the life. Her southern drawl has entranced many a man, and she doesn't lack in southern hospitality either. She decided to give midwest living a try to break the writer’s block that developed while attempting to record her next album.
+   [44A] 0x9DFCF5C90F0BE016: Hopper
+   [44B] 0xED486F04FCA4A285: 
+   [44C] 0xC93EC6C927885009: Howlet
+   [44D] 0xC74CF53413798146: Hunca-Munca
+   [44E] 0xD4EAC2EDBB645BF6: Hunter
+   [44F] 0xDB9535A414C2CCE5: Imogen
+   [450] 0xD720592626B2D225: Imogen is the classic case of the child star with too much pressure to succeed in life. She always had natural beauty, and her presence on the stage was unrivaled. She made a great name for herself while avoiding the rut of a one hit wonder, until disaster suddenly struck. She found herself unexpectedly pregnant, and one botched plastic surgery later left her with a PR nightmare on her hands. She's escaped to the country to live incognito while time heals all wounds.
+   [451] 0xF7B6C5A762346D52: Jacoby
+   [452] 0x9AB6576C25006BEE: Jacquie
+   [453] 0xAC66431120B76915: Jacquie Miller turns heads wherever she goes. Simply saying she's attractive would be doing her a disservice, and she's known around town for her friendly demeanor and kind acts of generosity to strangers. Not content to just be a mother to her own children, she takes any wayward folks under her wing. Her heart broke for the poor Riffin children, and she pays close attention to them to ensure Calvin raises them right.
+   [454] 0x70EEA6C6D68D8E8A: Jak
+   [455] 0x70EEA6C6D68D8E98: Jay
+   [456] 0xD062D7A7DCF71584: Jazlyn
+   [457] 0x78A671FD73351666: Jazlyn has been dealt a tough lot in life. Her husband is rarely home, and after getting married at a young age she feels like she's matured beyond her years. Will she find the courage to break out of her current rut and do something for herself again?
+   [458] 0xA18DAB9ED821CC13: Stray Cat
+   [459] 0x6DDEEBCAF9BCAC42: Jenner
+   [45A] 0x3829E73313FEAB0C: Jenny
+   [45B] 0x0908D665DC75B8BB: Jingle
+   [45C] 0x72FFFBDE9278A347: Joey
+   [45D] 0x405BEC77A6434FD4: Johnny
+   [45E] 0xA312A7FA4C045E19: As long-time country songwriter, Johnny is in the twilight of his career. His success was ultimately bittersweet, as a life on the road led to the loss of a family who simply couldn't stand life without him anymore. Now he's the one who feels the sting of being alone. He recently invited his good friend Chuck to take the spare bedroom, but will his company be enough to fill the hole in his heart?
+   [45F] 0x9F1F914F840C0925: Johnson
+   [460] 0x73000DDE9278C1AD: Josy
+   [461] 0xE0DEA7610F9974A2: Juanita
+   [462] 0x6BE0AC996F6EBD3F: They say reality TV rots your brain, but for Juanita it was the launching pad to a fabulous career! After winning season one of "Dishes to Delicacy", a show that takes minimum wage dishwashers and turns them into top chefs, life couldn't seem to get any better. It was that very moment that she laid eyes on beefy Barrington, and a romance swiftly blossomed.
+   [463] 0x0768D14317F2CCC3: Julian
+   [464] 0x7D6A17DE98DDD23D: Kale
+   [465] 0xBD426280BA58A499: Kalliopi
+   [466] 0xF91FC63DC0F25242: Kanoa
+   [467] 0xB810DE2EC4CE65BC: If people really got to know Kanoa, they probably wouldn't like what they found. As a Hawaiian transplant, people chalk up his flamboyant personality as a regional disconnect. Too many business trips and too many nights in hotel rooms have all shaped him into a skilled schmoozer - quick to strike up a conversation at a bar, and even quicker if a pretty lady catches his eye.
+   [468] 0xD584FD3DAC822711: Kenji
+   [469] 0x04FD3CADBB3FE090: Kenji is a practical one, content to pool his resources with his roommates while devoting his time to his true passion, archeology. He was drawn to the town of Appaloosa by the large dig site that's long been something locals boast about. Beyond the tourist trap facade lie layers of dinosaur bones and traces of a ritualistic monument. What secrets await buried in the hillside?
+   [46A] 0x54CB35AD562624F7: Kicker
+   [46B] 0x297E6BAD3D9FB8A9: Kiffle
+   [46C] 0x70F282C6D6913AE1: Kim
+   [46D] 0xF37DD8ED154CCEAF: Kim is the artistic type, mostly content to whittle the days away painting animals and tending to her "babies". Her maternal clock is definitely ticking though, and as long as she's unable to get pregnant, she'll keep bringing more pets into her life. Will she get to become the mother she's always dreamed of being?
+   [46E] 0xDD9AC1ADA321E10B: Kismet
+   [46F] 0xB4BB693D9A775B91: Kizzy
+   [470] 0x3FF506DE75D2D7C4: Lady
+   [471] 0x3FF510DE75D2E8D0: Lark
+   [472] 0x4610A59395629121: Li
+   [473] 0x25457D8E96D9EEDE: Lionheart
+   [474] 0x4610A59395629127: Lo
+   [475] 0x31DED775066BBEA9: Lollypop
+   [476] 0x6C33D357E9F6D66B: Loveland
+   [477] 0x9BA1DAC49BF0C252: Maggie
+   [478] 0x9B89F2C49BDC596D: Stray Dog
+   [479] 0x9BD4D2C49C1C0E5D: Magpie
+   [47A] 0xE4562E09478B3B5B: Maisy
+   [47B] 0xF9FE832EF8709A22: Maisy Miller is the town's teen sweetheart. Trusted by her parents and loved by her teachers, everyone assumes she can do no wrong. That surface innocence has bought her plenty of freedom the normal teen might not enjoy. With her eyes set on Cruz, the cute boy across town, what sort of trouble might she actually find herself in?
+   [47C] 0x3E93EDC4F7C56FA8: Marney
+   [47D] 0x07B44F164AC8A45A: Marney leads a pretty easy life. As Sofia's latest toy, he's really just one large accessory to draw attention to her. When sunlight strikes his glistening white coat, there isn't a Sim around who won't turn his way for a closer look.
+   [47E] 0x30B6FC29FB4A3726: Marshall
+   [47F] 0x7CFB3133DFDFFD60: Martingale
+   [480] 0xCD0DF4E383A2C810: Melody
+   [481] 0xCDE9AB8328625F47: Midden
+   [482] 0xC57B85C9D5BC98A8: Wild Horse
+   [483] 0x1240D3834ED2708B: Miller
+   [484] 0x00FEC20D5DD35D32: Minette
+   [485] 0xF80AA1ACA6AAB7FF: Minette is the neglected member of the Bird family. Their name ought to be a dead giveaway; this family is more welcoming to a feathered flock than a big bundle of fur. Minette knows how to draw attention though, she's constantly hatching new plots to devour one of the home's plump and juicy birds.
+   [486] 0x49AD578FFFBD29C2: Mollie
+   [487] 0xE7CEE469C7E03DF7: Mothball
+   [488] 0x63434AD118FDD5B3: Mothball may be the king kitty of the Lionheart household, but even he still bends to Pickles's will. Regardless of who's running the place, the other cats still look to him to be the oldest and wisest of the bunch.
+   [489] 0xF2E9B08FCE8E5D75: Mozart
+   [48A] 0xF870955B75896470: Mozart forges his own path in life. He formed a close bond with Jacquie as a kitten, and you can see it in his fiercely independent behavior. Try and give him a hard time and you'll find just how sharp this cat's claws can be!
+   [48B] 0x2C67B55F78491FB3: Muffin
+   [48C] 0x44523EE3B97EAB3F: As the youngest of three adult cats in the home, Muffin is in a precarious position. Of course Hetty loves all her cats, but there's a definite pecking order when it comes to the kitty chain of command.
+   [48D] 0x40E4735E732D6908: Natalie
+   [48E] 0xD5A7CA4563D3DCF8: Stray Cat
+   [48F] 0xF982B27E44A92F01: Wild Horse
+   [490] 0x6F7A0F13D57C5618: Noble
+   [491] 0xA155EF88EFB5F9E2: Oopsie-Daisy
+   [492] 0xBE9138D6E5D475BA: Oopsie-Daisy is another of the Marshall's many rescues. For a kitten it's a pretty decent life being pampered as if she were a true child. It's a tough position to be in though, because what happens if the Marshall's ever succeed in having a kid?
+   [493] 0x4537F8B6ACE99386: Oriole
+   [494] 0x73BCCF5CEBFF02EB: As the younger Bird sister, Oriole is the troublemaker in the family. It's not mean-spirited, she just has a knack for acquiring knick knacks - ones that aren't necessarily hers. Nobody will ever mistake her as a mastermind, but she's starting to turn quite the profit as the town thief.
+   [495] 0x32BB6C492B419782: Oxendine
+   [496] 0xAB189B419EF62456: Pantoufle
+   [497] 0x660C1E473681223E: Pantoufle has a name to match his demeanor, that's to say he's quite the dandy. Over-styled and overly pampered, this pup’s personality is one only a celebrity like Imogen could enjoy. Don't look for him at the local dog park; he'd never mingle with such common rabble.
+   [498] 0x92B6D4DE13B1F30D: Parr
+   [499] 0x50ACAE403CD6D160: Parrott
+   [49A] 0x06CB5178B15755E5: Parr-Teague
+   [49B] 0xFE98C95B775B9F26: Patch
+   [49C] 0x115FA2CA8DB6321D: Named for the cute black mark over one eye, Patch was adopted from the local fire station after an unexpected litter of Dalmatians were born. As an honoree member of the fire department, this pup struts around with head held high.
+   [49D] 0x2F7F5E32123B5929: Patricia
+   [49E] 0x7A275550D1BCFF69: As a stately lady with a high brow and stiff upper lip, Patricia Bedlington does not associate with the common folk. She vehemently dislikes anything improper, and the only conversations she chooses to engage in involve discussing the woefully lacking youth in today's society. As a strict upholder of "proper" values, she only wishes to live out her days by fully taking advantage of the wonderful environment Appaloosa Plains has to offer.
+   [49F] 0xDDDC005B655B0472: Pelly
+   [4A0] 0xD3F320FEBB403CE0: Petunia
+   [4A1] 0x2CB8787205F30102: As the Curley's cat, Petunia leads a sheltered life. That's said quite literally - the many fences the Curley's constructed on their properly keep her quite strictly as an indoor cat.
+   [4A2] 0xAF446FBA73F18EE6: Phinneas
+   [4A3] 0x43BDDB7F7A5A1791: Pickles
+   [4A4] 0xAEEFD71213B9F6AD: This momma cat rules the roost. As Hetty's personal favorite, she knows she has the authority to boss Mothball and Muffin around with few repercussions. If a cat wants something done in this household, they better run it by her first.
+   [4A5] 0x68283F2A7F7A4F87: Stray Dog
+   [4A6] 0xA9C24170E5DD3684: Pinkerton
+   [4A7] 0xBA33785B50DF0A16: Pippa
+   [4A8] 0x56AFEBD17A0BB4BA: Puggle
+   [4A9] 0xB8632AC997C8C6FF: Quincy
+   [4AA] 0x5A1A83F2064F6376: Quincy is the ideal example of a father in the traditional nuclear family. As a hard-working military man, he gives his all to provide for his family, and his selfless actions frequently benefit the entire community. He believes it's his responsibility to improve everything he lays his hands on.
+   [4AB] 0x67E111FE7509DBE3: Ralston
+   [4AC] 0xBD11004AF4384485: A handy dog for a handyman, Ralston is the trusty companion that any single guy would be happy to have around. Even in his adult age he's a master of the puppy stare that would melt any woman's heart, ensuring many "social" opportunities for his master.
+   [4AD] 0xCF2716DABACC798E: Rascal
+   [4AE] 0x6BDE9E6D604689B0: Stray Cat
+   [4AF] 0xFF58E251A5749E29: Reynard
+   [4B0] 0x462BC01BFD3908FE: Riffin
+   [4B1] 0x59E10E2DB29440E9: Rodney
+   [4B2] 0x619632D41C52997E: Rodney is the brains behind the Singleton brother's success. All the money in the world can't completely tear him away from his time in front of a computer screen, but he has found horse breeding to be a similarly stimulating activity.
+   [4B3] 0xA50625DE1E5915F9: Rose
+   [4B4] 0xA4BB25DE1E192A4A: Rush
+   [4B5] 0xA3FB167337250717: Sable
+   [4B6] 0xABD34ADE21ABE8F4: Sage
+   [4B7] 0xABD35DDE21AC08BB: Sara
+   [4B8] 0x34031E3DB16062A8: Schmidt
+   [4B9] 0x8869628EB8F1BA3B: Schreckengast
+   [4BA] 0xFF0C702D0325656B: Nova
+   [4BB] 0x39937DE5D42D8D5A: Seymore
+   [4BC] 0xA4344E1421E66150: Shadow
+   [4BD] 0xA8F43DFEDDA2B844: Shadow is Chuck's trusty steed, and the pair have formed a close bond over many years and countless rodeos. Man and horse move as one, and Shadow won't trust anyone else in the saddle.
+   [4BE] 0xF399907364B67DDB: Shaun
+   [4BF] 0x6CDB7535E3C77AE7: Shawnee
+   [4C0] 0x1F2161E59C645EF0: Shawnee is in touch with the land around him, and feels happiest out under the clear blue sky. Taking crops from a small seed all the way to the dinner table is just one of the ways he tends to his family. In his personal time he connects to the past by powering through historical literature.
+   [4C1] 0xABF25CDE21C6B7C6: Shep
+   [4C2] 0x3827ECA3A2518F0D: Shep is the definition of man's best friend. Hard working and loyal, he's just the type of dog any ranching family needs on their farm. Visitors may pause to wonder if Shep is actually the one running things on the ranch, and they wouldn't be far off the mark.
+   [4C3] 0x42FA18ADF114F57D: Shepherd
+   [4C4] 0xB03CEF083610BA0F: Stray Dog
+   [4C5] 0xABEE40DE21C29F38: Sims
+   [4C6] 0xF683FF35F9F56F37: Singleton
+   [4C7] 0x2CAF804BEAC4A951: Sir-Dancelot
+   [4C8] 0xEBA5BACB93C774A3: Skedaddle
+   [4C9] 0xFBCC793A22E7BB2B: Life's pretty simple when you're the pampered pet of a country superstar. Skedaddle always has to be looking her best as she never knows when a pesky paparazzi may pop out and take her picture. With a glistening white coat and a bedazzled saddle, she's always ready for a ride around town!
+   [4CA] 0xD6FF057353C4AA72: Sofia
+   [4CB] 0x47A4269554FA6848: Caution, cougar on the prowl! Sofia is taking back her life, and as far as she's concerned she's 40 years young. Fresh off a divorce and new to the countryside, she's happy to catch the attention of any suitor that looks her way, even if it means her making the opening move.
+   [4CC] 0x92A22A62B01F1A9B: Sprockett
+   [4CD] 0x3AE931C0E29A5CA8: 
+   [4CE] 0x13D429737647991B: Stone
+   [4CF] 0x18CDC8153FEDC2A5: 
+   [4D0] 0x18BCC2153FDF450B: 
+   [4D1] 0x1EE152737D373F93: Swell
+   [4D2] 0x18CB743E005FEF6E: Toulouse
+   [4D3] 0x0339C4EECD2A1D7D: Tallis
+   [4D4] 0xF8CC7BEEC6C26BC3: Tamsie
+   [4D5] 0xFF4FFAEE39EF17E6: Wild Horse
+   [4D6] 0x71C42EDE01840420: Tate
+   [4D7] 0x48FB8D59808F7442: Tate Curley is as sour as his home is old, take that as you may. Years of fending off businessmen and local politicians have made him introverted and untrusting of visitors. As the head of the town's oldest family though, many local secrets would go to the grave with him.
+   [4D8] 0x67686C125A54DEAC: Maria
+   [4D9] 0x343CB446D69DCAA4: Maria is a cat that only a crazy lady could love. Don't cross this kitty's path.
+   [4DA] 0x4F4A173CD9694CF5: Stray Dog
+   [4DB] 0x68A6A23CE7994927: Trace
+   [4DC] 0xCD3C0FF3F2EFF3D3: Vallari
+   [4DD] 0x7AD8F16B79AA83C8: Delighted by passing fads and always looking for her next thrill, Vallari passes through life without much thought for anyone but herself. Well-to-do from her parent's inheritance, she bides her time at the local spa with a single goal - finding a suitable suitor to latch onto who can sustain her carefree existence.
+   [4DE] 0x807D8ADE091EEC30: Vera
+   [4DF] 0x6C300FB8AC9E75E4: Despite her older appearance, Vera still walks with a snap in her step, and woe unto the dog who can't keep pace. She has as little tolerance for an improperly behaved Sim as she does for a pup, so stay in line or find yourself put in your place.
+   [4E0] 0x12C0B5E3B9D9D52D: Verity
+   [4E1] 0x32F9745C0F016E25: Walter
+   [4E2] 0x9031FBFE4234A181: Walter is all business, and knows his place on the end of a leash. He is one of the most successful graduates of Vera Blackburn's dog training academy, and follows her motto of "A dog should be neither seen, nor heard." to a tee.
+   [4E3] 0x867CA0BF1208B2B6: Whipsnake
+   [4E4] 0x7B9091E2545A23B2: Stray Cat
+   [4E5] 0x3B6F3CE2B02D2635: Wild-Hair
+   [4E6] 0x22F109D0D8101E17: 
+   [4E7] 0xE7258E1AE502C4B2: Willow
+   [4E8] 0xFF02DFBE9D925551: Willow is a bright eyed foal with a lot to discover about the world around her. Living on the Fox ranch, she'll quickly learn to follow in her mother's footprints.
+   [4E9] 0x14F0E12D8ECEC004: Wurlitzer
+   [4EA] 0x79FEB01BCDEA6821: Yellow-Foot
+   [4EB] 0x70B886C6D65FC972: Zac
+   [4EC] 0x59B800FCB2F83B56: Zac's the town's bad boy, but beneath that gruff exterior is a decent guy with his head screwed on straight. The neighbors see him come and go late at night on his hog, or occasionally taking a stroll with his pet snake in hand. What they don't see is his dedication in the kitchen as he labors to rise from a line cook to his dream of becoming a top chef.
+   [4ED] 0x8E70F1A7B43F2C26: Zebedee
+   [4EE] 0xF924D0AEAE3FD438: Stray Dog
+   [4EF] 0xFD4EC92FB020B0FA: Magnificent! The CCC is quite please with the performance and has parceled out a decent reward to {OpOwner}!
+   [4F0] 0x87C389B8B6B1E38E: The local Canine Covetor's Club just can't get enough of their dogs.  They have made it known that any pet owner with a dog can come by the local Dog Park and show off any tricks they know.  Prizes will be given out to participants showing off enough tricks.
+   [4F1] 0x94904D1F59E08E06: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
+   [4F2] 0x9C02C9A334043E83: Bring a dog to the Dog Park and have them perform {OpNumEventsGoal} tricks to earn some prize money.
+   [4F3] 0xD1C9DCA352FCE611: Dog Trick Showdown
+   [4F4] 0xFBF2DECAB1D257B1: {OpNumEventsCurrent} / {OpNumEventsGoal} Dog Tricks performed.
+   [4F5] 0x1A4E11B8BA00B454: EP5_Location_FindFossils_Completion
+   [4F6] 0x876CA1C284514EC0: EP5_Location_FindFossils_Description
+   [4F7] 0x9C35123F3784973C: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
+   [4F8] 0x19677E5C9FA22DD9: EP5_Location_FindFossils_Hint
+   [4F9] 0xE3A0695C80A982AF: Fossil Finder Frenzy
+   [4FA] 0x9316CCB468E66AEB: EP5_Location_FindFossils_Progress
+   [4FB] 0xD31D8DFD50D828B7: Horus's equine experience has helped {OpOwner}'s horse excel at their riding and jumping skills.  Jumping those high gates will be even easier now!
+   [4FC] 0xF0FECD19BE8904B5: The city council was lucky enough to attract the skills of self-proclaimed Horse Lord Horus E. Quine to the local equestrian center.  He will be giving free lessons and tips to those that bring their horses there today.
+   [4FD] 0x147D15D003E528E9: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
+   [4FE] 0x0DA9919E3951A5CE: Enter the Equestrian Center with a household Horse to get a significant boost to riding and jumping skill.
+   [4FF] 0x1FF0E69E43F0FC90: Professional Horse Training Seminar
+   [500] 0x17B68753B82E5EBC: Enter the Equestrian Center with an owned horse.
+   [501] 0xCF539CB468BAF7BB: The event was quite successful.  With an atmosphere of can do attitude and so many good examples of good horsemanship, {OpOwner}'s horse has definitely learned a lot!
+   [502] 0x09C64F9D8FF0D561: The nearby equestrian fanatics have banded together to rent out the local horse ranch.  They've invited all horse owners to bring out their equines and do some jumping.  With all the jumping practice going on {OpOwner}'s horse is bound to learn extra fast!
+   [503] 0x9B6C9EFDA6C3C7DD: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
+   [504] 0x49B23D9D398C5B9A: Have {OpOwner}'s horse perform {OpNumEventsGoal} jumps to be rewarded with a skill boost.
+   [505] 0x13112A9D19DA10D4: Horse Jump Power Hour
+   [506] 0x9E2390E6E76C0E60: {OpNumEventsCurrent} / {OpNumEventsGoal} Horse Jumps performed.
+   [507] 0x788A40D02D1AC73F: OFF was very pleased with the turnout and everyone had a lot of fun.  It was pretty awesome and {OpOwner} was quite the Socialite milling about!
+   [508] 0x81FFA44782F6BB8D: The Official Feline Followers are encouraging all cat lovers to socialize and meet new friends at the local cat jungle.  They are really hoping it will be an Awesome Party for those that come.
+   [509] 0x0C6FA9819923DAC1: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
+   [50A] 0xA9C437E1A6BD55C6: Meet {OpNumEventsGoal} new Sims (Human or Pet) to get an Awesome Party moodlet.
+   [50B] 0xB86F8CE1AE4BF418: The Great Cat Roundup!
+   [50C] 0x36ED778BECB88134: {OpNumEventsCurrent} / {OpNumEventsGoal} new Sims met.
+   [50D] 0xD15C7D2902121B99: The event was a success and {OpOwner} met so many new possible friends!  People are calling it an Awesome Party!
+   [50E] 0x712E9EDBDC492D77: It appears that there is a small Meet and Greet event going on at the local dog park.  Everyone is encouraged to bring all their dogs to the dog park and have fun with all the other neighbors!
+   [50F] 0xFD383CEE8CD1A6E7: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
+   [510] 0xCA5A3545850B85FC: Meet {OpNumEventsGoal} new Sims (Human or Pet) to get an Awesome Party moodlet and become a Socialite.
+   [511] 0xFCBB0A45A1209ACE: The Dog Social Hour
+   [512] 0x379EBD278674BE5E: {OpNumEventsCurrent} / {OpNumEventsGoal} new Sims met.
+   [513] 0xD7D756DB32BF83F0: {OpOwner} saw a lot of new faces and met quite a few to boot!  They had an Awesome Party and hopefully some of these new faces will become solid friends in the future!
+   [514] 0x112A8C4677374474: In order to promote camaraderie and improve community morale among horse owners, the city has staged a Meet and Greet for all Sims at the local horse ranch.  Sims should bring their horses and meet some new friends there today!
+   [515] 0xD4C00CE014C4D5B8: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
+   [516] 0x5E900E6845AA00CD: Meet {OpNumEventsGoal} new Sims (Human or Pet) to get an Awesome Party moodlet.
+   [517] 0x70A16168501BC57B: Equestrian Lovers' Meet and Greetings
+   [518] 0x1DC65EB536DE79E7: {OpNumEventsCurrent} / {OpNumEventsGoal} new Sims met.
+   [519] 0xDA8BA8121FE10FDD: {OpOwner}'s entry stole the show!  All of the judges were amazed at the pet's looks and attitude, or maybe it was luck!  Who knows but {OpOwner} has won the grand prize!
+   [51A] 0x459668C1D2585753: The local pet adoption center is working with the Association for Wondrous Wildlife to host an incredible Pet competition at the stadium.  Sims should come by to enter one of their favored cats or dogs for a chance at the big prize!
+   [51B] 0xA9DE8EF45EFCC64B: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
+   [51C] 0x69C20861574EA6C8: "Enter the Competition" at the Stadium with a favorite cat or dog to win big prizes!
+   [51D] 0x577AB5614CAF5282: Best in the Show Competition
+   [51E] 0x9FFCD1C2A7844D42: "Enter the Competition" at the Stadium.
+   [51F] 0x48F7E6E346097205: While {OpOwner}'s entry didn't make the grand prize, they did win a minor award for the quirkiest pet in town!
+   [520] 0x4324F3A4293EF6D0: Consignment Store
+   [521] 0x139BDB65D2141392: Dive Bar Criminal
+   [522] 0x4B1B86CCDEC47638: Fire Station
+   [523] 0x2CC34382C311D3EC: Junkyard
+   [524] 0xB5551F845B6D4A9F: Salon
+   [525] 0x722AD85A2ACD7625: The Sims™ 3 Pets Install
+   [526] 0x24CF29786A42C6A6: The Sims™ 3 Pets Installer
+   [527] 0x723422796595EC0D: Print
+   [528] 0xA21A149FB779E78B: Do you want to completely remove the selected application and all of its features?
+   [529] 0xB4C45027DC25AC3E: Boosting Bark Volume...
+   [52A] 0x4F4071BB1403AD6A: Emptying Litter Boxes…
+   [52B] 0xB4C45027DC25AC3D: Carpeting Cat Condos…
+   [52C] 0xB4C45027DC25AC3C: Reticulating Tail Splines...
+   [52D] 0xB4C45027DC25AC3B: Sharpening Unicorn Horns…
+   [52E] 0xB4C45027DC25AC3A: Saddling Up...
+   [52F] 0xB4C45027DC25AC39: Allocating Canine Loyalty...
+   [530] 0xB4C45027DC25AC38: Calibrating Claws...
+   [531] 0xB4C45027DC25AC37: Hatching Fleas...
+   [532] 0xB4C45027DC25AC36: Wagging Tails…
+   [533] 0x1AFD3B6C04E279AB: We are unable to verify that your disc is a valid copy of The Sims™ 3 Pets.  Please contact customer service.
+   [534] 0xD3470C4E6B734D1F: No game disc found! Please insert The Sims™ 3 Pets game disc before proceeding
+   [535] 0x3C56F45B5E15FF7A: You placed a Cat Jungle. This location is perfect for cats to safely play outdoors and make new friends!
+   [536] 0x17A3400FF5D824A1: You placed a consignment store.  This location is perfect for putting your sims handcrafted goods up for sale.
+   [537] 0xD3E18F270936E22F: You placed a Dive Bar. This location is wonderful for relaxing after a long day, casually enjoying the local night life, or simply getting your juice on.
+   [538] 0xA46A4CAA72EAA10B: You placed a Dog Park. This location is just the spot for dogs to run around, play fetch, and meet other pups!
+   [539] 0x9D643067B3AFE0C7: You placed an Equestrian Center. This location is the place to be when you're ready to enter your horse in a competition, breed your horse, or simply buy and sell horses.
+   [53A] 0x9C231CC835E98144: You placed an Equestrian Center. This location is the place to be when you're ready to enter your horse in a competition, breed your horse, or simply buy and sell horses.
+   [53B] 0xF475CF79C609F7F9: You placed a fire station.  This is the lot where firemen live while on duty.
+   [53C] 0xAC9E39E7DE570B24: You placed a Horse Ranch. This location is great to visit when you're ready to train your horse in the racing or jumping skills.
+   [53D] 0x7196E9D234998425: You placed a junkyard.  This place is perfect for finding Scrap and other treasures sims do not want anymore.
+   [53E] 0x891C10C101007DFA: You placed a salon. This place is perfect for getting your Sims all dressed up for a night on the town...
+   [53F] 0x4290EF82EA751846: In Create a Household, to further customize your pets you can select Advance Mode In both shapes and coat sections
+   [540] 0x4290EF82EA751845: If your Sim desires a new pet he/she can adopt one via phone or computer for little or no Simoleons.
+   [541] 0x4290EF82EA751844: If your Sim is tired of his or her look, take a gamble and go to the hospital to embark on some life changing plastic surgery.
+   [542] 0x4290EF82EA751843: It is easier for your horse to start off learning the Jumping Skill with the Cavaletti before using the more difficult jump obstacles.
+   [543] 0x4290EF82EA751842: Cleaning the box stall can produce fertilizer that you can use for your garden.
+   [544] 0x4290EF82EA751841: Your Sim will need to build a good relationship with Wild Horses before they will let your Sim adopt them.
+   [545] 0x4290EF82EA751840: Having trouble petting a deer? Try observing it using the “Watch” interaction to gain its trust.
+   [546] 0x4290EF82EA75184F: Use the Pet Hygienator to temporarily prevent your pet from getting fleas.
+   [547] 0x7CBBDFE8C4180651: ©2011 Electronic Arts Inc.
+   [548] 0xC678A8A7E00A9BC5: Pets
+   [549] 0x83C0432339DF34F4: Home for Us All
+
+   [54A] 0x83C0432339DF34F7: Foundations for the Future
+
+   [54B] 0x83C0432339DF34F6: Cul-de-sac of Memories
+
+   [54C] 0xA19F97BF5591927C: Something New for You
+
+   [54D] 0xA19F97BF5591927F: Lace and Collars
+
+   [54E] 0xA19F97BF5591927E: A Ball of Yarn
+
+   [54F] 0x256D75B4CF6A194F: Looking for Kitty
+
+   [550] 0x256D75B4CF6A194C: Puppy Dog Eyes
+
+   [551] 0x256D75B4CF6A194D: Leashes and Skirts 
+
+   [552] 0x8DC927840256B25E: A Nice Place to Dig
+
+   [553] 0x8DC927840256B25D: Howl for Night Skies
+
+   [554] 0x8DC927840256B25C: Chasing Clouds
+
+   [555] 0x8FFEADDC29EECBEE: The Sims™ 3 Pets Team
+   [556] 0x83C3ABAD37354E5E: Senior Vice President, COO, EA PLAY Label
+   [557] 0xEFA3119930A7B16B: Senior Vice President, EA PLAY Label
+   [558] 0x0EDDE13C0E1222A4: Senior Vice President, GM, The Sims
+   [559] 0x4ECA3652275C435D: Recording courtesy of Universal Records under license from Universal Music Enterprises
+   [55A] 0x9C72D842A48075C3: Performed by Asher Roth
+   [55B] 0xE45563E34CE67059: Published by Universal Music Publishing and D. Ranger Publishing (BMI) 
+   [55C] 0x7E7435B101D99566: Written by Oren Kleinman, Asher Roth and D.A. Wallach
+   [55D] 0x1796CD8637413C1C: Recording courtesy of Rose Colored Records
+   [55E] 0xE1CDC3B8A60B6E60: Performed by Katy Rose
+   [55F] 0xF6CB63112747F0BE: Copyright Control
+   [560] 0xAE42EA53FA307C49: Written by Kim Bullard and Katy Rose
+   [561] 0x5AE4D49D767E2A64: Recording courtesy of Sony Nashville by arrangement with Sony Music Entertainment
+   [562] 0x85F777D65014F4D8: Performed by The Lunabelles
+   [563] 0x77D823382A6FC286: Published by Sony/ATV Music Publishing and Universal Music Publishing
+   [564] 0xEA966A5E228FA221: Written by Natalie Hemby and Angela Lauer
+   [565] 0x949F6F39DC4ABD8C: Recording courtesy of Downtown Records by arrangement with Cooperative Music
+   [566] 0xD2951C2B857EF550: Performed by CSS
+   [567] 0x34A9A4D98C5FE6EE: Published by BMG Chrysalis Music and Music of Stage Three (BMI)
+   [568] 0xF8D3D5BFF8075259: Written by Luisa Hanae Matsushita, Adriano Cintro and Cody Critcheloe
+   [569] 0xCDD43DF388EEBD21: Recording courtesy of Stolen Transmission
+   [56A] 0x3FC855198CC373AF: Performed by The KickDrums
+   [56B] 0x27F83856D9178555: Copyright Control
+   [56C] 0x7E3121ED48EAB1BA: Written by Alex Fitts
+   [56D] 0x74380AA07BD47DEA: Recording courtesy of Capitol Records under license from EMI Film & Television Music
+   [56E] 0xD78CA8CD98FB52F6: Performed by Luke Bryan
+   [56F] 0x792DADFFC17A9664: Published by Sony/ATV Music Publishing and EMI Music Publishing
+   [570] 0xEA969413AC0B1863: Written by Dallas Davidson and Luke Bryan
+   [571] 0x8ECE543DE97060FD: Recording courtesy of Capitol Records under license from EMI Film & Television Music
+   [572] 0xCE8EC59080DA9CE3: Performed by Speakers
+   [573] 0x6ABED2780AE47579: Copyright Control
+   [574] 0x445508F5D0DC9186: Written by Speakers
+   [575] 0x760443B7FE1B3CAF: Recording courtesy of Warner Bros. Records by arrangement with Warner Music Group Video Game Licensing 
+   [576] 0x6EFB3F9CC9F983FD: Performed by Kimbra
+   [577] 0x0D3142185380638B: Published by Sony/ATV Music Publishing and Warner Chappell
+   [578] 0x8D76F58D28E00AEC: Written by Kimbra Johnson and Francois Tetaz
+   [579] 0x1CA5D8EC9A9236D7: Recording courtesy of Universal Republic under license from Universal Music Enterprises
+   [57A] 0x6DE90E3A7439B395: Performed by Anjulie
+   [57B] 0x39E3584939DB5553: Published by Sony/ATV Music Publishing Canada (SOCAN) and BMG Platinum Songs
+   [57C] 0xED7924E468A39B44: Written by Anjulie Persaud (SOCAN) and Jonas Jeberg
+   [57D] 0x8F7FC4F25F4799FE: Performed by Fall On Your Sword
+   [57E] 0x11493BF2303603CB: Written by Fall On Your Sword
+   [57F] 0x0F9FF99144BA0FF9: Recording courtesy of Mom + Pop Music
+   [580] 0x009C62E453FB4C97: Performed by Joshua Radin
+   [581] 0xA5A3F761C7156A4D: Published by Glass Bead Music (BMI)
+   [582] 0xEFA524A493A84342: Written by Joshua Radin
+   [583] 0xD1865DC0976DC2D0: Recording courtesy of Stoney Creek Records
+   [584] 0xF0380A4EC138551C: Performed by Thompson Square
+   [585] 0x855AC06FA18C2A9A: Published by Magic Mustang Music, Inc. (BMI) o/b/o Mack 2 Mack Music (BMI) This Is Hit (ACAP) Fibber and Molly Music (ASCAP) all administered by Big Loud Bucks and Becky’s Boy Music/Sony/ATV Cross Keys Publishing (ASCAP)
+   [586] 0x53A3A2A07EF4FABD: Written by Shawna Thompson, Keiffer Thompson, Jason Sellers and Paul Jenkins
+   [587] 0x13D61A6016A444D4: Recording courtesy of Plan Beach, Owlbrooke LLP, and Shamrock Solutions Ltd.
+   [588] 0x1729D752A9EE1E48: Performed by BG5
+   [589] 0x657278719C4463F6: Published by Universal Music Publishing, Downtown Music Publishing and BMG Chrysalis Music
+   [58A] 0x4CECAD8EEC761771: Written by Tim James, Antonina Armato and Steve Robson
+   [58B] 0xF67C5615248B2566: Recording courtesy of Island Def Jam under license from Universal Music Enterprises
+   [58C] 0x82BAE57148EA35FA: Performed by Mona
+   [58D] 0xDF0B5EF184CD93C8: Published by EMI Blackwood Music, Inc. (BMI)
+   [58E] 0x338247F3F457B73F: Written by Nick Brown 
+   [58F] 0x02E1A1579B9D1D65: Recording courtesy of Warner Bros. Records by arrangement with Warner Music Group Video Game Licensing
+   [590] 0xACFDA84554FFC83B: Performed by Outasight
+   [591] 0xE7620A2844F415A1: Published by Adra Music (BMI) and Pam Quint Productions/Warner Chappell and Avenue C Music/WB Music Corp. (BMI)
+   [592] 0x7CAAD80D759E8B3E: Written by Richard Andrew Conte, Benjamin Ruttner and James Patterson Jr. III
+   [593] 0x66326D028224CFEE: Recording courtesy of Jive Records, a unit of Sony Music Entertainment
+   [594] 0x0E2683E0B274CDD2: Performed by Alex Boyd
+   [595] 0xEB457697F944E2F0: Published by Find Your North Music/ Sony/ATV Music Publishing (BMI) and Lola Lime Publishing (ASCAP)
+   [596] 0x72C2DDAF21132317: Written by Alex Boyd and Andrew Rose
+   [597] 0x7A160A0CC57D45BD: Recording courtesy of Warner Bros. Records by arrangement with Warner Music Group Video Game Licensing
+   [598] 0xA7070492F77F9AA3: Performed by Dale Earnhardt Jr. Jr.
+   [599] 0x456E902EB7E6EA39: Published by DNZ/Chrysalis (ASCAP) and Johnny Panic Music//Kobalt Songs (ASCAP)
+   [59A] 0xC298D525E64DD146: Written by Daniel Zott and Joshua Epstein
+   [59B] 0xD8298167DF73CE38: Performed by Galactic
+   [59C] 0x170501EEF8E8B381: Written by Galactic
+   [59D] 0x254412F000CAD9F7: Recording courtesy of Seeing Stars LLC
+   [59E] 0xF1024C4E0F663735: Performed by Robby Armstrong
+   [59F] 0x249738F67EBAC3F3: Published by Grey Ink Music and Seeing Stars LLC
+   [5A0] 0x09B075666F509FE4: Written by Darrell Brown and Robby Armstrong
+   [5A1] 0x3782D8695A661370: Performed by Carpool
+   [5A2] 0xE8B382E8A06E4879: Written by Charlton Pettus
+   [5A3] 0x6CDAA97E003FBEC1: Recording courtesy of Simco/Sony Music Entertainment
+   [5A4] 0xE131A8F1A90D60CF: Performed by Cher Lloyd
+   [5A5] 0x5A8CC827D671CC75: Published by EMI Music Publishing and Warner Chappell
+   [5A6] 0x72186EBFDA70DCDA: Written by Juke Box and Priscilla Renea
+   [5A7] 0xD1380DD6168C6C7C: Recording courtesy of Republic Nashville under license from Universal Music Enterprises
+   [5A8] 0x43946C2AB45ADC40: Performed by Martina McBride
+   [5A9] 0x9DBE6839BD3A6A9E: Published by Delemmava Music Publishing/EMI Blackwood Music Inc. (BMI) and Stylesonic Music (BMI)
+   [5AA] 0x77D5FF2AFAB9E229: Written by Martina McBride, Brad Warren and Brett Warren
+   [5AB] 0x6B263345EA03AB84: Recording courtesy of Warner Bros. Records by arrangement with Warner Music Group Video Game Licensing
+   [5AC] 0x06373434277FFC78: Performed by Jack’s Mannequin
+   [5AD] 0x04AB33B761486826: Published by Ram Island Songs/Songs Music Publishing (ASCAP) and Texa Rae Music/Sony/ATV Tunes (ASCAP)
+   [5AE] 0x372359BD458C69C1: Written by Jaren Johnson and Andrew McMahon
+   [5AF] 0x1D148D5648567C5D: Recording courtesy of Stoney Creek Records
+   [5B0] 0x1EFDB446ADAF50C3: Performed by Rock Mafia
+   [5B1] 0x66E03FE756154B59: Published by Universal Music Publishing, Downtown Music Publishing and Warner Chappell
+   [5B2] 0x1E2D8848433FF866: Written by Antonina Armato, Tim James and Jimmy Messer
+   [5B3] 0x20F713FFB0AD892B: Recording courtesy of Warner Music UK by arrangement with Warner Music Group Video Game Licensing
+   [5B4] 0x4FCC2E6718BEC341: Performed by Wolf Gang
+   [5B5] 0xE304F5934EB9EE2F: Published by Warner Chappell Music Publishing (PRS)
+   [5B6] 0x05B71CDE50CF3108: Written by Max McElligott
+   [5B7] 0x0CF9C8EA3D4C21F8: Recording courtesy of Epic Records by arrangement with Sony Music Entertainment
+   [5B8] 0xA29D5E0B62443F34: Performed by Lenka
+   [5B9] 0x325EF0EC8CEF0D62: Published by Sony/ATV Music Publishing UK Limited (PRS), Sony/ATV Tunes LLC (ASCAP), and Skipalong Music (ASCAP)
+   [5BA] 0x24A1D79D5EC298B5: Written by Francis Eg White (PRS) and Lenka Kripac (ASCAP)
+   [5BB] 0xCFE22BE13C018E68: Recording courtesy of FarWest Entertainment
+   [5BC] 0xDAB6D757E05F8864: Performed by Blush
+   [5BD] 0x7852067DBC743BD2: Published by Hey Kiddo Music/Kobalt Music, Four Vertelney Music/Peer Music, Right Bank Music and EMI Music Publishing 
+   [5BE] 0x7FAEED0913B7C685: Written by Lindy Robbins, Reed Vertelney, Jess Clayton Cates and Calvin Broadus
+   [5BF] 0xDE2B36F089C93469: Recording courtesy of Mute Records
+   [5C0] 0x030F7C8CD2FA12C7: Performed by Erasure
+   [5C1] 0xD6F8D09EF00DD3FD: Published by Sony/ATV Music Publishing
+   [5C2] 0x514AB6F735DE6592: Written by Andy Bell and Vince Clarke
+   [5C3] 0xE0D6BE3E3E2A81F7: At one time Appaloosa Plains was a sleepy ranching township, its only claim to fame being a garish tourist trap that drew in the occasional curious passerby. However, a recent influx of city slickers has turned the area into a bustling hub of activity. They keep arriving with their stacks of Simoleons, retrofitting the town with modern amenities while eagerly believing they've acquired their own slice of country paradise. The clash between old and new is readily apparent, with some elderly die-hards clinging to the remaining vestiges of life as they knew it. Will the town come together in a new era of prosperity, or will the generational clash leave a clear line drawn in the sand?
+   [5C4] 0xFED69993BC4F804E: Appaloosa Plains
+---

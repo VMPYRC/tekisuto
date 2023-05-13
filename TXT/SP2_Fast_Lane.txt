@@ -1,0 +1,121 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x74) ---
+   [00] 0x3598BB305716C534: The Sims™ 3 Fast Lane Stuff
+   [01] 0x71AB665EAAB1D723: The Sims™ 3 Fast Lane Stuff Installer
+   [02] 0x2B54258DF74F4EBC: Print
+   [03] 0x50A66F3E14157562: Do you want to completely remove the selected application and all of its features?
+   [04] 0xD78F7F86CBAC7669: Life is but a series of choices made at unending crossroads. Whichever way you go in life, the Left at the Turnpike Bar will be waiting at every junction, ready to serve up a refreshing drink and provide serene solitude, a respite from the hustle and bustle of daily life. So take some time to catch your breath at the Left at the Turnpike Bar.
+   [05] 0x98C613406FCF55CE: We all want to be "right" in life. We want to have the right of way. We want to make the right decisions. And, most importantly, we want to choose the right barstool! Plush yet firm and finely stitched, the Right at the Turnpike Barstool is guaranteed to be the right choice for at least one aspect of your life.
+   [06] 0x8221E3015A53BE55: Vintage style at modern prices, this classy classic is everything you can't remember from your grandmother's youth and more! A super sleek polished finish gives this ride a glossy shine that you'll want to preserve by spending your afternoons buffing and waxing the hood. Plenty of trunk space makes up for the limited passenger seating area. Comes fully equipped with an environmentally friendly air conditioning system we like to call Mother Nature.
+   [07] 0x99A7EBE0D97DC2D9: A near-perfect replica of classic vehicular style, this automobile offers the height of luxury from decades past. Complete with three-speed manual transmission with column shift, optional overdrive, and a semi-floating wheel bearing axel, this beauty is tuned to purr like a tiger as she thunders down the interstate.
+   [08] 0xCA8EAC571D212C08: The Empire Eidolon glides along the road like a phantom in the night. Fully equipped with a satellite radio, ten CD changer, and state of the art global positioning system, this compact sports car is the pinnacle of luxurious driving. So sit down, buckle up, and prepare for the smoothest, fastest ride of your life!
+   [09] 0x67737EFF3232EF08: The more space under the hood, the bigger the engine! The bigger the engine, the greater the horsepower! The greater the horsepower, the faster the speed! The Requiescence has enough horsepower for an entire herd, making it the ultimate choice in vehicular recreation. Put the pedal to the metal and enjoy the affluence of the finest ride Simoleons can buy.
+   [0A] 0x58F3EFFFBAB1B008: A gift from the gods of the highway, La Matea is the newest entry in the luxury line from Simota Motor Sports. Carefully crafted contours make the La Matea one of the most aerodynamic road vehicles available today. Tripped out with high shine wheel rims, three-hundred and sixty degree driver-side air conditioning, and a passenger-side DVD player the La Matea offers up the highest echelon of luxury at an almost affordable price.
+   [0B] 0x92C81A3EBAE08BC7: Rapid motion. Swiftness. Speed. The Velocity from Simota Motor Sports is designed and crafted to be the fastest compact racer on the road. No frills adorn this racing machine, because frills will only slow her down. Speed is the name of the game, and it's a game The Velocity intends to win!
+   [0C] 0x2EA81172BA35D1FF: There was a time when all things in life were simpler, car racing included. This vintage design encapsulates the early days of motor sports when a thin plate of glass was enough to protect the driver from the wind and the bugs. This no-frills racer may be primitive by modern standards, but the engine packs that VaVaVaVROOOOOM punch seen in race cars today.
+   [0D] 0x363335BE6311F57E: Every ladies' man needs a sweet, smooth ride to impress! Bucket seats, a four-button radio, and an engine that roars like a lion make this model a hot commodity amongst discerning retrobillies everywhere. Ladies will swoon over the leather interior and adjustable seat backs with side pockets.
+   [0E] 0x9B5DB3970ED79E44: For the man with many muscles (or none at all!), this tricked out muscle car is an affordable, high performance automobile great for everyday use or the occasional drag race. With a superior sound system and a full size V-8 under the hood, the Rock Town 3000 is a beast in the garage or on the road! This new edition includes seatbelts and air bags for no extra cost.
+   [0F] 0x7A9459523F3DF534: For the Sim that dreams of the thundering hooves of mechanical horses, our friends at Simota Motor Sports offer this new entry in their line of supercars! Featuring an oversized engine that rockets down the road, this sleek beast is a powerful player in the street racing game. But don't worry, it's family-friendly and also features plenty of trunk space for a shopping spree or two.
+   [10] 0xF9E7E1973CDAA3E6: This comfy creation is a replica of chairs decorating the Wynndale Estate's main dining room, parlor, and summer tea time veranda. Lovingly recreated down to the very last detail, time spent perched in one of these chairs harkens your imagination back to a time when Jazz music was king, ladies came to dinner bedecked in jewels, and gentlemen went motoring for fun on the weekends.
+   [11] 0x2B18A3422963BEE3: You say I-beam, I say joist, we all say column! This industrial truss is essential as a support structure, but also adds class to a dream garage or modern loft. Guaranteed not to rust for 5 years.
+   [12] 0x103FDAD691089347: Mrs. Lulu Wynndale was a great collector of correspondence supplies. She had two dozen pen pals and wrote numerous letters to members of her household staff, feeling that written communication was a more pleasant way of conversing with others. Consequently she spent much of each day cloistered in her office writing. This exact copy of her much loved desk was crafted by artisans at the bequest of Mrs. Wynndale.
+   [13] 0x5E7C49035768B9CF: Crafted from special materials designed to extend the force of your swing, the Recoil Hammer gets the job done in record time. Just don't forget the safety goggles.
+   [14] 0x440797917EEF817B: This light will make you want to put on your dancing shoes and boogie the night away! Its sleek curve and rockabilly style will transform your place into the trendiest home in town. 
+   [15] 0xDD77226BF7717DE7: Use this sign to warn others of dangerous llama treading areas! You could even use it to keep unwanted suspects away—like your neighbors! Just remember: it is always better to be safe than sorry.
+   [16] 0x8C5FF4455B9B8190: Wish you could race like the professionals? Well here’s your chance! Turn everyday roads and rooms into race tracks with the Go! Go! Go! lights. Modeled after the real thing!
+   [17] 0x7E30A69884391192: The patriarch of the Wynndale never quite understood "that new fangled electricity thing" and consequently did not believe that light came from any source other than a candle. The family humored his eccentricities and the lamps in their home became jokingly referred to as "electric candles" both in his presence and behind his back.
+   [18] 0x0CE1C1FD6A927056: This neon mural will make any housewife run…she won’t be able to stand the looks of it! Want some time away from your wife? Get the Va-Va Vroom! and create yourself some man time.
+   [19] 0x3C634437B330EF21: Lulu Wynndale prized function over form and comfort above all else. This loveseat may look simple, but don't let appearances deceive you—the cushions are filled with the finest goose down and the base is crafted from a single piece of solid oak. The firm backing is velvety-soft and offers practical back support, but maintains an elegant shape.
+   [1A] 0xE656584E08E3A7A8: Hit the road in style with the hautest in an exclusive line of 2-wheeled motor vehicles from Simota Motor Sports! Fast and fun, this festive ride will garner envious glances from pedestrians who wish they could be half as cool as you! It's always a party when you're traveling on The Jamboree!
+   [1B] 0xAE6024375C15EA95: When the drudgery of clean up chores gets in the way of enjoying the day, pick up a Bucket of Fun! Our sturdy buckets have so many uses that every household needs a dozen or more! If you can't have fun, at least you can carry it with you.
+   [1C] 0xAD90EF25EFCDD37C: You wish you had an Oldie But A Goodie! She defines "classic" in every way. Slick design, vivacious curves, and an engine that will make anyone get out of your way. Can't afford an Oldie But A Goodie? That's okay, because you can afford this portrait of one.
+   [1D] 0x242D0488B2B7241D: The Record of Love Rug is a stunning, retro-inspired, shag area rug made from recycled vinyl records! Take it for a spin and you'll start singing a happy tune. Enjoy your melodious new rug from RPM Carpets.
+   [1E] 0x9A94194B9B3C825A: Scoot your way around town on this beauty! This baby may not look as fast as a motorcycle, but rest assured, it packs the horses into the engine!
+   [1F] 0xECD902A552DB8623: Every garage needs a sturdy work bench for, well, work! Cars need a lot of tender loving care and brutal wrench work. Nowhere is better to carry out this maintenance than on the Vehicle Depot Bench. Built of hard wood and designed to withstand repeated impact, it is guaranteed that you will love this bench almost as much as your vehicle.
+   [20] 0x201E11213B71E576: Relive the days of fast cars and cheap gas prices with the Pump It Up Gas Pump by Hey Daddy-O Inc. This nostalgic replica from yesteryear is sure to be the centerpiece at your next bash. It will snap your cap!
+   [21] 0xAE8F61B488C8283B: Made from the finest blue chip materials, the Tick Tock Stock is worth investing in. Handsomely crafted and loaded with options, your desk would not trade it for any other accessory. No matter the current market forecast, the Tick Tock Stock replica ticker tape machine will always leave you feeling bullish.
+   [22] 0xA69B7849DD15263F: Up to the challenge but without free time to show off your racing skills? Pre-populated with a stunning selection of trophies representing your victories, this beautiful cabinet is perfect for a study or entertainment room. The Win-Win Trophy Case is for the competitive Sim on-the-go.
+   [23] 0x633ADF015943F07B: When not used for directing traffic or alerting drivers of potholes, this cone makes for a lovely party hat. Made from sturdy materials, The Gridlock Cone will divert your attention to important danger zones so you can safely maneuver away from them.
+   [24] 0xE7AA15F08F2F2A40: Vehicle maintenance is not a task to be taken lightly. To run at optimum potential, the hood must be popped and the car's innards serviced regularly and with precision. Let these reliable tools help with all of your auto maintenance requirements.
+   [25] 0xB23904FAD4F49D43: Manners are almost as important as the decor and musical accompaniment that give the surroundings a welcoming ambiance and theme. No matter how polite the host, no one wants to spend time in an unpleasant abode. Appearance, therefore, is almost everything. Let the Debonair Decanter lend a helping hand by adding a bit a sophisticated charm to your next soiree or gathering.
+   [26] 0x71D687B85D585B85: Turn up the heat and pepper your kitchen walls with this whimsical hanging chile sculpture. This colorful hanging sculpture is sure to add spice to even the most bland color schemes. Not for consumption.
+   [27] 0x7793E93EFB28D846: The engines revving! The breaks squealing! The gears rapidly shifting! The race is ON and there is no looking back! Simulate the thrills of a real stock car race with these festive black and white checkered flags. Joyride to the finish line with the Final Flag Banner!
+   [28] 0x07441C7941857B92: Built during a time when music—and life—was much, much simpler, this sturdy shelf is designed explicitly for the comfort and display of your favorite vinyl. Be wary of dust, earthquakes, and spitting llamas.
+   [29] 0xE52C6F4C9A9163FF: No tricked-out car is complete without a set of deluxe custom rims to give your ride that extra stroke of style and flare. Admire the many options available with this lovely wall collection of rims available from Cartopia Inc.
+   [2A] 0xA539FF7FB55A50B2: Listen carefully as the engine purrs. Inhale deeply the fumes from the exhaust. Taste a little of that sticky residue that is pooling at your feet. Still perplexed about what exactly is wrong? Every good mechanic has a few tricks up their sleeve that help them to properly diagnose engine problems. From the professional mechanic's garage to your home, these specially designed tools will help your automobiles continue to run smoothly and soundly.
+   [2B] 0x1C0D8AE02F1A8393: Leave this humble sign in your wake as at top speeds you cruise the interstate!
+   [2C] 0x5581E5BB70327B69: Dangerous curves ahead! But who wants a straight path when there's adventure waiting around every curve? Alert others to the contours of the road with this extremely heavy sign.
+   [2D] 0x5924AD5AB93A3F97: Gnomebody knows when the wee folk might cross the street. Watch out for gnomes! They're everywhere!
+   [2E] 0xC7EB631EEE00EFA2: No matter what direction you travel in life, you'll always have room for this traffic sign replica in your home or garage. 
+   [2F] 0x922BBC19D534E5AD: Sculpted simplicity was the rage when the Wynndales ruled the social scene. This cozy sofa encapsulates the charmed sophistication of an era long since past. Upholstery that is soft to the touch and plush goose down padding that gently cushions the seated Sim help make this sofa one of the most luxurious furniture pieces available.
+   [30] 0xA0E41FFCDB889E5E: Bundled together for added value, this set of bins will be sure to fulfill your needs when you fill them up with spare parts or tools. Made from recycled plastic and designed to last for an entire lifetime or more!
+   [31] 0x1587F6B9208302FA: This workstation is crafted from a state of the art, heavy duty material trademarked as Simfastic! Simfastic! is guaranteed to withstand the impact of drills, saws, and most metals. It is rustproof, waterproof, and soundproof too! This revolutionary technology has changed the way workstations are used and abused in auto body shops the world over. 
+   [32] 0x04466F970E4AA73A: Tuff Gruff Tools ensures quality goes into your every chore or hobby, every time, always. Why look elsewhere?
+   [33] 0x1F5B8BFDD39E3D94: Left at the Turnpike Bar
+   [34] 0x3E9773003C66DF4B: Right at the Turnpike Barstool
+   [35] 0x48FC16418CEC1DCA: Classic Convertible
+   [36] 0x01D9C8F678731078: Anachronous Automobile
+   [37] 0x024810FFB4A72D41: The Empire Eidolon
+   [38] 0x65886479CCBEB42F: Requiescence
+   [39] 0x448ED779BA8AD0A3: La Matea
+   [3A] 0xDFD7EB8A847627C0: The Velocity
+   [3B] 0x559665D95E283E08: The Fitzgerald
+   [3C] 0xDE5A2049F1A4E2E5: Heartbreak Hot Rod
+   [3D] 0xF6AC4AC931FA09E9: Rock Town 3000
+   [3E] 0x65A5A045B17CF635: Summertime Souped-Up Ride
+   [3F] 0xD22BB9471E07853D: The Wynndale Estate Chair
+   [40] 0x99F0DA7F1AF24EBE: Call Me a Column
+   [41] 0x9CBCBD2D9D9139EE: Mrs. Wynndale's Writing Desk
+   [42] 0xC476DCB3FCA25570: Recoil Hammer
+   [43] 0x6B338A9DF175A0EA: Boogie Lights
+   [44] 0xD3C5E28B671C90F2: Stop-O-Meter
+   [45] 0x6179669EEBD45B71: Go! Go! Go! Lights
+   [46] 0x55E9131F257134F1: Grandfather Wynndale's Electric Candle
+   [47] 0xAA30514C71DD7FAF: Va-Va-Vroom!
+   [48] 0xB490165037666EB4: Lulu's Loveseat
+   [49] 0x7C7ACA42E06E7457: The Jamboree
+   [4A] 0x23059E5FE614D6DC: Bucket of Fun
+   [4B] 0x93515DA6C17EE477: Oldie But a Goodie
+   [4C] 0xD9F17EC056EACE62: Record of Love Rug
+   [4D] 0x912BD7BB8C8DAF43: Scoot Mobile
+   [4E] 0xAB80AB5801FCAEC8: Vehicle Depot Bench
+   [4F] 0x99951B9953082AEF: Pump It Up Gas Pump
+   [50] 0x9190349217751170: Tick Tock Stock
+   [51] 0xF4AE312749C3A98E: Win-Win Trophy Case
+   [52] 0x089A9F24C6BED272: The Gridlock Cone
+   [53] 0x53D1C60327CBA359: Totally Tools by Simplicity
+   [54] 0x6C50B18627B545FA: Debonair Decanter
+   [55] 0x84DA01CD30161F2C: Speecy Spicy Chiles
+   [56] 0x5857359C95647EA5: Final Flag Banner
+   [57] 0xAE7A07DEC33BC063: Rockabilly Record Shelf
+   [58] 0xCFA2761B1515BC74: Custom Rims
+   [59] 0x64FB91155C59D073: Auto Analysts Tools and Tricks
+   [5A] 0x7DEB01FEEA256836: Recognize the Route
+   [5B] 0x16F4BAFADC44EB44: Curvaceous Course
+   [5C] 0x730520DEC0CD507C: Gnome Crossing
+   [5D] 0xB1E416DA2FA3F289: Sign of the Times
+   [5E] 0x0CE3F155B88A1274: The Wynndale Estate Sofa
+   [5F] 0xD55DDDFB61CE295B: Stack O'Storage
+   [60] 0x3FA1AF6DC31B62ED: The Transformation of Transportation Workstation
+   [61] 0x9773D3052F3897CD: Tuff Gruff Tools
+   [62] 0xBAF2F6099CAEB2AA: We are unable to verify that your disc is a valid copy of The Sims 3 Fast Lane Stuff. Please contact customer service.
+   [63] 0xEEFB96324A1F50BE: No game disc found! Please insert The Sims 3 Fast Lane Stuff game disc before proceeding.
+   [64] 0xDCA23E008058BBBA: ©2010 Electronic Arts Inc.
+   [65] 0x73F8947C18F945E5: Revving Engines…
+   [66] 0x08AA33DE6F91C42F: Adjusting Mirrors…
+   [67] 0x08AA33DE6F91C42E: Conserving Fuel…
+   [68] 0x08AA33DE6F91C42D: Calibrating Speedometers…
+   [69] 0x73F8947C18F945E6: Deploying Air Freshener…
+   [6A] 0x73F8947C18F945E7: Calculating Maximum Velocity…
+   [6B] 0x73F8947C18F945E0: Realigning Splines…
+   [6C] 0x73F8947C18F945E1: Injecting Fuel…
+   [6D] 0x73F8947C18F945E2: Checkering Flags…
+   [6E] 0x73F8947C18F945E3: Buckling Up…
+   [6F] 0x73F8947C18F945EC: Applying Racing Stripes…
+   [70] 0x73F8947C18F945ED: Greasing Hair…
+   [71] 0xF8A29A86E46C3B02: Music
+   [72] 0xD8DA60217E22D19D: The Sims™ 3 Fast Lane Stuff Team
+   [73] 0x1E6BE85C4EA09D76: Voice Actors
+---

@@ -1,0 +1,119 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x70) ---
+   [00] 0x3598BB305716C535: The Sims™ 3 Outdoor Living Stuff
+   [01] 0x61E25CFAF7DB5FA1: The Sims™ 3 Outdoor Living Stuff Install
+   [02] 0x9AA592535FFF4EF6: The Sims™ 3 Outdoor Living Stuff Installer
+   [03] 0xD6B4F99806ECFD09: Print
+   [04] 0x16C129E926EA56C7: Do you want to completely remove the selected application and all of its features?
+   [05] 0x26B2C937BCED550D: Enjoy every moment of outdoor cooking with the Original Griller Entertainment Series Barbeque. The hybrid ionized cooker and smoker guarantees a perfectly cooked slab of meat every time. Savor the ultimate in smoky flavor thanks to the patented Infuserizer grill bars!
+   [06] 0x377055ED74989232: Specially designed for open air entertaining, the Outdoorsy Life Bar is a great spot to serve mixed juice drinks at your next block party. After the party cools down, you won't have to fear the mess of post-party clean up either! Thanks to the EZ-Wipe countertop, you'll wipe away juice spills and bird droppings easily. It won't feel like work at all.
+   [07] 0x2E38E5750240EACB: Do your daily affairs involve balancing a country's economy? Ruling a vast empire? If so, your bar should exude the style, class and elegance that your job title commands. Demand nothing less than the Throne d'Elegance, your Excellence.
+   [08] 0x308BB4383EA1E307: Couches are comfy, loveseats are lovely, and futons are funny. But when it comes to dining chairs, they have a deliciously dapper definition as a chair defined to dine. Is it a crime that this chair is so fine? Don't whine, this chair is divine!
+   [09] 0xEEF621DBDF1167A7: Protect your body and the planet with the ergonomically designed Organica Life Chair. Allow the curves of the chair to support the contours of your body, and support your all-natural lifestyle with an organically-designed chair for an organic lifestyle!
+   [0A] 0xE8399FEAECAFF4E0: When you need an escape from the stress of ordinary life, pull the Outdoor Napper into the sun and snooze the day away. Morning, afternoon, or evening, this chair will be waiting for you to sink into its inviting arms and take a mental vacation from the daily grind. The Outdoor Napper is not just a chair, it's a seat to live your life in!
+   [0B] 0xD018290E0E370A06: The extraordinary Continental Vision Counter is not just a place to prepare food, it's a place to experience the emotion of a beautiful piece of furniture. The impeccable craftsmanship embodies modern styling and clean lines. Prepare your next meal on a counter with edges so sleek and sharp, you could cut vegetables on them!
+   [0C] 0x8B0F337BB706E125: This elegant easel is modeled after the one famously used by Ricardo Richards when he created his masterwork "Portrait of a Llama." Unlike Richards' original easel, this one lacks the layers of llama spit that accumulated after he spent hours making a llama pose for the portrait.
+   [0D] 0xECA408CD695DCA96: When Archduke Mitchell of Smithington decided to invade the fair land of Farmington at the turn of the Middle Century, the farmers constructed fences of incredible strength… and style. When Mitchell's forces approached, they were instantly repelled in awe when they caught sight of the intricate and detailed craftsmanship of Farmington's walls. Archduke Mitchell never returned.
+   [0E] 0x59CE23555BFC1EE0: All great fences need a great gate, and the Gate of Farmington sacrifices no style or design of the original Fence of Farmington. We'd venture to say that even just the Gate of Farmington would have repelled Archduke Mitchell's forces during their attack upon the Land of Farmington.
+   [0F] 0x70FA29F0C3A35776: Backyard snacks are fun thanks to the open flame roast and toast capabilities of the Patio Pyre! Constructed to be wind and rust resistant, the stylish casing is designed to keep flames burning bright deep into the night. 
+   [10] 0xFDCF81BF6F3E9C0B: Add a touch of sophisticated ambience to your next garden soirée with this modern take on the classic fire pit design. The brilliant glass inner layer reflects heat and adds a splash of color to this stunning creation. Your guests will be delighted as you roast appetizers over the open flame, proving that this piece is not only beautiful, but functional too.
+   [11] 0x70A51BD02177DF68: Graceful, tasteful and with a warming radius that is sure to impress, this is an excellent outdoor fire source that will complement any home patio or veranda. Stay impervious to the evening chill and enjoy the stars from the comfort of your own porch. For long-lasting warmth and a touch of modern elegance, turn to the Courtyard Coals.
+   [12] 0xBC9853E3810DCD03: Turn your porch or patio into an outdoor living room with this bold piece from Homes by Howe. Designed to provide intense heat in an open space, the Veranda Furnace is perfect for decks or patios that need to stay heated. Think warm, think toasty, think Veranda Furnace.
+   [13] 0xD4E2C4AD5EEBE193: Discover multiple layers of aquatic action with this modern fountain from artist Circe. Marvel at the ingenious design featuring four levels of fascinating fountain fun! Watch the water flow and fall! Perfect for home or garden, the Whimsical Water Falls is an inspirational piece that defines water as art.
+   [14] 0x5961CB78816AC46F: Luxuriate in the heated pool and appreciate the wondrous water that flows free and strong in this modern hot tub design by Circe. With multiple waterfalls and layers strategically arranged to provide the most soothing of sounds, this stunning piece is Circe's most masterful creation to date. 
+   [15] 0x9E981E72B86C1E92: Relax beneath the calming waters amid a tranquil environment reminiscent of a jungle spring. Constructed of natural stone and lined with Amazonian plants, the Aqueous Garden is truly a hot tub for the Sim who loves nature.
+   [16] 0xAAA127EF0CD7E27A: Designed to caress your body with soothing jets of filtered water, the Empress Hot Tub is sure to be a splendid addition to your home. Top-grade craftsmanship, water-resistant materials and five adjustable water settings make this hot tub a virtually unbreakable backyard oasis. When you want to impress, get the Empress!
+   [17] 0x4B552418558E492A: Bubbles abound in this no-frills hot tub that is sure to fit any backyard. For the Sim who craves the hot tub experience without the pomp and ostentatious display of other models, this is the perfect piece. Sink into the heated depths to loosen muscles and ease fatigue after a long day of work. The Modern Rustic, a simple hot tub for a practical Sim.
+   [18] 0xF4F9D931BEC738AE: Add a touch of elegance to the hot tub experience with this fanciful piece from Wondrous Waters Inc. Rounded edges and ornate embellishments bring an air of sophistication to any space occupied by this stunning creation. Enjoy an idyllic evening with a loved one submerged in the aquatic depths and revel in the bubbles that provide a perfect atmosphere for cultured conversation. The Resplendence, for the Sim who is King (or Queen!) of their backyard.
+   [19] 0x2E039825E0E36A04: A simple candle burning bright. It burns all day, it burns all night. A simple candle in a cage. Light source from a long past age. Candle, candle tried and true. Gentle light, a lovely hue.
+   [1A] 0x078EAFC9D27BD08E: This impressive lamp will brighten your yard and so much more. Why waste your time with dainty Tiki lamps when you can make the entire neighborhood glow like a supernova? Go big and go home!
+   [1B] 0x62D7CB9A9792FEFF: The ambience of candlelight without the messy melted wax, this exquisite old-world lantern replica is a certain conversation piece. Why buy antiques when you can have the convenience of modern electric lighting and the look of faux weathering?
+   [1C] 0x27EEC5763754F0EF: Relive the days of yesteryear when electric lighting was an extravagance found only in mansions belonging to the upper crust. With this replica wall lantern, you can add old-world charm to your estate with the safety of modern electric wiring. 
+   [1D] 0x63EDCE72E0F5A1C8: Handcrafted with care by the finest illuminary artisans, this lovely traditional sconce is the perfect balance of strength and grace. The subtle glow of pinpoint lighting provides a classy ambience from dusk until dawn. There's no need to stargaze when you can stare into the lights of this masterpiece.
+   [1E] 0x745EBC4677B3B3B6: Cozy up to your cherished loved one in this luxury outdoor loveseat. The plush cushions caress your curves in a cocoon of opulent down feathers. Treat your patio to the decadent lifestyle it deserves with the Astenbury line of superior outdoor furnishings.
+   [1F] 0x25BAAAFEE1C549E9: With separate controls for the upper and lower compartments, the Petite Breeze offers the ultimate temperature control for discerning connoisseurs. This stylish compact refrigerator is triple coated with a proprietary eco-shield that withstands even the harshest elements. The elegant design is sure to be the centerpiece of your outdoor oasis for years to come.
+   [20] 0x4663CF6078ADD9D5: The ancient Huhuxnatha tribe believed this succulent plant could be used as a cure for a host of ailments ranging from Bison Tongue to Nono Foot. Since the Huhuxnatha rapidly fell into extinction, you might want to stick with beautifying your outdoors with this lovely living planter.
+   [21] 0x68236FC76E55A805: From upscale pool parties to lavish receptions the Fitz-Yinter Serving Cart stands at attention, ready to glide to your next thirsty guest. This sumptuous beverage cart will serve as the welcome wagon at every event for years to come. Your guests will wish they had one, but they probably couldn't afford it.
+   [22] 0x562F3B438B380A17: Embrace nature in a hermetically sealed environment with the deluxe version of our best selling miniature living world. The Deluxe Cozy Terrarium comes with a delightful decorative stand that envelops nature in the caring touch that only a protective metal enclosure could provide.
+   [23] 0x09719A361962E8F3: Designed with both function and flair, the Kinematic Parasol is a dramatic centerpiece for even the most luxurious patio or deck. The hinged umbrella is easily adjustable to provide maximum protection against harmful rays or prying eyes of nosy neighbors.
+   [24] 0x1FA8E3975346CA11: After recovering from the legendary stage dive incident, Puddlewonk elected to pursue more serene adventures like relaxing by the pool. Relive these treasured moments with the limited-edition Puddlewonk replica adorned with a whimsical duck-billed flotation device.
+   [25] 0x5E894DCCC14E7552: The Instruments of BBQ were crafted in the same forge that the Simoli tribe of the Eastern Jungle has used to fashion tribal spears for centuries. Despite claims to the contrary, no actual spears are included in this set of utensils.
+   [26] 0x3187FF9BDC9F37F0: This decorative bowl was once used as a serving plate in the days of yesteryear. Called “The Entrée Appetizer,” it was a widely held belief that the shapes and contours of this bowl would appetize a dish to be cooked quicker. Modern scientific testing on a range of meals from Goopy Carbonara to Stu Surprise has proven this to be false, hence the decorative status.
+   [27] 0xA1050F554E5230DC: After years of research into lemonade creation, preservation, and pouring ergonomics, scientists have finally designed “the most researched lemonade pitcher” ever created. Unfortunately for them, “The Perfect Lemonade Pitcher” was already patented by another company.
+   [28] 0xEF8DE0239E7F477A: When celebrating a large event or hosting a V.I.P., Splendiferous is the brand to trust when it comes to impressing guests! Four out of five exclusive guests agree: nothing makes a greater party impression than the quality of serving dishes. Choose Splendiferous today!
+   [29] 0x2C69348DDA363D49: Snuggle your favorite plants in the warm, nurturing environment of the Cozy Tabletop Terrarium, and watch them flourish before your eyes. Lay back in your easy chair and cherish hours of contemplating a miniature living world, safely enclosed from outside contaminations!
+   [2A] 0x281E197ABCADDDC6: When the Hanging Plants of Simolón were first discovered by Arturo Terragraabo in the first half of the middle century, he and his hardened explorers were perplexed as to why anyone would choose to hang a plant from a wall. However, after being trapped in the Tomb of Simolón for 40 days, they grew to love the decorative appeal of wall plants.    
+   [2B] 0x12DAF7B4438274A2: Rather than being hooked up to a water main or a well, the Hydrogenator uses a scientifically advanced process of infusing hydrogen molecules with oxygen to create water. The scientists spent years programming what they call the perfect water “recipe” into this sink: two parts hydrogen to one part oxygen. Now you can enjoy “perfect” water at home or in your backyard!
+   [2C] 0xA8E14AE4F80B1F93: The Rock 'n' Rock stereo was originally designed for theme parks and adventure rides as a way to cleverly disguise the terrifying noises of the jungle, caves, or any other frightening place you wouldn't expect to find a stereo. We've found they're perfect for backyards or patios as well, even if they're not horrifying!
+   [2D] 0x168437B487506D6A: New from Landgraab Industries is the MaxBTU Cooktop and Oven. Designed by all three of the world's rocket scientists that ended up as successful head chefs, the MaxBTU has been rated to cook at temperatures that are seriously out of this world. Don't overcook the waffles too long in this one, or you'll have rocket dust!
+   [2E] 0x03DD92148E407E71: The Class-E Dining Table will take your next outdoor dining experience to a more elegant level. Designed with the seating preferences of the rich and affluent, this table is sure to please and amuse your most prosperous of guests. And with weather proofed sealants and coating, sun damage to your outdoor's finest feaster is not a concern!
+   [2F] 0x2369DEC3CF09C86E: This classic design has been used for centuries by Llama trainers throughout the world in circuses, carnivals, and zoos. Strong enough to support the weight of a Llama, yet beautifully crafted for use in public appearances, this end table is a great fit for your outdoor bonanza!
+   [30] 0x4E8E1C29F26DC59B: At the turn of the first millennium, Morrigan Hemlock fought for the inclusion of astrology into the scientific realm, but could never convince the authorities of its scientific legitimacy. After nearly a 45 year battle, Morrigan turned to astronomy as a scientific endeavor. This telescope, first coined as a “star gazer” is what Morrigan used to wow the crowd of scientific experts, and thus forever lost her love of astrology. 
+   [31] 0x628541EE69C1EA40: Designed for queens, emperors, and today’s wealthy elite, the Imperial Viewing Screen has been delicately handcrafted to the strictest standards available to today’s LCD handcrafters. The screen boasts futuristic 2160p resolution, hi-fi sound, and a huge footprint that is sure to make an impression on any viewers.
+   [32] 0x61F67C1A90FD9F54: The Original Griller Entertainment Series Barbeque
+   [33] 0x6000B9F3F9F5DBD3: Outdoorsy Life Bar
+   [34] 0x94D81AD7E7230BE8: Throne d'Elegance
+   [35] 0x19031355480DF5EE: The Poet’s Respite
+   [36] 0x5B1822C42112E1FE: Organica Life Chair
+   [37] 0xC776EB36C9550069: The Outdoor Napper
+   [38] 0xA23EBB82160E98E3: Continental Vision Counter Island
+   [39] 0xB94F848053FA76AA: Continental Vision Counter
+   [3A] 0x9077CA94F642B7C0: Ricardo Richards' Easel
+   [3B] 0xDC515A03792EB6BB: Fence of Farmington
+   [3C] 0x9B7E39B1557012B7: Gate of Farmington
+   [3D] 0x1E55135B8BB1D9C7: Patio Pyre
+   [3E] 0xD8DB09139972FFA2: Blaze by Bleys
+   [3F] 0x1E0703D2BBD714A1: Courtyard Coals
+   [40] 0xBFF3C68900928760: The Veranda Furnace
+   [41] 0xF38B07FA8C22C47C: Whimsical Water Falls
+   [42] 0xA04AE4C2DD6C1AA0: The Water Course Hot Tub
+   [43] 0xC60FD4AAB615BA41: The Aqueous Garden Hot Tub
+   [44] 0xA9B6F733A35DCA77: The Empress Hot Tub
+
+   [45] 0xD8DEF465C20A87B3: The Modern Rustic Hot Tub
+   [46] 0x53D196BE167CF7D9: The Resplendence Hot Tub
+   [47] 0xDE7EAAAA2538A399: Caged Candle
+   [48] 0xFFD73DF9F802185D: Monolithic Lumens
+   [49] 0xCC8CFBAE9A3BA992: The Rustique Table Lantern
+   [4A] 0x496B0CC26F3EB970: The Rustique Wall Lantern
+   [4B] 0x0CE0483D8B95ED11: Quaintessential Spark
+   [4C] 0x156C459DFFCA1569: Astenbury Retreat Loveseat
+   [4D] 0x720DEF42BDC24872: Petite Breeze
+   [4E] 0x9FA37D167481BCCA: Agave Yougave
+   [4F] 0x531C279FB8023442: Fitz-Yinter Serving Cart
+   [50] 0xA9CD203504E1F9D2: Deluxe Cozy Terrarium
+   [51] 0x606FBAEBB6A9E9B2: Kinematic Parasol
+   [52] 0x781EDE1EED639914: Persnickety Puddlewonk
+   [53] 0x6495E747697174D7: Instruments of BBQ
+   [54] 0x0A07F6756CDB4995: The Entrée Appetizer Dish
+   [55] 0x48A40F25E63F6F91: The Lemonade Baron
+   [56] 0x522A4E7577147917: Splendiferous Brand Serving Dish
+   [57] 0xF6A353D66C04CFE0: Cozy Tabletop Terrarium
+   [58] 0xC1F41672A2105FC1: Hanging Plant of Simolón  
+   [59] 0x0F54230144CAA787: The Hydrogenator
+   [5A] 0x83BE77E31788D252: Rock 'n' Rock Stereo
+   [5B] 0x2CF3B0A7456CC83F: Landgraab Industries MaxBTU Cooktop
+   [5C] 0xDD663EC8BD675036: Class-E Dining Table
+   [5D] 0x21EEA913D84F05AD: The Llama Stand End Table
+   [5E] 0x43E052FD9C42E0E6: Morrigan’s Star Gazer
+   [5F] 0x2F51B013E5483481: The Imperial Viewing Screen
+   [60] 0x2AECA3052A11741F: We are unable to verify that your disc is a valid copy of The Sims 3 Outdoor Living Stuff. Please contact customer service.
+
+   [61] 0x43C991B868EDA8B3: No game disc found! Please insert The Sims 3 Outdoor Living Stuff game disc before proceeding.
+   [62] 0x9178CA76EEB2E6C1: ©2011 Electronic Arts Inc.
+   [63] 0xB421D72D7458F29A: Disguising Outdoor Stereos...
+   [64] 0x6E733C3CB3243B9E: Firing Up the Barbeque...
+   [65] 0x6E733C3CB3243B9F: Applying Sunscreen...
+   [66] 0xB421D72D7458F299: Squeezing Lemons...
+   [67] 0xB421D72D7458F298: Nurturing Terrariums...
+   [68] 0xB421D72D7458F29F: Hiding Garden Gnomes...
+   [69] 0xB421D72D7458F29E: Stocking Mini-Fridge...
+   [6A] 0xB421D72D7458F29D: Padding Deck Chairs...
+   [6B] 0xB421D72D7458F29C: Opening Umbrellas...
+   [6C] 0xB421D72D7458F293: Lighting Votives...
+   [6D] 0xB421D72D7458F292: Polishing BBQ Utensils...
+   [6E] 0x94B509D9FAF4140E: The Sims™ 3 Outdoor Living Stuff Team
+   [6F] 0x1716085FCB9C04C5: Voice Actors
+---

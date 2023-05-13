@@ -1,0 +1,2053 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x7FE) ---
+   [000] 0xDE24E31B0D375333: Beetle Spawner - Honeypot Ant
+   [001] 0xC2834D0DB77212D3: Beetle Spawner - Pill Bug
+   [002] 0xBB0D823011513D0E: The Sims™ 3 Into the Future
+   [003] 0x1143ADECD4A7399D: Meteor Magnet
+   [004] 0x1475DE7CA3FD4EF0: When space is at a premium, bathrooms seem to be the logical place to make cuts. This amazing all-in-one unit satisfies all your hygiene needs without sacrificing space or style!
+   [005] 0x50438BCA5175FAA9: Combining your favorite pop songs with the limitless fun of pushing flashing lights around on a video screen, Music Moves takes musical gaming to the next level.
+   [006] 0x0F139D3FC3E37FE3: In the eternal battle between geometric shapes, your congruity is obviously superior! Defeat your polygonal enemies; split their angles and shatter their vertices to save the universe, or something.
+   [007] 0x468845EEEAB26102: Lost your job? Fell in love? Had a rough shift in the asteroid mines? Plop down on this next-generation barstool and foist your problems on other folks.
+   [008] 0xB9FD30F16F740344: Lower your weary self into a seething blend of hot water and carefully curated microbes. This lush bacterial garden gives off a soothing smell while it scrubs your skin clean!
+   [009] 0x4896910DC98B7C8F: Bunk beds have always been a classic part of childhood, and that tradition will never die out! This organically inspired bedframe is sturdy, safe and keeps a minimal “carbon footprint.”
+   [00A] 0x3C5D0544C421ECC9: Bold lines and an eyebrow-raising curve at the foot make this the perfect bed for the coming future. Sleep soundly as glittering neon airships drone through silver skies.
+   [00B] 0x0E71AE702C0ACA4D: Snooze your worries away in this single bed, its curved frame designed to provide maximum spinal support and optimal circulation between your tired feet and your blissful head.
+   [00C] 0xB1220F1A1DA98705: Holographic Billboard 1
+   [00D] 0xB1220F1A1DA98706: Holographic Billboard 2
+   [00E] 0xB1220F1A1DA98707: Holographic Billboard 3
+   [00F] 0x890C01D5C7D898EF: Holographic Billboard Stripe 1
+   [010] 0xB8000D42950BDE2F: Holographic Billboard Stripe 2
+   [011] 0x55DA0604EC93AE31: Sinuous serpentine design gives this bookshelf a gravity-defying look without actually having to defy gravity. Durability, style and storage space make the Nahesa a slithering success.
+   [012] 0x4B9522B6EC2295A0: In an age of ever-present screens, books run a real risk of extinction. Enter the Cobalt Codex: classing up your home while also preserving Simkind’s intellectual heritage!
+   [013] 0x97761122ED41A683: Built by stacking two classic Cobalt Codex bookshelves, this structure can take your home library quite literally to the next level. Twice the shelves, twice the books!
+   [014] 0xBCE26B65BDBBC456: The grandest of the grand, this three-story installation stuns onlookers with a mighty wall of accumulated knowledge. WARNING: You may be overwhelmed by the sheer number of books on this shelf.
+   [015] 0x156655F1BFC688D7: Traditional bookshelves leave their contents exposed to the atmosphere. Corebital’s revolutionary BiblioVault design protects your precious volumes from the ravages of moisture, oxygen and even time itself!
+   [016] 0x4382060F980D7BA9: What do children love more than books? They love a framework of abstract overlapping shapes surrounding those books! Stimulate your child’s mind with geometry and literature at the same time. 
+   [017] 0xE8511F418C66C78C: The perfect accent to any children’s room, this squat learning center is easily accessible to young minds. Natural vegetation accents the bookshelf’s shrub-inspired design.
+   [018] 0xC87305CF7527D352: Enjoy two of life’s greatest pleasures – books and spas! Enjoy the best manicure in town conveniently located inside a bookstore!
+   [019] 0xEB2A9A842BD754D4: New technology brings new opportunities to make Simoleons! Plumbots make big differences in Sims’ lives and soon everyone will have one. They may as well buy it from you.
+   [01A] 0x6B9168926B8BEE67: Bot Emporium Shell
+   [01B] 0xC99CD9EECF5901F3: Even the most advanced Plumbots wear down and need a recharge. In the Nexus-9 Charging Station, your bot can replenish their batteries while peacefully dreaming of electric llamas.
+   [01C] 0x274536B77AE437E5: Integrating every advance in robotic history, this workshop is a forge for Nanites and Trait Chips. New Plumbots can also be constructed or customized using its unique Voight-Krieg magnetic field.
+   [01D] 0x7EAA91042CCE1CA6: Spawns bubbles.
+   [01E] 0xC8C15AEF8C1A346D: Smooth, attractive construction and whisper-quiet hinges make Geminisi the overhead storage system of discerning kitchens. Mounts effortlessly and looks great on any type of wall.
+   [01F] 0x728A4A15BF7427CF: Space-age materials and ultra-modern design have teamed up for history’s most advanced kitchen cabinets. They feature door seams so sleek and thin, you might struggle opening them.
+   [020] 0x805E04931F87B63E: What could make your kitchen more enticingly exotic than an island complete with cabinets? Everyone loves islands, and what the Canisterita lacks in tropical warmth it redeems with storage space.
+   [021] 0x83B1219EE0CAD6BB: Cafe Awning
+   [022] 0x3DC3B773A8BFF0EB: Glide over the thickest ice and deepest potholes in this gloriously sporty machine! Mind-bending curves and screaming jet engines put the Corto at the top of its class.
+   [023] 0x388C38F40E832FC3: A Sim concerned with vehicular safety need look no further than the trusty little Sebastino. You’ve never heard of it, but trust us: someday every Sim will have one.
+   [024] 0xE3D29614207AA0CD: Perfect aerodynamic construction makes the DeLorraine a fast and sleek car! Engine limiters have been installed for safety reasons; this vehicle may not exceed 87 miles per hour.
+   [025] 0x228AE05A8E51A2C1: Elevated Transport Car
+   [026] 0x28DBB6A16BB97A92: Time Remote Control
+   [027] 0x1DCEC981986E8134: Sharp angles and a high back make this dining chair a fashion fit for any age. A subtle lean makes the occupant look like they’re traveling at supersonic speed.
+   [028] 0x1E6F7C008965F857: Designed for simplicity and efficiency, the Cozy Colonist can be molded out of nearly any substance. When Sims reach the stars, these chairs will be the first things they build.
+   [029] 0x4C1CA5B308B0C583: Whether you’re mired in post-urban decay or living in luxury amongst the clouds, this chair’s high-armed security should reassure you there’s always a better tomorrow!
+   [02A] 0xE25E31B8036EBF5D: The future brings new technology, and Sims’ lives get easier with each advance. After a certain point there’s nothing to do but lounge in your chair and nap.
+   [02B] 0xC443361EE02A39BE: Don’t let the extra side boards intimidate you; they’re just for show. Holo-chess offers all the fun of the normal game, but you’ll never lose the pieces!
+   [02C] 0xBCAA82D794099E6A: Large Processor
+   [02D] 0x52EE9D6B5EA6ECF4: Medium Processor
+   [02E] 0x2AD39FE2A31435B6: Small Processor
+   [02F] 0xAAAD49106AD5FFCB: Ability Trait Chip
+   [030] 0x4DE844004E09A90C: Service Trait Chip
+   [031] 0x8F35C514D3F4C292: Skill Trait Chip
+   [032] 0x574F2F88147EC226: Social Trait Chip
+   [033] 0xE9F665B0B2A4A50A: We’re standing by and ready to serve the denizens of Oasis Landing. Swing by and say hello!
+   [034] 0x27D1A0DFF902E67F: Beyond its simple construction and edgily inverted design, the Oryx column pumps water in an infinite fountain. Try not to look at it for too long, lest you feel certain…urges.
+   [035] 0x16A557E384E3D008: Spawns common nanites.
+   [036] 0x16A557E384E3D00B: Spawns common nanites.
+   [037] 0x16A557E384E3D00A: Spawns common nanites.
+   [038] 0x16A557E384E3D00D: Spawns common nanites.
+   [039] 0x63565FCFD5C16FDD: The Oculo represents a giant step forward in modern personal computing. Holographic emitters aboard this floating sphere project the planet’s most hilarious cat pictures in three stunning dimensions.
+   [03A] 0x3A2226DD93A9797B: Rainbow Knoll
+   [03B] 0x82913339B32AF7FF: Set your kitchen apart with this striking countertop, featuring the solid construction and non-stick surfaces you’ve come to expect from Hill Gulch.
+   [03C] 0x2A44DF733799E14E: Does anything feel better than wiping your countertop to a clean finish? This fine countertop island will make your kitchen positively sparkle!
+   [03D] 0x832ED11F69DA5C64: Downy soft padding lulls your infants into restful sleep, winning parents precious moments of peace and quiet. Transparent walls keep children secure without the psychologically damaging structure of bars.
+   [03E] 0x426D203CB3503C26: Crystal Flower
+   [03F] 0xD3BC7B82C5DC8257: Spawns charged crystal plants. 
+   [040] 0x3BD8976542A258BD: The Work Organization and Research Manifold is Van Allen’s ultimate office efficiency tool. Whether you’re collating, drafting or balancing accounts, this versatile desk provides a solid, reliable working surface.
+   [041] 0xE830E14DCB6BCB65: Debris Site
+   [042] 0x5E8F47945838711E: More than just a futuristic facelift to your standard home washer! Soap and water gets your dishes clean, but only Corebital’s hydrogen isotope bombardment gives them that dinner party sparkle.
+   [043] 0x16BF541A990C8CBE: Sometimes building codes forbid most light-up signs, but any legislation has loopholes! Hill Gulch helps you exploit them with this historically authentic sign of “olde tyme neone.”
+   [044] 0xF474D236734D755D: It would be awful tacky to park a pristine new hovercar in old digs! Turn your garage into a Vehicle Storage Unit, complete with a retracting door and remote opener.
+   [045] 0x29A4D8D32EDC2F67: The handle of this simple, spare door floats like an iceberg in a sea of glass. Sturdy construction ensures the door won’t shatter, even if you walk headlong into it.
+   [046] 0x141DBB7BF2D78B8C: Finally, an automatic sliding door! Technically they’ve been available for decades, but this one retracts into the wall with a cool futuristic sound. Your supermarket’s front door can’t offer that.
+   [047] 0x3B35C2060B659BE5: Modern technology allows Sims to script their dreams and feel the life enhancing effects the next morning! Be careful – good dreams can turn into nightmares with unpleasant side effects.
+   [048] 0x49FB3A73B9B02520: Weather can be unpredictable, and any sensible Sim needs to be prepared for any eventuality. Whatever elements of outerwear the climate calls for, they’ll stay ordered in this dresser.
+   [049] 0x07A6DF6DF0839024: Stacked like the mighty magnets of a particle accelerator, these dresser drawers accommodate a huge variety of clothing. They can be linked to other Van Allen products to save space.
+   [04A] 0x8D80F3B7EABFAC98: Sleek double doors slide shut to form an unbreakable airtight seal. Inside, barometric pressure is reduced to zero; your clothes are perfectly preserved in a deep-space vacuum!
+   [04B] 0x5D0C0094D22601C2: Delightfully Oversized Flower
+   [04C] 0xD5B2B13FA8F5D3B9: Traditional easels are a pain. Who wants to handle toxic paints and store stacks of old canvas? Holo-Easels are all-digital, taking your artwork into a dazzling new age!
+   [04D] 0x3A71472751FA6876: Elevators are terribly crude if you think about it. Moving a whole room from one floor to another? Barbaric! It’s much more efficient to move single Sims with anti-gravity tech.
+   [04E] 0x027351CC65356518: Hide unsightly grass and dirt with this high tech concrete. Guaranteed to never crack or chip!
+   [04F] 0x40AC2CE6806A4C57: Real dirt is so passé. Enjoy the look and feel of dirt without the mess using the latest in simulation technology.
+   [050] 0xDED38698E18D67FF: Enjoy the look of fresh grass without the effort! This great looking grass never needs mowing.
+   [051] 0x75BE4784BA13F2FD: Offers all the same benefits of the great looking Dark Rural Grass, but in a lighter color.
+   [052] 0x58FFC5D14044784B: This handsome concrete uses anti wear technology to keep it in pristine condition. Give it a try!
+   [053] 0xBAA4AA0F7603287D: Implementing the latest medical advances, the FitZord is a multi-function exercise machine guaranteed to work every muscle group so hard your internal organs will be sweating!
+   [054] 0x83EE363B4FE77154: Lose yourself in every workout! This treadmill’s dazzling screen practically entrances Sims, freeing them to exert maximum effort. The Pegasus treadmill: they could fly, but you can’t. So get walking!
+   [055] 0x6B4104AACCD462BF: The whole concept of a barrier seems so unfriendly. Fence planters are the natural solution to this sad problem, and the Perigee Planter is practically a garden institution.
+   [056] 0xD77C059D5B54BD6E: This indestructible fencing protects your property while also allowing those excluded to view its splendor! Be wary of judgment: you know what they say about Sims with glass fences.
+   [057] 0x16F015B82235785F: You’d like to build a forbidding fence around your property to keep out the riff-raff, but that would be rude. Hedge fences accomplish the same thing in classier fashion.
+   [058] 0x4D8CFCA74F1F999F: This picturesque hedge fence is only waist-high, but it makes a huge impression in the neighborhood! Border your yard with natural splendor for a reasonable cost with no maintenance required.
+   [059] 0xE8EDA75FE5E90FAF: Perfect for barbeques and other outdoor celebrations, this no-frills fire pit casts warmth and light across your garden. Snuggle up with family members for hot drinks and ghost stories!
+   [05A] 0xE732C33926E2877B: A brilliant new shift to the tired old fireplace paradigm. High-tech ventilation removes the need for a traditional brick hearth, allowing a flame open on every side.
+   [05B] 0x6B4BB7CB81C6CA4B: In a time with fewer flammable materials, open fireplaces are all the rage! The SootStack cozies up your family room while projecting a very “industrial” look.
+   [05C] 0xE5053605350BB831: Three Eyed Fish
+   [05D] 0x04B85BFC0D73AB4F: Mounted Three Eyed Fish
+   [05E] 0x0F831D71ADDB8534: Rainbow Flower
+   [05F] 0x80FA8C2F1BF0FD24: Sims concerned about environmental meltdown are changing their diets to be easier on the planet. This food processor is the only thing that might make the goop edible.
+   [060] 0x7C47925418BA6373: We live in a busy world; there’s often no time to cook, and most snack food is unhealthy. Food synthesizers bridge this gap with full, delicious meals on instant offering!
+   [061] 0x7BBA4498F2AF71C4: Named after the most-famous footballer of all time—you’ve never heard of him, but you will!—this Foosball Table offers unlimited hours of fun for the whole family.
+   [062] 0x9D93DC546EC05E6B: As the rain falls, Sims descend along the helix of their own flawed genomes into a jungle of barbarism. Awe any audience into solemn silence with this water sculpture!
+   [063] 0xFD1EFDD03AAAB60A: Bold cubist lines make this fountain a mesmerizing centerpiece for any open space. Nothing says high-class like a fountain and the Panther Modern is guaranteed to drop jaws.
+   [064] 0xC18E3DDCDAA35D60: Like drops in a waterfall, so are the days of Sims’ lives. Install this high-fashion fountain in your foyer and treat any guests to the image of mortality’s inexorable trickle.
+   [065] 0xD91D4FECE44C0535: Three platforms seem to float in space, anchored together only by a constant flow of fresh water. The mind is blown into tiny particles, thinking nothing of the pipework behind.
+   [066] 0x472809729637C4C5: Install this plug-and-play appliance in your home and enjoy your own personal bartender! DISCLAIMER: Drink Synthesizer is not a therapist and will not offer advice regarding your personal problems.
+   [067] 0x7E08892B08CDBED3: If you want to keep signage cheap, reduce its profile while maintaining its presence. This holographic sign is as thin as light itself, but packs a billboard’s advertising punch.
+   [068] 0x3D10F4FE6172B2E7: We expect much more from electronics these days—why not walls as well? Full-length projections transform barren surfaces to suit your every mood and fancy.
+   [069] 0x3D06F2FE616A5ADA: The bigger the projection panel, the more vivid the vistas! Modern Arcology takes their wall-screen technology to the next level with this enormous panoramic display.
+   [06A] 0x37CB90C4C405AF9A: Gallery Shop Shell
+   [06B] 0x929D7C92FC8C7FFD: Cars often have the features to sell themselves, but an elevated dais takes your pitch to the next level. Offer up your vehicular products to the Spirits of Commerce!
+   [06C] 0x81D62DB19235BFF5: Place your finest wares in the finest possible light with the Rubikon pedestal. Simple lines and right angles keep the display minimal, keeping all focus on the product.
+   [06D] 0xD4AF99BB71552D2D: Using the magic of circular geometry, the Concentroid pedestal fits maximum retail presence into minimal surface area. It offers your merchandise to the consumer like a powerful and ancient artifact.
+   [06E] 0xE81EA9D9AF69EFE3: Success in retail is about managing attention. Where are customers looking at any given moment? The Discara pedestal’s sublime curves constantly beckon Sims’ eyeballs.
+   [06F] 0xE832ADD9AF7A9F93: For retailing truly large objects, you need a mammoth display. You might want to reconsider the customer flow around your shop—this pedestal will be drawing crowds!
+   [070] 0x2BF88038D8051FA8: When you’re trying to draw attention to a small-but-valuable object, nothing helps more than elevation. The Ivoroid pedestal sets your products at a tantalizingly touchable level.
+   [071] 0x2BFC8638D8091290: Set your finest wares in the Charon pedestal’s sophisticated repulsor field. Watch them hang in the air, practically begging Sims to fork over their hard-earned Simoleons.
+   [072] 0x9D69079719F9F4E1: Large retail spaces demand large eye-grabbing signage. Draw customers from miles around with the Galaxar Galleria sign, combining physical presence and holo-technology.
+   [073] 0xBE2904210AB8B34B: Van Allen created glass panels so light and yet so strong, they became building materials! The result is an array of beautiful, naturally lit structures that feel light as air.
+   [074] 0xBE25FE210AB67343: When you’re building a glass surface, the last thing you want is a bunch of frames cluttering it up. This floor panel is the largest permitted by current safety standards.
+   [075] 0xBE3A02210AC72373: For structural reasons, we at Van Allen can’t build glass floor panels any bigger. But we can combine them, and this four-panel assembly is perfect for the biggest structures.
+   [076] 0xB44AFE013EF38E8C: Rainbow Flower Petals 1
+   [077] 0xCDDA7F014D4ED43D: Rainbow Flower Petals 2
+   [078] 0x0969E26AB8EB58B8: Simply the greatest performance guitar ever constructed. The hollow body keeps it light for onstage theatrics, and touch sensors along the neck give you the world’s fastest fretboard.
+   [079] 0xF066DAFE46DAF891: Ordinary instruments are so primitive: plucking taut strings, blowing air through tubes. The sparkling new Laser Rhythm-a-con is a new approach to the ancient language of music, manipulated through laser controls!
+   [07A] 0x7CDEF465C2AFD09B: Your child deserves to sit and eat in total security. The planet deserves totally nontoxic eco-friendly construction. As always, Wiggin is here to please both parents and their little ones!
+   [07B] 0xD038F4FD1A679F28: We all need a friend sometimes; a close and special relationship we don’t have to share with others. Holo Sprites provide warm, instant companionship – but they’ll need tender loving care to keep their mood up!
+   [07C] 0x53980FAB017A4624: Living, breathing plants are notoriously needy: always whining for things like water and sunlight. Sidestep such corporeal concerns by “planting” these holographic replacements anywhere you like!
+   [07D] 0x539C05AB017E1DDC: No, these aren’t the ghosts of long-dead plants come back to haunt their negligent owners. They’re holographic potted plants, built to give your home a hip-but-mysterious vibe.
+   [07E] 0xE1DC2F0968FC70A0: Suffering from Time Sickness or in need of scientific research? We’ll serve you with a smile and guarantee our work.
+   [07F] 0xFA47A3C4253A1A77: A stone block rises, solid and solemn to signify the trust Sims place in their health care providers. A blue cross calls out to all the injured, sick and ailing.
+   [080] 0x357BF951A47F175F: You know that special feeling of walking into a café and having your favorite order ready to go? The Gaffer replicates that special feeling as only a soulless machine can!
+   [081] 0x09AF8270CBCBBAFF: As the modern age wears on, Sims find themselves with more and more leisure time. How better to pass the lazy afternoons than in a bubbling, soothing hot tub?
+   [082] 0x306B4AFBCB763F51: You can’t sully pristine walkways and groomed lawns with noisy, grindy wheels! Windcarvers are the vehicles of choice for thrill-seekers and pedestrians alike. Not intended for use over water.
+   [083] 0xB067E3DDC0095216: Luxury doesn’t have to be ostentatious. For the understated Sim about town, Arasika presents the sumptuous two-door Palanquin! It’s not practical to be carried by servants, so this will do.
+   [084] 0xC9DA47CD4FD67B50: Just one step away from a limousine, the four-door Chariot whisks the world’s most refined Sims around on feathery beds of air! EX stands for “excess,” probably. We’re not sure.
+   [085] 0xD502765D6ECB9966: As the heaviest and most versatile model in Arasika’s fleet, the Bison is a must-have for adventurous families. Its massive hatchback trunk has single-handedly saved road trip vacations!
+   [086] 0x0947C6E04A6EAD72: Most Sims don’t demand much from their cars—they want economy and dependability. Enter the Fenris, a two-door hovercar featuring everything you need and nothing you don’t.
+   [087] 0x4EC1AB1346BACEC7: The hardest worker of the Arasika Fleet, “Elroy” meets all your hauling needs with pluck and a smile! Proprietary hover technology keep the vehicle airborne even under massive loads.
+   [088] 0x65CC2795D5BFF8A4: A classy status symbol! This fine sedan features beautiful upholstering and elegant presentation. It bears the soothingly meaningless name “Liara,” because that’s what the focus groups liked best.
+   [089] 0xF8AE6535FCA70F9A: For the bold Sim looking to make a statement, the Ratatask sports hovercar is an obvious choice. Howl up and down the boulevards--everyone else will be terribly impressed!
+   [08A] 0x399DB997A1918704: This “Elroy” hovertruck has been thoroughly loved in its lifetime, but the fan belts and roto-transmission are brand new. Pick up some serious hauling power at a great price!
+   [08B] 0x788960A78A486BFE: By attaching a cargo cap, the classic “Elroy” truck becomes the heavier “Amalthea.” This is a used model, but who needs a sparkling new vehicle for heavy hauling?
+   [08C] 0xCDEFD8EE5DE17626: Named for the proud and majestic water buffalo, the Bubalus HoverVan is perfect for transporting lots of Sims. Six seats and spacious interior should keep your children from bickering.
+   [08D] 0xF198813758CEE0E1: Spawns nanites for the Bot Workshop
+   [08E] 0x47ADB6C926D4BFE7: Launch yourself skyward for thrilling adventures with this personal jetpack! Patented gyroscopes ensure your basic safety, and it’s got enough juice to take other Sims on tandem rides.
+   [08F] 0x12FFD571616A609D: With anti-gravity being so prevalent now-a-days, it’s sometimes nice to experience it in all its glory! The SkySwoop Slide will bring your children the utmost adoration, at least until they learn about video games.
+   [090] 0x3CC2DA4D64ECF19E: Did you know that only 30% of Sims can locate their local Library? Well, that statistic can only be looked up…in the Library! Use this glowing sign to find it.
+   [091] 0x4C3502B15B074AF3: Powered by glowing fiber-optic cables, these delicate ceiling lights illuminate your home like a cityscape on a rainy night. Bright walls and dramatic shadows are sure to leave lasting memories.
+   [092] 0x6C6F5296072EF4C3: Cast any living space in a cool postmodern glow! This freestanding floor lamp mimics the distinctive soundwave signature of whale song. If only whales still existed…
+   [093] 0x11BA99388E01F3AF: This radiant floor lamp is modeled after the famous Tannhauser Wormhole Gate linking Simkind to Alpha Centauri. Oh, you haven’t heard of that? Well, it’s a nice lamp.
+   [094] 0x145B8625C14C0A7F: Arasika’s engineers started with a simple question: how thin can a lamp be? Ultimately they produced the Planck: a glaring, gorgeous lamp that grinds against the laws of physics.
+   [095] 0x4C36F0B0F2B3D86F: Tasteful city planning demands that infrastructure match the local architecture. In a world of hyper-modern innovations, the powerful and stylish “Trianna” street lamp fits right in.
+   [096] 0x7EE433EC78757AEC: Candles may be banned by the Wax Conservation Act of 2025, but this bowl-shaped lamp is the next best thing. Enjoy those warm cozy shadows without depriving the poor bees!
+   [097] 0x2655265CEFBD36EF: The latest vision in home lighting from legendary designer Ashley Tessier. Conceptualizing the five dimensions of the known universe, this lamp illuminates rooms and minds alike.
+   [098] 0x9A02DB95C5715D4F: Employing Arasika’s ultra-thin “Planck” technology, these wall lamps are perfect for showing off. Mirrors, paintings and other decorations shine while the lights themselves remain tastefully understated.
+   [099] 0xCA451DDBF1A400CE: Sweeping curves cradle soft cushions, projecting security and comfort. Curl up with your lover—human or otherwise—on this sumptuous love seat to watch C-Beams glitter in the dark.
+   [09A] 0x559F5963D1213FBB: Public fixtures must be many things: attractive, subtle, functional and sturdy. This particular park bench adds just a dash of bold, make-out-in-public romance!
+   [09B] 0x698337BD84BFB1ED: magicGnomeVul PLACEHOLDER DESCRIPTION DNT
+   [09C] 0xBCA954549DBA0366: The final destination when a Sim moves on… Keep your voice down and respect the resting!
+   [09D] 0xD94EAE985DFEBEC3: In the future, fossil fuels are tightly regulated. Even the kitchen appliances have gone nuclear! Gamma rays seem dangerous, but they can reheat pizza without making it stale.
+   [09E] 0x5A99EAAFF5331B91: This avante-garde mirror visualizes a complete orbital system: three moons circling a larger planet. Peer into each of the four shatterproof panels and see yourself in the stars!
+   [09F] 0x3A1AD73CAD2BE3E7: The Tesseract is the first mirror integrating special relativity into its design. Nine panels reflect the various “spins” of photon particles, while also displaying the food stuck in your teeth.
+   [0A0] 0x887372E371FD7836: Mysterious Key
+   [0A1] 0x3E94F3F89C72B5F3: Mysterious Fragment 1
+   [0A2] 0x3E94F3F89C72B5F0: Mysterious Fragment 2
+   [0A3] 0x3E94F3F89C72B5F1: Mysterious Fragment 3
+   [0A4] 0x3E94F3F89C72B5F6: Mysterious Fragment 4
+   [0A5] 0x3B0F7AD1B3FFAF18: Asteroid Belt
+   [0A6] 0x2B8DCC2A7225ED73: Approaching Singularity
+   [0A7] 0x3301D4FAD7FF6458: Journeying Comet
+   [0A8] 0xD3533F3AE02101E5: Mysterious Constellation
+   [0A9] 0xA2D0247763A61F4D: The Event Horizon
+   [0AA] 0x2278133F6D663063: Many Suns exist, represented in various parts of the light spectrum. But it isn’t until we see that spectrum pulled apart and juxtaposed that our human frailty is exposed.
+   [0AB] 0xF83917C6E4A4380B: In just an instant, light is warped from red to blue. Everything we once understood has been upended. If light itself is mutable, what does that say about the soul?
+   [0AC] 0xF83917C6E4A4380A: At last, the spectrum’s end. Our society’s progress is so rapid, we’ve shifted our perceptions to the ultraviolet. And yet, for all our progress there’s nowhere left to go.
+   [0AD] 0x48BB55E68E2422C8: This obscure film is a cult hit. In a world gone mad, one man must save his town from moral turpitude while also supporting his stricken wife through horse thieving.
+   [0AE] 0x77ADC93BF9FCD727: Everyone with a TV knows about Mecha Gnome! While the valiant LlamaNauts bravely fight evil across the galaxy, they face their greatest challenges as one unit: the mighty Mecha Gnome.
+   [0AF] 0x2234F2BCB1472E4C: Spiraling Galaxy
+   [0B0] 0xC8647E3561BA23E1: Gamma Ray Sunburst
+   [0B1] 0x90CCF37881CE9FA3: Populated Exoplanet
+   [0B2] 0x8BB804157D63D7EF: Orbiting Moon
+   [0B3] 0xECAEAC574D12A071: Nebulous Nebula
+   [0B4] 0xBAB546CE0B6E68BA: Distant Planet
+   [0B5] 0xD90F6C841987EE37: Orbiting Satellite
+   [0B6] 0x3C304F8AA1F1D7B3: Shooting Star
+   [0B7] 0x0FA6BD74FB08F6A4: In some places, tomorrow is just another day – but not for the citizens of SimCity™. Their lives are about to be upgraded with new ways to travel and sleek futuristic architecture. Experience the city of tomorrow, today!
+   [0B8] 0x8F9DD816109B055C: Even in a vast field of stars, a single bright flare can really stand out. What might this glorious thing be saying to us? What might she be asking for?
+   [0B9] 0x448B466806FF3397: Spectacular Super Nova
+   [0BA] 0x34D53B6DE38B0FFC: Universe’s End
+   [0BB] 0x9E94971F342FC8D6: Alien Pedestal
+   [0BC] 0xABB45189833927A5: HoloPhone
+   [0BD] 0xFF7D2583580937CA: What park would be complete without picnic tables? Eating outdoors is as important as ever, especially since  indoor living and sedentary work make every bit of Sun exposure precious.
+   [0BE] 0x8391E69AADC62AE4: Crystal Plant
+   [0BF] 0x3EEAA2356CCA0462: A sensuously curved base supports this high-quality pool table, with glowing buffers to complete the visual spectacle. Features new Zero Drag Felt, turning every shot into a true physics puzzle!
+   [0C0] 0xD7D561663E10FA99: Built in another dimension by the mysterious Time Traveler, this artifact allows transit between the Present and the Future. Events in the former may profoundly impact the latter.
+   [0C1] 0xBB27E7718C56A41F: Spawns rare nanites.
+   [0C2] 0xBB27E7718C56A41C: Spawns rare nanites.
+   [0C3] 0xBB27E7718C56A41D: Spawns rare nanites.
+   [0C4] 0xBB27E7718C56A41A: Spawns rare nanites.
+   [0C5] 0x3688D376211210C0: After centuries of global warming, Simkind finally hit upon the solution to this global crisis: build more refrigerators! Do your part for the environment with this glacially powerful appliance.
+   [0C6] 0x20220BAD5D43B9FB: Cash registers are seldom replaced, but if you’re looking for a business upgrade then look no further! A fully holographic interface reduces on-the-job injuries and allows full customization.
+   [0C7] 0x54AA5EF83B928AFF: Heralded as the finest restaurant in all of Oasis Landing, Sims come from all over to experience our fine dining.
+   [0C8] 0xCE4FE2B9E3E8BBB3: This rug’s circular design and outer ring make it a natural centerpiece for any living room. Its blocks and spaces are scientifically calibrated to promote optimal conversation in groups.
+   [0C9] 0x2AAA575DB4AF8082: When modernity stresses you out, relax and take in this rug’s winding course. Mimicking the sinuous stroke of a gentle manatee, it’ll wash away your every care.
+   [0CA] 0xACDFE1B805EFE151: For Sims on the go with eyes to the future, nothing beats a Hover Scooter! This single-thruster model offers performance, convenience and futuristic chic in a sleek, easily parked package.
+   [0CB] 0x7DE478EC1285521B: Young Sims need to get around town like anyone else! This hover scooter lets them do so with speed and safety. Buy one today; don’t make your child beg.
+   [0CC] 0x4FEFB821DC6F85A8: When Sims purchase products, they’re forking over hard-earned Simoleons. It’s crucial they trust the retailer, and nothing builds trust faster than a shining holographic billboard!
+   [0CD] 0x4FEFB821DC6F85AB: Make your neighbors squint with the community’s brightest, most eye-catching billboard. Folks will trip over each other buying your product, both because it’s great and because they’re blind.
+   [0CE] 0x4FEFB821DC6F85AA: Street presence is the most important thing for a new business, and holographic billboards are many megawatts of presence! Push your life-enhancing wares through the screen and into faces.
+   [0CF] 0x13D3854573D2A242: Ceiling mobiles provide infants with the perfect balance of repetitive entertainment and bright colors. This model also happens to teach them advanced orbital mechanics!
+   [0D0] 0x9F52B1DBB02CA279: Turn your home into a lush garden by hanging these plants overhead! It’s a good thing they’re fake, because you could never reach high enough to water them.
+   [0D1] 0x8911D2403113FC19: How can Sims fight each other constantly when plants can resolve their differences without even speaking? Behold the lichen: a perfectly harmonious fusion of algae and fungus. Think about it.
+   [0D2] 0x365CED88844C396E: Any committed roboticist will end up with a shop full of spare parts. It makes no sense to throw them out, so into a box they go.
+   [0D3] 0xAC210CF8CD8595D8: This convenient floor crate can be found in the workshop of any true Plumbot enthusiast! For all the useful components it holds, it’s incredibly painful to trip over.
+   [0D4] 0xE6CF91043B2BEAA2: Let’s face facts: trends are difficult to keep up with and when they're over, where do they go? This rack is perfect for displaying and admiring some of the more thrifty styles of yesteryear.
+   [0D5] 0xE600723C68A22BA6: Turn any public space into a Grand Arcade with high arches and eye-pleasing ivy. Walkways are for common folk; Arcades are way classier.
+   [0D6] 0xE8C706BC9E04BA4F: A massive achievement in both engineering and art! Slabs of metal and concrete rise imposingly from the ground, seeding shock and awe in everyone around.
+   [0D7] 0x262C1C5360C06822: We all know the world is full of glittering technology, but those advances only happened because Simkind made peace with their environment. “The Hollow Earth” symbolizes civilization’s mortality…or something like that.
+   [0D8] 0x49115F0F55568BB2: Gaze into the placid water; imagine yourself as a smooth grey stone, resting below the surface. It’s so quiet, so still. Buy yourself peace of mind today!
+   [0D9] 0xACF11F3B6CFDFB4E: It may be jarring and violent to behold, but the Kilraki Array is considered one of the century’s most important art installations. Just don’t touch it; you may hurt yourself.
+   [0DA] 0x4BC2B8BA010FC114: Dense stands of bamboo lend an exotic East Asian flavor to any living space. Though artificial, they may distract ravenous Panda bears long enough for your family to escape.
+   [0DB] 0x5A7F638E1709832A: The dense green leaves of this banana plant lend your garden a dark, mysterious, jungle atmosphere. Sadly, fake plants don’t bear fruit. Make a sandwich if you’re hungry.
+   [0DC] 0x56BFB2E2A8E8D371: It’s easy to admire the noble cattail plant: hardy, fast-growing and always picking up the check at dinner. Class up your garden with this fine replica of genus Typha.
+   [0DD] 0xC1662F18D6C74038: Wetlands are known for three things: cattails, frogs and that peculiar smell of rotten eggs. For a natural atmosphere without stenches or slimy animals, we recommend this artificial houseplant.
+   [0DE] 0xFFADAFF0DDDE9753: What junglescape could be complete without ferns? This artificial plant provides the layer of lush, dense undergrowth you’ve been craving in your home.
+   [0DF] 0x5C9A1316A71CFADE: For the truly discerning grass aficionado, we present a replica of the elegant Pampas plant. Contrary to urban myth, its presence in a home is not a sign of vampires.
+   [0E0] 0xA13248CDA089F6A7: Artificial Emotion Trophy
+   [0E1] 0x5D97D016CEFAAF05: Simulated Combat Trophy
+   [0E2] 0x539C52E0393B85FF: Construction Trophy
+   [0E3] 0x8A9FC52D9D7AFCF6: Blocky, uneven, artificial terrain is overrun and conquered by verdant plant life! The symbolism is obvious, just like this planter sculpture’s natural beauty.
+   [0E4] 0x79587509C26D4C99: The value of community should always be held paramount; it’s how Sims learned to put aside their differences and wasteful greed. These tubular units stand shoulder to shoulder inspiring all onlookers.
+   [0E5] 0x26D9ECC345233380: A simple, striking pair of artificial flowers in an understated pot. Perfect for well lit rooms, where bright colors do their best work!
+   [0E6] 0x4C41B55CA31C079C: These mysterious and geometrically perfect structures are mined intact from distant asteroid belts. Sure, there are cults who say they hear the sculptures whispering. Nothing’s been proven.
+   [0E7] 0x6293A92FA1500435: Imagine a future where water could travel upward from the base of this sculpture to nourish the plant at its top. Unfortunately, that’s not real and neither is the plant.
+   [0E8] 0x6588B473D4545E28: sculptureTableRobotLlamaBlue PLACEHOLDER DESCRIPTION DNT
+   [0E9] 0x6588B473D4545E2B: sculptureTableRobotLlamaGreen PLACEHOLDER DESCRIPTION  DNT
+   [0EA] 0x6588B473D4545E2A: sculptureTableRobotLlamaPurple PLACEHOLDER DESCRIPTION DNT
+   [0EB] 0x6588B473D4545E2D: sculptureTableRobotLlamaRed PLACEHOLDER DESCRIPTION DNT
+   [0EC] 0x6588B473D4545E2C: sculptureTableRobotLlamaYellow PLACEHOLDER DESCRIPTION DNT
+   [0ED] 0xE95C8249293CDA5E: Softly glowing plates arranged on the wall give any home or office a calm, cerebral feel. Stare into their gentle progression; lose yourself in light.
+   [0EE] 0x97A410145B939C24: Sometimes effective advertising is about impressing with less. Splash your message over this text stripe using the understated yet plucky Scipio holo-typeface.
+   [0EF] 0x3F6376979BD2511E: There’s nothing quite like seeing your company’s messaging in print. Take that sensation into the third dimension with this stripe sign, featuring the grim yet jubilant NeoGottik holo-typeface!
+   [0F0] 0xBBC7A0C83FBB7F06: Inspired by the brightness of distant galaxies, the Quasar Column runs a softly glowing strip from floor to ceiling. Nothing says “Future chic” like luminous wall panels!
+   [0F1] 0x02B631DA4558038D: Visionary artist Hari Sendor presents an abstract rendering of Simkind’s ascent from the primordial muck. Even if you don’t see it, the sculpture looks amazing on any wall.
+   [0F2] 0x6C07F0EDD4A9D7EE: This rack’s serpentine back-and-fore evokes the binary nature of the digital age. It’s a simple design, but how much creativity do you really need in your towel rack?
+   [0F3] 0xECF5635F88CC9B41: Bursting with the same futuristic spirit as our popular line of “Sliding Polarity” towel racks! Just remember: when it comes to life’s necessities, reach out for Van Allen.
+   [0F4] 0xE6086051311E2A5A: Powered by high energy flux oscillation, this panel is recessed into the wall and angled downward to cast your furniture in a soothing post-modern glow.
+   [0F5] 0xE5FD5E5131141FB1: Powered by high energy flux oscillation, this extra-wide panel is recessed into the wall and angled downward to cast your furniture in a soothing postmodern glow.
+   [0F6] 0xC31BBF551C70B49B: Glowing wall panels are all the rage. Fill your rooms with a futuristic glow; don’t spare the corners! Arasika’s overhead flux oscillator technology scales and bends with your every need.
+   [0F7] 0xC39F1BD0936DF1DD: Glowing wall panels are all the rage. Fill your rooms with a futuristic glow; don’t spare the corners! Arasika’s overhead flux oscillator technology scales and bends with your every need.
+   [0F8] 0xE1A8BBEAF8C0E430: Flux oscillators are set into your wall at the ceiling and floor, shedding a glow calibrated to please the most discerning retinas.
+   [0F9] 0xE1ABC1EAF8C3243B: Extra-wide flux oscillators are set into your wall at the ceiling and floor, shedding a glow calibrated to please the most discerning retinas.
+   [0FA] 0x84537BD5F38A43B9: Glowing wall panels are all the rage. Fill every inch of your rooms with a futuristic glow! Arasika’s doubled high-low flux oscillator technology scales and bends with your every need.
+   [0FB] 0x4ECCC8CC5F0A841B: Glowing wall panels are all the rage. Fill every inch of your rooms with a futuristic glow! Arasika’s doubled high-low flux oscillator technology scales and bends with your every need.
+   [0FC] 0x9F95ECC44FFC79F8: Turn the most mundane hallway into a starship corridor! Set at ankle height, these flux oscillation glow panels are sure to impress friends and neighbors.
+   [0FD] 0x9F99F2C450006CE3: Turn the most mundane hallway into a starship corridor! Set at ankle height, these extra-wide flux oscillation glow panels are sure to impress friends and neighbors.
+   [0FE] 0x859DDF1FDB13E7F1: Glowing wall panels are all the rage. Carpet your floors with a futuristic glow; don’t spare the corners! Arasika’s floor-height flux oscillator technology scales and bends with your every need.
+   [0FF] 0x0A5FDB36D09D06D3: Glowing wall panels are all the rage. Carpet your floors with a futuristic glow; don’t spare the corners! Arasika’s floor-height flux oscillator technology scales and bends with your every need.
+   [100] 0x125D3FD6DFC95922: The universe’s ideal gravity is represented in a shelf as deceptively simple as the theory of General Relativity. No matter the mass, the Astral Plane can support it!
+   [101] 0x88D2E743D0D89D28: Future Lounge Door
+   [102] 0x7B283FF809074FF2: Gallery Shop Door
+   [103] 0xA1C60E28ABEF441C: Crashed Ship Door
+   [104] 0x9A2593F62B874ECC: Future Lounge Shell
+   [105] 0x9AC2AE01C0C6C870: Crashed Ship Shell
+   [106] 0x537B81FDD65FECA4: Shower curtains are tired symbols of an older, stuffier time. Strip down and shower where everyone can see—at least until the glass fogs up.
+   [107] 0x0A20C9E8604AAA65: Creeping industrial pollution may have weakened the world’s botanical stock, but Lexworth Industrial is committed to verdant, natural trees! Well, “verdant” might be a strong word, but they’re basically green.
+   [108] 0x9E746355BAB27591: Built to the specifications of Master Plumber Barry Tuttle, this futuristic countertop sink gives you ample space to chop veggies or wash your dishes!
+   [109] 0x8A390E6C455C4999: One day, curved surfaces will be seen as relics of an indulgent past. Arasika Industries prepares you for the future with these finely machined spigots and faucet.
+   [10A] 0x0C6D481CC14E1C61: Multiple sections of this futuristically austere sofa can lock together for larger, more intricate arrangements. Design the perfect space to foster fascinating conversation and intriguing ideas.
+   [10B] 0xA65E4F98B3469A2D: Designed to interlock perfectly with the popular Clarke sectional sofa, this knee-height table supports any drinks or decorations you care to pair with them.
+   [10C] 0x70B6FA5AE8EF07CF: Spawns plants.
+   [10D] 0x5D22B81AABE98171: Spawns plants.
+   [10E] 0x535F6C590197992A: The very best rugs are made by Nature herself. Enjoy the crunch of real grass beneath your feet or turn your living room into a full vegetable garden!
+   [10F] 0x7B1894EE8952D7B1: Wholly organic floor rugs make any room feel like a placid woodland grove.  This half-tile of sod is the perfect solution for beautifying the furthest corners of the Earth!
+   [110] 0x225DDFBFD434E0E7: Sims used to waste great gouts of water just cleaning themselves, but no longer. Enter the Sonic Shower, employing sound waves to blast every particle of filth off your skin!
+   [111] 0x8269AD70578D141A: It’s tough to be a small child, watching everyone else swoop around on hover scooters. Kids can’t safely operate flying vehicles until age 8, so this will have to do.
+   [112] 0xAC46C5ACB0BE43A1: For children whose tastes in miniature playground vehicles run towards cars rather than bikes, we present the Springy Speeder. Seat belts not included, because it doesn’t go anywhere.
+   [113] 0x4F3D035F894591A5: Prove which Plumbot is the best of the best in cold hard steel competition. Competitions daily for those who have bolts of steel.
+   [114] 0x01315F05A6E48D23: Stairs reach up towards the stars, and while each step is harder than the last they all represent progress. The end is certain. The only question is: how many steps?
+   [115] 0xBFD0C5573F10ECEE: Goes perfectly with Montgomery’s Transparent Staircase.
+   [116] 0x74C5F3E20B0897CA: Named for the inventor of transparent aluminum, these magnificent stairs carry you higher on little more than air! An absolute must for showing off around the community.
+   [117] 0x55012A7075F33067: Goes perfectly with the Transparent Staircase. 
+   [118] 0xBEA516759986872C: Named for famed cryo-biologist Fiorenza Nostromo, this hermetically sealable pod instantly lulls a Sim into suspended animation. They’re virtually immortal while sleeping, though nobody appreciates a rude awakening.
+   [119] 0x3459AE920D765704: All aboard! Enjoy a ride and be whisked to your destination.
+   [11A] 0x8228EB6FAF131097: Legacy Statue
+   [11B] 0x3A99642032D43DEB: Explore the cosmos and unlock the greatest mysteries of the universe. Fun for Sims of all ages!
+   [11C] 0xB786517D54B69D83: Fill any room, home or mountain range with thunderous sound from the Oryx stereo! Circular speakers broadcast at high volume while vibrating like the prongs of a tuning fork.
+   [11D] 0x5DAA0C2149851155: Venus is both a beautiful goddess and a scalding wasteland of a planet.  This stove’s gorgeousness recalls the former, and its insanely powerful oven resembles the latter.
+   [11E] 0xD8DBAD3E7FDD6BA8: Swing sets are a classic part of growing up. The fun doesn’t fade with time, technology or age. If your rear fits on the seat, go for it! 
+   [11F] 0x45309874C9686D87: Set down snacks and drinks on this table’s clear surface. Admire the verdant greenery sealed into its base. TerraFormation: it’s like a picnic, without all the messy nature.
+   [120] 0x833C875BED56FC7F: Evoking the engines of some advanced starship, this dining table rises majestically from a narrow base to a broad glass face. Eat your meals at warp speed!
+   [121] 0x25154CADF358DEC7: Simply the most striking table made this century—or the last, or the next. Struts spiral up from a planter base, suspending your meals like a city in the clouds.
+   [122] 0xE371CE1CFE6FC296: In a world paved over with concrete and steel, Sims should seek out nature at every opportunity! PlanterPod is a simple, easy splash of green in your life.
+   [123] 0x0CECEF88167EB35C: A wide, sturdy base stabilizes the stars while you peer through this fine telescope. Equipped with a precision tuning handle, Perseus picks out the tiniest specks from the firmament.
+   [124] 0xDCB596A4A7DA6A33: Nanite Terrarium DNT
+   [125] 0xB20261C0CF7E36DB: Enjoy the latest and greatest films remade in HoloVision! You’ll never look at movies the same again.
+   [126] 0x13D18300B2C79A7D: Made entirely from recycled materials, this sleek latrine packs all its plumbing into a single unit. Contains sound interference technology to block out the distracting rumble of starship engines.
+   [127] 0x85CB0F7F8518034A: It might look like a cooler for drinks, but this lidded case holds something more precious than liquid refreshment: kids’ toys! Keep your children’s room uncluttered with Bonzo’s Toy Box.
+   [128] 0x4F6442332E07BF83: Custom-designed for Oasis Landing’s world-famous ZEPHYR light rail system, this sign broadcasts the joy of quality mass transit to the world. You can practically hear the trains whoosh by!
+   [129] 0xE003BB5355C4EB7C: Garbage
+   [12A] 0x922CA32D245D5CD4: Garbage, food scraps, and slimy parasites alike are crushed into small indistinguishable blocks. These blocks can be thrown out, used as doorstops or jettisoned into outer space.
+   [12B] 0x12385C4FA3BEB217: trashGun PLACEHOLDER DESCRIPTION
+   [12C] 0x22C5B92A850C5ED3: Pipe
+   [12D] 0x12B047F85BD8DAB3: Large Trash Pile
+   [12E] 0xD612E326CEB45D87: Medium Trash Pile
+   [12F] 0x8190D3D5CCF9371F: Small Trash Pile
+   [130] 0xA550E5775EB435FB: Park engineers and landscapers love the Beech tree for its fronded flowers and dense foliage. Vandals love the Beech for its fragile bark—even shallow cuts will scar. 
+   [131] 0xF217F3899ECE0326: Luminous green leaves and a sweet spring aroma make the Bradford Pear a favorite for parks and other open spaces. Sadly, this stunted variant produces no edible fruit.
+   [132] 0xA64907A6AAE3DA0E: This squat garden shrub has grown synonymous with hardiness and easy caretaking. Like a cat or a hyper-intelligent squirrel, the Burford Holly makes no demands on its owner.
+   [133] 0x293FE44F618BB813: A classic garden shrub grown to its maximum height! Requires no more care than a smaller Burford Holly, and is far better at blocking out your nosy neighbors.
+   [134] 0x7F3F5083CE1F4E20: With a slender trunk and long delicate branches, the Aspen tree is a picturesque accompaniment to any natural landscape—or any arcology garden decks trying to pass as natural.
+   [135] 0x4D247E1708A15750: This full-figured garden shrub is the perfect bordering to any walkway! Lean in to admire the Boxwood’s twinkling star-shaped leaves and you’ll be captivated by its beauty.
+   [136] 0x0458C1000E774F8A: The Red Maple is a woodland staple. Take a chance while you’re able: buy one for your yard before they’re all turned into tables and the forest’s just a fable.
+   [137] 0x783926205F8684EE: Experience the Future in heart-stopping holographic detail! Corebital’s newest piece of holographic technology displays incredible images from a single projector unit. A whole new dimension of entertainment awaits.
+   [138] 0x4A4406BCFCA82069: Spawns uncommon nanites.
+   [139] 0x4A4406BCFCA8206A: Spawns uncommon nanites.
+   [13A] 0x4A4406BCFCA8206B: Spawns uncommon nanites.
+   [13B] 0x4A4406BCFCA8206C: Spawns uncommon nanites.
+   [13C] 0xE14411EF9EE1522E: A slice of classic architecture, this window’s solid frame lends any structure a kind of paternal strength. Frosted glass allows wild parties to rage just past the façade.
+   [13D] 0xDCFCF92B0E685ECF: Stretching from floor to ceiling, this wall window fills any structure with pure natural light and gorgeous panoramic landscapes! Just be careful not to walk face-first into it.
+   [13E] 0xDCF6FD2B0E63FA2D: Advancing the concept of open-sky design, Fields Without Fences windows integrates any room seamlessly into the natural environment! Even if that environment is really ugly. It’s your choice.
+   [13F] 0x0474FAA4E04B26CE: windowGlassWallDiag3x1 PLACEHOLDER DESCRIPTION DNT
+   [140] 0xCF9C4113E91F515D: It’s an accepted fact of modern optics that light, being both a particle and a fluid, flows more smoothly through circular windows than any other shape.
+   [141] 0x51A7D8135779440D: Light flows best through circular apertures, but all that glass still gets in the way. For the Sim truly devoted to illumination, the Hollow Sun is the only option.
+   [142] 0x56BCE5C7F8840199: Everyone likes natural lighting but few enjoy the exposure of full length windows. The Peephole whacks two llamas with one club, letting the Sims inside carefully survey their surroundings.
+   [143] 0x89424FC288048469: Add an aura of intrigue to your home with these paired parallel windows. You could walk around wearing only your shoes and no one would know!
+   [144] 0x4EEDA2A53BE54E25: For the Sim who cares deeply about tanning their calves, this ultra-low window provides just a thin sliver of brilliant light on the floor.
+   [145] 0x7DC5C7486D60A899: Spawns objects based on the Utopian/Dystopian state of Oasis Landing.
+   [146] 0x10551818109D78C5: Abandoned Mine
+   [147] 0xB93EBBAB4F0C3FDE: Bot Arena Backdrop
+   [148] 0xDE2E4965BFB26975: Dew
+   [149] 0x2B5A423B7A2B5A48: Dew
+   [14A] 0x3E67D6991C54EE77: Synthesized Drink
+   [14B] 0xF2B397570319790A: Meteor Magnet
+   [14C] 0x34D58B5B75CE18DC: The Sims 4 Dream Program Chip
+   [14D] 0xA676F332BDE236F3: The Sims 4 Concept Art Projection Program Chip
+   [14E] 0xBE563238A7635EDB: The Sims 4 Characters Projection Program Chip
+   [14F] 0xC0962DCB4B1EE897: 88w55 Classic
+   [150] 0xC6A9CD4C354DB963: Tardisian All-in-One Bathroom by Corebital Designs
+   [151] 0x67556C670D0DB346: “Music Moves” Arcade Console by Korben Computing
+   [152] 0x6CD5F1DD6967EB58: “Shape Skirmish" Arcade Table by Korben Computing
+   [153] 0x1E16E37D5A0A4509: Tyrellian Cube Barstool by Modern Arcology
+   [154] 0x2F3EA3F3E01CF941: BactaBath Bathtub by Modern Arcology
+   [155] 0x71BF59E76F0B0D46: BiPod Bunk Bed by Wiggin Youth Architecture
+   [156] 0xCC4B878FA93CE9FF: BiPod Loft Bed by Wiggin Youth Architecture
+   [157] 0x362875C0DD37D914: The Sprawl Double Bed by Modern Arcology
+   [158] 0xE83159ABED2A9A50: MyoPod Single Bed by Modern Arcology
+   [159] 0x9DFC53C9BD3B7BAC: Holographic Billboard 1
+   [15A] 0x9DFC53C9BD3B7BAF: Holographic Billboard 2
+   [15B] 0x9DFC53C9BD3B7BAE: Holographic Billboard 3
+   [15C] 0xC5A2CCCD7D81CD0C: Holographic Billboard Stripe 1
+   [15D] 0x556F0D2C438F6B56: Holographic Billboard Stripe 2
+   [15E] 0xFAAC7DD5F333F004: Nahesa Bookshelf by Van Allen Décor
+   [15F] 0xD688423404C3D26F: Cobalt Codex Bookshelf
+   [160] 0x90B7535A57FE232C: Deep Stacks Double Bookshelf
+   [161] 0x6A4B5FEA498F9DA1: Tower of Biblio Triple Bookshelf
+   [162] 0xBCCBB272E96B3150: BiblioVault Bookshelf by Corebital Designs
+   [163] 0x254CE1BF86259DAA: Altered Frames Bookshelf
+   [164] 0xB633AC731A40AC9B: Bulbular Bookshelf by Wiggin Youth Architecture
+   [165] 0x3299A4F2094C2859: Tammy’s Spa & Books
+   [166] 0xFAB8B6994AA11A17: TechoTycoon Plumbot Stand by Arasika Industries
+   [167] 0xD5976FC2C907CC7E: Bot Emporium Shell
+   [168] 0xB152B0B492E5D6C0: Nexus-9 Non-Organic Charging Station
+   [169] 0x21CA7E87F2CD7F64: Reventlov’s Bot Workshop
+   [16A] 0xF1F240E840AA8B1B: Hot Spring Bubble Spawner
+   [16B] 0xA468415E7BF6FC84: Geminisi Overhead Cabinet by Van Allen Décor
+   [16C] 0xFBB7A208FBFE6D40: Canistera Cabinet by Van Allen Décor
+   [16D] 0xDCB8BD92311F7895: Canisterita Cabinet Island by Van Allen Décor (Double Sided)
+   [16E] 0xBB00574EA882BF94: Cafe Awning
+   [16F] 0xEB853496032530F0: Corto Speedster by Arasika Technologies
+   [170] 0x415264E0F6115198: Sebastino Family Aircar by Arasika Technologies
+   [171] 0x4954B3284B8D8580: Repoman Hover Truck
+   [172] 0xD86D75F6CB00EB4C: DeLorraine Flying Roadster by Arasika Technologies
+   [173] 0x12F727F6897C1992: Elevated Transport Car
+   [174] 0x890EEA3112FEFC89: Time Remote Control
+   [175] 0xB37F06A6E0C3D545: Razer Rocket Dining Chair by Van Allen Décor
+   [176] 0x30E6EBB06008C46E: Cozy Colonist Dining Chair by Van Allen Décor
+   [177] 0x92CBD3A4D63593B4: Batty’s Egg Living Chair by Modern Arcology
+   [178] 0xF37586AA62E51BF0: Ennu-Ite Lounge Chair by Modern Arcology
+   [179] 0x62B939BB08137F71: Azad’s Holo-Chess Table by Korben Computing
+   [17A] 0x120AB779DE922AD0: Holo Chess Pieces
+   [17B] 0x2EA86C8C438EEA7D: Large Blank Processor
+   [17C] 0xB08CEE7B412B77FD: Medium Blank Processor
+   [17D] 0x3A087B43E094FFF5: Small Blank Processor
+   [17E] 0xE1B38C77D2EB04A4: Ability Trait Chip
+   [17F] 0x461B898D7967B817: Service Trait Chip
+   [180] 0xE5195E9656F4575D: Skill Trait Chip
+   [181] 0x38682B51D91C4F27: Social Trait Chip
+   [182] 0x0581BA60BBEF9041: Oasis Landing City Hall
+   [183] 0x435BC08E44705ED4: Oryx Perpetual Motion Column by Modern Arcology
+   [184] 0xEBFD8254201E5AC3: Nanite Spawner Common 1
+   [185] 0xEBFD8254201E5AC0: Nanite Spawner Common 2
+   [186] 0xEBFD8254201E5AC1: Nanite Spawner Common 3
+   [187] 0xEBFD8254201E5AC6: Nanite Spawner Common 4
+   [188] 0x0858AC1245EC1AFA: Oculo Holo-Computer by Korben Computing
+   [189] 0xF9ED287364010EA1: computerHologram_jig DO NOT TRANSLATE
+   [18A] 0x6FDC31A3BA3F8B40: Rainbow Knoll
+   [18B] 0xB86CE1620E6FCAFC: Clean Slate Counter by Hill Gulch Furnishings
+   [18C] 0x1493262DD1D333B9: Clean Slate Counter Island by Hill Gulch Furnishings
+   [18D] 0xEE2D2C2C57BA768F: Fun Fugues Crib by Wiggin Youth Architecture
+   [18E] 0x884C3F4EFE3586AB: Crystal Flower
+   [18F] 0x002363D3939FB32E: Crystal Flower ({0.String})
+   [190] 0xE787BB15438349BC: Crystal Plant Spawner
+   [191] 0x28237970803E8572: Curious Dew
+   [192] 0xE42947A90E0C1FCC: Dam
+   [193] 0xC19B3A16E0CD2B33: Dark Matter
+   [194] 0x6DE4D07D51DA23D8: W.O.R.M. Desk by Van Allen Décor
+   [195] 0x0E917F697FD78278: dewFightLarge_jig
+   [196] 0x9A5D928541AFCA64: dewFightSmall_jig
+   [197] 0xE523CCA95600CC2C: Debris Site
+   [198] 0x08CA2D187BE9283E: Digsite Spawner - Wasteland
+   [199] 0x50D36B24CC077555: Dualterium Dishwasher by Corebital Designs
+   [19A] 0x01A9546451F3EEC7: The Cloft Clover Wall Sign by Hill Gulch Furnishings
+   [19B] 0x337DFD186C6B061A: Arasika Cosmopolitan Garage Door
+   [19C] 0x9BC0776C93968228: Amundsen Single Door by Hill Gulch Furnishings
+   [19D] 0xC83B68AA5200FEC7: Majel Bulwark Sliding Door by Van Allen Décor
+   [19E] 0xE3E301F8253A15B6: Sweet Escape Dream Pod by Corebital Designs
+   [19F] 0x7820BA877C824551: Dream Pod
+   [1A0] 0x8D781FDAF5E42D6F: Dream Pod
+   [1A1] 0xA0E241CF2C229445: Prissy Plumes Dresser by Van Allen Décor
+   [1A2] 0x1AB582B7E2AE95ED: Transomic Tower Dresser by Van Allen Décor
+   [1A3] 0x114BFCA95D2B9DED: HB-2 Hyperbaric Wardrobe by Van Allen Décor
+   [1A4] 0x85BEFAE863AE5795: Delightfully Oversized Flower
+   [1A5] 0x221F3B25953351BB: Large Holographic Painting
+   [1A6] 0xB8E607425E192E9F: Medium Holographic Painting
+   [1A7] 0xDD24268378A1A387: Small Holographic Painting
+   [1A8] 0xBD57B103659D3980: Large Holographic Painting
+   [1A9] 0xCEAB6D5FD238C0AE: Medium Holographic Painting
+   [1AA] 0xE6E2792130DBD138: Small Holographic Painting
+   [1AB] 0xA3D1FEE85A746B94: Large Holographic Painting
+   [1AC] 0x53133BF182B4D9BA: Medium Holographic Painting
+   [1AD] 0x5F1400D7A25E79BC: Small Holographic Painting
+   [1AE] 0xD9EAEE8A16A32F7E: Matrixxe Holographic Easel by Korben Computing
+   [1AF] 0xC6F58CE18722EA0D: Tube Elevator by Corebital Designs
+   [1B0] 0xC030DC4E1C9AB261: Concrete Cover
+   [1B1] 0xA471B47E99457ED0: Simulated Dirt Trail
+   [1B2] 0xCECBA8A938199B3E: Dark Rural Grass
+   [1B3] 0x37133ECCDCFADE0E: Light Rural Grass
+   [1B4] 0xC25EF04C59EBECFA: Light Concrete Cover
+   [1B5] 0x59F53720FB0FDA0C: FitZord Conditioning Apparatus by Korben Computing
+   [1B6] 0xF111D237F6A89A29: Pegasus Treadmill by Corebital Designs
+   [1B7] 0x9D006A25A159B34C: Perigee Planter by Hill Gulch Furnishings
+   [1B8] 0xD9CF5E1BF9F7E3C9: Montgomery’s Transparent Fencing by Modern Arcology
+   [1B9] 0xF75D446CBA6ADE3B: White Fence
+   [1BA] 0xE7FA171B82BFC875: White Fence (Long)
+   [1BB] 0x0B94C81B972FC981: White Fence Post
+   [1BC] 0xE6FD9AC98547AD60: “The Deepest Green” Hedge Fencing by Hill Gulch Furnishings
+   [1BD] 0x1D10F54F7552C446: Bucolic Bushes Hedge Fencing by Hill Gulch Furnishings
+   [1BE] 0x26B96F7B82746D86: Vulcan’s Cauldron Fire Pit by Hill Gulch Furnishings
+   [1BF] 0x3ED5C3C5C710472C: Pele’s Pillar Fireplace by Modern Arcology
+   [1C0] 0x4CBC5C9A49287096: SootStack Fireplace by Hill Gulch Furnishings
+   [1C1] 0x3976B17F64E6BD08: Three Eyed Fish
+   [1C2] 0xA167C75072A5E964: Mounted Three Eyed Fish
+   [1C3] 0xE292C90E71AB726C: Rainbow Snail/Utopia Spawner
+   [1C4] 0x6549CC4DA1C11237: Rainbow Snail
+   [1C5] 0x178847FD9D97DD99: Mounted Rainbow Snail
+   [1C6] 0x8B90F23B9B146D87: Rainbow Flower
+   [1C7] 0xC554416C5E94058D: Soylash Grinder Food Processor by Arasika Technologies
+   [1C8] 0x7390BC123C996106: FoodForge Cuisine Synthesizer by Arasika Industries
+   [1C9] 0x93177E8C99045CE1: Normono Foosball Table by Wiggin Youth Architecture
+   [1CA] 0xEB7159B5FC2B72E1: Community Fountain
+   [1CB] 0xC26ACA49437F18EE: Atwood’s Flood Sculpture by Modern Arcology
+   [1CC] 0xF59FD632562246C7: The Panther Modern Fountain by Modern Arcology
+   [1CD] 0xFD6E1A2CB3618B25: Time’s Cascade Planter-Fountain by Modern Arcology
+   [1CE] 0x5830FD8E19C2F786: Naiada Floating Fountain by Modern Arcology
+   [1CF] 0x10038C04230565E8: SAM-7 Drink Synthesizer Unit
+   [1D0] 0xC291C2E0EB19B526: Flash Wall Sign by Corebital Designs
+   [1D1] 0x6CEB934E83F769B2: WonderWall Projection Paneling by Modern Arcology
+   [1D2] 0x6CF5954E83FFC15F: Fantastical Façade Projection Paneling by Modern Arcology
+   [1D3] 0x80A0CC5DC08F080F: Gallery Shop Shell
+   [1D4] 0x0AD23C0F743EF3B6: Saturnine Vehicular Display Pedestal
+   [1D5] 0x7C290D58B28D8A70: Rubikon Retail Display Pedestal by Corebital Designs
+   [1D6] 0x874C1DB766823C32: Concentroid Retail Display Pedestal by Corebital Designs
+   [1D7] 0xCAA641D688F42FB2: Discara Retail Display Pedestal
+   [1D8] 0xCABB45D689069262: Dais for Days Retail Display Pedestal
+   [1D9] 0xDD3F127534AD2F63: Ivoroid Retail Display Pedestal
+   [1DA] 0xDD3B0C7534A93C7B: Charon Shop Pedestal by Arasika Industries
+   [1DB] 0x73B61BBB57571984: Galaxar Galleria Sign by Corebital Designs
+   [1DC] 0xBF74890D33BA2998: Geyser Rift
+   [1DD] 0x569D0E9FDD9D0446: Small Prismatic Floor Panel by Van Allen Décor
+   [1DE] 0x56930C9FDD94ACBE: Large Prismatic Floor Panel by Van Allen Décor
+   [1DF] 0x568C109FDD8E949E: Quad Prismatic Floor Panel by Van Allen Décor
+   [1E0] 0x316111D9C8232D59: Rainbow Flower Petals 1
+   [1E1] 0x161E90D9B85653A8: Rainbow Flower Petals 2
+   [1E2] 0xED4DFF4246C26FE3: Apogee Ultra Model SD9 Guitar
+   [1E3] 0xAE9E670FE6B41578: Laser Rhythm-a-con by Arasika Industries
+   [1E4] 0xF2DBE3ABBC3C61EB: harpLaser_jig DO NOT TRANSLATE
+   [1E5] 0xE9A6B4903ED79F86: Sky High Chair by Wiggin Youth Architecture
+   [1E6] 0x20A39B3DBFE2319B: Bright Sprite Holo Disc by Arasika Industries
+   [1E7] 0x5BE511FF33D393F6: Sprite Mood High
+   [1E8] 0x97DD02B2E772DF20: Sprite Mood Low
+   [1E9] 0xBFD44DDAEEF94EE3: Sprite Mood Medium
+   [1EA] 0x7D7C44389916F313: Simulus
+   [1EB] 0x7D7C44389916F310: Pixon
+   [1EC] 0x7D7C44389916F311: Chromec
+   [1ED] 0x7D7C44389916F316: Metaso
+   [1EE] 0x7D7C44389916F317: Gamma
+   [1EF] 0x7D7C44389916F314: Jenum
+   [1F0] 0x7D7C44389916F315: Phobus
+   [1F1] 0x7D7C44389916F31A: Feronix
+   [1F2] 0x7D7C44389916F31B: Zigrid
+   [1F3] 0x7D7C44389916F318: Futech
+   [1F4] 0x7D7C44389916F319: Esper
+   [1F5] 0x7D7C44389916F31E: Astrid
+   [1F6] 0x7D7C44389916F31F: Roboid
+   [1F7] 0x1129BF29A4A7042D: Spectral Shrubbery Holo-Plants by Corebital Designs
+   [1F8] 0x1133C129A4AF5C35: Phantom Foliage Holo-Plants by Corebital Designs
+   [1F9] 0xE420DE326A25029B: Holographic Bamboo
+   [1FA] 0x9FF5196D6503CC31: Holographic Bamboo
+   [1FB] 0x7C01B0688726C398: Holographic Banana Plant
+   [1FC] 0x68035464A049FBA3: Holographic Plant
+   [1FD] 0xAC9330C1906F4A0F: Holographic Palm Tree
+   [1FE] 0x297C992DF4D5960D: Holographic Palm Tree
+   [1FF] 0x7272DF5081023016: Holographic Plant
+   [200] 0x9DCCD1C188C9D284: Holographic Plant
+   [201] 0x8A09C51D56808479: Oasis Landing Community Hospital & Science Center
+   [202] 0x2E31E909BA252E2C: Healing Beacon Hospital Sign by Linda Lee Hospices
+   [203] 0x610272D123373724: The Gaffer Hot Drink Machine by Corebital Designs
+   [204] 0x4611397F9E14A92A: Neptune’s Grotto Hot Tub by Arasika Industries
+   [205] 0x388AD6B5831859E3: Houseboat A
+   [206] 0xA8B2B8BEB03FB562: Houseboat B
+   [207] 0x56F70CEF869C4271: Houseboat C
+   [208] 0x080E9194AECF2FBE: Windcarver
+   [209] 0x4EA4119B25950793: Arasika Palanquin
+   [20A] 0x35D17DA0DC3BDEFB: Arasika Chariot EX
+   [20B] 0xF76AE763F6A53243: Arasika Bison
+   [20C] 0x8F28A3121B483BF5: Hover Limousine
+   [20D] 0xB8C0C40A8FD0E919: Hover Limousine
+   [20E] 0x570B9F0AEA25758D: Hover Limousine
+   [20F] 0x8DBF72504E078008: Hover Limousine
+   [210] 0x953892DC29A02DCD: Arasika Fenris
+   [211] 0xC903CEBE1ADA4196: Arasika Elroy
+   [212] 0x7870FB4174AA2806: Police Hover Cruiser
+   [213] 0xD17F523571E73C79: Arasika Liara
+   [214] 0x75722B181C9F3C62: Fire Hover Truck
+   [215] 0x71E1BED0973EF6C5: Handyman Hover Truck
+   [216] 0xBA4A8E932CE60144: Service Hover Car
+   [217] 0x18D25C64A04676A8: Maid Hover Car
+   [218] 0x92ED644FA3CBB80A: Service Hover Car
+   [219] 0x3444D57E08051C15: Arasika Ratatask Racer
+   [21A] 0xC112B811A7100FF8: Hover Taxi
+   [21B] 0xC89EC811AB059ABB: Arasika Elroy from Zed’s Dizcount Dealz
+   [21C] 0xEB68B1059A85EBF3: Arasika Amalthea from Zed’s Dizcount Dealz
+   [21D] 0x276BBAEA5290B7AD: Arasika Bubalus
+   [21E] 0x7430DA19C8DCEEEC: Nanite Spawner – Bot Workshop
+   [21F] 0xC323AA3D5B9ACF06: Secord X-7 Jetpack
+   [220] 0xC42E25CE54A51FB9: jetpackFlyAround_jig DO NOT TRANSLATE
+   [221] 0xDB3D7B44148A6AAA: jetpackLandFail_jig DO NOT TRANSLATE
+   [222] 0xB8462BFF95B44631: jetpackTakeOff_jig DO NOT TRANSLATE
+   [223] 0xE3AA14D78E176466: SkySwoop Playground Slide by Wiggin Youth Architecture
+   [224] 0xCE084030C203EA67: Timeless Tomes Library Sign by Arasika Industries
+   [225] 0x7953668C4A75BD36: Tears in Rain Ceiling Lights by Modern Arcology
+   [226] 0x63F255DACA3F2AFC: Dramatic Static Floor Lighting by Corebital Designs
+   [227] 0x27FC05E3FE5E7416: Tannhauser Gate Floor Lamp by Van Allen Décor
+   [228] 0x0E1D7596DC007FFE: Planck Floor Lamp by Arasika Industries
+   [229] 0xCEEACAB5F31AEF02: Trianna Street Lamp by Modern Arcology
+   [22A] 0x64D266EDB1678941: Lumen Blossom Table Lamp by Modern Arcology
+   [22B] 0x74C167EA2397DF48: Tessier’s Tower Table Lamp by Corebital Designs
+   [22C] 0xDDF817A2DF930256: Plank’s Panels Wall Lighting by Arasika Industries
+   [22D] 0xCB962E1D3056D091: Rachael’s Relaxer Loveseat by Van Allen Décor
+   [22E] 0x932E68F88356A37E: More Amour Park Bench by Hill Gulch Furnishings
+   [22F] 0x75C54D52D89E7930: Mech Gnome
+   [230] 0x3372076294D0B871: Mannequin
+   [231] 0x4751F5E296BCEB13: Pleasant Meadows Mausoleum
+   [232] 0x1F22AAEF5F05DD3A: Molly Mega’s Microwave by Corebital Designs
+   [233] 0x49D50FAC1BACF8CE: Kepler’s Kluster Wall Mirror by Van Allen Décor
+   [234] 0x1337D6138744B95C: Tesseract Mirror by Van Allen Décor
+   [235] 0x0C3D5DCBAA071B9C: moonBounce_jig DO NOT TRANSLATE
+   [236] 0xF8149A771AD480A7: Mysterious Key
+   [237] 0xA6D7EA7A5E26822C: Mysterious Fragment 1
+   [238] 0xA6D7EA7A5E26822F: Mysterious Fragment 2
+   [239] 0xA6D7EA7A5E26822E: Mysterious Fragment 3
+   [23A] 0xA6D7EA7A5E268229: Mysterious Fragment 4
+   [23B] 0xE3E87DABFA7F6134: Oil Puddle
+   [23C] 0xB0482018F3B44FEF: Asteroid Belt
+   [23D] 0x746E6A9365CCD1A6: Approaching Singularity
+   [23E] 0x71D9B8A8D257F059: Journeying Comet
+   [23F] 0x6271B0200BFAEE24: Mysterious Constellation
+   [240] 0x6373E6CD55675B22: The Event Horizon
+   [241] 0x7C55AB9400D48BD8: “Doppler Shift, First Movement” Painting by D.T. Art Collective
+   [242] 0x1A1E647D6929A03A: “Doppler Shift, Second Movement” Painting by D.T. Art Collective
+   [243] 0x1A1E647D6929A03B: “Doppler Shift, Third Movement” Painting by D.T. Art Collective
+   [244] 0x88B00AB5D69D43F3: “Stealing Horses, Saving Souls” Official Film Poster
+   [245] 0x7B98CD9B3E0B78EE: “Llamas in Legion” Official Franchise Poster
+   [246] 0xCD21F3D103BEA3B7: Spiraling Galaxy
+   [247] 0x86D4E7E2E43258B8: Gamma Ray Sunburst
+   [248] 0xC7E144387ED3335C: Populated Exoplanet
+   [249] 0xF7CAD084AE72EC7C: Orbiting Moon 
+   [24A] 0x8170E5B7402EED2E: Nebulous Nebula
+   [24B] 0x5A5A07419401B9AD: Distant Planet
+   [24C] 0x0DC9BDB84AE54DB2: Orbiting Satellite
+   [24D] 0x185DC15BBC725CA4: Shooting Star
+   [24E] 0xACC600CCE0B332CD: SimCity™: Cities of Tomorrow Poster
+   [24F] 0xA10664847D42D0DF: The Diva
+   [250] 0x7E3D78843637339A: Spectacular Super Nova
+   [251] 0xF1C530BD7822D075: Universe’s End
+   [252] 0xD426B192B3766DEF: Parked Cars A
+   [253] 0xD426B192B3766DEC: Parked Cars B
+   [254] 0xD426B192B3766DED: Parked Cars C
+   [255] 0x9D225C49D29ED59F: Alien Pedestal
+   [256] 0xAEC3706AB41FF1CA: performComedyShow_jig DO NOT TRANSLATE
+   [257] 0x3AE837CE94415CFF: PH_Planter
+   [258] 0x2EC03CA4AC67110A: HoloPhone
+   [259] 0x570C7969AD02321B: Gojira Picnic Table by Hill Gulch Furnishings
+   [25A] 0xD1E65BAB3684B0D6: THIS IS ONLY A TEST OBJECT
+   [25B] 0x1E050AA739DF3D3B: Crystal Plant
+   [25C] 0xD33BD1158E1FE1C3: Newtonian Plane Pool Table by Corebital Designs
+   [25D] 0x125FF4CA9E257E0A: Wellsian Time Portal
+   [25E] 0x25E133A85F510E7C: Pot of Gold
+   [25F] 0xEE9862672D7B73B3: Power Cell
+   [260] 0x5EDF558663CC9EF8: Elevated Transport Rail
+   [261] 0x51454D5171AD40DC: Nanite Spawner Rare 1
+   [262] 0x51454D5171AD40DF: Nanite Spawner Rare 2
+   [263] 0x51454D5171AD40DE: Nanite Spawner Rare 3
+   [264] 0x51454D5171AD40D9: Nanite Spawner Rare 4
+   [265] 0x4E5353862414BC29: Plastocene Refrigerator
+   [266] 0xA591655DA6DDC91A: Corteena Holo-Register by Arasika Industries
+   [267] 0x14819A2F018E2620: The Utopian
+   [268] 0xFCD4A72624B79D12: Retaining Wall Tall A
+   [269] 0x1E264E8F3CE7D9EE: Retaining Wall Short A
+   [26A] 0x05165913AEDE0FF3: Retaining Wall Tall B
+   [26B] 0x58E76536C485434D: Retaining Wall Short B
+   [26C] 0xAF79292FC960A6CE: Retaining Wall Tall C
+   [26D] 0xF85F4133F41E5F52: Retaining Wall Short C
+   [26E] 0x80F0B2564CF0C4CA: Retaining Wall Tall Pillar
+   [26F] 0x12D708E009A7B846: Retaining Wall Short Pillar
+   [270] 0xEB5F62D86277DB70: Large Rock A
+   [271] 0xEB5F62D86277DB73: Large Rock B
+   [272] 0xD3799733DBCEF5BC: Medium Rock A
+   [273] 0xD3799733DBCEF5BF: Medium Rock B
+   [274] 0xD3799733DBCEF5BE: Medium Rock C
+   [275] 0x26E591B8E4D38254: Small Rock A
+   [276] 0x26E591B8E4D38257: Small Rock B
+   [277] 0x26E591B8E4D38256: Small Rock C
+   [278] 0xB23F10F2C93E849C: Extra Large Rock Pile
+   [279] 0x3602B997E0A712F7: Extra Large Rock
+   [27A] 0x33241A3404E3A458: Extra Small Rock A
+   [27B] 0x33241A3404E3A45B: Extra Small Rock B
+   [27C] 0x33241A3404E3A45A: Extra Small Rock C
+   [27D] 0x4772F010FAE13E0C: Neptunian Rug by Van Allen Décor
+   [27E] 0xF19FAD7676C1B661: Hydraeta Rug by Modern Arcology
+   [27F] 0xECAC234A650BB3F2: X-75 Hover Scooter
+   [280] 0xFEFFE4BB839B3438: Ragin’ Avian Youth Hover Scooter
+   [281] 0x76B48885F9135673: Holographic Huckster Holo-Billboard by Arasika Industries
+   [282] 0x76B48885F9135670: Retinal Ravager Holo-Billboard by Arasika Industries
+   [283] 0x76B48885F9135671: Aspirational Adz Holo-Billboard by Arasika Industries
+   [284] 0x2C4479FC22E6E181: Lil’ Kepler Ceiling Mobile by Wiggin Youth Architecture
+   [285] 0x174193DB2B6CB3AC: Babylon’s Garden Plant Sculpture by Modern Arcology
+   [286] 0x2DD8E146B3E1117C: Lichen You, Lichen Me Ceiling Sculpture by Hill Gulch Furnishings
+   [287] 0xBB3BEF046AC5BFA7: Component Crate Sculpture by Arasika Industries
+   [288] 0xEC96CB816E04A8F7: Battery Stack Sculpture by Arasika Industries
+   [289] 0xFEA19F2F37CCF611: Strickland Clothing Rack by Hill Gulch Furnishings
+   [28A] 0xE13B26F982040D51: Babylon’s Garden Trellised Arches by Modern Arcology
+   [28B] 0x9583739D835E9076: Androssian Colossus by Van Allen Décor
+   [28C] 0x1311F5F383DDEC9D: “The Hollow Earth” Sculpture by Modern Arcology
+   [28D] 0xB9F392C00247F78D: Sea of Tranquility Floor Sculpture by Modern Arcology
+   [28E] 0xC1ED9C300CF40FB9: Kilraki Array by Van Allen Décor
+   [28F] 0x5301FFDE0DF193E9: Bamboo for You! Houseplant
+   [290] 0xBF9E61A6F595324B: Go Bananas! Houseplant
+   [291] 0x6FF8091919D4DE60: Cat Got Your Tail? Houseplant
+   [292] 0x1CD9E62559B5D84F: Estuaries Are the Bestuaries Houseplant
+   [293] 0x9741DE7EEC819BEE: Ferning Over New Leaves Houseplant
+   [294] 0x9D64C3530CC02F53: Pampas Blowhard Houseplant Sculpture
+   [295] 0x9618CEE944CCC97F: Bot Chip Bundle
+   [296] 0x2608F0D4DDB6A4E6: Artificial Emotion Trophy
+   [297] 0x8354D96CF1511308: Simulated Combat Trophy
+   [298] 0x73478DFC85A358B2: Construction Trophy
+   [299] 0x9230B9D7E3AC8BB9: Gaia’s Terrace Sculpture by Hill Gulch Furnishings
+   [29A] 0xBFAD52B58B7CCB68: PodPeas Table Sculpture by Wiggin Youth Architecture
+   [29B] 0x25F351C18F44CF03: Pinwheel Novae Table Sculpture by Wiggin Youth Architecture
+   [29C] 0xF4A3E571771706F5: Conhedo-Supo-Centric Geode Sculpture by Van Allen Decor
+   [29D] 0x6939F0E888D784A4: Artesia Table Sculpture by Modern Arcology
+   [29E] 0xD196EE5B0E47F911: Llama TRN-115
+   [29F] 0xD196EE5B0E47F912: Llama GRX-965
+   [2A0] 0xD196EE5B0E47F913: Llama MCH-043
+   [2A1] 0xD196EE5B0E47F914: Llama ARC-021
+   [2A2] 0xD196EE5B0E47F915: Llama VUL-009
+   [2A3] 0xDDE03C782CF2230F: Lumino Wall Sculpture by Corebital Designs
+   [2A4] 0xDBB9AFF9CD970B1D: Scipio Stripe Holo-Stripe by Corebital Designs
+   [2A5] 0xF391227857A7E275: NeoGottik Holo-Stripe by Corebital Designs
+   [2A6] 0x065CF5F2A4A3E7B7: Quasar Illuminated Column by Van Allen Décor
+   [2A7] 0x02270D292D3E8FF8: Steps of Progress Wall Sculpture by Hari Sendor
+   [2A8] 0x1D1C1F8DFFDB3CFB: Sliding Polarity Towel Rack by Van Allen Décor
+   [2A9] 0xB73ED39CC8EFBFA0: Scrolling Roller Tissue Rack by Van Allen Décor
+   [2AA] 0xB14416D901F1AE29: Type 88 Wall Light by Arasika Industries
+   [2AB] 0xB14F18D901FBB932: Type 88-Wide Wall Light by Arasika Industries
+   [2AC] 0x156D9F70D37228BA: Type 88-HCC Wall Light by Arasika Industries
+   [2AD] 0xF89D3C03ADABFDF6: Type 88-HCV Wall Light by Arasika Industries
+   [2AE] 0x96FAC01A0CE33135: Type 88-Double Wall Light by Arasika Industries
+   [2AF] 0x9704C21A0CEB88DE: Type 88-Double Wide Wall Light by Arasika Industries
+   [2B0] 0x48798CDB090FDCDE: Type 88-DCC Wall Light by Arasika Industries
+   [2B1] 0x97A5A13803F62682: Type 88-DCV Wall Light by Arasika Industries
+   [2B2] 0xDA9E6E9ED5E0C355: Type 88-Low Wall Light by Arasika Industries
+   [2B3] 0xDAA9709ED5EACE7E: Type 88-Double Low Wall Light by Arasika Industries
+   [2B4] 0x1D6C302948FEA4FE: Type 88-LCC Wall Light by Arasika Industries
+   [2B5] 0x40553A3CE5D3FAA2: Type 88-LCV Wall Light by Arasika Industries
+   [2B6] 0x7A2959304F7F78F5: Astral Plane Wall Shelf by Van Allen Décor
+   [2B7] 0x01CB00CCFAA377D4: Bot Shop Door
+   [2B8] 0xD8688E32BFBCD0CB: Future Lounge Door
+   [2B9] 0xA75E482BAF272A9D: Gallery Shop Door
+   [2BA] 0xB66150C43E35A5A3: Crashed Ship Door
+   [2BB] 0x84C6857117F51A3F: Future Lounge Shell
+   [2BC] 0x611520D46991613B: Crashed Ship Shell
+   [2BD] 0x893C3314754A8293: Glass Libertine Shower by Modern Arcology
+   [2BE] 0xB23A5A7FD9536BEA: Wan Willowspur Tree by Lexworth Industrial Gardens
+   [2BF] 0xC37E5A6DB0373E5C: Tuttle’s Counter Sink by Corebital Designs
+   [2C0] 0x10F27E4EE725AD92: Krytenite Pedestal Sink by Arasika Industries
+   [2C1] 0x5E57C03906AEB6B0: Clarke Docking Sofa by Van Allen Décor
+   [2C2] 0xCE36E12661273614: Niven Coffee Table by Van Allen Décor
+   [2C3] 0x2A5DA56AFED1BCA4: Auto Soil: Crystal Plant (Kindness)
+   [2C4] 0x7D8E7562BCFA31B0: Auto Soil: Crystal Plant (Neutral)
+   [2C5] 0x262C785D8E80EE55: Nature’s Soil Rug
+   [2C6] 0x5D61991B98BAD27A: Nature’s Corner Soil Rug
+   [2C7] 0xC24252C916D7EACE: Photovoltaic Cell
+   [2C8] 0x3B517064E6F7675A: Tardisian Well Sonic Shower by Corebital Designs
+   [2C9] 0x03D428745F7944D7: BoingBike Playground Vehicle by Wiggin Youth Architecture
+   [2CA] 0x938FA477254D94EA: Springy Speeder Playground Vehicle by Wiggin Youth Architecture
+   [2CB] 0xDF24F34D1F0A4F8C: Modern Arcology Bot Arena
+   [2CC] 0x6116FC0F7AD77432: Andromeda Staircase Steps by Van Allen Décor
+   [2CD] 0x8EE2804769EE8A1F: Montgomery’s Transparent Staircase Railing
+   [2CE] 0x3180E40AE8A10469: Montgomery’s Transparent Staircase by Modern Arcology
+   [2CF] 0xB095758BE851A644: Transparent Railing
+   [2D0] 0x9C9298DED8F023F4: Stardust
+   [2D1] 0x16C1F96D3EAC41C9: Nostromo’s Cryo-Stasis Pod
+   [2D2] 0x5A75AF46F89FA789: ZEPHYR Station
+   [2D3] 0x8B872ED4998B0462: Legacy Statue
+   [2D4] 0xD0ED4C6CC61E8F5B: Stellar Beam
+   [2D5] 0x55335BCAAFFB30D0: Mercury Stellar Observatory
+   [2D6] 0xEDFA6EFF0307A8D6: Oryx Tower Stereo by Arasika Industries
+   [2D7] 0xDEB78EB4550D9E34: Storage Cylinder
+   [2D8] 0x3DB15626D69D1191: Storage Cylinder
+   [2D9] 0xC9F1598EE9FDC386: Venusian Stove by Corebital Designs
+   [2DA] 0x2ADCC490BD50A6BF: Parabolus Swing Set by Wiggin Youth Architecture
+   [2DB] 0x807FD5861A2E551C: TerraFormation Coffee Table by Modern Arcology
+   [2DC] 0xEFC1273D4946DF58: Nacelle Dining Table by Van Allen Décor
+   [2DD] 0xC55EB9F925107D0C: Helios Helix Dining Table by Van Allen Décor
+   [2DE] 0xA7AA1233CCF0FB0F: PlanterPod End Table by Modern Arcology
+   [2DF] 0x0301662F97AAF831: Perseus Astronomical Telescope by Arasika Industries
+   [2E0] 0x353D9BBBEE2C7837: Distant Terrain
+   [2E1] 0xFD2408B1A307476E: Nanite Terrarium
+   [2E2] 0x316279EB4C6539DE: HoloVenture Theater
+   [2E3] 0x986DBA1D1D59618A: Colonial Commode Toilet by Van Allen Décor
+   [2E4] 0x9CF03DE9BFEC8013: Bonzo’s Toy Box
+   [2E5] 0x3CAAF457CDDBDC04: Calling All Cars! Transit Sign by Arasika Industries
+   [2E6] 0x2755197DC0866981: Garbage
+   [2E7] 0x72AF26DBC66F2DF7: Model AA-23 Trash Compactor by Arasika Industries
+   [2E8] 0x18E38B9789088CB0: trashGun PLACEHOLDER
+   [2E9] 0x5AD491410085FB30: Pipe
+   [2EA] 0x39499421B0090590: Large Trash Pile
+   [2EB] 0x976967C0E23C6E5E: Medium Trash Pile
+   [2EC] 0x8CF51D4B7C5AD2C8: Small Trash Pile
+   [2ED] 0x26F4A72261D992AE: Bosky Beech Tree
+   [2EE] 0x90529F6CDDAAB925: Bonny Bradford Pear Tree
+   [2EF] 0x9E5A9E7542BC23C9: Burly Burford Holly Tree
+   [2F0] 0xC1B3BBBDB54EE7A4: Aerial Burford Holly Tree
+   [2F1] 0x20A77CAADB13B62D: Aspen Ad Astra Tree
+   [2F2] 0x7171E540D975B989: Buxom Boxwood Tree
+   [2F3] 0x778B9937461F97A1: Royal Red Maple Tree
+   [2F4] 0x9AE9FEA7751645A7: Dixie Flatscreen Holographic Television by Corebital Designs
+   [2F5] 0xE0F94420EDDC1672: Nanite Spawner Uncommon 1
+   [2F6] 0xE0F94420EDDC1671: Nanite Spawner Uncommon 2
+   [2F7] 0xE0F94420EDDC1670: Nanite Spawner Uncommon 3
+   [2F8] 0xE0F94420EDDC1677: Nanite Spawner Uncommon 4
+   [2F9] 0x25D8B3BDB4B45FEF: Plumbot Remains
+   [2FA] 0xE68532A2DDDCF9E1: Concrete Wall A
+   [2FB] 0xE68533A2DDDCFBB7: Concrete Wall B
+   [2FC] 0x915273BEFE7FB670: Concrete Wall R
+   [2FD] 0x915273BEFE7FB671: Concrete Wall S
+   [2FE] 0xE68534A2DDDCFD0A: Concrete Wall C
+   [2FF] 0xE68534A2DDDCFD0B: Concrete Wall D
+   [300] 0xE68534A2DDDCFD0D: Concrete Wall E
+   [301] 0xE68535A2DDDCFEDD: Concrete Wall F
+   [302] 0xE68535A2DDDCFEDF: Concrete Wall G
+   [303] 0xE68535A2DDDCFEDE: Concrete Wall H
+   [304] 0xE68535A2DDDCFEDA: Concrete Wall I
+   [305] 0xE6852EA2DDDCF338: Concrete Wall J
+   [306] 0xE6852EA2DDDCF33B: Concrete Wall K
+   [307] 0xE6852EA2DDDCF330: Concrete Wall L
+   [308] 0xE6852FA2DDDCF48B: Concrete Wall M
+   [309] 0xE68530A2DDDCF65E: Concrete Wall N
+   [30A] 0xE68531A2DDDCF811: Concrete Wall O
+   [30B] 0xE68531A2DDDCF812: Concrete Wall P
+   [30C] 0xE68531A2DDDCF818: Concrete Wall Q
+   [30D] 0x22EE0E91219774E5: Embankment Pillar
+   [30E] 0x0EBAADE99617B915: Just a Square Window by Hill Gulch Furnishings
+   [30F] 0x25A96A7D03952B3C: Clean and Clear Wall Window by Modern Arcology
+   [310] 0x25B0667D039B42DE: Fields Without Fences Wall Window by Modern Arcology
+   [311] 0xE1F95285D37A4979: windowGlassWallDiag3x1 PLACEHOLDER
+   [312] 0x60C2F03D115EEF4E: Rising Sun Window by Modern Arcology
+   [313] 0xD42633FE10A898DA: Hollow Sun Window by Modern Arcology
+   [314] 0x25352DD25FC26D36: The Peephole Window by Hill Gulch Furnishings
+   [315] 0x44D502FA04545B14: Slits and Slots Window by Hill Gulch Furnishings
+   [316] 0xF63E4B75ACC220F8: Thin Shin Window by Hill Gulch Furnishings
+   [317] 0x593DB819FF083CAF: Wind Turbine
+   [318] 0x7C85C5889FADFC1A: 326 Emulation Blvd.
+   [319] 0xA2927551479B7053: 1320 Division Street
+   [31A] 0x8CA6DF826034200A: 146 Intrinsic Way
+   [31B] 0x2A892435B0DF5E08: 339 Emulation Blvd.
+   [31C] 0x2A892435B0DF5E0B: 355 Emulation Blvd.
+   [31D] 0x30CA94B51477BAD0: 350 Emulation Blvd.
+   [31E] 0x3A72FBB541967F6F: 383 Emulation Blvd.
+   [31F] 0xEBCAA003B1F6079D: 337 Proclivity Promenade
+   [320] 0x11BED46D12E17059: 407 Emulation Blvd.
+   [321] 0x4B76B0CC949244BF: 583 Precipice Parkway
+   [322] 0xC4ABF7B3E9CC8826: 394 Emulation Blvd.
+   [323] 0xC4ABF7B3E9CC8825: 422 Intrinsic Way
+   [324] 0xC4ABF7B3E9CC8824: 556 Precipice Parkway
+   [325] 0x83E3A88552BDC001: 361 Proclivity Promenade
+   [326] 0xFF292EA472123561: 1240 Acclivity Ridge
+   [327] 0x0068886F918FE78F: 426 Emulation Blvd.
+   [328] 0x0DF5F9E6B9A09866: 1312 Enlightened Heights
+   [329] 0x47F96930EF410472: 1282 Division Street
+   [32A] 0x47F96930EF410471: 1352 Division Street
+   [32B] 0xB5A3AABCA2C85CEC: 1437 Desolation Drive
+   [32C] 0xB5A3AABCA2C85CEF: 1138 Shoreline Drive
+   [32D] 0xB5A3AABCA2C85CEE: 1171 Shoreline Drive
+   [32E] 0xB5A3AABCA2C85CE9: 1222 Shoreline Drive
+   [32F] 0xB5A3AABCA2C85CE8: 405 Intrinsic Way
+   [330] 0xB5A3AABCA2C85CEB: 1146 Enlightened Heights
+   [331] 0xB5A3AABCA2C85CEA: 1198 Enlightened Heights
+   [332] 0xB5A3AABCA2C85CE5: 432 Ascension Avenue
+   [333] 0xE58287321CB741FF: 1360 Wet Basin Bend
+   [334] 0xE58287321CB741FC: 1104 Cordial Court
+   [335] 0xE58287321CB741FD: 493 Precipice Parkway
+   [336] 0xE58287321CB741FA: 1488 Shoreline Drive
+   [337] 0x078EBF2B039667C7: 1124 Serenity Drive
+   [338] 0x10E958FD3DA746A0: 395 Proclivity Promenade
+   [339] 0xBDB5FFD413FE93BA: 304 Emulation Blvd.
+   [33A] 0xFD69850D822F8262: 1220 Division Street
+   [33B] 0xFD69850D822F8261: 1120 Cordial Court
+   [33C] 0xFD69850D822F8260: 234 Intrinsic Way
+   [33D] 0xFD69850D822F8267: 1440 Division Street
+   [33E] 0xFD69850D822F8266: 1103 Serenity Drive
+   [33F] 0xFD69850D822F8265: 1100 Serenity Drive
+   [340] 0xFD69850D822F8264: 1125 Serenity Drive
+   [341] 0xFD69850D822F826B: 511 Precipice Parkway
+   [342] 0xFD69850D822F826A: 1330 Wet Basin Bend
+   [343] 0xFD69840D822F8090: 1191 Shoreline Drive
+   [344] 0xFD69840D822F8091: 1306 Wet Basin Bend
+   [345] 0xFD69840D822F8092: 1218 Serenity Drive
+   [346] 0xFD69840D822F8093: 1130 Acclivity Ridge
+   [347] 0xFD69840D822F8094: 1504 Desolation Drive
+   [348] 0xFD69840D822F8095: 1274 Wet Basin Bend
+   [349] 0xFD69840D822F8096: 223 Ascension Avenue
+   [34A] 0xFD69840D822F8097: 508 Precipice Parkway
+   [34B] 0xFD69840D822F8098: 490 Precipice Parkway
+   [34C] 0xFD69840D822F8099: 538 Precipice Parkway
+   [34D] 0xFD69870D822F8589: 307 Ascension Avenue
+   [34E] 0x1B286DC2BD4F1F63: 551 Precipice Parkway
+   [34F] 0x1B286DC2BD4F1F60: 1106 Cordial Court
+   [350] 0x1B286DC2BD4F1F61: 355 Emulation Blvd.
+   [351] 0x1B286DC2BD4F1F66: 313 Emulation Blvd.
+   [352] 0x04CAC3F7FECA55A0: 425 Proclivity Promenade
+   [353] 0xB196EB24EFDF103C: 309 Proclivity Promenade
+   [354] 0x4778E167497FCF06: 1319 Wet Basin Bend
+   [355] 0x9985913A3F09C625: 410 Ascension Avenue
+   [356] 0x15B2FC6E85C43C03: 391 Intrinsic Way
+   [357] 0xAD08320383178834: 235 Intrinsic Way
+   [358] 0x96DE24AB1CEC09FB: 108 Arid Avenue
+   [359] 0x96DE24AB1CEC09F8: 1383 Desolation Drive
+   [35A] 0xE5812FE564A92AA7: Prove which Plumbot is the best of the best in cold hard steel competition. Competitions daily for those who have bolts of steel.
+   [35B] 0x2F030D08E89AE892: A place for visitors to relax and unwind while visiting Oasis Landing. Stay for as long or as little as you’d like!
+   [35C] 0xC1D35DCD5E5E25A3: Long ago this was a bustling beach on a pristine ocean. It’s still a great place to visit – just bring your own water!
+   [35D] 0x252C8FBDCDBD7A15: The perfect place to clear the mind and reflect on past events. Say hello to someone and maybe you’ll meet a new friend!
+   [35E] 0x2AB09CA7409315D5: Enjoy two of life’s greatest pleasures – books and spas! Enjoy the best manicure in town conveniently located inside a bookstore!
+   [35F] 0xD3B18F724494B010: Take a stroll and learn about the heroes of history that helped shaped Oasis Landing’s culture. 
+   [360] 0x7203AFBCD8D58798: Meals are synthesized to order and served by friendly Plumbots. Best of all, there’s no tipping required!
+   [361] 0x2AA6D125D08DB9E6: We’re standing by and ready to serve the denizens of Oasis Landing. Swing by and say hello!
+   [362] 0xD44A178D6B1FEC82: Once used by early settlers of Oasis Landing, this fishing hole has been forgotten, except by the local neighbors.
+   [363] 0xD2ACC1B62EE8019B: Nothing says future like being in The Erutuf! Oasis Landing’s downtown lounge is the place to be.
+   [364] 0xD2ACC1B62EE80198: Gorgeous plants and a low key atmosphere draw in Sims from all over. When you gotta take a chill, Loel’s got your back!
+   [365] 0xD2ACC1B62EE80199: Relax the old fashioned way without the high tech contraptions that complicate life.
+   [366] 0xBAB38A1F48BA9914: Shop till you drop! We offer the latest and most exotic of imported products on display and ready to sell!
+   [367] 0x470ED34FD3A56192: The final destination when a Sim moves on… Keep your voice down and respect the resting!
+   [368] 0x88839DE788A04278: Suffering from Time Sickness or in need of scientific research? We’ll serve you with a smile and guarantee our work.
+   [369] 0xBE2B74323D8E5697: The jewel of Oasis Landing, the Lending Library serves to educate Sims of all ages. Kick back and relax to a good book!
+   [36A] 0x4D18C0BAA1B84ED8: Shafts of light burst through every corner of this gorgeous luxury home. Overhanging upper stories cast a shroud of soothing shadow over expansive serene pools.
+   [36B] 0x4D18C0BAA1B84EDB: Next-generation architecture inverts traditional spaces to create mind-bending luxury. In this stunning mansion, the pool lies below the house while Sims lounge on a sunny roof lawn.
+   [36C] 0x4D18C0BAA1B84EDA: Sometimes the simplest architecture yields the best results. This rustic family home harnesses the unyielding strength of triangular shapes to support two stories beneath a tall, sloping roof.
+   [36D] 0x4D18C0BAA1B84EDD: The problem with large family homes: you have to spend time with your family! This four-story complex elegantly sidesteps the issue by spreading out residents over its sprawling square footage.
+   [36E] 0x32289FE3F607E020: It’s always a good day to take a dip in the pool! Let your worries swim away  - unless you can’t swim!
+   [36F] 0x1748842E8C954023: Heralded as the finest restaurant in all of Oasis Landing, Sims come from all over to experience our fine dining.
+   [370] 0xB4077B6BF2CCBBF5: Whether you’re in the market for a Plumbot or just need parts, we’re your one stop shop for all your Plumbot needs.
+   [371] 0x5C0775EF014BB19B: More floors mean more wall space for more windows. This vertical structure offers four floors and dozens of windows to create a bright and relaxing home.
+   [372] 0x5C0775EF014BB198: Light is the key to life, transmitting energy to every corner of the planet. In similar fashion, this house’s windows and open interior flood it with natural light!
+   [373] 0x5C0775EF014BB199: For the Sim who prefers a cosmopolitan lifestyle, this cozy abode combines style with convenience. Efficient living arrangements in the front, pool and sun room in the back!
+   [374] 0x5C0775EF014BB19E: This amazing home is sure to blow your mind! A grassy roof keeps you cool in summer, warm in winter and the envy of the neighborhood year-round.
+   [375] 0x5C0775EF014BB19F: Built from wide-open atrium to mossy roof, this gorgeous house is a natural wonderland—a place to build a lifetime of memories with your family.
+   [376] 0x5C0775EF014BB19C: This sumptuous house is built around a ground-level swimming pool: an oasis that sprouted bathrooms, a roof garden and an elevated walkway. It’s the perfect oasis for the most demanding Sim.
+   [377] 0x5C0775EF014BB19D: Built on a sprawling lot, this home fills it to bursting with a pool and rooftop gardens. Experimental architecture squeezes all the necessities a modern Sim expects in their house.
+   [378] 0x5C0775EF014BB192: Modernity isn’t for everyone. Some homeowners prefer the classic look, and this delightfully rustic plot delivers in buckets! Equipped with indoor plumbing, because some traditions are best ignored.
+   [379] 0x5C0775EF014BB193: Towering four stories above the gently lapping waters, Isla Profecto is a majestic status symbol. Take one look at this mansion and you’ll sign on for a permanent vacation!
+   [37A] 0x5C0776EF014BB36D: With its large rooms and open floor plan , this spacious home is the ideal spot for launching social events. A sumptuous pool and grassy natural deck supply the “Wow Factor.”
+   [37B] 0x5C0776EF014BB36C: This blocky yet off-balance manse brings space, joy and luxury to an entire family of Sims. Plenty of room, ample windows and a pool round out the package.
+   [37C] 0x5C0776EF014BB36F: Gorgeous greenery shrouds this house, featuring gardens and backyard trellises. And the house itself is nothing to sneeze at! Open interior design keeps the love and conversation flowing.
+   [37D] 0x5C0776EF014BB36E: One of the most luxurious domiciles ever constructed: three bedrooms, three baths and verdant roof gardens embrace a massive swimming pool. A huge, bright foyer greets visitors to your palace!
+   [37E] 0x5C0776EF014BB369: Desert landscapes are undeniably beautiful, and this simple home is perfectly positioned to enjoy the view! All its stilts have been thoroughly tested for structural integrity and sandstorm resistance.
+   [37F] 0x5C0776EF014BB368: Isolation is a large component of luxury. This sublime island home lets everyone see your house without letting them too close. And have you seen the atrium?
+   [380] 0x5C0776EF014BB36B: This three-bedroom residence balances out its space-age materials with a walled back garden, teeming with natural life! Inside it’s bright, sunny and similarly conducive to growing greenery.
+   [381] 0x5C0776EF014BB36A: Just a simple two-story family house far removed from the hustle and bustle of modern living. It’s the perfect place to raise your children free from glittering electronic distractions.
+   [382] 0x5C0776EF014BB365: The perfect spot for a young family to start a life together, this home houses two bedrooms and ample family spaces. A shed out back pads the square footage.
+   [383] 0x5C0776EF014BB364: If you’ve got a big family, you need to get them back in touch with nature! A family-centric layout and plenty of living space combine with a delightfully rustic motif.
+   [384] 0x5C0773EF014BAE74: This luxurious home will exceed all your expectations. The large backyard has infinite possibilities and the open floor plan makes decorating a snap. Don’t delay on moving into this wonderful home!
+   [385] 0x5A4BE76072A818EE: Whether you’re and adult or a minor, you’ll enjoy spending time in this park created by the miners of yore.
+   [386] 0x5A4BE76072A818ED: The perfect place for a serene day with the kids. Enjoy the fountains, playground, or BBQ pit – the choice is yours!
+   [387] 0x5A4BE76072A818EC: This quaint little park is a favorite of Oasis Landing. Take a seat and enjoy the fountains!
+   [388] 0x0BCB0C3CEF21BDDF: Explore the cosmos and unlock the greatest mysteries of the universe. Fun for Sims of all ages!
+   [389] 0x9AC4FBC09F2FA239: Enjoy the latest and greatest films remade in HoloVision! You’ll never look at movies the same again.
+   [38A] 0x204A76A1EE00E441: All aboard! Enjoy a ride and be whisked to your destination.
+   [38B] 0x4C6E9352D7EFDE4A: Enjoy convenient commuting to and from the Mining District of Oasis Landing.
+   [38C] 0xE62B0A36AAF25334: Enjoy the convenience of public transportation without having to live downtown.
+   [38D] 0x2A8067CC03B049BD: The Zone Exchanging Perpetual Hyper Yttrium Relay is your vehicle to a Wasteland adventure!
+   [38E] 0x94D464993CE3A846: Rumor has it a ship crashed here and whomever possesses and assembles the four keys can open its treasure…
+   [38F] 0x94D464993CE3A845: Those who dare to venture here are bound to find something of worthwhile… 
+   [390] 0x6585F34236A62275: Modern Arcology Bot Arena
+   [391] 0x24683FE4A103E2C4: Oasis Landing Community Center
+   [392] 0x47D35548FF691EA9: Derelict Beach
+   [393] 0xE2CC99DB3C4F58C3: Reflective Park
+   [394] 0x15578EB49047A5C7: Tammy’s Spa & Books
+   [395] 0xC3A1144215430246: Legacy Park
+   [396] 0x8D6759EB66796962: Sam’s Synth’d Staples
+   [397] 0x16D3DA0BEBCC57FC: Oasis Landing City Hall
+   [398] 0xA3E66ADFE96D9BFC: Forgotten Fishing Hole
+   [399] 0x896BF87C8A720501: The Erutuf
+   [39A] 0x896BF87C8A720502: Loel’s Lounge
+   [39B] 0x896BF87C8A720503: The Mine
+   [39C] 0xFB812BE25AB1D8DA: EP-XI Imports Gallery
+   [39D] 0xD0FAEEA39C850850: Pleasant Meadows Cemetery
+   [39E] 0xCC3E61D1D2DD2DC2: Oasis Landing Community Hospital & Science Center
+   [39F] 0xD8AD9CF1032A6E69: The Lending Library
+   [3A0] 0x26A7CFF558DE412E: Auspicious Atoll - 3 br, 3.5 ba
+   [3A1] 0x26A7CFF558DE412D: Argonaut Arcological Mansion – 3 br, 3ba
+   [3A2] 0x26A7CFF558DE412C: Austere A-Frame – 1 br, 1 ba
+   [3A3] 0x26A7CFF558DE412B: “The Campus” - 5 br, 6 ba, 2 hb
+   [3A4] 0xBBA9C15B0AC1AE9A: Playful Public Pool
+   [3A5] 0x97C678218759AC7D: The Utopian
+   [3A6] 0x473F78C87C501DC7: Nuts n’ Bolts Bot Emporium
+   [3A7] 0x6C9B378E2957FAA1: Terrarium Tower – 2 br, 3 ba
+   [3A8] 0x6C9B378E2957FAA2: Cellato Coronarium – 3 br, 4 ba
+   [3A9] 0x6C9B378E2957FAA3: Cubion Solo Home – 1 br, 1.5 ba
+   [3AA] 0x6C9B378E2957FAA4: The Terrace – 1 br, 1 ba
+   [3AB] 0x6C9B378E2957FAA5: Terra Verdantis Family Home – 1 br, 2 ba
+   [3AC] 0x6C9B378E2957FAA6: Harborial Habitat – 3 br, 3.5 ba
+   [3AD] 0x6C9B378E2957FAA7: Ehrlich’s Sustainable Estate – 2 ba, 2 br, 2 hb
+   [3AE] 0x6C9B378E2957FAA8: Ephrem’s Ancestral Plot – 4 br, 2.5 ba
+   [3AF] 0x6C9B378E2957FAA9: Isla Profecto Vacation Home – 3 br, 2 ba, 2 hb
+   [3B0] 0x6C9B388E2957FC73: The Hot Pad – 3 br, 3.5 ba
+   [3B1] 0x6C9B388E2957FC72: Comfort Capacitor  – 3 br, 4 ba
+   [3B2] 0x6C9B388E2957FC71: Natural Nursery – 3 br, 3 ba
+   [3B3] 0x6C9B388E2957FC70: Panopticon Luxury Home – 3 br, 3 ba
+   [3B4] 0x6C9B388E2957FC77: Lodge on a Ledge – 1 br, 1 ba
+   [3B5] 0x6C9B388E2957FC76: Island in the Sun – 2 br, 2 ba
+   [3B6] 0x6C9B388E2957FC75: The Humboldt – 3 br, 2 ba
+   [3B7] 0x6C9B388E2957FC74: Jairo’s Homestead – 3 br, 1 ba
+   [3B8] 0x6C9B388E2957FC7B: Amorous Abode – 2 br, 1 ba
+   [3B9] 0x6C9B388E2957FC7A: The Bunkhouse – 5 br, 4.5 ba
+   [3BA] 0x6C9B398E2957FDC6: The Opulent Domain – 1 br, 1.5 ba
+   [3BB] 0xA0E5C9626400EE48: Miner’s Park
+   [3BC] 0xA0E5C9626400EE4B: Water Werks Park
+   [3BD] 0xA0E5C9626400EE4A: Twin Fountain Park
+   [3BE] 0x84263F4E2F5B952D: Mercury Stellar Observatory
+   [3BF] 0x75B9CF62B20C3A33: HoloVenture Theater
+   [3C0] 0xB86E9E7AB017BE43: Downtown ZEPHYR Stop
+   [3C1] 0xA45BA9F77A948B3C: Mining District ZEPHYR Stop
+   [3C2] 0x2485F7BBA966025E: Residential ZEPHYR Stop
+   [3C3] 0x9F8BDBEFEAA7EA9B: Wasteland ZEPHYR Stop
+   [3C4] 0xBBAF7AF80B850A18: Crash Site
+   [3C5] 0xBBAF7AF80B850A1B: Barren Wasteland
+   [3C6] 0x458F61F4BF932FF4: 0L1-V3
+   [3C7] 0xBF14CAF5047A2A01: 0RD3R
+   [3C8] 0x85A760EE2DC3EDA7: 3NTR33
+   [3C9] 0x7C46D1F33083BF18: 51M0L30N
+   [3CA] 0x5D547AADB8E0A2F3: 53RV3R
+   [3CB] 0xD56827DBFC074F8E: 5733L
+   [3CC] 0x242DFDDC3C1E0FC2: 5P1R17
+   [3CD] 0x384E50213C1C38F0: A utilitarian Plumbot for two purposes: cooking and working while Planchette explores. If not for 5P1R17, Planchette would have been evicted from his house and starved long ago. 
+   [3CE] 0x729CF2EA083FB971: 7H13F
+   [3CF] 0x51C9D194F7814BFB: AFR 2000
+   [3D0] 0xF2A3DED1C170C0BE: Alan
+   [3D1] 0xE0DF2E35E10262FA: Allonsy
+   [3D2] 0x357842F5B83AC9E6: Amanda
+   [3D3] 0xEB465E908335807F: A born adventurer, Amanda Mere traveled the globe “getting my swashbuckle on.” But after finding her true love Rowley, she’s trying on the simple life for size.
+   [3D4] 0x11699DF5A367EB1B: Amelia
+   [3D5] 0xEDCEF1F58EF7F277: Amilia
+   [3D6] 0x26097AF7BB51E74E: Archibilt
+   [3D7] 0x13B7ED6BE3904647: Arian
+   [3D8] 0x1191BF53ADF3CDEC: Aristi
+   [3D9] 0x095ED86BDD39965E: Ashay
+   [3DA] 0x095ED46BDD398F29: Asher
+   [3DB] 0x705484BD1E0FC9A4: Asher Dunes has become ever more withdrawn since his parents disappeared, and he’s starting to blame Auden for not working harder to find them in the Wasteland.
+   [3DC] 0xC9AAAA360945C2AC: Asp
+   [3DD] 0xF2BECCD1C187699F: Atom
+   [3DE] 0x1AF8017151F4445D: Like Ceres, Atom is a genetically engineered twin created by Loki Beaker. He’s always wanted a Plumbot friend, and upon arriving in the future he jumped at the chance to get himself a Plumbot friend.
+   [3DF] 0xF740766BD2BD2D87: Auden
+   [3E0] 0xDB548C77A2103CC2: Auden Dunes feels torn between his own needs and those of his younger brother. At the same time, he can’t help but feel there’s a larger destiny for him…
+   [3E1] 0xF2BAD7D1C18393AD: Aura
+   [3E2] 0x88BD9789E0A21419: B157R0
+   [3E3] 0xFB16CAD1C62A3D3A: B4-04
+   [3E4] 0xFAF148D1C60A43DE: B9-05
+   [3E5] 0x0D358AF8DF3197E2: Bailey
+   [3E6] 0xDE5FB8F77F8E6C54: Bannister
+   [3E7] 0x6B152DF913F6C5AF: Barrus
+   [3E8] 0x168EF272BE284382: Batul
+   [3E9] 0x91CE16B0682DE391: When Ewan hesitated, Batul Larson quickly accepted Loki into their family. The couple’s plans for the future had to be put on hold once a child’s safety was at stake.
+   [3EA] 0x963801F92C588A1B: Bayerd
+   [3EB] 0x9BEB1B1C8439FF7A: Beaker
+   [3EC] 0xFA76F4D1C5A2589F: Bell
+   [3ED] 0x3A81A372D2E2BB97: Bend0
+   [3EE] 0x7CC9B07575EF57BB: The sentient and unpolished Plumbot Bend0 will be the first to admit: he’s got a devious streak, pranking streak and selfish streak as wide as its wireless bandwidth!
+   [3EF] 0x36B3923DBC620CEA: An old man who seems to talk in circles, Bennet Obi has a mysterious past. Barely speaking to anyone out in the Wasteland, he seems to be waiting for something.
+   [3F0] 0xEE0122282B6FADF8: Bennett
+   [3F1] 0x5A0AF8ACD5ACCA8B: Betty Bot
+   [3F2] 0xE7DF8C1CAEAE704D: Bexley
+   [3F3] 0xFA4E47D1C57FE0D9: B1LL
+   [3F4] 0xD1E998729775BBA4: Biggs
+   [3F5] 0xFA4DF4D1C57F53B3: Bill
+   [3F6] 0x96BD5FED454B60DA: Billions
+   [3F7] 0xE8209EB739F235C3: Binary
+   [3F8] 0xA78729B7A697C704: BitBot
+   [3F9] 0xF3DBD807831D7336: A straightforward utility design, BitBot carries out a wide range of domestic functions. It’s highly reliable; so helpful that Maria sometimes feels patronized. BitBot is physically incapable of understanding this.
+   [3FA] 0xFA57EFD1C5879F90: Bleu
+   [3FB] 0x52716FC9205AAB54: Bob Bot
+   [3FC] 0xFA2917D1C560737F: Brad
+   [3FD] 0x98EB715E1B49B13E: Brenna
+   [3FE] 0xD25019BB948ED853: More than just a “society wife,” Brenna Orey is a powerful inspirational force behind her husband. She loves little Leina, but worries Gale might spoil her rotten.
+   [3FF] 0xC9ADB136094804F1: BRI
+   [400] 0x16F3FA4DF5B233F2: The eldest Mannin child is wholeheartedly devoted to her parents’ doomsday-prepping lifestyle. Brigitte Mannin is absolutely certain the world is about to end, whether through volcanoes or Plumbot uprising.
+   [401] 0x260200114BFAE2DA: Brigitte
+   [402] 0xFA4012D1C573491A: Burg
+   [403] 0xFA180CD1C551ED52: Byte
+   [404] 0x041178D1CB56E9E2: C45H
+   [405] 0xFB55567D7FB93145: Cadin
+   [406] 0x8AAAE7407462F3E6: Carmen
+   [407] 0xB8C465E98EBC4660: Carmen Lavishe is the target of complicated words like “visionary” and “trendsetter.” She just follows her instincts and trusts in her formidable musical talents to propel her through life’s adventure.
+   [408] 0x28723FD3619A9412: Cassandra
+   [409] 0x28723FD3619A9416: Cassandre
+   [40A] 0x12AED9C546C40518: We’re not saying Cassandre Chandelace is a “gold digger,” but she certainly seems to prefer wealthy types. In reality, she’d just rather have her basic needs handled by somebody else.
+   [40B] 0x920B0D4078336928: Castle
+   [40C] 0xAFD832FF9BED0A5C: Cedarton
+   [40D] 0x20C0C41D74B508EA: Celene
+   [40E] 0x4E938B1D455577D8: Celene Bannister understands her daughters’ struggles against the family rules, but expects they’ll grow out of such problems the way she did when she married into the Bannister clan.
+   [40F] 0x20C0B71D74B4F20C: Celest
+   [410] 0xD7B3E27D6B437832: Ceres
+   [411] 0xF6DBCE0FCD0E783E: The genetically engineered daughter of Loki Beaker, Ceres couldn’t believe her eyes when she arrived in the Future. So many possibilities for scientific experiments thanks to futuristic technology! 
+   [412] 0xBF2D460428BB5D6B: CH3-3SY
+   [413] 0xBDA6397D5C7CA98E: CH3CK
+   [414] 0xEEB86039FE324A55: Chambers
+   [415] 0x8347E2B0DB525C9C: Chandelace
+   [416] 0x1C535F99A8451ADF: Chelsea
+   [417] 0x68C9B164CAFB425F: Chelsea Gateway was always the smartest kid in class, and now she’s among the most technologically adept Sims in Oasis Landing. She loves Gladys to pieces, sometimes quite literally!
+   [418] 0x61E6CA05A6A4A25B: Cheryl
+   [419] 0x120FF5FCAC2521C5: Cheryl loves her two kids but can barely keep up with them! She supports Gregory but sometimes wishes he’d be home for dinner more often. 
+   [41A] 0x04A744D1CBD66852: Chip
+   [41B] 0xBE83637D5D38CAA9: Chris
+   [41C] 0x4E6652485D0860ED: Circuit
+   [41D] 0xE2D6CF5DB256AF47: CJ
+   [41E] 0x9B00DE7D48DDA5F2: CL3-4N
+   [41F] 0xA4C7CE7D4EB828D6: Coast
+   [420] 0xC9B19E36094BCD41: Cog
+   [421] 0xA4D1ED7D4EC0B1AD: Colby
+   [422] 0x0AA45A5613EC819A: Conduit
+   [423] 0xD7D64555F77A2E47: Connell
+   [424] 0x8BB818F7384F8452: Connell Mannin is the spitting image of silent, stoic strength. He loves his family, but is only able to express it through relentless training and the hoarding of canned goods.
+   [425] 0x0222504E6B1794EC: Cortex 1800
+   [426] 0x22289718A08AF567: Cr1sto was originally purchased so Fawn, Carmen and Felix could party hard without cleaning up the consequences. By this point, he’s a regular part of the gang!
+   [427] 0x24B86FDD90A41F2C: Cr1sto
+   [428] 0x13DD49053B5F0775: Cyclotron
+   [429] 0x0847584480104E15: Cyclotron is a Plumbot with one purpose in mind: being the best friend of Atom Beaker. Though he has yet to achieve Sentience, Cyclotron is a great mechanical friend.
+   [42A] 0xA081EEEE6443EDB8: Cynthia
+   [42B] 0x8316E67AC56D8BF9: D3553R7
+   [42C] 0x825E2041F4036296: Daisy
+   [42D] 0x004BA7C1A6536A84: As a domestic Plumbot, Daisy spends her days cleaning and cooking for the Planeson family. She’s very proud of her dedicated service, and ferociously dedicated to young Roy.
+   [42E] 0x2AF4260E686F2D78: Daniels
+   [42F] 0xC999A03609373ED8: Das
+   [430] 0xC74A17D1A8DFCFB8: Dawl
+   [431] 0xF8086F30AC58109F: Deanna
+   [432] 0xE6833430A25DF7A2: Decker
+   [433] 0x933A2FA947529C24: Delafield
+   [434] 0xA37CBF420656814E: Delta
+   [435] 0xA331E2420616D145: Derek
+   [436] 0xC72F17D1A8C90875: Digi
+   [437] 0x5EC2B20BA9DCF915: As Leina’s nanny Plumbot, Digi has formed a close relationship with the child and is her near-constant companion. Digi is also a dedicated cleaner, as any nanny needs to be.
+   [438] 0x79837F09B6E9B772: Dorothy 12
+   [439] 0xC9999E3609373B31: Dot
+   [43A] 0xD3D3DF002174AB21: Dot is a utility model, deployed to clean up Neel’s empty snack bags and keep his home livable. If it weren’t for Dot, the building would already have been condemned.
+   [43B] 0x169AF14248413DE7: Drake
+   [43C] 0x05CD88EA012856C0: Drake Chambers used to be head-over-heels for Kel, and the feeling was mutual until suddenly it wasn’t. Now they’re close friends, though sometimes he feels a nagging in his heart.
+   [43D] 0xC783FFD1A9111F2B: Drox
+   [43E] 0x807B05BAB843BF6F: As a utility model, Drox is most comfortable when hard at work in peace and quiet. He’s got little use for organic Sims; they’re the ones who make the messes!
+   [43F] 0x2FC1524256436319: Dunes
+   [440] 0xC78E0BD1A919880B: DU-S7
+   [441] 0x1240AB491F2FF70B: Edwin
+   [442] 0xF1B66C977B7E22A7: Edwin Archibilt spent years with his head buried in a Bot Workshop, but now he’s wealthy and ready to enjoy life! Cassandre’s part of that: the girl of his dreams.
+   [443] 0x4E900F10F69FDDB1: Electro Bolt
+   [444] 0xCDBA6948F89848C0: Elise
+   [445] 0x080F91D1BD3AFD34: Emerald
+   [446] 0xCED926D1ACD78F25: Eric
+   [447] 0x8C4E1086F0BD72BD: Ericka
+   [448] 0xCED926D1ACD78F2D: Erik
+   [449] 0x6F00AB4262FCFE59: Everett
+   [44A] 0xCEE322D1ACDFDC91: Ewan
+   [44B] 0xB2D1AEC42EA039F8: Ewan Larson never really wanted children and was hesitant to adopt Loki, but over time he’s become intensely protective of the boy. Especially after what happened to his parents…
+   [44C] 0x4C696352EE7FFD61: F13-RY
+   [44D] 0xD8D36ED1B2DE015E: F1-R3
+   [44E] 0x4D24AE52EF1F6F8D: F1X-17
+   [44F] 0xD97669D1B3685A50: Fawn
+   [450] 0x6B37749FCB0C97E8: An ace Windcarverer and general thrillseeker, Fawn Lacey has her serious side. Whether at work, on her board or in the classroom, Fawn seeks to compete!
+   [451] 0xC8A06253C5991FD2: Felix
+   [452] 0xC6DBBC07D4225371: A charming heartbreaker, Felix Finn goes through relationships faster than clean socks. Felix is fascinated by technology and eager to make his way in an evolving technological world.
+   [453] 0xA1DBC95844D5B85B: Ferris
+   [454] 0xC8487553C54ECA78: Ferve
+   [455] 0xD95B52D1B3516B1F: Finn
+   [456] 0x06AE60552660E4F3: Forest 231
+   [457] 0x315A685667F84357: Frank Bot
+   [458] 0x31464A5667E76771: Franklin
+   [459] 0xEE2328E782471153: Fraust
+   [45A] 0xD9A267D1B38D91A7: Fred
+   [45B] 0x5CAA195419AB7402: Frost
+   [45C] 0xFDB6D11528EE1FAA: Fryderyk
+   [45D] 0x70711749C2A93B17: Something of a klutz, Fryderyk Rama has simple needs and simple goals. The only complicated part of his life is his unrequited crush on housemate Lilah.
+   [45E] 0x15E266035C335D6E: A charismatic speaker and natural leader, Gale Orey has naturally taken an interest in politics. He worries that running for office might take time away from his beloved daughter, Leina.
+   [45F] 0x18AEA3A28A9E72E6: Gateway
+   [460] 0xE0A4BB51343115CC: Georgina
+   [461] 0x6CD2EC59DADC6387: Gilon
+   [462] 0xE41D2BE2E923C492: Gilon Mannin is a gentle soul, poorly suited to the family’s expectations. He’s not a fan of the outdoors, and would rather spend his days reading or painting.
+   [463] 0xD92F831BF65ACD20: Gladdee
+   [464] 0x00D959D8A267B6E2: Gladys
+   [465] 0xAFFB7BBB422E14EA: Though Gladys was designed as a basic caretaker, Chelsea has made some major upgrades. Maybe a few too many; Gladys has some simmering resentments after years of servitude.
+   [466] 0x1E4FD8A6AF633165: Goldstone
+   [467] 0x0A70C1DEF05FDEA6: Gouled
+   [468] 0x64E37844B154C352: Gregor Planeson works hard to provide for his family, though he’s not always sure they appreciate it. All things considered, he’s a man at ease with his life.
+   [469] 0x8CDD940845CA5C90: Gregor
+   [46A] 0x26DF1A0E96DB48C9: Gregory
+   [46B] 0x600D4939E9F54E7B: A loving father and husband, Gregory wants what’s best for his family. Unfortunately his workaholic tendencies put a strain on the family, despite his best intentions.
+   [46C] 0x0C80BFEEEA8449C6: Gretta P23
+   [46D] 0xBB270FA9762F7781: Griffin
+   [46E] 0xC9A3A436093F998F: Gus
+   [46F] 0xE0A996D1B711EDC8: Gus 5
+   [470] 0xE0B088D1B717F48F: Gwyn
+   [471] 0x598D7C6E698D58F8: Hamilton
+   [472] 0xA3CA5CD1948684CE: Hane
+   [473] 0xF5493A5156598D91: Harkin
+   [474] 0x4EC9FDF11FD418E4: A laid-back type who goes along to get along, Harkin Shire has been friends with Kel since childhood. Lately he’s wondering if there might be some spark between them.
+   [475] 0xF5983751569D5D52: Hartle
+   [476] 0xEF0351362D65922F: Hartley
+   [477] 0x5ECFBF7E44515E54: Hayward
+   [478] 0xEF4D44692A7FB59C: Herbert
+   [479] 0xE104B477CB62F0D3: Heritage
+   [47A] 0xA3AF5ED1946FC035: Hill
+   [47B] 0x9CD60C9E9709300A: Neel spends all day and every night holed up in his Bot Workshop. Will he ever see daylight again?
+   [47C] 0x9CD60C9E97093009: A large family living under strict traditional values. Jessi and Mychelle have begun to test boundaries; will Tyson allow it?
+   [47D] 0x9CD60C9E97093008: Amanda and Rowley left a life of rollicking adventure to settle down. Can they tolerate boring, bucolic Mining District?
+   [47E] 0x9CD60C9E9709300F: The Dunes family loved exploring the Wasteland, until their parents went missing. Will brothers Auden and Asher unravel the mystery?
+   [47F] 0x9CD60C9E9709300E: Bennet Obi has lived alone for decades in a ramshackle hut. His eccentricity conceals deep reservoirs of strength and wisdom.
+   [480] 0x9CD60C9E9709300D: Set up by curious scientists, this Plumbot household is led by the sentient Ziron and its siblings, Drox and Lyra!
+   [481] 0x9CD60C9E9709300C: Since Chelsea was an infant, she’s tormented her Plumbot, Gladys, with ingenious pranks. Gladys is fed up with this arrangement.
+   [482] 0x9CD60C9E97093003: These friends were ugly ducklings, but they’ve blossomed into beautiful swans! Swans who love showing off their plumage and partying.
+   [483] 0x9CD60C9E97093002: These three roommates once worked together delivering packages, but now they’re exploring anything the universe has to offer them.
+   [484] 0x9CD60B9E97092EB8: The Planesons are a family fully committed to Oasis Landing’s many conveniences. Their Plumbot Daisy does most of the work.
+   [485] 0x9CD60B9E97092EB9: Nervous about granddaughter Serena living into the big city, Maria moved in to help. Can she adjust to newfangled technology?
+   [486] 0x9CD60B9E97092EBA: There’s a lot of history between these three, but they’re grown-up enough to make things work as roommates...right?
+   [487] 0x9CD60B9E97092EBB: Following a mysterious family tragedy, Ewan and Batul adopted their orphaned nephew, Loki. Today they struggle with his adventurous spirit.
+   [488] 0x9CD60B9E97092EBC: Gale and Brenna always wanted a daughter, and Leina’s arrival under mysterious circumstances was a dream come true!
+   [489] 0x9CD60B9E97092EBD: Three generations living under one roof! Susan raised Nathaniel to be himself, and the quirks only multiplied with Lexi.
+   [48A] 0x9CD60B9E97092EBE: Edwin was a famous Plumbot engineer, earning a fortune before retiring. He loves Cassandre but worries she’s after his money.
+   [48B] 0x9CD60B9E97092EBF: The Mannins moved to the Mining District so that when the apocalypse happened, they’d be halfway to the wilderness already.
+   [48C] 0x9CD60B9E97092EB0: A scientific experiment transported the Beaker Twins to the Future from their home in Strangetown. They love the Future and its scientific possibilities.
+   [48D] 0x9CD60B9E97092EB1: A Sim brought back from the afterlife, Planchette is the last of the known Spector clan on Earth. The mystery of the locked door brought him to town.
+   [48E] 0x9CD60E9E97093391: A real estate boom has caused the Landgraab to relocate to get in on the action. With time, the Landgraabs will literally own the town!
+   [48F] 0x274418AA07C7F3AB: The Bot Cave
+   [490] 0x274418AA07C7F3A8: Bannister
+   [491] 0x274418AA07C7F3A9: Mere-Wilkins
+   [492] 0x274418AA07C7F3AE: Dunes
+   [493] 0x274418AA07C7F3AF: Obi
+   [494] 0x274418AA07C7F3AC: Plumbot
+   [495] 0x274418AA07C7F3AD: Gateway
+   [496] 0x274418AA07C7F3A2: Party Playpen
+   [497] 0x274418AA07C7F3A3: Formerly the Plains Express
+   [498] 0x274419AA07C7F57D: Planeson
+   [499] 0x274419AA07C7F57C: Russo
+   [49A] 0x274419AA07C7F57F: Longing Gazes
+   [49B] 0x274419AA07C7F57E: Larson
+   [49C] 0x274419AA07C7F579: Orey
+   [49D] 0x274419AA07C7F578: Castle
+   [49E] 0x274419AA07C7F57B: Archibilt Estate
+   [49F] 0x274419AA07C7F57A: Mannin
+   [4A0] 0x274419AA07C7F575: The Beaker Twins
+   [4A1] 0x274419AA07C7F574: Spector
+   [4A2] 0x274416AA07C7F004: Landgraab
+   [4A3] 0xC98BBA36092B2D08: Hsu
+   [4A4] 0xE41F65A44E03637F: Ingrith
+   [4A5] 0xB51DD4D19E575E82: Jade
+   [4A6] 0x18E346300E509942: Jaime
+   [4A7] 0xEB5350253BCA6300: Despite being the heir to the family name, Jaime Bannister hasn’t built it into a totem. He’d like to give his daughters freedom to learn from their own mistakes.
+   [4A8] 0x18FB3E300E651D04: Janet
+   [4A9] 0x8CDFEBFE7645CC04: A social gadfly and consummate fashion shopper, Janet Planeson gives the family the loving affection their Plumbot Daisy can’t yet provide. Janet has raised Judith in her spitting image.
+   [4AA] 0x18D23E300E421838: Jared
+   [4AB] 0x18CF48300E3FF3ED: Jason
+   [4AC] 0x68209FA836A1830F: Jasper
+   [4AD] 0xA6AFB2AAEEA84F87: Jeffery
+   [4AE] 0x1D2351C647100E2A: Jen 003
+   [4AF] 0xB52AAED19E61A8D4: Jene
+   [4B0] 0x95428BEC74501742: Jenkins
+   [4B1] 0x392FED301FF1F28C: Jenna
+   [4B2] 0xFF7B86F349F58F33: Jennifer
+   [4B3] 0x2A932D3BD7FDAD8C: Jessi Bannister tolerated the family’s traditional ways for years, but she’s fed up with stuffy old Mining District and desperately wants to get out into the big wide world!
+   [4B4] 0x3954D0302010DD8A: Jessi
+   [4B5] 0x5472DF45D2383426: Jessica
+   [4B6] 0x9C8C0F92ECA6E2BD: Jezebel
+   [4B7] 0xC9929C360931195C: Jim
+   [4B8] 0xB54307D19E76D1F5: JL-58
+   [4B9] 0x4351DEBE055F9195: Edwin has always tried to imbue his Plumbot creations with diverse personalities, and JL-58 is no exception. He’s a social model, both highly personable and side-splittingly funny.
+   [4BA] 0xC9929E3609311CF2: Joe
+   [4BB] 0x4E44193B2196B00D: Johnson
+   [4BC] 0xC9929E3609311CF9: Jon
+   [4BD] 0x6FA7EC303F811769: Jones
+   [4BE] 0x8E1868FB8626C74E: Jordan
+   [4BF] 0x6F81C6303F60072E: Joyce
+   [4C0] 0x474D2A4F290FB4F6: Judith
+   [4C1] 0x26898162007B3B32: Judith Planeson is a typical teenager who adores her friends and resents how lame her parents insist on being. She shares her mother’s love of parties, fashion and shopping.
+   [4C2] 0x76D237D6231BDAD5: Juniper
+   [4C3] 0xC04CF1D1A563D70B: Kara
+   [4C4] 0x37728402B2F8735F: Karter
+   [4C5] 0xC996B43609352ABC: Kel
+   [4C6] 0xC4AEB18B4238503B: Since things ended with Drake, Kel Gwyn’s been focused on her future rather than love. But she never says never, and she’s noticed some interesting Sims looking her way…
+   [4C7] 0x024B663BF3A1B96F: Kevin
+   [4C8] 0x59BE0FC0933D70BF: Khrushchev
+   [4C9] 0x6B3B513C2F58F826: Kiara
+   [4CA] 0xC067F5D1A57AA580: Kinn
+   [4CB] 0xC067E1D1A57A8399: Kirk
+   [4CC] 0xE187BE3BE19B3746: Kylie
+   [4CD] 0x52088C48F5D88AEE: L37-73R
+   [4CE] 0xACFB9A007C65FE26: Lacey
+   [4CF] 0x37A437792E1B553C: Landgraab
+   [4D0] 0xAD27C5007C8B823A: Lanna
+   [4D1] 0x18962A217D147B08: Seasons come and go, but Lanna Bannister seems never to change. Her grey hair and steely-eyed demeanor have inspired fear and respect for decades!
+   [4D2] 0x82D7BCD182589FC2: Lara
+   [4D3] 0x78C923A81917A91C: The newest of the Landgraab family, Lara is a young tyke itching for adventure and keeps her mother very busy. She also loves Model U and thinks Plumbots are the coolest thing ever!
+   [4D4] 0xE9BA97D3B5867EC3: Larson
+   [4D5] 0x1C712FDBED859384: Lavishe
+   [4D6] 0xC97EB4360920988A: Lee
+   [4D7] 0x77FACBB256A3D7CD: Leecious
+   [4D8] 0x82E4BDD182632BD3: Leia
+   [4D9] 0xCDDA67008E8386B5: Leina
+   [4DA] 0x7F867A41D32683A2: Leina Orey displayed her forceful personality from birth. Her family’s high standing in society, along with Leina’s natural talents, practically guarantees her a successful life no matter her chosen path.
+   [4DB] 0xCDC969008E75177E: Lenny
+   [4DC] 0x82E4CED1826348FC: Lexi
+   [4DD] 0x3C5DF90C49E1C8B2: Extremely bright and ambitious, Lexi has inherited more than a few quirks from her eccentric father. They cause some social awkwardness at school, but bind the family tighter together.
+   [4DE] 0xF2440600A3A30634: Lilah
+   [4DF] 0x783B2EE4BD161CE8: A tough, athletic girl with a gentle side. She’ll kick you in the shins for calling it “maternal.” Lilah Turner leads others, but doesn’t always make good decisions for herself.
+   [4E0] 0x82F2DAD1826F9A2C: Lily
+   [4E1] 0xADBED067DB85BFA0: Lindsey
+   [4E2] 0x8306BBD182800EDB: Loki
+   [4E3] 0x2BD7AE00169F658E: Oblivious to his parents’ fate, Loki Larson has only known Ewan and Batul’s rearing. Loki is a bright and outgoing child, constantly pushing boundaries in pursuit of adventure!
+   [4E4] 0x8306B8D1828009FE: Long
+   [4E5] 0xC97EBE360920A982: Loo
+   [4E6] 0x24C6D800BFD4FCBE: Lover
+   [4E7] 0x3C089DD015A39F69: Lowplains
+   [4E8] 0x82AED8D18235CA42: Luna
+   [4E9] 0x82BCCCD18241F37A: Lyra
+   [4EA] 0xF97C3B800C545B98: Built to interface with human beings, Lyra is sweet and unfailingly pleasant. Her social skills really smooth out the Plumbot trio’s rough metal edges.
+   [4EB] 0x8AD025D186A9E160: M34L
+   [4EC] 0xC98194360922980A: Mal
+   [4ED] 0xFD161ABFBD3B98BF: Mannin
+   [4EE] 0xE56C4A06538B684E: Maria
+   [4EF] 0x2D3FA1D2A8B60F40: Born and raised in the rustic backwater known as the Mining District, Maria Russo is terrified about young Serena’s safety and resentful of BitBot’s domestic work. She fears losing her independence.
+   [4F0] 0xE56C4A06538B685C: Maris
+   [4F1] 0x623E22BFF5BD166D: Martin
+   [4F2] 0x89C6EBD185C86985: Mary
+   [4F3] 0xC98194360922981E: Max
+   [4F4] 0xC98194360922981F: May
+   [4F5] 0xCD7D31D961FE46CC: McFleet
+   [4F6] 0xC981983609229F5B: Mei
+   [4F7] 0x89D501D185D4CCDB: Mela
+   [4F8] 0xA6D9D3F5CE8818D9: Melany
+   [4F9] 0xED335B1525D2F415: With her father’s intense focus and her mother’s talent for troublemaking, Melany Mere is sure to make her mark in the world…right after she scrawls it on the kitchen wall.
+   [4FA] 0x275A90E3BA45F639: Melvin
+   [4FB] 0x89D4E3D185D499A5: Mere
+   [4FC] 0xCDBB49072FA0490F: Michael
+   [4FD] 0x2A6091067A81A43D: Mills
+   [4FE] 0x50727C1929489BD9: Model # 257912
+   [4FF] 0x08FFA612FDF9109C: Model U
+   [500] 0x89F4A22914FB3706: Model U is a recent addition to the Landgraab family. She’s an advanced model capable of helping around the house so Cheryl can finally catch a break.
+   [501] 0x0D49610C0DE7A839: Montgomery
+   [502] 0x8A2594A5D5FC7615: Mychelle
+   [503] 0x80166621BDB44F6B: Younger sister Mychelle Bannister loves the trees and open spaces of the Mining District. But she’s also realistic: if Jessi gets some freedom, Mychelle will benefit from the same treatment!
+   [504] 0x95042AD18CE159C5: NAND
+   [505] 0xD97CFC3D954485EE: Nathan
+   [506] 0x9FC20D294240DCD8: Nathaniel
+   [507] 0xC11B59799B054E56: After a troubled childhood, Nathaniel Castle blossomed into a successful science fiction novelist. He conjures up the future with a wild imagination, though his daughter Lexi keeps him grounded.
+   [508] 0x94F60FD18CD4EE08: Neel
+   [509] 0x2BE968A102E223BE: Neel Das isn’t a fan of human Sims, preferring to spend his time with electronic creations. Though a mechanical whiz and borderline genius, he’s lonelier than he cares to admit.
+   [50A] 0xE2D6C25DB256997F: Ni
+   [50B] 0x951F15D18CF7FDC1: Nick
+   [50C] 0x34174C97551E0D72: Nugget
+   [50D] 0xC988A3360928D0F8: Obi
+   [50E] 0xE8A16546A69B888D: O'Brian
+   [50F] 0x51BA92F95F4E2220: O'Kelly
+   [510] 0x10C8C5124FCF9170: Olga 01
+   [511] 0x9C3428D1908867D5: Orey
+   [512] 0xC970983609142B92: Pam
+   [513] 0xA628670B8B5A8AC7: Patty 1600
+   [514] 0x8C84520B7CEDA110: Patty 2000
+   [515] 0xDD9B5D59D51FD539: PL4773R
+   [516] 0xEAE1E58229EC7B66: Planchette
+   [517] 0x2865B80F7961A9B4: Planchette is an adventurous Sim who is desperate to open the door to the crashed ship. It’s consumed his life and has nearly driven him to madness…
+   [518] 0x7D5346D2D1709BA6: Planeson
+   [519] 0x132775777CE94F45: Plumbot
+   [51A] 0xC7FCDA3022EF0690: Prithvi
+   [51B] 0xA6B2611836CD7D65: R3G15T3R
+   [51C] 0x93738590B991982B: Rainord
+   [51D] 0x70AB83D177D03FD5: Rama
+   [51E] 0x82BE7C88EF2A08D7: Reeski
+   [51F] 0x595ED51BC2357744: Rhubarb
+   [520] 0x708F89D177B7CF46: Rich
+   [521] 0x7B3DEF676621AF1D: Ricketts
+   [522] 0xFB618DEE6D0D1E5D: Rixi3
+   [523] 0xC9779E36091A54BD: Rob
+   [524] 0x709692D177BDFD42: ROB-E
+   [525] 0xE4C8EE1E0C14DD70: Neel built ROB-E for a very specific purpose: financing his endeavors. This Plumbot goes to work, earns Simoleons and interacts with real Sims so his maker doesn’t have to.
+   [526] 0x5CB2B4359F941DA5: Robota
+   [527] 0x90C4C543E0DA9A65: If things don’t work out with Cassandre, Edwin can count on Robota for company. A sentient Plumbot that’s shown signs of human emotion, Robota is a truly special creation.
+   [528] 0x3936FE358B3EC394: Roffle
+   [529] 0xA5076835370BD782: Rowley
+   [52A] 0x742F1CE7D276B113: Rowley Wilkins is absolutely crazy about Amanda. Finding her was worth all that hair-raising danger, but he’d prefer to split his time between gardening and doting on little Melany.
+   [52B] 0x0D8DC3EE77957921: Roxie
+   [52C] 0xC9779E36091A54A6: Roy
+   [52D] 0x06FD8EAB09C404C2: Certified boy genius Roy Planeson has a bright future ahead of him. By turning down his constant pleas for a Jetpack, his parents try to ensure he makes it there.
+   [52E] 0xF102FFEEF90DFD04: Russo
+   [52F] 0x2D917CF685DF1B31: S4L3S
+   [530] 0x3450FBF6892649B9: S7-4MP
+   [531] 0xA7F273F5A93BDE65: Saige
+   [532] 0xC97AC836091CD279: Sam
+   [533] 0xA7E552F5A9311BA9: Sam 08
+   [534] 0x82AA8F469907949D: Samantha
+   [535] 0xA7A493F5A8F9F36A: Sarge 
+   [536] 0xA7A87EF5A8FDB856: Sasha
+   [537] 0x18C0334AF241B36C: Serena
+   [538] 0x5275E2D92F5BAEFE: Serena Russo was thrilled about her new pad in Oasis Landing, until her lame grandmother insisted on “helping out.” BitBot’s constant labors have left her slightly spoiled.
+   [539] 0x755F25172669EFAB: Servo 4000
+   [53A] 0xBE976532CC65594A: Shalom
+   [53B] 0x785C9CD17BE4F6F3: Shay
+   [53C] 0x6A395FF585F711E5: Shire
+   [53D] 0x7BE6F827D6063BA0: Singer
+   [53E] 0x5FDA4BF57F9BF7EB: Singh
+   [53F] 0x7BE70127D6064B78: Single
+   [540] 0x3F27AAF56DA3F4D5: Smith
+   [541] 0x25E317F55F887C3B: Spark
+   [542] 0x48AA98F06E553938: Spector
+   [543] 0x25FE3EF55F9F863F: Spier
+   [544] 0x4707CD050356832D: Sprocket
+   [545] 0x2D488CBBCEAD7A3D: Stela 105
+   [546] 0x3644C1CD9AC79C9B: Stella
+   [547] 0x01756FF54A6504C3: Stone
+   [548] 0xBC9F62725738CC8C: Sullivan
+   [549] 0xFA6A59F546DCEA7E: Susan
+   [54A] 0x0FC2BF2455EB5418: As the family matriarch, Susan Castle is a respected lady about town. Though she takes no sass from anyone, her love for son Nathaniel and granddaughter Lexi is boundless.
+   [54B] 0x3D5182D15AE68B0F: T0R-Q
+   [54C] 0xD8434FBF05597FF1: Takk0
+   [54D] 0x2F5A2BA9973FD2E1: When Neel truly craves social interaction, he turns to Takk0. As Neel’s only friend, Takk0 always there to lend a cold metal shoulder for him to cry on.
+   [54E] 0xDFAEBCC56F58CD15: Talisman
+   [54F] 0xD8543EBF0567D668: Tandy
+   [550] 0x3E6590D15BD1BF24: Tank
+   [551] 0x5C371195D3C21371: Taylor
+   [552] 0x4CF204AECA2080B7: Tedd Mann
+   [553] 0xF899D8BF1702FB79: Teilk
+   [554] 0x2BAE56DEBDDABD1F: Tenelle'
+   [555] 0xA36AB1B436B0EC10: Tesla 3.0
+   [556] 0xF8D3E1BF173482D7: Texas
+   [557] 0xBDB9476B2B743A42: Timothy
+   [558] 0xD2F56D6B61F97B9C: Timothy misses his old friends and wishes he could move back to his old town. Timothy has been slow to adjust to the new surroundings but with time he’ll make new friends.
+   [559] 0x3E4A70D15BBAC156: Tina
+   [55A] 0x3E5E8CD15BCB99E6: ToB3
+   [55B] 0x6A8D2B0BC9DA87F4: ToB3 is an all-purpose Plumbot, able to quickly grasp new skills and implement them in any domestic setting! He’s a valuable addition to the Orey household.
+   [55C] 0xE44D9B84769C671E: Tomkin
+   [55D] 0xC646F6BEFAFA0D40: Tom TT
+   [55E] 0x5076DE8422B5626E: Torque
+   [55F] 0x2EB423EF881D0FF9: Trainor
+   [560] 0xCB77FAD114B85422: Trenton
+   [561] 0x6F6068BEC9ACD1CA: Turni
+   [562] 0x069575BE8E14A167: Tyree
+   [563] 0x06915BBE8E108B93: Tyson
+   [564] 0xFBC44C1C45F12A1D: As the family’s iron-fisted patriarch, Tyson Bannister assumes certain disciplinary responsibilities. He cares for his suddenly rebellious granddaughters, but cannot tolerate any stain on the family name.
+   [565] 0x40C1B771D1A25CDE: Valerie
+   [566] 0x8AA171E05293EA8D: With a bright sense of humor and a will of steel, Valerie Mannin is the affectionate face of the Mannin family. She and Connell understand each other without even speaking.
+   [567] 0xB55A6E6795DE0B0D: Vivian
+   [568] 0xDEE0DCC0762B7B9A: Vroombo
+   [569] 0x7C30D3F903FB4038: Nathaniel danced around the living room the day he brought home Vroombo: a sci-fi dream come to life! Vroombo can’t fully appreciate familial love, but she’s grateful for the attention.
+   [56A] 0xE52F482F1996D91D: Wallace
+   [56B] 0x578F06D169D63EC9: West
+   [56C] 0x79FF413A6EEDD10D: Wilkins
+   [56D] 0xE2D6B45DB2568139: Xu
+   [56E] 0x2C3932D1514920E0: Zara
+   [56F] 0x8F1BECAD314DDCBC: Zenna
+   [570] 0xB2C48FAD45CA043C: Ziron
+   [571] 0x84B00E56CF385F5E: As a sentient Plumbot, Ziron was placed in charge of this experimental non-organic household. He dearly cares for Drox and Lyra, but doesn’t want them holding back its full potential.
+   [572] 0x2C5B15D15165D5C7: Zogg
+   [573] 0xD439887F67D039B6: Zorron
+   [574] 0xA12C59B5F83F7A21: Connie McLemore
+   [575] 0x1DD69134D3DC8623: Jordan Jutur
+   [576] 0x1DD69134D3DC8622: Jason Lewis
+   [577] 0x1DD69134D3DC8621: Samuel Blagay
+   [578] 0x1DD69134D3DC8620: 4R6U5
+   [579] 0x1DD69134D3DC8627: Rich Copfer
+   [57A] 0x1DD69134D3DC8626: Jordan Knight
+   [57B] 0x1DD69134D3DC8625: Pablo Malan
+   [57C] 0x1DD69134D3DC8624: Paul Truscott
+   [57D] 0x1DD69134D3DC862B: Zach Clayton
+   [57E] 0x1DD69134D3DC862A: Gary Thompson
+   [57F] 0xA12C59B5F83F7A22: Dave Bagley
+   [580] 0x1DD69234D3DC87F6: Alan Jones
+   [581] 0xA12C59B5F83F7A23: Mike Baptiste
+   [582] 0xA12C59B5F83F7A24: Pace Priestly
+   [583] 0xA12C59B5F83F7A25: Daniel Sims
+   [584] 0xA12C59B5F83F7A26: Justin Dillon
+   [585] 0xA12C59B5F83F7A27: Michael Edwards
+   [586] 0xA12C59B5F83F7A28: Loel Howard
+   [587] 0xA12C59B5F83F7A29: Spencer Qi
+   [588] 0x0D7BDFD402E39EEF: Beaty's Beauty Guide to Bots
+   [589] 0xCD1C4440E8C7102D: The Little Plumbot that Could
+   [58A] 0xCD1C4440E8C7102C: Flash to the Past
+   [58B] 0xCD1C4440E8C7102F: How to Mod Your Plumbot
+   [58C] 0xCD1C4440E8C7102E: Beep, Beep, Boop: Memoirs of a Plumbot
+   [58D] 0xCD1C4440E8C71029: WooHoo in the Wastelands
+   [58E] 0xCD1C4440E8C71028: Dystopics: Conundrums in the Timeline
+   [58F] 0xCD1C4440E8C7102B: Where Have all the Trait Chips Gone?
+   [590] 0xCD1C4440E8C7102A: Do Plumbots Dream of Electric Goats?
+   [591] 0xCD1C4440E8C71025: Dance the Plumbot and Other Smooth Moves
+   [592] 0xCD1C4440E8C71024: Dancing with Nanites
+   [593] 0x0D7BDFD402E39EEC: Paradox Lost
+   [594] 0xCD1C4140E8C70B34: DNA: The Building Blocks to Babies
+   [595] 0x0D7BDFD402E39EED: Jason and the Plum-Bot-O-Nauts
+   [596] 0x0D7BDFD402E39EEA: Beauty and the Bot
+   [597] 0x0D7BDFD402E39EEB: Mayhem in Utopia
+   [598] 0x0D7BDFD402E39EE8: An Illustrated History of the Zombie Apocalypse
+   [599] 0x0D7BDFD402E39EE9: Jetpacks, Windcarvers, and ZEPHYRs, Oh My!
+   [59A] 0x0D7BDFD402E39EE6: Visions of Silicon: My  Life in a Dreampod
+   [59B] 0x0D7BDFD402E39EE7: Out of the Wastelands of Your Heart
+   [59C] 0x56D88C1DAA0109F5: Brian Caswell
+   [59D] 0x56D88C1DAA0109F6: Jeff Anderson
+   [59E] 0x56D88C1DAA0109F7: Paul Jutur
+   [59F] 0x56D88C1DAA0109F0: Ben Condie
+   [5A0] 0x56D88C1DAA0109F1: David Deputy
+   [5A1] 0x56D88C1DAA0109F2: Wayne Curtis
+   [5A2] 0x56D88C1DAA0109F3: Todd Knight
+   [5A3] 0x56D88C1DAA0109FC: Pace Thummel
+   [5A4] 0x06318C3EAADAB117: Hard Copy of the Internet Volume 1
+   [5A5] 0x06318C3EAADAB114: Hard Copy of the Internet Volume 55
+   [5A6] 0x06318C3EAADAB115: Hard Copy of the Internet Volume 271
+   [5A7] 0x06318C3EAADAB112: Hard Copy of the Internet Volume 299
+   [5A8] 0x06318C3EAADAB113: Hard Copy of the Internet Volume 645
+   [5A9] 0x06318C3EAADAB110: Hard Copy of the Internet Volume 882
+   [5AA] 0x06318C3EAADAB111: Hard Copy of the Internet Volume 973
+   [5AB] 0x06318C3EAADAB11E: Hard Copy of the Internet Volume 1244
+   [5AC] 0x4C04988F3C461EF8: Any Blank Processor
+   [5AD] 0x7187BD997A6C5A6A: Any Crystal
+   [5AE] 0x1FE8C7E29AF13F94: Any Gem
+   [5AF] 0x03A90418852E3B1D: Any Metal
+   [5B0] 0x94B8E3F1B592DEF9: Any Nanite
+   [5B1] 0xBD91B309E40E2CA3: Large Blank Processor
+   [5B2] 0xAA29BFDD8B96AE97: Medium Blank Processor
+   [5B3] 0xAE587DE03E43840F: Small Blank Processor
+   [5B4] 0x8E3812733B7A3105: Kindness Charged Crystal
+   [5B5] 0xFC9F346C21EDA6EA: Laughter Charged Crystal
+   [5B6] 0x38DF9303C139C87E: Love Charged Crystal
+   [5B7] 0x827552D6172B324F: Uncharged Crystal
+   [5B8] 0x343DC4032D61FCD9: Rage Charged Crystal
+   [5B9] 0x412B789B1F24787E: Limitless Learning
+   [5BA] 0xB57494B49DFDC7B9: High-speed processors run thousands of advanced simulations while your Plumbot performs even the simplest task.\n\n• Plumbots will learn and gain Skill levels as Sims do.\n• Dramatically accelerates Skill learning.
+   [5BB] 0xC02AC8F21CE83E9A: Algorithmic Artist
+   [5BC] 0xE0453F4A291A76B5: Robots aren’t usually known for artwork, but new technology can unshackle their creative processes!\n\n• Painting Skill is raised to maximum.\n• Enables all Painting-related interactions and behaviors.\n• Plumbot takes the initiative to paint on its own.
+   [5BD] 0xF4BAD292FA3C637C: Capacity to Love
+   [5BE] 0x4A1A17D0DE48D0B7: Imbues your Plumbot with the all pleasures and pains of romantic relationships.\n\n• Activates the Social Motive and gives your Plumbot romantic urges.\n• Enables a full suite of interactions to express love and affection with other Plumbots.
+   [5BF] 0xB906608C2AE1F545: Steel Chef
+   [5C0] 0x0A2D4737B92944AE: Turn your resident Plumbot into a world-class chef, prepared to cook any meal you can imagine and a few you can’t!\n\n• Cooking Skill is raised to maximum.\n• All Cooking Recipes are immediately learned.\n• Plumbot takes the initiative to cook for other Sims when they are hungry.
+   [5C1] 0x2FAE551DEAA04FF3: Competent Cleaner
+   [5C2] 0xA3987CE20C7A105C: Turn a Plumbot into a cleaning machine and never touch a mop again!\n\n• Any mess dissolves under an unrelenting barrage of tidying action.\n• Plumbot prioritizes domestic functions.\n• Handles countless tasks from cleaning to laundry!
+   [5C3] 0x4488E23150B8CFF0: Efficient
+   [5C4] 0x9BD347D3944CC69B: Transform your simple domestic Plumbot into a breathtakingly efficient dynamo! No matter the task, your Bot will excel at it.\n\n• Increased performance in professional settings and Bot Competitions.\n• Faster Skill learning and superior Harvesting results.\n• Longer Battery life and decreased Maintenance needs.
+   [5C5] 0xD1C5381A85DA669D: Sinister Circuits
+   [5C6] 0x9762FFE97EE4A266: Adjusts your Plumbot’s motivations towards mischief, mayhem and malefaction.\n\n• Activates the Social Motive.\n• Encourages this Bot to rebel against decent Sim society.\n• Enables a full suite of cruelty-based interactions.
+   [5C7] 0x12D204EF7F8F7898: Fear of Humans
+   [5C8] 0xF9F6144B1A8687C3: Instill a healthy fear of human Sims in your Plumbot! Condition it for nature as you might an endangered llama.\n\n• Bot flees at the sight of human Sims.\n• May cause terrified leaking.\n• Bot will not fear pets or Sims that are not standard humans.
+   [5C9] 0xD6077BB560D5D36D: A.I. Angler
+   [5CA] 0x1433568CCE7043D6: Smart fish might evade human lures, but a Plumbot’s electro-scanners leave them nowhere to hide.\n\n• Fishing Skill is raised to maximum.\n• All Fishing-related interactions are enabled.\n
+   [5CB] 0x3C0061F1B00FE972: Friendly Functions
+   [5CC] 0xA71259789208108D: Impervious to brush-offs and bad attitudes, friendly Plumbots bring a smile to any face!\n\n• Imbues Plumbot with the Social Motive.\n• Enables friendly social interactions.\n• Plumbot takes the initiative to socialize on its own.
+   [5CD] 0xBF0720652085C00B: RoBotany Gardener
+   [5CE] 0x942148B6C88C4B74: Yard work is hard work! This chip makes your robot a green-thumb gardener.\n\n• Gardening Skill is raised to maximum.\n• Equips Plumbot with advanced nanotech fertilizer.\n• Plumbot takes the initiative to garden on its own.
+   [5CF] 0xD4F99FC9D2E93990: HandiBot
+   [5D0] 0xFD2D2F53B822FC3B: Save your wrists the strain of a wrench! This chip lets your house robot repair any machine.\n\n• Handiness Skill is raised to maximum.\n• Enables all home maintenance interactions.\n• Plumbot takes the initiative to repair appliances on its own.
+   [5D1] 0xD0496D462B428185: Holo Projector
+   [5D2] 0xD470F9F0EAA5F1EE: Missing your friends from other timelines or distant worlds? Laser Emitted Illusory Anthroprojection technology allows Plumbots to render holographic Sims in incredibly lifelike detail. \n\n• Projects your choice of Sims from other timelines or distant worlds. \n• Socialize and have fun with your best inter-dimensional buddies!
+   [5D3] 0xE04F4C8E4294D759: Simulated Emotions
+   [5D4] 0xCCB3866A2F5D1332: Who couldn’t use a friend? Equip your Plumbot with a full range of human emotions!\n\n• Activates the Social and Mood meters.\n•Grants access to three different Emotional Modes: Happy, Sad, and Angry.\n• Enables interactions to thoroughly express any emotion at any time.
+
+   [5D5] 0x9E98D5A2E41F26EC: Sense of Humor
+   [5D6] 0xC7CE18B230E0CC47: Brighten up any social event with humor that’s practically scooped from a tin can! This chip transforms your personal Plumbot into a wacky jokester.\n\n• Activates the Social meter.\n• Enables a wide range of joking interactions.\n• Introduces Plumbot to the world of professional Comedy Shows.
+   [5D7] 0x3233DBCA24BAC7E2: Mood Adjuster
+   [5D8] 0x40F2B45B0ACB575D: Turn all your psychological needs over to modern science! Your Plumbot will dedicate itself to managing the moods of organic Sims.\n\n• Activates the Social meter.\n• Enables various Massage techniques.\n• Equips Plumbot with experimental Mood Beam for direct emotional manipulation.
+
+   [5D9] 0x1AD07F20416AF1A4: Musical Machine
+   [5DA] 0x2322C5C13F0D7FDF: Turn any robot into a musical prodigy, granting them total mastery of every known instrument.\n\n• Music Skill is raised to maximum for all instruments.\n• Every song in Similization is instantly learned.\n• Plumbot takes the initiative to play music on its own.
+   [5DB] 0xB58D09E1F0E45FC6: Office Drone
+   [5DC] 0xB5925E83BB46DB81: Turn your Plumbot into a versatile, multi-tasking machine capable of nearly any job!\n\n• Advance your Bot through its chosen profession.\n• Plumbots are immune to the daily stress of professional life.\n• Earn Simoleons by lending your Bot to local businesses.
+   [5DD] 0x0787DDF83F8B4945: RoboNanny
+   [5DE] 0x51AC79E22AC1D8AE: Children are a blessing, but they’re also exhausting. Who couldn’t use a nanny?\n\n• Childcare becomes the Plumbot’s first priority.\n• Enables all childcare interactions, from diaper changing to playing tag.
+   [5DF] 0xBCCCB08D01FDFEC7: Sentience
+   [5E0] 0x3D3509B9C97D3D80: Bring your Plumbot one step closer to Simkind with genuinely artificial sentience.\n\n• Enables the Fun, Social and Mood Motives.\n• Plumbot experiences Lifetime Wishes and Opportunities like an organic Sim.\n• Plumbot becomes a true individual, even deciding its own name.
+   [5E1] 0x9A619D309E2F564E: Solar Powered
+   [5E2] 0xDB8FD8F157EF28A9: Dump that bulky, expensive Charging Station and power your Plumbot with pure sunlight.\n\n• Replenishes Plumbot Battery Power while the Bot works.\n• Chip only functions outside, during daylight hours.
+   [5E3] 0x6E15778305291213: You emerge from your Extra Shift with bleary eyes, aching joints and a pocket full of Simoleons.
+   [5E4] 0x96424ECB301F81A9: The Bot Arena has been so crowded that they can barely keep matches running on time! Would you mind working an extra shift to help?
+   [5E5] 0x3AB07D220D52DB45: Legally, Extra Shifts aren’t mandatory. But practically speaking, your bosses always notice when you don’t sign up.
+   [5E6] 0x3896071605955B4C: Extra Shift
+   [5E7] 0x9F85F7B67AA22628: Work an Extra Shift at the Bot Arena.
+   [5E8] 0x0CD5B532DD4A1B90: You successfully took those Sims on an Arena tour without anyone getting lost or hurt.
+   [5E9] 0x9A24D8AD6CC95894: A group of local Plumbot enthusiasts would love to see how Bot Competitions are run! Guide them on a tour of the Bot Arena.
+   [5EA] 0xD6F8C41EDDF058D8: You weren’t in the mood for giving a tour of the Bot Arena. It’s understandable – you needed a day off!
+   [5EB] 0x141AB521E401281B: Guide a Tour
+   [5EC] 0xBE8C08E25B38AB87: Give a Tour of the Bot Arena.
+   [5ED] 0xB97E679164497D15: Despite some nervous stumbles at the start, you pulled yourself together and made some salient points!
+   [5EE] 0x6CE9D1EF7AEDE6DB: The Bot Arena’s top announcer has lost his otherwise golden voice! You’re the only Sim able to fill in with Color Commentary for tonight’s broadcast.
+   [5EF] 0x789AA85AEB7EBA53: You decided to stay out of the broadcast booth, and the Competition’s ratings took a predictable plummet.
+   [5F0] 0x3A1EE327B067D23A: Color Commentary
+   [5F1] 0x654D0268862FFD6A: Provide Color Commentary for a Bot Competition.
+   [5F2] 0x9F5FCC795F236792: Reading that book gave you knew perspective on every angle of the Bot Arena.
+   [5F3] 0x0A0E790FB491F3F6: Every day, the Bot Arena buzzes with talk about the newest Plumbot Engineering books. Pick up “Advanced Robotic Algorithms for Beginners” and read it to stay current in your field!
+   [5F4] 0x28ADE19E2A4740CE: No matter what skills you acquire, they can always become obsolete in a heartbeat.
+   [5F5] 0xF6EB90EC43A82589: Staying Current
+   [5F6] 0xFA1AE677C5324079: Read “Advanced Robotic Algorithms for Beginners.”
+   [5F7] 0xE8F26BC388D1E867: Your elbows and wrists are sore from wrenching, but the local Plumbots are operating better than ever!
+   [5F8] 0x6E8CC603305A0B05: The quality of Bot Competitions has been slipping recently. Head around town offering Professional Tune Ups; you’ll get those Plumbots back to competition trim!
+   [5F9] 0xC7877B98CC48D7B9: What’s the use of having all that mechanical skill if you won’t ply your trade
+   [5FA] 0xE034B1F828DE969E: Professionally Tune Up {1.Number} Plumbots
+   [5FB] 0xF27C06F8337DEE40: Master Mechanic
+   [5FC] 0xCA7E095AF1CF804C: Professionally Tuned Up {0.Number} of {1.Number} Plumbots.
+   [5FD] 0x46691342138DCDDF: Star Guide Tours aren’t always fun, but they’re a basic and necessary part of your Observatory work.
+   [5FE] 0x6E32E42D390962AD: Teaching Sims about the cosmos is your first objective at the Observatory. Star Guide Tours are a wonderfully easy way to communicate with the community!
+   [5FF] 0xAB9BF58F9E085DE1: You’re a busy Sim and didn’t have enough time to give a Guided Tour. Maybe next time!
+   [600] 0x44F6E79DA15C57B8: Galactic Tour Guide
+   [601] 0x9909CB080746BFD4: Give a Star Guide Tour at the Observatory.
+   [602] 0x6073B47EA872F35C: Everything you said at the press event was way over the reporter’s heads, but at least they wrote it all down!
+   [603] 0xB2B54EA9EA6A8F18: One of the Observatory’s researchers just cataloged a groundbreaking discovery. You’ve been given the honor of announcing it at a Press Event!
+   [604] 0x23FA36456EC18674: If we don’t hold Press Events, how can the public know we’re spending our Simoleons wisely?
+   [605] 0x7627B5A49711BFB7: Being a Media Star
+   [606] 0x752588B4982EA223: Give a Press Event at the Observatory.
+   [607] 0xFEDBE3FE32074FC1: After poring through the newest Black Hole research, you can finally explain the maximum mass of a stable white dwarf star.
+   [608] 0xC89381717DC6120F: Black Holes are among the universe’s least-understood phenomena. Studying one would be an easy way to make a big splash in your field.
+   [609] 0x3D4B0150530456DF: Maybe you made the right choice. Ultra-massive Black Holes aren’t for the faint of heart!
+   [60A] 0x490BE3AF4E588AD6: A Singular Passion
+   [60B] 0x464BD7499DEC5CB6: Research a Black Hole at the Observatory.
+   [60C] 0x1A19566BF71BFE26: With a telescope and a chromatograph, you scoured the stars for the slightest scrap of Alien Life.
+   [60D] 0x0E2884F1F31D4F32: Every astronomer dreams of discovering life on other worlds. Now we actually have the tools to do it! Start your own Search for Alien Life.
+   [60E] 0x48BAD039918151B2: Deciding that alien life isn’t important, you’ve focused your efforts elsewhere in the cosmos.
+   [60F] 0x77AFD1B641E2F0AD: Casting a Wide Net
+   [610] 0xC28834EB65AB084D: Search for Alien Life at the Observatory.
+   [611] 0x7ED7BE4261AAA00B: With a flash and the crackle of colliding photino particles, you brought a genuine Tesseract into being!
+   [612] 0x0E165202FE785111: Now that the technology exists to collect Dark Matter, you have the materials needed to fold time and space. You can build a Tesseract!
+   [613] 0x2A5AC3F212C9AA4D: Maybe it was wise not to build that Tesseract. Sims have gone missing while meddling with them…
+   [614] 0xA11A07BC112CD124: There is Such a Thing
+   [615] 0x65E8B92A23E5E710: Collect Dark Matter and build a Tesseract at the Observatory.
+   [616] 0xB2C34ACB64ED3D68: You’re so glad to have read that book! It’s given you a fresh outlook on planetary motion.
+   [617] 0x8811A73B9FCECFBC: Staying on top of the astronomy world takes dedicated reading. Books filled with new discoveries appear every day! You should read “100 Better Constellations” to expand your knowledge.
+   [618] 0x605A58AB02553620: You were too busy to read up on your colleagues' work.
+   [619] 0x65BCB5C75127D7B3: Infinite Curiosity
+   [61A] 0x884F81727A303DAF: Read "100 Better Constellations."
+   [61B] 0x1641277E76387849: You found the Power Cells! Return them to the Time Traveler.
+   [61C] 0x802B8E7728D7DF07: Great woolly llamas! I was on my way home to Oasis Landing and my Time Portal experienced a temporal disruption and its Power Cells were thrown all over! Can you help me collect them?
+   [61D] 0x988B26D0DEFD6737: The Time Portal mysteriously started working again. Hop in and see where it will take you!
+   [61E] 0xCDA01BE01B9089BE: Help a Time Traveler Out 
+   [61F] 0x60F2C19D4C4CE76E: Find and collect the Power Cells on your lot.
+   [620] 0x84CEBCC6E0747472: Thanks to you, the Time Traveler can return home to Oasis Landing. Why don't you follow him and see where the Time Portal leads?
+   [621] 0x33F13D44FB23F756: Huzzah! You’re a real life saver! Return those Power Cells to me and I’ll fix the Time Portal. Now I can finally return back to my future home in Oasis Landing!
+   [622] 0x7F551EA8F0A57259: Return the Power Cells to the Time Traveler.
+   [623] 0xB92B5F4B8ED1F045: The Trait Chips were delivered safely.
+   [624] 0x7BE86BDAD24734EB: Someone in town is in desperate need of Trait Chips to help their Plumbot be more useful. Go deliver some Trait Chips to make this Sim’s day!
+   [625] 0xEFA8ACFD3C3C3FE3: You didn’t have enough Trait Chips to spare.
+   [626] 0xA56A61C92B58CD6A: Trait Chips for Others
+   [627] 0xB5AE63149D96FC3A: Deliver {1.Number} Trait Chips to {2.SimName}
+   [628] 0x1378F105B3CCF2DE: Although someone else received an award, you stole the show with you epic Laser Rhythm-a-con skills!
+   [629] 0x35F9BE6BC8B43A3A: There’s an Award Ceremony scheduled to honor an important Sim. The organizers are looking for an accomplished Laser Rhythm-a-con player to provide the music! Are you up to the challenge?
+   [62A] 0xBBEC3AB848AAE5FA: Playing at the Award Ceremony just seemed too overwhelming so decided not to play.
+   [62B] 0x4F3FCFB0768546C5: Award Ceremony
+   [62C] 0x1B857340D26127F5: Play for the Award Ceremony at {OpTarget}.
+   [62D] 0xEB8E7950BBEFB416: Jetpacking never gets old for me! I hope you liked your view of Oasis Landing.
+   [62E] 0x2ACBB3F28BDABEC2: Welcome to Oasis Landing, temporal traveler!  This is the Oasis Landing Community Living Center, from which I summit great mountains of knowledge! To help you get a better perspective of the city, I've given you a Jetpack. Start using it and Fly Around.
+   [62F] 0xB92DD19350F48C42: Looks like you already know your way around Oasis Landing! If you're looking for something to do, I can always use help with my research!
+   [630] 0x5BC95FC031D3D09D: Welcome to the Future
+   [631] 0x140D9970679E371D: Fly Around with a Jetpack.
+   [632] 0x07C5FF97F687A9FD: Aren’t Plumbots the most amazing things? Next to time travel, I mean. That’s probably more amazing.
+   [633] 0xAA6E499E2EE8E8F3: It’s impossible not to notice the Plumbots around Oasis Landing; though some prefer the term “non-organic Sim.” They’re fantastically helpful for nearly any task, and some have started to develop sentient personalities! You’ve got to meet one yourself: just walk up and say hello.
+   [634] 0x9CC4D1D849A7EEA2: Meet the Plumbots
+   [635] 0xA207425337C0D562: Greet a Plumbot and then Instruct to Explain its Function.
+   [636] 0x14F597A1DF8B0E18: Trait Chips are pretty simple, right? If only human Sims could improve themselves so easily.
+   [637] 0x48BBFA3B2FD1F48C: Plumbots are only as versatile as their software. Roboticists have designed Trait Chips: processors to run the most advanced and specialized programs. Here's a few Trait Chips. Try adjusting a Bot’s Trait Chips then give the Plumbot a High Five for good measure!
+   [638] 0x72C518E570132B3F: Adjust a Plumbot’s Trait Chips.
+   [639] 0x492DFA67E0980D0F: I’m glad you got friendly with a Bot. They’re delightful creatures, once you get to know them.
+   [63A] 0x955631A0236287A4: Give a Plumbot a High Five.
+   [63B] 0x2D0EF6D17FE1A51A: Synthesized drinks are amazing, aren’t they? To think Sims in the past had to make their own…
+   [63C] 0xBEABA32543F4492E: You’ve worked so hard to learn about Oasis Landing. A break is well deserved, and you must be parched. Over at the Cafeteria, you’ll find a machine on the counters to synthesize any colored beverage imaginable! Take this Windcarver; you’ll travel faster and have great fun doing it.
+   [63D] 0xFFA67FA1C203C431: Take a Break
+   [63E] 0xD7E8796A88F4C2D1: Order a Synthesized Drink at the Cafeteria.
+   [63F] 0x83DB193ABF582BB1: I’m glad to see your reverence for the Legacy Statues. Who knows? You might join them someday.
+   [640] 0xE2AF9B026B53859F: The people of Oasis Landing have many fine qualities, but my personal favorite is their reverence for the past. Over at Legacy Park, they’ve erected statues to honor the greatest Sims that came before. Use your Time Almanac to find them, and read their inscriptions.
+   [641] 0x56AAF1BA7790B846: Remembering the Past
+   [642] 0x47EC358B844B9386: Read the Inscription on a Legacy Statue.
+   [643] 0xA2B1100E6B35844C: You saw the door! What did you think about it? Ever seen anything like it in your life?
+   [644] 0xEBED4527630C8BA8: Here’s an event I’ve never been able to place in the timeline: the crash of an alien vehicle. It was buried sometime between your time and this. All that remains is a single door at the Crash Site out in the Wasteland, which you should examine personally.
+   [645] 0xCB24E4E363AB9CB3: Inspect the Mysterious Door in the Wasteland.
+   [646] 0x8C36A808080D5BE3: I’ve gotten my hands dirty enough for one lifetime! Thank you for Excavating that Debris Pile.
+   [647] 0x371ED5CD621B9A59: I’m sure you’ve noticed those grungy Debris Piles around the Wasteland. I never found anything myself, but rumor has it they hide some real treasures. Do some rummaging; even if you find nothing, it’s a reminder that not everything in the Future is wonderful.
+   [648] 0xD84EEE0073B6EBD8: Excavate a Debris Pile.
+   [649] 0x4FDEB4641FEA6EBE: Great woolly llamas, this is a piece of a key to the Mysterious Door! Keep it just in case you find others like it. I’m always looking for help so come back and see me if you’d like to help with my experiments!
+   [64A] 0x98E1BBB7E6A8549A: Great woolly llamas, you’ve found something! Bring it back to me so I can scan it. I have a hunch it’s something valuable! This just might be the missing link to the mysterious door!
+   [64B] 0xBAFE6001F7497CA5: Checking In
+   [64C] 0xC26E4DB205BB49D5: Speak with the Time Traveler.
+   [64D] 0x4E5F7DCD5FF4FD94: Recalibrate Defensive Grid4 Completion PLACEHOLDER
+   [64E] 0x10915C1B4C71DA00: The Shield is primed with the materials you gathered. When you are ready you can Raise the Defensive Grid at the Science Center
+   [64F] 0xA3B5BEBCFE5E4A7C: Recalibrate Defensive Grid4 failure PLACEHOLDER
+   [650] 0x05BE80E97D6492EF: Recalibrate Defensive Grid4 Name PLACEHOLDER
+   [651] 0x2FD5266D4FB5292B: Recalibrate Defensive Grid4 Progress PLACEHOLDER
+   [652] 0xC96688C02B3D4D54: With a whine of speeding turbines, the Defensive Grid comes online! You’ve stopped the meteors, for now.
+   [653] 0x4A97E367EE4949C0: The Defensive Grid shields the region from falling meteors. It requires a heap of Gems and Metals to turn it on to protect the citizens of Oasis Landing!
+   [654] 0x4ADA83BD2A66623C: As long as the Defensive Grid remains inactive, meteors will continue to pulverize Oasis Landing.
+   [655] 0x730527E346D2E3AF: Mightier than Meteors
+   [656] 0x3801A5B81E925BEB: Bring Gems and Metals to the Observatory.
+   [657] 0x8F34B6A2A255D64E: Thank you so much for the Trait Chips! These will do nicely. Here’s your payment.
+   [658] 0xB569C61DF773884A: There’s word around town that you’ve been building some quality Trait Chips. If you’d hammer out a few chips for me, I’d pay you well!
+   [659] 0xFED1438ABC6E354A: Too bad, I was really hoping you’d make me some Trait Chips
+   [65A] 0x2AE0DADECC325E35: Silicon Slinger
+   [65B] 0xC49773E1CF215CC5: Deliver Trait Chips to {2.SimName}.
+   [65C] 0xF5F1460A66D07675: Congratulations on your new competition-ready Plumbot! It takes courage to trust your creations in the Arena.
+   [65D] 0xEAF16C81A00AD5BB: Any amateur plumboticist can slap some components together and declare the monstrosity a Plumbot. Real artisans put their creations to the ultimate test in the Bot Arena!
+   [65E] 0x10A03A254AF4D933: You decided that when it comes to robotics, you’re more of a hobbyist than a competitor.
+   [65F] 0x55D2ECF6464D029A: Test Your Metal
+   [660] 0x324BC7C12353DECA: Build a Bot for an Arena Competition.
+   [661] 0xF63DC67F67DB31F0: You saved the day by figuring out those Bots were stuck in a toilet-sink logic loop!
+   [662] 0xD4E8404CB53FEE74: The janitorial Plumbots at City Hall have gone haywire! The maintenance team tries their hardest, but they’re woefully under-funded and they need your help to avert an uprising.
+   [663] 0x66445E3F703FDFB8: Plumbots are complicated machines, so you’ve decided not to get involved in their complicated problems.
+   [664] 0x2C69BEF07704E37B: Bots Going Berserk
+   [665] 0xDCA6A3BDA8F077E7: Go to {OpTarget}.
+   [666] 0x72A6DD994E7429C7: A hard day of volunteering at the Bot Arena gave you valuable insight into Bot Building.
+   [667] 0xA41636AD68190EE5: The local Bot Arena is hosting a major international event! They’ve put out a call for robotically inclined Sims who’d like to volunteer and improve their skills.
+   [668] 0x0B0A37E078463099: A day in the noise, heat and smell of a Plumbot maintenance pit doesn’t appeal to you.
+   [669] 0x0ACA10C6C67FF5A0: Maintenance Moonlighting
+   [66A] 0x3BA2D70EACACEAAC: Go to {OpTarget}.
+   [66B] 0xE0BA024F6ABE93EC: Riding the Windcarver is much faster than walking!
+   [66C] 0x897E80938EC379C8: With the invention of the Windcarver, there’s no need to walk anywhere! Take a Windcarver for a ride and see how you like it.
+   [66D] 0xF385F799B90A6A24: You weren't in the mood for riding the Windcarver.
+   [66E] 0xD89EA67CA88C6D81: Ride the Windcarver for a few hours.
+   [66F] 0xA30DB17C89C18887: Every Day I’m Hoverin’
+   [670] 0x729D78BE7BF3B053: Windcarver ridden for {0.Number} out of {1.Number} hours.
+   [671] 0x721DF51985601BAF: Flying with the Jetpack gives you a new perspective on the world.
+   [672] 0x0D4B2E2F0B40195D: The view is always better from up high. Strap a Jetpack on and take it for a flight. It’ll get your adrenaline pumping!
+   [673] 0x22EE9AF4D5578B11: You didn’t quite have the stomach for the Jetpack.
+   [674] 0x8E6ACE76C737AA56: Show off your Jetpack Flying Skills to {1.Number} Sims.
+   [675] 0x9D162376CEC64888: Wings of Thunder 
+   [676] 0x933F92A7B683A744: Used a Jetpack to Show off Flying Skills {0.Number} out of {1.Number} times.
+   [677] 0x0250EBB837F08366: You demonstrated the courage to play the big stage and the audience loved the performance.
+   [678] 0xD978D39B827A1272: It’s one thing to play the Laser Rhythm-a-con well; you have the talent to play very well. It’s time for a stage befitting your potential: the local Theater!
+   [679] 0x711BDEE383D417F2: Everyone gets stage jitters, especially with such a complicated instrument. Keep practicing!
+   [67A] 0xA6391C85F99F8BED: Laser-Light Symphony
+   [67B] 0x6CF20246E71F978D: Play a Laser Rhythm-a-con show at {OpTarget}.
+   [67C] 0x913074F37AD4E38D: What a great musical show! The diners loved it!
+   [67D] 0x204A33704F5C9363: The Laser Rhythm-a-con is best enjoyed as the accompaniment to a fine meal. Show off your skills by playing a show for the diners at a local restaurant.
+   [67E] 0xFC5CC64937F8BC5B: You decided not to play your Laser Rhythm-a-con for the diners while they eat.
+   [67F] 0x8FD64EA2F8B9F6B2: To Aid the Digestion
+   [680] 0x2220023555171C12: Play the Laser Rhythm-a-con for diners at {OpTarget}.
+   [681] 0x9F0355C0E9EE88A8: The crowd and competitors roared in approval over your awesome Laser Rhythm-a-con show!
+   [682] 0x4CBF438D11FCD1FC: Nothing goes with the shrieks of grinding metal like the mind-expanding tones of a Laser Rhythm-a-con! Show off your musical talents at the local Bot Arena.
+   [683] 0x35B2347C87841060: You didn’t have the guts to get on stage and perform for the arena crowd.
+   [684] 0x90DF009705FF96F3: Arena Accompaniment
+   [685] 0x75FF81C0D84E8DEF: Play a Laser Rhythm-a-con show at {OpTarget}.
+   [686] 0x7FBD7E1104F7EF1F: Performing in public is brutal work, but you displayed the emotional fortitude to stick it out!
+   [687] 0xD871443CD56B82ED: What’s the point of a musical gift if you don’t share it? Play your Laser Rhythm-a-con for Sims far and wide! Earn some Simoleons while you’re at it.
+   [688] 0x80F2D16123358421: You decided more practice was needed before gathering up the courage to perform in public.
+   [689] 0x616EDD6D4EA72AA6: Earn {10.Money} in Tips with the Laser Rhythm-a-con.
+   [68A] 0x7380326D5918F2F8: Blow Their Minds
+   [68B] 0x4374986388BD0214: Earned {0.Money} of {1.Money} in Tips with the Laser Rhythm-a-con.
+   [68C] 0xB3AA3D27B02B10AA: Every song is difficult when playing a four-limbed instrument, but you just learned a new one!
+   [68D] 0x2AE428A08E9EA7DE: Learning any single song on the Laser Rhythm-a-con takes a long time, but virtuosos must learn a wide variety of compositions to win the public’s respect.
+   [68E] 0x88E641B4C8A0FC56: You already knew plenty of songs on the Laser Rhythm-a-con so there was no need to learn another.
+   [68F] 0x4A15FC6789CF1241: Expand your Chromatic Catalogue
+   [690] 0xB313A8B7B4B8FEC1: Learn a new Laser Rhythm-a-con composition.
+   [691] 0x309B33AA82BF9175: Magnificent specimens! See the fine articulation in their leg joints? It’s connected to tiny artificial muscles.
+   [692] 0x88CB33911755B6BB: Plumbots have a fascinating and surprising history! They didn’t progress from automated vacuum cleaners; instead they evolved almost naturally. Hobbyist Sims built and collected insectoid robots called Nanites, eventually releasing them into the wild. I’ll explain more once you’ve caught some for me.
+   [693] 0xF3F65DA9AC062A33: Wow, it looks like you already know all there is to know about Bots!
+   [694] 0x1080252EC8DB9110: Catch {1.Number} Nanites.
+   [695] 0x01D4D22EC14CF59A: Don’t Swat Them!
+   [696] 0x8EFB21B213C081CA: Successfully caught {0.Number} of {1.Number} Nanites.
+   [697] 0xC9DEA442BE44F14E: Once reversed engineered a Nanite, their almost natural beauty comes into focus.
+   [698] 0x53438D2D6EBE694A: Wild Nanites are a good introduction to the subject of modern robotics, since their small and simple systems are writ large in sophisticated Plumbots. To better understand how these systems interact, I recommend dissecting and Reverse Engineering a Nanite.
+   [699] 0xD6E2C01747325135: Nanite Dissection
+   [69A] 0x2146CDD2BF8DFFC5: Reverse Engineer a Nanite from your inventory.
+   [69B] 0x90C588F2BB975B73: Plumbot Competitions are the best. I needed to change my lab coat after my first Arena visit!
+   [69C] 0x4E8BBC464F84B589: Since Plumbots grew out of avid hobbyist communities, they saw their first action in competition. Down at the Bot Arena, Plumbots grind themselves to pieces striving for glory; it’s not inhumane because Plumbots aren’t human. Watch a Bot Competition for yourself. They’re tons of fun!
+   [69D] 0xA660F621FB9600AC: Oilsport
+   [69E] 0x703176D48F7C9888: Watch a Plumbot Competition.
+   [69F] 0xE65F33F80F8C9924: Once you’ve played around with your new Plumbot, you’ll wonder how you ever got by without one.
+   [6A0] 0xAE15982FAA383670: Plumbots may have started as idle curiosities, but they’ve become an enormous part of Oasis Landing’s economy and social fabric. Nobody goes a day without interacting with Plumbots! It’s a beautifully natural social experiment, so I’d like you to purchase a Plumbot of your own.
+   [6A1] 0xBF50A404FEA6973F: A Serious Investment
+   [6A2] 0x4C21B96934C76F1B: Purchase a Plumbot from a Sales Pedestal.
+   [6A3] 0x15AA60DEB136BBC9: Perfect! As you can see, Plumbots are just like organic Sims, only more helpful and less whiny.
+   [6A4] 0x7E3B8CFB66E49187: That’s a fine Plumbot you selected! They function best when calibrated slowly and deliberately. Let’s put it through its paces. Instruct your Bot to Explain its Function, then Instruct it to Entertain You. I’ll keep all my scanners running while you do this…for science!
+   [6A5] 0xA5B1F210517CE93E: Iterating Introductions
+   [6A6] 0xA8FE088A32D0FEEE: Instruct Plumbot to Explain its Function and then to Entertain You.
+   [6A7] 0x8437F6271B72B7F2: There’s no feeling quite like being elbow-deep in a Plumbot’s thought center, is there?
+   [6A8] 0x32013BC93930A9D6: When Sims got bored of Plumbots just performing domestic chores, they invented Trait Chips capable of modifying nearly any Bot function! There are even chips to simulate romantic love and sentience. Open your Plumbot up and adjust its Trait Chips to appreciate the dramatic difference.
+   [6A9] 0x64B67FF839A8CBE9: Altered Traits
+   [6AA] 0xC7606595D72989D9: Adjust Plumbot’s Trait Chips.
+   [6AB] 0xAD50CB396A6344C7: There’s nothing quite like a Body Massage from unyielding metal fingers, is there? How invigorating!
+   [6AC] 0x41EFFDBCDF63EFE5: My favorite part of Plumbot history is how relationships between humans and Plumbots developed. We started by manipulating their Trait Chips, but eventually the Mood Adjuster Trait Chip let Plumbots affect human emotions! To experience this yourself, Instruct your Bot to give a Body Massage.
+   [6AD] 0xB6CBF5FF417FE8A0: Cyborg Chiropractic
+   [6AE] 0x985230FF9D198DAC: Receive Body Massage from Plumbot.
+   [6AF] 0xB84E64FAC991F5E8: Great woolly llamas, your devotion is amazing! Enjoy your new Charging Station!
+   [6B0] 0x9827A5C3A3B4513C: Thank you ever so much for your patience, taking this personal journey through Plumbot history. Most Sims are happy to see these remarkable creatures as mere tools. Come and see me; I’ve build you a few Trait Chips to encourage further exploration. For science!
+   [6B1] 0x632DA3E68ED65433: Assembly Complete
+   [6B2] 0x0D6F996353F2C22F: Talk to the Time Traveler.
+   [6B3] 0x9FF3C6C43DFCEECD: Great woolly llamas, your stamina is amazing! Your devotion to acquiring knowledge inspires me every day.
+   [6B4] 0x031EF7E504FBCDA3: Thank you ever so much for your patience, taking this personal journey through Plumbot history. Most Sims are happy to see these remarkable creatures as mere tools. Come and see me; I’ll give you a Charging Station. After all, Plumbots are useless with an empty battery!
+   [6B5] 0x7F01060979605FFE: How was meeting your Descendants? Thank goodness you didn’t explode from some kind of temporal paradox!
+   [6B6] 0x23F071A8808A2ADA: In my research of this timeline, I noticed that Sims descended from you played an outsized role in Oasis Landing’s development. This could be a coincidence, or perhaps the product of magnificent genes. Meet your own Descendants; see if they seem remarkable in any way.
+   [6B7] 0xBE14B59D00BE549A: If you’re uncomfortable meddling with your own Descendants’ lives, I won’t pressure you to continue.
+   [6B8] 0xCF02C5B1C69FD5E5: Guess Who’s Coming to Dinner?
+   [6B9] 0x33A7E5E0B64A9F15: Greet a Descendant.
+   [6BA] 0x366B8C9727609165: I see you’ve returned safely to your own time. Make any personal or family alterations you like!
+   [6BB] 0xC23C4999C1847F8B: Now that we’ve got a basic understanding of your Descendants, we can start experimenting! Try to dramatically alter your family’s net wealth, permanently change some traits, or adjust the number of Sims living in your household. The changes won’t take effect until you return to your original timeline, for reasons that should be obvious.
+   [6BC] 0x252E57CA7B750E8A: Changing your Stars
+   [6BD] 0x774CD5B96980D25A: Travel back in time to the present day and alter your net wealth, traits, or family size.
+   [6BE] 0xF57375508F97A320: Welcome back, weary traveler! Once you’ve recovered from your inter-dimensional journey, you’ll see your new household.
+   [6BF] 0x330A0947683D5BC4: Wonderful! Using my tachyon scanners, I’ve traced your signal back through time and isolated your family line. Get your personality and household to a finished state, and then rejoin me in the future. I’m so excited to see what these changes have wrought!
+   [6C0] 0xCFB2E9C370BAD62B: Return to the Post-Present
+   [6C1] 0x7607AFA2D43CE137: Travel to the Future and speak with the Time Traveler.
+   [6C2] 0xB56C90244B175BF7: Hopefully, you’re enjoying that altered household. If not, simply jump back to the past and try again!
+   [6C3] 0x24C400668011ECF5: Now that you’ve shifted your own genetic timeline, your Descendants may have been radically altered or absent entirely! For all my tachyon-inferred data, we won’t have hard conclusions until you meet with them again. Remember, some changes will be subtler than others.
+   [6C4] 0xB2533B99C3D2B5D0: The Moment of Truth
+   [6C5] 0x97894928007725FC: Greet a Descendant.
+   [6C6] 0x49BD2657F7A4C18C: Was Trash diving as fun as it looks? Tell me about it while I scan you…
+   [6C7] 0x6F409F6A1394C7E8: This Dystopia timeline might disgust you, but the Sims here seem fairly happy with their lot. We should test out exactly how unhealthy Dystopia’s various features are. Start out simple and stinky: play in one of the Trash Piles littering the landscape. Get it? “Littering!”
+   [6C8] 0x774FCD9899345744: Seems like you’ve already experienced a dystopian Future before. Check back later if you’re still interested in helping me!
+   [6C9] 0xE433EB459F9A2A27: Sullied Samples
+   [6CA] 0xDD9D0E5813C587F3: Play in a Trash Pile.
+   [6CB] 0x1FAFE60AC6BC4D4F: Don’t those bugs have a delightful crunch? And the nutty flavor! Yes, I’ve tried a few myself.
+   [6CC] 0xAA53E9ADBB86A67D: You’ve shown no ill effects from the Trash Piles, aside from some odor. Let’s get a little more exotic! I’ve observed Sims eating the local insects, so they’re probably not poisonous. Catch and consume a few Bugs, to test their flavor and nutritional content.
+   [6CD] 0x22B0083AF22E77F6: Catch and Eat {1.Number} Bugs.
+   [6CE] 0x34C15D3AFCA03F28: The Local Flavor
+   [6CF] 0x5740C86CC709DDE4: Caught and Eaten {0.Number} of {1.Number} Bugs.
+   [6D0] 0x188ED94F0739565A: Great woolly llamas, the third eye tracks my movement! It sees just fine, like the others.
+   [6D1] 0x9B0A02EF9685D36E: According to my readouts, you absorbed a good amount of protein on your eating expedition. Let’s see if the other local fauna are similarly healthy. Catch me a few Three-Eyed fish. That extra eye might not be the freakish mutation I assumed it was.
+   [6D2] 0xACE3D433D5CEC7E3: Catch {1.Number} Three-Eyed Fish near Floating Trash Piles.
+   [6D3] 0xE2AAE733F4C76F71: Nature’s Little Blunders
+   [6D4] 0x9F3B3AAF9407D011: Catch some Three Eyed Fish
+   [6D5] 0x0C6A3758CB17873D: What did you find in the Geyser Rift? I’ve heard about priceless gems and powerful gamma rays!
+   [6D6] 0xD18D686E790BAE33: Those fish checked out; healthy down to their cell chemistry. Most of Dystopia’s problems seem more like ugly quirks! If you don’t mind a bit of real danger, I’d like you to explore the Geyser Rifts caused by falling Meteors.
+   [6D7] 0x25DF396F6188CEE2: Geyser Spelunking
+   [6D8] 0x200A3083BD767FA2: Explore a Geyser Rift.
+   [6D9] 0x03C74750CC9D9F58: Thanks! These couldn’t have been easy to find. Now, to vaporize them in the chromatograph…
+   [6DA] 0xBFFEF365F824FDCC: My data from your Geyser Rift plunge confirms traces of precious gems and ore. It must come from the Meteors forming them. You know what this means: time to catch some falling stars! Not literally, of course. Go and collect some Space Rocks for testing.
+   [6DB] 0x44189864A283EF05: Find {1.Number} Space Rocks.
+   [6DC] 0x565FEB64AD234323: Astro-Geologist
+   [6DD] 0xA1B27CC424D9247F: Find some Space Rocks.
+   [6DE] 0xB8DFF6F5E1EEF77B: By preventing Meteors from hitting the ground, the Defense Grid sure makes a Dystopian life safer! Visit the Observatory at any time to active it.
+   [6DF] 0x162A066C0235FE21: Detailed analysis of those Space Rocks confirms: they’re loaded with valuable residue, but also dangerous radioactive isotopes. The Meteors are the genuinely harmful things in Dystopia. I’d like you to visit the Observatory and learn about the Meteor Defense Grid.
+   [6E0] 0x3A5F3D5E546EF694: An Old Hope
+   [6E1] 0x28E56B5E09CB1F20: Go to {OpTarget}.
+   [6E2] 0x668821009F88ADF8: What a wonderful piece you bought! I’m not one for fashion myself.
+   [6E3] 0x1CE681847B4A13EC: Hey! I’m pleased as punch you came by, but I’m busy with, uhh…something. That I don’t need help with. Just hang around town for a spell. Stop by the local shops and try on some futuristic fashions. And, uhh…keep your eyes open.
+   [6E4] 0x5C620456F3632190: You already know your way around Oasis Landing? Great llamas! You really are an explorer!
+   [6E5] 0x323F7195AFC8C5C3: Fashion Distraction
+   [6E6] 0x8848EA8D2541921F: Buy something from a Clothing Pedestal.
+   [6E7] 0xCDD6C8546A00FB1B: How’d you like the HoloVenture? I haven’t seen a HoloVenture in years!
+   [6E8] 0xC966610246A4DD41: I didn’t expect you back so soon. I’m really busy trying to solve a complex temporal equation and should be done soon. In the meantime, why don’t you catch a HoloVenture at the Theater downtown? I hear the newest title is wonderful!
+   [6E9] 0x19A4C38F59F7A234: Idle Amusement
+   [6EA] 0x12E0D9270D1503C0: Go see a HoloVenture at the HoloVenture Theater.
+   [6EB] 0xD2F5F2C2C99084F6: I hope you picked a good drink flavor! Did you notice any unusual Nanite activity over there?
+   [6EC] 0x32255D8765A8F122: Ouch! Sorry, I just smacked the old gourd under the couch looking for…uhh, something. You look thirsty! Why don’t you a drink at the Cafeteria? I hear they’re so sugary and delicious that the place attracts Nanites from miles around!
+   [6ED] 0x1AAD4D83673CFE7D: Empty Calories
+   [6EE] 0x16799E01269279FD: Order a Synthesized Drink at the Cafeteria.
+   [6EF] 0xD8D3A2998238F391: No trace of Skippy at City Hall? Drat. Where else have I been these past few days?
+   [6F0] 0xDC1655F8674541FF: It’s time to come clean. My Nanite, Skippy, vanished days ago and I haven’t seen joint nor mandible of him since! I’ve had you retracing my steps. Could you please inspect the Lotto Records Archive at City Hall? Never mind why I was there!
+   [6F1] 0x158EDF7DACF9E526: Honesty is the Best Policy
+   [6F2] 0x9D626CF4B0657566: Check Lotto Records at the Oasis Landing City Hall.
+   [6F3] 0x5960000CB573572C: Well, that’s one less place my dear Skippy might be. He can’t have left Oasis Landing!
+   [6F4] 0xCF8D2D88999B5308: This problem is worse than I thought! I accidentally left a bit of important research data on Skippy’s hard drive. More than a bit: a few gigabytes, actually. He may have slipped out of my pocket during the Zero-G session. Go into the Zero-G chamber and find out!
+   [6F5] 0xC3797176A522D5C7: Lost in Zero-G
+   [6F6] 0xC7997C2117111E93: Experiment with Zero-G at the Observatory
+   [6F7] 0x95888CD18FE180EF: Oh Skippy, where could you be? Well, I hope you enjoyed the grinding gears of Arena Competitions.
+   [6F8] 0x9CE61A37A3B5A89D: Nanites, it’s been suggested, can establish hive minds with Bots of similar engineering. It’s possible Skippy made his way to the Bot Arena. He’d find friends there, and a wealth of power cells lying around. Head over and take in a competition, would you?
+   [6F9] 0x1405E36C022737C8: Bugs of a Feather
+   [6FA] 0xAAD90347D88F3B84: Attend a Bot Arena Competition.
+   [6FB] 0x7EA180303FDF44FA: Great woolly llamas, it’s Skippy! I can’t thank you enough for finding the little guy!
+   [6FC] 0x05E47FACF7875F8E: I’ve all but given up. He must just be drifting about Oasis Landing, lost and aimless. Oh, how I fear for little Skippy! It’s time for the brute force approach: get outside with a net and scoop up wild Nanites. I’ll know which is Skippy.
+   [6FD] 0x8C295A64DB577283: Catch {1.Number} Nanites.
+   [6FE] 0xC1F06D64FA501A11: Desperate Times, Desperate Measures
+   [6FF] 0x43F04B0D5622CBB1: Caught {0.Number} of {1.Number} Nanites.
+   [700] 0x50671B0362E87B05: You’ve mended an old man’s broken heart. Here’s the Holo Disc I promised you!
+   [701] 0x1AB8613112C229AB: You found my beloved Skippy! Why don’t you hurry back and bring him back to me. I’ll give you a Holo Disc for your troubles. That way, you’ll always have a friend with you no matter where you end up!
+   [702] 0x7988DFE2C9868E2A: Homeward Bound
+   [703] 0x0D43F6EA9E0625FA: Talk to the Time Traveler.
+   [704] 0xA081BDDFA598496B: Excellent! I’d take you for a colorful native myself. Now, get out there and explore!
+   [705] 0xC1E1ACA8CD75E3F1: Now that you’ve joined me in this wild Utopian timeline, it’s time I taught you my research methods. The first step when visiting any alternate reality is blending in with the natives. Here is some Rainbow Dew I extracted from a Delightfully Oversized Flower. Use it on yourself!
+   [706] 0xE4464EB71F48212D: If you don’t want my guidance while exploring this timeline, I’ll trust your instincts.
+   [707] 0x362E89B9CF67DF84: The Scientific Method
+   [708] 0xD86B9076C91A7A70: Use Rainbow Dew on yourself.
+   [709] 0x6A16ECD40DE31FC8: Thanks! With your gracious assistance, we might be able to figure out the Dew’s origins.
+   [70A] 0x01105BF2B99E789C: The Dew sample was biochemically fascinating! It’s a fine place to begin our investigation. We’ll need more samples from the local Delightfully Oversized Flowers. Any color will work. If a Delightfully Oversized Flower looks empty, you can sometimes get some Dew by shaking its base.
+   [70B] 0xD700B07D322BA000: Don’t want to get your hands messy, eh? Well, Science isn’t for the faint of heart.
+   [70C] 0x3FE7E4C01D7CD815: Collect {10.Number} Dews from Delightfully Oversized Flowers.
+   [70D] 0x515637C027643B13: Dewduction
+   [70E] 0xFEC69B99C6694E0F: Collected {0.Number} of {1.Number} Dews.
+   [70F] 0xA970CFE466D6D2AD: Looks like you had a great time! Here’s hoping it didn’t come with a cost…
+   [710] 0x01B2507F7FEFE203: In this Utopian timeline, Sims amuse themselves by hurling colorful Dew. Everyone winds up splattered and giggling like maniacs, but I wonder if the Dew carries any health risks? Go out in public and indulge in some Dewy delight. I’ll sample your plasma afterwards.
+   [711] 0x5FBB0700D03D61FB: Don’t enjoy being a guinea pig? Well, I don’t blame you. They don’t like it either.
+   [712] 0xB5B3D8C739DC1BF8: Throw Dew {1.Number} times at other Sims.
+   [713] 0xA36C85C72F3CC7D2: Clowning Around
+   [714] 0x550691BC6C7D8C32: Threw Dew at Sims {0.Number} out of {1.Number} times.
+   [715] 0x9FDBC2BF455CD9CA: Great woolly llamas, these snails are wonderful! Just look at those rainbow colors!
+   [716] 0xC82931149901AC7E: Good news, everyone! Well, just you. I couldn’t find even a trace of toxicity in that Dew, so we’re perfectly safe researching this timeline. The next step in your Science-y journey is critter collection! Troll the local ponds for these “Rainbow Snails” I’ve heard about.
+   [717] 0x80BABDB08B4B94F6: Explore Utopia by yourself, if you’d like. Some Sims must blaze their own paths.
+   [718] 0x0A8D3390AB33B761: Pondering Rainbow Snails
+   [719] 0xCCEBFDD4CA583CE1: Fish up some Rainbow Snails near floating flowers.
+   [71A] 0xAFD7AC44B81D163F: They just got angry, eh? Well, that’s perfectly consistent with the data we’ve gathered so far.
+   [71B] 0x7CDC3B4FB7E2F88D: Between Dew and Snails, we’ve covered Utopia’s ecology. But if putting Rainbow Dew in the atmosphere altered nature at the molecular level, how did it affect Sims? We’ll start with a simple emotional provocation. Accuse folks of Being too Rational and gauge their responses.
+   [71C] 0x22424D61CDDEC7C1: I understand you don’t want to upset other Sims, but it’s only for a science experiment.
+   [71D] 0x21E51496700A1CC6: Accuse {1.Number} Sims of Being too Rational.
+   [71E] 0x309069967798BB18: Anthropology and Apology
+   [71F] 0x06C6ED8586593834: Accused {0.Number} of {1.Number} Sims of Being too Rational.
+   [720] 0x1D014D7C622067BC: Good gracious, it worked! Whimsy gets transmitted at a 100% signal rate regardless of your molecular makeup.
+   [721] 0x2BB40361043A38F8: You’ve done wonderful work for me; it’s time to step up your inter-dimensional research. These folks Whimsy Waltz all day long, and it seems to be contagious! Embed yourself in the local population and see if Sims from your timeline can inspire the Whimsy Waltz organically.
+   [722] 0x9AA08E179E97F054: Is this an issue of confidence? I’m sure your Whimsy Waltzes won’t get rejected too often.
+   [723] 0x94C52C9D89EDD031: Inspire {1.Number} Sims to Whimsy Waltz.
+   [724] 0x61C1379D6D4E2317: Whimsical Conductivity
+   [725] 0x91B1A2E0C9833483: Inspired {0.Number} of {1.Number} Sims to Whimsy Waltz.
+   [726] 0x5533AFE9E05E2621: Look at that gold sparkle! I wonder if someone put them there, or if they just happened?
+   [727] 0x6DA20B81EE6794EF: Since we’ve found Utopian matter is both fundamentally different and wholly compatible with our own, try digging up a Rainbow Knoll. My instruments tell me they might contain valuable Simoleons! 
+   [728] 0xB3F1592282DAC0BF: You really don’t want to take money just lying there? I suppose your integrity is commendable.
+   [729] 0x34A665A82496A136: Simoleons for Science
+   [72A] 0x68401BEE36ACA716: Dig up a Pot of Gold.
+   [72B] 0x179700CCE0A664F2: Magnificent! Thank goodness Oasis Landing keeps such meticulous records when it comes to atmospheric phenomena.
+   [72C] 0xD02D53774FFFA0D6: I may have found a lead on the Wasteland’s Mysterious Door. The thing’s rumored to have fallen from the sky, and since it persists across dimensions we know it must have fallen before the timelines split. Scour the Stellar Observatory’s records for the answer.
+   [72D] 0x2F1D8070E56772AE: Looks like you’re already familiar with the mysteries of the Wasteland. I’ll be around to help research the Wasteland if you need it!
+   [72E] 0xF00AB65C7121E0E9: Buried in the Sand
+   [72F] 0x0F4B9E35872A6ED9: Check the Observatory’s Records.
+   [730] 0xA9096B84766A68C9: Thanks so much for digging out there! My back just isn’t up to it these days.
+   [731] 0x1C67A4A97DB38887: According to the Observatory records you found, two objects fell into the drying sea that night: a large craft that became the Mysterious Door, and a smaller object that exploded in the atmosphere. Dig for any traces of it by excavating Wasteland Dig Sites.
+   [732] 0x3106287488F5FE3E: Sweating for Science
+   [733] 0xF0E94129E2D1E3EE: Excavate Dig Site heaps in the Wasteland.
+   [734] 0x79BE3E9DD4C04624: I’m so pleased to see you feeling better! When you’ve rested, we’ve got pressing research to do.
+   [735] 0x4C41AFDDC1072D70: Great woolly llamas, you look unwell! I’ve heard some terrible diseases lurk in the Wasteland, left behind once the ocean dried. Inter-dimensional pathogens are a specialty of mine, but this is a local virus. Go to the Hospital; they’ll clear it up right away!
+   [736] 0x4AA4DA69361FAC3F: A Sickly Setback
+   [737] 0x940CF208E4C8541B: Get treated at the Hospital.
+   [738] 0x2424939880CB0873: My goodness, what a beauty! I can’t wait to get it near that Mysterious Door.
+   [739] 0xECB7D3F46653AC89: While you recovered from that ghastly illness, I was hard at work on your excavated samples. That exploded meteor in the past may actually have been an artifact to unlock the door! Comb the Wasteland for fragments; you’ll know them when you see them.
+   [73A] 0x31B52C86330F15AC: Assembling the Key
+   [73B] 0xB81CAF743F7D7D88: Collect and assemble Wasteland Key Fragments.
+   [73C] 0x5D3DAEE883789E4E: Oh, that’s how it works! That seems obvious in retrospect. I’m practically exploding with anticipation!
+   [73D] 0xF16FA4DB858D604A: Now that you’ve done the hard work to collect Key Fragments, it’s time for the fun part! Take the Assembled Key to the Mysterious Door. I’m not sure how to use it, but you’ve come a long way as an explorer. You’ll figure it out!
+   [73E] 0x6236F67B7EAB6635: To the Waste, with Haste
+   [73F] 0x693206726F8EE4C5: Insert the Assembled Key.
+   [740] 0xC3FA3E5047F33E75: Great rampaging gnomes! The Ship sounds so wonderful! Tell me about absolutely everything you saw in there.
+   [741] 0x26F74B3F2E24ADBB: You know what? As excited as I am to see what’s behind that door, in a craft from another world, I’ve decided to stay outside. You’ve done all the work to get us here and open this treasure trove; its contents should be yours alone.
+   [742] 0x8D290892F8C60A9A: Cracking the Seal
+   [743] 0xD6E65A51C3C166CA: Explore the Crashed Ship and report back to the Time Traveler.
+   [744] 0xF31352CDBFA564F1: Great woolly llamas, you’re brilliant! My readouts show the Dystopia timeline has reverted to its original state!
+   [745] 0x7503C12828AEF8DF: Since your fellow Sims’ collective belief in doomsday brought ruin about on its own, collective disbelief is the only thing that can undo Dystopia. Stopping the meteors isn’t enough; you must return to the community and convince them that the sky isn’t really falling.
+   [746] 0x0D2336CBBC4A4F64: Convince {1.Number} Sims that The Sky isn’t Falling.
+   [747] 0x40272BCBD8E9FB86: Reverse Psychology
+   [748] 0xA51880B78DDC9BC6: Convinced {0.Number} of {1.Number} Sims that the Sky isn’t Falling.
+   [749] 0xC6D845FC00F728A7: Thanks for attending the League of Concerned Doomsayers Meeting. I hope they had free coffee and donuts, at least.
+   [74A] 0x37C306E5496C7145: That worked better than I thought! Not only did we change the Earth’s gravitational pull to attract meteors, but a group called the League of Concerned Doomsayers sprung up. It looks like you’re on the right track to changing the Future! Go to their meeting and see how serious they are!
+   [74B] 0x147C32F398692FF9: Why wouldn’t you want to jump into a meeting of certified loonies? They have free coffee!
+   [74C] 0xE63732EB087CAB80: The League of Concerned Doomsayers
+   [74D] 0x54D20B774F078C8C: Attend a Doomsayers Meeting at City Hall.
+   [74E] 0xE306CE54F33737D2: Great work! After you talked to the community, I’ve been hearing meteor talk on every street corner.
+   [74F] 0x79963EC0EA4FBA36: Great wooly llamas! They really think the world is going to end? This is better than expected! I’m not sure there were enough people at the meeting to really start a movement. Go around town and spread the word that the Sky is Falling. Let’s get everyone thinking the end is near! 
+   [750] 0x5DB7C9E3E122BC4B: Convince {1.Number} Sims that The Sky is Falling.
+   [751] 0x90BBBCE3FDC265C9: Fire in the Skies
+   [752] 0x28074868A6D2C4B9: Successfully convinced {0.Number} of {1.Number} Sims that The Sky is Falling.
+   [753] 0xF7BD3EF490F19555: You were so convincing that, for a moment, I thought you really did despise the environment!
+   [754] 0x2305AFBA44C4351B: You’ve done it! The town is convinced the world really will end! It’s looking a little too clean around here. You should convince everyone to litter everywhere! If no one cares, I’m sure the Future will change for the worse! Successfully Joke about Trash Talking the Environment and let’s see how much garbage will pile up.
+   [755] 0xE967621F77D8B2F0: Trash Talk the Environment to {1.Number} Sims.
+   [756] 0xD7560F1F6D66EE7A: Pushing the Envelope
+   [757] 0x0792538DA7BB22AA: Successfully Trash Talked the environment {0.Number} of {1.Number} times.
+   [758] 0xA944604A761804F7: Isn’t the Meteor Magnet grand? I love using it to light up the night sky!
+   [759] 0x7D23B141923117F5: You want to change the Future for the worse? Let’s start by causing some destruction and mayhem! This old magnet I have should do the trick by attracting meteors to town. Take this Meteor Magnet and point it towards the sky to attract some meteors. It’s bound to garner some attention.
+   [75A] 0x98B06A002BBF9C0E: Use the Meteor Magnet {1.Number} times outside.
+   [75B] 0xAAF8BF003660A6D0: A Minor Indulgence
+   [75C] 0xE4D4E0A804D8A6FC: Used Meteor Magnet {0.Number} out of {1.Number} times.
+   [75D] 0xC56FE5EC012D14F6: Well, the Dew hasn’t melted you. I was slightly worried about that. How do you feel?
+   [75E] 0xD3ED8C90E4B1A122: Great llamas! This data confirms that my goopy Dew has the potential to unleash the inner whimsical side of Sims! Happy Sims will lead to a happy Future, right? First we need a test subject… Since I need to operate the scanner, let’s choose…. You! Don’t be scared, it’s for science!
+   [75F] 0x62706E86643E0E7D: Dewing a Trial Run
+   [760] 0x1DA2BF178BEC89FD: Use Dew on yourself.
+   [761] 0xC050BB7DA19D8B1B: Your Dewing spree created such emotional resonance that I was able to detect it even in here!
+   [762] 0x6B2E900BC5AD8D41: It works! Your readings were off the chart! Your quarks have acquired a distinctly whimsical spin, with only a small, colorful side effect! Just one Sim isn’t enough to make a difference – we need more! Take my whole stock of Dew and splash your fellow Sims with it.
+   [763] 0x94A1F79273C621FA: Use Dew {1.Number} times on other Sims.
+   [764] 0x6167E49256F8B234: Spreading Good Cheer
+   [765] 0x1A09FA3D726F13C0: Use Dew on Sims {0.Number} out of {1.Number} times.
+   [766] 0x4BD9F335ED0FE72C: It’s done! I can smell the joy descending on all Simkind. Here’s to peace and rainbow skies!
+   [767] 0x71555C9218A40308: I’ve been keeping track of your progress and sadly, just splashing a few Sims won’t do it. In the meantime, I’ve modified my last goop of Dew into an aerosol spray form. This’ll pack enough punch to affect a whole region! Hand it off to the local Military Base and their pilots will seed the atmosphere. 
+   [768] 0x0B3C9279A223E5C7: Planting Seeds of Joy
+   [769] 0xCEC29D377C6B2E93: Visit the Military Base.
+   [76A] 0x30FA96F81DB55F5C: Nothing makes me happier than a Scanner full of piping hot data. I’ll need further assistance soon.
+   [76B] 0x4A54230C2A481318: You want to make the Future a better place? If my cheerful calculations are correct, we can use this goopy stuff I call Dew to make everyone happier! Take this scanner I cobbled together and gather some data of Sims laughing to confirm my calculations.
+   [76C] 0x305218B44B98CA74: Altering the Future can have many unintended consequences. Let’s suspend our experiment on changing the Future.
+   [76D] 0x8F4E4955816738D1: Scan {1.Number} Sims while they laugh.
+   [76E] 0x5C4A545564C78BB7: Scanning for Smiles
+   [76F] 0x45BF4B15D9F72E23: Successfully scanned {0.Number} of {1.Number}  Sims while they laugh.
+   [770] 0xC5692FF2B14DA145: Those nerds know nothing of Time Travel, but a meteor shield might be within their… limited capabilities.
+   [771] 0xC4A2F7DA6A74F7EB: Our innocent, well-intentioned experiment has gone awry! Surprising how often that happens. The Future has become a filthy, polluted, meteor-scarred Dystopia! If we’re going to fix this, the meteors are priority one. Warn those “geniuses” at the Science Lab of the coming meteor-pocalypse.
+   [772] 0x1BD5CD81F7FB52E3: You think Sims have benefitted by living in a dangerous world with falling meteors and stinky trash piles? Tough to argue with you there!
+   [773] 0x3AD31958EB7A066A: Undoing Ruin
+   [774] 0x856FA49FA344453A: Visit the Science Lab.
+   [775] 0xD21FB7CCC44BFFB6: It seems I was wrong from the start. True happiness has to be earned, not granted.
+   [776] 0xB9804DC6CEE906E2: After much reflection, I don’t think we did the right thing in creating this Utopia. Sims’ flaws aren’t fixed, they’re just masked and nobody gets a chance to learn any hard lessons. We can undo the atmospheric seeding with this compound; do the right thing.
+   [777] 0x219BB474F7328F62: So you wanted to keep the Utopian Future a world a harmony and bliss? I can agree with you – it’s a wonderful place!
+   [778] 0x267DAB033187E23D: A Necessary Sacrifice
+   [779] 0x227B6109E4AA03BD: Visit the Military Base.
+   [77A] 0x29FD26E119D185A7: Play Evil
+   [77B] 0xBC85860C42FBC007: Play Extreme
+   [77C] 0x00D812A0CFA1238C: Nicely Play
+   [77D] 0xE3E2A162DDE52FAD: Play
+   [77E] 0x86B5632603CB430E: Assemble
+   [77F] 0xC360996B339A4180: Can't assemble Gnome. You need the following parts to assemble it:\n{0.String}
+   [780] 0xDBEAF26D5C32686A: Disassemble
+   [781] 0x93B73B4031718FA0: Llama TRN-115
+   [782] 0x93B73B4031718FA1: Llama GRX-965
+   [783] 0x93B73B4031718FA2: Llama MCH-043
+   [784] 0x93B73B4031718FA3: Llama ARC-021
+   [785] 0x93B73B4031718FA4: Llama VUL-009
+   [786] 0x40315F3B52371471: A Mech Gnome has been built and added to your inventory!
+   [787] 0xAC452BF4907A860D: A Mech Gnome was created!
+   [788] 0xC373F162CD3D0FE0: Only Bi-Ped Plumbots can use Windcarvers.
+   [789] 0x72CE9EC20D56AA19: Use Instead of Walking
+   [78A] 0x4A25B2D9BC92B04B: Don't Use Instead of Walking
+   [78B] 0x09E16AD09594366B: {0.SimName} must have a jetpack in {MA.his}{FA.her} inventory.
+   [78C] 0xB1C5DC021FB3FB26: Select your Destination
+   [78D] 0x863F6F932018FE77: Fly to Lot
+   [78E] 0xEAA9CD25967E1BFB: Fly to Community Lot
+   [78F] 0xDD353A8957A51914: Fly to Residential Lot
+   [790] 0x5DA04E9030A9AAA2: There isn't enough open space to fly around here!
+   [791] 0x342228EFD3398BA9: Start Using Jetpack
+   [792] 0x4040063106D7D8F7: Stop Using Jetpack
+   [793] 0xB55F62D286776E7A: Wearing Jetpack
+   [794] 0x4E5C8ABFFB0961BF: There is no Plumbot Competition Arena to compete in
+   [795] 0x0D95206793A0AB11: {0.SimFirstName} found this Nanite too challenging to sucessfully reverse engineer.
+   [796] 0x5AB2B5F7A40FA3C8: You have successfully reverse engineered a {0.String} Nanite.
+   [797] 0x4069801EC3437097: You have successfully reverse engineered {0.String} Nanite and received {1.String}.
+   [798] 0xDF0C16B8BB0D19E9: You have successfully reverse engineered a {0.String} Nanite and received the following: {1.String}.
+   [799] 0xFF0F0643174BBF38: All of your time travelers are dead or gone! Your family's urn stones have been moved to a local mausoleum, and it's time to reload or go back to your home world.
+   [79A] 0xCB883F724EC16418: Level
+   [79B] 0x771827AF820AF8E6: Warning! If you have games with Sims currently in the Future, they will become disabled. If you want to keep playing these saves, cancel uninstallation, reload the save and return the Sims back to home neighborhood, then uninstall. Any content that requires this Expansion Pack will be deleted and may be lost forever. Would you like to continue with the uninstall?
+   [79C] 0x64A974FA3133E23E: You currently have one or more expansion packs for The Sims™ 3 installed. Uninstalling %@ may cause those expansion pack(s) to no longer function correctly unless you update your game online via The Sims™ 3 Launcher. Do you wish to continue uninstalling %@?
+   [79D] 0xB968609F87526056: The Sims™ 3 Into the Future Install
+   [79E] 0xB180A131D24DE3B5: The Sims™ 3 Into the Future Installer
+   [79F] 0xB9716ABEC21A69FE: Print
+   [7A0] 0x997FBE06DC3B65EC: Do you want to completely remove the selected application and all of its features?
+   [7A1] 0xE337F4A9287537E5: Cannot create this Trait Chip.
+   [7A2] 0xE93E20018B1B4915: Components
+   [7A3] 0xD812E1DB7CBE9E8A: Create Trait Chip
+   [7A4] 0x49155EBA9E718595: All Schematics
+   [7A5] 0xCEBA03498572DAD2: Required Components Present
+   [7A6] 0x0DA2416696584C13: Schematic
+   [7A7] 0xE0C46E650E8F6713: Show Unknown Schematics
+   [7A8] 0xA30919CAF0182C61: Unlearned Schematic
+   [7A9] 0xC4A9402A0957A446: Name
+   [7AA] 0x576A552C3766D8AF: Voice
+   [7AB] 0x3A349FF9097A1FF7: Gender OS
+   [7AC] 0xF8F6635A59718D0F: Arms
+   [7AD] 0x1A59A7C070221F93: Basics
+   [7AE] 0x0544286E5758B4E0: Bi-Ped
+   [7AF] 0xDFFFE15A4B98533A: Body
+   [7B0] 0x1D29EF5A6E635D38: Eyes DNT
+   [7B1] 0xACD9F65A2EDBD16C: Head
+   [7B2] 0xC4B4F23DBBB93134: Hover
+   [7B3] 0xCDE7905A412073E5: Legs
+   [7B4] 0xA36A17D7EF49AB63: Synthesizing Recipes...
+   [7B5] 0xF6F1E6EB9A2E3909: Calibrating Nanites...
+   [7B6] 0xA36A17D7EF49AB60: Integrating Trait Chips...
+   [7B7] 0xA36A17D7EF49AB61: Bending Time and Space...
+   [7B8] 0xA36A17D7EF49AB66: Charging Plumbots...
+   [7B9] 0xA36A17D7EF49AB67: Materializing Holographs...
+   [7BA] 0xA36A17D7EF49AB64: Repairing Time Continuum...
+   [7BB] 0xA36A17D7EF49AB65: Engaging Tube Elevators...
+   [7BC] 0xA36A17D7EF49AB6A: Automating Plumbots...
+   [7BD] 0xA36A17D7EF49AB6B: Measuring Singularity...
+   [7BE] 0xC5AD86FE6669EF93: There can only be one lot assigned as a Community Living Center. Please change the existing Community Living Center's lot type before continuing.
+   [7BF] 0xF52A3BC1714C3026: You cannot change active household when travelling through time.
+   [7C0] 0x7DE49DFE42BCC0EB: There is currently no Community Living Center. One must be created before returning to game.
+   [7C1] 0x25E75CD05241E8FC: No game disc found! Please insert The Sims™ 3 Into the Future disc before proceeding.
+   [7C2] 0x2D76800CB4CAE7D8: No game disc found! Please insert The Sims™ 3 Into the Future disc before proceeding.
+   [7C3] 0xB6B786920903D587: Earn enough Lifetime Happiness and purchase the Time Remote! This will allow you to instantly change the future to whichever of the three alternate timelines you’d like.
+   [7C4] 0x7DAF31255183D455: The Bot Shop is the place to buy and sell Plumbots. A higher quality Plumbot will fetch more Simoleons when being sold!
+   [7C5] 0xB6B786920903D584: Time Sickness can be fatal, so be sure to head over to the Hospital for a cure. A higher Advanced Technology skill will reduce the chance of getting Time Sickness.
+   [7C6] 0xB6B786920903D585: Be careful when syphoning power with a Plumbot! There’s a chance it could break your appliance!
+   [7C7] 0xB6B786920903D582: Want a place of your own to live in while at Oasis Landing? Use the Real Estate services on your phone to purchase a home.
+   [7C8] 0xB6B786920903D583: Is your Sim having a bad dream while using the Dream Pod? Choose Influence Dream while they’re dreaming and their nightmare could turn into a pleasant dream!
+   [7C9] 0xB6B786920903D580: Sims with low Advanced Technology skill aren’t familiar with the exotic future technology and will experience more failures. Gaining a higher Advanced Technology skill will reduce the amount of failures.
+   [7CA] 0xB6B786920903D581: The Base Camp at Oasis Landing is your futuristic home away from home! Stay for as long as you’d like and enjoy its amenities.
+   [7CB] 0xB6B786920903D58E: The futuristic city of Oasis Landing is bustling with activity. The Bot Arena and Gallery Shop are local favorites, but adventurous types will love the Wasteland.
+   [7CC] 0xB6B786920903D58F: Want to build the Advanced Technology skill faster? Go into the future and you’ll see a rapid increase in the Advanced Technology skill. 
+   [7CD] 0xFD95C9BD567C9D3F: Oasis Landing
+   [7CE] 0x4CF2A25B04C80B2C: Oasis Landing
+   [7CF] 0xE8CA3D262DB87FE9: Oasis Landing
+   [7D0] 0x89B53A326A1D0DD2: ©2013 Electronic Arts Inc.
+   [7D1] 0x49A25641B206A8C2: Into the Future
+   [7D2] 0x748434130F3DC897: The Sims™ 3 Into the Future Team
+   [7D3] 0xED9A18D72D1D4475: Recording courtesy of Epic Records under license from Sony Music Entertainment
+   [7D4] 0x897A720F4F55FF0B: Performed by Bonnie McKee
+   [7D5] 0xC0191BCEE012E5B1: Published by Kobalt Music Publishing, Downtown Music Publishing and Copyright Control
+   [7D6] 0xF0D01F469973092E: Written by Bonnie McKee, Oliver Goldstein, Garret Lee and Alex Drury
+   [7D7] 0xD1D351CC0A703C03: Recording courtesy of Ghostly International
+   [7D8] 0x479FD64AE8AADB89: Performed by Gold Panda
+   [7D9] 0x5DA27D15C257C7E7: Published by Domino US Publishing Company (SESAC)
+   [7DA] 0x57B5C37F6C9C79F0: Written by Derwin Dicker 
+   [7DB] 0x187005A2234C39E2: Recording courtesy of Domino Records
+   [7DC] 0xB76BAD08F1B74ABE: Performed by The Child of Lov
+   [7DD] 0x1D7500EA49F8415C: Published by Domino Publishing Company USA (ASCAP)
+   [7DE] 0x70362016B03AF38B: Written by Martjin Teerlinck 
+   [7DF] 0x3B7F184A51C1004A: Written and recorded by Ali Chu
+   [7E0] 0x9F6007CB40491CDA: Written and recorded by Charlton Pettus
+   [7E1] 0x86901C11D04D2EB4: Recording courtesy of DFA Records
+   [7E2] 0x0D104A4AF5ED48A8: Performed by YACHT
+   [7E3] 0x02F9C0E7B0D8CD56: Published by Do Androids Dream of Electric Music (ASCAP) and I Learned from Watching Grunge (ASCAP) both administered by Domino Publishing Company USA (ASCAP)
+   [7E4] 0xB1632D5641DBA5D1: Written by Jonathan Bechtolt and Claire Evans
+   [7E5] 0x03A79DB22302902A: Recording courtesy of Carpark Records
+   [7E6] 0x8EEF037E44C00336: Performed by Young Magic
+   [7E7] 0xCB9CEFB8CB96A3A4: Published by Domino Publishing Company of America, Inc. (BMI)
+   [7E8] 0x7A24E79AF3DD0DA3: Written by Isaac Gerasimou and Laura Malay 
+   [7E9] 0xDBB796ECB41CA505: Recording courtesy of Warner Music UK by arrangement with Warner Music Group Video Game Licensing
+   [7EA] 0x2206F449233B1A5B: Performed by Charli XCX
+   [7EB] 0x107344CFD62760C1: Published by EMI Foray Music (SESAC), Lion of God Publishing administered by Kobalt Music Publishing America, Inc. and Heavy Duty/Mind the Mood administered by Downtown DLJ Songs
+   [7EC] 0x1C31E22CA6AD995E: Written by Charlotte Aitchison, Ariel Rechtshaid and Justin Raisen
+   [7ED] 0xF0ED45AB306615EB: Written and recorded by James Iha
+   [7EE] 0x2A2AA28F27DAABC0: By Arrangement with Bank Robber Music 
+   [7EF] 0x6ABF4CAE3D1210C6: Courtesy of Thrill Jockey Records
+   [7F0] 0x2534878ED4595ADA: Performed by Date Palm
+   [7F1] 0x475A3AC94359E1A8: Published by Religion of Now
+   [7F2] 0x9A1C126E0A8D0A1F: Written by Marielle Jakobsons and Gregg Kowalsky
+   [7F3] 0xC23216B5E1B2236B: Sims that are not in the Future cannot be moved in with you.
+   [7F4] 0xFEBDF4E11B0BA9B7: Schematic Components
+   [7F5] 0x2A93128CEEDF3FB6: Bot Making Skill Level
+   [7F6] 0xD3511509F1D92F4D: Trait Chip Schematic
+   [7F7] 0x31C48F93B0712A62: Show or Hide Unknown Schematics
+   [7F8] 0x259DB4786505DB8D: How changing the past can affect your Descendants.
+   [7F9] 0x1939D8D36BCF8D6B: Show Descendants.
+   [7FA] 0x918AC8B9C8809B54: Arms
+   [7FB] 0x987AA3F7FCBF8FFD: Hands
+   [7FC] 0x423673D75A784E02: Eyes
+   [7FD] 0xA3B322D7924FFCE2: Head
+---

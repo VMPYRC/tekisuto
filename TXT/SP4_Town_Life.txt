@@ -1,0 +1,127 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x79) ---
+   [00] 0x3598BB305716C532: The Sims™ 3 Town Life Stuff
+   [01] 0x33A934E2EB0F95DA: The Sims™ 3 Town Life Stuff Install
+   [02] 0x6A4D8A29A7E12FF5: The Sims™ 3 Town Life Stuff Installer
+   [03] 0x2AA5517C4D368962: Print
+   [04] 0x28F7426E66151650: Do you want to completely remove the selected application and all of its features?
+   [05] 0x274D7CF95A447E1A: Scrumptious Nibbles Café
+   [06] 0xEAD5ED27CE092ABE: Containing just the right amount of room for the essential classics, the Poetic License Bookshelf is designed for a serious book collection without wasting space on pop fiction or other unworthy tomes.
+   [07] 0x4B7FE2F44224CAF8: This exquisitely designed bookshelf makes the perfect statement for a book collector. With ample storage for both standard and oversized books, you'll never be without a special place for that special classic. Your collection could almost increase in value just by bringing this beauty into your home.
+   [08] 0xBCB6D4637D45CD53: Grab your favorite book, sit back and relax in the plush comfort of this oversized chair. The Hyperbole feels as big as a king-sized bed but is small enough to fit in your favorite reading nook.
+   [09] 0x35803334E58E2AB0: You'll spend hours considering your next move with this tournament quality Grandmaster Chess Set. Even if you're not a contender on the chess circuit, you can still be grandmaster of your own house. 
+   [0A] 0x9A3A705534AD74D6: Strong and attractive. That's how you like them and that's how we make them. The Geometric Column exudes powerful, yet graceful elegance. It's not bad at supporting a roof either.
+   [0B] 0x4ABFEB41F2AA188D: Is it a book or is it a computer? With this laptop by BlingByte, Inc. you never have to ask the question. The FolioBit 791A offers the latest in bleeding edge technology while maintaining the stunning profile of a special edition novel. It's a winning combination!
+   [0C] 0x77A35CD05734F195: The lovely geometric design of this door was the result of computer generated technology, virtually guaranteeing a unique pattern that cannot be replicated by mere Sims. The computer simulated aesthetics are proven to be 98.5362 percent more pleasing compared to designs crafted without the use of artificial intelligence.
+   [0D] 0xAC07E7B6F798AF8D: Featuring a sleek abstract pattern created from two  complementary materials, this double door always welcomes you home.
+   [0E] 0x38C7B2B26D932603: The soothing sound of clothes gently rolling in this dryer may lull you to sleep. Take a gentle break and get chores done at the same time. Your clothes will smell fantastic and you'll feel refreshed too!
+   [0F] 0x918F2286CF2D23C1: The most elite, efficient, exciting and powerful exercise machine on the market.  The Power Burn Station provides an intense workout that's sure to maximize your fitness. The Power Burn Station is so advanced there aren't enough adjectives to describe it. It's just that good.
+   [10] 0x045C1BD2DB6D0D44: When you gaze upon this beautiful flowing sculpture, you may want to keep a few tissues close at hand. The stunning grace of this piece could bring you to tears. Tissues will also be useful to mop up the mist from your glasses or clothes.
+   [11] 0x2824DE8ED3FEB19C: This industrial-strength clothing hamper is built to withstand the strongest clothing odors, from the sweat-stained tank tops of a marathon runner to the perspiration soaked t-shirts of your busy teenage son. The perfume-infused construction materials guarantee that your hamper will smell fresh as a posey no matter what it contains!
+   [12] 0xE159BBA405C844BD: Your kids will have so much fun with this fine product, they'll never want to come home. And the cute cottage design will act as a home away from home. You'll have to drag them away! Always make your kids feel at home with the Sunny Bungalow Jungle Gym.
+   [13] 0xF24EA8F14EA8D3C5: Happiness is a warm slide; a Sunny Bungalow Slide! Kids will adore the cute design and parents will love the no-stick coating. It's fun for the whole family!
+   [14] 0x82D671465247327D: When you need a concentrated light source focused on the task at hand, you need an Ionu Spot Light.  Shadows disappear instantly when you power up this light. It's like having 1000 suns in your ceiling. Now that's power! 
+   [15] 0x7B1614BE468F1B20: Shining like a thousand twinkling stars, the Star Bryte will light your pathway home. It's lighting and safety all wrapped into one! Can any other light do this? Maybe, but this one will look great on your lawn too.
+   [16] 0x22C5D4209941D03A: No sophisticated Sim could be satisfied with just a single light when they can have three in a singular form. This triplet of lights will illuminate from every angle, creating a poetry of light that will bounce around every corner of your most elegantly furnished room.
+   [17] 0x248BAF0D2408AFB8: Why confine your lighting apparatus to just a single bulb, sadly hanging from the ceiling? With the Lotsa Watts Lighting, every square inch of your wall will be filled with watts and watts of light. No corner of the room can escape the darkness when your wall blazes forth with glorious light!
+   [18] 0xE45C6A398CF2E045: Does this situation sound familiar to you? You're in the middle of a workout, pumping away at those triceps, biceps, and thigh sets. Suddenly, your mind goes blank and you forget the lowest impact way to work out those glutes! Hang this helpful poster on the wall and the perfect workout will always be just a glance away!
+   [19] 0x537117B66FDB8B42: The timeless Classic Stanza Pedestal will stand strong and tall throughout the generations. Its generous flat surface stands ready to hold up the weight of your heaviest stone-carved bust or statue. This ultimate decor platform will surely only enhance the classiness of your pieces!
+   [1A] 0x025C0E0FC5A789B4: Few Sims have the arm span to hug this sandbox starring Mr. Octo, but that doesn't stop them from trying! Your child will spend endless afternoons exploring, building, and destroying sand settlements in this sea-themed sandbox. It's so cute that adults are jealous of the fun children will have with this playground accessory.
+   [1B] 0x25CABDF9CBB73278: Invade your child's playground with this terrifying(ly cute) dragon and turn their play place into a land of mythical beasts. Their playtime imagination will run wild when this guy pokes his head out of the sand and unleashes a reign of sandy terror upon the helpless playground village!
+   [1C] 0x26572FA635F9A31C: Keep this Workout Gear close at hand and you'll always be prepared whenever you feel the need to recreationally perspire. This stripped down kit provides the bare essentials for sweating through your favorite workout, whether it is jogging, weight training, or llama jumping. You supply the sweat, and we'll supply the gear!
+   [1D] 0x23A8984BFA8F362C: Give your personal palace a touch of military precision when you incorporate the Right Angle Brigade into your home decor. This elite decorative formation features bends at proper intervals and adds a uniform appearance to your abode.
+   [1E] 0x44C3054A757A0A04: Indoors or outdoors, you'll appreciate the artistic sensibility that the Curvaceous Square piece brings to your living space. Designer Artus Geometrus describes the piece as a confluence of straight lines and circles held in a perfect geometric balance. The resulting structure integrates these disparate components into a single elegant piece.
+   [1F] 0x15F33FF9EA4A04F3: Madam Middlebury is perhaps best known as the most prolific, yet failed poet of this century. Of her 13190 known poems, only "Summertime Whales and Other Mammals I admire" has been published. Madam Middlebury continues to write an average of 20 works of poetry each day. This sculpture is dedicated to her achievements.
+   [20] 0x9719B9CC43AF783C: When you want to look smart but don't want to waste your time reading, simply install this shelving unit in your den or study. The pre-supplied book decorations look so real you could fool a librarian. You'll never have to turn a page again.
+   [21] 0xD1ADFE9C3944BD84: Ancient settlers used to roll towels and hang them on shelves to bring good luck and happiness when moving into a new home.  Stop tempting fate and bring one of these home today!
+   [22] 0x71AA976D32666759: Hang this glowing sign outside your business, and customers from far and near will know that they've found a laundry time respite. Based on the international symbol for "Laundromat," this sign will have universal appeal no matter where your patrons originate from!
+   [23] 0xEC37C5A3A924ACCC: It's a seat, it's a small room, it's a complete party planning system! The Circulation Center Sectional Seating System can be rearranged 143 different ways to suit your every need. Specially cushioned to minimize sound, these seats make a great containment pod for your favorite budding musician.
+   [24] 0xDB7167C90EBF7DC8: It's a seat, it's a small room, it's a complete party planning system! The Circulation Center Sectional Seating System can be rearranged 143 different ways to suit your every need. Specially cushioned to minimize sound, these seats make a great containment pod for your favorite budding musician.
+   [25] 0x22DF380EC8775515: It's a seat, it's a small room, it's a complete party planning system! The Circulation Center Sectional Seating System can be rearranged 143 different ways to suit your every need. Specially cushioned to minimize sound, these seats make a great containment pod for your favorite budding musician.
+   [26] 0x12E0B0EBE9362A1F: It's a seat, it's a small room, it's a complete party planning system! The Circulation Center Sectional Seating System can be rearranged 143 different ways to suit your every need. Specially cushioned to minimize sound, these seats make a great containment pod for your favorite budding musician.
+   [27] 0x60546F0EEB8290E9: It's a seat, it's a small room, it's a complete party planning system! The Circulation Center Sectional Seating System can be rearranged 143 different ways to suit your every need. Specially cushioned to minimize sound, these seats make a great containment pod for your favorite budding musician.
+   [28] 0xC1CF8D0E90FC8073: It's a seat, it's a small room, it's a complete party planning system! The Circulation Center Sectional Seating System can be rearranged 143 different ways to suit your every need. Specially cushioned to minimize sound, these seats make a great containment pod for your favorite budding musician.
+   [29] 0x73399FE8FA2B0080: Made from cast iron and coated with a special proprietary polyblend, this industrial strength laundry tub can withstand water, dust, grime, calcium deposits and so much more.  Get scrubbing with the E2.10 Standing Laundry Tub. You'll love chores now!
+   [2A] 0xC36F29EE094510C1: Your smallest sea explorer will delight in springing their way through the ocean of their imagination on the back of this salty seahorse. They'll spend hours imagining themselves as a mythical MerSim, clutching the spines of a tamed seahorse. Their wild underwater adventures will take them deep into the ocean, jumping from kelp frond to kelp frond as they chase the elusive Robot Fish from its lair!
+   [2B] 0x90455B3CD3737C9E: This multipurpose table is ready to host your dinner party or cradle your computer during a late-night round of studying. Solid wood construction and triple-balanced to ensure no wobbles, the Dining Table of Contents is sure to be at the front of your shopping list.
+   [2C] 0x30A39A1E894CEAC8: Optional table for the Circulation Center adds even more versatility.
+   [2D] 0xC10D39816D5AEF54: The Finish Line Max 3000 understands your fitness needs and adjusts your personalized program automatically. No more guesswork about speed or incline settings because it does the thinking for you!  And with the Stead-E tread belt system, you'll be sure every mile is smooth running. Don't think, run to the Finish Line!
+   [2E] 0x4B9558C0E32CDC92: Finally, your kids can have a cozy cottage they can call their own! Your smallest home dweller will spend hours engaging in fanciful domestic playtime under the gabled roofs of their own domicile. From playing "house" to tea parties, your child's adventures will be limited only by their imagination.
+   [2F] 0x39856CFF50097A53: Command your clothes clean with the Spin 'n Sparkle Elite Washing Machine. The extra large tub can hold up to 34 towels, or more if you really shove them in. Go ahead and try.  Optional service contracts available for a low annual fee.
+   [30] 0xD1118E3F93A781D6: Let the light shine in through this large window made from the finest Unda-Flextion reflection materials. Keeps the light in but the heat out. Includes several models and designs for home and business needs.
+   [31] 0x8292EE7D5A9C8972: Paying homage to a popular architectural design from days past, this window is sure to be a colorful addition to your home. Everything is better with bubbles!
+   [32] 0x103264F46F309D5B: Scrumptious Nibbles Café
+   [33] 0x2225A1E4A43A1893: Poetic License Bookshelf
+   [34] 0x89252679D0629673: Poetic Justice Bookshelf
+   [35] 0xD6698A087419BEA2: The Hyperbole
+   [36] 0x706EE9556DFAABB1: Grandmaster Chess Set
+   [37] 0x0C2004C21E68D27B: Geometric Column
+   [38] 0x5A83EB7C3FEE3390: FolioBit 791A Laptop
+   [39] 0xB503285F29338714: Prodedural Generation Door
+   [3A] 0x7AF4CC7ED903B324: Waves of Grain Door
+   [3B] 0x37C1B97E214F8A26: Spin 'n Tumble Elite Dryer
+   [3C] 0xDB13F8F91CD57A9A: Power Burn Station
+   [3D] 0x3815E008ABED835B: Eternal Bloom Splendor Fountain
+   [3E] 0x5F96574EC8D13D61: Fresh and Frozen Express Grocer
+   [3F] 0x5811B8C1946058AD: Mr. Crunches Fitness 
+   [40] 0x02C78CB6FFF10E03: Smell-B-Gone Containment Hamper
+   [41] 0x802CAE14B8C095B0: Sunny Bungalow Jungle Gym
+   [42] 0xBA076F384F5742A8: Sunny Bungalow Slide
+   [43] 0x0C82A40FB53C21CF: Sudsy Time Laundry
+   [44] 0x9AB61BE401D4681D: Noble Tome Library
+   [45] 0x2E12E761FBF02E5A: Ionu Spot Light
+   [46] 0x63B691A63B0EE913: Star Bryte
+   [47] 0x5F408E52DC295E79: Tercet Lamp
+   [48] 0xA2519BE45CDB65E1: Lotsa Watts Lighting
+   [49] 0x12B20C685FFC32CE: Workout Safety Quik-Tips
+   [4A] 0x8B9FDBEAC513D2A6: Ray of Sunshine Park
+   [4B] 0x9BBB95A6C143D12F: Classic Stanza Pedestal
+   [4C] 0xD9D75270D4CA040D: So Cute I Could Hug It Octopus Sandbox
+   [4D] 0xB50228C89A54207A: Par Excellence Preparatory School
+   [4E] 0xA05E1CAB09ACA373: Skip the Fearless Sand Dragon
+   [4F] 0xEB1C1607A7207253: Workout Gear
+   [50] 0xAC69305051DEB54B: Right Angle Brigade
+   [51] 0x5B3E1C84C49C1B93: Curvaceous Square
+   [52] 0x9A6410ECB8F88CF6: Ode to Middlebury
+   [53] 0x332530665FEA0047: Writer's Block Shelf
+   [54] 0xF77DB98AEA6444CF: Thianpre Decorative Shelving
+   [55] 0x7330D72F15B0DEB0: Sudsy Sign
+   [56] 0x669E355C96F311E3: Circulation Center Sectional Seating
+   [57] 0x4FFA726F70E10189: Circulation Center Sectional Seating
+   [58] 0x89A1ADB80871FB48: Circulation Center Sectional Seating
+   [59] 0x3D6FBF230EB12BF0: Circulation Center Sectional Seating
+   [5A] 0x4C2C76B7E566C074: Circulation Center Sectional Seating
+   [5B] 0xE80A68B83DAC9EBA: Circulation Center Sectional Seating
+   [5C] 0x718AF5D48BECBB43: E2.10 Standing Laundry Tub
+   [5D] 0x19F08951E23DCC26: Snappin' Seahorse Spring Rider
+   [5E] 0xC01979B7900AE313: Dining Table of Contents
+   [5F] 0x7AE749997FC86073: Circulation Center Matching Table
+   [60] 0x946152947E9A6D6C: asdf
+   [61] 0xDE59CAB0813842FB: Finish Line Max 3000
+   [62] 0x99F658ADBE75CF91: Sunny Bungalow Clubhouse
+   [63] 0x9EBABC66F668F94C: Spin 'n Sparkle Elite Washing Machine
+   [64] 0x6F1D190E91E2A82E: 
+   [65] 0x7B852551CF81FF85: Really Big Pane
+   [66] 0x9C429805587DFD67: Return to Bubbles
+   [67] 0x4C9AFC40139A2516: 
+   [68] 0xD795584465E1A53C: We are unable to verify that your disc is a valid copy of The Sims 3 Town Life Stuff. Please contact customer service.
+
+   [69] 0x6B1B2B21039FE248: No game disc found! Please insert The Sims 3 Town Life Stuff game disc before proceeding.
+   [6A] 0xD32BCB47CEF0B24C: ©2011 Electronic Arts Inc.
+   [6B] 0xD03ACB38E8A6CCC7: Stacking Books
+   [6C] 0x7AB418B3536DF615: Climbing Treehouses
+   [6D] 0x7AB418B3536DF614: Folding Towels
+   [6E] 0x7AB418B3536DF617: Pumping Iron
+   [6F] 0x7AB418B3536DF616: Digitizing Novels
+   [70] 0xD03ACB38E8A6CCC4: Adjusting Incline
+   [71] 0xD03ACB38E8A6CCC5: Waxing Slide Surface
+   [72] 0xD03ACB38E8A6CCC2: Sizing Shirt Collars
+   [73] 0xD03ACB38E8A6CCC3: Curling Dumbells
+   [74] 0xD03ACB38E8A6CCC0: Alphabetizing Books
+   [75] 0xD03ACB38E8A6CCC1: Assembling Playground
+   [76] 0xD03ACB38E8A6CCCE: Burning Calories
+   [77] 0xD03ACB38E8A6CCCF: Boosting Detergent
+   [78] 0x59B925E670D2C3DB: The Sims™ 3 Town Life Stuff Team
+---
