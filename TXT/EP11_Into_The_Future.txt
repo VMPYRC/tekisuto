@@ -1492,7 +1492,7 @@ Unknown3: 0x00000000
    [5CF] 0xD4F99FC9D2E93990: HandiBot
    [5D0] 0xFD2D2F53B822FC3B: Save your wrists the strain of a wrench! This chip lets your house robot repair any machine.\n\n• Handiness Skill is raised to maximum.\n• Enables all home maintenance interactions.\n• Plumbot takes the initiative to repair appliances on its own.
    [5D1] 0xD0496D462B428185: Holo Projector
-   [5D2] 0xD470F9F0EAA5F1EE: Missing your friends from other timelines or distant worlds? Laser Emitted Illusory Anthroprojection technology allows Plumbots to render holographic Sims in incredibly lifelike detail. \n\n• Projects your choice of Sims from other timelines or distant worlds. \n• Socialize and have fun with your best inter-dimensional buddies!
+   [5D2] 0xD470F9F0EAA5F1EE: Missing your friends from other timelines or distant worlds? Laser Emitted Illusory Anthroprojection technology allows Plumbots to render holographic Sims in incredibly lifelike detail.\n\n• Projects your choice of Sims from other timelines or distant worlds.\n• Socialize and have fun with your best inter-dimensional buddies!
    [5D3] 0xE04F4C8E4294D759: Simulated Emotions
    [5D4] 0xCCB3866A2F5D1332: Who couldn’t use a friend? Equip your Plumbot with a full range of human emotions!\n\n• Activates the Social and Mood meters.\n•Grants access to three different Emotional Modes: Happy, Sad, and Angry.\n• Enables interactions to thoroughly express any emotion at any time.
 
