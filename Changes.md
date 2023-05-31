@@ -13,12 +13,24 @@
   + \n means New / Next Line
   + \n\n means 2 new lines
 
-# Planned Changes
-
-## v0.0.x - Double Spaces - PLANNED
+## v0.0.2 - Double Spaces
 
 + Removed all double spaces
 + Removed all triple spaces
++ Exceptions
+  + Slider for University Term Limit
+    + 6                       12                       18
+    + 12                      24                       36
+  + Message in a bottle
+    + "4  8  15  16  23  42"
+    + "Do you like me?\nCheck one: [  ]yes [  ]no"
+
+# Planned Changes
+
+## v0.0.x - New Lines - PLANNED
+
++ Removed all unnecessary new lines
++ Replaced all necessary new lines with \n
 
 ## v0.0.x - Dot Dot Dot - PLANNED
 
@@ -62,16 +74,39 @@
 | What do you want / wish   | What would you like |
 | Do you want / wish        | Would you like      |
 |                           |                     |
+|                           |                     |
+|                           |                     |
+|                           |                     |
 
 ## v0.0.x - Text Fixes 1 - PLANNED
 
 + Sports Writer
++ Total simoleons spent making items: {0.Money}\nTotal money collected: {1.Money}\nTotal profit: {2.Money}
++ Repeated words
+  + might might
+
+## v0.0.x - Spelling 1 - PLANNED
+
++ Success
++ Receive
++ Your'll
++ 
++ -
 
 ## v0.0.x - Maybe fix ? - PLANNED
 
 + Bullet points: •
 
+## v0.0.x - DNT - PLANNED
+
++ PLACEHOLDER DESCRIPTION DNT
++ DNT
++ DO NOT TRANSLATE
++ TRASNLATE
+
 ## v0.0.x - ? - PLANNED
+
++ -
 
 ## Other
 

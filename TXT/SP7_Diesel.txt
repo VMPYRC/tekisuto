@@ -33,7 +33,7 @@ Unknown3: 0x00000000
    [1C] 0x36105AB0298C4259: Xraydio 2 Disc
    [1D] 0x15DA5EDECF501A38: Pylon Chain Glam Table
    [1E] 0xCCA40C8674C0CE0F: Xraydio 1 Razza Side Table
-   [1F] 0x3E2B09B8A8C6CB9B: We are unable to verify that your disc is a  valid copy of The Sims™ 3 Diesel Stuff.  Please contact customer service.
+   [1F] 0x3E2B09B8A8C6CB9B: We are unable to verify that your disc is a valid copy of The Sims™ 3 Diesel Stuff. Please contact customer service.
    [20] 0x25187D751AE95FD7: No game disc found! Please insert The Sims™ 3 Diesel Stuff game disc before proceeding.
    [21] 0x66FC92DF0BE9522E: Stitching Denim
    [22] 0xE87FBF013D76A41A: Fitting Attitudes
