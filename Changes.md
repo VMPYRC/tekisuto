@@ -25,12 +25,19 @@
     + "4  8  15  16  23  42"
     + "Do you like me?\nCheck one: [  ]yes [  ]no"
 
-# Planned Changes
-
-## v0.0.x - New Lines - PLANNED
+## v0.0.3 - New Lines
 
 + Removed all unnecessary new lines
 + Replaced all necessary new lines with \n
++ Exceptions
+  + AllOpportunities
+
+    (ByDefault,TheTargetIsTheSetupObject,IfThereIsOne)
+  + AllOpportunities
+    
+    (ObjectPlacedInInventoryAfterAcceptingOpportunity,SimsAreAssignedAsTargetOfOpportunity)
+
+# Planned Changes
 
 ## v0.0.x - Dot Dot Dot - PLANNED
 

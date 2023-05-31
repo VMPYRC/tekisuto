@@ -107,7 +107,6 @@ Unknown3: 0x00000000
    [66] 0x9C429805587DFD67: Return to Bubbles
    [67] 0x4C9AFC40139A2516: 
    [68] 0xD795584465E1A53C: We are unable to verify that your disc is a valid copy of The Sims 3 Town Life Stuff. Please contact customer service.
-
    [69] 0x6B1B2B21039FE248: No game disc found! Please insert The Sims 3 Town Life Stuff game disc before proceeding.
    [6A] 0xD32BCB47CEF0B24C: ©2011 Electronic Arts Inc.
    [6B] 0xD03ACB38E8A6CCC7: Stacking Books

@@ -74,7 +74,6 @@ Into the ocean of fun rode the cool speedboats!
    [042] 0x1561ABD48EEF5FDD: The Guardian has watched over the land since the beginning of time.
    [043] 0x4ABCB50230ED3A05: Fresh produce and aged meats!
    [044] 0x6C2E79D820A0D192: Sims take note: You cannot drive your houseboat anywhere without one of these! It will just be a house. (With a market niche like this, we don’t need fancy advertising)
-
    [045] 0xAE0A6EE072BCC924: Our physicians are top notch, and our nurses are always ready with a smile! 
    [046] 0x3161F906F1CD4FD9: Why swim with the sharks when you can relax with jets? High quality filtration and luxurious seats ensure you’ll feel pretty tonight.
    [047] 0x30C36B39E71DDABA: Tired of ‘bladder failing’ into the pool all the time to help to warm it up? Well, now – wait, what do you mean no one does that? Of course everyone does! I mean... right?
