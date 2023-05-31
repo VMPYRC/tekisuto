@@ -1,7 +1,6 @@
 # tekisuto
 
 + STBL / Text Changes for The Sims 3
-+ [Submit Issues & Suggestions Here](https://github.com/VMPYRC/tekisuto/issues)
 
 ## Use STBL
 
@@ -10,6 +9,7 @@
 3. Move the folder to `Documents\Electronic Arts\The Sims 3\Mods`
 4. Can be placed in `Packages` OR `Overrides`
 5. Play + Enjoy
+6. [Submit Issues & Suggestions Here](https://github.com/VMPYRC/tekisuto/issues)
 
 ## STBL Files Used
 
