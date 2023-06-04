@@ -787,9 +787,9 @@ Unknown3: 0x00000000
    [30E] 0x17A2CBF92071225B: Howard Memorial Library
    [30F] 0x9213771C878A5E58: 25 Frames Cinema
    [310] 0x014AC80CE06D67D7: Keith’s Komics
-   [311] 0xEEF522CE090A6ADC: Saltbox Sally - 3 br, 1.5 ba
-   [312] 0xEEF522CE090A6ADF: Dedham Domicile - 3 br, 3.5 ba
-   [313] 0xEEF522CE090A6ADE: Regal Ranch - 2 br, 2 ba
+   [311] 0xEEF522CE090A6ADC: Saltbox Sally
+   [312] 0xEEF522CE090A6ADF: Dedham Domicile
+   [313] 0xEEF522CE090A6ADE: Regal Ranch
    [314] 0x8D685D7872E9C713: Senior Lake Park
    [315] 0xD5E713FFBEAAD66C: Dive n’ Splash Pool
    [316] 0xDD143EFFC24FFACF: University Quad
@@ -797,27 +797,27 @@ Unknown3: 0x00000000
    [318] 0x4F4D98FDC09F6F2F: Busche School of Science
    [319] 0xF17846EC744FA19D: School of Science Proving Ground
    [31A] 0x6158469634CBAD00: Woodland Park
-   [31B] 0x7DEBD019DCB0D257: Family Fortress - 4 br, 2 ba
-   [31C] 0x7DEBD019DCB0D254: Modest Manse - 4 br, 2 ba
-   [31D] 0x7DEBD019DCB0D255: Commuter Comforts - 4 br, 3 ba
-   [31E] 0x7DEBD019DCB0D252: Boxy Bastion - 4 br, 3.5 ba
-   [31F] 0x7DEBD019DCB0D253: Cascading Chateau - 5 br, 4.5 ba
-   [320] 0x7DEBD019DCB0D250: Middlebrow Minuteman - 4 br, 2.5 ba
-   [321] 0x7DEBD019DCB0D251: Albert’s Aerie - 4 br, 3.5 ba
-   [322] 0x7DEBD019DCB0D25E: Middle Manor - 4 br, 3 ba
-   [323] 0x7DEBD019DCB0D25F: Wharton Whaling House - 4 br, 4 ba
-   [324] 0x7DEBD119DCB0D429: Groton Grotto - 2 br, 1.5 ba
-   [325] 0x7DEBD119DCB0D428: Peabody Palace - 2 br, 1 ba
-   [326] 0x7DEBD119DCB0D42B: Lincoln Lodge - 4 br, 3 ba
-   [327] 0x7DEBD119DCB0D42A: Lowell Lawns - 2 br, 2 ba
-   [328] 0x7DEBD119DCB0D42D: Melville Manor - 3 br, 2 ba
-   [329] 0x7DEBD119DCB0D42C: Revere Redoubt - 2 br, 2 ba
+   [31B] 0x7DEBD019DCB0D257: Family Fortress
+   [31C] 0x7DEBD019DCB0D254: Modest Manse
+   [31D] 0x7DEBD019DCB0D255: Commuter Comforts
+   [31E] 0x7DEBD019DCB0D252: Boxy Bastion
+   [31F] 0x7DEBD019DCB0D253: Cascading Chateau
+   [320] 0x7DEBD019DCB0D250: Middlebrow Minuteman
+   [321] 0x7DEBD019DCB0D251: Albert’s Aerie
+   [322] 0x7DEBD019DCB0D25E: Middle Manor
+   [323] 0x7DEBD019DCB0D25F: Wharton Whaling House
+   [324] 0x7DEBD119DCB0D429: Groton Grotto
+   [325] 0x7DEBD119DCB0D428: Peabody Palace
+   [326] 0x7DEBD119DCB0D42B: Lincoln Lodge
+   [327] 0x7DEBD119DCB0D42A: Lowell Lawns
+   [328] 0x7DEBD119DCB0D42D: Melville Manor
+   [329] 0x7DEBD119DCB0D42C: Revere Redoubt
    [32A] 0x9484EF0CB47782FF: Just-a-Park
    [32B] 0x7F437C80D43F1CF9: Tri-Fruhm Sorority
    [32C] 0x97BE28C5A12358DA: B’s Bowlarama
    [32D] 0xD5F8843650A6B75B: Schmidt Memorial Stadium & Annex
-   [32E] 0x1944776C481BA02F: Russet Ranch - 1 br, 1 ba
-   [32F] 0x1944776C481BA02C: Frome’s Cabin - 1 br, 1 ba
+   [32E] 0x1944776C481BA02F: Russet Ranch
+   [32F] 0x1944776C481BA02C: Frome’s Cabin
    [330] 0x1AC2787FEC60BE5C: Conners Student Union Building
    [331] 0x29A4780AC4FE5239: Aaron
    [332] 0xB6B1B3653A2CD22C: Abigal

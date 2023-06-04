@@ -699,7 +699,7 @@ Unknown3: 0x00000000
    [2B6] 0xAEA51C03AA68907B: Hogan’s Deep-Fried Diner
    [2B7] 0xE262CC568C126AFC: Mike's Cornerstore
    [2B8] 0x4C6098799FE73D5E: Plumbob Pictures Backlot
-   [2B9] 0xA72E86264974B382: Crescent Bay Plaza - 1br, 1ba
+   [2B9] 0xA72E86264974B382: Crescent Bay Plaza
    [2BA] 0x604F20A709E8C3F0: Public School 67
    [2BB] 0xE6A2A4E60A190D02: Landgraab Marine Science Facility
    [2BC] 0xF1FA369E47093192: Wilki’s Fabulous Books and Bath
@@ -717,49 +717,49 @@ Unknown3: 0x00000000
    [2C8] 0x01D3CCCD10679325: Bridgeport Public Library
    [2C9] 0xCD6502AE12E56AAA: The True Modern Art Gallery
    [2CA] 0x89E7EA0D72FA496A: The Grind
-   [2CB] 0x1C436377E96C0B21: Civil Suites - 1br, 1ba
-   [2CC] 0x8FFBE165972043CE: Air Spray - 2br, 2ba
+   [2CB] 0x1C436377E96C0B21: Civil Suites
+   [2CC] 0x8FFBE165972043CE: Air Spray
    [2CD] 0x4B22F743C27A34C7: Floodgate Apartments
-   [2CE] 0xA19EFB46D06A7ADF: Raised Eyebrows - 4br, 5 ba
-   [2CF] 0x855B34386DE219F5: Celluloid Heights - 2 br, 2.5 ba
-   [2D0] 0x6BFE4BC5F929CB89: Rhapsody in Blue - 1br, 1ba
+   [2CE] 0xA19EFB46D06A7ADF: Raised Eyebrows
+   [2CF] 0x855B34386DE219F5: Celluloid Heights
+   [2D0] 0x6BFE4BC5F929CB89: Rhapsody in Blue
    [2D1] 0x4211C7DDD2C83AD8: Landgraab Brownstone
-   [2D2] 0xE7D4F28C882E237C: Mint Julia - 1br, 1ba
-   [2D3] 0x40780D20D1B4BDFA: Cliff Cottage - 1br, 2 ba
-   [2D4] 0x7C06403590AB5289: Back to the Fuscia - 1br, 1ba
-   [2D5] 0xEFC524E76F3F7029: Off White House - 3br, 3ba
-   [2D6] 0xE6CB21F3F4EFC5C2: Crib – 4br, 4ba
-   [2D7] 0x5A647D3304800DEE: Ocean View Apartments - 1br, 1ba
-   [2D8] 0x399D2B7E57ADB19C: Bachelor Tower - 1br, 1ba
-   [2D9] 0xE5ABF512DFDC363E: Bridgeport Arms - 1br, 1ba
-   [2DA] 0x9F3AE5362E64E13A: Hieroglyph Condos - 1br, 1.5ba
-   [2DB] 0x98A78EEBA499EF67: Glenview Manor - 2br, 1ba
-   [2DC] 0x9A5E722975B68F90: One Leo Center - 2br, 2ba
-   [2DD] 0xA6000220EFC5B394: Founders Keep - 1br, 1ba
-   [2DE] 0xB6193FF998030620: Crescent Bay Pied a Terre - Studio, 1ba
+   [2D2] 0xE7D4F28C882E237C: Mint Julia
+   [2D3] 0x40780D20D1B4BDFA: Cliff Cottage
+   [2D4] 0x7C06403590AB5289: Back to the Fuscia
+   [2D5] 0xEFC524E76F3F7029: Off White House
+   [2D6] 0xE6CB21F3F4EFC5C2: Crib
+   [2D7] 0x5A647D3304800DEE: Ocean View Apartments
+   [2D8] 0x399D2B7E57ADB19C: Bachelor Tower
+   [2D9] 0xE5ABF512DFDC363E: Bridgeport Arms
+   [2DA] 0x9F3AE5362E64E13A: Hieroglyph Condos
+   [2DB] 0x98A78EEBA499EF67: Glenview Manor
+   [2DC] 0x9A5E722975B68F90: One Leo Center
+   [2DD] 0xA6000220EFC5B394: Founders Keep
+   [2DE] 0xB6193FF998030620: Crescent Bay Pied a Terre
    [2DF] 0x457BAF3817B7CA0C: Steve’s Business Complex and Restaurant
-   [2E0] 0xA5B2163E96C03850: Veranda Villas - Loft, 1ba
-   [2E1] 0xB7A7EF3EA11A658B: Bridgeport Armory - 3br, 1ba
-   [2E2] 0x27F326476D6CD969: Powell House - Studio, 1ba
-   [2E3] 0x58893AFA845DEC45: The Simerset - 1br, 1ba
-   [2E4] 0x2C309C1AB2ACF6F4: Maloney Tower - Studio, 1ba
-   [2E5] 0xE2F38734FE774293: Beachwood Springs - Studio, 1ba
-   [2E6] 0x080135EB4207875A: The Gentry - 1br, 1ba
-   [2E7] 0x431DD72970D910D6: Founders Peace - Studio, 1ba
-   [2E8] 0x72CB6B71C9371887: Two Leo Center - 1br, 1ba
-   [2E9] 0xE8B1CD2D0541B97B: Terpsichore Studios - 3br, 1ba
-   [2EA] 0xBFE988306B6E58DB: Trawler Lodge - 6br, 2ba
-   [2EB] 0xEC805B267245B419: Off Ramp - 4br, 1ba
-   [2EC] 0xAD3C63ED1DECED52: Breach House - 2br, 1ba
-   [2ED] 0xCE4942E186D94DA2: The Tidewater - 2br, 2ba
-   [2EE] 0x5F1C20FCE0796F84: Sanguine Arms - 1br, 1ba
-   [2EF] 0x560929A995CCA0EC: The Glass Pillar - 1br, 1ba
-   [2F0] 0x1C8EF6CB4E99410E: Cabin Point – 1br, 1ba
-   [2F1] 0x157B412E88FDFDF8: The Eaves - 2br, 2ba
-   [2F2] 0x6087BD2595F6E26F: Sugar Cube – Loft, 2ba
-   [2F3] 0x865A703F334F1BE6: Metropolitan View – 2br, 4ba
-   [2F4] 0xAA76126FCC09A403: Still Water - 3br, 4ba
-   [2F5] 0x2A35DFC761CA35BA: I can’t believe it’s not Buttercup – 1br, 1ba
+   [2E0] 0xA5B2163E96C03850: Veranda Villas
+   [2E1] 0xB7A7EF3EA11A658B: Bridgeport Armory
+   [2E2] 0x27F326476D6CD969: Powell House
+   [2E3] 0x58893AFA845DEC45: The Simerset
+   [2E4] 0x2C309C1AB2ACF6F4: Maloney Tower
+   [2E5] 0xE2F38734FE774293: Beachwood Springs
+   [2E6] 0x080135EB4207875A: The Gentry
+   [2E7] 0x431DD72970D910D6: Founders Peace
+   [2E8] 0x72CB6B71C9371887: Two Leo Center
+   [2E9] 0xE8B1CD2D0541B97B: Terpsichore Studios
+   [2EA] 0xBFE988306B6E58DB: Trawler Lodge
+   [2EB] 0xEC805B267245B419: Off Ramp
+   [2EC] 0xAD3C63ED1DECED52: Breach House
+   [2ED] 0xCE4942E186D94DA2: The Tidewater
+   [2EE] 0x5F1C20FCE0796F84: Sanguine Arms
+   [2EF] 0x560929A995CCA0EC: The Glass Pillar
+   [2F0] 0x1C8EF6CB4E99410E: Cabin Point
+   [2F1] 0x157B412E88FDFDF8: The Eaves
+   [2F2] 0x6087BD2595F6E26F: Sugar Cube
+   [2F3] 0x865A703F334F1BE6: Metropolitan View
+   [2F4] 0xAA76126FCC09A403: Still Water
+   [2F5] 0x2A35DFC761CA35BA: I can’t believe it’s not Buttercup
    [2F6] 0x3FC5C52F7469E917: Maloney Tower Station
    [2F7] 0x3FF2A32F74909DD7: Powell House Station
    [2F8] 0x3FF5A12F7492D07C: Simerset Station

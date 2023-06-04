@@ -585,39 +585,39 @@ Wood is not an uncommon material for a dining table, but why do so few dining ta
    [243] 0xDC91662E4ECCEC4F: Varg's Tavern
    [244] 0x609DE58E1C64F38F: Stone Troll Fishing Hole
    [245] 0xA6ED8AB0C5D44088: The Toadstool
-   [246] 0xCD704953A51EC364: Modern Mansion – 5br, 5ba
-   [247] 0xCD704953A51EC367: Desirable Classic - 2br, 2.5 ba
-   [248] 0xCD704953A51EC366: Victoria’s Victorian Home - 4br, 4.5ba
-   [249] 0xCD704953A51EC361: Quaint House – 2br, 2.5 ba
-   [24A] 0xCD704953A51EC360: Stunning Revival – 3 br, 3ba
+   [246] 0xCD704953A51EC364: Modern Mansion
+   [247] 0xCD704953A51EC367: Desirable Classic
+   [248] 0xCD704953A51EC366: Victoria’s Victorian Home
+   [249] 0xCD704953A51EC361: Quaint House
+   [24A] 0xCD704953A51EC360: Stunning Revival
    [24B] 0x91A5E1BEA40C82C5: Playful Playground
-   [24C] 0xA1597AA4F061F5AF: Pleasant Place - 4br, 4 ba
-   [24D] 0xA1597AA4F061F5AC: Witch’s Cove - 5br, 3.5ba
-   [24E] 0xA1597AA4F061F5AD: Massively Massive Mansion - 3br, 3ba, 3hb
-   [24F] 0xA1597AA4F061F5AA: Spacious Revival - 4br, 3ba
-   [250] 0xA1597AA4F061F5AB: Manufactured Magnificence - 2br, 1ba
-   [251] 0xA1597AA4F061F5A8: The Humble House - 1br, 1ba
-   [252] 0xA1597AA4F061F5A9: Great Greek - 2br 1.5ba 
-   [253] 0xA1597AA4F061F5A6: Lap of Luxury - 4br, 4.5ba
-   [254] 0xA1597AA4F061F5A7: Quaint Settlement - 2br, 2ba
-   [255] 0xA1597BA4F061F761: Refined Elegance - 3br, 2ba
-   [256] 0xA1597BA4F061F760: Mellow Manor - 5br, 3ba
-   [257] 0xA1597BA4F061F763: Country Living - 2br, 2.5 ba
-   [258] 0xA1597BA4F061F762: Dionysus’ Dwelling - 1br, 1.5ba
-   [259] 0xA1597BA4F061F765: Abundant Richness - 5br, 3.5ba
-   [25A] 0xA1597BA4F061F764: The Tree House - 2br, 1ba
-   [25B] 0xA1597BA4F061F767: Outdoorsman’s Delight - 2br, 2.5ba
-   [25C] 0xA1597BA4F061F766: Minimally Modern – 2br, 2ba
-   [25D] 0xA1597BA4F061F769: The Bay View - 2br, 1.5ba
-   [25E] 0xA1597BA4F061F768: Graceful Getaway - 4br, 3ba
-   [25F] 0xA15978A4F061F208: Petite Mansion - 4br 4.5ba
-   [260] 0xA15978A4F061F209: Efficient Abode - 1br,1ba
+   [24C] 0xA1597AA4F061F5AF: Pleasant Place
+   [24D] 0xA1597AA4F061F5AC: Witch’s Cove
+   [24E] 0xA1597AA4F061F5AD: Massively Massive Mansion
+   [24F] 0xA1597AA4F061F5AA: Spacious Revival
+   [250] 0xA1597AA4F061F5AB: Manufactured Magnificence
+   [251] 0xA1597AA4F061F5A8: The Humble House
+   [252] 0xA1597AA4F061F5A9: Great Greek
+   [253] 0xA1597AA4F061F5A6: Lap of Luxury
+   [254] 0xA1597AA4F061F5A7: Quaint Settlement
+   [255] 0xA1597BA4F061F761: Refined Elegance
+   [256] 0xA1597BA4F061F760: Mellow Manor
+   [257] 0xA1597BA4F061F763: Country Living
+   [258] 0xA1597BA4F061F762: Dionysus’ Dwelling
+   [259] 0xA1597BA4F061F765: Abundant Richness
+   [25A] 0xA1597BA4F061F764: The Tree House
+   [25B] 0xA1597BA4F061F767: Outdoorsman’s Delight
+   [25C] 0xA1597BA4F061F766: Minimally Modern
+   [25D] 0xA1597BA4F061F769: The Bay View
+   [25E] 0xA1597BA4F061F768: Graceful Getaway
+   [25F] 0xA15978A4F061F208: Petite Mansion
+   [260] 0xA15978A4F061F209: Efficient Abode
    [261] 0xE0DBBAE477CA5345: Moonlight Point
-   [262] 0x0212075E01CC3157: Comfortable Classic – 2br, 1ba
-   [263] 0x0212075E01CC3154: Stately Starter - 1br, 1ba
-   [264] 0x0212075E01CC3155: Cozy Retreat – 1br, 1ba
-   [265] 0x0212075E01CC3152: Affordable Elegance - 2br, 1ba
-   [266] 0x0212075E01CC3153: The Craftsman’s Mansion – 2br, 1ba
+   [262] 0x0212075E01CC3157: Comfortable Classic
+   [263] 0x0212075E01CC3154: Stately Starter
+   [264] 0x0212075E01CC3155: Cozy Retreat
+   [265] 0x0212075E01CC3152: Affordable Elegance
+   [266] 0x0212075E01CC3153: The Craftsman’s Mansion
    [267] 0x008B97C11DCE9F67: Red Velvet Lounge
    [268] 0xCB4A7A398A5FD4AC: Crumplebottom
    [269] 0xC768B1F228B9CBBA: The three Crumplebottom sisters have very little in common with one another, and yet they have never been able to live apart. They feel right at home in Moonlight Falls, which, like their family, is full of drama and magic. Will these three witches ever find balance and serenity, or are they destined always to express their love for each other through a combination of trickery and shouting?

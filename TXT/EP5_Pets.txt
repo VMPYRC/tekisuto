@@ -882,37 +882,37 @@ Unknown3: 0x00000000
    [36D] 0x916E686E711392F7: Crestview School and Stadium
    [36E] 0x31256557673332D6: Hangman's Tree National Historic Landmark
    [36F] 0xDD06FE6906FEDB19: Darris Teeter Art Theater
-   [370] 0x8E30C7FF2AEF5DE9: Brookside - 1br, 1ba
-   [371] 0x99FEEFFEE992DBE8: Cave Canem - 1br, 1.5ba
-   [372] 0xA85B54DB28D587E2: Cliffside Haven - 1br, 1.5ba
-   [373] 0x8F9DECA48489DE71: Clydesdale Ranch - 4br, 3ba
-   [374] 0x62A42B809A00B8E3: Curley Copse - 1br, 1ba
-   [375] 0x8C368EEF2682687E: Hydrangea House - 1br, 1ba
-   [376] 0xD9657681E97CDC91: Little River House - 2br, 1ba
-   [377] 0xF74BE3BF36E3B32A: Mesa View Farm - 3br, 3ba
-   [378] 0x5E44EC2C62925AC3: Metropole Manor - 3br, 1ba
-   [379] 0xBB404610453138F1: Pacer Place - 1br, 1ba
-   [37A] 0x6DD5D1C74D1F09EB: Paddington House - 3br, 2ba
-   [37B] 0xE289AFC32BB5CC4F: Park Palace - 5br, 2ba
-   [37C] 0x3BF2B9F0A768CF22: Park Vista - 2br, 1ba
-   [37D] 0x7743C7FFE88AEC18: Pergola Place - 1br, 1ba
-   [37E] 0x85C5C6BA13AA1316: Pinto Palazzo - 1br, 1ba
-   [37F] 0x57229179805FBC12: Place Royale - 4br, 2ba
-   [380] 0xB21C2901C643999D: Playa Vista - 2br, 1ba
-   [381] 0xE7624EF9844724B7: Private Property - 1br, 1ba
-   [382] 0x5EB2B20B4EA2C65C: Six Gable Stables - 2br, 2.5ba
-   [383] 0xB7B3F6990732B65B: Still Water Run - 1br, 2ba
-   [384] 0x4B29A4FE454933F2: Sunflower Shack - 1br, 1ba
-   [385] 0x720C03282847421E: Super Suburban - 2br, 1ba
-   [386] 0x48EEFE82B8D346A0: The Lexington - 4br, 2ba
-   [387] 0x2D6C806335352129: The Madison - 1br, 1ba
-   [388] 0x932B66D8BC4E6313: The Painted Lady - 1br, 1.5ba
-   [389] 0x04885276723307AD: The Rancheroo - 2br, 2ba
-   [38A] 0xA559365A45E08CA8: The Render Farm - 2br, 2.5ba
-   [38B] 0xAE43D126079DA2CC: Trotter Cottage - 3br, 3ba
-   [38C] 0x817B5383AB669374: Turnkey Trot - 1br, 1ba
-   [38D] 0xDAB5BE47C90EF51C: Twitterhaven - 2br, 1ba
-   [38E] 0x8EB742ABE3837ED8: Wellspring - 3br, 2ba
+   [370] 0x8E30C7FF2AEF5DE9: Brookside
+   [371] 0x99FEEFFEE992DBE8: Cave Canem
+   [372] 0xA85B54DB28D587E2: Cliffside Haven
+   [373] 0x8F9DECA48489DE71: Clydesdale Ranch
+   [374] 0x62A42B809A00B8E3: Curley Copse
+   [375] 0x8C368EEF2682687E: Hydrangea House
+   [376] 0xD9657681E97CDC91: Little River House
+   [377] 0xF74BE3BF36E3B32A: Mesa View Farm
+   [378] 0x5E44EC2C62925AC3: Metropole Manor
+   [379] 0xBB404610453138F1: Pacer Place
+   [37A] 0x6DD5D1C74D1F09EB: Paddington House
+   [37B] 0xE289AFC32BB5CC4F: Park Palace
+   [37C] 0x3BF2B9F0A768CF22: Park Vista
+   [37D] 0x7743C7FFE88AEC18: Pergola Place
+   [37E] 0x85C5C6BA13AA1316: Pinto Palazzo
+   [37F] 0x57229179805FBC12: Place Royale
+   [380] 0xB21C2901C643999D: Playa Vista
+   [381] 0xE7624EF9844724B7: Private Property
+   [382] 0x5EB2B20B4EA2C65C: Six Gable Stables
+   [383] 0xB7B3F6990732B65B: Still Water Run
+   [384] 0x4B29A4FE454933F2: Sunflower Shack
+   [385] 0x720C03282847421E: Super Suburban
+   [386] 0x48EEFE82B8D346A0: The Lexington
+   [387] 0x2D6C806335352129: The Madison
+   [388] 0x932B66D8BC4E6313: The Painted Lady
+   [389] 0x04885276723307AD: The Rancheroo
+   [38A] 0xA559365A45E08CA8: The Render Farm
+   [38B] 0xAE43D126079DA2CC: Trotter Cottage
+   [38C] 0x817B5383AB669374: Turnkey Trot
+   [38D] 0xDAB5BE47C90EF51C: Twitterhaven
+   [38E] 0x8EB742ABE3837ED8: Wellspring
    [38F] 0x09CDDC5592F5238D: Bedlington
    [390] 0x6ABC3F2771012388: Bird Sisters
    [391] 0x3671E2E8048F5419: Blackburn

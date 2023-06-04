@@ -930,33 +930,33 @@ Unknown3: 0x00000000
    [39D] 0xD0FAEEA39C850850: Pleasant Meadows Cemetery
    [39E] 0xCC3E61D1D2DD2DC2: Oasis Landing Community Hospital & Science Center
    [39F] 0xD8AD9CF1032A6E69: The Lending Library
-   [3A0] 0x26A7CFF558DE412E: Auspicious Atoll - 3 br, 3.5 ba
-   [3A1] 0x26A7CFF558DE412D: Argonaut Arcological Mansion – 3 br, 3ba
-   [3A2] 0x26A7CFF558DE412C: Austere A-Frame – 1 br, 1 ba
-   [3A3] 0x26A7CFF558DE412B: “The Campus” - 5 br, 6 ba, 2 hb
+   [3A0] 0x26A7CFF558DE412E: Auspicious Atoll
+   [3A1] 0x26A7CFF558DE412D: Argonaut Arcological Mansion
+   [3A2] 0x26A7CFF558DE412C: Austere A-Frame
+   [3A3] 0x26A7CFF558DE412B: "The Campus"
    [3A4] 0xBBA9C15B0AC1AE9A: Playful Public Pool
    [3A5] 0x97C678218759AC7D: The Utopian
    [3A6] 0x473F78C87C501DC7: Nuts n’ Bolts Bot Emporium
-   [3A7] 0x6C9B378E2957FAA1: Terrarium Tower – 2 br, 3 ba
-   [3A8] 0x6C9B378E2957FAA2: Cellato Coronarium – 3 br, 4 ba
-   [3A9] 0x6C9B378E2957FAA3: Cubion Solo Home – 1 br, 1.5 ba
-   [3AA] 0x6C9B378E2957FAA4: The Terrace – 1 br, 1 ba
-   [3AB] 0x6C9B378E2957FAA5: Terra Verdantis Family Home – 1 br, 2 ba
-   [3AC] 0x6C9B378E2957FAA6: Harborial Habitat – 3 br, 3.5 ba
-   [3AD] 0x6C9B378E2957FAA7: Ehrlich’s Sustainable Estate – 2 ba, 2 br, 2 hb
-   [3AE] 0x6C9B378E2957FAA8: Ephrem’s Ancestral Plot – 4 br, 2.5 ba
-   [3AF] 0x6C9B378E2957FAA9: Isla Profecto Vacation Home – 3 br, 2 ba, 2 hb
-   [3B0] 0x6C9B388E2957FC73: The Hot Pad – 3 br, 3.5 ba
-   [3B1] 0x6C9B388E2957FC72: Comfort Capacitor – 3 br, 4 ba
-   [3B2] 0x6C9B388E2957FC71: Natural Nursery – 3 br, 3 ba
-   [3B3] 0x6C9B388E2957FC70: Panopticon Luxury Home – 3 br, 3 ba
-   [3B4] 0x6C9B388E2957FC77: Lodge on a Ledge – 1 br, 1 ba
-   [3B5] 0x6C9B388E2957FC76: Island in the Sun – 2 br, 2 ba
-   [3B6] 0x6C9B388E2957FC75: The Humboldt – 3 br, 2 ba
-   [3B7] 0x6C9B388E2957FC74: Jairo’s Homestead – 3 br, 1 ba
-   [3B8] 0x6C9B388E2957FC7B: Amorous Abode – 2 br, 1 ba
-   [3B9] 0x6C9B388E2957FC7A: The Bunkhouse – 5 br, 4.5 ba
-   [3BA] 0x6C9B398E2957FDC6: The Opulent Domain – 1 br, 1.5 ba
+   [3A7] 0x6C9B378E2957FAA1: Terrarium Tower
+   [3A8] 0x6C9B378E2957FAA2: Cellato Coronarium
+   [3A9] 0x6C9B378E2957FAA3: Cubion Solo Home
+   [3AA] 0x6C9B378E2957FAA4: The Terrace
+   [3AB] 0x6C9B378E2957FAA5: Terra Verdantis Family Home
+   [3AC] 0x6C9B378E2957FAA6: Harborial Habitat
+   [3AD] 0x6C9B378E2957FAA7: Ehrlich’s Sustainable Estate
+   [3AE] 0x6C9B378E2957FAA8: Ephrem’s Ancestral Plot
+   [3AF] 0x6C9B378E2957FAA9: Isla Profecto Vacation Home
+   [3B0] 0x6C9B388E2957FC73: The Hot Pad
+   [3B1] 0x6C9B388E2957FC72: Comfort Capacitor
+   [3B2] 0x6C9B388E2957FC71: Natural Nursery
+   [3B3] 0x6C9B388E2957FC70: Panopticon Luxury Home
+   [3B4] 0x6C9B388E2957FC77: Lodge on a Ledge
+   [3B5] 0x6C9B388E2957FC76: Island in the Sun
+   [3B6] 0x6C9B388E2957FC75: The Humboldt
+   [3B7] 0x6C9B388E2957FC74: Jairo’s Homestead
+   [3B8] 0x6C9B388E2957FC7B: Amorous Abode
+   [3B9] 0x6C9B388E2957FC7A: The Bunkhouse
+   [3BA] 0x6C9B398E2957FDC6: The Opulent Domain
    [3BB] 0xA0E5C9626400EE48: Miner’s Park
    [3BC] 0xA0E5C9626400EE4B: Water Werks Park
    [3BD] 0xA0E5C9626400EE4A: Twin Fountain Park

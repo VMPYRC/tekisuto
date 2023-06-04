@@ -958,16 +958,16 @@ Unknown3: 0x00000000
    [3B9] 0xCD6BBE9239C8E686: With ample living space beneath its steep alpine roof, this Summer Cottage has been attracting visitors during the warm months for many years. Perhaps it’s time for less seasonal guests...
    [3BA] 0xA3DA1FBF3928A1CE: Shootin’ the breeze is easier from a porch and even more fun when drinkin’ your favorite cold beverage. ‘Course for that you needs a ‘fridgerator. So when given the chance to build anywhere in the swamp, this place seems like the most logical locale.
    [3BB] 0xF3C878181CD48453: This sweet home is a sugary confection ideal for the young couple. We’d think the stork would be making a delivery to this house very soon.
-   [3BC] 0xD361F7F66C1255CD: Ambitious House - 2 br, 1.5 ba
-   [3BD] 0xF6F1A50490463305: Blue Moon Bungalow - 1 br, 1 ba
-   [3BE] 0x6F603ED8E13DDF7F: Blown with the Breeze - 3 br, 1.5 ba
-   [3BF] 0x30BD81FD97F45AA2: Classic Façade - 3 br, 2 ba
-   [3C0] 0x77C344B95FAFEFAB: Classy Crib - 4 br, 3 ba
-   [3C1] 0x3F1F432AF762F379: Entitled House - 2br, 2 ba
-   [3C2] 0x32ECAECB833F03C2: Keystone House - 1 br, 1.5 ba
-   [3C3] 0x1E0DF570B993B29D: Summer Sleepover - 2 br, 1.5 ba
-   [3C4] 0xC022DDD3D85FC84F: The Swamper - 1 br, 1 ba
-   [3C5] 0x7B3A95D00FB65192: Wedding Cake Cottage - 2 br, 1 ba
+   [3BC] 0xD361F7F66C1255CD: Ambitious House
+   [3BD] 0xF6F1A50490463305: Blue Moon Bungalow
+   [3BE] 0x6F603ED8E13DDF7F: Blown with the Breeze
+   [3BF] 0x30BD81FD97F45AA2: Classic Façade
+   [3C0] 0x77C344B95FAFEFAB: Classy Crib
+   [3C1] 0x3F1F432AF762F379: Entitled House
+   [3C2] 0x32ECAECB833F03C2: Keystone House
+   [3C3] 0x1E0DF570B993B29D: Summer Sleepover
+   [3C4] 0xC022DDD3D85FC84F: The Swamper
+   [3C5] 0x7B3A95D00FB65192: Wedding Cake Cottage
    [3C6] 0x8EC061A1783DA78F: Landgraab Sell n' Swap
    [3C7] 0x1CA06D2358F5BABF: Community Fire Department
    [3C8] 0x8D879E78C5BC84D3: Grady's Junkstop

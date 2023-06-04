@@ -874,46 +874,46 @@ protects ancient kings
    [355] 0x1CEC79C1F7114F63: Buckshot Lake
    [356] 0x7790A6F5CF8D0EDD: Tot Spot Playground
    [357] 0xD9F59E27442660BB: La Laguna Park
-   [358] 0x3F0EC17959A36B1B: Bungling Bungalow – 2br, 2ba
+   [358] 0x3F0EC17959A36B1B: Bungling Bungalow
    [359] 0x18B42D13EC95E59A: 
-   [35A] 0x77438E3E939A6F96: Neonuevo - 2br, 2ba
-   [35B] 0x3EE9A63058CD27A3: Villa De Grande - 3br, 3ba
-   [35C] 0x29783013E519F456: Prospect - 2br, 2ba
-   [35D] 0x0FC40077E1ADEC69: Casa De Simple - 1br, 1ba
-   [35E] 0x8378F45138509826: Sanctuary - 3br, 2ba
-   [35F] 0x993617C0F82D8F76: LeGreat Estate - 2br, 2.5ba
-   [360] 0x5317054692425FAF: Grace Place - 2br, 2ba
-   [361] 0x052299BCA6131F1A: Elfin - 1br, 1ba
-   [362] 0x19F584C3C3917580: The Modern Marvel – 7br, 5.5ba
-   [363] 0xA606913AD16EF1BB: The Spanish Armada – 4br, 4ba
-   [364] 0x86BFFC3EF288C338: The Adorable Abode – 2br, 1ba
-   [365] 0xB80982C998B7CD02: Compact Cottage - 2br, 1ba
-   [366] 0x804EFC1144A18DEF: The Dwellers Dwelling – 1br, 1ba
-   [367] 0xA750B5F97A04D417: HandySim’s Dream – 1br, 1ba
+   [35A] 0x77438E3E939A6F96: Neonuevo
+   [35B] 0x3EE9A63058CD27A3: Villa De Grande
+   [35C] 0x29783013E519F456: Prospect
+   [35D] 0x0FC40077E1ADEC69: Casa De Simple
+   [35E] 0x8378F45138509826: Sanctuary
+   [35F] 0x993617C0F82D8F76: LeGreat Estate
+   [360] 0x5317054692425FAF: Grace Place
+   [361] 0x052299BCA6131F1A: Elfin
+   [362] 0x19F584C3C3917580: The Modern Marvel
+   [363] 0xA606913AD16EF1BB: The Spanish Armada
+   [364] 0x86BFFC3EF288C338: The Adorable Abode
+   [365] 0xB80982C998B7CD02: Compact Cottage
+   [366] 0x804EFC1144A18DEF: The Dwellers Dwelling
+   [367] 0xA750B5F97A04D417: HandySim’s Dream
    [368] 0x0FB97F14AA365731: 
-   [369] 0x45C2897F42128CD7: Cruiser Villa - 2br, 1ba
-   [36A] 0x64CD997C974C5389: Apex - 1br, 1ba
-   [36B] 0xB910BCC48231082B: Eternal Estate - 3br, 2ba
-   [36C] 0x9FF472A68E0C7252: Mono Mogul - 1br, 1ba
-   [36D] 0x9838F0528AC28F2F: Little House that Could - 1br, 1ba
+   [369] 0x45C2897F42128CD7: Cruiser Villa
+   [36A] 0x64CD997C974C5389: Apex
+   [36B] 0xB910BCC48231082B: Eternal Estate
+   [36C] 0x9FF472A68E0C7252: Mono Mogul
+   [36D] 0x9838F0528AC28F2F: Little House that Could
    [36E] 0x491565062AAC1416: 
-   [36F] 0xC4022CC7C1CDEDFD: Magic Mansion - 3br, 4ba
-   [370] 0xAF5A7F4DF93567C0: House to the Future - 3br, 3.5ba
-   [371] 0x317E8DF3DCF56348: The Opulent Luminousness - 2br, 2.5ba
-   [372] 0x7D3E88082F0C2D52: The Spanish Retreat - 2br, 2ba
+   [36F] 0xC4022CC7C1CDEDFD: Magic Mansion
+   [370] 0xAF5A7F4DF93567C0: House to the Future
+   [371] 0x317E8DF3DCF56348: The Opulent Luminousness
+   [372] 0x7D3E88082F0C2D52: The Spanish Retreat
    [373] 0xEB3BF040F73852C7: 
-   [374] 0x0EE25F0FDF4FF0BB: Classic Getaway - 3br, 2.5ba
-   [375] 0xDBF0439FA79F7D7D: The Castle - 2br, 2.5ba
-   [376] 0x020F63442CEC150C: Refined Residence - 1br, 1ba
-   [377] 0xC42EFD4DA921D26E: Quaint Cottage - 2br, 2ba
+   [374] 0x0EE25F0FDF4FF0BB: Classic Getaway
+   [375] 0xDBF0439FA79F7D7D: The Castle
+   [376] 0x020F63442CEC150C: Refined Residence
+   [377] 0xC42EFD4DA921D26E: Quaint Cottage
    [378] 0x94088EB221CD6FDF: 
-   [379] 0x028E82DA83AEEFF2: Stately Hacienda - 3br, 1.5ba
-   [37A] 0xA2494A7696241EEF: Rio de Nero - 3br, 3.5ba
-   [37B] 0xF467ECDC5162AF82: The Cabana - 1br, 1.5ba
-   [37C] 0x156B173C284DD974: Was Modern – 1br, 1.5ba
-   [37D] 0x94083128AC3C1F52: Just-a-Home – 2br, 1ba
-   [37E] 0x6C0DCBA4E61C4156: Practical Prefab - 1br, 1ba
-   [37F] 0x458BEC583BF5681C: Les Thrifty Prefab – 1br, 1ba
+   [379] 0x028E82DA83AEEFF2: Stately Hacienda
+   [37A] 0xA2494A7696241EEF: Rio de Nero
+   [37B] 0xF467ECDC5162AF82: The Cabana
+   [37C] 0x156B173C284DD974: Was Modern
+   [37D] 0x94083128AC3C1F52: Just-a-Home
+   [37E] 0x6C0DCBA4E61C4156: Practical Prefab
+   [37F] 0x458BEC583BF5681C: Les Thrifty Prefab
    [380] 0x197D08FE5813236B: DNT
    [381] 0x197D08FE58132364: DNT
    [382] 0xEB6AE71C0DDB4949: DNT

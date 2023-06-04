@@ -456,16 +456,16 @@ Unknown3: 0x00000000
    [1C3] 0xA0FF9EA3C19B3B23: Once you get the cornflakes out of the carpet and the crayon off the walls, this house could be a real suburban dream. As is, the calm exterior hides the riot inside.
    [1C4] 0x9C61D64B138A8D0D: Tally Ho! As fine a country cottage as there ever was, Rose Haven is the ideal place for a spot of tea or a game of cricket. If your Sims are lucky, they may just go in for a bit of snoggin' as well.
    [1C5] 0xAD5FB52CC4EA92BA: Medieval castle living at its finest, the Rookery has eschewed its avian residents in favor of more domesticated dwellers. A turret, a balcony, your own pond and a hidden reading nook are among this habitat's unique features.
-   [1C6] 0xFE23642575CF822A: A Doll's House - 3br, 3ba
-   [1C7] 0xEB6C09BF6A4F5862: Basically a House - 2br, 1ba
-   [1C8] 0x8225C0F1ADAB631D: Betrothal Bungalow - 1br, 2ba
-   [1C9] 0xC0F936B875BE4ADE: Casita - 2br, 2ba
-   [1CA] 0xCCF4F502DA180128: Elderstone - 2br, 1.5ba
-   [1CB] 0x574BAABF6F58CE45: Impeccable Manor - 4br, 6ba
-   [1CC] 0x03428F192EB28754: Kid Friendly, Mother Approved - 4br, 3ba
+   [1C6] 0xFE23642575CF822A: A Doll's House
+   [1C7] 0xEB6C09BF6A4F5862: Basically a House
+   [1C8] 0x8225C0F1ADAB631D: Betrothal Bungalow
+   [1C9] 0xC0F936B875BE4ADE: Casita
+   [1CA] 0xCCF4F502DA180128: Elderstone
+   [1CB] 0x574BAABF6F58CE45: Impeccable Manor
+   [1CC] 0x03428F192EB28754: Kid Friendly, Mother Approved
    [1CD] 0x07C259AE83948793: Romper Recreation Playground
-   [1CE] 0xF354CA8EA1483C82: Rose Haven - 2br, 2ba
-   [1CF] 0x5691113FFD6C4BBF: The Rookery - 1br, 1ba
+   [1CE] 0xF354CA8EA1483C82: Rose Haven
+   [1CF] 0x5691113FFD6C4BBF: The Rookery
    [1D0] 0xE30F1B3CE7E6A435: The King's Crown
    [1D1] 0x89EECBADD6F5696E: The Queen's Crown
    [1D2] 0x85170266739C16B9: Paint flowed from the paintbrush to the canvas with ease. {OpOwner} was channeling the great artists of the past, making {MA.him}{FA.her} the winner of the art-a-thon! Be sure to hang the sweet painting with pride!

@@ -41,27 +41,23 @@
 
 + Replaced all instances of … with ... or .
 
+## v0.0.5 - Housing Names
+
++ Removed the br/ba of each house name
+  + BR = Bedroom
+  + BA = Bathroom
++ Includes:
+  + Studio
+  + Loft
++ Example
+  + Original -- Argonaut Arcological Mansion – 3 br, 3ba
+  + Changed -- Argonaut Arcological Mansion
+
 # Planned Changes
-
-## v0.0.x - Quotations - PLANNED
-
-+ Replaced all instances of “” with ""
-
-## v0.0.x - Dashes - PLANNED
-
-+ Replaced all instances of – with -
-
-## v0.0.x - Apostrophes - PLANNED
-
-+ Replaced all instances of ’ with '
 
 ## v0.0.x - Opportunities GUID - PLANNED
 
 + Added Opportunities' GUID underneath their Descriptions
-
-## v0.0.x - Housing Names - PLANNED
-
-+ Removed the br/ba of each house name
 
 ## v0.0.x - Skill Certificates - PLANNED
 
@@ -71,7 +67,7 @@
 
 + Reformatted, Simplified
 
-## v0.0.x - Replacements 1 - PLANNED
+## v0.0.x - Replacements / Rename 1 - PLANNED
 
 | Original                  | Changed             |
 | ------------------------- | ------------------- |
@@ -100,9 +96,16 @@
 + 
 + -
 
-## v0.0.x - Maybe fix ? - PLANNED
+## v0.0.x - Punctuation - PLANNED - MAYBE - VERY LONG PROCESS
 
-+ Bullet points: •
++ Bullet points
+  + •
++ Quotations
+  + Replaced all instances of “” with ""
++ Dashes / Hyphens
+  + Replaced all instances of – with -
++ Apostrophes
+  + Replaced all instances of ’ with '
 
 ## v0.0.x - DNT - PLANNED
 

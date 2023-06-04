@@ -604,14 +604,14 @@ Look, we’re sorry; our poetry guy is on vacation right now.
    [253] 0xCF04FB761F972E3E: The spirit of the sea is loud and awfully salty.
    [254] 0xCF04FA761F972C64: The heat of the day, the crunch of the sand... home.
    [255] 0xCF04FA761F972C65: What a wonderful place to live!
-   [256] 0xA2C802990E5CFE79: La Casita 1br, 1ba
-   [257] 0xA2C802990E5CFE7A: Personal Paradise - 2br, 1ba
-   [258] 0xA2C802990E5CFE7B: Cozy Cottage - 1br, 1ba
-   [259] 0xA2C802990E5CFE7C: Humble Home, 2br 2ba
-   [25A] 0xA2C802990E5CFE7D: Bachelor Pad - 2br, 1ba
-   [25B] 0xA2C802990E5CFE7E: Modern Marvel - 2br, 2ba
-   [25C] 0xA2C802990E5CFE7F: Island Beauty - 1br, 1ba
-   [25D] 0xA2C802990E5CFE70: Mi Casa - 1br, 1ba
+   [256] 0xA2C802990E5CFE79: La Casita
+   [257] 0xA2C802990E5CFE7A: Personal Paradise
+   [258] 0xA2C802990E5CFE7B: Cozy Cottage
+   [259] 0xA2C802990E5CFE7C: Humble Home
+   [25A] 0xA2C802990E5CFE7D: Bachelor Pad
+   [25B] 0xA2C802990E5CFE7E: Modern Marvel
+   [25C] 0xA2C802990E5CFE7F: Island Beauty
+   [25D] 0xA2C802990E5CFE70: Mi Casa
    [25E] 0xA2C802990E5CFE71: Spirit of the Sea
    [25F] 0xA2C803990E5CFFCB: Sun and Sand
    [260] 0xA2C803990E5CFFCA: Meridian
@@ -636,20 +636,20 @@ Look, we’re sorry; our poetry guy is on vacation right now.
    [273] 0x3664EBDDC345C6A1: What fate awaits this houseboat on the open sea?
    [274] 0x3664EBDDC345C6A0: This houseboat is sturdy and strong and good for long voyages.
    [275] 0x35B832DDC2B38909: This houseboat is perfect for lazy days spent drifting on the sea.
-   [276] 0x55DF28FCA0E2A961: Our First Houseboat - 2br, 2ba
-   [277] 0x05FE2731AD8E3812: Atlantis - 1br, 2ba
-   [278] 0xC829915145836A29: Fantasea - 2br, 1ba
-   [279] 0xCEEA5B5AA5FCC791: Sea Spirit - 1br, 2ba
-   [27A] 0x8C05001BADC8AFF7: Aquaholic - 1br, 1ba
-   [27B] 0xC4DFDA8575796389: Tide Runner - 2br, 1ba
-   [27C] 0xC359268B9E3B9344: Happy Houseboat - 1br, 1ba
-   [27D] 0xC359268B9E3B9345: You're On a Boat - 1br, 1ba
-   [27E] 0xC2C05F8B9DB9E7E2: Bella - 1br, 1ba
-   [27F] 0xE544217311DC3689: The Floating Fortress - 3br, 2ba
-   [280] 0xE544217311DC368A: Destiny - 1br, 1 ba
-   [281] 0xE544217311DC368B: Odyssey - 2br, 2ba
-   [282] 0xE65DDA7312CB45A2: Escapade - 1br, 1ba
-   [283] 0x3FA1BC4D035DE01F: Silver Lining - 1br, 1ba
+   [276] 0x55DF28FCA0E2A961: Our First Houseboat
+   [277] 0x05FE2731AD8E3812: Atlantis
+   [278] 0xC829915145836A29: Fantasea
+   [279] 0xCEEA5B5AA5FCC791: Sea Spirit
+   [27A] 0x8C05001BADC8AFF7: Aquaholic
+   [27B] 0xC4DFDA8575796389: Tide Runner
+   [27C] 0xC359268B9E3B9344: Happy Houseboat
+   [27D] 0xC359268B9E3B9345: You're On a Boat
+   [27E] 0xC2C05F8B9DB9E7E2: Bella
+   [27F] 0xE544217311DC3689: The Floating Fortress
+   [280] 0xE544217311DC368A: Destiny
+   [281] 0xE544217311DC368B: Odyssey
+   [282] 0xE65DDA7312CB45A2: Escapade
+   [283] 0x3FA1BC4D035DE01F: Silver Lining
    [284] 0x8CD4F4097DBDBAAF: The Lonely Beach, Isla Paradiso
    [285] 0x8CD4F4097DBDBAAC: 1 Camino del Ray
    [286] 0x8CD4F4097DBDBAAD: 11 Ocean View Road
@@ -692,27 +692,27 @@ Look, we’re sorry; our poetry guy is on vacation right now.
    [2AB] 0x8109289CA3E73662: The perfect place to spend a vacation.
    [2AC] 0x8109299CA3E7383E: This house looks best when viewed in full sunshine.
    [2AD] 0x8109299CA3E7383F: This mega-mansion is all about luxury.
-   [2AE] 0x8913C5F1006A7754: Solitude - 1br, 1 ba
-   [2AF] 0x8913C5F1006A7757: Castillo de Ichtaca - 5br, 3ba
-   [2B0] 0x8913C5F1006A7756: Adobe Abode - 3br, 1ba
-   [2B1] 0x8913C5F1006A7751: Casita Azulita - 0br, 1ba
-   [2B2] 0x8913C5F1006A7750: Spirit of the Sea - 2br, 1ba
-   [2B3] 0x8913C5F1006A7753: Seaside Escape - 1br, 1ba
-   [2B4] 0x8913C5F1006A7752: Sea House - 2br, 1ba
-   [2B5] 0x8913C5F1006A775D: Colonial Casa - 4br, 2.5ba
-   [2B6] 0x8913C5F1006A775C: The Painted Lady - 2br, 2ba
-   [2B7] 0x8913C4F1006A7582: Fiesta House - 1br, 2ba
-   [2B8] 0x8913C4F1006A7583: Casa del Sol, 2br, 2ba
-   [2B9] 0x8913C4F1006A7580: The Modern Hideaway - 1br, 1.5ba
-   [2BA] 0x8913C4F1006A7581: My First Research Facility - 1br, 1ba
-   [2BB] 0x8913C4F1006A7586: The Red Palace - 4br, 2ba
-   [2BC] 0x8913C4F1006A7587: The Oasis - 1br, 1.5ba
-   [2BD] 0x8913C4F1006A7584: A Modern Folly - 2br, 3ba
-   [2BE] 0x8913C4F1006A7585: The Spanish Queen - 2br, 2ba
-   [2BF] 0x8913C4F1006A758A: Surf Shack - 0br, 0ba
-   [2C0] 0x8913C4F1006A758B: Holiday House - 3br, 1ba
-   [2C1] 0x8913C3F1006A73CF: Sundancer - 2br, 1ba
-   [2C2] 0x8913C3F1006A73CE: Luxury Villa - 2br, 1.5ba
+   [2AE] 0x8913C5F1006A7754: Solitude
+   [2AF] 0x8913C5F1006A7757: Castillo de Ichtaca
+   [2B0] 0x8913C5F1006A7756: Adobe Abode
+   [2B1] 0x8913C5F1006A7751: Casita Azulita
+   [2B2] 0x8913C5F1006A7750: Spirit of the Sea
+   [2B3] 0x8913C5F1006A7753: Seaside Escape
+   [2B4] 0x8913C5F1006A7752: Sea House
+   [2B5] 0x8913C5F1006A775D: Colonial Casa
+   [2B6] 0x8913C5F1006A775C: The Painted Lady
+   [2B7] 0x8913C4F1006A7582: Fiesta House
+   [2B8] 0x8913C4F1006A7583: Casa del Sol
+   [2B9] 0x8913C4F1006A7580: The Modern Hideaway
+   [2BA] 0x8913C4F1006A7581: My First Research Facility
+   [2BB] 0x8913C4F1006A7586: The Red Palace
+   [2BC] 0x8913C4F1006A7587: The Oasis
+   [2BD] 0x8913C4F1006A7584: A Modern Folly
+   [2BE] 0x8913C4F1006A7585: The Spanish Queen
+   [2BF] 0x8913C4F1006A758A: Surf Shack
+   [2C0] 0x8913C4F1006A758B: Holiday House
+   [2C1] 0x8913C3F1006A73CF: Sundancer
+   [2C2] 0x8913C3F1006A73CE: Luxury Villa
    [2C3] 0x1F9D479DF8CAD544: 58 Civic Center
    [2C4] 0xBDD90CA1E48AB900: 100 Civic Center
    [2C5] 0xBEA124D759543CB4: Smuggler's Point, Isla Paradiso
