@@ -59,7 +59,7 @@ Unknown3: 0x00000000
    [36] 0x706EE9556DFAABB1: Grandmaster Chess Set
    [37] 0x0C2004C21E68D27B: Geometric Column
    [38] 0x5A83EB7C3FEE3390: FolioBit 791A Laptop
-   [39] 0xB503285F29338714: Prodedural Generation Door
+   [39] 0xB503285F29338714: Procedural Generation Door
    [3A] 0x7AF4CC7ED903B324: Waves of Grain Door
    [3B] 0x37C1B97E214F8A26: Spin 'n Tumble Elite Dryer
    [3C] 0xDB13F8F91CD57A9A: Power Burn Station
@@ -117,7 +117,7 @@ Unknown3: 0x00000000
    [70] 0xD03ACB38E8A6CCC4: Adjusting Incline
    [71] 0xD03ACB38E8A6CCC5: Waxing Slide Surface
    [72] 0xD03ACB38E8A6CCC2: Sizing Shirt Collars
-   [73] 0xD03ACB38E8A6CCC3: Curling Dumbells
+   [73] 0xD03ACB38E8A6CCC3: Curling Dumbbells
    [74] 0xD03ACB38E8A6CCC0: Alphabetizing Books
    [75] 0xD03ACB38E8A6CCC1: Assembling Playground
    [76] 0xD03ACB38E8A6CCCE: Burning Calories
