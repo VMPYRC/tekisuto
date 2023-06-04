@@ -931,8 +931,8 @@ Unknown3: 0x00000000
    [039E] 0x60009260AF47D5C0: Bring a Group Serving of Great Falafel to Work
    [039F] 0xBCA562D318C921C9: Your crepes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
    [03A0] 0xC3EADD04A888AE5C: Your crepes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
-   [03A1] 0xCD25DF4764A7E387: The smooth, papery-thin surface of a Crepe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crepes into work to establish your rank among the others. Your'll get a raise for your efforts.
-   [03A2] 0xC2981C61866C02F6: The smooth, papery-thin surface of a Crepe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crepes into work to establish your rank among the others. Your'll get a raise for your efforts.
+   [03A1] 0xCD25DF4764A7E387: The smooth, papery-thin surface of a Crepe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crepes into work to establish your rank among the others. You'll get a raise for your efforts.
+   [03A2] 0xC2981C61866C02F6: The smooth, papery-thin surface of a Crepe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crepes into work to establish your rank among the others. You'll get a raise for your efforts.
    [03A3] 0xF2F48310DAA163B7: EP1_CareerCulinary_FrenchFoodFailure
    [03A4] 0x8DBD3AE585850CCC: Learn the recipe for Crepes, cook a serving, then bring it to work to earn a raise.
    [03A5] 0x0A14D5C2C1C66CCF: Learn the recipe for Crepes, cook a serving, then bring it to work to earn a raise.
