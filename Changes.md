@@ -53,6 +53,13 @@
   + Original -- Argonaut Arcological Mansion – 3 br, 3ba
   + Changed -- Argonaut Arcological Mansion
 
+## v0.0.6 - Text Fixes 1
+
++ Sports Writer
++ Total simoleons spent making items: {0.Money}\nTotal money collected: {1.Money}\nTotal profit: {2.Money}
++ Repeated words
+  + might might
+
 # Planned Changes
 
 ## v0.0.x - Opportunities GUID - PLANNED
@@ -80,13 +87,6 @@
 |                           |                     |
 |                           |                     |
 |                           |                     |
-
-## v0.0.x - Text Fixes 1 - PLANNED
-
-+ Sports Writer
-+ Total simoleons spent making items: {0.Money}\nTotal money collected: {1.Money}\nTotal profit: {2.Money}
-+ Repeated words
-  + might might
 
 ## v0.0.x - Spelling 1 - PLANNED
 
