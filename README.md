@@ -2,7 +2,7 @@
 
 + STBL / Text Changes for The Sims 3
 
-## Use STBL
+## Instructions
 
 1. Go to [releases](https://github.com/VMPYRC/tekisuto/releases)
 2. Download and extract the attached .ZIP file
