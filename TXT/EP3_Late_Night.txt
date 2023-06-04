@@ -91,7 +91,7 @@ Unknown3: 0x00000000
    [056] 0x044B8DFA7797AFCC: When you choose the Sustainable Ultra-Post-Modern Door, you are showing the world that you prefer function over form AND you care about the environment. Give Mother Earth a hug every time you open the door!
    [057] 0x53BFAA54306B3941: With a name like Tropix Breez you know you’re buying authentic imported doors. It’s a little piece of the Caribbean in your own home, and practical to boot! Open enough to allow a breeze and private enough to maintain an air of intimacy, this door does it all.
    [058] 0x59F76F82D8305DFA: When you're on the A-List, you're constantly bombarded with gifts from up-and-coming designers trying to impress you with their next great piece of clothing. If this statement describes your life, then you need to own Dresser of Holding! Creak open the doors to access a pocket dimension that allows you nearly endless space to throw all those gifts.
-   [059] 0xA706141AFDC28134: You wish you had more cow bell…now you can! The Marvin Beats Drum Kit will let you create great music with the right percussions, drums, and Cow Bell!
+   [059] 0xA706141AFDC28134: You wish you had more cow bell... now you can! The Marvin Beats Drum Kit will let you create great music with the right percussions, drums, and Cow Bell!
    [05A] 0x4F8D593B293442F7: The professional-grade Party FX Machine 5950 is a revolutionary device that lets you unleash a hurricane of special effects in any location. Just press the "Insta-Party" button to turn on the machine and watch the party unfold!
    [05B] 0x9C1CC71DA092C50B: The Deco Elevator was designed with design in mind! Passengers will not only arrive at their destination, but they’ll arrive in style–regardless of any personal stylistic shortcomings.
    [05C] 0xFFAE4E0A6E6B3998: Use an Elevator Shaft to connect multiple floors without the need for an elevator stop. Most often used on the thirteenth floor.
@@ -113,7 +113,7 @@ Unknown3: 0x00000000
    [06C] 0xA21E78A3B64EC510: Zeigler Exclusive, the finest name in kitchen furnishings, brings the secrets of world-class baristas into your own home with the Elitissimo At-Home Barista! The gleaming reservoir heats water to the perfect temperature without the danger of scalding yourself... well, at least until the beverage is in the cup. Finally, a classy way to get your two steamy hot beverages today (as recommended by the International Mug Makers Association).
    [06D] 0xB9145A9C3C48925D: Evoking feelings of tranquility and relaxation, the soothing surroundings will ease worried minds while the aches of the body will vanish mere moments after total immersion into the steamy depths. This tranquil tub is designed for Sims with discerning aesthetic tastes and features a pleasing combination of natural tones accented with real stone. Embrace inner peace with a refreshing dip in The Serenity.
    [06E] 0x4AEC20916B144188: This the hot tub basin. It is the bottom of the Hot Tub.
-   [06F] 0x18FBB0855BC3EF82: Part hot spring, part jungle pool, this hot tub is the ultimate in luxury for discerning Sims the world over. We invite you to experience heightened levels of relaxation brought about by the swirling warm waters. Let the multitudes of bubbles gently massage your skin. Sit back, relax, and listen to the serenade of the waterfall. The Majestic Grotto…it's like nature, only better.
+   [06F] 0x18FBB0855BC3EF82: Part hot spring, part jungle pool, this hot tub is the ultimate in luxury for discerning Sims the world over. We invite you to experience heightened levels of relaxation brought about by the swirling warm waters. Let the multitudes of bubbles gently massage your skin. Sit back, relax, and listen to the serenade of the waterfall. The Majestic Grotto... it's like nature, only better.
    [070] 0x29224B6D3C28BDB1: Sink slowly into the sizzling depths and encounter relaxation unlike anything you have experienced before. Be soothed by the murmur of the bubbling jets. Discover true bliss as your aches and pains melt away into the watery depths. Enhance romance by inviting that special someone to enjoy a relaxing dip in the whirling waters. The Maelstrom, experience it today.
    [071] 0xE991CA49780B924C: This the hot tub basin. It is the bottom of the Hot Tub.
    [072] 0xB7B128411946FB24: Celebrate the humble light bulb by planting this funky light on your ceiling. As time goes by, your affection for this unassuming lamp will continue to grow.
@@ -156,7 +156,7 @@ Unknown3: 0x00000000
    [097] 0x9A3D0F927BFAADE2: Dubbed the "Sweetheart of '42", servicemen stationed all over the world tucked pictures of Bette in their wallets and painted her visage on the sides of heavy bombers. This blast from the past adds a touch of retro va-va-va-voom to any décor.
    [098] 0xA72B880A9252DE6C: This masterpiece by the artist Christopho has been heralded as the pinnacle of the "Urbanomorphic Abstractionism" movement. The artist describes the piece as "deconstructing the crisis of a man living in the modern world through a representation of the space between a subway platform and the rails."
    [099] 0x82B986B1DB946A7A: Donated to the city by Normal Goode, this butterfly pavilion is worth the cost of admission.
-   [09A] 0xA3F6E5B29637C1FE: This modern pedestal is a feast for the eyes and lends an air of opulence to any room it graces. Stand close, closer…no, closer still! Violate your personal space to truly appreciate the splendor of geometry’s second love, the cube. You could perch an item atop it, but the question is, would you really want to?
+   [09A] 0xA3F6E5B29637C1FE: This modern pedestal is a feast for the eyes and lends an air of opulence to any room it graces. Stand close, closer... no, closer still! Violate your personal space to truly appreciate the splendor of geometry’s second love, the cube. You could perch an item atop it, but the question is, would you really want to?
    [09B] 0x054302B9BA048071: Description pedestalTableCelebOval
    [09C] 0x7BFA0F3F4A843C55: Hammer on those steel string keys! Wow your friends with the most garish instrument you can buy! Sure to impress all those who see it, the Schnadahupfl Virtuoso Grand Piano is an elegant instrument for tickling the ivories.
    [09D] 0x124D9926A24CC762: Can’t afford the Grand Piano? Start with a Prudence Pennypincher's Portable Piano and work your way up. Play at venues and community lots to earn tips.
@@ -265,7 +265,7 @@ Unknown3: 0x00000000
    [104] 0xC89A73CB9DF22638: Bridge Ramp Retaining Wall
    [105] 0x6D3466DC6C3F1711: Built by the late Ebenezer Alto at the turn of the century, these buildings still retain a sense of his commitment to hardwork and old fashioned values.
    [106] 0x01424D01DA415C33: High rise living will never be the same when you install the Drop Look Chute! You'll enjoy the convenience of easy trash disposal combined with a sleek industrial design. Take a peek down the chute and enjoy watching gravity in action as your trash falls to the bottom.
-   [107] 0xE2A36239291721EF: Before unveiling his creations to the world, famed window designer Xavier X. Xylander always shows his latest window designs to his brother Xander, a world-renowned surfer. When Xander saw his brother's latest creation, he exclaimed, "Dude, that window is so awesome…it's sawesome!"
+   [107] 0xE2A36239291721EF: Before unveiling his creations to the world, famed window designer Xavier X. Xylander always shows his latest window designs to his brother Xander, a world-renowned surfer. When Xander saw his brother's latest creation, he exclaimed, "Dude, that window is so awesome... it's sawesome!"
    [108] 0x011E865AC0F92667: Enjoy all the beauty nature has to offer with the Window to the World! You can practically smell the fresh air as you take in a panoramic view of outdoors while sitting on your couch. Note: Creatures of the night will loathe this window.
    [109] 0x116AE00B564CEC9B: Some windows are just waiting to be shattered in a dramatic fashion. You'll have a tough time deciding your favorite way to destroy the Bustable Window. Throw someone through it in a barroom brawl? Encourage the neighborhood ne'er-do-wells to throw a baseball through it? The possibilities are endless!
    [10A] 0x4191E9552A736A1A: The latest in Delinquent Restriction Management, this controversial window went through a rise and fall in popularity amongst venue owners looking to protect their establishment while filtering in natural light. Now viewed as an antiquated relic of security, support for the SecuWIN has largely been dropped in favor of even stronger measures.
@@ -652,11 +652,11 @@ Unknown3: 0x00000000
    [287] 0x85C55BA026D7D5E6: The distant skyline of Bridgeport beckons from this unimposing house. Being the first house on the block means you get home from work earlier than your neighbors!
    [288] 0x8A7909630470E19C: With a 180 degree unobstructed view of the Ocean, Cliff Cottage is the perfect house for entertaining on a grand scale or just getting away from it all.
    [289] 0x9ED11ACA1E428FA3: Return to this endearing home from your evening commute. The serenity of a bedroom community can be yours.
-   [28A] 0xB1AC10C2F908B9C7: Owning the best house in a moderate neighborhood is generally considered a poor investment… Unless you are a politician who must live among his constituents.
+   [28A] 0xB1AC10C2F908B9C7: Owning the best house in a moderate neighborhood is generally considered a poor investment... Unless you are a politician who must live among his constituents.
    [28B] 0x1B9F44D1A5EADEA8: If you are searching for a five car garage with panoramic views, your search ends here. Perhaps built with more cash than class, the door bell goes “bling.”
    [28C] 0xAE9481302007CF44: Named when they had an ocean view, these apartments are moderately priced and convenient to downtown, the civic center and the stadium, but there are no ocean views.
    [28D] 0x9677F7285333262A: For some reason single male Sims seem especially attracted to this building. Perhaps it is the partially covered sports-car parking?
-   [28E] 0xF38880559C3C1A78: Spared from demolition during the construction of the new stadium, Bridgeport Arms still boasts large apartments and partial views in a quiet neighborhood…except for when there is a game.
+   [28E] 0xF38880559C3C1A78: Spared from demolition during the construction of the new stadium, Bridgeport Arms still boasts large apartments and partial views in a quiet neighborhood... except for when there is a game.
    [28F] 0xF43FFAC01BF9D4E4: This Egyptian Deco building is adjacent to downtown nightlife and boasts some odd shaped landscaping. Perhaps a Sim who has travelled to Egypt would have the answer?
    [290] 0x075C505A49958931: Just a bit too far out of the city to ever be really in style, Glenview manor caters to a reliable middle class city dweller who just can’t seem to give up and move to the suburbs.
    [291] 0x69C974E3FFE7DCE6: Built by the Zodiac Group to provide luxury housing to Bridgeport, One Leo Center is considered a premier location in the city.
@@ -665,7 +665,7 @@ Unknown3: 0x00000000
    [294] 0x7536894870FBD226: City living with available outside space, the Veranda Villas features multiple balconies in most residences and an efficiency size penthouse.
    [295] 0x6340BA4866A1B581: Once the site of the Bridgeport armory, it was decided that next to a bridge was a poor place to store high explosives. Now the Armory caters to nocturnal city dwellers who like the thick walls and small windows.
    [296] 0x4A39D950E5885047: An agreeable tower close to downtown, Sims are often bizarrely confused about what subway stop to take to get to Powell house.
-   [297] 0x90E773875A4C570F: Allegedly built on top of a spring from which all who drank of the waters would find true love, the Simerset has fallen into disrepair. Optimistic sims still come here searching for their hearts desire…and some still find it.
+   [297] 0x90E773875A4C570F: Allegedly built on top of a spring from which all who drank of the waters would find true love, the Simerset has fallen into disrepair. Optimistic sims still come here searching for their hearts desire... and some still find it.
    [298] 0xE0EA40B687B39642: Built by the prosperous Maloney family, this once fashionable high rise has been eclipsed by newer more fashionable addresses. The Maloney’s themselves seem to have disappeared from society since suffering financial setbacks, but rumors persist of at least one still being a resident.
    [299] 0x55DF18A5BCE4E225: Once a fashionable resort for Sims seeking curative waters, Beachwood Springs now caters to mature Sims seeking moderately priced housing close to the hospital. Nevertheless, a caretaker remains in residence and dreams of the faded grandeur of the resort’s glory days.
    [29A] 0xFD42D1690A84D264: Formerly utilitarian working class housing, The Gentry long fell out of favor. Recently, however, it has become one of the trendiest addresses in Bridgeport and features a waiting list of residents.
@@ -674,7 +674,7 @@ Unknown3: 0x00000000
    [29D] 0xFB952E0F799A6B99: Open loft spaces for the artists in residence, Terpsichore studios offer live/work spaces to the creative Sim in a transitional neighborhood.
    [29E] 0x32526C5FA31DA235: Seafaring Sims formerly resided in the upper bay of Bridgeport and The Trawler lodge offered accommodations to those hearty souls when they were in port. We suspect this abode still offers housing to a motley crew.
    [29F] 0x8A46C1D5958928BB: Slated for demolition during bridge construction, The Off Ramp was spared by a last minute design change. Since all of the residents had vacated, this building is now especially young and hip.
-   [2A0] 0x04B46770D0048E6C: The oldest luxury apartment building in town, an address in Breach House means money… old money. Once you have an apartment in Breach House you don’t give it up. They don’t even have a waiting list with anyone still alive on it!
+   [2A0] 0x04B46770D0048E6C: The oldest luxury apartment building in town, an address in Breach House means money... old money. Once you have an apartment in Breach House you don’t give it up. They don’t even have a waiting list with anyone still alive on it!
    [2A1] 0xEBF49A53511839E8: Boasting some of the best views in the city, The Tidewater is popularly featured in almost all postcards from Bridgeport. Although the building is often quiet during the day, it seems to come alive at night.
    [2A2] 0x2901B853DA44F346: In a city that never sleeps, Sanguine Arms seems to come alive at night. Built next to the Goth Gazebo, there have always been rumors of odd happenings here, especially during a full moon.
    [2A3] 0x38FA2CAF9AF7A27E: Centrally located, the Glass Pillar building is a favorite among the fashionable and the trendy. It has some of the cleanest and seldom used kitchens in Bridgeport.
@@ -813,12 +813,12 @@ Unknown3: 0x00000000
    [328] 0x063DB09D94C299DA: One house can hold so many stories. When City Entertainment started the 17th season of Little Celebrity and put this cast together, they knew they were going to have a great show. Katelyn Missoni and Apollo Bloom provide plenty of vacuous entertainment while Kirby Wise lusts after a prominent politician in town. William Fangmann is too smart for his own good, but does he know who his secret admirer is?
    [329] 0x189354956353BB96: Katrina Pala is an enterprising businesswoman, bringing the business world to life with her ambitious projects. In her custody is her less city-wise niece, Hannah Smythe. Katrina is eager to show Hannah the ropes on the business world but faces the uphill task of distracting Hannah from her reality television obsession.
    [32A] 0x9DD39B68BCC2EDC7: Most people think that Romeo is just one of the city’s wealthy playboys, running around town without a care. However, few will ever know of the sacrifices this super undercover secret agent has made for the city. This Sim could use a good night out on the town!
-   [32B] 0xBC26006AA27EE422: With so many flashy Sims in the neighborhood, it’s easy to overlook poor Buster. If only he could earn enough in tips to afford a few more instruments… that would really make his day! Maybe he can even move out of his current digs?
+   [32B] 0xBC26006AA27EE422: With so many flashy Sims in the neighborhood, it’s easy to overlook poor Buster. If only he could earn enough in tips to afford a few more instruments... that would really make his day! Maybe he can even move out of his current digs?
    [32C] 0x65364CD3965BEC4C: If the ladies in this house had fangs, they would have been at each other’s throats a long time ago. While Bianca, Lily-Bo and Marina make each other’s blood boil, vampire Beau bides his time and enjoys the feud. Which of the three will he finally find irresistible?
-   [32D] 0x00F39F1E5D681475: Vlad’s ravishingly good looks have tricked many a good Sim under his spell… Most Sims in the city find him irresistible! He’s well connected in the local Vampire scene, but with a new crowd on the rise, Vlad might have to choose sides.
+   [32D] 0x00F39F1E5D681475: Vlad’s ravishingly good looks have tricked many a good Sim under his spell... Most Sims in the city find him irresistible! He’s well connected in the local Vampire scene, but with a new crowd on the rise, Vlad might have to choose sides.
    [32E] 0xE591B4C52D03FE0F: Many times over, Lenny has tried to make a run at selling photographs of celebrities as an income. It has gone well at times when he got a great snapshot, but often times are tough. It’s time for Lenny to put down the camera and find a real job.
    [32F] 0xE6E10106EF2D0683: Finally finished with his degree in Science, Mick is just beginning his career at the local Science Facility. However, Mick has recently found that mixing drinks is much more fun than mixing chemicals in a lab. Could he become a good enough Mixologist to leave his career in science forever?
-   [330] 0x1CE2F5723FA75230: Don’t let her charming personality fool you; for the last 100 years Elvira has been the most feared and most powerful Vampire in the city. However, a new influx of younger vampires have recently moved into the city… Will it turn ugly?
+   [330] 0x1CE2F5723FA75230: Don’t let her charming personality fool you; for the last 100 years Elvira has been the most feared and most powerful Vampire in the city. However, a new influx of younger vampires have recently moved into the city... Will it turn ugly?
    [331] 0x48881E2D01ED87A0: Alan Stanley and his partner, A-list actress Emmy Starr live the grand celebrity life. A director extraordinaire, every young actor wants to work with him and every young filmmaker wants to be him. Emmy rose to stardom as the lead actress in his early films. Rumor has it that this relationship is a little unbalanced. What goes on off the set for this couple?
    [332] 0xBBB0D8FE08DFE462: The Strikers are a global fashion sensation with Baby Sebastian constantly dubbed the city’s best-dressed tyke. However, it is Richie Striker’s coveted athleticism that has made him the star that he is. What new rivalry will glamorous Stella Striker find in the city? Will her family’s fame and wealth be enough, or will she need more affirmation?
    [333] 0x6B332123C883651E: Jessica Talon, a name that puts fear in many a young vampire, has forced some Sims to stake their allegiance against her. Her better half, Rafael Striker, is much less intimidating but just as influential a name in late night business circles. Underneath her tough exterior, Jessica’s chief desire is just that Rafael will keep up with her on the dance floor. He has other ideas though, like owning his own bar.
@@ -838,7 +838,7 @@ Unknown3: 0x00000000
    [341] 0x430EF323DE6FE7F1: Anala
    [342] 0xB982636CCB650894: Angelista
    [343] 0xC284D780970D74EB: Apollo
-   [344] 0x49638BA08F73A5EE: Apollo is an egotistical male model who cares only about himself. His cover shoot for Sim Quarterly Magazine is attracting major buzz from the local media… and paparazzi.
+   [344] 0x49638BA08F73A5EE: Apollo is an egotistical male model who cares only about himself. His cover shoot for Sim Quarterly Magazine is attracting major buzz from the local media... and paparazzi.
    [345] 0x33D4A376F5C80D29: Aria
    [346] 0xD6C4D0DA4F12855A: Aria’s musical skill and talent is clearly unrivaled by anyone in town, but her deep secret of being a complete couch potato has kept anyone special from entering her life. Will that ever change for her?
    [347] 0x8331E6E6F7265DF9: Armstrong
@@ -914,7 +914,7 @@ Unknown3: 0x00000000
    [38D] 0xD075EEA5582A7891: Elspeth
    [38E] 0x62FA3D04F3D0DF89: Elspeth is not happy with the greed and corruption that her parents conspire in. She promises to one day redeem her family name.
    [38F] 0xCE0B6DE3A3851969: Elvira
-   [390] 0x4725DB38610FC48B: Elvira’s charm and ruthlessness go hand in hand… but will her grip on power in the city be challenged by a younger breed of vampire?
+   [390] 0x4725DB38610FC48B: Elvira’s charm and ruthlessness go hand in hand... but will her grip on power in the city be challenged by a younger breed of vampire?
    [391] 0xAB2BA5DD476DE653: Emilio
    [392] 0x578E4B770A52B016: Emmy
    [393] 0x9534F14A21B96396: Emmy met Alan on the set of “The Quantum Malfactor” and instantly fell in love. Or so she thinks. In recent months, she’s seen how her relationship with Mr. Stanley has been great for her career. 
@@ -1151,17 +1151,17 @@ Unknown3: 0x00000000
    [47A] 0x097EBC111005053A: Teaching the Kids
    [47B] 0xF57F737CAEADE06A: Teach Acting Class.
    [47C] 0x61EFDDBB655F7BED: Well, the book was pretty basic and mostly common sense, but everybody's got to start somewhere. You've picked up some new tricks on how to blend into the trees. Your job performance has improved as a result!
-   [47D] 0xCA4BAF108B389A43: The key to being an extra is to not take the spotlight from the…ahem…real stars. Your boss recommends reading "How to Get Noticed by Not Being Seen" to pick on some tips on how to blend into the backdrop better.
+   [47D] 0xCA4BAF108B389A43: The key to being an extra is to not take the spotlight from the... ahem... real stars. Your boss recommends reading "How to Get Noticed by Not Being Seen" to pick on some tips on how to blend into the backdrop better.
    [47E] 0x59C09B039AA4E038: Read "How to Get Noticed by Not Being Seen" and return to work.
    [47F] 0x4779480390058C12: Background Acting
    [480] 0xBFA692D97AC20972: Read Film Book.
    [481] 0x4D2C555115DF43B0: "Best Boys are responsible for the daily running of the lighting department." Mystery solved! Your boss was impressed as well and is definitely going to be keeping an eye on you.
-   [482] 0xCFC19F6455598334: The Best Boy…what does that crew member do? Seriously, does anybody know? Your boss wants you to read "Film's Most Mysterious Crew Member" and report back with the answer.
+   [482] 0xCFC19F6455598334: The Best Boy... what does that crew member do? Seriously, does anybody know? Your boss wants you to read "Film's Most Mysterious Crew Member" and report back with the answer.
    [483] 0x62DE80C9EC2C128D: Read "Film's Most Mysterious Crew Member" and return to work.
    [484] 0x7189D3C9F3BAAE3B: Best of the Best
    [485] 0x8B2C6C9AEED879A7: Read Film Book.
    [486] 0x7268EC95DE0FD8DF: Wow, being the Key Grip is a big responsibility, but, armed with new knowledge, you're bound to succeed! Your boss is also quite pleased with your progress.
-   [487] 0xB3FC2D8E540213AD: Now that you're the Key Grip, you'll be in charge of…all the other grips. Your boss wants you to brush up by reading "The Key to Being a Key Grip." Finish the book to get a better grip on the situation!
+   [487] 0xB3FC2D8E540213AD: Now that you're the Key Grip, you'll be in charge of... all the other grips. Your boss wants you to brush up by reading "The Key to Being a Key Grip." Finish the book to get a better grip on the situation!
    [488] 0xF0D214F48894F366: Read "The Key to Being a Key Grip" and return to work.
    [489] 0x02E369F49306BAB8: A Gripping Read
    [48A] 0xC2BDD548887CD2D4: Read Film Book.
@@ -1180,7 +1180,7 @@ Unknown3: 0x00000000
    [497] 0xED0DAE193D71A4C2: Read "Looking Into the Camera: Don't Do It" and return to work.
    [498] 0xB6A2BB191DED1F2C: Starting Out
    [499] 0xA301D84F4DBADF08: Read Film Book.
-   [49A] 0xA3EBF0699AC654A8: Armed with new knowledge, you're ready to impress the best directors in the biz…or at least avoid their wrath.
+   [49A] 0xA3EBF0699AC654A8: Armed with new knowledge, you're ready to impress the best directors in the biz... or at least avoid their wrath.
    [49B] 0x7BCA103190AC75FC: A storyboard artist needs to be able to translate the director's vision onto paper. This is no small task, especially when you are dealing with a self-proclaimed "visionary." Your boss thinks that reading "Panel by Panel: The Art of Storyboarding" will really help you out.
    [49C] 0xBA5F9BBAE51012F5: Read "Panel by Panel: The Art of Storyboarding" and return to work.
    [49D] 0xCBCCEEBAEEF5C2F3: Storyboards by the Book
@@ -1217,13 +1217,13 @@ Unknown3: 0x00000000
    [4BC] 0xEAD9D14F6E63370B: Direct Commercial.
    [4BD] 0x52373464ED347E95: Nicely done! Your performance has never been better, thanks to some focused studying.
    [4BE] 0xD9EF5D612241735B: One of the keys to being a great {MA.actor}{FA.actress} is memorizing the script, front to back. You've read your lines at work, but it might help your performance if you take it home and give it a good, solid read. Your boss would also be impressed by your dedication.
-   [4BF] 0x9B9B2B969651BED3: Why did you lose the script? Hopefully they can provide you with another copy…
+   [4BF] 0x9B9B2B969651BED3: Why did you lose the script? Hopefully they can provide you with another copy...
    [4C0] 0xDE098B6EC388A430: Read the script and return to work.
    [4C1] 0xCBF8386EB916DFBA: Learning the Lines
    [4C2] 0xB23080CBCAC0A2EA: Read Script.
    [4C3] 0xE6742DB52F6160C2: Well done! The studio values your hard work and dedication. This production will be your best yet!
    [4C4] 0x828CEF507B8F0206: Every great director needs to know their script like the back of their hand. You've breezed over your current script, but it would help the rest of the shoot if you brought it home and gave it a thorough reading. The studio would definitely be impressed with your dedication as a director.
-   [4C5] 0xA87A4372E6AE041E: Why did you lose the script? Hopefully they can provide you with another copy…
+   [4C5] 0xA87A4372E6AE041E: Why did you lose the script? Hopefully they can provide you with another copy...
    [4C6] 0x257E687CC500089B: Read the script and return to work.
    [4C7] 0x57A95B7CE0E7C1F9: Scene by Scene
    [4C8] 0xEB53DF445D7EDA49: Read Script.
@@ -1244,7 +1244,7 @@ Unknown3: 0x00000000
    [4D7] 0x0FCCE53F8DFA4EED: Stay late and clean up the mess.
    [4D8] 0x21DE383F986C129B: Set Clean Up
    [4D9] 0x383AB61D9C7D7E07: Stay Late.
-   [4DA] 0xA160596F273942EC: It's all about who you know… You can just feel yourself getting more famous! Oh, and you got a friend out of it, too.
+   [4DA] 0xA160596F273942EC: It's all about who you know... You can just feel yourself getting more famous! Oh, and you got a friend out of it, too.
    [4DB] 0x5ED38B80D33AD6C8: "Hey {OpOwner}, this is your agent. Listen, I know you're awesome, you know you're awesome. But let's face it, you could be even more awesome. There's a celebrity named {OpTarget} that I think you should meet. Knowing the right people is the key to staying famous, am I right?"
    [4DC] 0xD0FE11680A149481: Become Friends with {OpTarget}.
    [4DD] 0x9B6D1C67EB49AF87: Networking is Key
@@ -1255,12 +1255,12 @@ Unknown3: 0x00000000
    [4E2] 0x80F10135E41CF61D: Authorized Biography
    [4E3] 0x07D023C5DE16749D: Attend Book Signing.
    [4E4] 0x38E20103F6CE088D: The director was very grateful for your help. Wait 'till your fans see your hilarious cameo as the door-to-door gnome salesman!
-   [4E5] 0x0C203372F7B67263: "Hey, superstar! It's your agent. A director just called me asking if you'd be willing to cameo in his new movie, 'Llamas Vs. Gnomes.' Don't worry, I told him you don't do cameos…without getting paid! Am I right? Head down to {OpTarget}."
+   [4E5] 0x0C203372F7B67263: "Hey, superstar! It's your agent. A director just called me asking if you'd be willing to cameo in his new movie, 'Llamas Vs. Gnomes.' Don't worry, I told him you don't do cameos... without getting paid! Am I right? Head down to {OpTarget}."
    [4E6] 0x4CFE8A892EA06ED8: "Cameo in Film" at {OpTarget}.
    [4E7] 0x3E1D378926E443B2: Surprise Cameo
    [4E8] 0x858B231C7C98B912: Cameo in Film.
-   [4E9] 0xE335876116B2D474: "That was incredible! There were so many delicate flavors to savor…did I detect a note of apple in there? I am telling all my friends about you. Thanks again!"
-   [4EA] 0x052F0C6CA1F3F860: "Mmmph… GULP… Oh, excuse me! I was just finishing my meal. This is {OpOwner}, right? I've heard you make some delicious dishes, and, as you can tell, I'm a fan of food. Why don't you bring me a sample of your work? I have a lot of important friends and I'd be happy to spread the word if you're any good. Oh, name's {OpTarget}, by the way."
+   [4E9] 0xE335876116B2D474: "That was incredible! There were so many delicate flavors to savor... did I detect a note of apple in there? I am telling all my friends about you. Thanks again!"
+   [4EA] 0x052F0C6CA1F3F860: "Mmmph... GULP... Oh, excuse me! I was just finishing my meal. This is {OpOwner}, right? I've heard you make some delicious dishes, and, as you can tell, I'm a fan of food. Why don't you bring me a sample of your work? I have a lot of important friends and I'd be happy to spread the word if you're any good. Oh, name's {OpTarget}, by the way."
    [4EB] 0x892301021D01E0F9: "Deliver" a meal of {OpItemQuality} quality or better to {OpTarget}.
    [4EC] 0x535BEC01FE0935CF: Memorable Meals
    [4ED] 0xCE09D592D239080B: Deliver Meal.
@@ -1285,16 +1285,16 @@ Unknown3: 0x00000000
    [500] 0xA85678F72150C1D2: Business Model
    [501] 0x80F829C9F7662632: Record Commercial.
    [502] 0xD423E5FDAC044395: The kids were really excited to have a star of your caliber show up in person. Judging by the number of camera flashes, it seems the paparazzi was excited as well.
-   [503] 0x6EE623ED5D4D325B: "Hey, {OpOwner}. This is your agent calling. I've got a job for you…well, more of a charity gig. {OpTarget} just called me asking if you'd come down there and entertain the sick kids. You wouldn't get paid, but it would definitely make for some good PR."
+   [503] 0x6EE623ED5D4D325B: "Hey, {OpOwner}. This is your agent calling. I've got a job for you... well, more of a charity gig. {OpTarget} just called me asking if you'd come down there and entertain the sick kids. You wouldn't get paid, but it would definitely make for some good PR."
    [504] 0xE8B0FCE3A83E9130: "Entertain Sick Kids" at {OpTarget}.
    [505] 0xD69FA9E39DCCCCBA: Make-A-Dream
    [506] 0x474D7B3F00D7DFEA: Entertain Sick Kids.
-   [507] 0x7568EF60898E8B66: Mmm…cool and refreshing. One of the many perks of being famous…people will pay YOU to drink!
-   [508] 0x094F0A9E3201AA72: "Hey {OpOwner}! Your agent here. So, the owner of {OpTarget} has heard about how famous you are…took 'em long enough, am I right? Anyway, she'd love it if you could come down and order a drink at her bar. She thinks it'd really help her business. Oh, and she is willing to pay you for your time."
+   [507] 0x7568EF60898E8B66: Mmm... cool and refreshing. One of the many perks of being famous... people will pay YOU to drink!
+   [508] 0x094F0A9E3201AA72: "Hey {OpOwner}! Your agent here. So, the owner of {OpTarget} has heard about how famous you are... took 'em long enough, am I right? Anyway, she'd love it if you could come down and order a drink at her bar. She thinks it'd really help her business. Oh, and she is willing to pay you for your time."
    [509] 0xF2AD75AB51FC3B87: Order a Drink at {OpTarget}.
    [50A] 0xE40240AB4A6DD3ED: Drink Promotion
    [50B] 0x961C29A610D65F8D: Order a Drink.
-   [50C] 0x9AC2058D4328370A: "Wow…this painting is magnificent! I simply must have it for my collection. The other collectors will be quite jealous of this find."
+   [50C] 0x9AC2058D4328370A: "Wow... this painting is magnificent! I simply must have it for my collection. The other collectors will be quite jealous of this find."
    [50D] 0x4276DA4B63E57FBE: "This must be the {OpOwner} I've been hearing about. I'm {OpTarget} and I've heard quite a bit about you in the art collecting community. I would be honored if you brought me a sample of your work. If it's good, I might be able to turn your talent into fame."
    [50E] 0xB416FD1994EBD233: "Deliver" a painting worth at least {OpItemWorth} Simoleons.
    [50F] 0xE751D019B1BA87A1: Popular Painter
@@ -1304,11 +1304,11 @@ Unknown3: 0x00000000
    [513] 0xD74725B277285C98: Best Food in Town
    [514] 0xB4113E0C30CDB1B4: Eat at Restaurant.
    [515] 0x2298D91A0875C476: Wow, it's surprisingly easy to convince others to do anything you say when you're famous! Hopefully, the restaurant improves their mediocre food.
-   [516] 0x693243C74533D7A2: Meh… The food isn't that great. However, the owner promised it would get better, and offered you a sizeable sum to talk up the place. Go out and tell some people about the food.
+   [516] 0x693243C74533D7A2: Meh... The food isn't that great. However, the owner promised it would get better, and offered you a sizeable sum to talk up the place. Go out and tell some people about the food.
    [517] 0xC2F4A8D8C19A37B7: "Promote Restaurant" to {OpNumEventsGoal} Sims.
    [518] 0xB0E333D8B72839FD: Best Food in Town
    [519] 0x3EFE28B47C012D7D: Promote Restaurant to {OpNumEventsCurrent} / {OpNumEventsGoal} Sims.
-   [51A] 0xA6C9E0DEC133C593: It was quite the event! A star celebrity presenting a giant check to the town's school. However, the students were…well…less than excited about having the Llama Herding program extended.
+   [51A] 0xA6C9E0DEC133C593: It was quite the event! A star celebrity presenting a giant check to the town's school. However, the students were... well... less than excited about having the Llama Herding program extended.
    [51B] 0xFB84D5ABB64E8429: "Hey, {OpOwner}, it's your agent. I've got a little assignment for you. Your charity recently donated a large sum to {OpTarget} to save the school's Llama Herding program, and the superintendent wants you to present the comically oversized check to the students. Obviously, this isn't a paid gig, but it's a great photo op."
    [51C] 0xD3B9363D61115462: "Present Check" at {OpTarget}.
    [51D] 0xA0B5433D4471AACC: Save the Herding
@@ -1319,7 +1319,7 @@ Unknown3: 0x00000000
    [522] 0x96A4D83BD5C77C49: Broadway Cameo
    [523] 0x812C6A6A66BA8339: Cameo In Play
    [524] 0xB8DC23C1074C5EA5: Nice! Now you'll have something to show off when the paparazzi take photos of you at the pool.
-   [525] 0x6A4C74FE22E509CB: "{OpOwner}, this is your agent. So, we both know you're gorgeous… I mean, why else would you be so popular? But listen, to keep up that image, you gotta hit the gym. Go work out for a bit!"
+   [525] 0x6A4C74FE22E509CB: "{OpOwner}, this is your agent. So, we both know you're gorgeous... I mean, why else would you be so popular? But listen, to keep up that image, you gotta hit the gym. Go work out for a bit!"
    [526] 0x984DE3DDED7DEE60: Work Out for {OpEventTimeGoal} Hours.
    [527] 0x863C90DDE30C29CA: Celebrity Body
    [528] 0x4BC9CE4CC85E3B9A: Work Out for {OpEventTimeCurrent} / {OpEventTimeGoal} Hours.
@@ -1574,12 +1574,12 @@ Unknown3: 0x00000000
    [621] 0x0AA11CE346A79D8D: New Blood, New Drinks
    [622] 0x4345243808422E2D: {OpEventTimeCurrent} / {OpEventTimeGoal} Hours spent working at {OpTarget}.
    [623] 0x3C3454318010A670: {OpSourceFirstName} will be glad to see that {OpOwner} helped out enough to ease the workload. {OpOwner} should go check in with {MC.him}{FC.her}.
-   [624] 0xEC4F85EBD814E3F4: {OpSource} is tight with the management at {OpTarget} and thought that {OpOwner} might be interested in a mixology gig there. This lounge is supposed to be really high class, so the tips and pay should be well worth it…if {OpOwner} has the skill to make some serious drinks.
+   [624] 0xEC4F85EBD814E3F4: {OpSource} is tight with the management at {OpTarget} and thought that {OpOwner} might be interested in a mixology gig there. This lounge is supposed to be really high class, so the tips and pay should be well worth it... if {OpOwner} has the skill to make some serious drinks.
    [625] 0x13CB6FD5AF38374D: Moonlight as a Mixologist at {OpTarget} for {OpEventTimeGoal} Hours, then report to {OpSource} for the reward.
    [626] 0x25DCC2D5B9A9FBFB: Elite Mixology
    [627] 0xDF213BF2B8F15867: {OpEventTimeCurrent} / {OpEventTimeGoal} Hours spent working at {OpTarget}.
    [628] 0x59CE8E3A156A9D08: "Well played. Management was pleased with the overall performance and I got a bit of a finder's fee. Here's a portion as thanks for not making me look bad."
-   [629] 0x337666A35B8E50DC: {OpTarget} is tight with the management at {OpSourceVenue} and thought that {OpOwner} might be interested in a mixology gig there. This lounge is supposed to be really high class, so the tips and pay should be well worth it…if {OpOwner} has the skill to make some serious drinks.
+   [629] 0x337666A35B8E50DC: {OpTarget} is tight with the management at {OpSourceVenue} and thought that {OpOwner} might be interested in a mixology gig there. This lounge is supposed to be really high class, so the tips and pay should be well worth it... if {OpOwner} has the skill to make some serious drinks.
    [62A] 0x248A13B1F86F4255: Moonlight as a Mixologist at {OpSourceVenue} for {OpEventTimeGoal} Hours, then report to {OpTarget} for the reward.
    [62B] 0x35F866B20256A553: Elite Mixology
    [62C] 0x1D3DE544C18D174F: Report to {OpTarget}.
@@ -2048,7 +2048,7 @@ Unknown3: 0x00000000
    [7FB] 0xF74D5801FA3B1925: We are unable to verify that your disc is a valid copy of The Sims 3 Late Night. Please contact customer service.
    [7FC] 0xB4482FA721929781: No game disc found! Please insert The Sims 3 Late Night game disc before proceeding.
    [7FD] 0x3D220B6AD18BFCDC: Subways are a great way to rapidly traverse the city, but there’s always a chance that you might get mugged!
-   [7FE] 0x6CD6428210DEA9E4: Ooo… Buuuubbles! Your Sims will love the Hot Tub as much as you do. Warning: Extended use may lead to pruning.
+   [7FE] 0x6CD6428210DEA9E4: Ooo... Buuuubbles! Your Sims will love the Hot Tub as much as you do. Warning: Extended use may lead to pruning.
    [7FF] 0x6CD6428210DEA9E5: Shy Sims are happiest in the company of close friends and don’t take well to strangers.
    [800] 0x6CD6428210DEA9E6: If all the Sims ever created joined hands in a chain, they would stretch from Sunset Valley to Bridgeport and back over one billion times!
    [801] 0x6CD6428210DEA9E7: Keep an eye out in Bridgeport for the food truck. It’s the best place to get a sinfully greasy snack on the go!
@@ -2064,12 +2064,12 @@ Unknown3: 0x00000000
    [80B] 0x6CD6458210DEAEDF: Feel like making music with other Sims? Consider jamming. It’s a nice way to make friends too.
    [80C] 0x6CD6458210DEAEDE: The key to making your Sim famous is befriending Celebrities. Send them to the hottest spots in town to make some Celebrity connections!
    [80D] 0x6CD6458210DEAED9: There are many perks to becoming a Celebrity, from discounts around town to free products from major businesses!
-   [80E] 0x6CD6458210DEAED8: Celebrity Sims are under greater public scrutiny, so watch your Sim’s actions! They might end up the talk of the town…and not in a good way.
+   [80E] 0x6CD6458210DEAED8: Celebrity Sims are under greater public scrutiny, so watch your Sim’s actions! They might end up the talk of the town... and not in a good way.
    [80F] 0x6CD6458210DEAEDB: Celebrities won’t talk to just anyone. Impress Celebrities by talking to them about subjects they are interested in and maybe they’ll warm up to your Sim.
    [810] 0x6CD6458210DEAEDA: Need some personal info about local Celebrities? Try to pick up some dirt by asking other Sims for Celebrity Gossip.
    [811] 0x6CD6458210DEAED5: Celebrities keep tall gates around their homes to prevent curious fans from visiting them. Your Sims will have to befriend Celebrities around town before being allowed to visit their homes.
    [812] 0x6CD6458210DEAED4: Daring denizens of the night may be roaming your town. Will you fight against them or join them?
-   [813] 0x3D220B6AD18BFCDE: Want a wall stereo of your very own? Perhaps you can snag one when nobody is looking…
+   [813] 0x3D220B6AD18BFCDE: Want a wall stereo of your very own? Perhaps you can snag one when nobody is looking...
    [814] 0x6CD6448210DEAD0A: Vampires can...breed? That’s one cute baby, except for the fangs!
    [815] 0x6CD6448210DEAD0B: Vampires are at their best at night – they gain skills more quickly, their motives decay slower, and they can read other Sims' minds to learn their traits, likes, and dislikes!
    [816] 0x6CD6448210DEAD08: Vegetarian Vampires can enjoy a special snack: Plasma Fruit! Cultivate it like any other fruit with seeds found around town.

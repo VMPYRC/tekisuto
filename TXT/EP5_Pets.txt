@@ -30,7 +30,7 @@ Unknown3: 0x00000000
    [019] 0xD2420C81A3E5417C: Spider Web
    [01A] 0x1116821FD7B76BD7: Tooled Leather
    [01B] 0xBB0D813011513BB9: The Sims™ 3 Pets
-   [01C] 0xAC4D7BFF032C03D6: The joy of farming - in miniature! Without any backbreaking labor required. Why spend the effort? Let these industrious little fellows do all the work and enjoy the fruits of their labors… for as long as you desire.
+   [01C] 0xAC4D7BFF032C03D6: The joy of farming - in miniature! Without any backbreaking labor required. Why spend the effort? Let these industrious little fellows do all the work and enjoy the fruits of their labors... for as long as you desire.
    [01D] 0x9994ABDC81D38CAA: It's a big backdrop!
    [01E] 0xB8FE1C456C544942: Built strong and hearty like the farm folk of yore, Old Barley's Lucky Barstool will keep your Sims deeply grounded while they enjoy their favorite meals. Luck implied, but not included.
    [01F] 0xF09A8591BD4BD0FA: Inspired by the teen drama "Porcelwood's Creek", we've created a furniture line made from porcelain and wood. These materials also represent our human strength juxtaposed with our weaknesses . This tub is deep, literally.
@@ -49,19 +49,19 @@ Unknown3: 0x00000000
    [02C] 0xEFF397E0E087E477: Only Animal Control officers may drive this vehicle.
    [02D] 0xD9D1562D4BDDE878: IceCreamTruck - if you see this in game BUG it
    [02E] 0x087AC58D4385F41C: Carrots are tasty, yum!
-   [02F] 0x67E34465FEA14A46: Frosty Dreams…serving Sims since the dawn of refrigeration on wheels.
+   [02F] 0x67E34465FEA14A46: Frosty Dreams... Serving Sims since the dawn of refrigeration on wheels.
    [030] 0x43E7DBC389B4C1A3: Whether it’s nap time, sleep time, scratch time, or simply hang-about-and-do-nothing time Classy Cats know that the Cat Condo is where it’s at! Durable, shred resistant covering, and plenty of perches make this the ultimate in kitty cohabitation environments. It is kitten friendly too!
    [031] 0x17EFEE66F254A0D0: There is no fancier place for felines to frolic than the Cat Jungle Gym! Constructed of sturdy, yet malleable cat friendly fibers this playhouse is designed to stimulate your pet’s sense of independence and adventure, all the while creating a fun filled environment in which to interact with other cats. Catnip included.
-   [032] 0x6B5D6D3682E54A3D: Hypnotic, entrancing, wobbly…these are but three of the words used to describe this fantastical Wall Dancer cat toy! Watch it bounce and bob to and fro as cats attack it with their paws and claws! Sims can get in on the action too by joining their pet in the rambunctious merriment this toy provides!
+   [032] 0x6B5D6D3682E54A3D: Hypnotic, entrancing, wobbly... These are but three of the words used to describe this fantastical Wall Dancer cat toy! Watch it bounce and bob to and fro as cats attack it with their paws and claws! Sims can get in on the action too by joining their pet in the rambunctious merriment this toy provides!
    [033] 0x78869F03D1A9716A: Wondrous worlds of feline fascination are found within the bouncy bounds of this Feathered Wall Dancer cat toy! Cats love to paw at it, bat at it, even nibble at it! For extra fun, and feline bonding, have a Sim and a cat play with it together!
    [034] 0x6D68B78840FA518E: Feeling sassy, classy, or both? Mix it with tongue-in-cheek expressions and elegant word play. Pull up The Sassy Classy Dining Chair for a unique dining experience! 
    [035] 0xE3416A8669589478: This dining chair is made from the sturdiest and heaviest wood. In fact, each chair weighs as much as a small car! To add to your bragging rights of owning the world's heaviest chair, we've also included heavy iron brackets that hold each chair together!
    [036] 0x5E04B44398EFF295: It's a well-known fact that having a puffy chair is considered high class, but a tufted, puffy chair is simply royal! So plunk down your money, and your bottom, for this one of a kind chair!
    [037] 0x8C003A46A22282BE: There ain’t nobody nowhere that can make a more good sittin’ chair than the good ol’ El Comforto. Made over many years with careful carvin’, stichin’, and constructin’, El Comforto will provide any cowboy or girl a good sit after a long day tumblin’ on down the trail.
    [038] 0x54E99805D8751914: Do you like many decorating styles, but have limited space to decorate in style? Then pick the Mixed Media Chair! With a classic silhouette, this chair allows for multiple design decisions! Mixed Media Chair - for the indecisive Sim with a fat wallet!
-   [039] 0x3E1216D726ED6E9D: You can tell a lot about a person based on what kind of chair they choose to lounge on. Choosing The Rustic Lounger implies intelligence, taste, comfort… or whatever it will take to get you to buy this chair.
+   [039] 0x3E1216D726ED6E9D: You can tell a lot about a person based on what kind of chair they choose to lounge on. Choosing The Rustic Lounger implies intelligence, taste, comfort... or whatever it will take to get you to buy this chair.
    [03A] 0x5874F2C09EA94729: The only thing better than a real bone is a chewy bone! A super duper, squeaky, chicken flavored chewy bone! Keep your dog occupied for minutes (and maybe hours!) with the Chewy Toy Bone. Made with love (and real chickens!) by the good folks at Simina Pet Products.
-   [03B] 0x27B13815D9F97F4E: The Bow WOW Chew Toy lives up to its name! The high quality, flexible plastic is a real hit with the canine crowd! If they could speak Simlish they’d say “WOW” every time they put this bad boy in their mouth. Mostly natural materials and durable to a point, this is the one, the only, the WOW-erific King of dog chew novelties…and it even tastes like bacon.
+   [03B] 0x27B13815D9F97F4E: The Bow WOW Chew Toy lives up to its name! The high quality, flexible plastic is a real hit with the canine crowd! If they could speak Simlish they’d say “WOW” every time they put this bad boy in their mouth. Mostly natural materials and durable to a point, this is the one, the only, the WOW-erific King of dog chew novelties... and it even tastes like bacon.
    [03C] 0xB9D7C2A2FC24189E: The early promise of the local mine saw money pour into the community, even enticing the governor to establish his seat of power in the region. When the gold ran out the governor relocated, but his extravagant mansion remained. It now serves as city hall, as well as housing the police department and a military outpost.
    [03D] 0xF2625B0ABA3932B8: Imported from a far away land this clever little clock is fashioned in a style known as 'Kitty Couture'. Popular the world over - or at least in the world overseas - this precious time piece is sure to add a dash of cuteness to any room.
    [03E] 0xB78A1C920298AAF2: Believe it or not these columns are found naturally in nature and are simply harvested by the experts at Landgraab Industries. Moving them is a challenge, as a stack o’ rocks is highly unstable when in motion.
@@ -89,7 +89,7 @@ Unknown3: 0x00000000
    [054] 0xA60904B9AFED44D9: Need an arch that looks both rustic and can support over ten times its own weight? Then the Cinder Burrow is your arch of the day. Its reinforced frame makes the Cinder Burrow Arch the perfect entryway for walls built from the heaviest of materials.
    [055] 0x57B268FA6C942702: When you think of a barn door perhaps you envision a weather, cracked, moldering piece of ancient wood. Thoughts like this sadden the good folks at FarmCo. They build their barn doors to last! Weather, fire, hoards of angry llamas, none of these things can damage the fine craftsmanship and quality found in a FarmCo. barn door!
    [056] 0x57B974FA6C9A5A74: Balance is an important aspect of a well-structured barn door. The master crafters at FarmCo. spend days carefully measuring and sanding each door to ensure that it is perfectly symmetrical at all points. Perfection may be a science, but no one can deny that these barn doors are art.
-   [057] 0x7A9F6789753E7C36: Some barn arches are small. Some barn arches are slender. This barn arch is big. Really big. Super big. So big that the arch masters at FarmCo. felt they should use the word ‘big’ in its name. Big Barn Arch. A name that conveys….big.
+   [057] 0x7A9F6789753E7C36: Some barn arches are small. Some barn arches are slender. This barn arch is big. Really big. Super big. So big that the arch masters at FarmCo. felt they should use the word ‘big’ in its name. Big Barn Arch. A name that conveys... big.
    [058] 0x7A8A6389752C1900: Not all barn arches are built to be equal. If you want the biggest, the grandest, the mightiest of barn aches then you need THIS barn arch. It is guaranteed to be the best – its name says so.
    [059] 0x86A70DD02E597E9F: Icelandic design meets country flavor with the Björn Barn Door. These sleek doors have a bold geometric style combined with just the right touch of the back country to make them the perfect first impression for visitors to your home. Not to be confused with the Bjørn Sliding Door, from the Norwegian designers that shamefully rip off Björn's fine products.
    [05A] 0x863385F37BC32270: The Agricola's Gateway is made from old barn doors with updated modern hardware! With a 500% markup, this piece is well worth the price as a conversation starter and guest impressor! "Hey! Did you know these doors are from an old barn? You didn't? Well let me tell you about them!" You're welcome.
@@ -160,7 +160,7 @@ Unknown3: 0x00000000
    [09B] 0x7CDE29275ACAB9FE: The Overhang Wall Lamp is the next generation in home décor! Flashy and modern, it is sure to find a place in homes for the next decade or more! Get a head start and replace all your other wall lamps with the Overhang Wall Lamp today.
    [09C] 0x756A02239D50DC36: This little lamp may not look like much, but our much beloved bunny is very fond of it. He has excellent taste, don't you agree?
    [09D] 0x2100685CE137AA62: It's amazing how a simple wall lamp can bring a brilliant glow that warms a whole room. It's a good thing you decided to place this in your main living area. And your kitchen. And your bathroom. Heck, you even decided to place one in your garage, didn't you? The Serenity Wall Lamp...may everywhere you go be shiny.
-   [09E] 0x73660018B0721B20: Trying to craft a mood of 'ye olden days' in your home? Using only the finest aged mahogany and handcrafted steel, Le Rustique Lighting can ensure your room feels musty, pale, and older than olde… well, not before the invention of the light bulb kind of olde, but you get the idea.
+   [09E] 0x73660018B0721B20: Trying to craft a mood of 'ye olden days' in your home? Using only the finest aged mahogany and handcrafted steel, Le Rustique Lighting can ensure your room feels musty, pale, and older than olde... well, not before the invention of the light bulb kind of olde, but you get the idea.
    [09F] 0x432272949C20AF08: This rustic wall lamp embodies all that is great about country living. Rural simplicity paired with a homey design will make you feel like you are living on a ranch...without actually being there. A vacation experience in the comfort of your own home! Get The Wrangler's Wall Lamp today, and roam the frontier of the imagination tonight!
    [0A0] 0xFD2401E634A3903B: Cleaning dirty litter boxes is a chore of the past! The Litter Box of the Future makes excellent use of the most futuristic feature of all - Lasers! Pew! Pew! Cat refuse is automatically vaporized in a matter of minutes! Warning: Vapor may be stinky.
    [0A1] 0x89BF745B9EEECD14: A pile of used litter, yuck!
@@ -217,13 +217,13 @@ Unknown3: 0x00000000
    [0D4] 0x5772DCAFB24EF868: Cult Classic Films may be a little off beat, and may not feature the biggest stars, but they are still quite memorable! I can watch them again and again and again...
    [0D5] 0xDADFFBD0321AB450: A cat has many dreams, and this cat has one very special dream...to nom on a tasty grilled cheese sandwhich! Grilled cheese...it's not just for Sims anymore.
    [0D6] 0x9AE688E01803986A: Is there anything cuter than small animals you ask? Of course there is! Young small animals! Place this painting in your house today to remind you that no matter how cute you think your small animal is, there is a younger, cuter animal out there somewhere.
-   [0D7] 0x4D0B19FD9CFC3B6D: Hear the chirp of crickets and the mourning howls of coyotes. Let your eyes roam from one end of the desertscape to the other. Smell the aroma of the cactus flower wafting across the sand. Touch the rough grain of the pine frame. Taste…well, no. This painting only embodies four of the five senses.
+   [0D7] 0x4D0B19FD9CFC3B6D: Hear the chirp of crickets and the mourning howls of coyotes. Let your eyes roam from one end of the desertscape to the other. Smell the aroma of the cactus flower wafting across the sand. Touch the rough grain of the pine frame. Taste... well, no. This painting only embodies four of the five senses.
    [0D8] 0x3E702C8ECF5B6823: Can you tell what this is a painting of? A fool could tell you right off the bat, but he’d be wrong. Cowboys have been pondering this image for decades. Perhaps you can figure out just what it is you're supposed to be looking at?
    [0D9] 0xFFE629F2F16D5C67: After being lost and alone in the northern plains for almost 6 months legendary cowboy Alfonso El Dorado returned a changed man. Without his horse and hat, Alfy (as his momma called him) took to the brush and canvas. These paintings are the only remaining testament to his cowboy legacy, because his sculptures were used for target practice.
    [0DA] 0x41837DCA2181F896: If a fluffy feline is all you require to fulfill your calendar dreams and desires, then this Kitty Calendar was made just for you! Cuddly kitties abound in this lovely organizational wall piece. Your heart will melt as you gaze upon month after month of sweet kittens and cantankerous tom cats!
    [0DB] 0x41797FCA2179A7A4: If a Sim's Best Friend is all you require to fulfill your calendar dreams and desires, then this Canine Calendar was made just for you! Noble pups abound in this lovely organizational wall piece. Month after month of boisterous barking beauties will greet you as you pencil in appointments and revelries.
    [0DC] 0x4C1A80E31BBF93B1: If a noble steed is all you require to fulfill your calendar dreams and desires, then this Horsey Calendar was made just for you! Equine beauty abounds in this lovely organizational wall piece. Swoon over fillies and foals while you keep track of mundane tasks.
-   [0DD] 0xFB8CA3F798A3C021: Text deleted? Who’s messing with the copy? This brand new poster entitled Three Dog M[TEXT DELETED]. Grrr! Look, there are three dogs, there is a planetary body and thus it has been entitled Three Do[TEXT DELETED]. Argh! Can we please not edit the copy!? It’s a poster of three animals, there happens to be celestial object… you might even say moon. Moon. Now you’re ok with moon!? Three [TEXT DELETED]… seriously?!
+   [0DD] 0xFB8CA3F798A3C021: Text deleted? Who’s messing with the copy? This brand new poster entitled Three Dog M[TEXT DELETED]. Grrr! Look, there are three dogs, there is a planetary body and thus it has been entitled Three Do[TEXT DELETED]. Argh! Can we please not edit the copy!? It’s a poster of three animals, there happens to be celestial object... you might even say moon. Moon. Now you’re ok with moon!? Three [TEXT DELETED]... seriously?!
    [0DE] 0x316923B427E77ABD: This collection of frames comes straight from grandmother Alberta Werthington’s house. Alberta always prided herself on the classic arrangement of the frames; an arrangement that took her 5 years of staring at the wall.
    [0DF] 0xA0148C3F2326FFBB: Deep in the undergrowth, natives silently stalk the Simadonian Python, waiting for the great serpents to shed their skin. It is whispered that the beasts only shed twice a year on nights with a full moon obscured by rain clouds. The Simadonian natives gather the delicate skin and quickly seal it behind glass before it flakes away into dust. From Simadonia to your living room.
    [0E0] 0x3CEABA5672CE90C5: Bow wow wowzer! When it comes to top of the line doggy and kitty comfort, look no further than the Bow Wow Wowzer Pet Bed. It'll put a little wowzer into the dreams of your pets!
@@ -241,7 +241,7 @@ Unknown3: 0x00000000
    [0EC] 0x48B227C4228C4378: Hand crafted to resemble some of Twinbrook's finest residential architecture, give your pet the best in multi-level living with the Twinbrook Tandem!
    [0ED] 0xE14F65496571236F: Quick and easy way to clean your pet!
    [0EE] 0x0AB0A2A751E9BEA4: Sir Bricks-a-lot Jr, from the same folks that brought you Sir Bricks-a-lot. What could be more fun than a brick? Nothing! Sir Bricks-a-lot Jr, the cuddly wubbly brick for the whole family. Now with 50% more wubbly!
-   [0EF] 0x86123D0770D54050: Not long ago there lived a fish named Fred. Fred was a happy fish. One day while Fred was leisurely swimming along enjoying a sun bath, he found himself hit in the head by a Gonk Rock. And now Fred is dead, but the rock lives on… it lives on for you.
+   [0EF] 0x86123D0770D54050: Not long ago there lived a fish named Fred. Fred was a happy fish. One day while Fred was leisurely swimming along enjoying a sun bath, he found himself hit in the head by a Gonk Rock. And now Fred is dead, but the rock lives on... it lives on for you.
    [0F0] 0x68E8F98B2FE36428: A shiny ball of foil!
    [0F1] 0xFA31422F0C48F9B0: A discarded piece of paper.
    [0F2] 0xF470CDB7F2DE1606: A plastic cat toy.
@@ -286,7 +286,7 @@ Unknown3: 0x00000000
    [119] 0x3CF32F1D4DEDFD06: Insert tree. Watch it flourish. The city is more beautiful. The air quality is improved. Why didn't we add trees sooner?
    [11A] 0x095B5C6361A81B7B: This wagon wheel reproduction has been crafted from its very own piece of timber; lovingly shaved, sheered and carved until all that remained was a pair of perfect wagon wheels. Remember the past by harvesting our future.
    [11B] 0x4C5575AF7D7395F9: Now with 100% less horse for your safety, the Standing Riding Horse sculpture provides a unique opportunity to visualize your riding experience long before you climb aboard the real thing to risk life and limb. Prepare before you dare!
-   [11C] 0x60C44DC758E03943: Brushes, lather, a hoof pick…all the things your Sim needs to keep their horse’s coat beautiful and clean! A clean horse is a happy horse. And we all want a happy horse, right? A sad horse…well, that would just be…sad.
+   [11C] 0x60C44DC758E03943: Brushes, lather, a hoof pick... all the things your Sim needs to keep their horse’s coat beautiful and clean! A clean horse is a happy horse. And we all want a happy horse, right? A sad horse... well, that would just be... sad.
    [11D] 0x6D24015FE98598E4: These ultra pellets are biodegradable, squishy, and they smell nice too! This pet bedding is flexible! It will keep reptiles warm at night, and rodents entertained during the day! Birds love to play in it! The benefits almost outweigh the price tag. Almost.
    [11E] 0x70DAC7051895376B: The daily walk is the highlight for many a dog! Keep them wondering when it will occur by furnishing your home with multiple Pet Leash sculptures. Also makes a great paperweight.
    [11F] 0x138186B7FD10447F: Handcrafted by an old sea captain who was known only as "Salty." Some say he was really grumpy, some say he was seldom kind. But everyone agrees that his handcrafted flower barrels are top notch and sought after by flower barrel collector’s the world over.
@@ -303,13 +303,13 @@ Unknown3: 0x00000000
    [12A] 0x413B8D10189B4E6E: Only naturally growing inside of old gum trees, the Ranch Flower is a rare sight to be seen! Arranged tastefully to symbolize its natural habitat, this flower will surely impress any guests you have in your house.
    [12B] 0x5F21E82275C5B8DC: Sculpted in the likeness of Palomar, the once famous horse who became a member of parliament, this sculpture should serve as a reminder to all people of Simlandonia to never again elect a horse to a government position.
    [12C] 0xEAEC3567289CDBFB: Industrial strength rope powerful enough to stay a stallion, yet flexible enough to finesse a filly.
-   [12D] 0xF5D17898BFB2C98C: A bridle must be individually fitted to each horse’s unique head, and we here at Buntington believe that a comfortable horse is a happy horse! And what’s better than a happy horse? A stylish horse! Yes, our bridles are not only comfortable but attractive too! Bridles by Buntington…happening headgear for headstrong horses! 
+   [12D] 0xF5D17898BFB2C98C: A bridle must be individually fitted to each horse’s unique head, and we here at Buntington believe that a comfortable horse is a happy horse! And what’s better than a happy horse? A stylish horse! Yes, our bridles are not only comfortable but attractive too! Bridles by Buntington... happening headgear for headstrong horses! 
    [12E] 0x1DB1D130E4D93194: 2-Shoe is the official symbol of the Bi-Legged Derby, known mostly for its clip-clip-jump style of racing. It has the side benefit of only requiring the horse to wear two shoes. Which, to the joy of many a blacksmith, has been attributed to a dramatic decrease in shoulder injuries.
    [12F] 0xAA8E66C87075A4E0: Gas prices have driven many an economical monstrosity to the top of the scrap heap. Among the heap risers, are the town cars of the great lone star state. Thousands of longhorn ornaments have been rescued from the maw of the crusher. Get yours now, before the bulls come calling!
    [130] 0x0629E4148623257E: Looking to complete that Tack-EE designed look in your house? Look no further than the Pet Plates! Honor your pets with these fine Tack-EE designs, because nothing screams Tack-EE louder than these plates!
    [131] 0xAD5DE46370FBEED4: It's amazing what can be found on the back roads of this great land of ours! Rocks, trees, some dirt, and maybe if you look hard enough, you can find A Little Bit o'Country. But if you don't, we did! We've dusted it off, added simulated rust, dents, scratches and just about everything you need to make you feel country... without all that outdoor mess.
    [132] 0x57C1EC678444AE98: Aromas from the plains of the Serengeti, oils from the rivers of Egypt, and fabrics woven by the hands of the world's finest artisans were our inspiration! Our simulated accoutrement technology is ready to be put to the test in this first ever display for public acquisition. Warning: All shelved items are for display purposes only. Please do not ingest display items or come within 2-1/2 feet of the display.
-   [133] 0xD485A215F58C8350: The wheels on the wagon go round and round, up and down, around and around…the wheels on the wagon go round and round…until they all fall off!
+   [133] 0xD485A215F58C8350: The wheels on the wagon go round and round, up and down, around and around... the wheels on the wagon go round and round... until they all fall off!
    [134] 0x1E38DE8523DAA8C4: Chic, sophisticated, alluring, the G-Class shower by Ele-Gante has been named the best new luxury shower in its class for the 9th straight year. J.C. E'Lane, director of public relations, commented: "She's a keeper!" at a recent press event and truer words could not be found. The G-Class, a first time experience, every time!
    [135] 0xA36CA4EF3AB09E7C: Ponies! Ponies! Ponies!
    [136] 0x5F1CF4A7D7301460: Simina Pet Chow, making pets happy and keeping them healthy.
@@ -325,7 +325,7 @@ Unknown3: 0x00000000
    [140] 0x8D07E15888565014: A dog's best friend.
    [141] 0xFC602D530C1BD672: This stone is smooth and partially round.
    [142] 0xFC602D530C1BD673: This stone is not smooth to the touch.
-   [143] 0x260F5BE6EBE7A9FF: "Faux Stove? Faux sure!" That catchy marketing idiom adorns the windows of the appliance stores, and fills the airwaves until you feel compelled to learn more! And learn you shall! Is it a stove? Is it a cabinet? Well… one thing is certain, it's the absolute perfect fit for the kitchen of your dreams! Buy one today and you'll be cooking in "faux" time!
+   [143] 0x260F5BE6EBE7A9FF: "Faux Stove? Faux sure!" That catchy marketing idiom adorns the windows of the appliance stores, and fills the airwaves until you feel compelled to learn more! And learn you shall! Is it a stove? Is it a cabinet? Well... one thing is certain, it's the absolute perfect fit for the kitchen of your dreams! Buy one today and you'll be cooking in "faux" time!
    [144] 0xA0145EC70B7165DF: Place this gnome on your lawn to lure stray cats to your yard, or keep them away!
    [145] 0x37405EEC81862A88: Place this gnome on your lawn to lure stray dogs to your yard, or keep them away!
    [146] 0x1ACD6DA397DB2937: Place this gnome on your lawn to lure wildlife to your yard, or keep them away!
@@ -343,7 +343,7 @@ Unknown3: 0x00000000
    [152] 0x58C64CFDA2E7D267: Whatever your pursuits may be, the Reinforced Personal Stage is there to keep you put no matter what dangers may lurk! Polyurethane ribbing and our patented "Bolt and Nut" securing method are guaranteed to prevent any of the usual malfunctions you might find with lesser brands. Fear not friends, you shall never find yourself face first on the floor from unwanted bowl separation! Bowl and tank, together as one... as was intended by the natural order!
    [153] 0x217BE544A84139D7: Dinosaur teeth! 25 simoleons! Today only!
    [154] 0xEA0AFC7B6113C11E: All that remains of a well loved pet toy.
-   [155] 0xD7838A388E8102CD: On your mark, get set… Go! The Dashing Training Post is a great way to condition your horse for those Racing and Cross-Country competitions. Horses specifically trained with these posts have been rumored to becoming faster than a speeding bullet! Ok, well maybe not that fast, but close enough!
+   [155] 0xD7838A388E8102CD: On your mark, get set... Go! The Dashing Training Post is a great way to condition your horse for those Racing and Cross-Country competitions. Horses specifically trained with these posts have been rumored to becoming faster than a speeding bullet! Ok, well maybe not that fast, but close enough!
    [156] 0xA9829568AD6C49D0: Another breakthrough in style and functionality! After researching the behavior of children stuffing everything in their closets and under their beds instead of cleaning their room, SimKing brings you their latest line in trash receptacles that guarantees refuse to be out of sight and out of mind until the next trash day.
    [157] 0x1FD7F8140081C2C6: Did you know that Cottonwoods can be either male or female? It is the fluffy white seeds produced by the females during early summer that give the tree its name.
    [158] 0xB2BC5D09E3828776: The Yellow Cottonwood is a lot like a regular cottonwood. Only different. And our differences are what make us special.
@@ -581,7 +581,7 @@ Unknown3: 0x00000000
    [240] 0xFCB836F272E99B9B: Grilled Cheese!
    [241] 0xC1566406B4909EF1: Small Animals
    [242] 0x210276F19CDC6D64: Moonset in the West
-   [243] 0x466D690CE7E4D3AC: …A Fool From Any Direction
+   [243] 0x466D690CE7E4D3AC: ...A Fool From Any Direction
    [244] 0x0D64418EBB5C7250: El Dorado’s Destiny
    [245] 0x10F5A9F3293F2959: Kitty Calendar
    [246] 0x11009BF32949188F: Canine Calendar
@@ -1324,15 +1324,15 @@ Unknown3: 0x00000000
    [527] 0x723422796595EC0D: Print
    [528] 0xA21A149FB779E78B: Do you want to completely remove the selected application and all of its features?
    [529] 0xB4C45027DC25AC3E: Boosting Bark Volume...
-   [52A] 0x4F4071BB1403AD6A: Emptying Litter Boxes…
-   [52B] 0xB4C45027DC25AC3D: Carpeting Cat Condos…
+   [52A] 0x4F4071BB1403AD6A: Emptying Litter Boxes...
+   [52B] 0xB4C45027DC25AC3D: Carpeting Cat Condos...
    [52C] 0xB4C45027DC25AC3C: Reticulating Tail Splines...
-   [52D] 0xB4C45027DC25AC3B: Sharpening Unicorn Horns…
+   [52D] 0xB4C45027DC25AC3B: Sharpening Unicorn Horns...
    [52E] 0xB4C45027DC25AC3A: Saddling Up...
    [52F] 0xB4C45027DC25AC39: Allocating Canine Loyalty...
    [530] 0xB4C45027DC25AC38: Calibrating Claws...
    [531] 0xB4C45027DC25AC37: Hatching Fleas...
-   [532] 0xB4C45027DC25AC36: Wagging Tails…
+   [532] 0xB4C45027DC25AC36: Wagging Tails...
    [533] 0x1AFD3B6C04E279AB: We are unable to verify that your disc is a valid copy of The Sims™ 3 Pets. Please contact customer service.
    [534] 0xD3470C4E6B734D1F: No game disc found! Please insert The Sims™ 3 Pets game disc before proceeding
    [535] 0x3C56F45B5E15FF7A: You placed a Cat Jungle. This location is perfect for cats to safely play outdoors and make new friends!

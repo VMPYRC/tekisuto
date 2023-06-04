@@ -2,7 +2,7 @@ Unknown1: 0x0000
 Unknown2: 0x0000
 Unknown3: 0x00000000
 --- (0xAD4) ---
-   [000] 0xCF26DB3E95D9EB47: This genre-defining sculpture was created by the senior class art students and donated to The Sims University to proudly display. The students involved in creating this sculpture couldn’t divulge their inspiration for this puzzling piece, except that they believe it’s a sign of things to come…
+   [000] 0xCF26DB3E95D9EB47: This genre-defining sculpture was created by the senior class art students and donated to The Sims University to proudly display. The students involved in creating this sculpture couldn’t divulge their inspiration for this puzzling piece, except that they believe it’s a sign of things to come...
    [001] 0x34DA1EA37464163E: Into the Future
    [002] 0x1BA15DCCD3BE8680: Wall with Low Panels and Thick Molding
    [003] 0xD9ABC05555FEE5B3: Wall with High Panels and Thin Molding
@@ -135,7 +135,7 @@ Unknown3: 0x00000000
    [082] 0x05D6E549DA04C421: LibraryEP09_Doors desc DO NOT TRANSLATE
    [083] 0x926C0E8F34FD4BD2: Lamps are so last season, always casting the same light. Accelerate your life with Bolt track lighting! Four prehensile bulbs draw eyes to the highlights in any room.
    [084] 0x904F8CDAFA9A665E: “Is that an alien invasion on your ceiling, or are you just the coolest person I’ve ever met?” Wow friends and family with this three-piece UFO-inspired appliance.
-   [085] 0x8A61176395D27806: Open your mind and prepare it to receive…The Nozzle. Four prehensile stalks emerge from the floor and blossom out like a glowing alien plant. Unlike a plant, it needs electricity.
+   [085] 0x8A61176395D27806: Open your mind and prepare it to receive...The Nozzle. Four prehensile stalks emerge from the floor and blossom out like a glowing alien plant. Unlike a plant, it needs electricity.
    [086] 0x70290F57E7B0EAD2: Light is crucial to art, so Secret Bohemia brings you the fourth-brightest lamp ever built. With this halogen monster, that poseur DaVinci might have actually amounted to something.
    [087] 0xD680FCE68DA99E80: Old-world craftsmanship and warm, soft lighting add up to the classiest lamp on the market. A rotating stem lends the Sowerberry versatility, whether reading or trying to find your change.
    [088] 0x0542DB6A01E2054A: Nothing screams University like an old fashioned lamp and a decorative banner proudly sporting the University’s logo. Place one today and don’t let others forget which campus they’re one!
@@ -179,7 +179,7 @@ Unknown3: 0x00000000
    [0AE] 0x326BAAD4C0055660: The plus-sized addition to GTG’s classic “Stomp on ‘Em” rugs. These buffed-up monsters fill the largest spaces with team spirit. They really tie the room together.
    [0AF] 0xF83F1DE018AA6B2F: Some of the world’s most innovative minds are graduates of our schools of Technology and Science & Medicine.
    [0B0] 0x9CCB359A14FF01C4: Scientific Sample Description DO NOT TRANSLATE
-   [0B1] 0xF4D91A20CCBA4FD6: For the first time in history, every major scientific tool is in a single device. Conducts research, fabricates samples, and builds skills. Darker experiments might even be possible…
+   [0B1] 0xF4D91A20CCBA4FD6: For the first time in history, every major scientific tool is in a single device. Conducts research, fabricates samples, and builds skills. Darker experiments might even be possible...
    [0B2] 0xC6ACDA228344809C: Following one team is boring and sometimes they lose. So why not root for every team? Hoist your fickle fancies to the rafters with this five-piece pennant set.
    [0B3] 0x6E9087AA9BD925ED: Celebrating the great Sir Litero of Lesen, this towering statue celebrates learning! Sir Litero’s historically famous Reading Crusade is embodied in this powerful statue to inspire all.
    [0B4] 0x61D9B9E734430405: Stash your jerseys, bats, balls, and helmets in this heavy-duty chest from GoTeamGo. Features include ample surface area for decals, and built-in deodorizing panels. Comes in Lemon, Cinnamon, and Lavender.
@@ -218,7 +218,7 @@ Unknown3: 0x00000000
    [0D5] 0x5E2B0F13DF7A7716: Looking for a sign to draw eyes and attention to your business? Look no further than this attractive sign. You’ll gush over this sign’s good looks, and love your increased profits even more!
    [0D6] 0x5A93A876ECEF91FA: The center of this magnificent wall installment glares like an evil eye. Behold those poor fools who’ve never even entered your store! Call them in like moths to a flame.
    [0D7] 0xA200448D0215B94C: A multi-colored neon display and our patented Super-Legible light-up lettering let your business stand out from the crowd. Even when the crowd is also using bright neon signs!
-   [0D8] 0x431CFC0F47E78155: Stare into my sign. Closer. Closer, and breathe slowly…that’s it. You see the beauty of the circles. You will do whatever I command. Now go forth and BUY MY MERCHANDISE!
+   [0D8] 0x431CFC0F47E78155: Stare into my sign. Closer. Closer, and breathe slowly... that’s it. You see the beauty of the circles. You will do whatever I command. Now go forth and BUY MY MERCHANDISE!
    [0D9] 0x5A1BC614923B6206: For stores and booths on narrow streets, Sanjiten presents this ultra-thin neon sign. Soothe your neighbors’ territorial feelings as you beat the snot out of them in sales.
    [0DA] 0x28F1C608ACA2D926: Art is a retreat from life’s messy realities. Fill any room with beauty: portraits, Impressionist landscapes, hand-drawn maps or avant-garde watercolors. Tasteful nudes available upon request.
    [0DB] 0xB06EF9121EEEDEF3: Jazz up your den or dorm room with the Brash Banner, the first product GoTeamGo ever made. It’s a classic the world over, printed for forty-eight sports in fifty-five countries.
@@ -719,7 +719,7 @@ Unknown3: 0x00000000
    [2CA] 0x6D7D9F0F313B5B29: 110 Sims University
    [2CB] 0x99D468E35BFD02F6: Our advisors are standing by to help students with all their needs from applying for aid to reassigning roommates.
    [2CC] 0xE8589A6B385B354B: Earn a prestigious degree in Fine Arts and join the ranks of our world class artist alumni.
-   [2CD] 0x07CD5C1CD70C7B65: Rumor has it fierce Llamas used to graze here when the university was founded…
+   [2CD] 0x07CD5C1CD70C7B65: Rumor has it fierce Llamas used to graze here when the university was founded...
    [2CE] 0x9C09BD5767DB137E: Commemorated to Sims University’s championship intramural teams, Sims of all majors enjoy spending some downtime at this serene lake.
    [2CF] 0xB20151AAA5C4C676: Whether you’re reading for fun or for school, this is the one stop shop for all your literary needs!
    [2D0] 0x4921B91190713D91: The perfect place to grab a bite and catch up with friends in between classes.
@@ -744,7 +744,7 @@ Unknown3: 0x00000000
    [2E3] 0x8E52758D01C48599: The hub of activity on the university campus; a perfect place to study, protest, play or meet new friends.
    [2E4] 0xECDFA6ED42DEB260: Grab your significant other and enjoy a smooch under the night sky.
    [2E5] 0x920D54164CD88901: Some of the world’s most innovative minds are graduates of our schools of Technology and Science & Medicine.
-   [2E6] 0x1E339BC41038D02B: Nobody knows who or what left a mysterious device here…
+   [2E6] 0x1E339BC41038D02B: Nobody knows who or what left a mysterious device here...
    [2E7] 0x5E3A607DE09CC6BA: Classes got you down? Escape into nature and let your worries slip away. 
    [2E8] 0x41CF3043EB81D4C5: Boxy “foursquare” architecture maximizes floor space and keeps Sims comfortable. Three full floors of cozy-yet-private room layout will have you drooling by the time you reach the last staircase.
    [2E9] 0x41CF3043EB81D4C6: The ultimate aspirational home! Fenced-in yard and full garage flesh out the ample lot; inside, two full stories and an attic offer a tantalizing glimpse at rewards for further riches.
@@ -1563,7 +1563,7 @@ Unknown3: 0x00000000
    [616] 0x90512571628BFFA0: Play Guitar
    [617] 0x63298023F8D694AC: Take your guitar to the {OpTarget} and play.
    [618] 0xEFF397CC77EDD6F2: That extra credit might come in handy at the end of the term!
-   [619] 0xBCF3E7C55E6656D6: You’ve gotten good enough with the Guitar…it’s time to command Simoleons as well as respect! Your professor offer extra credit for a good haul of Simoleons.
+   [619] 0xBCF3E7C55E6656D6: You’ve gotten good enough with the Guitar. It’s time to command Simoleons as well as respect! Your professor offer extra credit for a good haul of Simoleons.
    [61A] 0xE819BA2A9495C8AE: You didn’t receive extra credit.
    [61B] 0x0B37BC6A3E15396B: Bust out your guitar and play for tips at the {OpTarget}.
    [61C] 0x3E3BAF6A5AB4E2E9: Play Guitar for Tips
@@ -1957,7 +1957,7 @@ Unknown3: 0x00000000
    [7A0] 0xA59307CFAB10018B: Time to Clean
    [7A1] 0x73AABA7EFDDCCB97: Clean up the lot.
    [7A2] 0x2AD321017EBC35F6: Everyone is guessing which effect you’ll have from that herb.
-   [7A3] 0xAAABF2153EE6B422: This party isn’t going so great for you… Change your mood by eating some herbs. It’ll turn a fun party into an epic party!
+   [7A3] 0xAAABF2153EE6B422: This party isn’t going so great for you. Change your mood by eating some herbs. It’ll turn a fun party into an epic party!
    [7A4] 0xD1FDB241F1F04CA2: You weren’t in the mood to eat herbs at the party.
    [7A5] 0xE770E9A8DA003537: Find and Eat an Herb
    [7A6] 0xD55F74A8CF8E377D: Eat an Herb
@@ -2211,7 +2211,7 @@ Unknown3: 0x00000000
    [89E] 0x544DD3B5AFC8B75A: You failed to complete the Day Job in time.
    [89F] 0x8A0C5085FA37982E: Your memory is a little fuzzy from donating plasma, but now you have a pocketful of Simoleons!
    [8A0] 0xBBAC502984ECBFAA: Seeking volunteer to donate plasma for a Sim who has a plasma deficiency. Must have healthy eating habits and willing to lose a few hours of your life. Donators will be well compensated.
-   [8A1] 0xDF2EFAD252EE53AA: Donating plasma sounded great until you realized needles were involved…
+   [8A1] 0xDF2EFAD252EE53AA: Donating plasma sounded great until you realized needles were involved...
    [8A2] 0xBEA85545CA34BE3F: Visit the {OpTarget} and Offer to Donate Plasma for the deficient sim.
    [8A3] 0xAC612045BF959D15: Get Paid for Your Excess Plasma
    [8A4] 0xE4D617EECBE828A5: Visit the {OpTarget} and offer to donate plasma for the deficient Sim.
@@ -2233,7 +2233,7 @@ Unknown3: 0x00000000
    [8B4] 0x9640AB353C662D7F: Visit the {OpTarget} and Make Advertising Deal
    [8B5] 0x83F8763531C55955: The Advertising Partner
    [8B6] 0x8E3B809B967310E5: Visit {OpTarget} and make an advertising deal.
-   [8B7] 0x7E9830DA558E5914: All the new games and technology makes your current game seem obsolete… Time for a rewrite!
+   [8B7] 0x7E9830DA558E5914: All the new games and technology makes your current game seem obsolete... Time for a rewrite!
    [8B8] 0x9A451B20A0085480: The town is hosting the Excessive Entertainment and Games Expo, a convention for video game developers and entertainers. Attend and gain some foresight into where the industry is heading over the next few years.
    [8B9] 0x8283A6B7EB745CFC: You failed to attend the conference.
    [8BA] 0x29C55539FD9A4B99: Attend the Video Game Conference at the {OpTarget}
@@ -2393,7 +2393,7 @@ Unknown3: 0x00000000
    [954] 0x3E89D0A2760D205F: Go Bowling
    [955] 0xF64C1E0623419F3B: Head to the bowling alley and go bowling!
    [956] 0xB9889253E80B81E0: You just earned some cred with the Jock group!
-   [957] 0xD44C75C6546DD184: Throwing the old pig-skin has been a classic past-time for Sims since… well forever! Find a nice open space on the {OpTarget} and toss the football around for a while.
+   [957] 0xD44C75C6546DD184: Throwing the old pig-skin has been a classic past-time for Sims since... well forever! Find a nice open space on the {OpTarget} and toss the football around for a while.
    [958] 0x3B0ED31E79DBD2C8: {0.SimName} has failed to complete the task in time.
    [959] 0x1C067953E85DCC5D: Play with a football on the {OpTarget}.
    [95A] 0x2E17CC53F2CF90EB: Upper Arm Exercises
@@ -2542,7 +2542,7 @@ Unknown3: 0x00000000
    [9E9] 0x89609318D937E2CA: Herbaceous Herbology
    [9EA] 0x8563CDAD9FFE049A: Collect 5 herbs and return them to the {OpTarget}.
    [9EB] 0x0D23F60A3131D13C: Your rebellious behavior improved your standing with the Rebels.
-   [9EC] 0x4801EC57DED07D78: The {OpTarget} is feeling too relaxed and sleepy… Unleash some rebellious behavior with a boisterous outburst of the megaphone. It’s just long overdue.
+   [9EC] 0x4801EC57DED07D78: The {OpTarget} is feeling too relaxed and sleepy... Unleash some rebellious behavior with a boisterous outburst of the megaphone. It’s just long overdue.
    [9ED] 0x2E2EC31F28BE2CD4: {1.SimName} has failed to complete the task in time.
    [9EE] 0xCCE936B9D73685B1: Scare 3 sims at the {OpTarget} with a Megaphone
    [9EF] 0x99E541B9BA96D897: Public Scare
@@ -2704,24 +2704,24 @@ Unknown3: 0x00000000
    [A8B] 0x3BA98376192350D1: Day Job
    [A8C] 0x9EB0A4614E21CBC0: Social Group
    [A8D] 0x61B613D13D655117: Your Sim does not currently have a Social Group Opportunity. Try raising your influence within a Social Group to receive valuable Opportunities.
-   [A8E] 0x70D95E1FCE6F0712: Cramming Knowledge…
-   [A8F] 0x3062020BC6A903A6: Skipping Classes…
-   [A90] 0x70D95E1FCE6F0711: Populating Social Groups…
-   [A91] 0x70D95E1FCE6F0710: Printing Text Books…
-   [A92] 0x70D95E1FCE6F0717: Protesting Loading Screens…
-   [A93] 0x70D95E1FCE6F0716: Training Mascots…
-   [A94] 0x70D95E1FCE6F0715: Pixelating Streakers…
-   [A95] 0x70D95E1FCE6F0714: Calculating GPA…
-   [A96] 0x70D95E1FCE6F071B: Photosynthesizing…
-   [A97] 0x70D95E1FCE6F071A: Forming Study Groups…
+   [A8E] 0x70D95E1FCE6F0712: Cramming Knowledge...
+   [A8F] 0x3062020BC6A903A6: Skipping Classes...
+   [A90] 0x70D95E1FCE6F0711: Populating Social Groups...
+   [A91] 0x70D95E1FCE6F0710: Printing Text Books...
+   [A92] 0x70D95E1FCE6F0717: Protesting Loading Screens...
+   [A93] 0x70D95E1FCE6F0716: Training Mascots...
+   [A94] 0x70D95E1FCE6F0715: Pixelating Streakers...
+   [A95] 0x70D95E1FCE6F0714: Calculating GPA...
+   [A96] 0x70D95E1FCE6F071B: Photosynthesizing...
+   [A97] 0x70D95E1FCE6F071A: Forming Study Groups...
    [A98] 0x1384245DBD8F843A: You cannot change active household while at University.
    [A99] 0xD0B215244586ACC7: No game disc found! Please insert The Sims™ 3 University Life disc before proceeding.
    [A9A] 0x6E8A7320129BF793: No game disc found! Please insert The Sims™ 3 University Life disc before proceeding.
    [A9B] 0xA9345BE6572E8272: There are many benefits to having a lot of blog followers, including gaining influence faster with Social Groups and help with your academics.
    [A9C] 0xB27A9A662407A786: Each Student is given a skill building object related to their major to use at home and at class activities to increase academic performance!
    [A9D] 0xB27A9A662407A787: Grab a Street Art Bag and spray paint murals. As you build your skill you may create a masterpiece!
-   [A9E] 0xB27A9A662407A784: Using a Smart Phone to develop your Sim’s Social Networking Skill will grant access to better apps… and maybe to better friends!
-   [A9F] 0xB27A9A662407A785: Sometimes landing a dream job is more about who you know than what you know… increase your influence with the Social Groups to gain access to new careers!
+   [A9E] 0xB27A9A662407A784: Using a Smart Phone to develop your Sim’s Social Networking Skill will grant access to better apps... and maybe to better friends!
+   [A9F] 0xB27A9A662407A785: Sometimes landing a dream job is more about who you know than what you know. Increase your influence with the Social Groups to gain access to new careers!
    [AA0] 0xB27A9A662407A782: Getting in with a social group can lead to perks like learning new social interactions or even picking up an additional personality trait.
    [AA1] 0xB27A9A662407A783: Sims with skills and career experience can earn extra credits and even scholarships by taking the Sims University Aptitude Test!
    [AA2] 0xB27A9A662407A780: The higher a Sim’s grades in University, the greater the benefits to their related career.

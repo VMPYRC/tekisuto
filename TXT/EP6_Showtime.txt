@@ -17,7 +17,7 @@ Unknown3: 0x00000000
    [00C] 0x50D2E8C3D6522153: The only thing better than a refreshing beverage? How about enjoying that beverage while seated on this elegant barstool? With its non-staining, anti-absorbent upholstering and built-in stabilizing system, you and your guests can drink the night (or day) away worry-free!
    [00D] 0xC7464317EEC45D9B: This handsome barstool features the added comfort of lumbar support. Say hello to high style and goodbye to back pain, no matter how many hours you spend at the bar!
    [00E] 0xBE3C0D04C563C587: Enjoy the luxury of the Suite Dreams bed, its mattress full of poofy, cushy, cumulus clouds, contoured pillows stuffed with angel wing feathers, a duvet woven from fairy dust, and silken sheets with a thread count of infinity.
-   [00F] 0x552AB48253B4570C: Built for princesses and those who believe they should have been born princesses, this bed combines the ultimate in comfort with an old world charm. Though there’s only a single mattress, it feels like sleeping on a whole stack of mattresses, and even a real princess would be hard-pressed to find anything that disturbs her sleep in this bed… not even a pea!
+   [00F] 0x552AB48253B4570C: Built for princesses and those who believe they should have been born princesses, this bed combines the ultimate in comfort with an old world charm. Though there’s only a single mattress, it feels like sleeping on a whole stack of mattresses, and even a real princess would be hard-pressed to find anything that disturbs her sleep in this bed... not even a pea!
    [010] 0x7119A22C5DB655FB: Hey, look up there- another two sided billboard to distract you with advertisements from The Art Museum and Desire Furniture.
    [011] 0xE4E48C633CD419B0: While you're driving, please enjoy these advertisements from NuFast Diet and Destiny Grove.
    [012] 0xE4E48C633CD419B3: Today this billboard sports advertisements from Howard's House of Hats and Fizztastic, but who knows what it will advertise next.
@@ -182,7 +182,7 @@ Unknown3: 0x00000000
    [0B1] 0xF24DE22FB67A9222: Gooder Public School: Giving parents a break for over fifty years!
    [0B2] 0xA9733C8B70E0896F: Vaughn Mazing evokes the age old exploration of evil in its various forms with his sculpture titled Three Evils. Sims worldwide have studied this work of art to try to determine which form is which evil, with no success. Can you tell?
    [0B3] 0x288E38EFDE87E547: Is your bad mood getting you down? Improve your spirits and decor with this ornamental Aloe plant! It sports a lovely rosette of succulent moisture filled leaves! But wait! If you buy one now, we will include, absolutely free of charge, the Aloe Thera sap, rumored to provide instant relief to irritated skin and bowels! (Unfortunately, it is impossible to extract.)
-   [0B4] 0x078155C1A7C1A587: In the same way some Sims are better at holding their juice than others, this cabinet can hold its juice like no other…literally! With a variety of perfectly-spaced shelves, display your bottles of vintage nectar and imported juice with pride.
+   [0B4] 0x078155C1A7C1A587: In the same way some Sims are better at holding their juice than others, this cabinet can hold its juice like no other... literally! With a variety of perfectly-spaced shelves, display your bottles of vintage nectar and imported juice with pride.
    [0B5] 0x6441A8698D9D7904: Have you ever seen ice on a mountain melt unevenly? Have you ever seen a misshapen candle poked full of holes? Have you ever seen musings given form? If not, simply view this masterpiece!
    [0B6] 0xF2A298389C514DAF: The Sansevieria Trifasciata is also commonly known as the Brazilian Snake Plant or La Espada De Santa Barbara. It is a hardy and highly ornamental plant suitable for growing indoors or in warm climates. This one comes in a handsome square bucket to contain its creeping rhizome.
    [0B7] 0x11C2D78A29C5FEE0: Can't decide between buying a Snake or a Plant? Why not get both in the new Brazilian Snake Plant Deluxe, with a stylish and durable planter from Trapezium! It includes specially engineered rhombus lattice that helps the plant absorb the nutrients from the exotic Patagonian soil.
@@ -314,7 +314,7 @@ protects ancient kings
    [125] 0x73039ECB0FD207A9: Post to post Spanish tread. Inlaid tile posts and risers. Polished railings and balusters. Extra beefy fascia and skirts. Whether you are a flamenco dancer or a toreador, or something else entirely, you'll always make a grand entrance on this grand staircase!
    [126] 0xA00A76A9607D8481: Reach for the stars with a dazzling light to brighten your room. This patent pending light has class written all over it for even the most discerning Sims. Studies show that with this light in their home, even normal Sims will feel like a star.
    [127] 0xBAB64CBD130787DC: The Keane 35 Watt Sound Enhancer will not just duplicate sound, it will enhance it! Not by making it louder or better, but by making it more like it was before the enhancer was used.
-   [128] 0x724545C59D04EBE7: How does sound reach this amazing speaker? Magic, that’s how! Turn your home into an audiophile’s dream with one of these in every room. As a bonus, this fantastic speaker is compatible with stereos of all makes and models. Don’t have a stereo? No problem! But don’t expect the Satellite Speaker to make a sound… 
+   [128] 0x724545C59D04EBE7: How does sound reach this amazing speaker? Magic, that’s how! Turn your home into an audiophile’s dream with one of these in every room. As a bonus, this fantastic speaker is compatible with stereos of all makes and models. Don’t have a stereo? No problem! But don’t expect the Satellite Speaker to make a sound...
    [129] 0x9613B4D83120125E: This well-loved streetlight is now available for use on privately owned residences. Use it in your yard to shed light on any outdoor situations.
    [12A] 0xAA2D5F6D726F0268: Inspiration for this piece came from a visit to a hip dentist’s office. If you dig oral hygiene – and who doesn’t? – there is no better way to complete your living room. Plus, you already bought the End Table, right?
    [12B] 0x0CD97F7AD330F941: This coffee table is stylish enough for a princess, but still sturdy enough to survive the abuses of a gaggle of sons. With a glass top that has plenty of room for holding anything --from knitted shirts, to bird cages, to vases of nettles--this coffee table is perfect for a family room. Its silent, understated beauty makes it a wonderful addition to any decor. 
@@ -322,7 +322,7 @@ protects ancient kings
    [12D] 0x66A2DB8D0C8E1A90: Learning from previous mistakes, Om Nom Nom Inc. made this eclair scratch-proof, stain-proof, smear-proof, unmeltable, and completely inedible. 
    [12E] 0xA3493EE71C0B8E76: Old West Mercantile uses only the finest quality straw to make their decorative hay bales. But wait! It's also a fully functional coffee table! Crazy? Maybe! But some pigs have been known to construct entire houses out of this stuff!
    [12F] 0xC6CAA1368E77D27D: This table begins with curving legs inspired by famous rockets of Science Fiction, carved from high-quality wood. These legs support a hard glass top which can hold any dish a Sim can bake.
-   [130] 0x941FBCD0556C427C: This dining set by Glass Act is fit for a Viking feast…if Vikings were sophisticated highbrows with modern sensibilities! Perfect for hosting dinner parties, the tempered glass top makes for a clean, light setting while keeping under-the-table hanky-panky and clandestine shin-kicking to a minimum!
+   [130] 0x941FBCD0556C427C: This dining set by Glass Act is fit for a Viking feast... iif Vikings were sophisticated highbrows with modern sensibilities! Perfect for hosting dinner parties, the tempered glass top makes for a clean, light setting while keeping under-the-table hanky-panky and clandestine shin-kicking to a minimum!
    [131] 0x0923BFC5D656A666: A cube within a cube with a twist, this table is definitely not for squares. This kookie table is nothing short of functional art. Be sure to pick up a matching chair so you have somewhere to sit while you eyeball its way-out design.
    [132] 0x7C18E7832D15FED9: The detailed construction of this table simply screams royalty. The delicate glass top makes this table the perfect spot to rest slippers, pumpkins, mice, or any other items that might be needed in a hurry. Though meant for a queen-to-be, this table is guaranteed to fit your house like a step-sister's slipper!
    [133] 0x4F88EBA44F99DD4B: Show off your good taste with a Gumdrop table top by Sugar Shack. Covered with a sparkly sugarcoated finish, you can almost feel it sticking to your teeth! No matter what kind of stuff you put on it, this confection-inspired table will look totally sweet in your house or on a stage!
@@ -799,7 +799,7 @@ protects ancient kings
    [30A] 0x550B57BE23F70C8B: Work on your tan while pumping iron or bending an elbow at the beachside lounge.
    [30B] 0xDCFC18E9D2AF7842: Only in the In Crowd gets to crowd into this private club.
    [30C] 0xD853361C197641CD: A great place to go fishing. Like shooting fish in a barrel!
-   [30D] 0x7F25B4B86656620F: Climb, jump, slide and swing…the best place to get your kids’ wiggles out.
+   [30D] 0x7F25B4B86656620F: Climb, jump, slide and swing... the best place to get your kids’ wiggles out.
    [30E] 0xBF2DAF7151B989D9: A great place to just get away.
    [30F] 0xAAC1EFD72BC16139: Bunker down in this spacious bungalow and make your Sims at home. With its large gathering places and a spacious porch, this house makes living comfortable and easy. The second floor ensures near panoramic views of your street! This Historic yet rustic feeling house is perfect for a family with high class. Impress your friends with this one of a kind find!
    [310] 0x243EFA24591ECA2C: 
@@ -816,7 +816,7 @@ protects ancient kings
    [31B] 0xA6E82E17113A4E96: If you owned this house, you’d be home by now! This cute little house is great for a starting family on a budget. The luxurious floor plan provides enough room for the whole family to gather, and there’s sufficient space outside to delight any gardener. There’s no garage, but hey, that’s a bonus for Sims who despise garages!
    [31C] 0xACB9D3D43B8E1EF4: This home features a large open living space with a kitchen, dining area, and living area. The two bedrooms are small but comfortable. Out back, there is a small patio and a bit of green space which would be perfect for a garden.
    [31D] 0x43D2B57E47651DF9: What has four walls, a fireplace, and a grand archway? This house, of course! It even comes with a garage for storing a sweet ride! Enjoy two large rooms where you can stash your stuff, and get ready to make some magic in the perfectly sized kitchen. Best of all, two doors on the bathroom means you can avoid having unwanted visitors walking through your bedroom! Just don’t forget to lock that extra door while using the commode.
-   [31E] 0x9918061D7E737479: Why buy a new house when a fixer-upper will give a handy-minded Sim the project of a lifetime! Hidden behind a lawn with years of neglect is a quaint bungalow that would be great for entertaining guests… and not much else. Don’t let the grime fool you; it serves its load-bearing purpose to keep a roof over--and not on--your head!
+   [31E] 0x9918061D7E737479: Why buy a new house when a fixer-upper will give a handy-minded Sim the project of a lifetime! Hidden behind a lawn with years of neglect is a quaint bungalow that would be great for entertaining guests... and not much else. Don’t let the grime fool you; it serves its load-bearing purpose to keep a roof over--and not on--your head!
    [31F] 0x85D6D4D2673B5747: 
    [320] 0x8AE4538A5736C991: This quaint house close to the beach will give you years of joy and comfort. The large lot provides plenty of space to remodel as your household grows. This house is pleasant, elegant, and affordable, so you can move right into the ideal location!
    [321] 0x97BC675EE94ED1C3: Modern and understated on the outside, awesome on the inside, this house’s exterior does not do its interior justice! Inside, this house has ample light and modern fashion with tile floors throughout. The spacious lot provides an almost blank canvas where you can create your dream yard, with plenty of room for a pool, new deck, or playground!
@@ -837,7 +837,7 @@ protects ancient kings
    [330] 0x84A7B4868FB11BF0: The covered walkways leading to the grand entrance of this romantic Spanish Colonial home lend an old time feeling to a decidedly modern house. Private balconies on the second floor will allow you to enjoy breathtaking views year-round, and chefs will definitely appreciate the fully equipped kitchen outfitted with the finest appliances.
    [331] 0x9C92A6DF065A1DC5: This house was built for a Sim who’s not afraid to display a house full of luxuries. This three floor mansion features a timeless, classic architecture, and it was built using the most exquisite materials Simoleons can buy. With more than enough room inside and outside to entertain extravagant parties, you’ll always have room for everyone on your guest list.
    [332] 0x7B9E5CF962FD0D60: Once a lovely little pool house, this home has recently been renovated into a swanky bachelor pad. This two floor home comes complete with a two car garage, kitchen, multiple bathrooms, and a patio. Whether you’re looking for a new house or recently got kicked out of one, there’s no doubt you’ll love calling this place home!
-   [333] 0xD49A23818C96AA4E: Forget those multi-level modern monstrosities. This modern style house will really make you feel modern… 1960’s modern that is! Step outside and be surrounded by an expansive back yard. Step inside and enjoy the view of the backyard through the wall of large windows that let in plenty of natural light. The carpeting may be out of date, but this house will always be in style!
+   [333] 0xD49A23818C96AA4E: Forget those multi-level modern monstrosities. This modern style house will really make you feel modern... 1960’s modern that is! Step outside and be surrounded by an expansive back yard. Step inside and enjoy the view of the backyard through the wall of large windows that let in plenty of natural light. The carpeting may be out of date, but this house will always be in style!
    [334] 0xBD82F4C71B591D6C: There’s nothing fancy about this house; it’s a utilitarian bungalow style home priced for a Sim who wants a sturdy house without any frills. The contemporary kitchen is tiny but functional, and a bed will fit in the bedrooms with just enough room to spare. There's no denying that the craftsmanship of this house is of the finest caliber.
    [335] 0x66D162AD7E33BDC4: Straight off the truck and onto your lawn, this prefab is great for Sims who spend lots of time away from home. Some might say this home is small, but we prefer to call it cozy. This luxury prefab comes complete with a kitchen, bedroom, and bathroom. What more could a Sim possibly need?
    [336] 0x23296DCE10513066: A modest pad for a modest Sim, this well-built prefab has stood the test of time. Though the kitchen is small and the bathroom barely fits one, the gigantic living room sets this beauty apart from other budget homes. Make this prefab your home, and you’ll soon be convinced that living in any other house is truly overrated.
@@ -933,7 +933,7 @@ protects ancient kings
    [390] 0x4DEF6A89F5CA12B2: Best
    [391] 0x1D453598BD198278: The polar opposites of the Gooders, the Best family is a progressive group of Sims who know that the only way to success is through hard work. After a divorce between Paul and his wife, their son Evan and his family moved in to fill out the large house with their growing family. Can the family stay close knit as the children grow up and Evan works a dangerous job that keeps him away from home? And what will happen when the family discovers the new relationship between Calvin and Natasha Gooder?
    [392] 0x9F425A19174CCB31: Best Friends Forever
-   [393] 0x91C81DCE1417F0A9: Kerry and Karen are friends who’ve grown up together and have never been separated. They have identical tastes and traits and are easily mistaken for sisters. These two Sims are young and aren’t quite sure what they want out of life… But for now, they’re content to spend their time getting tans on the beach or having picnics in the park. Can these two find their way, or will they spend their lives drifting aimlessly?
+   [393] 0x91C81DCE1417F0A9: Kerry and Karen are friends who’ve grown up together and have never been separated. They have identical tastes and traits and are easily mistaken for sisters. These two Sims are young and aren’t quite sure what they want out of life... But for now, they’re content to spend their time getting tans on the beach or having picnics in the park. Can these two find their way, or will they spend their lives drifting aimlessly?
    [394] 0xDBAB34695068766D: Buckshot
    [395] 0x514986C8FEB92339: The perfect celebrity marriage gone wrong, Madeline kicked her famous singer husband out to the pool house and now lives with her new love interest, Finnegan. Does Finnegan truly love Madeline, or is he using her for a nice place to live and a leg up in his singing career? Was Madeline being too hasty in kicking her former husband to the curb?
    [396] 0x02B22E66460D9591: What was supposed to be a temporary relocation to the pool house became a permanent address shift for Charlie Ray after a sudden divorce from his wife Madeline. Charlie still has his music to keep him going, and luckily this pool house is nicer than most normal houses in town. Will Charlie ever get back together with Maddy, or will he live in the pool house forever?
@@ -1017,7 +1017,7 @@ protects ancient kings
    [3E4] 0x72AAB5AA74686A13: Bryce is a long time native of Starlight Shores who lives with his best friend Holly. He’s a well-known Acrobat and has performed around town for several years, but he’s now in the middle of a mid-life crisis. Bryce is looking to get married and wants to start a family before time runs out. A hopeless romantic with a new crush every week, Bryce thinks that he’s finally found his true love in Courtney. If his hair-raising shows don’t win Courtney over, Bryce’s good nature, confidence, and smarts are bound to.
    [3E5] 0x82842A26CCA4B12A: Buckshot
    [3E6] 0xC98012BB67EF1A08: Calvin
-   [3E7] 0x9CB2977C222ECE38: After growing up with siblings of all girls, Calvin is crossing his fingers that the new baby on the way will be a boy. Calvin used to have only one hobby: watching TV – but since the move to his grandfather’s place, he has discovered a rockin’ night life in town and dreams of being a singer now. When forced to get a job by his father, Calvin, in a stroke of genius, chose the grocery store since he figures even stars have to buy groceries at some point. Though he is in love with rival Natasha Gooder, he does find the whole Best/Gooder rivalry to be quite awkward… 
+   [3E7] 0x9CB2977C222ECE38: After growing up with siblings of all girls, Calvin is crossing his fingers that the new baby on the way will be a boy. Calvin used to have only one hobby: watching TV – but since the move to his grandfather’s place, he has discovered a rockin’ night life in town and dreams of being a singer now. When forced to get a job by his father, Calvin, in a stroke of genius, chose the grocery store since he figures even stars have to buy groceries at some point. Though he is in love with rival Natasha Gooder, he does find the whole Best/Gooder rivalry to be quite awkward...
    [3E8] 0x8FB7C54736D8DEED: Carl
    [3E9] 0xAE24717C2A83C434: Catherine
    [3EA] 0xF19BC5C95B0F4E64: The quintessential stay at home mom, Catherine is always there for her children from the moment they wake up and head off to school to the time they come home. She loves to be around children and was overcome with joy when she recently found out she was pregnant. Catharine is very outgoing and likes to be the life of the party. She loves to tell a good story, especially about the fender-bender involving the patrol car that turned out to be her future husband. Though she loves her husband and appreciates his hard work, she would love to see him in a more normal, safer line of work. 
@@ -1050,7 +1050,7 @@ protects ancient kings
    [405] 0x6437E6471E26F5EB: Durk
    [406] 0xA3684ACF46396841: Eastin
    [407] 0x7F355FE7B56F9452: Edward
-   [408] 0x53A5D9694431DF3A: Edward can trace his fortune back four generations, to when his great-grandfather built one of the first venues in town. Unfortunately, his estate dropped in value a few decades ago when the property next door was purchased by the Best family, and the two families have been rivals since. Edward was delighted when Paul Best ended his marriage, as he hoped that this might mean that the Best Family would leave the neighborhood. Unfortunately, the opposite happened, and Edward was in for a shock when he drove home one day to see a moving van unloading the furniture of Evan Best’s family…
+   [408] 0x53A5D9694431DF3A: Edward can trace his fortune back four generations, to when his great-grandfather built one of the first venues in town. Unfortunately, his estate dropped in value a few decades ago when the property next door was purchased by the Best family, and the two families have been rivals since. Edward was delighted when Paul Best ended his marriage, as he hoped that this might mean that the Best Family would leave the neighborhood. Unfortunately, the opposite happened, and Edward was in for a shock when he drove home one day to see a moving van unloading the furniture of Evan Best’s family...
    [409] 0x633AE52DBDA48A55: Elenes
    [40A] 0xD7ED44D19D3A6780: Elson
    [40B] 0xC76FB534CFF9B560: Emelie
@@ -1072,14 +1072,14 @@ protects ancient kings
    [41B] 0x22A7F4C5044CAE10: George
    [41C] 0x6B76164721DA95B8: Ghee
    [41D] 0x06152323E915451B: Girbits
-   [41E] 0x2211048F9BE0DD08: Girbits has a normal name, but he instead prefers to take on the name of his online game avatar. Instead of going to a show on Friday nights like other teens, Girbits chooses to spend his night in front of the warm glow of the computer screen leveling up his characters. He’s also not adverse to a little computer hacking to pass the time. Although he unfortunately hacked the wrong guy, and now Addison Batez is a sworn enemy of his. Since moving in with his grandma, Girbits has enjoyed his stay (maybe a bit too well, since he has little motivation to ever move out…)
+   [41E] 0x2211048F9BE0DD08: Girbits has a normal name, but he instead prefers to take on the name of his online game avatar. Instead of going to a show on Friday nights like other teens, Girbits chooses to spend his night in front of the warm glow of the computer screen leveling up his characters. He’s also not adverse to a little computer hacking to pass the time. Although he unfortunately hacked the wrong guy, and now Addison Batez is a sworn enemy of his. Since moving in with his grandma, Girbits has enjoyed his stay (maybe a bit too well, since he has little motivation to ever move out...)
    [41F] 0x691D76F1C4FF103F: Gonzalez
    [420] 0x6A0DE2F481030355: Gooder
    [421] 0x04BDB0130F778A95: Hayward
    [422] 0xE4DE8CF6D9DEBAC7: Hodges
    [423] 0xCD32C94759E82EC7: Hoit
    [424] 0x9584BD3DC58FB899: Holly
-   [425] 0x7620B66653565CAC: Finally free of living with her parents, Holly is excited to be out on her own and getting her life in gear! As a native of Starlight Shores, she grew up watching magicians such as Steve Cupp perform, which inspired her to pursue the mysterious life of magic. She met her most recent boyfriend on the internet and easily convinced him to move to town. However, now that Seth’s here, Holly’s not sure if he’s quite the Sim she expected…
+   [425] 0x7620B66653565CAC: Finally free of living with her parents, Holly is excited to be out on her own and getting her life in gear! As a native of Starlight Shores, she grew up watching magicians such as Steve Cupp perform, which inspired her to pursue the mysterious life of magic. She met her most recent boyfriend on the internet and easily convinced him to move to town. However, now that Seth’s here, Holly’s not sure if he’s quite the Sim she expected...
    [426] 0x99F76D31D5BC6779: Imani
    [427] 0x14EFB6321BDEDB84: Isaac
    [428] 0x54A4AD66C091470B: The youngest of the three brothers, Isaac is a very smart Sim whose passion for music lead him to become a successful Band Manager. Isaac is excited to be reunited with his brothers, and he’s looking forward to the glitz and glamour of rubbing elbows with the town’s hottest talent. Isaac enjoys a night out on the town with his brothers, but he has his concerns that Chad is partying a little too hard.
@@ -1264,7 +1264,7 @@ protects ancient kings
    [4DB] 0x221B5B512AFE5C95: Become friends with the Proprietor of any performance venue.
    [4DC] 0x3389AE5134E5BF93: A Foot in the Door
    [4DD] 0x85A2BC00F8935A8F: DNT
-   [4DE] 0x75DF13FD57B41A05: Now you’ve got a new friend…and maybe a better chance of getting a gig!
+   [4DE] 0x75DF13FD57B41A05: Now you’ve got a new friend... and maybe a better chance of getting a gig!
    [4DF] 0x913371EC08C156AB: A lot of singers are trying to make it big in this town, and there are only so many gigs to go around. Becoming friends with a performance venue proprietor could turn into a lucky break for your career.
    [4E0] 0x32A85784F3D8E9C0: Become friends with the Proprietor of any performance venue.
    [4E1] 0x20970484E967252A: It’s Who You Know
@@ -1288,19 +1288,19 @@ protects ancient kings
    [4F3] 0x33E758F5FCFB23EF: Showtime at the Coffeehouse
    [4F4] 0x01343A162B794A2B: Go to the Coffeehouse and audition for the Proprietor. Get a gig and complete it.
    [4F5] 0xA1D65302AE5F4751: Your live performance owned the stage and earned you some avid new fans!
-   [4F6] 0xBA01385E7F073CBF: You’re ready to move from Sing-A-Grams and performing for tips to taking center stage…on an actual stage! Audition at any of the Live Show Venues, and take your career to the next level.
+   [4F6] 0xBA01385E7F073CBF: You’re ready to move from Sing-A-Grams and performing for tips to taking center stage... on an actual stage! Audition at any of the Live Show Venues, and take your career to the next level.
    [4F7] 0x630DCD0AE367E8CF: This opportunity is no longer available.
    [4F8] 0x45CB33287CE4C2C4: Go to any of the Live Show Venues and audition for the Proprietor. Get a gig and complete it.
    [4F9] 0x7C3628289C694BE6: Showtime on Center Stage
    [4FA] 0x6C59EC6CFA399326: Go to any of the Live Show Venues and audition for the Proprietor. Get a gig and complete it.
    [4FB] 0x52EF2942A98C19BD: Your Park performance was a singing sensation!
-   [4FC] 0x1A06F8D379209DB3: You can sing anywhere in the Park, but getting a gig to perform on the Park stage will attract a lot more attention…and could jumpstart your career.
+   [4FC] 0x1A06F8D379209DB3: You can sing anywhere in the Park, but getting a gig to perform on the Park stage will attract a lot more attention... and could jumpstart your career.
    [4FD] 0x6B9D70998DCFA2AB: This opportunity is no longer available.
    [4FE] 0x8B5D9AF2E77548A8: Go to the Park and audition for the Proprietor. Get a gig and complete it.
    [4FF] 0x791647F2DCD5F562: Showtime in the Park
    [500] 0xA6CD9D7134EF4E22: Go to the Park and audition for the Proprietor. Get a gig and complete it.
    [501] 0x82DF50E35948B9C6: Your private show was a big success. More gigs are on the way!
-   [502] 0x9D0D7020F76B5A52: Only a few select Singers get invited to perform at private parties and clubs…but you’re ready! Getting a gig to sing for VIP’s could take your career to new heights.
+   [502] 0x9D0D7020F76B5A52: Only a few select Singers get invited to perform at private parties and clubs... but you’re ready! Getting a gig to sing for VIP’s could take your career to new heights.
    [503] 0x48DD7ADCC3105ED2: This opportunity is no longer available.
    [504] 0xCA380BE613DC83E7: Get and complete a gig at any of the Private Venues.
    [505] 0xB826D6E6096AF24D: Showtime Exclusive
@@ -1323,8 +1323,8 @@ protects ancient kings
    [516] 0x4D4C2660F4E76F81: Sound Science
    [517] 0x3B0544C114A11501: DNT
    [518] 0x443BEADA4F4F73CD: This opportunity is no longer available.
-   [519] 0xE2385E6A599C3C31: See? Performing for tips is fun…and profitable!
-   [51A] 0x7F3CAAE58CFB8F1F: Practicing at home is great, but to become a real performer you need to get out and sing to an audience. Any public place will do…and you just might earn some tip money while you’re at it.
+   [519] 0xE2385E6A599C3C31: See? Performing for tips is fun... and profitable!
+   [51A] 0x7F3CAAE58CFB8F1F: Practicing at home is great, but to become a real performer you need to get out and sing to an audience. Any public place will do... and you just might earn some tip money while you’re at it.
    [51B] 0x1245F90231BD872F: This opportunity is no longer available.
    [51C] 0xBEF1DBB24BF99FA4: Go to a public place and perform for tips.
    [51D] 0xF1F5D0B268994CC6: Singing in the Streets
@@ -1355,7 +1355,7 @@ protects ancient kings
    [536] 0xAE3D5BC074EBEFB7: DNT
    [537] 0xC12EB5ECD3F72503: This opportunity is no longer available.
    [538] 0x2013CB742A1A0E36: Your performance at the Big Boss’s birthday party was perfect: good enough to make him happy, not so good that he’ll invite you back.
-   [539] 0xAEB8AC0987A50D24: You missed the Big Boss’s party. Maybe you’ll get a gift of some C-Ment Shoes…
+   [539] 0xAEB8AC0987A50D24: You missed the Big Boss’s party. Maybe you’ll get a gift of some C-Ment Shoes...
    [53A] 0xFD4C3338CC0BAA62: The boys at the Criminal Warehouse are throwing a birthday party for the Big Boss, and they'd like you to be the entertainment. It's an offer you shouldn't refuse.
    [53B] 0xB5A6107EA44C6377: Find the Big Boss at the Criminal Warehouse.
    [53C] 0xA3949B7E99DA64BD: Birthday Bash
@@ -1377,10 +1377,10 @@ protects ancient kings
    [54C] 0x8320ABFC3BE5CA09: Go to the Military Base to complete this opportunity.
    [54D] 0x4FE6D6FC1F18C4FF: Salute to Singing
    [54E] 0xF85F945546F885DB: DNT
-   [54F] 0xAA195B0C7E629EAB: Graduation waits for no Sim…not even the star singer!
+   [54F] 0xAA195B0C7E629EAB: Graduation waits for no Sim... not even the star singer!
    [550] 0xD4BDDF140D6B5FD0: The world was watching as you nailed the Sims National Anthem! You’re a superstar!
    [551] 0x5C66AB2CBE2116D4: You've been invited to sing the Sim National Anthem at the big game! You'll get to perform in a packed stadium and a TV audience of millions!
-   [552] 0xDE869E227CD98F18: Ah…you missed the big game and a chance to sing in front of billions! (OK, maybe it was just millions.)
+   [552] 0xDE869E227CD98F18: Ah... you missed the big game and a chance to sing in front of billions! (OK, maybe it was just millions.)
    [553] 0x2DBF73DD2C5B52AD: Go to the Stadium to complete this opportunity.
    [554] 0x3FD0C6DD36CD175B: All the World’s Your Stage
    [555] 0x73109AE72FD266C7: DNT
@@ -1480,7 +1480,7 @@ protects ancient kings
    [5B3] 0x4474378CF044B356: ESP for Fun and Profit
    [5B4] 0xE2D93A3B24ED4D36: DNT
    [5B5] 0x4BA88BBB1446B848: Apparently, your mental powers do not include memory.
-   [5B6] 0x9F373116BDE6DCF7: Your magic show at the hospital was a big success…until the doves got loose and they had to quarantine the area.
+   [5B6] 0x9F373116BDE6DCF7: Your magic show at the hospital was a big success... until the doves got loose and they had to quarantine the area.
    [5B7] 0x37947C5F96AA1FF5: Bring the magical healing power of magic to the sick patients at the Hospital. You won’t make any Simoleons, but you’ll feel like a million.
    [5B8] 0xB7035BC2DEC5340E: Go to the Hospital and perform for sick Sims.
    [5B9] 0x27A2006699E3B048: This opportunity is no longer available.
@@ -1498,7 +1498,7 @@ protects ancient kings
    [5C5] 0xEF6488AF9F31C209: Red Carpet Magic
    [5C6] 0x1F37C5681391E4F9: DNT
    [5C7] 0xBBD549FF65CDA832: Sadly, your opportunity to perform at the “Vanishing Llama” movie premiere has also vanished.
-   [5C8] 0x890A4A2194DA695A: The Police Chief was so pleased with your pickpocket prevention training, he made you an unofficial deputy…whether you like it or not.
+   [5C8] 0x890A4A2194DA695A: The Police Chief was so pleased with your pickpocket prevention training, he made you an unofficial deputy... whether you like it or not.
    [5C9] 0x5DDDB8B63F391C6E: Law Enforcement is deeply concerned by the recent rise in pickpocketing incidents. The Police Chief would like you to teach his officers how to spot pickpockets and bring these petty criminals to justice!
    [5CA] 0x7A73D5E65DD072E3: Go to City Hall to complete this opportunity.
    [5CB] 0xB03AE8E67CC91A71: Pickpocket Prevention 101
@@ -1511,14 +1511,14 @@ protects ancient kings
    [5D2] 0x1FEF50FCC0D20C7E: DNT
    [5D3] 0xB64CD6A6D2280F34: This opportunity is no longer available.
    [5D4] 0x9B01E131C17E7786: The Mayor got tired of waiting for you and, instead, learned to play the saxophone. Now he’s leading in the polls!
-   [5D5] 0x67A8D88BBA56A777: Your mind-control work with the Mayor has really paid off. He lost the election, but now he’s found his true passion…as a Llama Whisperer.
-   [5D6] 0x407E8828889F3775: The Mayor is behind in the polls and needs some help to rally support. He’s so desperate, he’ll try anything…including hiring a magician to teach him mind control techniques. Visit City Hall, where you can use mind control to convince him that you’re worth the money!
+   [5D5] 0x67A8D88BBA56A777: Your mind-control work with the Mayor has really paid off. He lost the election, but now he’s found his true passion... as a Llama Whisperer.
+   [5D6] 0x407E8828889F3775: The Mayor is behind in the polls and needs some help to rally support. He’s so desperate, he’ll try anything... including hiring a magician to teach him mind control techniques. Visit City Hall, where you can use mind control to convince him that you’re worth the money!
    [5D7] 0x904F19430FA7528E: Go to City Hall to complete this opportunity.
    [5D8] 0xA2976E431A485D50: Mind Over Masses
    [5D9] 0xF6AFFF310D9D057C: DNT
    [5DA] 0x8E9EE1D920B69B4F: The Big Boss was very pleased with your training techniques. Which is a good thing, since he could make you disappear. And we’re not talking about a magic trick.
-   [5DB] 0x0A858AF661702C35: The Big Boss was very disappointed that you didn’t show up. Don’t be surprised if an accident were to happen…
-   [5DC] 0x24B7C9509FD9307D: The Big Boss cordially invites you to teach his thugs, er, business associates, how to pick pockets. You will be generously compensated for your time and discretion. And if you refuse the invitation, let’s just say it would be a shame if anything was to happen to your pretty little stage props…
+   [5DB] 0x0A858AF661702C35: The Big Boss was very disappointed that you didn’t show up. Don’t be surprised if an accident were to happen...
+   [5DC] 0x24B7C9509FD9307D: The Big Boss cordially invites you to teach his thugs, er, business associates, how to pick pockets. You will be generously compensated for your time and discretion. And if you refuse the invitation, let’s just say it would be a shame if anything was to happen to your pretty little stage props...
    [5DD] 0xEF2E579501EB35F6: Find the Big Boss at the Criminal Warehouse.
    [5DE] 0x013FAC950C5CFD28: Pickpocketing 101
    [5DF] 0x758E77E5A2797BE4: DNT
@@ -1552,13 +1552,13 @@ protects ancient kings
    [5FB] 0x08B9BD17FB179E07: Use SimPort to invite a Visiting Sim to perform at a Private Venue.
    [5FC] 0xFA0E8817F389366D: By Invitation Only
    [5FD] 0xA6619025BFB091C7: Use SimPort to invite a Visiting Sim to perform at a Private Venue.
-   [5FE] 0x14F99EC04436A816: Sims in the other town were keenly anticipating your Magician’s arrival…though some came to the show with pitchforks.
+   [5FE] 0x14F99EC04436A816: Sims in the other town were keenly anticipating your Magician’s arrival... though some came to the show with pitchforks.
    [5FF] 0xD2D050771C6B5AC2: Bring the magic of magic to a town near you by sending your Magician off for a special one-night performance. Fame and fortune awaits!
    [600] 0x6A4E928CDD396842: This opportunity is no longer available.
    [601] 0x936B6896FB646357: Use SimPort to send your Magician on tour.
    [602] 0x8159F396F0F2649D: Magical Mystery Show
    [603] 0x2D2FD899E11B4C57: Use SimPort to send your Magician on tour.
-   [604] 0xBB9EE2BDB60BA692: Nothing up my sleeve…and now, presto! Your Magician has magically reappeared!
+   [604] 0xBB9EE2BDB60BA692: Nothing up my sleeve... and now, presto! Your Magician has magically reappeared!
    [605] 0xF1804F2F613500F6: Make your Magician disappear for one night and then magically return with extra experience and cash by going out on tour.
    [606] 0xE0D9256C09F3FDCE: This opportunity is no longer available.
    [607] 0x65295E3BC6E9000B: Use SimPort to send your Magician on tour.
@@ -1606,14 +1606,14 @@ protects ancient kings
    [631] 0xDDE11E577B85DC2E: Use SimPort to send your Singer on tour.
    [632] 0xECC2735783420AF0: One Night Only
    [633] 0x236A0C1146774D84: Use SimPort to send your Singer on tour.
-   [634] 0x6CF97E729799F2D9: Visitors to the Art Museum were enthralled by your performance. You were like a beautiful statue…that moved around and did cool stuff.
+   [634] 0x6CF97E729799F2D9: Visitors to the Art Museum were enthralled by your performance. You were like a beautiful statue... that moved around and did cool stuff.
    [635] 0xC7E42A539CB637B7: Hey, Performance Art is art, too! Who wants to stare at boring paintings and sculptures when they can stare at you and your amazing physical feats? And while they can’t hang you on a wall, they can give you tips.
    [636] 0x9E595A0B75166227: This opportunity is no longer available.
    [637] 0xD6A36D3D2626023C: Go to the Art Museum and perform for tips.
    [638] 0x0C6B423D451FF30E: Art Performance Art
    [639] 0xE3579FDDEF4A469E: Go to the Art Museum and perform for tips.
    [63A] 0x868718AB0BD71F56: You missed the Seminar, and now the other mimes won’t talk to you. As usual.
-   [63B] 0xAC89331B48813BCA: The Miming Seminar was great…until you all realized you were trapped in an invisible box. Luckily, there was an invisible rope to pull you out.
+   [63B] 0xAC89331B48813BCA: The Miming Seminar was grea... until you all realized you were trapped in an invisible box. Luckily, there was an invisible rope to pull you out.
    [63C] 0x77411D6DEFD4327E: The first rule of Miming: Don’t talk! Unless, of course, you’re a Mime instructor. Learn how to become a better mime by attending a Miming seminar. Ah, the irony. 
    [63D] 0xF4E4EE6863594AF3: Go to the Business Tower to attend the Miming Seminar.
    [63E] 0x2B85C168830B2961: Talking Mimes
@@ -1654,7 +1654,7 @@ protects ancient kings
    [661] 0x40F2312B601B59D6: Get and complete a gig at any of the Private Venues.
    [662] 0x4F9D862B67A9F808: Showtime Exclusive
    [663] 0xDD32BB51D9DC0EC4: Get and complete a gig at any of the Private Venues.
-   [664] 0x9CD1EF15E4474CFD: The Big Boss was very impressed with your invisible box routine…until he realized you weren’t actually in a box. Using your methods, his henchman can only escape from imaginary jail cells.
+   [664] 0x9CD1EF15E4474CFD: The Big Boss was very impressed with your invisible box routine... until he realized you weren’t actually in a box. Using your methods, his henchman can only escape from imaginary jail cells.
    [665] 0x1752570BF6187A7B: Refusing the Big Boss can prove detrimental to one’s career and possibly one's legs. He may not be so forgiving if you don’t show up next time.
    [666] 0xAD593C992B8AE1F3: The Big Boss has lost some of his best employees to the State Penal System. After seeing your “Mime in the Box” act, and then your contortion skills, he thinks you might be able to give him and his boys a few pointers on how to escape out of box-shaped spaces. You’ll accept his offer if you know what’s good for you.
    [667] 0x69DB9C05D5DDB0E8: Find the Big Boss at the Criminal Warehouse.
@@ -1685,7 +1685,7 @@ protects ancient kings
    [680] 0xB7B6AD8D5A2B7640: Medicine Show
    [681] 0xC7B779DA71F9884C: DNT
    [682] 0x48E8E55A7932CCE7: Sims love your miming and juggling. The better you get, the more tips you’ll make.
-   [683] 0xDF41E17DA4FE5085: Practicing at home is great, but to become a real performer you need to get out and entertain an audience. Any public place will do…and you just might earn some tip money while you’re at it.
+   [683] 0xDF41E17DA4FE5085: Practicing at home is great, but to become a real performer you need to get out and entertain an audience. Any public place will do... and you just might earn some tip money while you’re at it.
    [684] 0xB3B1D5234C218539: This opportunity is no longer available.
    [685] 0xD2ACF6C93C8A9F1E: Go to a public place and perform for tips.
    [686] 0xE4F44BC94729F6C0: Public Display of Contortion
@@ -1809,7 +1809,7 @@ protects ancient kings
    [6FC] 0x7DC0E1EA315D3B7C: You placed a Private Venue. This place is perfect for throwing private parties—or performing at them!
    [6FD] 0xC2E4679E18ABAB77: If you place stage props on your stage before performing, the audience is more likely to enjoy the show!
    [6FE] 0xD5C788A3EBB45B05: Using SimPort to have a friend’s Sim perform in your town will give you access to venues you might not otherwise have the clout to visit!
-   [6FF] 0xD5C788A3EBB45B04: Send your Sim on tour with SimPort, and your Sim will level up, earn Simoleons, and more… even when you’re not playing your game!
+   [6FF] 0xD5C788A3EBB45B04: Send your Sim on tour with SimPort, and your Sim will level up, earn Simoleons, and more... even when you’re not playing your game!
    [700] 0xD5C788A3EBB45B07: SimFests can be a great way to gain money and job experience without having to schedule a gig at a venue.
    [701] 0xD5C788A3EBB45B06: Only Sims with a comparable skill level can be challenged to a performance duel. Pick on someone your own size!
    [702] 0xD5C788A3EBB45B01: Check the newspaper for the latest on performances you can see around town.

@@ -8,7 +8,7 @@ Unknown3: 0x00000000
    [03] 0xA16C72B1DA89B8D7: The All-in-One Bathroom has been reinvented for life in the unauthentic Old West! All the bathroom hijinks you've come to know and love, but now with a rustic finish.
    [04] 0x57182CF1C29F0F2C: Simantha "Saloon Sal" Simmons was made famous by such films as "Where's Bella?" and "The Good, The Bad, and The Social Bunny." This bar is an exact replica of the one used in "The Llama Whisperer," which many consider to be the high point of Sal's career.
    [05] 0x4088A0C43FB7C668: Saloon Sal liked to lounge on set between takes, and this bar stool was her favorite seat during the production of "A Fistful of Simoleons."
-   [06] 0x8793A005762EB1EB: The stars are out, the sun has set, and you've worn yourself out with a day spent riding the range…enjoy a good night's rest with the Sweet Sleep Cowgirl Bed.
+   [06] 0x8793A005762EB1EB: The stars are out, the sun has set, and you've worn yourself out with a day spent riding the range... enjoy a good night's rest with the Sweet Sleep Cowgirl Bed.
    [07] 0xDA7C9909E276672E: Eternity lasts forever, so make sure you spend your days sleeping comfortably on a slab of solid rock.
    [08] 0x914ABE79069FBA7F: Crafted with tender loving care by six of Spiderella's eight hands, this not-so-sturdy bookshelf is made of wood from the mountains surrounding Moonlight Falls. Perfect for living rooms, dining rooms, kids' rooms, and crypts, this Spooky Bookshelf is sure to darken any living space.
    [09] 0xBBFD1F334ED26E8C: Whether you are racing towards a crime, or away from one, the Sim-Mobile is the vehicle for stylish, high tech Sims! Fully equipped and guaranteed to be one of a kind, this custom racer is sure to be the talk of the town!
@@ -18,22 +18,22 @@ Unknown3: 0x00000000
    [0D] 0x713131BB39882CD5: Slightly uncomfortable, but undeniably antiquated, this rocking chair is designed to bring some old time ambiance to your living room, bed room, or nursery.
    [0E] 0x20CF895C22FCD14B: Spiderella prides herself on crafting unique, one of kind creations by hand. These curtains are no different. Each one has been lovingly hand woven and then ripped stylishly to shreds.
    [0F] 0x8943F3C8CB79D896: Looking for a fashionable way to guard your family tomb? Need a new door for that drafty castle? Then look no further! The Crypt Lord's Portal is sturdy, classy, and guaranteed to keep pesky rays of sunlight at bay.
-   [10] 0x00F7A521FB522181: This door evokes the majesty of the spider's web…and the creepy feeling of a spider scuttling along your bare arm.
+   [10] 0x00F7A521FB522181: This door evokes the majesty of the spider's web... and the creepy feeling of a spider scuttling along your bare arm.
    [11] 0xC51DF08401C9D17C: Styled after the saloon doors of old, this authentic replica is hand carved and sanded to perfection.
    [12] 0x193F2C8B67983E42: It's a laser door! Need I say more? (Lasers! Pew! Pew!)
    [13] 0x908FC89841D36377: When is a dresser not a dresser? When it is designed for a hero or villain, of course! Fully customizable with a variety of options, you are sure to find the features you need to optimize your superior lifestyle.
    [14] 0x806128B46FE906D6: The dance halls of the Old West featured well stocked bars with polished mirrors. Western Ways Furniture Inc. has tried to invoke that same feeling with this classic dresser design.
    [15] 0x211510F385CDE446: Be you a hero or a villain, this wardrobe is designed to be bigger on the inside so that it can hold all of your cloaks, capes, and masks!
-   [16] 0x4E85AD7B49E8C912: Whenever I am near this fireplace I get the feeling that someone is watching me…
+   [16] 0x4E85AD7B49E8C912: Whenever I am near this fireplace I get the feeling that someone is watching me...
    [17] 0x257BB08838394E5C: This Super Ray is for decoration only! It has a built in light bulb to illuminate your lair. Modifications, obviously, are a must.
    [18] 0x5C3BC15F9BE02E88: The active hero (or villain) needs a trophy case to show off choice pieces. This lovely display is lit, air tight, and made of scratch resistant, diamond infused glass.
    [19] 0x952449D3935975A4: Nothing says cozy abode like a trio of creepy arms holding lights! Nautical, mythical, and all around spooky, this unique fixture is sure to scare and delight your guests!
-   [1A] 0x5495115D3685A588: This loveseat will caress you…literally. The claws look ornamental, but one never knows…
+   [1A] 0x5495115D3685A588: This loveseat will caress you... literally. The claws look ornamental, but one never knows...
    [1B] 0xC606A866ABCBE808: Stylish, sleek, and fast too, this isn't just any motorcycle! With a custom design and a space age engine, the Vigilante Supercycle promises that you will be the first to arrive (or leave!) when danger presents itself.
    [1C] 0x18B3721B2396F708: These scenes from the Old West were painted by the talented D. Dreamer of Lucky Palms.
    [1D] 0xF88CE66B70E58DB6: Set the scene for your next blockbuster with this high quality backdrop. Perfect for films, commercials, plays, and plain make believe, these whimsical images are sure to please.
-   [1E] 0xEBE72D19773AA388: What is in these jars? Maybe I don't want to know…
-   [1F] 0x5447A1F8F48EBD7B: Maxis Man is a master of disguise…and robotics! This advanced metal hand is a key element to his most recent top secret project.
+   [1E] 0xEBE72D19773AA388: What is in these jars? Maybe I don't want to know...
+   [1F] 0x5447A1F8F48EBD7B: Maxis Man is a master of disguise... and robotics! This advanced metal hand is a key element to his most recent top secret project.
    [20] 0xDA4A2654C2786711: Every hero or villain needs a place to display proof of their greatest triumphs. Good and evil agree, a vanity wall is a must for the aspiring crusader.
    [21] 0x46A6E7A0BFDD5689: News in the Old West happened the old fashioned way - on paper! Newspapers, periodicals, and flyers were how folks found out what was going on outside of their own backyards.
    [22] 0xE2F5D40C1D5B7515: A classy sign designed for an Old West saloon-style establishment.
@@ -42,7 +42,7 @@ Unknown3: 0x00000000
    [25] 0x8884894D0E91474A: When you're busy saving the city it can be hard to find time to eat between raids. This handy crime map will keep you in the loop about what is happening while you snack on grilled cheese sandwiches.
    [26] 0x8E44FAB399BCBF9F: When gathering the minions for a big speech or celebratory feast, you'll need a table that is both large and imposing. The Plots and Plans Dining Table is perfect for the occasion.
    [27] 0x71338E879E62EBF0: This lovely little table is perfect for a saloon or a home with a western vibe. Sturdy, stout, and made of real wood, it is sure to be treasured and passed down through the generations.
-   [28] 0x5854E42CB6454EC6: A replica of a table once owned by the great Lady Medusa herself, this hand carved end table features several serpents who seem to gaze at you with very lifelike eyes…
+   [28] 0x5854E42CB6454EC6: A replica of a table once owned by the great Lady Medusa herself, this hand carved end table features several serpents who seem to gaze at you with very lifelike eyes...
    [29] 0x857B0375D8B2E452: All-in-One Outhouse
    [2A] 0xCC8CE095D5E2E68D: Saloon Sal's Bar
    [2B] 0xF2EC37F436C0E001: Saloon Sal's Bar Stool
@@ -92,7 +92,7 @@ Unknown3: 0x00000000
    [57] 0xC5B7ED7E29B74414: Reeling Film...
    [58] 0xC5B7ED7E29B74417: Vilifying Villains...
    [59] 0xC5B7ED7E29B74416: Spooking Sims...
-   [5A] 0xC5B7ED7E29B74419: Sound Checking Splines…
+   [5A] 0xC5B7ED7E29B74419: Sound Checking Splines...
    [5B] 0xC5B7ED7E29B74418: Painting Backdrops...
    [5C] 0x6ED4306C0CD7276C: Additional Music
    [5D] 0xF9BC1F3F10AA89F5: Localization Testing Project Manager

@@ -37,11 +37,11 @@
     
     (ObjectPlacedInInventoryAfterAcceptingOpportunity,SimsAreAssignedAsTargetOfOpportunity)
 
+## v0.0.4 - Dot Dot Dot
+
++ Replaced all instances of … with ... or .
+
 # Planned Changes
-
-## v0.0.x - Dot Dot Dot - PLANNED
-
-+ Replaced all instances of … with ...
 
 ## v0.0.x - Quotations - PLANNED
 

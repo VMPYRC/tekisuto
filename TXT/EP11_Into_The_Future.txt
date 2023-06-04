@@ -54,7 +54,7 @@ Unknown3: 0x00000000
    [031] 0x8F35C514D3F4C292: Skill Trait Chip
    [032] 0x574F2F88147EC226: Social Trait Chip
    [033] 0xE9F665B0B2A4A50A: We’re standing by and ready to serve the denizens of Oasis Landing. Swing by and say hello!
-   [034] 0x27D1A0DFF902E67F: Beyond its simple construction and edgily inverted design, the Oryx column pumps water in an infinite fountain. Try not to look at it for too long, lest you feel certain…urges.
+   [034] 0x27D1A0DFF902E67F: Beyond its simple construction and edgily inverted design, the Oryx column pumps water in an infinite fountain. Try not to look at it for too long, lest you feel certain... urges.
    [035] 0x16A557E384E3D008: Spawns common nanites.
    [036] 0x16A557E384E3D00B: Spawns common nanites.
    [037] 0x16A557E384E3D00A: Spawns common nanites.
@@ -146,9 +146,9 @@ Unknown3: 0x00000000
    [08D] 0xF198813758CEE0E1: Spawns nanites for the Bot Workshop
    [08E] 0x47ADB6C926D4BFE7: Launch yourself skyward for thrilling adventures with this personal jetpack! Patented gyroscopes ensure your basic safety, and it’s got enough juice to take other Sims on tandem rides.
    [08F] 0x12FFD571616A609D: With anti-gravity being so prevalent now-a-days, it’s sometimes nice to experience it in all its glory! The SkySwoop Slide will bring your children the utmost adoration, at least until they learn about video games.
-   [090] 0x3CC2DA4D64ECF19E: Did you know that only 30% of Sims can locate their local Library? Well, that statistic can only be looked up…in the Library! Use this glowing sign to find it.
+   [090] 0x3CC2DA4D64ECF19E: Did you know that only 30% of Sims can locate their local Library? Well, that statistic can only be looked up... in the Library! Use this glowing sign to find it.
    [091] 0x4C3502B15B074AF3: Powered by glowing fiber-optic cables, these delicate ceiling lights illuminate your home like a cityscape on a rainy night. Bright walls and dramatic shadows are sure to leave lasting memories.
-   [092] 0x6C6F5296072EF4C3: Cast any living space in a cool postmodern glow! This freestanding floor lamp mimics the distinctive soundwave signature of whale song. If only whales still existed…
+   [092] 0x6C6F5296072EF4C3: Cast any living space in a cool postmodern glow! This freestanding floor lamp mimics the distinctive soundwave signature of whale song. If only whales still existed...
    [093] 0x11BA99388E01F3AF: This radiant floor lamp is modeled after the famous Tannhauser Wormhole Gate linking Simkind to Alpha Centauri. Oh, you haven’t heard of that? Well, it’s a nice lamp.
    [094] 0x145B8625C14C0A7F: Arasika’s engineers started with a simple question: how thin can a lamp be? Ultimately they produced the Planck: a glaring, gorgeous lamp that grinds against the laws of physics.
    [095] 0x4C36F0B0F2B3D86F: Tasteful city planning demands that infrastructure match the local architecture. In a world of hyper-modern innovations, the powerful and stylish “Trianna” street lamp fits right in.
@@ -158,7 +158,7 @@ Unknown3: 0x00000000
    [099] 0xCA451DDBF1A400CE: Sweeping curves cradle soft cushions, projecting security and comfort. Curl up with your lover—human or otherwise—on this sumptuous love seat to watch C-Beams glitter in the dark.
    [09A] 0x559F5963D1213FBB: Public fixtures must be many things: attractive, subtle, functional and sturdy. This particular park bench adds just a dash of bold, make-out-in-public romance!
    [09B] 0x698337BD84BFB1ED: magicGnomeVul PLACEHOLDER DESCRIPTION DNT
-   [09C] 0xBCA954549DBA0366: The final destination when a Sim moves on… Keep your voice down and respect the resting!
+   [09C] 0xBCA954549DBA0366: The final destination when a Sim moves on... Keep your voice down and respect the resting!
    [09D] 0xD94EAE985DFEBEC3: In the future, fossil fuels are tightly regulated. Even the kitchen appliances have gone nuclear! Gamma rays seem dangerous, but they can reheat pizza without making it stale.
    [09E] 0x5A99EAAFF5331B91: This avante-garde mirror visualizes a complete orbital system: three moons circling a larger planet. Peer into each of the four shatterproof panels and see yourself in the stars!
    [09F] 0x3A1AD73CAD2BE3E7: The Tesseract is the first mirror integrating special relativity into its design. Nine panels reflect the various “spins” of photon particles, while also displaying the food stuck in your teeth.
@@ -217,7 +217,7 @@ Unknown3: 0x00000000
    [0D4] 0xE6CF91043B2BEAA2: Let’s face facts: trends are difficult to keep up with and when they're over, where do they go? This rack is perfect for displaying and admiring some of the more thrifty styles of yesteryear.
    [0D5] 0xE600723C68A22BA6: Turn any public space into a Grand Arcade with high arches and eye-pleasing ivy. Walkways are for common folk; Arcades are way classier.
    [0D6] 0xE8C706BC9E04BA4F: A massive achievement in both engineering and art! Slabs of metal and concrete rise imposingly from the ground, seeding shock and awe in everyone around.
-   [0D7] 0x262C1C5360C06822: We all know the world is full of glittering technology, but those advances only happened because Simkind made peace with their environment. “The Hollow Earth” symbolizes civilization’s mortality…or something like that.
+   [0D7] 0x262C1C5360C06822: We all know the world is full of glittering technology, but those advances only happened because Simkind made peace with their environment. “The Hollow Earth” symbolizes civilization’s mortality... or something like that.
    [0D8] 0x49115F0F55568BB2: Gaze into the placid water; imagine yourself as a smooth grey stone, resting below the surface. It’s so quiet, so still. Buy yourself peace of mind today!
    [0D9] 0xACF11F3B6CFDFB4E: It may be jarring and violent to behold, but the Kilraki Array is considered one of the century’s most important art installations. Just don’t touch it; you may hurt yourself.
    [0DA] 0x4BC2B8BA010FC114: Dense stands of bamboo lend an exotic East Asian flavor to any living space. Though artificial, they may distract ravenous Panda bears long enough for your family to escape.
@@ -873,7 +873,7 @@ Unknown3: 0x00000000
    [364] 0xD2ACC1B62EE80198: Gorgeous plants and a low key atmosphere draw in Sims from all over. When you gotta take a chill, Loel’s got your back!
    [365] 0xD2ACC1B62EE80199: Relax the old fashioned way without the high tech contraptions that complicate life.
    [366] 0xBAB38A1F48BA9914: Shop till you drop! We offer the latest and most exotic of imported products on display and ready to sell!
-   [367] 0x470ED34FD3A56192: The final destination when a Sim moves on… Keep your voice down and respect the resting!
+   [367] 0x470ED34FD3A56192: The final destination when a Sim moves on... Keep your voice down and respect the resting!
    [368] 0x88839DE788A04278: Suffering from Time Sickness or in need of scientific research? We’ll serve you with a smile and guarantee our work.
    [369] 0xBE2B74323D8E5697: The jewel of Oasis Landing, the Lending Library serves to educate Sims of all ages. Kick back and relax to a good book!
    [36A] 0x4D18C0BAA1B84ED8: Shafts of light burst through every corner of this gorgeous luxury home. Overhanging upper stories cast a shroud of soothing shadow over expansive serene pools.
@@ -912,8 +912,8 @@ Unknown3: 0x00000000
    [38B] 0x4C6E9352D7EFDE4A: Enjoy convenient commuting to and from the Mining District of Oasis Landing.
    [38C] 0xE62B0A36AAF25334: Enjoy the convenience of public transportation without having to live downtown.
    [38D] 0x2A8067CC03B049BD: The Zone Exchanging Perpetual Hyper Yttrium Relay is your vehicle to a Wasteland adventure!
-   [38E] 0x94D464993CE3A846: Rumor has it a ship crashed here and whomever possesses and assembles the four keys can open its treasure…
-   [38F] 0x94D464993CE3A845: Those who dare to venture here are bound to find something of worthwhile… 
+   [38E] 0x94D464993CE3A846: Rumor has it a ship crashed here and whomever possesses and assembles the four keys can open its treasure...
+   [38F] 0x94D464993CE3A845: Those who dare to venture here are bound to find something of worthwhile...
    [390] 0x6585F34236A62275: Modern Arcology Bot Arena
    [391] 0x24683FE4A103E2C4: Oasis Landing Community Center
    [392] 0x47D35548FF691EA9: Derelict Beach
@@ -994,7 +994,7 @@ Unknown3: 0x00000000
    [3DD] 0xF2BECCD1C187699F: Atom
    [3DE] 0x1AF8017151F4445D: Like Ceres, Atom is a genetically engineered twin created by Loki Beaker. He’s always wanted a Plumbot friend, and upon arriving in the future he jumped at the chance to get himself a Plumbot friend.
    [3DF] 0xF740766BD2BD2D87: Auden
-   [3E0] 0xDB548C77A2103CC2: Auden Dunes feels torn between his own needs and those of his younger brother. At the same time, he can’t help but feel there’s a larger destiny for him…
+   [3E0] 0xDB548C77A2103CC2: Auden Dunes feels torn between his own needs and those of his younger brother. At the same time, he can’t help but feel there’s a larger destiny for him...
    [3E1] 0xF2BAD7D1C18393AD: Aura
    [3E2] 0x88BD9789E0A21419: B157R0
    [3E3] 0xFB16CAD1C62A3D3A: B4-04
@@ -1101,7 +1101,7 @@ Unknown3: 0x00000000
    [448] 0xCED926D1ACD78F2D: Erik
    [449] 0x6F00AB4262FCFE59: Everett
    [44A] 0xCEE322D1ACDFDC91: Ewan
-   [44B] 0xB2D1AEC42EA039F8: Ewan Larson never really wanted children and was hesitant to adopt Loki, but over time he’s become intensely protective of the boy. Especially after what happened to his parents…
+   [44B] 0xB2D1AEC42EA039F8: Ewan Larson never really wanted children and was hesitant to adopt Loki, but over time he’s become intensely protective of the boy. Especially after what happened to his parents...
    [44C] 0x4C696352EE7FFD61: F13-RY
    [44D] 0xD8D36ED1B2DE015E: F1-R3
    [44E] 0x4D24AE52EF1F6F8D: F1X-17
@@ -1224,7 +1224,7 @@ Unknown3: 0x00000000
    [4C3] 0xC04CF1D1A563D70B: Kara
    [4C4] 0x37728402B2F8735F: Karter
    [4C5] 0xC996B43609352ABC: Kel
-   [4C6] 0xC4AEB18B4238503B: Since things ended with Drake, Kel Gwyn’s been focused on her future rather than love. But she never says never, and she’s noticed some interesting Sims looking her way…
+   [4C6] 0xC4AEB18B4238503B: Since things ended with Drake, Kel Gwyn’s been focused on her future rather than love. But she never says never, and she’s noticed some interesting Sims looking her way...
    [4C7] 0x024B663BF3A1B96F: Kevin
    [4C8] 0x59BE0FC0933D70BF: Khrushchev
    [4C9] 0x6B3B513C2F58F826: Kiara
@@ -1275,7 +1275,7 @@ Unknown3: 0x00000000
    [4F6] 0xC981983609229F5B: Mei
    [4F7] 0x89D501D185D4CCDB: Mela
    [4F8] 0xA6D9D3F5CE8818D9: Melany
-   [4F9] 0xED335B1525D2F415: With her father’s intense focus and her mother’s talent for troublemaking, Melany Mere is sure to make her mark in the world…right after she scrawls it on the kitchen wall.
+   [4F9] 0xED335B1525D2F415: With her father’s intense focus and her mother’s talent for troublemaking, Melany Mere is sure to make her mark in the world... right after she scrawls it on the kitchen wall.
    [4FA] 0x275A90E3BA45F639: Melvin
    [4FB] 0x89D4E3D185D499A5: Mere
    [4FC] 0xCDBB49072FA0490F: Michael
@@ -1305,7 +1305,7 @@ Unknown3: 0x00000000
    [514] 0x8C84520B7CEDA110: Patty 2000
    [515] 0xDD9B5D59D51FD539: PL4773R
    [516] 0xEAE1E58229EC7B66: Planchette
-   [517] 0x2865B80F7961A9B4: Planchette is an adventurous Sim who is desperate to open the door to the crashed ship. It’s consumed his life and has nearly driven him to madness…
+   [517] 0x2865B80F7961A9B4: Planchette is an adventurous Sim who is desperate to open the door to the crashed ship. It’s consumed his life and has nearly driven him to madness...
    [518] 0x7D5346D2D1709BA6: Planeson
    [519] 0x132775777CE94F45: Plumbot
    [51A] 0xC7FCDA3022EF0690: Prithvi
@@ -1557,7 +1557,7 @@ Unknown3: 0x00000000
    [610] 0xC28834EB65AB084D: Search for Alien Life at the Observatory.
    [611] 0x7ED7BE4261AAA00B: With a flash and the crackle of colliding photino particles, you brought a genuine Tesseract into being!
    [612] 0x0E165202FE785111: Now that the technology exists to collect Dark Matter, you have the materials needed to fold time and space. You can build a Tesseract!
-   [613] 0x2A5AC3F212C9AA4D: Maybe it was wise not to build that Tesseract. Sims have gone missing while meddling with them…
+   [613] 0x2A5AC3F212C9AA4D: Maybe it was wise not to build that Tesseract. Sims have gone missing while meddling with them...
    [614] 0xA11A07BC112CD124: There is Such a Thing
    [615] 0x65E8B92A23E5E710: Collect Dark Matter and build a Tesseract at the Observatory.
    [616] 0xB2C34ACB64ED3D68: You’re so glad to have read that book! It’s given you a fresh outlook on planetary motion.
@@ -1597,7 +1597,7 @@ Unknown3: 0x00000000
    [638] 0x72C518E570132B3F: Adjust a Plumbot’s Trait Chips.
    [639] 0x492DFA67E0980D0F: I’m glad you got friendly with a Bot. They’re delightful creatures, once you get to know them.
    [63A] 0x955631A0236287A4: Give a Plumbot a High Five.
-   [63B] 0x2D0EF6D17FE1A51A: Synthesized drinks are amazing, aren’t they? To think Sims in the past had to make their own…
+   [63B] 0x2D0EF6D17FE1A51A: Synthesized drinks are amazing, aren’t they? To think Sims in the past had to make their own...
    [63C] 0xBEABA32543F4492E: You’ve worked so hard to learn about Oasis Landing. A break is well deserved, and you must be parched. Over at the Cafeteria, you’ll find a machine on the counters to synthesize any colored beverage imaginable! Take this Windcarver; you’ll travel faster and have great fun doing it.
    [63D] 0xFFA67FA1C203C431: Take a Break
    [63E] 0xD7E8796A88F4C2D1: Order a Synthesized Drink at the Cafeteria.
@@ -1702,7 +1702,7 @@ Unknown3: 0x00000000
    [6A1] 0xBF50A404FEA6973F: A Serious Investment
    [6A2] 0x4C21B96934C76F1B: Purchase a Plumbot from a Sales Pedestal.
    [6A3] 0x15AA60DEB136BBC9: Perfect! As you can see, Plumbots are just like organic Sims, only more helpful and less whiny.
-   [6A4] 0x7E3B8CFB66E49187: That’s a fine Plumbot you selected! They function best when calibrated slowly and deliberately. Let’s put it through its paces. Instruct your Bot to Explain its Function, then Instruct it to Entertain You. I’ll keep all my scanners running while you do this…for science!
+   [6A4] 0x7E3B8CFB66E49187: That’s a fine Plumbot you selected! They function best when calibrated slowly and deliberately. Let’s put it through its paces. Instruct your Bot to Explain its Function, then Instruct it to Entertain You. I’ll keep all my scanners running while you do this... for science!
    [6A5] 0xA5B1F210517CE93E: Iterating Introductions
    [6A6] 0xA8FE088A32D0FEEE: Instruct Plumbot to Explain its Function and then to Entertain You.
    [6A7] 0x8437F6271B72B7F2: There’s no feeling quite like being elbow-deep in a Plumbot’s thought center, is there?
@@ -1736,7 +1736,7 @@ Unknown3: 0x00000000
    [6C3] 0x24C400668011ECF5: Now that you’ve shifted your own genetic timeline, your Descendants may have been radically altered or absent entirely! For all my tachyon-inferred data, we won’t have hard conclusions until you meet with them again. Remember, some changes will be subtler than others.
    [6C4] 0xB2533B99C3D2B5D0: The Moment of Truth
    [6C5] 0x97894928007725FC: Greet a Descendant.
-   [6C6] 0x49BD2657F7A4C18C: Was Trash diving as fun as it looks? Tell me about it while I scan you…
+   [6C6] 0x49BD2657F7A4C18C: Was Trash diving as fun as it looks? Tell me about it while I scan you...
    [6C7] 0x6F409F6A1394C7E8: This Dystopia timeline might disgust you, but the Sims here seem fairly happy with their lot. We should test out exactly how unhealthy Dystopia’s various features are. Start out simple and stinky: play in one of the Trash Piles littering the landscape. Get it? “Littering!”
    [6C8] 0x774FCD9899345744: Seems like you’ve already experienced a dystopian Future before. Check back later if you’re still interested in helping me!
    [6C9] 0xE433EB459F9A2A27: Sullied Samples
@@ -1755,7 +1755,7 @@ Unknown3: 0x00000000
    [6D6] 0xD18D686E790BAE33: Those fish checked out; healthy down to their cell chemistry. Most of Dystopia’s problems seem more like ugly quirks! If you don’t mind a bit of real danger, I’d like you to explore the Geyser Rifts caused by falling Meteors.
    [6D7] 0x25DF396F6188CEE2: Geyser Spelunking
    [6D8] 0x200A3083BD767FA2: Explore a Geyser Rift.
-   [6D9] 0x03C74750CC9D9F58: Thanks! These couldn’t have been easy to find. Now, to vaporize them in the chromatograph…
+   [6D9] 0x03C74750CC9D9F58: Thanks! These couldn’t have been easy to find. Now, to vaporize them in the chromatograph...
    [6DA] 0xBFFEF365F824FDCC: My data from your Geyser Rift plunge confirms traces of precious gems and ore. It must come from the Meteors forming them. You know what this means: time to catch some falling stars! Not literally, of course. Go and collect some Space Rocks for testing.
    [6DB] 0x44189864A283EF05: Find {1.Number} Space Rocks.
    [6DC] 0x565FEB64AD234323: Astro-Geologist
@@ -1765,7 +1765,7 @@ Unknown3: 0x00000000
    [6E0] 0x3A5F3D5E546EF694: An Old Hope
    [6E1] 0x28E56B5E09CB1F20: Go to {OpTarget}.
    [6E2] 0x668821009F88ADF8: What a wonderful piece you bought! I’m not one for fashion myself.
-   [6E3] 0x1CE681847B4A13EC: Hey! I’m pleased as punch you came by, but I’m busy with, uhh…something. That I don’t need help with. Just hang around town for a spell. Stop by the local shops and try on some futuristic fashions. And, uhh…keep your eyes open.
+   [6E3] 0x1CE681847B4A13EC: Hey! I’m pleased as punch you came by, but I’m busy with, uhh... something. That I don’t need help with. Just hang around town for a spell. Stop by the local shops and try on some futuristic fashions. And, uhh... keep your eyes open.
    [6E4] 0x5C620456F3632190: You already know your way around Oasis Landing? Great llamas! You really are an explorer!
    [6E5] 0x323F7195AFC8C5C3: Fashion Distraction
    [6E6] 0x8848EA8D2541921F: Buy something from a Clothing Pedestal.
@@ -1774,7 +1774,7 @@ Unknown3: 0x00000000
    [6E9] 0x19A4C38F59F7A234: Idle Amusement
    [6EA] 0x12E0D9270D1503C0: Go see a HoloVenture at the HoloVenture Theater.
    [6EB] 0xD2F5F2C2C99084F6: I hope you picked a good drink flavor! Did you notice any unusual Nanite activity over there?
-   [6EC] 0x32255D8765A8F122: Ouch! Sorry, I just smacked the old gourd under the couch looking for…uhh, something. You look thirsty! Why don’t you a drink at the Cafeteria? I hear they’re so sugary and delicious that the place attracts Nanites from miles around!
+   [6EC] 0x32255D8765A8F122: Ouch! Sorry, I just smacked the old gourd under the couch looking for... uhh, something. You look thirsty! Why don’t you a drink at the Cafeteria? I hear they’re so sugary and delicious that the place attracts Nanites from miles around!
    [6ED] 0x1AAD4D83673CFE7D: Empty Calories
    [6EE] 0x16799E01269279FD: Order a Synthesized Drink at the Cafeteria.
    [6EF] 0xD8D3A2998238F391: No trace of Skippy at City Hall? Drat. Where else have I been these past few days?
@@ -1809,7 +1809,7 @@ Unknown3: 0x00000000
    [70C] 0x3FE7E4C01D7CD815: Collect {10.Number} Dews from Delightfully Oversized Flowers.
    [70D] 0x515637C027643B13: Dewduction
    [70E] 0xFEC69B99C6694E0F: Collected {0.Number} of {1.Number} Dews.
-   [70F] 0xA970CFE466D6D2AD: Looks like you had a great time! Here’s hoping it didn’t come with a cost…
+   [70F] 0xA970CFE466D6D2AD: Looks like you had a great time! Here’s hoping it didn’t come with a cost...
    [710] 0x01B2507F7FEFE203: In this Utopian timeline, Sims amuse themselves by hurling colorful Dew. Everyone winds up splattered and giggling like maniacs, but I wonder if the Dew carries any health risks? Go out in public and indulge in some Dewy delight. I’ll sample your plasma afterwards.
    [711] 0x5FBB0700D03D61FB: Don’t enjoy being a guinea pig? Well, I don’t blame you. They don’t like it either.
    [712] 0xB5B3D8C739DC1BF8: Throw Dew {1.Number} times at other Sims.
@@ -1888,7 +1888,7 @@ Unknown3: 0x00000000
    [75B] 0xAAF8BF003660A6D0: A Minor Indulgence
    [75C] 0xE4D4E0A804D8A6FC: Used Meteor Magnet {0.Number} out of {1.Number} times.
    [75D] 0xC56FE5EC012D14F6: Well, the Dew hasn’t melted you. I was slightly worried about that. How do you feel?
-   [75E] 0xD3ED8C90E4B1A122: Great llamas! This data confirms that my goopy Dew has the potential to unleash the inner whimsical side of Sims! Happy Sims will lead to a happy Future, right? First we need a test subject… Since I need to operate the scanner, let’s choose…. You! Don’t be scared, it’s for science!
+   [75E] 0xD3ED8C90E4B1A122: Great llamas! This data confirms that my goopy Dew has the potential to unleash the inner whimsical side of Sims! Happy Sims will lead to a happy Future, right? First we need a test subject... Since I need to operate the scanner, let’s choose... You! Don’t be scared, it’s for science!
    [75F] 0x62706E86643E0E7D: Dewing a Trial Run
    [760] 0x1DA2BF178BEC89FD: Use Dew on yourself.
    [761] 0xC050BB7DA19D8B1B: Your Dewing spree created such emotional resonance that I was able to detect it even in here!
@@ -1906,7 +1906,7 @@ Unknown3: 0x00000000
    [76D] 0x8F4E4955816738D1: Scan {1.Number} Sims while they laugh.
    [76E] 0x5C4A545564C78BB7: Scanning for Smiles
    [76F] 0x45BF4B15D9F72E23: Successfully scanned {0.Number} of {1.Number} Sims while they laugh.
-   [770] 0xC5692FF2B14DA145: Those nerds know nothing of Time Travel, but a meteor shield might be within their… limited capabilities.
+   [770] 0xC5692FF2B14DA145: Those nerds know nothing of Time Travel, but a meteor shield might be within their... limited capabilities.
    [771] 0xC4A2F7DA6A74F7EB: Our innocent, well-intentioned experiment has gone awry! Surprising how often that happens. The Future has become a filthy, polluted, meteor-scarred Dystopia! If we’re going to fix this, the meteors are priority one. Warn those “geniuses” at the Science Lab of the coming meteor-pocalypse.
    [772] 0x1BD5CD81F7FB52E3: You think Sims have benefitted by living in a dangerous world with falling meteors and stinky trash piles? Tough to argue with you there!
    [773] 0x3AD31958EB7A066A: Undoing Ruin
