@@ -79,6 +79,8 @@
   + Changes
     + Sports Writers write about sports. Touchdown from downtown.
     + Sports Writer
++ Miscellaneous Fixes
+  + Removed repeated words
 
 # Planned Changes
 
