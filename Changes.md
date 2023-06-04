@@ -81,6 +81,7 @@
     + Sports Writer
 + Miscellaneous Fixes
   + Removed repeated words
+  + Spelling fixes
 
 # Planned Changes
 
@@ -109,14 +110,6 @@
 |                           |                     |
 |                           |                     |
 |                           |                     |
-
-## v0.0.x - Spelling 1 - PLANNED
-
-+ Success
-+ Receive
-+ Your'll
-+ 
-+ -
 
 ## v0.0.x - Punctuation - PLANNED - MAYBE - VERY LONG PROCESS
 
