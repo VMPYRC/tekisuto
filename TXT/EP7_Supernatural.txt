@@ -1041,7 +1041,7 @@ Wood is not an uncommon material for a dining table, but why do so few dining ta
    [40B] 0x4A499C6A9C7018CF: The Sims™ 3 Supernatural Install
    [40C] 0xF785E5658443FC9C: The Sims™ 3 Supernatural Installer
    [40D] 0x4A52E689D7388EB7: Print
-   [40E] 0x6A23981DBCFC7975: Do you want to completely remove the selected application and all of its features?
+   [40E] 0x6A23981DBCFC7975: Would you like to completely remove the selected application and all of its features?
    [40F] 0xFDA1B35E0C4275AF: Fairy Wing Type
    [410] 0xE7962D4FC50C603F: Supernatural Type
    [411] 0x062A6DABA9D454DC: Brewing Elixirs...

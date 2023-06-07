@@ -1950,11 +1950,11 @@ Unknown3: 0x00000000
    [799] 0xFF0F0643174BBF38: All of your time travelers are dead or gone! Your family's urn stones have been moved to a local mausoleum, and it's time to reload or go back to your home world.
    [79A] 0xCB883F724EC16418: Level
    [79B] 0x771827AF820AF8E6: Warning! If you have games with Sims currently in the Future, they will become disabled. If you want to keep playing these saves, cancel uninstallation, reload the save and return the Sims back to home neighborhood, then uninstall. Any content that requires this Expansion Pack will be deleted and may be lost forever. Would you like to continue with the uninstall?
-   [79C] 0x64A974FA3133E23E: You currently have one or more expansion packs for The Sims™ 3 installed. Uninstalling %@ may cause those expansion pack(s) to no longer function correctly unless you update your game online via The Sims™ 3 Launcher. Do you wish to continue uninstalling %@?
+   [79C] 0x64A974FA3133E23E: You currently have one or more expansion packs for The Sims™ 3 installed. Uninstalling %@ may cause those expansion pack(s) to no longer function correctly unless you update your game online via The Sims™ 3 Launcher. Would you like to continue uninstalling %@?
    [79D] 0xB968609F87526056: The Sims™ 3 Into the Future Install
    [79E] 0xB180A131D24DE3B5: The Sims™ 3 Into the Future Installer
    [79F] 0xB9716ABEC21A69FE: Print
-   [7A0] 0x997FBE06DC3B65EC: Do you want to completely remove the selected application and all of its features?
+   [7A0] 0x997FBE06DC3B65EC: Would you like to completely remove the selected application and all of its features?
    [7A1] 0xE337F4A9287537E5: Cannot create this Trait Chip.
    [7A2] 0xE93E20018B1B4915: Components
    [7A3] 0xD812E1DB7CBE9E8A: Create Trait Chip

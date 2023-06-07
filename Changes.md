@@ -86,6 +86,7 @@
   + Décor, not decor
   + Correct Spelling: Simoleon
   + Laser Harp, not Laser Rhythm-a-con
+  + Would you like, not Do you want/wish
 
 # Planned Changes
 
@@ -100,14 +101,6 @@
 ## v0.0.x - Skill Statistics - PLANNED
 
 + Reformatted, Simplified
-
-## v0.0.x - Replacements / Rename 1 - PLANNED
-
-| Original                | Changed             |
-| ----------------------- | ------------------- |
-| What do you want / wish | What would you like |
-| Do you want / wish      | Would you like      |
-|                         |                     |
 
 ## v0.0.x - Punctuation - PLANNED - MAYBE - VERY LONG PROCESS
 

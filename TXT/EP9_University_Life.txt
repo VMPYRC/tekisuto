@@ -2675,7 +2675,7 @@ Unknown3: 0x00000000
    [A6E] 0xBF1DFB62FA2728AC: Workaholics will benefit in the pursuit of a Communications Degree from Sims University.
    [A6F] 0x9FA35903F56A48B2: Sims with an X Factor will benefit in the pursuit of a Fine Arts Degree from Sims University.
    [A70] 0x0640396E024F9439: Job Board gives you opportunities around the college town! DO NOT TRANSLATE
-   [A71] 0xBFEC57285C7B1EFE: Do you want to learn more about the job board? DO NOT TRANSLATE
+   [A71] 0xBFEC57285C7B1EFE: Would you like to learn more about the job board? DO NOT TRANSLATE
    [A72] 0xF46C5C315563E3D0: EP9 Job Board Tutorial DO NOT TRANSLATE
    [A73] 0xF098AC3B30F14E65: Continue
    [A74] 0xD2EB683E88977065: Create Concept Art
@@ -2697,7 +2697,7 @@ Unknown3: 0x00000000
    [A84] 0xECD3C03A81FAED81: The Sims™ 3 University Life Install
    [A85] 0x94DEE112125C727A: The Sims™ 3 University Life Installer
    [A86] 0xAD66EADD497CEBF9: Print
-   [A87] 0x74276E7AB6BEBFDF: Do you want to completely remove the selected application and all of its features?
+   [A87] 0x74276E7AB6BEBFDF: Would you like to completely remove the selected application and all of its features?
    [A88] 0xE0C5107490284CAB: Your Sim does not currently have a Dare Opportunity. Become a part of a Social Group to receive valuable Opportunities.
    [A89] 0x0AB0058A7A5B8966: Your Sim does not currently have a Day Job Opportunity. Visit a Job Board to receive valuable Opportunities.
    [A8A] 0x255C50459FCE0404: Dare

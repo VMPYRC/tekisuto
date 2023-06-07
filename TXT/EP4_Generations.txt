@@ -595,7 +595,7 @@ Unknown3: 0x00000000
    [24E] 0x479A0453CAA1A2D8: The Sims™ 3 Generations Install
    [24F] 0x2647FD7D9184F813: The Sims™ 3 Generations Installer
    [250] 0x9B2F0E6E1AE4AA60: Print
-   [251] 0x5599BD8760867EF6: Do you want to completely remove the selected application and all of its features?
+   [251] 0x5599BD8760867EF6: Would you like to completely remove the selected application and all of its features?
    [252] 0x3F30458679F93337: ESC
    [253] 0x83D62FB6597443F4: Exit
    [254] 0x6386753995FA8CA8: S

@@ -5,7 +5,7 @@ Unknown3: 0x00000000
    [00] 0x3598BB305716C534: The Sims™ 3 Fast Lane Stuff
    [01] 0x71AB665EAAB1D723: The Sims™ 3 Fast Lane Stuff Installer
    [02] 0x2B54258DF74F4EBC: Print
-   [03] 0x50A66F3E14157562: Do you want to completely remove the selected application and all of its features?
+   [03] 0x50A66F3E14157562: Would you like to completely remove the selected application and all of its features?
    [04] 0xD78F7F86CBAC7669: Life is but a series of choices made at unending crossroads. Whichever way you go in life, the Left at the Turnpike Bar will be waiting at every junction, ready to serve up a refreshing drink and provide serene solitude, a respite from the hustle and bustle of daily life. So take some time to catch your breath at the Left at the Turnpike Bar.
    [05] 0x98C613406FCF55CE: We all want to be "right" in life. We want to have the right of way. We want to make the right decisions. And, most importantly, we want to choose the right barstool! Plush yet firm and finely stitched, the Right at the Turnpike Barstool is guaranteed to be the right choice for at least one aspect of your life.
    [06] 0x8221E3015A53BE55: Vintage style at modern prices, this classy classic is everything you can't remember from your grandmother's youth and more! A super sleek polished finish gives this ride a glossy shine that you'll want to preserve by spending your afternoons buffing and waxing the hood. Plenty of trunk space makes up for the limited passenger seating area. Comes fully equipped with an environmentally friendly air conditioning system we like to call Mother Nature.

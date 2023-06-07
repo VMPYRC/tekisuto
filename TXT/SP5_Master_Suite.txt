@@ -6,7 +6,7 @@ Unknown3: 0x00000000
    [01] 0x352108E812501407: The Sims™ 3 Master Suite Stuff Install
    [02] 0x148436220CFC7A28: The Sims™ 3 Master Suite Stuff Installer
    [03] 0xFDD7258794A763AF: Print
-   [04] 0x02359B4995313865: Do you want to completely remove the selected application and all of its features?
+   [04] 0x02359B4995313865: Would you like to completely remove the selected application and all of its features?
    [05] 0x59F5F7AF8820FB4B: The large basin of this stylish tub beckons you to hop inside and relax in the soothing, effervescent water. Your inner spirit will be calmed as you cleanse the day away. It's such an endearing experience that you'll never want to leave. Eventually you'll have to, so enjoy it while you can.
    [06] 0xEE0F873DFD0A1AF9: Comfort and privacy will envelop you in this haven from the turmoil of life. The ultimate in comfort is just a dream away when you sleep on the pillow top mattress, crafted with our special CloudCushion technology. And when you want a little privacy, just pull the curtains closed and sleep in your very own luxurious cocoon.
    [07] 0x9B260C6CD44F2383: This plush chair caresses your skin as you sink into the seat. Filled with millions of hypo-allergenic nanofluff pellets, this patent-pending cushioning system is rated as the softest padding available. Bring home a Warm Embrace Living Chair and your hindsight will thank you.

@@ -6,7 +6,7 @@ Unknown3: 0x00000000
    [01] 0x33A934E2EB0F95DA: The Sims™ 3 Town Life Stuff Install
    [02] 0x6A4D8A29A7E12FF5: The Sims™ 3 Town Life Stuff Installer
    [03] 0x2AA5517C4D368962: Print
-   [04] 0x28F7426E66151650: Do you want to completely remove the selected application and all of its features?
+   [04] 0x28F7426E66151650: Would you like to completely remove the selected application and all of its features?
    [05] 0x274D7CF95A447E1A: Scrumptious Nibbles Café
    [06] 0xEAD5ED27CE092ABE: Containing just the right amount of room for the essential classics, the Poetic License Bookshelf is designed for a serious book collection without wasting space on pop fiction or other unworthy tomes.
    [07] 0x4B7FE2F44224CAF8: This exquisitely designed bookshelf makes the perfect statement for a book collector. With ample storage for both standard and oversized books, you'll never be without a special place for that special classic. Your collection could almost increase in value just by bringing this beauty into your home.

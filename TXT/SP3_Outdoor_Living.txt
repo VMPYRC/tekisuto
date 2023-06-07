@@ -6,7 +6,7 @@ Unknown3: 0x00000000
    [01] 0x61E25CFAF7DB5FA1: The Sims™ 3 Outdoor Living Stuff Install
    [02] 0x9AA592535FFF4EF6: The Sims™ 3 Outdoor Living Stuff Installer
    [03] 0xD6B4F99806ECFD09: Print
-   [04] 0x16C129E926EA56C7: Do you want to completely remove the selected application and all of its features?
+   [04] 0x16C129E926EA56C7: Would you like to completely remove the selected application and all of its features?
    [05] 0x26B2C937BCED550D: Enjoy every moment of outdoor cooking with the Original Griller Entertainment Series Barbeque. The hybrid ionized cooker and smoker guarantees a perfectly cooked slab of meat every time. Savor the ultimate in smoky flavor thanks to the patented Infuserizer grill bars!
    [06] 0x377055ED74989232: Specially designed for open air entertaining, the Outdoorsy Life Bar is a great spot to serve mixed juice drinks at your next block party. After the party cools down, you won't have to fear the mess of post-party clean up either! Thanks to the EZ-Wipe countertop, you'll wipe away juice spills and bird droppings easily. It won't feel like work at all.
    [07] 0x2E38E5750240EACB: Do your daily affairs involve balancing a country's economy? Ruling a vast empire? If so, your bar should exude the style, class and elegance that your job title commands. Demand nothing less than the Throne d'Elegance, your Excellence.
