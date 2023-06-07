@@ -82,6 +82,8 @@
 + Miscellaneous Fixes
   + Removed repeated words
   + Spelling fixes
++ Replacement Fixes
+  + Décor not decor
 
 # Planned Changes
 
@@ -103,12 +105,8 @@
 | ------------------------- | ------------------- |
 | Laser Rhythm-a-con        | Laser Harp          |
 | Simolean(s), Simoloeon(s) | Simoleon(s)         |
-| Decor                     | Décor               |
 | What do you want / wish   | What would you like |
 | Do you want / wish        | Would you like      |
-|                           |                     |
-|                           |                     |
-|                           |                     |
 |                           |                     |
 
 ## v0.0.x - Punctuation - PLANNED - MAYBE - VERY LONG PROCESS

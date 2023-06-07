@@ -118,7 +118,7 @@ Unknown3: 0x00000000
    [071] 0xE991CA49780B924C: This the hot tub basin. It is the bottom of the Hot Tub.
    [072] 0xB7B128411946FB24: Celebrate the humble light bulb by planting this funky light on your ceiling. As time goes by, your affection for this unassuming lamp will continue to grow.
    [073] 0x03C14F980477C010: Got an obscenely expensive piece of artwork that you want to show off? Shine the Super Spotlight on that posh piece of eye candy and ensure that all eyes are drawn to your extravagance!
-   [074] 0x981D06E5A61A3B3A: Serve up your light on a platter with this designer overhead light. This dinnerware-inspired creation adds an unconventional touch to any decor.
+   [074] 0x981D06E5A61A3B3A: Serve up your light on a platter with this designer overhead light. This dinnerware-inspired creation adds an unconventional touch to any décor.
    [075] 0x788716582263A9CF: Unleash a canopy of light when you hang the Beautiful Bevels Hanging Light from your ceiling. The handsome simulated stained glass is guaranteed to enhance the look of game rooms, dining rooms, and more!
    [076] 0xAE88FEC995CD57BD: The Two-Toned Pendant, designed by Ginter Luminous, is a graceful dangling light that sets the right ambiance for any décor. Its two-toned design provides subtle lighting with a unique glow.
    [077] 0xDC2A3C9D44209EA3: Light Catcher by Ice Lighting is a one-of-a-kind ceiling decoration that is both modern and elegant for the materialistic heart. Its unique design mimics the design of ice crystals, catching and diffusing light throughout the whole room. Ice out your ceilings with the Light Catcher by Ice Lighting!
@@ -233,7 +233,7 @@ Unknown3: 0x00000000
    [0E4] 0x366D65D8383837B7: signUrbanBillboardVar04 needs description
    [0E5] 0x36E3D1C4D71B345E: signUrbanBillboardVar03 needs description
    [0E6] 0x7CCD1E7EAFD6FE53: Place this sign outside the stadium to make sure nobody misses it while driving by. Bask in 1000 kilowatts of electronic glow!
-   [0E7] 0x65A09BFCF7666706: Add a touch of industrial design to your decor by installing the Industrial Sink. Its simple, unadorned design will make it look like you ripped your sink out of an industrial kitchen.
+   [0E7] 0x65A09BFCF7666706: Add a touch of industrial design to your décor by installing the Industrial Sink. Its simple, unadorned design will make it look like you ripped your sink out of an industrial kitchen.
    [0E8] 0x80CA387201DF7EBD: Old-fashioned sinks got you down? Upgrade now to the New Loew's Sink and double your sink power! Note: any reports of excessive flooding and pipe leakage from previous Loew's models are unsubstantiated.
    [0E9] 0xBEB1FC5E3919D6EB: Sometimes an ordinary sink just won't do. Kick it up a notch with the Brash Bowl and show the world just how XTREME sinks can be! Warning: those Sims with a fear of porcelain should avoid all contact with the Brash Bowl.
    [0EA] 0x7491F9E2324C5199: [placeholder]
