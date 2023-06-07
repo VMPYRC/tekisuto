@@ -84,6 +84,7 @@
   + Spelling fixes
 + Replacement Fixes
   + Décor not decor
+  + Correct Spelling: Simoleon
 
 # Planned Changes
 
@@ -101,13 +102,12 @@
 
 ## v0.0.x - Replacements / Rename 1 - PLANNED
 
-| Original                  | Changed             |
-| ------------------------- | ------------------- |
-| Laser Rhythm-a-con        | Laser Harp          |
-| Simolean(s), Simoloeon(s) | Simoleon(s)         |
-| What do you want / wish   | What would you like |
-| Do you want / wish        | Would you like      |
-|                           |                     |
+| Original                | Changed             |
+| ----------------------- | ------------------- |
+| Laser Rhythm-a-con      | Laser Harp          |
+| What do you want / wish | What would you like |
+| Do you want / wish      | Would you like      |
+|                         |                     |
 
 ## v0.0.x - Punctuation - PLANNED - MAYBE - VERY LONG PROCESS
 
