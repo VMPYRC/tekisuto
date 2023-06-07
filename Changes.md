@@ -83,8 +83,9 @@
   + Removed repeated words
   + Spelling fixes
 + Replacement Fixes
-  + Décor not decor
+  + Décor, not decor
   + Correct Spelling: Simoleon
+  + Laser Harp, not Laser Rhythm-a-con
 
 # Planned Changes
 
@@ -104,7 +105,6 @@
 
 | Original                | Changed             |
 | ----------------------- | ------------------- |
-| Laser Rhythm-a-con      | Laser Harp          |
 | What do you want / wish | What would you like |
 | Do you want / wish      | Would you like      |
 |                         |                     |
