@@ -841,8 +841,8 @@ Unknown3: 0x00000000
    [0344] 0x1332634BD20C0B58: EP1_CareerBusiness_GetNectarProgress
    [0345] 0x193E00208748B749: You somehow managed to get the expensive Relic through customs unnoticed! It was a crazy feat and you won the bet!
    [0346] 0x92E67B5C90D092DC: You somehow managed to get the expensive Relic through customs unnoticed! It was a crazy feat and you won the bet!
-   [0347] 0xA40EA9DA2772EC07: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of simoleans that you can’t pull it off.
-   [0348] 0xC00AABC138954876: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of simoleans that you can’t pull it off.
+   [0347] 0xA40EA9DA2772EC07: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of simoleons that you can’t pull it off.
+   [0348] 0xC00AABC138954876: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of simoleons that you can’t pull it off.
    [0349] 0xDEE707B1CD222437: EP1_CareerBusiness_GetRelicFailure
    [034A] 0xD97756D66A0D4E4C:  Bring a Relic worth at least 750 Simoleons to work with you.
    [034B] 0xE0FDA0558491754F: Bring a Relic worth at least 750 Simoleons to work with you.
@@ -931,8 +931,8 @@ Unknown3: 0x00000000
    [039E] 0x60009260AF47D5C0: Bring a Group Serving of Great Falafel to Work
    [039F] 0xBCA562D318C921C9: Your crepes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
    [03A0] 0xC3EADD04A888AE5C: Your crepes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
-   [03A1] 0xCD25DF4764A7E387: The smooth, papery-thin surface of a Crepe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crepes into work to establish your rank among the others. Your'll get a raise for your efforts.
-   [03A2] 0xC2981C61866C02F6: The smooth, papery-thin surface of a Crepe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crepes into work to establish your rank among the others. Your'll get a raise for your efforts.
+   [03A1] 0xCD25DF4764A7E387: The smooth, papery-thin surface of a Crepe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crepes into work to establish your rank among the others. You'll get a raise for your efforts.
+   [03A2] 0xC2981C61866C02F6: The smooth, papery-thin surface of a Crepe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crepes into work to establish your rank among the others. You'll get a raise for your efforts.
    [03A3] 0xF2F48310DAA163B7: EP1_CareerCulinary_FrenchFoodFailure
    [03A4] 0x8DBD3AE585850CCC: Learn the recipe for Crepes, cook a serving, then bring it to work to earn a raise.
    [03A5] 0x0A14D5C2C1C66CCF: Learn the recipe for Crepes, cook a serving, then bring it to work to earn a raise.
