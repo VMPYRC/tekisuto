@@ -1,6 +1,7 @@
 # tekisuto
 
 + STBL / Text Changes for The Sims 3
++ Full List of Changes [here](https://github.com/VMPYRC/tekisuto/blob/main/Changes.md)
 
 ## Instructions
 
@@ -10,7 +11,7 @@
 4. Can be placed in `Packages` OR `Overrides`
 5. Delete any Expansion pack or Stuff pack that you do not own / use
 6. Play + Enjoy
-7. [Submit Issues & Suggestions Here](https://github.com/VMPYRC/tekisuto/issues)
+7. Submit Issues & Suggestions via [GitHub](https://github.com/VMPYRC/tekisuto/issues) or as a comment to this [tumblr post](https://astraace.tumblr.com/post/719837674573348864/tekisuto)
 
 ## STBL Files Used
 
