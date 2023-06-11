@@ -4,12 +4,13 @@
 
 ## Instructions
 
-1. Go to [releases](https://github.com/VMPYRC/tekisuto/releases)
+1. Go to the latest version of [releases](https://github.com/VMPYRC/tekisuto/releases)
 2. Download and extract the attached .ZIP file
 3. Move the folder to `Documents\Electronic Arts\The Sims 3\Mods`
 4. Can be placed in `Packages` OR `Overrides`
-5. Play + Enjoy
-6. [Submit Issues & Suggestions Here](https://github.com/VMPYRC/tekisuto/issues)
+5. Delete any Expansion pack or Stuff pack that you do not own / use
+6. Play + Enjoy
+7. [Submit Issues & Suggestions Here](https://github.com/VMPYRC/tekisuto/issues)
 
 ## STBL Files Used
 
