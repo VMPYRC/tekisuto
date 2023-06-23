@@ -88,19 +88,22 @@
   + Laser Harp, not Laser Rhythm-a-con
   + Would you like, not Do you want/wish
 
+## v0.0.7 - Text Fixes 2
+
++ MEMORIES text fixed
+  + Bake Table Robbed
+  + 
+
 # Planned Changes
 
 ## v0.0.x - Opportunities GUID - PLANNED
 
 + Added Opportunities' GUID underneath their Descriptions
 
-## v0.0.x - Skill Certificates - PLANNED
+## v0.0.x - Simplified Skills - PLANNED
 
-+ Reformatted
-
-## v0.0.x - Skill Statistics - PLANNED
-
-+ Reformatted, Simplified
++ Reformatted Statistics
++ Reformatted Certificates
 
 ## v0.0.x - Punctuation - PLANNED - MAYBE - VERY LONG PROCESS
 
