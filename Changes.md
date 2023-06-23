@@ -90,9 +90,10 @@
 
 ## v0.0.7 - Text Fixes 2
 
-+ MEMORIES text fixed
++ MEMORIES
   + Bake Table Robbed
-  + 
++ Birthday Message
+  + Age up to child
 
 # Planned Changes
 
