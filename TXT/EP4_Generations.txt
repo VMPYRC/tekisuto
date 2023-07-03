@@ -469,112 +469,112 @@ Unknown3: 0x00000000
    [1D0] 0xE30F1B3CE7E6A435: The King's Crown
    [1D1] 0x89EECBADD6F5696E: The Queen's Crown
    [1D2] 0x85170266739C16B9: Paint flowed from the paintbrush to the canvas with ease. {OpOwner} was channeling the great artists of the past, making {MA.him}{FA.her} the winner of the art-a-thon! Be sure to hang the sweet painting with pride!
-   [1D3] 0x0C9750C116461E17: The Art Club is having an impromptu art-a-thon. It's a friendly competition for students to get together and create pieces in a certain amount of time. Winners get their paintings hung in the {OpTarget} and a really sweet painting by Lilly O’Houllihan. Does {OpOwner} want to participate?
+   [1D3] 0x0C9750C116461E17: The Art Club is having an impromptu art-a-thon. It's a friendly competition for students to get together and create pieces in a certain amount of time. Winners get their paintings hung in the {OpTarget} and a really sweet painting by Lilly O’Houllihan. Does {OpOwner} want to participate?\n\nEP4_Activity_ArtAudition
    [1D4] 0x09DFB4DC448F4887: It's a sad day in the world. {OpOwner} missed the Art-a-thon! Wouldn't it have been nice to have art displayed at {OpTarget}? Who knows what kind of influence it would have on other students.
    [1D5] 0xB359291B5A3CB21C: Attend Art-a-thon at {OpTarget}
    [1D6] 0xE91FFE1B7934F0EE: The Art-a-thon
    [1D7] 0xC6EEFB996E45B17E: Attend Art-a-thon at {OpTarget}
    [1D8] 0x0AF9742CD8FB454D: {OpOwner} painted a good painting and fought a good fight, but it just wasn't enough. The judges like teenage angst, but perhaps {OpOwner} has a little too much? 
    [1D9] 0x645EBF822B552ED0: {OpOwner} danced superbly! {MA.He}{FA.She} won the part and a special trophy! Judges were so pleased that they exclaimed "{MA.Bravo}{FA.Brava}" after {OpOwner} danced.
-   [1DA] 0x54930649926BD3D4: Try outs for the lead dancer in the upcoming recital are being held today at the {OpTarget}! The winner will also receive a special trophy! Does {OpOwner} want to participate?
+   [1DA] 0x54930649926BD3D4: Try outs for the lead dancer in the upcoming recital are being held today at the {OpTarget}! The winner will also receive a special trophy! Does {OpOwner} want to participate?\n\nEP4_Activity_BalletAudition
    [1DB] 0xF8F8610E444AFC18: It's too bad {OpOwner} couldn't make it! {OpOwner} will have to be happy with blending in with the other dancers during the recital.
    [1DC] 0x662C30493BCB99AD: Attend Audition at {OpTarget}
    [1DD] 0x783D8349463D5E5B: Quest for the Lead
    [1DE] 0xD3CBD18B158E9DC7: Attend Audition at {OpTarget}
    [1DF] 0x1BE798E304EBE13E: {OpOwner} danced really well, but it was obvious to the judges that {MA.he}{FA.she} was not in a very good mood! They want someone that genuinely looks happy to dance.
    [1E0] 0xCAA91DCD9D9FF635: It was a wonderful recital! {OpOwner} got a great trophy to display proudly that will remind {MA.him}{FA.her} of how great {MA.he}{FA.she} danced!
-   [1E1] 0xE6FA645366EFA57B: It's time for {OpOwner} to show off their graceful dance moves in the ballet recital! {MA.He}{FA.She} has practiced hard and it's a great time for the family to enjoy the hard work! Just head on over to the {OpTarget} at the appropriate time.
+   [1E1] 0xE6FA645366EFA57B: It's time for {OpOwner} to show off their graceful dance moves in the ballet recital! {MA.He}{FA.She} has practiced hard and it's a great time for the family to enjoy the hard work! Just head on over to the {OpTarget} at the appropriate time.\n\nEP4_Activity_BalletRecital
    [1E2] 0x4F4893E136E5C5F3: Oh no! {OpOwner} missed the recital. It's too bad {MA.he}{FA.she} wasn't able to perform but a participation trophy will be given when {OpOwner} becomes a teenager.
    [1E3] 0x64FEFEC29323D5D0: Attend Recital at {OpTarget}
    [1E4] 0x52EDABC288B2115A: Ballet Recital
    [1E5] 0x8B83022D7D36E38A: Attend Recital at {OpTarget}
    [1E6] 0x86776537E8261B91: With {OpOwner}'s impeccable reasoning, team members had no choice but to elect {MA.him}{FA.her} the club president! A big congrats! They have bestowed {OpOwner} with a really cool gavel sculpture! It's an exact replica of the one used at {OpTarget} when arguments get a little heated.
-   [1E7] 0xD682091F994039FF: The Debate Team needs a president, someone who can represent them well in any upcoming debate tournaments Does {OpOwner} want to debate for this position? Make sure {MA.he}{FA.she} shows up with strong logic skills and in a good mood!
+   [1E7] 0xD682091F994039FF: The Debate Team needs a president, someone who can represent them well in any upcoming debate tournaments Does {OpOwner} want to debate for this position? Make sure {MA.he}{FA.she} shows up with strong logic skills and in a good mood!\n\nEP4_Activity_DebateAudition
    [1E8] 0x0348AB5C2DE4570F: It's too bad {OpOwner} missed out. Team members were really looking forward to hearing from {MA.him}{FA.her}.
    [1E9] 0x2E6A9557D8F0A004: Debate for Presidency at {OpTarget}
    [1EA] 0x616E8A57F5904D26: Presidential Debates
    [1EB] 0x6EB14DF9C9F65D66: Debate for Presidency at {OpTarget}
    [1EC] 0x735CF2BBC4AC1245: The Debate Team presidency went to another classmate. The students felt that {OpOwner} needed a little more logic or needed to be in a better mood. Feel free to debate the situation at the next club meeting.
    [1ED] 0x5C0D13717DDE8AD7: Olivia Street only had great things to say to {OpOwner} about {MA.his}{FA.her} performance! She enthusiastically gave {OpOwner} the signed movie poster.
-   [1EE] 0x9BD3C2E365687355: Lights, camera, action! The world famous actress Olivia Street will be visiting the {OpTarget} this week! She'll be holding a master class for all drama club students. The student who gives the best monologue will win a movie poster signed by hers truly! Does {OpOwner} want to participate?
+   [1EE] 0x9BD3C2E365687355: Lights, camera, action! The world famous actress Olivia Street will be visiting the {OpTarget} this week! She'll be holding a master class for all drama club students. The student who gives the best monologue will win a movie poster signed by hers truly! Does {OpOwner} want to participate?\n\nEP4_Activity_DramaAudition
    [1EF] 0xAC6F8E3130A89189: It's a real shame to miss opportunities like this. Who knows what doors could have been opened by meeting Miss Street!
    [1F0] 0x0EFC5AFB416237EE: Give Monologue at {OpTarget}
    [1F1] 0x2143AFFB4C018EB0: Lots of Drama
    [1F2] 0xB236B477AD54A8DC: Give Monologue at {OpTarget}
    [1F3] 0xC3D81A74F473216B: {OpOwner} did a good job but something was just off. {MA.He}{FA.She} would have taken the cake with a little more charisma or if {MA.he}{FA.she} was in a better mood.
    [1F4] 0x92D72B49F680E3E7: {OpOwner} played incredibly well! Mr. von Butterfingerz was thrilled with both the technique and musicianship. Well done! Hang the reward up with pride!
-   [1F5] 0xCD39B76F90AF6585: The famous guitarist, Andres von Butterfingerz will be visiting the {OpTarget} for a few hours. He's going to sit in on guitar club and give a master class! The best prepared student will receive a signed record to hang on their wall. Does {OpOwner} want to participate?
+   [1F5] 0xCD39B76F90AF6585: The famous guitarist, Andres von Butterfingerz will be visiting the {OpTarget} for a few hours. He's going to sit in on guitar club and give a master class! The best prepared student will receive a signed record to hang on their wall. Does {OpOwner} want to participate?\n\nEP4_Activity_MusicAudition
    [1F6] 0xA0D873CE251FCA39: It's a real shame to miss opportunities like this. Who knows what doors could have been opened by meeting Mr. Butterfingerz!
    [1F7] 0xD8F8268BDAC16E1E: Play for Guitar Club at {OpTarget}
    [1F8] 0xEB3F7B8BE560C5C0: All Strings Attached
    [1F9] 0xE6064C00E70D8FCC: Play for Guitar Club at {OpTarget}
    [1FA] 0x31DEB02BE989F0FB: {OpOwner} played really well, but something was off. The winner of this event went to a student who practiced a lot and was in a good mood.
    [1FB] 0x9E54B0D28F8DD8C7: Student Gossip Weekly is proud to have {OpOwner} as a writer! The juicy articles {MA.he}{FA.she} wrote are sure to stir up things in the "popular" group. Enjoy this framed paper to show off all of {OpOwner}'s hard work.
-   [1FC] 0xF62320F706BD6BE5: Newspaper Club doesn't have enough articles for the first issue of Student Gossip Weekly! Would {OpOwner} like to show up for a few hours to write some articles? The student that writes the best articles will get a framed copy of the first issue.
+   [1FC] 0xF62320F706BD6BE5: Newspaper Club doesn't have enough articles for the first issue of Student Gossip Weekly! Would {OpOwner} like to show up for a few hours to write some articles? The student that writes the best articles will get a framed copy of the first issue.\n\nEP4_Activity_NewspaperAudition
    [1FD] 0xDF3D47D2E7C73D99: The {OpTarget}'s juicy secrets remain a secret tonight without {OpOwner}'s presence. The Student Gossip Weekly will be a measly little pamphlet highlighting lunch specials and bathroom graffiti.
    [1FE] 0x1F0C702481E2EEFE: Write Articles at {OpTarget}
    [1FF] 0x2DEDC524899F1CA0: The Gossip Column
    [200] 0x4F73F00224F601AC: Write Articles at {OpTarget}
    [201] 0x64472F8587832B5B: Even though {OpOwner} wrote a few articles, they seemed to have a sad undertone to them; enough to depress the students while they read the paper during first period. Perhaps being in a better mood or a little more writing skill would have made things better. The Newspaper Club thanks {OpOwner} for {MA.his}{FA.her} efforts though.
    [202] 0xAD6E55F12A27F016: Today was epic! Never have so many old ladies held the current generation so highly! Now when {OpOwner} walks around town, {MA.he}{FA.she} might hear, "Kids these days....are the greatest!"
-   [203] 0xD26B988DD568B2C2: A special event is being held at the {OpTarget}! The scout who can help the most old ladies across the obstacle course will earn a unique badge signifying {MA.his}{FA.her} aid to the elderly community! Does {OpOwner} want to participate?
+   [203] 0xD26B988DD568B2C2: A special event is being held at the {OpTarget}! The scout who can help the most old ladies across the obstacle course will earn a unique badge signifying {MA.his}{FA.her} aid to the elderly community! Does {OpOwner} want to participate?\n\nEP4_Activity_ScoutingAudition
    [204] 0xC0C316111E6D4042: It's too bad {OpOwner} wasn't able to make it! Little old ladies were left in the gym with no one to help them.
    [205] 0x81AB5AB0ED1FEB57: Go to Scouting Event at {OpTarget}
    [206] 0x6F99E5B0E2ADEC9D: Old Ladies Crossing
    [207] 0x6F64FB348BB8131D: Go to Scouting Event at {OpTarget}
    [208] 0xF73AAB8AA464D91C: Oh no! {OpOwner} didn't show up in a very good mood. As a result, many disgruntled old ladies were shaking their canes at {MA.him}{FA.her} instead of handing out butterscotch and hugs.
    [209] 0xB797A4B21F9450FF: What a proud moment for {OpOwner}! {MA.He}{FA.She} will take all that {MA.he}{FA.she} has learned into {MA.his}{FA.her} teen years and will hopefully display the participation trophy as a reminder.
-   [20A] 0x1952AFE37BED0D4D: It's time for {OpOwner} and {MA.his}{FA.her} loved ones to celebrate the hard work and good deeds {MA.he}{FA.she} has been doing. Enjoy the ceremony and be proud!
+   [20A] 0x1952AFE37BED0D4D: It's time for {OpOwner} and {MA.his}{FA.her} loved ones to celebrate the hard work and good deeds {MA.he}{FA.she} has been doing. Enjoy the ceremony and be proud!\n\nEP4_Activity_ScoutingRecital
    [20B] 0x580919D73B99E481: Oh no! {OpOwner} missed the badging ceremony. It's too bad {MA.he}{FA.she} wasn't able to partake, but a participation trophy will be given when {OpOwner} becomes a teenager.
    [20C] 0xA0BBF30A37369586: Attend Ceremony at {OpTarget}
    [20D] 0xB2CD480A41A85DD8: Badging Ceremony
    [20E] 0xDD6ABBA3BA1C29F4: Attend Ceremony at {OpTarget}
    [20F] 0xEA1D54CCA9FF0C8C: {OpOwner} built a really awesome bridge and convinced other Sims that {MA.he}{FA.she} can carry the weight as Shop Captain. {OpOwner} was awarded a really cool reward sculpture!
-   [210] 0x4CFA8FB5230238E8: The Shop Club needs a captain, someone who can represent them well in any upcoming bridge building tournaments. Does {OpOwner} want to try out for this spot by building an awesome bridge? There will also be an additional reward sculpture. Make sure {MA.he}{FA.she} shows up with strong handiness skills and in a good mood!
+   [210] 0x4CFA8FB5230238E8: The Shop Club needs a captain, someone who can represent them well in any upcoming bridge building tournaments. Does {OpOwner} want to try out for this spot by building an awesome bridge? There will also be an additional reward sculpture. Make sure {MA.he}{FA.she} shows up with strong handiness skills and in a good mood!\n\nEP4_Activity_ShopAudition
    [211] 0xD6C159C143C73844: {OpOwner} didn't make it to the try outs! Let's just hope the team nor the bridge will collapse under pressure with their new captain. 
    [212] 0x49CDF229A8A9B221: Build Bridge at {OpTarget}
    [213] 0x143CFD2989DECD27: Captain Bandsaw
    [214] 0x9E6F3771EB59DAF3: Build Bridge at {OpTarget}
    [215] 0x949ED440DE788D12: The Shop Club captain went to another classmate. Team members felt that {OpOwner} needed more handiness and needed to be in a better mood. 
    [216] 0xF897F34C1E488403: The signed jersey was rewarded to {OpOwner} after {MA.he}{FA.she} outscored {MA.his}{FA.her} opponent in the penalty shot competition! {OpOwner} should hang the jersey with pride!
-   [217] 0x19A97AD3FB1A9EF9: The Sports Club is holding an event to promote health and fitness. Sims that compete should be fit and in good spirits! The winner gets a signed jersey once belonging to The Rocket Fuel's striker, Fernando Morales. Does {OpOwner} want to participate?
+   [217] 0x19A97AD3FB1A9EF9: The Sports Club is holding an event to promote health and fitness. Sims that compete should be fit and in good spirits! The winner gets a signed jersey once belonging to The Rocket Fuel's striker, Fernando Morales. Does {OpOwner} want to participate?\n\nEP4_Activity_SportsAudition
    [218] 0x0D43514F1A2C6455: It's too bad {OpOwner} couldn’t make it to the sporting event! {OpOwner}'s wall is less interesting tonight without that framed jersey!
    [219] 0x7888A84111279BF2: Attend Sporting Event at {OpTarget}
    [21A] 0x42F7B540F25CB9BC: The Muscle Hustle
    [21B] 0x39A845503C1C6BF8: Attend Sporting Event at {OpTarget}
    [21C] 0xE15C9639689F89EF: Things were going really well until {OpOwner} missed a penalty shot! If only {MA.he}{FA.she} had practiced a little more and was in a better mood, things could have turned out better.
    [21D] 0xBC95FA04C6F94F2D: {OpOwner} should be proud of all {MA.he}{FA.she} has accomplished! Afterschool activities have helped {OpOwner} improve at many skills and have given {MA.him}{FA.her} a boost in future successes!
-   [21E] 0xAC556582DA896F83: An award ceremony is being held at the {OpTarget}! It's a great opportunity for Sims to get together and celebrate all of {OpOwner}'s extracurricular activities. Trophies will be handed out, so be sure to attend.
+   [21E] 0xAC556582DA896F83: An award ceremony is being held at the {OpTarget}! It's a great opportunity for Sims to get together and celebrate all of {OpOwner}'s extracurricular activities. Trophies will be handed out, so be sure to attend.\n\nEP4_Activity_TeenRecital
    [21F] 0x689A4F51727AD77B: Oh no! {OpOwner} missed the ceremony. It's too bad {MA.he}{FA.she} wasn't able to partake in the festivities, but all appropriate participation trophies will appear when {OpOwner} becomes a young adult.
    [220] 0xDD98904DAE167C78: Attend Ceremony at {OpTarget}
    [221] 0xCB513D4DA3772852: After School Reward Ceremony
    [222] 0xA5E3F2C01AEC34B2: Attend Ceremony at {OpTarget}
    [223] 0x2283568F7F4E140B: The potion is ready! Report to {OpTarget} with 4500 Simoleons and we'll deliver the goods!
-   [224] 0xCE1E1D0C5B366D11: We here at your local science lab have taken notice of {OpOwner}'s tendencies to interact with an invisible being. Our readings have confirmed a unique energy source that we would like to bring to life. We need {OpOwner} to send a Rainbow Gem to {OpTarget} so we can concoct a potion. 
+   [224] 0xCE1E1D0C5B366D11: We here at your local science lab have taken notice of {OpOwner}'s tendencies to interact with an invisible being. Our readings have confirmed a unique energy source that we would like to bring to life. We need {OpOwner} to send a Rainbow Gem to {OpTarget} so we can concoct a potion.\n\nEP4_Occult_ImaginaryFriendPotion1\nEP4_Occult_ImaginaryFriendPotion2
    [225] 0x93E64BBF30A0F68A: Collect a Rainbow Gem and send it to {OpTarget} from your Sim's inventory
    [226] 0x618578BF148BE524: When Dreams Come True
    [227] 0x36EC35C003703B10: Collect a Rainbow Gem and send it to {OpTarget}
    [228] 0xA7CDB0B0BCBFB622: Offer the potion to your Imaginary Friend to complete the process! With your help, we should be able to prove that Imaginary Friends do exist and, most importantly, can be a part of any Sim's life! Should you have more Imaginary Friends that need to be turned real, please don't hesitate to visit your local science facility!
-   [229] 0x050C832D1AC72AE6: We here at your local science lab have taken notice of {OpOwner}'s tendencies to interact with an invisible being. Our readings have confirmed a unique energy source that we would like to bring to life. We need {OpOwner} to send us a Rainbow Gem for us to concoct a potion. 
+   [229] 0x050C832D1AC72AE6: We here at your local science lab have taken notice of {OpOwner}'s tendencies to interact with an invisible being. Our readings have confirmed a unique energy source that we would like to bring to life. We need {OpOwner} to send us a Rainbow Gem for us to concoct a potion.\n\nEP4_Occult_ImaginaryFriendPotion1\nEP4_Occult_ImaginaryFriendPotion2
    [22A] 0xCA68AB9485BC06FB: Report to {OpTarget} with 4500 Simoleons
    [22B] 0xFFF99E94A486E859: When Dreams Come True
    [22C] 0x21784A4FFB14CFA9: Report to {OpTarget} with 4500 Simoleons
    [22D] 0x2C99CC262245B5E4: Excellent work! Gems and metals are scattered all over the world, just waiting to be gathered into a home collection!
-   [22E] 0x2252973EEF980930: In an attempt to get kids excited about geology, the Rockhounding Club at {OpTarget} has sponsored a scavenger hunt to retrieve various gems and metals from around town. They're offering a cash prize to any kid who manages to collect them and bring them to the lab.
+   [22E] 0x2252973EEF980930: In an attempt to get kids excited about geology, the Rockhounding Club at {OpTarget} has sponsored a scavenger hunt to retrieve various gems and metals from around town. They're offering a cash prize to any kid who manages to collect them and bring them to the lab.\n\nEP4_ScavengerHunt_1
    [22F] 0x403F6EAD7A787409: Collect the required items and turn them in at {OpTarget}
-   [230] 0x0D0599AD5DAB6EFF: Scavenger Hunt: Precious Materials
+   [230] 0x0D0599AD5DAB6EFF: Scavenger Hunt 1: Precious Materials
    [231] 0xE210CD8CE0035F61: The scientists were very impressed that you found those materials so quickly! Maybe you have a future in science... or at least rock collecting.
-   [232] 0x3CA86582AB54D32F: The local geologists at {OpTarget} need some help from the community and are posing a challenge to all neighborhood children. They've identified some especially rare gems and metals that they'd like to study and have started a scavenger hunt to find them. Anyone who shows up with the requested items will collect a generous cash prize!
+   [232] 0x3CA86582AB54D32F: The local geologists at {OpTarget} need some help from the community and are posing a challenge to all neighborhood children. They've identified some especially rare gems and metals that they'd like to study and have started a scavenger hunt to find them. Anyone who shows up with the requested items will collect a generous cash prize!\n\nEP4_ScavengerHunt_2
    [233] 0x04C1F8E1F3E47774: Collect the required items and turn them in at {OpTarget}
-   [234] 0x36ECEDE20FCC3376: Scavenger Hunt: Rare Elements
+   [234] 0x36ECEDE20FCC3376: Scavenger Hunt 2: Rare Elements
    [235] 0x4F97A914381C679A: Such beautiful specimens! Who knew that there were so many different kinds of butterflies?
-   [236] 0xA7B50A844FCCC8AE: It's Insect Appreciation Week at {OpTarget} and the head of the science department has decided to hold a butterfly scavenger hunt for the students. Any child that can find all the required species and bring them to the school will get a cash reward!
+   [236] 0xA7B50A844FCCC8AE: It's Insect Appreciation Week at {OpTarget} and the head of the science department has decided to hold a butterfly scavenger hunt for the students. Any child that can find all the required species and bring them to the school will get a cash reward!\n\nEP4_ScavengerHunt_3
    [237] 0x5E6A42A886B31C23: Collect the required items and turn them in at {OpTarget}
-   [238] 0x90CB55A8A2C89AB1: Scavenger Hunt: Butterfly Bonanza
+   [238] 0x90CB55A8A2C89AB1: Scavenger Hunt 3: Butterfly Bonanza
    [239] 0x3D8D3DBBDB687807: Nicely done! Learning about bugs is a lot more fun (and profitable) than expected!
-   [23A] 0x1744B949571FCA25: The hip, young science teacher at {OpTarget} has decided to make learning more fun by holding a scavenger hunt. All students are being challenged to find specific beetles from around town and return them to the school. Anyone that completes the challenge will receive a reward!
+   [23A] 0x1744B949571FCA25: The hip, young science teacher at {OpTarget} has decided to make learning more fun by holding a scavenger hunt. All students are being challenged to find specific beetles from around town and return them to the school. Anyone that completes the challenge will receive a reward!\n\nEP4_ScavengerHunt_4
    [23B] 0x6CBE7AC5E805633E: Collect the required items and turn them in at {OpTarget}
-   [23C] 0x7F06CFC5F2A66DE0: Scavenger Hunt: Beetle Quest
+   [23C] 0x7F06CFC5F2A66DE0: Scavenger Hunt 4: Beetle Quest
    [23D] 0x8DBE444C181A6F38: Those ingredients look perfect! You have an eye for great produce! 
    [23E] 0xFDFA3CB9110D122C: The head chef at {OpTarget} is looking to nuture young culinary fans by asking kids find some ingredients around town. Any child that finishes this scavenger hunt will receive a reward!
    [23F] 0xC3F2C8B795DFE0E5: Collect the required items and turn them in at {OpTarget}
