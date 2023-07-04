@@ -1167,74 +1167,76 @@ Look, we’re sorry; our poetry guy is on vacation right now.
    [486] 0x32D5122E28EEC4BF: Yvonne
    [487] 0x157982B47E2EFF25: Unfortunately, {0.SimFirstName} is not skilled enough to open this chest. {0.SimFirstName} needs to be a Level {1.Number} Scuba Diver to be able to open this chest.
    [488] 0x1717F85B7AAB22DE: {0.SimFirstName} just found the following in the treasure chest: {1.String}
-   [489] 0x975D2B1527F90F4C: “Oh, so it’s adventure you want? Well then why are you hanging in the lobby?! You could be out searching for a SECRET ISLAND that only few have glimpsed. If you seek the unknown, talk to {OpTarget}. {OpTarget} will set you on your way.”
+   [489] 0x975D2B1527F90F4C: “Oh, so it’s adventure you want? Well then why are you hanging in the lobby?! You could be out searching for a SECRET ISLAND that only few have glimpsed. If you seek the unknown, talk to {OpTarget}. {OpTarget} will set you on your way.”\n\nEP10_HiddenIsland_Op1
    [48A] 0xE0D65B14269B1B85: "Talk about Refuge Island" with {OpTarget}.
    [48B] 0xF31DAE14313A6FA3: The Old Sim and the Secret Island
    [48C] 0xB07C2CEE312758FF: Talk to {OpTarget}.
-   [48D] 0x291489DDAB4B213B: “Aye, maybe I know about that which you speak, and maybe I don’t. Maybe The Refuge exists, and maybe it doesn’t - are you a true ally to this archipelago? If so, I have an ecologist friend that needs help..."
+   [48D] 0x291489DDAB4B213B: “Aye, maybe I know about that which you speak, and maybe I don’t. Maybe The Refuge exists, and maybe it doesn’t - are you a true ally to this archipelago? If so, I have an ecologist friend that needs help..."\n\nEP10_HiddenIsland_Op2
    [48E] 0x6D6D533535339890: Bring {OpNumItemsGoal} Kelp to {OpTarget}.
-   [48F] 0x5EC200352DA4FD1A: Kelp! I need some!
+   [48F] 0x5EC200352DA4FD1A: Kelp! I Need Some!
    [490] 0x69A327A4A49EC14A: {OpNumItemsCurrent} / {OpNumItemsGoal} Kelp
-   [491] 0x1AE68FEAF1EE057A: “Thanks for the help. You seem like a fine person, but are you in tune with your island spirit? Perform an act of daring mind-over-matter, and then we’ll talk about the island.”
+   [491] 0x1AE68FEAF1EE057A: “Thanks for the help. You seem like a fine person, but are you in tune with your island spirit? Perform an act of daring mind-over-matter, and then we’ll talk about the island.”\n\nEP10_HiddenIsland_Op3
    [492] 0xC764C126E567144F: “Firewalk” Successfully on the Firewalk Pit.
    [493] 0xB5F64C26DB7F7705: Firewalk with Me
    [494] 0xA2695A76CA36E135: Firewalk
-   [495] 0x742A01368EB092B9: “One more thing - and this is really more a favor: Roving sharks have been interrupting my sea surveys, and it’s quite a bother. As an ecologist, it’s extremely important to me that you punch a shark in the face. That’ll teach ‘em.”
+   [495] 0x742A01368EB092B9: “One more thing - and this is really more a favor: Roving sharks have been interrupting my sea surveys, and it’s quite a bother. As an ecologist, it’s extremely important to me that you punch a shark in the face. That’ll teach ‘em.”\n\nEP10_HiddenIsland_Op4
    [496] 0x199BD10AC8011DB2: Get in a fight with a shark.
    [497] 0xE770DE0AAC19657C: Shark, a Vagrant
    [498] 0xC6BEB7B89768EFB8: Fight a shark
    [499] 0x5E97DEF27C9B4904: There it is! The fabled Refuge Island! It should be easy to navigate there now!
-   [49A] 0x2AC17589953DD7D0: “Wow, thanks! OK, I’m convinced! Refuge Island is actually easy to find; there’s an old map at town hall that will point the way. Search the dilapidated cartography section.”
+   [49A] 0x2AC17589953DD7D0: “Wow, thanks! OK, I’m convinced! Refuge Island is actually easy to find; there’s an old map at town hall that will point the way. Search the dilapidated cartography section.”\n\nEP10_HiddenIsland_Op5
    [49B] 0x0947FCE3D8541229: “Search for Map” at {OpTarget}.
    [49C] 0xD60D27E3BB85591F: Not uncharted, you LOST the chart!
    [49D] 0x2F742E71DFC116FB: Find the Map
    [49E] 0xCF46E420FF65F9B3: Fascinating! There is so much to find at the bottom of the sea.
-   [49F] 0x8FD021A6CAA703C9: The bottom of the sea is host to a multitude of mysterious caves, waiting to be explored. The scientists at {OpTarget}, however, are not exactly the exploring type. To further their research, they would like {OpOwner} to explore some underwater caves and report back with what {MA.he}{FA.she} observes.
+   [49F] 0x8FD021A6CAA703C9: The bottom of the sea is host to a multitude of mysterious caves, waiting to be explored. The scientists at {OpTarget}, however, are not exactly the exploring type. To further their research, they would like {OpOwner} to explore some underwater caves and report back with what {MA.he}{FA.she} observes.\n
+\nEP10_SkillUnderwaterDiving_Caves1\nEP10_SkillUnderwaterDiving_Caves2
    [4A0] 0xEC3BD4F07B17AA82: Explore {OpNumEventsGoal} underwater caves and report back to {OpTarget}.
    [4A1] 0xB937E1F05E7801EC: Deep Sea Diving
    [4A2] 0x6A0EA0CA604D10C8: Explored {OpNumEventsCurrent} / {OpNumEventsGoal} Caves.
    [4A3] 0xCE5D4E1C450CDCEA: Fascinating! There is so much to find at the bottom of the sea.
-   [4A4] 0x13DBC1D1BC93581E: The bottom of the sea is host to a multitude of mysterious caves, waiting to be explored. The scientists at {OpTarget}, however, are not exactly the exploring type. To further their research, they would like {OpOwner} to explore some underwater caves and report back with what {MA.he}{FA.she} observes.
+   [4A4] 0x13DBC1D1BC93581E: The bottom of the sea is host to a multitude of mysterious caves, waiting to be explored. The scientists at {OpTarget}, however, are not exactly the exploring type. To further their research, they would like {OpOwner} to explore some underwater caves and report back with what {MA.he}{FA.she} observes.\n
+\nEP10_SkillUnderwaterDiving_Caves1\nEP10_SkillUnderwaterDiving_Caves2
    [4A5] 0x73161D171D387913: Explore {OpNumEventsGoal} underwater caves and report back to {OpTarget}.
    [4A6] 0xA64FF0173A057B81: Deep Sea Diving
    [4A7] 0x7D412700C775E101: Explore {OpNumEventsCurrent} / {OpNumEventsGoal} Caves.
    [4A8] 0x159615B82A3C0C0F: Fascinating! These messages will greatly improve the completeness of the town's history.
-   [4A9] 0x6B1CFC6061E8353D: {OpTarget} is looking to collect some of the lost messages sent by the many former residents (and shipwrecked Sims) of the islands. {OpOwner} has been asked to find some messages in bottles that have ended up on the ocean floor.
+   [4A9] 0x6B1CFC6061E8353D: {OpTarget} is looking to collect some of the lost messages sent by the many former residents (and shipwrecked Sims) of the islands. {OpOwner} has been asked to find some messages in bottles that have ended up on the ocean floor.\n\nEP10_SkillUnderwaterDiving_MessageBottles1\nEP10_SkillUnderwaterDiving_MessageBottles2
    [4AA] 0x5455E978B8C839B6: Deliver {OpNumItemsGoal} Message Bottles to {OpTarget}.
    [4AB] 0x66673E78C33A01E8: Lost History
    [4AC] 0x62BC8D11EBFD6EA4: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Bottles.
    [4AD] 0x5EC599F994945946: Fascinating! These messages will greatly improve the completeness of the town's history.
-   [4AE] 0x90FB20E7B8EB60D2: {OpTarget} is looking to collect some of the lost messages sent by the many former residents (and shipwrecked Sims) of the islands. {OpOwner} has been asked to find some messages in bottles that have ended up on the ocean floor.
+   [4AE] 0x90FB20E7B8EB60D2: {OpTarget} is looking to collect some of the lost messages sent by the many former residents (and shipwrecked Sims) of the islands. {OpOwner} has been asked to find some messages in bottles that have ended up on the ocean floor.\n\nEP10_SkillUnderwaterDiving_MessageBottles1\nEP10_SkillUnderwaterDiving_MessageBottles2
    [4AF] 0xA4A383B70E611F67: Deliver {OpNumItemsGoal} Message Bottles to {OpTarget}.
    [4B0] 0x92924EB703EF8DCD: Lost History
    [4B1] 0xCC83E33C29AA956D: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Bottles.
    [4B2] 0x23C5418C7EB8B04E: The chef accepts the urchins with gratitude and gingerly extracts the meat. The customers will be quite pleased!
-   [4B3] 0x89DFD17F736BF64A: The sea urchin is a true delicacy of the sea... even though it resembles a not so friendly pincushion. It seems that the regular customers of {OpTarget} have been clamoring for more and more of this strange, yet tasty, treat. Maybe {OpOwner} can use {MA.his}{FA.her} diving skills to find some urchins for the chef.
+   [4B3] 0x89DFD17F736BF64A: The sea urchin is a true delicacy of the sea... even though it resembles a not so friendly pincushion. It seems that the regular customers of {OpTarget} have been clamoring for more and more of this strange, yet tasty, treat. Maybe {OpOwner} can use {MA.his}{FA.her} diving skills to find some urchins for the chef.\n\nEP10_SkillUnderwaterDiving_SeaLife1
    [4B4] 0x267166E6E0B8005F: Deliver {OpNumItemsGoal} Urchins to {OpTarget}.
    [4B5] 0x179031E6D8FC0835: Only Spiny on the Outside
    [4B6] 0x394D5DB15832A6C5: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Urchins.
    [4B7] 0x9AF51E1D52B34797: Whoa! Nice job wrangling those slippery buggers! The chef seems quite pleased with the quality of these eels.
-   [4B8] 0x9D42B3ECACD21E15: It might look slimy, but eel tastes surprisingly similar to chicken. Maybe that's why the diners at {OpTarget} have been ordering so much of it! The chef would be very appreciative if {OpOwner} could catch some eel for the restaurant.
+   [4B8] 0x9D42B3ECACD21E15: It might look slimy, but eel tastes surprisingly similar to chicken. Maybe that's why the diners at {OpTarget} have been ordering so much of it! The chef would be very appreciative if {OpOwner} could catch some eel for the restaurant.\n\nEP10_SkillUnderwaterDiving_SeaLife2
    [4B9] 0xC143B0D30B8451AE: Deliver {OpNumItemsGoal} Eels to {OpTarget}.
    [4BA] 0xD02505D313408070: Slippery, Yet Satisfying
    [4BB] 0x0458BD3DDBB7AE9C: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Eels.
    [4BC] 0x1EE431BB0FB976C8: What a beautiful catch! The diners are sure to stick around with food this fresh.
-   [4BD] 0x1033707AD8D44D9C: The diners at {OpTarget} can't get enough of the new squid themed dishes the chef has been preparing. If the owners are going to keep up with demand, they'll need a skilled diver to catch some more chewy deliciousness.
+   [4BD] 0x1033707AD8D44D9C: The diners at {OpTarget} can't get enough of the new squid themed dishes the chef has been preparing. If the owners are going to keep up with demand, they'll need a skilled diver to catch some more chewy deliciousness.\n\nEP10_SkillUnderwaterDiving_SeaLife3
    [4BE] 0xC35BFCACB67DE715: Deliver {OpNumItemsGoal} Squid to {OpTarget}.
    [4BF] 0xD4CA4FACC0654A13: Hope You Like it Chewy
    [4C0] 0x4898693B5206CD0F: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Squid.
    [4C1] 0x1D03390F71F671E9: The scientists are very happy with the shells that {OpOwner} found. Their experiments can continue uninterrupted now. 
-   [4C2] 0xB69D0887A34FBE27: The scientists at {OpTarget} are doing some research on marine mollusks and have been having some trouble finding enough seashells to study. They're willing to pay {OpOwner} to collect some samples for them.
+   [4C2] 0xB69D0887A34FBE27: The scientists at {OpTarget} are doing some research on marine mollusks and have been having some trouble finding enough seashells to study. They're willing to pay {OpOwner} to collect some samples for them.\n\nEP10_SkillUnderwaterDiving_Seashells1
    [4C3] 0xD198154C40778EEC: Deliver {OpNumItemsGoal} Seashells to {OpTarget}.
    [4C4] 0x08392A4C6029DD5E: Shell Studies
    [4C5] 0xAEBCC2280882CA0E: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Shells.
    [4C6] 0xA957F5118447B8AC: These samples will do nicely! {OpOwner} has been rewarded handsomely for {MA.his}{FA.her} work.
-   [4C7] 0x864404B40C7CFF88: In an attempt to keep the ocean free of impurities, the scientists at {OpTarget} need to study some sand particles from the ocean floor. Since sand often collects inside seashells, they would like {OpOwner} to find some shells for them.
+   [4C7] 0x864404B40C7CFF88: In an attempt to keep the ocean free of impurities, the scientists at {OpTarget} need to study some sand particles from the ocean floor. Since sand often collects inside seashells, they would like {OpOwner} to find some shells for them.\n\nEP10_SkillUnderwaterDiving_Seashells2
    [4C8] 0xB8B6AD2AE1EDFF41: Deliver {OpNumItemsGoal} Seashells to {OpTarget}.
    [4C9] 0x868BB82AC6064347: Sandy Samples
    [4CA] 0x1AE4722D67CC2413: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Shells.
    [4CB] 0x4615E3219C3FD80B: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Shells.
-   [4CC] 0x31E6F9538A067911: The people have decided that {OpTarget} would look better with more natural decorations from the surrounding waters. The mayor is willing to pay {OpOwner} to collect some beautiful looking shells from the sea to beautify the city capitol.
+   [4CC] 0x31E6F9538A067911: The people have decided that {OpTarget} would look better with more natural decorations from the surrounding waters. The mayor is willing to pay {OpOwner} to collect some beautiful looking shells from the sea to beautify the city capitol.\n\nEP10_SkillUnderwaterDiving_Seashells3
    [4CD] 0x61B83F393440DA8A: Deliver {OpNumItemsGoal} Seashells to {OpTarget}.
    [4CE] 0x2F576C39182BC924: Natural Decoration
    [4CF] 0x914E4F37B0705F10: Such gorgeous colors! There's nothing quite like the natural beauty of nature.
