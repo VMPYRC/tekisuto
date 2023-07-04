@@ -1266,7 +1266,7 @@ Unknown3: 0x00000000
    [4ED] 0x8E70F1A7B43F2C26: Zebedee
    [4EE] 0xF924D0AEAE3FD438: Stray Dog
    [4EF] 0xFD4EC92FB020B0FA: Magnificent! The CCC is quite please with the performance and has parceled out a decent reward to {OpOwner}!
-   [4F0] 0x87C389B8B6B1E38E: The local Canine Covetor's Club just can't get enough of their dogs. They have made it known that any pet owner with a dog can come by the local Dog Park and show off any tricks they know. Prizes will be given out to participants showing off enough tricks.
+   [4F0] 0x87C389B8B6B1E38E: The local Canine Covetor's Club just can't get enough of their dogs. They have made it known that any pet owner with a dog can come by the local Dog Park and show off any tricks they know. Prizes will be given out to participants showing off enough tricks.\n\nEP5_Location_DogTricks
    [4F1] 0x94904D1F59E08E06: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
    [4F2] 0x9C02C9A334043E83: Bring a dog to the Dog Park and have them perform {OpNumEventsGoal} tricks to earn some prize money.
    [4F3] 0xD1C9DCA352FCE611: Dog Trick Showdown
@@ -1278,37 +1278,37 @@ Unknown3: 0x00000000
    [4F9] 0xE3A0695C80A982AF: Fossil Finder Frenzy
    [4FA] 0x9316CCB468E66AEB: EP5_Location_FindFossils_Progress
    [4FB] 0xD31D8DFD50D828B7: Horus's equine experience has helped {OpOwner}'s horse excel at their riding and jumping skills. Jumping those high gates will be even easier now!
-   [4FC] 0xF0FECD19BE8904B5: The city council was lucky enough to attract the skills of self-proclaimed Horse Lord Horus E. Quine to the local equestrian center. He will be giving free lessons and tips to those that bring their horses there today.
+   [4FC] 0xF0FECD19BE8904B5: The city council was lucky enough to attract the skills of self-proclaimed Horse Lord Horus E. Quine to the local equestrian center. He will be giving free lessons and tips to those that bring their horses there today.\n\nEP5_Location_HorseTraining
    [4FD] 0x147D15D003E528E9: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
    [4FE] 0x0DA9919E3951A5CE: Enter the Equestrian Center with a household Horse to get a significant boost to riding and jumping skill.
    [4FF] 0x1FF0E69E43F0FC90: Professional Horse Training Seminar
    [500] 0x17B68753B82E5EBC: Enter the Equestrian Center with an owned horse.
    [501] 0xCF539CB468BAF7BB: The event was quite successful. With an atmosphere of can do attitude and so many good examples of good horsemanship, {OpOwner}'s horse has definitely learned a lot!
-   [502] 0x09C64F9D8FF0D561: The nearby equestrian fanatics have banded together to rent out the local horse ranch. They've invited all horse owners to bring out their equines and do some jumping. With all the jumping practice going on {OpOwner}'s horse is bound to learn extra fast!
+   [502] 0x09C64F9D8FF0D561: The nearby equestrian fanatics have banded together to rent out the local horse ranch. They've invited all horse owners to bring out their equines and do some jumping. With all the jumping practice going on {OpOwner}'s horse is bound to learn extra fast!\n\nEP5_Location_JumpPractice
    [503] 0x9B6C9EFDA6C3C7DD: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
    [504] 0x49B23D9D398C5B9A: Have {OpOwner}'s horse perform {OpNumEventsGoal} jumps to be rewarded with a skill boost.
    [505] 0x13112A9D19DA10D4: Horse Jump Power Hour
    [506] 0x9E2390E6E76C0E60: {OpNumEventsCurrent} / {OpNumEventsGoal} Horse Jumps performed.
    [507] 0x788A40D02D1AC73F: OFF was very pleased with the turnout and everyone had a lot of fun. It was pretty awesome and {OpOwner} was quite the Socialite milling about!
-   [508] 0x81FFA44782F6BB8D: The Official Feline Followers are encouraging all cat lovers to socialize and meet new friends at the local cat jungle. They are really hoping it will be an Awesome Party for those that come.
+   [508] 0x81FFA44782F6BB8D: The Official Feline Followers are encouraging all cat lovers to socialize and meet new friends at the local cat jungle. They are really hoping it will be an Awesome Party for those that come.\n\nEP5_LocationPets_MeetUpCats
    [509] 0x0C6FA9819923DAC1: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
    [50A] 0xA9C437E1A6BD55C6: Meet {OpNumEventsGoal} new Sims (Human or Pet) to get an Awesome Party moodlet.
    [50B] 0xB86F8CE1AE4BF418: The Great Cat Roundup!
    [50C] 0x36ED778BECB88134: {OpNumEventsCurrent} / {OpNumEventsGoal} new Sims met.
    [50D] 0xD15C7D2902121B99: The event was a success and {OpOwner} met so many new possible friends! People are calling it an Awesome Party!
-   [50E] 0x712E9EDBDC492D77: It appears that there is a small Meet and Greet event going on at the local dog park. Everyone is encouraged to bring all their dogs to the dog park and have fun with all the other neighbors!
+   [50E] 0x712E9EDBDC492D77: It appears that there is a small Meet and Greet event going on at the local dog park. Everyone is encouraged to bring all their dogs to the dog park and have fun with all the other neighbors!\n\nEP5_LocationPets_MeetUpDogs
    [50F] 0xFD383CEE8CD1A6E7: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
    [510] 0xCA5A3545850B85FC: Meet {OpNumEventsGoal} new Sims (Human or Pet) to get an Awesome Party moodlet and become a Socialite.
    [511] 0xFCBB0A45A1209ACE: The Dog Social Hour
    [512] 0x379EBD278674BE5E: {OpNumEventsCurrent} / {OpNumEventsGoal} new Sims met.
    [513] 0xD7D756DB32BF83F0: {OpOwner} saw a lot of new faces and met quite a few to boot! They had an Awesome Party and hopefully some of these new faces will become solid friends in the future!
-   [514] 0x112A8C4677374474: In order to promote camaraderie and improve community morale among horse owners, the city has staged a Meet and Greet for all Sims at the local horse ranch. Sims should bring their horses and meet some new friends there today!
+   [514] 0x112A8C4677374474: In order to promote camaraderie and improve community morale among horse owners, the city has staged a Meet and Greet for all Sims at the local horse ranch. Sims should bring their horses and meet some new friends there today!\n\nEP5_LocationPets_MeetUpHorses
    [515] 0xD4C00CE014C4D5B8: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
    [516] 0x5E900E6845AA00CD: Meet {OpNumEventsGoal} new Sims (Human or Pet) to get an Awesome Party moodlet.
    [517] 0x70A16168501BC57B: Equestrian Lovers' Meet and Greetings
    [518] 0x1DC65EB536DE79E7: {OpNumEventsCurrent} / {OpNumEventsGoal} new Sims met.
    [519] 0xDA8BA8121FE10FDD: {OpOwner}'s entry stole the show! All of the judges were amazed at the pet's looks and attitude, or maybe it was luck! Who knows but {OpOwner} has won the grand prize!
-   [51A] 0x459668C1D2585753: The local pet adoption center is working with the Association for Wondrous Wildlife to host an incredible Pet competition at the stadium. Sims should come by to enter one of their favored cats or dogs for a chance at the big prize!
+   [51A] 0x459668C1D2585753: The local pet adoption center is working with the Association for Wondrous Wildlife to host an incredible Pet competition at the stadium. Sims should come by to enter one of their favored cats or dogs for a chance at the big prize!\n\nEP5_RabbitHole_BestInShow
    [51B] 0xA9DE8EF45EFCC64B: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
    [51C] 0x69C20861574EA6C8: "Enter the Competition" at the Stadium with a favorite cat or dog to win big prizes!
    [51D] 0x577AB5614CAF5282: Best in the Show Competition
