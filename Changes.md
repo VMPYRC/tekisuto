@@ -88,12 +88,16 @@
   + Laser Harp, not Laser Rhythm-a-con
   + Would you like, not Do you want/wish
 
-## v0.0.7 - Text Fixes 2
+## v0.0.7 - Opportunities GUID
 
 + MEMORIES
   + Bake Table Robbed
 + Birthday Message
   + Age up to child
++ Added Opportunities' GUID to Descriptions
+  + EP4_Generations
+  + EP5_Pets
+  + EP10_IslandParadise
 
 # Planned Changes
 
