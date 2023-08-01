@@ -95,15 +95,15 @@
 + Birthday Message
   + Age up to child
 + Added Opportunities' GUID to Descriptions
-  + EP4_Generations
-  + EP5_Pets
-  + EP10_IslandParadise
+  + ALL
+    + EP4_Generations
+    + EP5_Pets
+    + EP10_IslandParadise
+  + SOME, not all
+    + BaseGame
+    + EP7_Supernatural
 
 # Planned Changes
-
-## v0.0.x - Opportunities GUID - PLANNED
-
-+ Added Opportunities' GUID underneath their Descriptions
 
 ## v0.0.x - Simplified Skills - PLANNED
 

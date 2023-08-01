@@ -1012,22 +1012,22 @@ Wood is not an uncommon material for a dining table, but why do so few dining ta
    [3EE] 0xC7504625EBD8E5B1: Which Witch?
    [3EF] 0x59A07B2AD0A5E8C4: Aaron Schmidt
    [3F0] 0xC553D457D8E88BCA: Finding four insects was just a simple test to see if your Sim could handle the first step in Alchemic Mastery. There’s still much more to do!
-   [3F1] 0xFEE117574F61227E: Any Sim can become a great alchemist, but achieving Alchemic Mastery is something few individuals can achieve. It won’t be easy but for those who dare its quite an accomplishment!
+   [3F1] 0xFEE117574F61227E: Any Sim can become a great alchemist, but achieving Alchemic Mastery is something few individuals can achieve. It won’t be easy but for those who dare, it's quite an accomplishment!/n/nEP7_AlchemicMastery_1
    [3F2] 0xFA3998227DEC749C: Don’t worry, even though your Sim hasn’t achieved Alchemic Mastery, they’re still a good alchemist.
    [3F3] 0x08E4F122857B1AF3: Find four insects of any kind and return them to the Science Lab.
-   [3F4] 0x3F85C422A52CF961: Alchemic Mastery
+   [3F4] 0x3F85C422A52CF961: Alchemic Mastery 1
    [3F5] 0x0C35A0DD16FE9EE1: Find four insects of any kind and return them to the Science Lab.
    [3F6] 0x7AABC18273E9D821: That was a piece of cake! Or maybe it wasn’t so easy... Regardless, your Sim is well on their way to achieving Alchemic Mastery now.
-   [3F7] 0xA459F1C4A4C70AEF: Buckle up because now things are getting serious! Your Sim handled the first challenge with aplomb, but will they be able to continue in their quest for Alchemic Mastery?
+   [3F7] 0xA459F1C4A4C70AEF: Buckle up because now things are getting serious! Your Sim handled the first challenge with aplomb, but will they be able to continue in their quest for Alchemic Mastery?/n/nEP7_AlchemicMastery_2
    [3F8] 0xAEEA623A45CF214B: Have no shame, few Sims even managed to get this far in achieving Alchemic Mastery. 
    [3F9] 0x340E0139FFC4FE34: Return the following three Nice Quality or better harvestables to the Arboretum: Wolfsbane, Mandrake, and Red Valerian.
-   [3FA] 0x699EF63A1E8FE336: Alchemic Mastery
+   [3FA] 0x699EF63A1E8FE336: Alchemic Mastery 2
    [3FB] 0xA789BEF683530916: Return the following three Nice Quality or better harvestables to the Arboretum: Wolfsbane, Mandrake, and Red Valerian.
    [3FC] 0x42795F14F5AC19BC: Who can proudly say they achieved Alchemic Mastery? Your Sim, that’s who! Your Sim’s reputation will precede them among the tightly knit alchemy circles.
-   [3FD] 0x626BE9A3BA99AEF8: Precious gems and metals hold the key to unlocking Alchemic Mastery. Nothing can stop your Sim now in separating themself from a common run of the mill alchemist.
+   [3FD] 0x626BE9A3BA99AEF8: Precious gems and metals hold the key to unlocking Alchemic Mastery. Nothing can stop your Sim now in separating themself from a common run of the mill alchemist./n/nEP7_AlchemicMastery_3
    [3FE] 0x52477C2F40C04ED2: Unfortunately your Sim isn’t Alchemic Mastery material. They were so close, but it wasn’t meant to be. 
    [3FF] 0xC9BDBD2F83E71231: Return any two of each Gem or Metal to the Vault of Antiquity.
-   [400] 0x96B9C82F67476517: Alchemic Mastery
+   [400] 0x96B9C82F67476517: Alchemic Mastery 3
    [401] 0xD0FB45E916299683: Return any two of each Gem or Metal to the Vault of Antiquity.
    [402] 0x1EED74C2BD35A8EB: Deliver the Objects
    [403] 0x52C5DA03798438E4: Forsake the Fae
