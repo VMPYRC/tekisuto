@@ -34,7 +34,7 @@
 
     (ByDefault,TheTargetIsTheSetupObject,IfThereIsOne)
   + AllOpportunities
-    
+
     (ObjectPlacedInInventoryAfterAcceptingOpportunity,SimsAreAssignedAsTargetOfOpportunity)
 
 ## v0.0.4 - Dot Dot Dot
@@ -101,6 +101,7 @@
     + EP10_IslandParadise
   + SOME, not all
     + BaseGame
+    + EP6_Showtime
     + EP7_Supernatural
     + EP11_IntoTheFuture
 
@@ -131,7 +132,7 @@
 
 ## v0.0.x - ? - PLANNED
 
-+ -
++ 
 
 ## Other
 
