@@ -1868,51 +1868,51 @@ Unknown3: 0x00000000
    [747] 0x40272BCBD8E9FB86: Reverse Psychology
    [748] 0xA51880B78DDC9BC6: Convinced {0.Number} of {1.Number} Sims that the Sky isn’t Falling.
    [749] 0xC6D845FC00F728A7: Thanks for attending the League of Concerned Doomsayers Meeting. I hope they had free coffee and donuts, at least.
-   [74A] 0x37C306E5496C7145: That worked better than I thought! Not only did we change the Earth’s gravitational pull to attract meteors, but a group called the League of Concerned Doomsayers sprung up. It looks like you’re on the right track to changing the Future! Go to their meeting and see how serious they are!
+   [74A] 0x37C306E5496C7145: That worked better than I thought! Not only did we change the Earth’s gravitational pull to attract meteors, but a group called the League of Concerned Doomsayers sprung up. It looks like you’re on the right track to changing the Future! Go to their meeting and see how serious they are!/n/nEP11_Trigger_DystopiaFuture2
    [74B] 0x147C32F398692FF9: Why wouldn’t you want to jump into a meeting of certified loonies? They have free coffee!
    [74C] 0xE63732EB087CAB80: The League of Concerned Doomsayers
    [74D] 0x54D20B774F078C8C: Attend a Doomsayers Meeting at City Hall.
    [74E] 0xE306CE54F33737D2: Great work! After you talked to the community, I’ve been hearing meteor talk on every street corner.
-   [74F] 0x79963EC0EA4FBA36: Great wooly llamas! They really think the world is going to end? This is better than expected! I’m not sure there were enough people at the meeting to really start a movement. Go around town and spread the word that the Sky is Falling. Let’s get everyone thinking the end is near! 
+   [74F] 0x79963EC0EA4FBA36: Great wooly llamas! They really think the world is going to end? This is better than expected! I’m not sure there were enough people at the meeting to really start a movement. Go around town and spread the word that the Sky is Falling. Let’s get everyone thinking the end is near!/n/nEP11_Trigger_DystopiaFuture3
    [750] 0x5DB7C9E3E122BC4B: Convince {1.Number} Sims that The Sky is Falling.
    [751] 0x90BBBCE3FDC265C9: Fire in the Skies
    [752] 0x28074868A6D2C4B9: Successfully convinced {0.Number} of {1.Number} Sims that The Sky is Falling.
    [753] 0xF7BD3EF490F19555: You were so convincing that, for a moment, I thought you really did despise the environment!
-   [754] 0x2305AFBA44C4351B: You’ve done it! The town is convinced the world really will end! It’s looking a little too clean around here. You should convince everyone to litter everywhere! If no one cares, I’m sure the Future will change for the worse! Successfully Joke about Trash Talking the Environment and let’s see how much garbage will pile up.
+   [754] 0x2305AFBA44C4351B: You’ve done it! The town is convinced the world really will end! It’s looking a little too clean around here. You should convince everyone to litter everywhere! If no one cares, I’m sure the Future will change for the worse! Successfully Joke about Trash Talking the Environment and let’s see how much garbage will pile up./n/nEP11_Trigger_DystopiaFuture4
    [755] 0xE967621F77D8B2F0: Trash Talk the Environment to {1.Number} Sims.
    [756] 0xD7560F1F6D66EE7A: Pushing the Envelope
    [757] 0x0792538DA7BB22AA: Successfully Trash Talked the environment {0.Number} of {1.Number} times.
    [758] 0xA944604A761804F7: Isn’t the Meteor Magnet grand? I love using it to light up the night sky!
-   [759] 0x7D23B141923117F5: You want to change the Future for the worse? Let’s start by causing some destruction and mayhem! This old magnet I have should do the trick by attracting meteors to town. Take this Meteor Magnet and point it towards the sky to attract some meteors. It’s bound to garner some attention.
+   [759] 0x7D23B141923117F5: You want to change the Future for the worse? Let’s start by causing some destruction and mayhem! This old magnet I have should do the trick by attracting meteors to town. Take this Meteor Magnet and point it towards the sky to attract some meteors. It’s bound to garner some attention./n/nEP11_Trigger_DystopiaFuture
    [75A] 0x98B06A002BBF9C0E: Use the Meteor Magnet {1.Number} times outside.
    [75B] 0xAAF8BF003660A6D0: A Minor Indulgence
    [75C] 0xE4D4E0A804D8A6FC: Used Meteor Magnet {0.Number} out of {1.Number} times.
    [75D] 0xC56FE5EC012D14F6: Well, the Dew hasn’t melted you. I was slightly worried about that. How do you feel?
-   [75E] 0xD3ED8C90E4B1A122: Great llamas! This data confirms that my goopy Dew has the potential to unleash the inner whimsical side of Sims! Happy Sims will lead to a happy Future, right? First we need a test subject... Since I need to operate the scanner, let’s choose... You! Don’t be scared, it’s for science!
+   [75E] 0xD3ED8C90E4B1A122: Great llamas! This data confirms that my goopy Dew has the potential to unleash the inner whimsical side of Sims! Happy Sims will lead to a happy Future, right? First we need a test subject... Since I need to operate the scanner, let’s choose... You! Don’t be scared, it’s for science!/n/nEP11_Trigger_UtopiaFuture2
    [75F] 0x62706E86643E0E7D: Dewing a Trial Run
    [760] 0x1DA2BF178BEC89FD: Use Dew on yourself.
    [761] 0xC050BB7DA19D8B1B: Your Dewing spree created such emotional resonance that I was able to detect it even in here!
-   [762] 0x6B2E900BC5AD8D41: It works! Your readings were off the chart! Your quarks have acquired a distinctly whimsical spin, with only a small, colorful side effect! Just one Sim isn’t enough to make a difference – we need more! Take my whole stock of Dew and splash your fellow Sims with it.
+   [762] 0x6B2E900BC5AD8D41: It works! Your readings were off the chart! Your quarks have acquired a distinctly whimsical spin, with only a small, colorful side effect! Just one Sim isn’t enough to make a difference - we need more! Take my whole stock of Dew and splash your fellow Sims with it./n/nEP11_Trigger_UtopiaFuture3
    [763] 0x94A1F79273C621FA: Use Dew {1.Number} times on other Sims.
    [764] 0x6167E49256F8B234: Spreading Good Cheer
    [765] 0x1A09FA3D726F13C0: Use Dew on Sims {0.Number} out of {1.Number} times.
    [766] 0x4BD9F335ED0FE72C: It’s done! I can smell the joy descending on all Simkind. Here’s to peace and rainbow skies!
-   [767] 0x71555C9218A40308: I’ve been keeping track of your progress and sadly, just splashing a few Sims won’t do it. In the meantime, I’ve modified my last goop of Dew into an aerosol spray form. This’ll pack enough punch to affect a whole region! Hand it off to the local Military Base and their pilots will seed the atmosphere. 
+   [767] 0x71555C9218A40308: I’ve been keeping track of your progress and sadly, just splashing a few Sims won’t do it. In the meantime, I’ve modified my last goop of Dew into an aerosol spray form. This’ll pack enough punch to affect a whole region! Hand it off to the local Military Base and their pilots will seed the atmosphere. /n/nEP11_Trigger_UtopiaFuture4
    [768] 0x0B3C9279A223E5C7: Planting Seeds of Joy
    [769] 0xCEC29D377C6B2E93: Visit the Military Base.
    [76A] 0x30FA96F81DB55F5C: Nothing makes me happier than a Scanner full of piping hot data. I’ll need further assistance soon.
-   [76B] 0x4A54230C2A481318: You want to make the Future a better place? If my cheerful calculations are correct, we can use this goopy stuff I call Dew to make everyone happier! Take this scanner I cobbled together and gather some data of Sims laughing to confirm my calculations.
+   [76B] 0x4A54230C2A481318: You want to make the Future a better place? If my cheerful calculations are correct, we can use this goopy stuff I call Dew to make everyone happier! Take this scanner I cobbled together and gather some data of Sims laughing to confirm my calculations./n/nEP11_Trigger_UtopiaFuture
    [76C] 0x305218B44B98CA74: Altering the Future can have many unintended consequences. Let’s suspend our experiment on changing the Future.
    [76D] 0x8F4E4955816738D1: Scan {1.Number} Sims while they laugh.
    [76E] 0x5C4A545564C78BB7: Scanning for Smiles
    [76F] 0x45BF4B15D9F72E23: Successfully scanned {0.Number} of {1.Number} Sims while they laugh.
    [770] 0xC5692FF2B14DA145: Those nerds know nothing of Time Travel, but a meteor shield might be within their... limited capabilities.
-   [771] 0xC4A2F7DA6A74F7EB: Our innocent, well-intentioned experiment has gone awry! Surprising how often that happens. The Future has become a filthy, polluted, meteor-scarred Dystopia! If we’re going to fix this, the meteors are priority one. Warn those “geniuses” at the Science Lab of the coming meteor-pocalypse.
+   [771] 0xC4A2F7DA6A74F7EB: Our innocent, well-intentioned experiment has gone awry! Surprising how often that happens. The Future has become a filthy, polluted, meteor-scarred Dystopia! If we’re going to fix this, the meteors are priority one. Warn those "geniuses" at the Science Lab of the coming meteor-pocalypse./n/nEP11_Undo_DystopiaFuture
    [772] 0x1BD5CD81F7FB52E3: You think Sims have benefitted by living in a dangerous world with falling meteors and stinky trash piles? Tough to argue with you there!
    [773] 0x3AD31958EB7A066A: Undoing Ruin
    [774] 0x856FA49FA344453A: Visit the Science Lab.
    [775] 0xD21FB7CCC44BFFB6: It seems I was wrong from the start. True happiness has to be earned, not granted.
-   [776] 0xB9804DC6CEE906E2: After much reflection, I don’t think we did the right thing in creating this Utopia. Sims’ flaws aren’t fixed, they’re just masked and nobody gets a chance to learn any hard lessons. We can undo the atmospheric seeding with this compound; do the right thing.
+   [776] 0xB9804DC6CEE906E2: After much reflection, I don’t think we did the right thing in creating this Utopia. Sims’ flaws aren’t fixed, they’re just masked and nobody gets a chance to learn any hard lessons. We can undo the atmospheric seeding with this compound; do the right thing./n/nEP11_Undo_UtopiaFuture
    [777] 0x219BB474F7328F62: So you wanted to keep the Utopian Future a world a harmony and bliss? I can agree with you – it’s a wonderful place!
    [778] 0x267DAB033187E23D: A Necessary Sacrifice
    [779] 0x227B6109E4AA03BD: Visit the Military Base.
