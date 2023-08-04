@@ -1271,36 +1271,36 @@ protects ancient kings
    [4E2] 0x75EC8A60DE1FACFA: DNT
    [4E3] 0x041D6013D6DAFB35: This opportunity is no longer available.
    [4E4] 0xCF26A27485CC6AAE: Your trip to the bookstore was very inspiring. Some of the books looked so good, you even thought about buying them!
-   [4E5] 0xBC380880B2CE6F2A: Every star has a story. Go to the bookstore and read about how other aspiring singers made their dreams come true. It will give your mood a boost./n/nEP6_CareerSinger_BrowseBookstore_Bookstore
+   [4E5] 0xBC380880B2CE6F2A: Every star has a story. Go to the bookstore and read about how other aspiring singers made their dreams come true. It will give your mood a boost.\n\nEP6_CareerSinger_BrowseBookstore_Bookstore
    [4E6] 0x09691AD46DA424BF: Go the Bookstore to complete this opportunity.
    [4E7] 0xF721E5D463050395: Rags to Riches
    [4E8] 0x2BE3343E65C73725: DNT
    [4E9] 0x4BFA67CFDC2A719E: This was what you’ve been dreaming of: a chance to take the spotlight and shine! And you did it!
-   [4EA] 0x27F6EAABEDC2A0FA: You’re on the verge of hitting the big time. When you get the chance, sing like you’ve never sung before!/n/nEP6_CareerSinger_CompletedGig_BigShow
+   [4EA] 0x27F6EAABEDC2A0FA: You’re on the verge of hitting the big time. When you get the chance, sing like you’ve never sung before!\n\nEP6_CareerSinger_CompletedGig_BigShow
    [4EB] 0x9A79B8B0371B3ABA: This opportunity is no longer available.
    [4EC] 0x8C93420E14A4FECF: Get and complete a gig at a Big Show Venue.
    [4ED] 0x7B24CD0E0ABD6185: Showtime Headliner
    [4EE] 0x66A30CB290FEB3B5: Get and complete a gig at a Big Show Venue.
    [4EF] 0xD480163FBDA14694: Your appearance at the Coffeehouse was sweeter than a double-whip mocha latte.
-   [4F0] 0xA63D66707831E500: Many famous singers start out performing in Coffeehouses. Though they usually also play guitar and maybe look a little grungy./n/nEP6_CareerSinger_CompletedGig_Bistro
+   [4F0] 0xA63D66707831E500: Many famous singers start out performing in Coffeehouses. Though they usually also play guitar and maybe look a little grungy.\n\nEP6_CareerSinger_CompletedGig_Bistro
    [4F1] 0x354AF0CE72CF257C: This opportunity is no longer available.
    [4F2] 0x66486DF61910A519: Go to the Coffeehouse and audition for the Proprietor. Get a gig and complete it.
    [4F3] 0x33E758F5FCFB23EF: Showtime at the Coffeehouse
    [4F4] 0x01343A162B794A2B: Go to the Coffeehouse and audition for the Proprietor. Get a gig and complete it.
    [4F5] 0xA1D65302AE5F4751: Your live performance owned the stage and earned you some avid new fans!
-   [4F6] 0xBA01385E7F073CBF: You’re ready to move from Sing-A-Grams and performing for tips to taking center stage... on an actual stage! Audition at any of the Live Show Venues, and take your career to the next level./n/nEP6_CareerSinger_CompletedGig_Hangout
+   [4F6] 0xBA01385E7F073CBF: You’re ready to move from Sing-A-Grams and performing for tips to taking center stage... on an actual stage! Audition at any of the Live Show Venues, and take your career to the next level.\n\nEP6_CareerSinger_CompletedGig_Hangout
    [4F7] 0x630DCD0AE367E8CF: This opportunity is no longer available.
    [4F8] 0x45CB33287CE4C2C4: Go to any of the Live Show Venues and audition for the Proprietor. Get a gig and complete it.
    [4F9] 0x7C3628289C694BE6: Showtime on Center Stage
    [4FA] 0x6C59EC6CFA399326: Go to any of the Live Show Venues and audition for the Proprietor. Get a gig and complete it.
    [4FB] 0x52EF2942A98C19BD: Your Park performance was a singing sensation!
-   [4FC] 0x1A06F8D379209DB3: You can sing anywhere in the Park, but getting a gig to perform on the Park stage will attract a lot more attention... and could jumpstart your career./n/nEP6_CareerSinger_CompletedGig_Park
+   [4FC] 0x1A06F8D379209DB3: You can sing anywhere in the Park, but getting a gig to perform on the Park stage will attract a lot more attention... and could jumpstart your career.\n\nEP6_CareerSinger_CompletedGig_Park
    [4FD] 0x6B9D70998DCFA2AB: This opportunity is no longer available.
    [4FE] 0x8B5D9AF2E77548A8: Go to the Park and audition for the Proprietor. Get a gig and complete it.
    [4FF] 0x791647F2DCD5F562: Showtime in the Park
    [500] 0xA6CD9D7134EF4E22: Go to the Park and audition for the Proprietor. Get a gig and complete it.
    [501] 0x82DF50E35948B9C6: Your private show was a big success. More gigs are on the way!
-   [502] 0x9D0D7020F76B5A52: Only a few select Singers get invited to perform at private parties and clubs... but you’re ready! Getting a gig to sing for VIP’s could take your career to new heights./n/nEP6_CareerSinger_CompletedGig_Private
+   [502] 0x9D0D7020F76B5A52: Only a few select Singers get invited to perform at private parties and clubs... but you’re ready! Getting a gig to sing for VIP’s could take your career to new heights.\n\nEP6_CareerSinger_CompletedGig_Private
    [503] 0x48DD7ADCC3105ED2: This opportunity is no longer available.
    [504] 0xCA380BE613DC83E7: Get and complete a gig at any of the Private Venues.
    [505] 0xB826D6E6096AF24D: Showtime Exclusive
@@ -1312,19 +1312,19 @@ protects ancient kings
    [50B] 0x63B8C3E8DF5EAC3F: DNT
    [50C] 0x9851A72D0D9205C9: This opportunity is no longer available.
    [50D] 0x48D826871CD2FEEE: Your workout has you breathing so deeply, you have to be careful not to pass out.
-   [50E] 0x52EBC3FF2320CE6A: A singer needs a strong pair of lungs. Hit the gym to pump up the volume on your singing skills./n/nEP6_CareerSinger_ImproveLungFunction_Gym
+   [50E] 0x52EBC3FF2320CE6A: A singer needs a strong pair of lungs. Hit the gym to pump up the volume on your singing skills.\n\nEP6_CareerSinger_ImproveLungFunction_Gym
    [50F] 0xC84BF853D7D3E86A: This opportunity is no longer available.
    [510] 0xDEC2A9538F5977FF: Go to the Gym and work out.
    [511] 0xCC7A745384B8A3D5: Audio Cardio
    [512] 0xAF25F475C2396DAF: Go to the Gym and work out.
    [513] 0x276030AC581430EA: The research experiments were a great success. Now they have to replace all the windows.
-   [514] 0x5B16BCA21207141E: Local scientists are doing top-secret sound wave experiments. Would you and your golden pipes be interested in participating?/n/nEP6_CareerSinger_ParticipateInExperiment_Science
+   [514] 0x5B16BCA21207141E: Local scientists are doing top-secret sound wave experiments. Would you and your golden pipes be interested in participating?\n\nEP6_CareerSinger_ParticipateInExperiment_Science
    [515] 0x1A125360D81A6D13: Go to the Science Center to complete this opportunity.
    [516] 0x4D4C2660F4E76F81: Sound Science
    [517] 0x3B0544C114A11501: DNT
    [518] 0x443BEADA4F4F73CD: This opportunity is no longer available.
    [519] 0xE2385E6A599C3C31: See? Performing for tips is fun... and profitable!
-   [51A] 0x7F3CAAE58CFB8F1F: Practicing at home is great, but to become a real performer you need to get out and sing to an audience. Any public place will do... and you just might earn some tip money while you’re at it./n/nEP6_CareerSinger_PerformedForTips
+   [51A] 0x7F3CAAE58CFB8F1F: Practicing at home is great, but to become a real performer you need to get out and sing to an audience. Any public place will do... and you just might earn some tip money while you’re at it.\n\nEP6_CareerSinger_PerformedForTips
    [51B] 0x1245F90231BD872F: This opportunity is no longer available.
    [51C] 0xBEF1DBB24BF99FA4: Go to a public place and perform for tips.
    [51D] 0xF1F5D0B268994CC6: Singing in the Streets
@@ -1337,409 +1337,409 @@ protects ancient kings
    [524] 0xA016FF6D3B6B6419: DNT
    [525] 0x3E270F4EDF6FE45A: DNT
    [526] 0x2179077969AB2C7E: Your singing was so amazing, the doctor thought you’d brought someone back to life. Later, he realized you’d just plugged your microphone into the wrong outlet.
-   [527] 0x80A762DDCFA3A85A: Bring the magical healing power of music to the sick patients at the Hospital. You won’t make any Simoleons, but you’ll feel like a million./n/nMusical Medicine
+   [527] 0x80A762DDCFA3A85A: Bring the magical healing power of music to the sick patients at the Hospital. You won’t make any Simoleons, but you’ll feel like a million.\n\nMusical Medicine
    [528] 0x1CC3BC4BACACA2AF: Go to the Hospital and perform for sick Sims.
    [529] 0xF698A34270F91E45: This opportunity is no longer available.
    [52A] 0x0B55474BA2C50665: Musical Medicine
    [52B] 0x351EE1AFC1791795: DNT
    [52C] 0x53EAE76987441DB1: Now you've recorded your very own Demo CD! Even if it doesn’t make you rich, it’s pretty cool!
-   [52D] 0x597CF480213FBB9F: An up-and-coming record producer attended one of your shows and wants to help you record a demo of your songs! He works in a recording studio at the Theater. Stop by, and he'll help you turn your music into a CD!/n/nEP6_CareerSinger_RecordDemoCD_Theatre
+   [52D] 0x597CF480213FBB9F: An up-and-coming record producer attended one of your shows and wants to help you record a demo of your songs! He works in a recording studio at the Theater. Stop by, and he'll help you turn your music into a CD!\n\nEP6_CareerSinger_RecordDemoCD_Theatre
    [52E] 0x67A2E37F3E4C8D24: Go to the Theater to record a Demo CD.
    [52F] 0x9AA6D87F5AEC3A46: Cut a Demo
    [530] 0x3C6A61A568983586: DNT
    [531] 0x99596561BE25FB7B: The record producer is producing a hot new boy band album and is too busy to record your demo CD.
    [532] 0xD12C8CE8A27C75A0: Your vocal chords have never been so relaxed. You’re almost unintelligible.
-   [533] 0x735FA0AF830F0B44: The manager at the Spa wants to treat you and your vocal chords to a therapeutic steam treatment. Take a break and you’ll be singing better than ever before./n/nEP6_CareerSinger_RelaxVocalChords_Spa
+   [533] 0x735FA0AF830F0B44: The manager at the Spa wants to treat you and your vocal chords to a therapeutic steam treatment. Take a break and you’ll be singing better than ever before.\n\nEP6_CareerSinger_RelaxVocalChords_Spa
    [534] 0xE81BF9564E6BA11D: Go the Spa to complete this opportunity.
    [535] 0xF6C74C5655FA3CAB: Voice Therapy
    [536] 0xAE3D5BC074EBEFB7: DNT
    [537] 0xC12EB5ECD3F72503: This opportunity is no longer available.
    [538] 0x2013CB742A1A0E36: Your performance at the Big Boss’s birthday party was perfect: good enough to make him happy, not so good that he’ll invite you back.
    [539] 0xAEB8AC0987A50D24: You missed the Big Boss’s party. Maybe you’ll get a gift of some C-Ment Shoes...
-   [53A] 0xFD4C3338CC0BAA62: The boys at the Criminal Warehouse are throwing a birthday party for the Big Boss, and they'd like you to be the entertainment. It's an offer you shouldn't refuse./n/nEP6_CareerSinger_SingAtBigBossBirthday_Criminal
+   [53A] 0xFD4C3338CC0BAA62: The boys at the Criminal Warehouse are throwing a birthday party for the Big Boss, and they'd like you to be the entertainment. It's an offer you shouldn't refuse.\n\nEP6_CareerSinger_SingAtBigBossBirthday_Criminal
    [53B] 0xB5A6107EA44C6377: Find the Big Boss at the Criminal Warehouse.
    [53C] 0xA3949B7E99DA64BD: Birthday Bash
    [53D] 0xB6EE9C7897BBEE3D: DNT
    [53E] 0xB145A382F0E2BDDF: Your singing was so impressive you got a free meal ...and dessert!
-   [53F] 0x57EC0265505D32AD: The owner of the Coffeehouse is a retired musician who likes to help out aspiring singers. Stop by with a big appetite and get a free meal for a song./n/nEP6_CareerSinger_SingForSupper_Restaurant
+   [53F] 0x57EC0265505D32AD: The owner of the Coffeehouse is a retired musician who likes to help out aspiring singers. Stop by with a big appetite and get a free meal for a song.\n\nEP6_CareerSinger_SingForSupper_Restaurant
    [540] 0xA80A2F5942670066: Go to the Coffeehouse and sing for your supper.
    [541] 0xBA1B84594CD8C7B8: Sing for Your Supper
    [542] 0xAB7A31A6BB022FD4: DNT
    [543] 0x0548D01D2030635F: The Coffeehouse owner has gone out of town, so no free meal.
    [544] 0x5BEAF4860E53F027: Your rousing rendition of the Sims National Anthem was the perfect start to the Mayor’s Inauguration.
-   [545] 0xE3491B79FE136FC5: You've been invited to sing the Sim National Anthem at the Mayor's Inauguration celebration. It's quite an honor to sing for his honor!/n/nEP6_CareerSinger_SingNationalAnthem_CityHall
+   [545] 0xE3491B79FE136FC5: You've been invited to sing the Sim National Anthem at the Mayor's Inauguration celebration. It's quite an honor to sing for his honor!\n\nEP6_CareerSinger_SingNationalAnthem_CityHall
    [546] 0xFC95DC0E55D98679: You missed the Mayor’s Inauguration – maybe next time!
    [547] 0xAE8FBB812E3C585E: Go to City Hall to complete this opportunity.
    [548] 0xC0D7108138DBAF00: Opening Ceremony
    [549] 0x28C2E3E734EA880C: DNT
    [54A] 0xC75478D5BA21DBE4: Your performance of the Sims National Anthem was epic. You even remembered all the words.
-   [54B] 0xE9AC059DFAAC9B30: It’s time for the annual Military Graduation Ceremony, and you’ve been invited to sing. Get ready to shock and awe the troops with your rendition of the Sim National Anthem./n/nEP6_CareerSinger_SingNationalAnthem_MilitaryBase
+   [54B] 0xE9AC059DFAAC9B30: It’s time for the annual Military Graduation Ceremony, and you’ve been invited to sing. Get ready to shock and awe the troops with your rendition of the Sim National Anthem.\n\nEP6_CareerSinger_SingNationalAnthem_MilitaryBase
    [54C] 0x8320ABFC3BE5CA09: Go to the Military Base to complete this opportunity.
    [54D] 0x4FE6D6FC1F18C4FF: Salute to Singing
    [54E] 0xF85F945546F885DB: DNT
    [54F] 0xAA195B0C7E629EAB: Graduation waits for no Sim... not even the star singer!
    [550] 0xD4BDDF140D6B5FD0: The world was watching as you nailed the Sims National Anthem! You’re a superstar!
-   [551] 0x5C66AB2CBE2116D4: You've been invited to sing the Sim National Anthem at the big game! You'll get to perform in a packed stadium and a TV audience of millions!/n/nEP6_CareerSinger_SingNationalAnthem_Stadium
+   [551] 0x5C66AB2CBE2116D4: You've been invited to sing the Sim National Anthem at the big game! You'll get to perform in a packed stadium and a TV audience of millions!\n\nEP6_CareerSinger_SingNationalAnthem_Stadium
    [552] 0xDE869E227CD98F18: Ah... you missed the big game and a chance to sing in front of billions! (OK, maybe it was just millions.)
    [553] 0x2DBF73DD2C5B52AD: Go to the Stadium to complete this opportunity.
    [554] 0x3FD0C6DD36CD175B: All the World’s Your Stage
    [555] 0x73109AE72FD266C7: DNT
    [556] 0xC97D470D85563EB7: You missed the team-building event. They had to Kumbaya without you.
    [557] 0xC34968274403361E: Your performance of Kumbaya left everyone in tears. Hopefully in a good way.
-   [558] 0xBBF8FF316318867A: It’s team-building time at the Business Tower. Go lead the middle managers in a rousing rendition of Kumbaya and earn some moolah./n/nEP6_CareerSinger_SingTeamBuilding_BussinessCenter
+   [558] 0xBBF8FF316318867A: It’s team-building time at the Business Tower. Go lead the middle managers in a rousing rendition of Kumbaya and earn some moolah.\n\nEP6_CareerSinger_SingTeamBuilding_BussinessCenter
    [559] 0x8F7AA8251287E74F: Go to the Business Tower to complete this opportunity.
    [55A] 0x7E0C332508A04A05: Kumbaya
    [55B] 0xC706D04023C26435: DNT
    [55C] 0x9C2525BF4B6C8432: Now that you’ve sung at the Art Museum, you can truly say you’re an artist. And the extra money didn’t hurt.
-   [55D] 0xD86FC289FC2DDD16: The Art Museum is featuring "Art in Every Sense: Sight, Smell, Sound, Taste and Touch." Show off your sweet sounds to earn tips and gain experience./n/nEP6_CareerSinger_VocalArtTips_ArtMuseum
+   [55D] 0xD86FC289FC2DDD16: The Art Museum is featuring "Art in Every Sense: Sight, Smell, Sound, Taste and Touch." Show off your sweet sounds to earn tips and gain experience.\n\nEP6_CareerSinger_VocalArtTips_ArtMuseum
    [55E] 0x71856E8720FADFEE: The Art Show ended. Maybe next year.
    [55F] 0x54C1E63781F30AAB: Go to the Art Museum and perform for tips.
    [560] 0x8B2BD937A175DD29: The Art of Singing
    [561] 0x73FE7652F869A319: Go to the Art Museum and perform for tips.
    [562] 0xA25EB03D1C59BA96: Your Quick Mixin’ was perfect for the Coffeehouse: fresh, hot, and high octane.
-   [563] 0x389F879A6003CA42: The Coffeehouse circuit isn’t just for folk-rock. Head over to a Coffeehouse, and then serve up some audio espresso. They need you to entertain the audience for at least 3 hours./n/nEP6_DJTurntable_CompletedMiniShow_Bistro
+   [563] 0x389F879A6003CA42: The Coffeehouse circuit isn’t just for folk-rock. Head over to a Coffeehouse, and then serve up some audio espresso. They need you to entertain the audience for at least 3 hours.\n\nEP6_DJTurntable_CompletedMiniShow_Bistro
    [564] 0x622E81CF9E809FC2: Since you ended the show early, you won't be paid. Next time, make sure you play for the agreed amount of time.
    [565] 0x0F4B985E51D409D7: Go to the Coffeehouse and play a 3 hour gig.
    [566] 0xFD3A235E47620B1D: DJ at the Coffeehouse
    [567] 0xCC4C8FE82CA3599D: Go to the Coffeehouse and play a 3 hour gig.
    [568] 0x4A91C0B437CA38C3: The crowd was itching for sonic grooves and your scratchin’ left them screaming for more.
-   [569] 0x420BC4B2F37A33B9: You’re making a name for yourself, and it’s time to step into the spotlight. Head over to any Live Show Venue and rock the joint. They need you to play for at least 3 hours./n/nEP6_DJTurntable_CompletedMiniShow_Hangout
+   [569] 0x420BC4B2F37A33B9: You’re making a name for yourself, and it’s time to step into the spotlight. Head over to any Live Show Venue and rock the joint. They need you to play for at least 3 hours.\n\nEP6_DJTurntable_CompletedMiniShow_Hangout
    [56A] 0x2F354BBDE00EAD15: Since you ended the show early, you won't be paid. Next time, make sure you play for the agreed amount of time.
    [56B] 0x384ADCF273D950B2: Go to any of the Live Show Venues and play a 3 hour gig. 
    [56C] 0x061FE9F257F1987C: DJ on Center Stage
    [56D] 0x6E5965084151D2B8: Go to any of the Live Show Venues and play a 3 hour gig. 
    [56E] 0xA2CCB55FEFB3AB8F: Your sweet beatmatching got the whole Park dancing.
-   [56F] 0xD68DC674EC2C3BBD: Take your mobile beats to the Park and power mix for the people! They need you to play for at least 3 hours./n/nEP6_DJTurntable_CompletedMiniShow_Park
+   [56F] 0xD68DC674EC2C3BBD: Take your mobile beats to the Park and power mix for the people! They need you to play for at least 3 hours.\n\nEP6_DJTurntable_CompletedMiniShow_Park
    [570] 0x5149C76965F03871: Since you ended the show early, you won't be paid. Next time, make sure you play for the agreed amount of time.
    [571] 0xE7349C43EED8D536: Go to the Park and play a 3 hour gig.
    [572] 0xF945F143F94A9D68: DJ in the Park
    [573] 0x9A67AF8CEF178224: Go to the Park and play a 3 hour gig.
    [574] 0x0F5FEADBE05B84B4: After Party Rockin’ the VIP’s, you’re cuttin’ with the best of ‘em.
-   [575] 0x146198E70AA0ADA0: Spinning vinyl in private clubs makes you one of the hottest DJ’s in town. Find a gig in any private venue, and you’ll know you’re going big time. They want you for a 3 hour show./n/nEP6_DJTurntable_CompletedMiniShow_Private
+   [575] 0x146198E70AA0ADA0: Spinning vinyl in private clubs makes you one of the hottest DJ’s in town. Find a gig in any private venue, and you’ll know you’re going big time. They want you for a 3 hour show.\n\nEP6_DJTurntable_CompletedMiniShow_Private
    [576] 0x395D83A49C24B91C: Since you ended the show early, you won't be paid. Next time, make sure you play for the agreed amount of time.
    [577] 0xAFB4FA8652463D39: Go to any of the Private Venues and play a 3 hour gig.
    [578] 0x7D53E5863630BB0F: DJ Exclusive
    [579] 0x42585BFE67E4D64B: Go to any of the Private Venues and play a 3 hour gig.
    [57A] 0xC81ED534EC9E3AF4: This opportunity is no longer available.
    [57B] 0xE8759EC1A227BB91: Your trip to the bookstore certainly did the trick. Soon you’ll have a whole bunch of new tricks and illusions in your act.
-   [57C] 0x5B1DCE26AA0319FF: Reading about famous magicians will inspire you and may give you ideas for new tricks in your act. Go browse at the Bookstore to get a magical mood lift./n/nEP6_Magician_BrowseBookstore_Bookstore
+   [57C] 0x5B1DCE26AA0319FF: Reading about famous magicians will inspire you and may give you ideas for new tricks in your act. Go browse at the Bookstore to get a magical mood lift.\n\nEP6_Magician_BrowseBookstore_Bookstore
    [57D] 0x9D7B83B7D7FF4004: Go the Bookstore to complete this opportunity.
    [57E] 0xD07F78B7F49EED26: The Magic of Books
    [57F] 0x6BDA896F1EBEFD66: DNT
    [580] 0xE0F7EC38CF2EEFAF: Playing the Big Show Venue means you’ve hit the big time!
-   [581] 0x387E185975B2555D: You’ve come a long way from performing for tips. Now it’s time for the big finale. Appearing on-stage at a Big Show Venue would be the ultimate magical feat./n/nEP6_Magician_CompletedGig_BigShow
+   [581] 0x387E185975B2555D: You’ve come a long way from performing for tips. Now it’s time for the big finale. Appearing on-stage at a Big Show Venue would be the ultimate magical feat.\n\nEP6_Magician_CompletedGig_BigShow
    [582] 0x922ACFCF04B40711: This opportunity is no longer available.
    [583] 0xE6B97ED18B1D1E56: Get and complete a gig at a Big Show Venue.
    [584] 0xF564D3D192ABBC88: Showtime Headliner
    [585] 0xF309616630AA5B44: Get and complete a gig at a Big Show Venue.
    [586] 0x3ED76DD4535FEE2B: Your act at the Coffeehouse was as magical as that first cup of coffee in the morning.
-   [587] 0xA8F0C7059AA793B1: Magic in a Coffeehouse? Why not? Folks are accustomed to having their money disappear there. Get a gig and serve up a steaming mug of magic./n/nEP6_Magician_CompletedGig_Bistro
+   [587] 0xA8F0C7059AA793B1: Magic in a Coffeehouse? Why not? Folks are accustomed to having their money disappear there. Get a gig and serve up a steaming mug of magic.\n\nEP6_Magician_CompletedGig_Bistro
    [588] 0x14DC8E25E465E9ED: This opportunity is no longer available.
    [589] 0xF6F1D89A074F7BAA: Go to the Coffeehouse and audition for the Proprietor. Get a gig and complete it.
    [58A] 0xC4910599EB3A6A44: Showtime at the Coffeehouse
    [58B] 0x7CB2EF3750660430: Go to the Coffeehouse and audition for the Proprietor. Get a gig and complete it.
    [58C] 0xB87EB5E71563062A: Your magic tricks enchanted the folks in the Park.
-   [58D] 0x97E2D5D98CB4D05E: The Park is a great place to perform for tips, but getting a gig to do your tricks on the Park stage will attract a lot more attention./n/nEP6_Magician_CompletedGig_Park
+   [58D] 0x97E2D5D98CB4D05E: The Park is a great place to perform for tips, but getting a gig to do your tricks on the Park stage will attract a lot more attention.\n\nEP6_Magician_CompletedGig_Park
    [58E] 0x8E15857F43CADCD6: This opportunity is no longer available.
    [58F] 0x22181905D903FE53: Go to the Park and audition for the Proprietor. Get a gig and complete it.
    [590] 0x5552EC05F5D2B3C1: Showtime in the Park
    [591] 0xAC4459C6FCE17841: Go to the Park and audition for the Proprietor. Get a gig and complete it.
    [592] 0x6638F997D6C38F2A: Your stage performance was a thrilling magical mystery show!
-   [593] 0x2BECDB3223BD9B5E: Let’s see how potent your magic skills are. Go talk to the proprietor of a Live Show Venue and see if you can pull a gig out of your hat./n/nEP6_Magician_CompletedGig_PerformanceClub
+   [593] 0x2BECDB3223BD9B5E: Let’s see how potent your magic skills are. Go talk to the proprietor of a Live Show Venue and see if you can pull a gig out of your hat.\n\nEP6_Magician_CompletedGig_PerformanceClub
    [594] 0x27ECA89A565877D6: This opportunity is no longer available.
    [595] 0xFDCCD77E8BF0CF53: Go to any of the Live Show Venues and audition for the Proprietor. Get a gig and complete it.
    [596] 0x3107AA7EA8BF84C1: Showtime on Center Stage
    [597] 0xA27000C7837FD941: Go to any of the Live Show Venues and audition for the Proprietor. Get a gig and complete it.
    [598] 0x380A1010AFE2F33F: Your private show was amazing! Even more gigs will start to magically appear.
-   [599] 0xB058CEE5BD197F8D: Private Venues are like Boxes of Mystery. See if you can figure out the trick of getting a gig inside one./n/nEP6_Magician_CompletedGig_Private
+   [599] 0xB058CEE5BD197F8D: Private Venues are like Boxes of Mystery. See if you can figure out the trick of getting a gig inside one.\n\nEP6_Magician_CompletedGig_Private
    [59A] 0x2C363615E38C5EC1: This opportunity is no longer available.
    [59B] 0x5C926BAF8C26E1C6: Get and complete a gig at any of the Private Venues.
    [59C] 0x6B3DC0AF93B58018: Showtime Exclusive
    [59D] 0x9DD257865C50CD34: Get and complete a gig at any of the Private Venues.
    [59E] 0x4FED9D4ECAD51D2E: The troops were thrilled with your magic show. Morale has never been higher!
-   [59F] 0x9706C9640095BEAA: The Military trainees have been hard at work and it’s time for a little R&R. You’ve been invited to put on a special performance as a reward for all their strenuous training./n/nEP6_Magician_EntertainTroops_MilitaryBase
+   [59F] 0x9706C9640095BEAA: The Military trainees have been hard at work and it’s time for a little R&R. You’ve been invited to put on a special performance as a reward for all their strenuous training.\n\nEP6_Magician_EntertainTroops_MilitaryBase
    [5A0] 0x2798FCBD2D266B3F: Go to the Military Base to complete this opportunity.
    [5A1] 0xCE83FE0ECB067E45: This opportunity is no longer available.
    [5A2] 0x1551C7BD22874A15: Tricks for Troops
    [5A3] 0x40DEB35E22D725A5: DNT
    [5A4] 0xF8B3272FF9FC2CC4: Your performance in the library was a big (but quiet) hit. The kids loved it, though they were probably just glad that they didn't have to read.
-   [5A5] 0x5C164B1F9451D990: When you’re just starting out, you have to find every available place to perform. The Library is great for finding books, but it’s boring. Go perform in the library, and you’re sure to earn some tips. Just don’t make too much noise!/n/nEP6_Magician_LibraryTips_Library
+   [5A5] 0x5C164B1F9451D990: When you’re just starting out, you have to find every available place to perform. The Library is great for finding books, but it’s boring. Go perform in the library, and you’re sure to earn some tips. Just don’t make too much noise!\n\nEP6_Magician_LibraryTips_Library
    [5A6] 0x932DB1B4524CCD4C: This opportunity is no longer available.
    [5A7] 0xA3A040AE7CFA12E9: Go to the Library and perform for tips.
    [5A8] 0x6CFF6BAE5D4830DF: Library Magic
    [5A9] 0x43D8E858E653F7BB: Go to the Library and perform for tips.
    [5AA] 0x1BA9F6B8F40E251E: Your appearance at the Art Museum cast a magical spell.
-   [5AB] 0xF2FA40BF85ACA37A: As someone famous once said (or if they didn’t, they should have): All Art is Illusion. Now you can show that Illusion can be an Art. Go to the Art Museum and perform for tips from the patrons and artists (hopefully they won’t all be the starving kind!)./n/nEP6_Magician_MagicalArtTips_ArtMuseum
+   [5AB] 0xF2FA40BF85ACA37A: As someone famous once said (or if they didn’t, they should have): All Art is Illusion. Now you can show that Illusion can be an Art. Go to the Art Museum and perform for tips from the patrons and artists (hopefully they won’t all be the starving kind!).\n\nEP6_Magician_MagicalArtTips_ArtMuseum
    [5AC] 0xD566A50DC730553A: This opportunity is no longer available.
    [5AD] 0xBB1B6CC296224E4F: Go to the Art Museum and perform for tips.
    [5AE] 0xA9ACF7C28C3AB105: The Art of Magic
    [5AF] 0x9C532FAE64DABB35: Go to the Art Museum and perform for tips.
    [5B0] 0x6772F564876F5441: The tests at the Science Center reveal that you may have significant psychic abilities. But you probably already knew that.
-   [5B1] 0xE94A92549D85B78F: The research labs at the Science Center are on the cutting edge of paranormal investigation. With your amazing magical powers, they suspect you might have extra-sensory perception and would like to test you. Can you sense some extra Simoleons in your future?/n/nEP6_Magician_ParticipateInExperiment_Science
+   [5B1] 0xE94A92549D85B78F: The research labs at the Science Center are on the cutting edge of paranormal investigation. With your amazing magical powers, they suspect you might have extra-sensory perception and would like to test you. Can you sense some extra Simoleons in your future?\n\nEP6_Magician_ParticipateInExperiment_Science
    [5B2] 0x0EE4428CD17B8154: Go to the Science Center to complete this opportunity.
    [5B3] 0x4474378CF044B356: ESP for Fun and Profit
    [5B4] 0xE2D93A3B24ED4D36: DNT
    [5B5] 0x4BA88BBB1446B848: Apparently, your mental powers do not include memory.
    [5B6] 0x9F373116BDE6DCF7: Your magic show at the hospital was a big success... until the doves got loose and they had to quarantine the area.
-   [5B7] 0x37947C5F96AA1FF5: Bring the magical healing power of magic to the sick patients at the Hospital. You won’t make any Simoleons, but you’ll feel like a million./n/nEP6_Magician_PerformForSickSims_Hospital
+   [5B7] 0x37947C5F96AA1FF5: Bring the magical healing power of magic to the sick patients at the Hospital. You won’t make any Simoleons, but you’ll feel like a million.\n\nEP6_Magician_PerformForSickSims_Hospital
    [5B8] 0xB7035BC2DEC5340E: Go to the Hospital and perform for sick Sims.
    [5B9] 0x27A2006699E3B048: This opportunity is no longer available.
    [5BA] 0xC94BB0C2E9663ED0: Magic Medicine
    [5BB] 0x3B1A7C9FFEA3BEFC: DNT
    [5BC] 0xF8EE5784DFB39877: Delighting a crowd and making Simoleons appear. What’s more magical than that?
-   [5BD] 0x76864983058CBA75: The three most important tips for becoming a great magician are practice, practice, and practice. Go find an audience and, not only will you improve your skills, you may conjure up some tip money./n/nEP6_Magician_PerformForTips
+   [5BD] 0x76864983058CBA75: The three most important tips for becoming a great magician are practice, practice, and practice. Go find an audience and, not only will you improve your skills, you may conjure up some tip money.\n\nEP6_Magician_PerformForTips
    [5BE] 0xF95C8793997302A9: This opportunity is no longer available.
    [5BF] 0x854B117443B3CB8E: Go to a public place and perform for tips.
    [5C0] 0x979366744E54D650: Tricks for Tips
    [5C1] 0xD9077483BE898E7C: Go to a public place and perform for tips.
    [5C2] 0xF19A333404524012: At the movie premiere, you turned the red carpet into a magic carpet. Bravo!
-   [5C3] 0xF2238836632BD576: The producers of a new movie, "The Vanishing Llama," want to hire you to perform at the premiere. Exposure, Simoleons, and the glamour of the Movie Biz – what more could you ask for?/n/nEP6_Magician_PromoteFilmRelease_Theatre
+   [5C3] 0xF2238836632BD576: The producers of a new movie, "The Vanishing Llama," want to hire you to perform at the premiere. Exposure, Simoleons, and the glamour of the Movie Biz – what more could you ask for?\n\nEP6_Magician_PromoteFilmRelease_Theatre
    [5C4] 0xBC5F95AF8290658B: Go to the Theater to entertain at the film premiere.
    [5C5] 0xEF6488AF9F31C209: Red Carpet Magic
    [5C6] 0x1F37C5681391E4F9: DNT
    [5C7] 0xBBD549FF65CDA832: Sadly, your opportunity to perform at the "Vanishing Llama" movie premiere has also vanished.
    [5C8] 0x890A4A2194DA695A: The Police Chief was so pleased with your pickpocket prevention training, he made you an unofficial deputy... whether you like it or not.
-   [5C9] 0x5DDDB8B63F391C6E: Law Enforcement is deeply concerned by the recent rise in pickpocketing incidents. The Police Chief would like you to teach his officers how to spot pickpockets and bring these petty criminals to justice!/n/nEP6_Magician_SpotPickPocket_Police
+   [5C9] 0x5DDDB8B63F391C6E: Law Enforcement is deeply concerned by the recent rise in pickpocketing incidents. The Police Chief would like you to teach his officers how to spot pickpockets and bring these petty criminals to justice!\n\nEP6_Magician_SpotPickPocket_Police
    [5CA] 0x7A73D5E65DD072E3: Go to City Hall to complete this opportunity.
    [5CB] 0xB03AE8E67CC91A71: Pickpocket Prevention 101
    [5CC] 0x4998EC955FF67329: Since you didn’t show up to assist Law Enforcement, you’re now officially a suspect.
    [5CD] 0x7FA35C7A3D8DAB11: DNT
    [5CE] 0xB9E46699D6C7A9B9: The school kids loved your show. The only trick they asked for that you couldn’t pull off was making their teacher disappear.
-   [5CF] 0xF12B94129950E717: Students at the School need a break from all the Reading, ‘Riting and ‘Rithmetic. Amaze and entertain the kids while inspiring future pickpockets, grifters, and kleptomaniacs./n/nEP6_Magician_TeachMagicTricks_School
+   [5CF] 0xF12B94129950E717: Students at the School need a break from all the Reading, ‘Riting and ‘Rithmetic. Amaze and entertain the kids while inspiring future pickpockets, grifters, and kleptomaniacs.\n\nEP6_Magician_TeachMagicTricks_School
    [5D0] 0x6D9FA924581CDD1C: Go to the School to teach magic tricks to kids.
    [5D1] 0xA3667E2477151BEE: Tricks for Tots
    [5D2] 0x1FEF50FCC0D20C7E: DNT
    [5D3] 0xB64CD6A6D2280F34: This opportunity is no longer available.
    [5D4] 0x9B01E131C17E7786: The Mayor got tired of waiting for you and, instead, learned to play the saxophone. Now he’s leading in the polls!
    [5D5] 0x67A8D88BBA56A777: Your mind-control work with the Mayor has really paid off. He lost the election, but now he’s found his true passion... as a Llama Whisperer.
-   [5D6] 0x407E8828889F3775: The Mayor is behind in the polls and needs some help to rally support. He’s so desperate, he’ll try anything... including hiring a magician to teach him mind control techniques. Visit City Hall, where you can use mind control to convince him that you’re worth the money!/n/nEP6_Magician_TeachMindControl_CityHall
+   [5D6] 0x407E8828889F3775: The Mayor is behind in the polls and needs some help to rally support. He’s so desperate, he’ll try anything... including hiring a magician to teach him mind control techniques. Visit City Hall, where you can use mind control to convince him that you’re worth the money!\n\nEP6_Magician_TeachMindControl_CityHall
    [5D7] 0x904F19430FA7528E: Go to City Hall to complete this opportunity.
    [5D8] 0xA2976E431A485D50: Mind Over Masses
    [5D9] 0xF6AFFF310D9D057C: DNT
    [5DA] 0x8E9EE1D920B69B4F: The Big Boss was very pleased with your training techniques. Which is a good thing, since he could make you disappear. And we’re not talking about a magic trick.
    [5DB] 0x0A858AF661702C35: The Big Boss was very disappointed that you didn’t show up. Don’t be surprised if an accident were to happen...
-   [5DC] 0x24B7C9509FD9307D: The Big Boss cordially invites you to teach his thugs, er, business associates, how to pick pockets. You will be generously compensated for your time and discretion. And if you refuse the invitation, let’s just say it would be a shame if anything was to happen to your pretty little stage props.../n/nEP6_Magician_TeachPickPocket_Criminal
+   [5DC] 0x24B7C9509FD9307D: The Big Boss cordially invites you to teach his thugs, er, business associates, how to pick pockets. You will be generously compensated for your time and discretion. And if you refuse the invitation, let’s just say it would be a shame if anything was to happen to your pretty little stage props...\n\nEP6_Magician_TeachPickPocket_Criminal
    [5DD] 0xEF2E579501EB35F6: Find the Big Boss at the Criminal Warehouse.
    [5DE] 0x013FAC950C5CFD28: Pickpocketing 101
    [5DF] 0x758E77E5A2797BE4: DNT
    [5E0] 0xC8DAC456DB564CBE: Now you’ve done the Big Show. And if you can make it there, you can make it anywhere. 
-   [5E1] 0x990ED52C5EF28E9A: Want to see a live performance at a Big Show Venue? All you have to do is book a friend’s Sim to do their show at one of your town’s Big Show Venues. You’ll get in early to prepare the show stage, and then you’ll be there when the lights go up and the crowd goes crazy./n/nEP6_Passport_Host_BigShow
+   [5E1] 0x990ED52C5EF28E9A: Want to see a live performance at a Big Show Venue? All you have to do is book a friend’s Sim to do their show at one of your town’s Big Show Venues. You’ll get in early to prepare the show stage, and then you’ll be there when the lights go up and the crowd goes crazy.\n\nEP6_Passport_Host_BigShow
    [5E2] 0xBAFDD3A84924AE5A: This opportunity is no longer available.
    [5E3] 0xD41D89B76E6BE7EF: Use SimPort to invite a Visiting Sim to perform at a Big Show Venue.
    [5E4] 0xC2AF14B764844AA5: Standing Room Only
    [5E5] 0xC8AF977232E4635F: Use SimPort to invite a Visiting Sim to perform at a Big Show Venue.
    [5E6] 0x378B3E147C03C4B4: Now that you’ve given someone their first big break, all you can do is hope they still remember you when they’re rich and famous.
-   [5E7] 0xFE40021789856DA0: Give a friend’s aspiring performer their big break by getting them a gig at the Coffeehouse./n/nEP6_Passport_Host_Bistro
+   [5E7] 0xFE40021789856DA0: Give a friend’s aspiring performer their big break by getting them a gig at the Coffeehouse.\n\nEP6_Passport_Host_Bistro
    [5E8] 0x4AEDF6DC521D791C: This opportunity is no longer available.
    [5E9] 0x752F7F7B1D307D39: Use SimPort to invite a Visiting Sim to perform at the Coffeehouse.
    [5EA] 0x42CE6A7B011AFB0F: Diner Theatre
    [5EB] 0x15593849F338ADCD: Use SimPort to invite a Visiting Sim to perform at the Coffeehouse.
    [5EC] 0x472FD78673CB2ADD: You’re like a professional promoter now!
-   [5ED] 0xCAAE0B6C69243853: Inviting a friend’s Sim to perform in the Park is a walk in the park. Just book them, then set up the stage and let the show begin./n/nEP6_Passport_Host_Park
+   [5ED] 0xCAAE0B6C69243853: Inviting a friend’s Sim to perform in the Park is a walk in the park. Just book them, then set up the stage and let the show begin.\n\nEP6_Passport_Host_Park
    [5EE] 0xB3DE866D2BFF174B: This opportunity is no longer available.
    [5EF] 0x7CAE520E622199C8: Use SimPort to invite a Visiting Sim to perform on the Park stage.
    [5F0] 0x6A66FF0E57824582: Party in the Park
    [5F1] 0x9E9D0F0CF654E302: Use SimPort to invite a Visiting Sim to perform on the Park stage.
    [5F2] 0x17330425E35233D3: You’re pretty good at setting up these shows. Maybe you should keep doing it.
-   [5F3] 0x619C16994F0DA369: It’s your turn to play the promoter and book some talent from out of town! Choose any of the Live Show Venues and get the stage set up, then sit back and enjoy the show./n/nEP6_Passport_Host_PerformanceClub
+   [5F3] 0x619C16994F0DA369: It’s your turn to play the promoter and book some talent from out of town! Choose any of the Live Show Venues and get the stage set up, then sit back and enjoy the show.\n\nEP6_Passport_Host_PerformanceClub
    [5F4] 0x652ED8279674E605: This opportunity is no longer available.
    [5F5] 0xDD13E1228DEF1EA2: Use SimPort to invite a Visiting Sim to perform at a Live Show Venue.
    [5F6] 0xAA0FEE22714F750C: Center Stage
    [5F7] 0x9ED7BFB2AD6D7CD8: Use SimPort to invite a Visiting Sim to perform at a Live Show Venue.
    [5F8] 0x240FAB55995679E6: Nothing like a touring act to make a Private Show the talk of the town. Well done!
-   [5F9] 0x968EEC0802BBEDF2: Did you know you can get exclusive access to private venues when you book a Visiting Sim to perform there? It’s true! Just book a gig and you’ll be welcomed in to arrange the stage before the show, and then you can stick around and hobnob with VIP’s during the show./n/nEP6_Passport_Host_Private
+   [5F9] 0x968EEC0802BBEDF2: Did you know you can get exclusive access to private venues when you book a Visiting Sim to perform there? It’s true! Just book a gig and you’ll be welcomed in to arrange the stage before the show, and then you can stick around and hobnob with VIP’s during the show.\n\nEP6_Passport_Host_Private
    [5FA] 0x5D7137DE2393FB72: This opportunity is no longer available.
    [5FB] 0x08B9BD17FB179E07: Use SimPort to invite a Visiting Sim to perform at a Private Venue.
    [5FC] 0xFA0E8817F389366D: By Invitation Only
    [5FD] 0xA6619025BFB091C7: Use SimPort to invite a Visiting Sim to perform at a Private Venue.
    [5FE] 0x14F99EC04436A816: Sims in the other town were keenly anticipating your Magician’s arrival... though some came to the show with pitchforks.
-   [5FF] 0xD2D050771C6B5AC2: Bring the magic of magic to a town near you by sending your Magician off for a special one-night performance. Fame and fortune awaits!/n/nEP6_Passport_SendMagician_High
+   [5FF] 0xD2D050771C6B5AC2: Bring the magic of magic to a town near you by sending your Magician off for a special one-night performance. Fame and fortune awaits!\n\nEP6_Passport_SendMagician_High
    [600] 0x6A4E928CDD396842: This opportunity is no longer available.
    [601] 0x936B6896FB646357: Use SimPort to send your Magician on tour.
    [602] 0x8159F396F0F2649D: Magical Mystery Show
    [603] 0x2D2FD899E11B4C57: Use SimPort to send your Magician on tour.
    [604] 0xBB9EE2BDB60BA692: Nothing up my sleeve... and now, presto! Your Magician has magically reappeared!
-   [605] 0xF1804F2F613500F6: Make your Magician disappear for one night and then magically return with extra experience and cash by going out on tour./n/nEP6_Passport_SendMagician_Low
+   [605] 0xF1804F2F613500F6: Make your Magician disappear for one night and then magically return with extra experience and cash by going out on tour.\n\nEP6_Passport_SendMagician_Low
    [606] 0xE0D9256C09F3FDCE: This opportunity is no longer available.
    [607] 0x65295E3BC6E9000B: Use SimPort to send your Magician on tour.
    [608] 0x982E513BE38A5C89: Sleight-of-Sim
    [609] 0x2C387A963DD2808B: Use SimPort to send your Magician on tour.
    [60A] 0x1A02A9391EA3965E: Your Magician amazed, mystified and mesmerized the foreign Sims! Thanks for sharing!
-   [60B] 0x28A13DCA536C0CBA: Magicians like yours aren’t easy to find. If you’re willing to share, you’ll make the Sims in another town very happy and maybe get a little something for your trouble./n/nEP6_Passport_SendMagician_Mid
+   [60B] 0x28A13DCA536C0CBA: Magicians like yours aren’t easy to find. If you’re willing to share, you’ll make the Sims in another town very happy and maybe get a little something for your trouble.\n\nEP6_Passport_SendMagician_Mid
    [60C] 0x78507D2FB4D8D07A: This opportunity is no longer available.
    [60D] 0x6DB8DD0A3FF2EF8F: Use SimPort to send your Magician on tour.
    [60E] 0x5C4B680A360D0645: Tour Stop of Mystery
    [60F] 0x896840F9A17BAE7F: Use SimPort to send your Magician on tour.
    [610] 0xFB93A84134F20F28: Sending your Sim away may give you Sad Clown Face, but the kids just love it. Do it for the kids.
-   [611] 0x9981F38C88FA5D7C: Send your Sim to perform away from home, and you'll give the gift of the Circus to another town! Share the joy and, in return, you’ll reap some great benefits./n/nEP6_Passport_SendPerformanceArtist_High
+   [611] 0x9981F38C88FA5D7C: Send your Sim to perform away from home, and you'll give the gift of the Circus to another town! Share the joy and, in return, you’ll reap some great benefits.\n\nEP6_Passport_SendPerformanceArtist_High
    [612] 0xD70E593FC6DCA3E0: This opportunity is no longer available.
    [613] 0xAD9D4A837D0DA175: Use SimPort to send your Acrobat on tour.
    [614] 0xBF0A9D8386F35173: Tour de Force
    [615] 0x1D7B1E9E9DAC7929: Use SimPort to send your Acrobat on tour.
    [616] 0x4EEA750170B44334: See? Your Acrobat can juggle a busy career in your town and still make appearances on the road.
-   [617] 0x6588D6BB516C6120: Your Acrobat may be just starting out, but there are some great opportunities waiting in other towns. Going on tour will get your Acrobat on stage and performing for good money./n/nEP6_Passport_SendPerformanceArtist_Low
+   [617] 0x6588D6BB516C6120: Your Acrobat may be just starting out, but there are some great opportunities waiting in other towns. Going on tour will get your Acrobat on stage and performing for good money.\n\nEP6_Passport_SendPerformanceArtist_Low
    [618] 0xF491F7A16A1CF49C: This opportunity is no longer available.
    [619] 0xD44467EC3AF8EFB9: Use SimPort to send your Acrobat on tour.
    [61A] 0xA1E352EC1EE36D8F: Circus Circuit
    [61B] 0xBEFD390F0B38294D: Use SimPort to send your Acrobat on tour.
    [61C] 0x0C1080C53A73E280: Your Acrobat’s show was certainly a new twist for the audience. Several Sims fainted during a failed contortion.
-   [61D] 0x23E0B6B83EA18DA4: Hitting the road is time-honored circus tradition. Let your Acrobat follow tradition by going on tour, and you’ll both be well-rewarded./n/nEP6_Passport_SendPerformanceArtist_Mid
+   [61D] 0x23E0B6B83EA18DA4: Hitting the road is time-honored circus tradition. Let your Acrobat follow tradition by going on tour, and you’ll both be well-rewarded.\n\nEP6_Passport_SendPerformanceArtist_Mid
    [61E] 0x8DFDC79DADA262E8: This opportunity is no longer available.
    [61F] 0xA8C711EA68B056FD: Use SimPort to send your Acrobat on tour.
    [620] 0xBAD864EA73221A8B: Side Show Extraordinaire
    [621] 0xD5CF9AEC6D00A4C1: Use SimPort to send your Acrobat on tour.
    [622] 0xBA3628D06727745D: Now your Singer’s an international sensation!
-   [623] 0x9AB3AC14EEF51CD3: Your Singer is a rising star, and they're in demand! Just one performance out on the road would be a great experience and could bring in a nice paycheck./n/nEP6_Passport_SendSinger_High
+   [623] 0x9AB3AC14EEF51CD3: Your Singer is a rising star, and they're in demand! Just one performance out on the road would be a great experience and could bring in a nice paycheck.\n\nEP6_Passport_SendSinger_High
    [624] 0x41A35B33A585F3CB: This opportunity is no longer available.
    [625] 0x5081BE25050C2F48: Use SimPort to send your Singer on tour.
    [626] 0x3E3A6B24FA6CDB02: By Special Request!
    [627] 0x2C61E3D36FDBBF82: Use SimPort to send your Singer on tour.
    [628] 0x50AB6E3ACDEBF5D7: That wasn’t too bad, was it? And now your Singer has a story from the road.
-   [629] 0x525306F66C354455: Sending your Singer out on the road is a great way to earn extra experience and more Simoleons than you’ll get performing for tips./n/nEP6_Passport_SendSinger_Low
+   [629] 0x525306F66C354455: Sending your Singer out on the road is a great way to earn extra experience and more Simoleons than you’ll get performing for tips.\n\nEP6_Passport_SendSinger_Low
    [62A] 0xAB7C2AD519D4D289: This opportunity is no longer available.
    [62B] 0xF8BB4D8B17F2FAEE: Use SimPort to send your Singer on tour.
    [62C] 0x0B02A28B229251B0: Road Warrior
    [62D] 0xB5A28E292FFB7E44: Use SimPort to send your Singer on tour.
    [62E] 0x137CDAE756AA1E17: Your Singer made quite a splash on this little junket. And you’re on your way to earning some pretty sweet junk.
-   [62F] 0x62BEFF3169409995: There are plenty of venues in other towns that would love to have your Singer come perform for one night. And they’ll make it worth your while./n/nEP6_Passport_SendSinger_Mid
+   [62F] 0x62BEFF3169409995: There are plenty of venues in other towns that would love to have your Singer come perform for one night. And they’ll make it worth your while.\n\nEP6_Passport_SendSinger_Mid
    [630] 0x1CBDDB8BD05C14C9: This opportunity is no longer available.
    [631] 0xDDE11E577B85DC2E: Use SimPort to send your Singer on tour.
    [632] 0xECC2735783420AF0: One Night Only
    [633] 0x236A0C1146774D84: Use SimPort to send your Singer on tour.
    [634] 0x6CF97E729799F2D9: Visitors to the Art Museum were enthralled by your performance. You were like a beautiful statue... that moved around and did cool stuff.
-   [635] 0xC7E42A539CB637B7: Hey, Performance Art is art, too! Who wants to stare at boring paintings and sculptures when they can stare at you and your amazing physical feats? And while they can’t hang you on a wall, they can give you tips./n/nEP6_PerformanceArtist_ArtForTips_ArtMuseum
+   [635] 0xC7E42A539CB637B7: Hey, Performance Art is art, too! Who wants to stare at boring paintings and sculptures when they can stare at you and your amazing physical feats? And while they can’t hang you on a wall, they can give you tips.\n\nEP6_PerformanceArtist_ArtForTips_ArtMuseum
    [636] 0x9E595A0B75166227: This opportunity is no longer available.
    [637] 0xD6A36D3D2626023C: Go to the Art Museum and perform for tips.
    [638] 0x0C6B423D451FF30E: Art Performance Art
    [639] 0xE3579FDDEF4A469E: Go to the Art Museum and perform for tips.
    [63A] 0x868718AB0BD71F56: You missed the Seminar, and now the other mimes won’t talk to you. As usual.
    [63B] 0xAC89331B48813BCA: The Miming Seminar was grea... until you all realized you were trapped in an invisible box. Luckily, there was an invisible rope to pull you out.
-   [63C] 0x77411D6DEFD4327E: The first rule of Miming: Don’t talk! Unless, of course, you’re a Mime instructor. Learn how to become a better mime by attending a Miming seminar. Ah, the irony./n/nEP6_PerformanceArtist_AttendSeminar_BusinessCenter
+   [63C] 0x77411D6DEFD4327E: The first rule of Miming: Don’t talk! Unless, of course, you’re a Mime instructor. Learn how to become a better mime by attending a Miming seminar. Ah, the irony.\n\nEP6_PerformanceArtist_AttendSeminar_BusinessCenter
    [63D] 0xF4E4EE6863594AF3: Go to the Business Tower to attend the Miming Seminar.
    [63E] 0x2B85C168830B2961: Talking Mimes
    [63F] 0xB564777EDD17CEE1: DNT
    [640] 0x3D4222F021F72B04: This opportunity is no longer available.
    [641] 0x6288F11B22DED701: You found some great books at the bookstore with tips on miming, juggling and becoming a human pretzel.
-   [642] 0xEC2D3D3C7F57B54F: The Bookstore has a wide selection of books about having healthy minds and bodies. Stop by and read up on how to get the ideal body for performing Acrobatics./n/nEP6_PerformanceArtist_BrowseBookstore_Bookstore
+   [642] 0xEC2D3D3C7F57B54F: The Bookstore has a wide selection of books about having healthy minds and bodies. Stop by and read up on how to get the ideal body for performing Acrobatics.\n\nEP6_PerformanceArtist_BrowseBookstore_Bookstore
    [643] 0xEC1FB97029B7B114: Go to the Bookstore to complete this opportunity.
    [644] 0x1E4AAE70459F6D16: Physical Education
    [645] 0xA9BD802FD2C603F6: DNT
    [646] 0x084EF1B63A624B9F: This was your piece de resistance. You wowed the crowd!
-   [647] 0x51F545F69926B06D: It’s your time to step into the spotlight. The Big Show Venues with sold-out crowds are ready to watch you do your stuff./n/nEP6_PerformanceArtist_CompletedGig_BigShow
+   [647] 0x51F545F69926B06D: It’s your time to step into the spotlight. The Big Show Venues with sold-out crowds are ready to watch you do your stuff.\n\nEP6_PerformanceArtist_CompletedGig_BigShow
    [648] 0xD6E78FFEA3CA99A1: This opportunity is no longer available.
    [649] 0x14AFA58379686B26: Get and complete a gig at a Big Show Venue.
    [64A] 0x26C0FA8383DA3378: Showtime Headliner
    [64B] 0xE769FE0506108A94: Get and complete a gig at a Big Show Venue.
    [64C] 0x9701F157FA4C25DB: Doing your act at the Coffeehouse may have been a stretch (ba-dum-pah!), but it attracted a lot of attention, which is always good.
-   [64D] 0x8D29DB204DA74D01: At coffeehouses, most acrobatics happen after spilling scalding hot beverages. This may seem like an odd place to perform, but everyone can use a little extra entertainment, no matter where they are./n/nEP6_PerformanceArtist_CompletedGig_Bistro
+   [64D] 0x8D29DB204DA74D01: At coffeehouses, most acrobatics happen after spilling scalding hot beverages. This may seem like an odd place to perform, but everyone can use a little extra entertainment, no matter where they are.\n\nEP6_PerformanceArtist_CompletedGig_Bistro
    [64E] 0x7AE9A31C1397947D: This opportunity is no longer available.
    [64F] 0x82A1A2FB87F806BA: Go to the Coffeehouse and audition for the Proprietor. Get a gig and complete it.
    [650] 0x4F668FFB6B28E4F4: Showtime at the Coffeehouse
    [651] 0x38B228439D943080: Go to the Coffeehouse and audition for the Proprietor. Get a gig and complete it.
    [652] 0xCB9E86DCE0E446FA: Your performance on the Park stage turned a lot of heads – a giant leap for your career!
-   [653] 0xDCD8D7029309C58E: Getting a gig to perform on the Park stage will raise you above the other street entertainers - literally and figuratively. Time to become the center of attention!/n/nEP6_PerformanceArtist_CompletedGig_Park
+   [653] 0xDCD8D7029309C58E: Getting a gig to perform on the Park stage will raise you above the other street entertainers - literally and figuratively. Time to become the center of attention!\n\nEP6_PerformanceArtist_CompletedGig_Park
    [654] 0x97CF01C4C7335006: This opportunity is no longer available.
    [655] 0x353E38F16D148483: Go to the Park and audition for the Proprietor. Get a gig and complete it.
    [656] 0x6B054BF18C0D2C11: Showtime in the Park
    [657] 0xD241D3E37571FDB1: Go to the Park and audition for the Proprietor. Get a gig and complete it.
    [658] 0x4E2944D2DC0B941A: The proprietor wasn’t sure how an acrobatic show would go over, but it turned out to be a hit with the customers. You’re welcome back anytime.
-   [659] 0x284D2F74DF35662E: You’ve been bending over backwards to get your career off the ground. Now you’re ready to get a gig in a Live Show Venue. Time to take center stage!/n/nEP6_PerformanceArtist_CompletedGig_PerformanceClub
+   [659] 0x284D2F74DF35662E: You’ve been bending over backwards to get your career off the ground. Now you’re ready to get a gig in a Live Show Venue. Time to take center stage!\n\nEP6_PerformanceArtist_CompletedGig_PerformanceClub
    [65A] 0x2ED60376169014A6: This opportunity is no longer available.
    [65B] 0xB0E0B3D4EE9FACA3: Go to any of the Live Show Venues and audition for the Proprietor. Get a gig and complete it.
    [65C] 0xE341C6D50AB52B31: Showtime on Center Stage
    [65D] 0xCFEE542D501419D1: Go to any of the Live Show Venues and audition for the Proprietor. Get a gig and complete it.
    [65E] 0xA82F9C61614F2F2F: Not every audience can appreciate a contortionist performance, but the audience was very pleasantly surprised.
-   [65F] 0xDC5DED49C27E3BDD: Your acrobatic act is becoming a hot ticket. Check with the proprietors at some of the Private Venues. They would love to have you come perform./n/nEP6_PerformanceArtist_CompletedGig_Private
+   [65F] 0xDC5DED49C27E3BDD: Your acrobatic act is becoming a hot ticket. Check with the proprietors at some of the Private Venues. They would love to have you come perform.\n\nEP6_PerformanceArtist_CompletedGig_Private
    [660] 0xDB78BD7A3A0EC591: This opportunity is no longer available.
    [661] 0x40F2312B601B59D6: Get and complete a gig at any of the Private Venues.
    [662] 0x4F9D862B67A9F808: Showtime Exclusive
    [663] 0xDD32BB51D9DC0EC4: Get and complete a gig at any of the Private Venues.
    [664] 0x9CD1EF15E4474CFD: The Big Boss was very impressed with your invisible box routine... until he realized you weren’t actually in a box. Using your methods, his henchman can only escape from imaginary jail cells.
    [665] 0x1752570BF6187A7B: Refusing the Big Boss can prove detrimental to one’s career and possibly one's legs. He may not be so forgiving if you don’t show up next time.
-   [666] 0xAD593C992B8AE1F3: The Big Boss has lost some of his best employees to the State Penal System. After seeing your "Mime in the Box" act, and then your contortion skills, he thinks you might be able to give him and his boys a few pointers on how to escape out of box-shaped spaces. You’ll accept his offer if you know what’s good for you./n/nEP6_PerformanceArtist_EscapeArtist_Criminal
+   [666] 0xAD593C992B8AE1F3: The Big Boss has lost some of his best employees to the State Penal System. After seeing your "Mime in the Box" act, and then your contortion skills, he thinks you might be able to give him and his boys a few pointers on how to escape out of box-shaped spaces. You’ll accept his offer if you know what’s good for you.\n\nEP6_PerformanceArtist_EscapeArtist_Criminal
    [667] 0x69DB9C05D5DDB0E8: Find the Big Boss at the Criminal Warehouse.
    [668] 0x57934905CB3CA9A2: Jailbreaking 101
    [669] 0x9EBBD0DF8D52C062: DNT
    [66A] 0xD92969F883AD578B: You did so well filling in for the Team Mascot, they want you to try out for the job next season. Mascot fight!
-   [66B] 0x8994987EC9161F91: There’s a big game coming up, and the Team Mascot just blew a knee out! Can you step in and keep a crowd of thousands entertained and yelling like banshees?/n/nEP6_PerformanceArtist_FillInForMascot_Stadium
+   [66B] 0x8994987EC9161F91: There’s a big game coming up, and the Team Mascot just blew a knee out! Can you step in and keep a crowd of thousands entertained and yelling like banshees?\n\nEP6_PerformanceArtist_FillInForMascot_Stadium
    [66C] 0xF79F05A1C2F6560A: Go to the Stadium to complete this opportunity.
    [66D] 0xC53E32A1A6E144A4: Pump Up the Crowd
    [66E] 0xA5F5D84D5D6D5290: DNT
    [66F] 0x31C138B20BE56C7D: You missed the big game! Oh well, they lost anyway. Or maybe they lost because you didn’t show up! Boo!
    [670] 0x02A9D9D3CF47FCD1: The Science Center researchers were truly amazed by your dexterity. A few were grossed out.
-   [671] 0x2A24CDB96A73A53F: The researchers at the Science Center are experimenting with rubberized joint replacement. With your incredible - some might say freakish - dexterity, they would like to do some tests on you. And you’ll get a nice paycheck (which, hopefully, won’t be rubberized)./n/nEP6_PerformanceArtist_ParticipateInExperiment_Science
+   [671] 0x2A24CDB96A73A53F: The researchers at the Science Center are experimenting with rubberized joint replacement. With your incredible - some might say freakish - dexterity, they would like to do some tests on you. And you’ll get a nice paycheck (which, hopefully, won’t be rubberized).\n\nEP6_PerformanceArtist_ParticipateInExperiment_Science
    [672] 0x75ED6CC0381F2444: Go to the Science Center to complete this opportunity.
    [673] 0xAC5861C057A3AD66: Twisted Science
    [674] 0x81AC64B41564CCA6: DNT
    [675] 0x84DCEB58D3AB5538: This opportunity is no longer available.
    [676] 0x80F638FA995A522A: Business at the grocery store was great during your performance, especially sales of pretzels and French baguettes.
-   [677] 0x32429002C9EAF45E: It’s Value Days at the Grocery Store and, while they would have preferred a clown, you’re the next best thing! Attract attention by doing your act at the store to earn Simoleons and maybe a case of Creamed Corn./n/nEP6_PerformanceArtist_PerformForSale_GroceryStore
+   [677] 0x32429002C9EAF45E: It’s Value Days at the Grocery Store and, while they would have preferred a clown, you’re the next best thing! Attract attention by doing your act at the store to earn Simoleons and maybe a case of Creamed Corn.\n\nEP6_PerformanceArtist_PerformForSale_GroceryStore
    [678] 0x34FC963C9EFC36AB: The "Value Days" Sale is over and so is your chance to perform. Creamed corn is still on sale, though.
    [679] 0x321939EC0A15AA53: Go to the Grocery Store to complete this opportunity.
    [67A] 0x65540CEC26E45FC1: Promotion Commotion
    [67B] 0x155280A25E33E441: DNT
    [67C] 0x1E157F2864A53067: Most of the hospital patients loved your act, though a few threw out their backs while watching your contortions.
-   [67D] 0x8C6EBA64B85D6305: There’s nothing like miming and juggling to cheer up the sick folks at the Hospital. And, if someone who hates mimes punches you, you’ll be in a perfect place to get treatment!/n/nEP6_PerformanceArtist_PerformForSickSims_Hospital
+   [67D] 0x8C6EBA64B85D6305: There’s nothing like miming and juggling to cheer up the sick folks at the Hospital. And, if someone who hates mimes punches you, you’ll be in a perfect place to get treatment!\n\nEP6_PerformanceArtist_PerformForSickSims_Hospital
    [67E] 0xA56F588D4F8C1E9E: Go to the Hospital and perform for sick Sims.
    [67F] 0x40601A43A34F8BF8: This opportunity is no longer available.
    [680] 0xB7B6AD8D5A2B7640: Medicine Show
    [681] 0xC7B779DA71F9884C: DNT
    [682] 0x48E8E55A7932CCE7: Sims love your miming and juggling. The better you get, the more tips you’ll make.
-   [683] 0xDF41E17DA4FE5085: Practicing at home is great, but to become a real performer you need to get out and entertain an audience. Any public place will do... and you just might earn some tip money while you’re at it./n/nEP6_PerformanceArtist_PerformForTips
+   [683] 0xDF41E17DA4FE5085: Practicing at home is great, but to become a real performer you need to get out and entertain an audience. Any public place will do... and you just might earn some tip money while you’re at it.\n\nEP6_PerformanceArtist_PerformForTips
    [684] 0xB3B1D5234C218539: This opportunity is no longer available.
    [685] 0xD2ACF6C93C8A9F1E: Go to a public place and perform for tips.
    [686] 0xE4F44BC94729F6C0: Public Display of Contortion
    [687] 0xEF21AFB22EFE50CC: Go to a public place and perform for tips.
    [688] 0x8225D13BC3F20624: Your Venus de Milo impersonation was perfect, except for having arms.
-   [689] 0xC5FFD23B32906D70: It’s Italian Night at the Coffeehouse. To set the mood and class things up, the owner would like you to pose as a Classic Roman Statue. How else can you get a free meal and a few Simoleons for doing absolutely nothing?/n/nEP6_PerformanceArtist_PoseAsStatue_Restaurant
+   [689] 0xC5FFD23B32906D70: It’s Italian Night at the Coffeehouse. To set the mood and class things up, the owner would like you to pose as a Classic Roman Statue. How else can you get a free meal and a few Simoleons for doing absolutely nothing?\n\nEP6_PerformanceArtist_PoseAsStatue_Restaurant
    [68A] 0x6F40698CB9AE2549: Go to the Coffeehouse and pose as a Classy Human Statue.
    [68B] 0x3C05948C9CDF6C3F: Freeze Frame
    [68C] 0x4D5F0FBDA864141B: DNT
    [68D] 0x1F6097C7AF60B7B4: It’s no longer Italian night at the Coffeehouse. They don’t need a human statue for Meatloaf Surprise Night.
    [68E] 0xE90401CFAEC29442: You burned up the red carpet at the big movie premiere. Everyone loved your performance anyway.
-   [68F] 0x3E25D856EDB98486: The producers of a new Australian Circus documentary, "The Greatest Show on Perth," want to hire you to perform at the premiere. Exposure, Simoleons, and the glamour of the Movie Biz - what more could you ask for?/n/nEP6_PerformanceArtist_PromoteFilmRelease_Theatre
+   [68F] 0x3E25D856EDB98486: The producers of a new Australian Circus documentary, "The Greatest Show on Perth," want to hire you to perform at the premiere. Exposure, Simoleons, and the glamour of the Movie Biz - what more could you ask for?\n\nEP6_PerformanceArtist_PromoteFilmRelease_Theatre
    [690] 0xE868B92935E6D81B: Go to the Theater to entertain at the film premiere.
    [691] 0x1A93AC2951CE9179: Premiere Performance
    [692] 0xC48B9957C61C61C9: DNT
    [693] 0x63A54C3977287BC2: The "Greatest Show on Perth" premiere was a big hit, though you would have stolen the show!
    [694] 0x90E7BE1A59EB4486: You needed a little pampering. Now your muscles are ready for some crazy new acrobatics!
-   [695] 0xBF4278B65A684E12: The Spa is running a promotion: one free pampering treatment. Now would be a good time to relax your muscles before you start learning some really crazy acrobatic stunts!/n/nEP6_PerformanceArtist_SoakSoreMuscles_Spa
+   [695] 0xBF4278B65A684E12: The Spa is running a promotion: one free pampering treatment. Now would be a good time to relax your muscles before you start learning some really crazy acrobatic stunts!\n\nEP6_PerformanceArtist_SoakSoreMuscles_Spa
    [696] 0xC341C5141E58A3A7: Go the Spa to complete this opportunity.
    [697] 0xB130901413E7120D: Happy Pamper
    [698] 0x826CACDD01412AAD: DNT
    [699] 0x77C1928E67BF5005: This opportunity is no longer available.
    [69A] 0x1AD1D938B82B9C07: Keeping the school kids entertained was harder than juggling cats. Maybe next time you should try actually juggling cats. They’d probably like that. 
-   [69B] 0xD5FCEE7476B5F625: It’s Physical Fitness Week at the School. You’ve been invited to teach kids some fun activities that don’t require a TV, computer, or game console./n/nEP6_PerformanceArtist_TeachJuggling_School
+   [69B] 0xD5FCEE7476B5F625: It’s Physical Fitness Week at the School. You’ve been invited to teach kids some fun activities that don’t require a TV, computer, or game console.\n\nEP6_PerformanceArtist_TeachJuggling_School
    [69C] 0x54D1D47B8D01A73E: Go to the School to teach juggling to kids.
    [69D] 0x671A297B97A2B1E0: Tricks are for Kids
    [69E] 0xA8E845A7224186EC: DNT
    [69F] 0x0E0B3B1F0F10EE36: The School Physical Fitness Week has ended. Get back to the couch!
    [6A0] 0x97A937482C685C92: After a few hours in the gym, you’re looking great, and you're ready to make some serious tip money.
-   [6A1] 0x33C3F67680BE42F6: Very few of the world’s greatest acrobats are chubby and inflexible. Hitting the gym will make you stronger and more limber, and it will help you become a better acrobat. It won’t hurt your love life either./n/nEP6_PerformanceArtist_WorkOut_Gym
+   [6A1] 0x33C3F67680BE42F6: Very few of the world’s greatest acrobats are chubby and inflexible. Hitting the gym will make you stronger and more limber, and it will help you become a better acrobat. It won’t hurt your love life either.\n\nEP6_PerformanceArtist_WorkOut_Gym
    [6A2] 0x83DD493575921FCE: This opportunity is no longer available.
    [6A3] 0xBB4418BC835B660B: Go to the Gym and work out.
    [6A4] 0xEE490BBC9FFCC289: Feel the Burn
    [6A5] 0x3686EC8CB56B2D79: Go to the Gym and work out.
    [6A6] 0x4B581118A54127B2: After enduring the bitter cold and near frostbitten fingers, you noticed the lamp looked slightly different. More importantly, both you and the genie felt a change in the magic surrounding the lamp and could tell it was time to prepare for the next step in your quest to free the genie.
-   [6A7] 0x60992B5DA07FAF96: The genie cannot break the chains of the lamp alone! You must destroy the lamp together, but it will not be an easy process. To weaken the lamp, first you must freeze it in the breath of coldest winter!/n/nEP6_ReleaseGenie_FreezeLamp
+   [6A7] 0x60992B5DA07FAF96: The genie cannot break the chains of the lamp alone! You must destroy the lamp together, but it will not be an easy process. To weaken the lamp, first you must freeze it in the breath of coldest winter!\n\nEP6_ReleaseGenie_FreezeLamp
    [6A8] 0xAB27E1944222CA6E: This opportunity is no longer available.
    [6A9] 0x1BA4C49E1868CA2B: Place the genie lamp in the refrigerator to "Freeze the Lamp."
    [6AA] 0x520EB79E37EB9CA9: Free the Genie 1
    [6AB] 0x8AF275A24F3D1A99: Freeze the Lamp
    [6AC] 0x8841EA9AFD7D5EC7: You could feel the blistering heat as you watched the lamp cook like a stuffed turkey, until a slight shift in the atmosphere alerted you and the genie to its unstable state. 
-   [6AD] 0x63C25089D4BE1DE5: The genie cannot break the chains of the lamp alone! The lamp is weaker now, but still cannot be overcome. Next, you must burn the lamp in the heat of a thousand fires!/n/nEP6_ReleaseGenie_HeatLamp
+   [6AD] 0x63C25089D4BE1DE5: The genie cannot break the chains of the lamp alone! The lamp is weaker now, but still cannot be overcome. Next, you must burn the lamp in the heat of a thousand fires!\n\nEP6_ReleaseGenie_HeatLamp
    [6AE] 0xE0281BC79BDDCF99: This opportunity is no longer available.
    [6AF] 0xB1789B103CFEA4FE: Place the genie lamp in the oven to "Heat the Lamp."
    [6B0] 0xC059F01044BAD2A0: Free the Genie 2
    [6B1] 0xF50C18D0275017AC: Heat the Lamp
    [6B2] 0x686D16B7EF3A2A52: It's a good thing genies are magical creatures, otherwise you both might not have survived the grueling tasks it took to break the lamp! Your summons have allowed the genie to break its bonds with one last mighty heave and escape to freedom.
-   [6B3] 0x2955BEF32351C9B6: Your perseverance has paid off. The bonds are weak! Act now to set your friend free!/n/nEP6_ReleaseGenie_SummonGenie
+   [6B3] 0x2955BEF32351C9B6: Your perseverance has paid off. The bonds are weak! Act now to set your friend free!\n\nEP6_ReleaseGenie_SummonGenie
    [6B4] 0x9492DE0E7B93538E: This opportunity is no longer available.
    [6B5] 0x3F0BF2C1717142CB: "Summon Genie" from the lamp to release the genie.
    [6B6] 0x720FE5C18E10EC49: Free the Genie 4
    [6B7] 0x98E09951E692F339: Summon the Genie
    [6B8] 0xAF98FBD9C44C3AE3: Monsters, lichen, and bears, oh my! Traveling through the catacombs was a hazardous experience, so it's no wonder the lamp finally gave up under the oppressive pressure of being underground.
-   [6B9] 0x9612433040F08759: The genie cannot break the chains of the lamp alone! The lamp is weaker now, but still its hold still will not break. Your final task is to plunge the lamp into the darkness below the earth, where the walking dead lurk!/n/nEP6_ReleaseGenie_TakeUnderground
+   [6B9] 0x9612433040F08759: The genie cannot break the chains of the lamp alone! The lamp is weaker now, but still its hold still will not break. Your final task is to plunge the lamp into the darkness below the earth, where the walking dead lurk!\n\nEP6_ReleaseGenie_TakeUnderground
    [6BA] 0x412F2209FC8B48B5: This opportunity is no longer available.
    [6BB] 0x5F533BCE92D7FDD2: "Explore Catacombs" with the genie lamp.
    [6BC] 0x2D2848CE76F0449C: Free the Genie 3
