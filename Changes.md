@@ -91,17 +91,17 @@
 ## v0.0.7 - Opportunities GUID 1
 
 + Text Fixes
+  + Birthday Message
+    + Age up to child
   + MEMORIES
     + Bake Table Robbed
     + Picked Up {1.SimFirstName}
-  + Birthday Message
-    + Age up to child
   + Newspaper News
     + Local Farmers Celebrate Fresh Produce
   + Rephrased
     + Setting the price for the Bake Table
-+ Minor Fixes
-  + Unnecessary spaces after punctuation
+  + Minor Fixes
+    + Unnecessary spaces after punctuation
 + Added Opportunities' GUID to Descriptions
   + ALL
     + EP4_Generations
