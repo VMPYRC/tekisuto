@@ -117,6 +117,9 @@
 
 + Text Fixes
   + definitely not definetly
++ Added Opportunities' GUID to Descriptions
+  + SOME
+    + BaseGame
 
 # Planned Changes
 
