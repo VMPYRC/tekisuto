@@ -113,6 +113,11 @@
     + BaseGame
     + EP11_IntoTheFuture
 
+## v0.0.7 - Opportunities GUID 2
+
++ Text Fixes
+  + definitely not definetly
+
 # Planned Changes
 
 ## v0.0.x - Simplified Skills - PLANNED
