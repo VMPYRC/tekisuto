@@ -1553,55 +1553,55 @@ protects ancient kings
    [5FC] 0xFA0E8817F389366D: By Invitation Only
    [5FD] 0xA6619025BFB091C7: Use SimPort to invite a Visiting Sim to perform at a Private Venue.
    [5FE] 0x14F99EC04436A816: Sims in the other town were keenly anticipating your Magician’s arrival... though some came to the show with pitchforks.
-   [5FF] 0xD2D050771C6B5AC2: Bring the magic of magic to a town near you by sending your Magician off for a special one-night performance. Fame and fortune awaits!
+   [5FF] 0xD2D050771C6B5AC2: Bring the magic of magic to a town near you by sending your Magician off for a special one-night performance. Fame and fortune awaits!/n/nEP6_Passport_SendMagician_High
    [600] 0x6A4E928CDD396842: This opportunity is no longer available.
    [601] 0x936B6896FB646357: Use SimPort to send your Magician on tour.
    [602] 0x8159F396F0F2649D: Magical Mystery Show
    [603] 0x2D2FD899E11B4C57: Use SimPort to send your Magician on tour.
    [604] 0xBB9EE2BDB60BA692: Nothing up my sleeve... and now, presto! Your Magician has magically reappeared!
-   [605] 0xF1804F2F613500F6: Make your Magician disappear for one night and then magically return with extra experience and cash by going out on tour.
+   [605] 0xF1804F2F613500F6: Make your Magician disappear for one night and then magically return with extra experience and cash by going out on tour./n/nEP6_Passport_SendMagician_Low
    [606] 0xE0D9256C09F3FDCE: This opportunity is no longer available.
    [607] 0x65295E3BC6E9000B: Use SimPort to send your Magician on tour.
    [608] 0x982E513BE38A5C89: Sleight-of-Sim
    [609] 0x2C387A963DD2808B: Use SimPort to send your Magician on tour.
    [60A] 0x1A02A9391EA3965E: Your Magician amazed, mystified and mesmerized the foreign Sims! Thanks for sharing!
-   [60B] 0x28A13DCA536C0CBA: Magicians like yours aren’t easy to find. If you’re willing to share, you’ll make the Sims in another town very happy and maybe get a little something for your trouble.
+   [60B] 0x28A13DCA536C0CBA: Magicians like yours aren’t easy to find. If you’re willing to share, you’ll make the Sims in another town very happy and maybe get a little something for your trouble./n/nEP6_Passport_SendMagician_Mid
    [60C] 0x78507D2FB4D8D07A: This opportunity is no longer available.
    [60D] 0x6DB8DD0A3FF2EF8F: Use SimPort to send your Magician on tour.
    [60E] 0x5C4B680A360D0645: Tour Stop of Mystery
    [60F] 0x896840F9A17BAE7F: Use SimPort to send your Magician on tour.
    [610] 0xFB93A84134F20F28: Sending your Sim away may give you Sad Clown Face, but the kids just love it. Do it for the kids.
-   [611] 0x9981F38C88FA5D7C: Send your Sim to perform away from home, and you'll give the gift of the Circus to another town! Share the joy and, in return, you’ll reap some great benefits.
+   [611] 0x9981F38C88FA5D7C: Send your Sim to perform away from home, and you'll give the gift of the Circus to another town! Share the joy and, in return, you’ll reap some great benefits./n/nEP6_Passport_SendPerformanceArtist_High
    [612] 0xD70E593FC6DCA3E0: This opportunity is no longer available.
    [613] 0xAD9D4A837D0DA175: Use SimPort to send your Acrobat on tour.
    [614] 0xBF0A9D8386F35173: Tour de Force
    [615] 0x1D7B1E9E9DAC7929: Use SimPort to send your Acrobat on tour.
    [616] 0x4EEA750170B44334: See? Your Acrobat can juggle a busy career in your town and still make appearances on the road.
-   [617] 0x6588D6BB516C6120: Your Acrobat may be just starting out, but there are some great opportunities waiting in other towns. Going on tour will get your Acrobat on stage and performing for good money.
+   [617] 0x6588D6BB516C6120: Your Acrobat may be just starting out, but there are some great opportunities waiting in other towns. Going on tour will get your Acrobat on stage and performing for good money./n/nEP6_Passport_SendPerformanceArtist_Low
    [618] 0xF491F7A16A1CF49C: This opportunity is no longer available.
    [619] 0xD44467EC3AF8EFB9: Use SimPort to send your Acrobat on tour.
    [61A] 0xA1E352EC1EE36D8F: Circus Circuit
    [61B] 0xBEFD390F0B38294D: Use SimPort to send your Acrobat on tour.
    [61C] 0x0C1080C53A73E280: Your Acrobat’s show was certainly a new twist for the audience. Several Sims fainted during a failed contortion.
-   [61D] 0x23E0B6B83EA18DA4: Hitting the road is time-honored circus tradition. Let your Acrobat follow tradition by going on tour, and you’ll both be well-rewarded.
+   [61D] 0x23E0B6B83EA18DA4: Hitting the road is time-honored circus tradition. Let your Acrobat follow tradition by going on tour, and you’ll both be well-rewarded./n/nEP6_Passport_SendPerformanceArtist_Mid
    [61E] 0x8DFDC79DADA262E8: This opportunity is no longer available.
    [61F] 0xA8C711EA68B056FD: Use SimPort to send your Acrobat on tour.
    [620] 0xBAD864EA73221A8B: Side Show Extraordinaire
    [621] 0xD5CF9AEC6D00A4C1: Use SimPort to send your Acrobat on tour.
    [622] 0xBA3628D06727745D: Now your Singer’s an international sensation!
-   [623] 0x9AB3AC14EEF51CD3: Your Singer is a rising star, and they're in demand! Just one performance out on the road would be a great experience and could bring in a nice paycheck.
+   [623] 0x9AB3AC14EEF51CD3: Your Singer is a rising star, and they're in demand! Just one performance out on the road would be a great experience and could bring in a nice paycheck./n/nEP6_Passport_SendSinger_High
    [624] 0x41A35B33A585F3CB: This opportunity is no longer available.
    [625] 0x5081BE25050C2F48: Use SimPort to send your Singer on tour.
    [626] 0x3E3A6B24FA6CDB02: By Special Request!
    [627] 0x2C61E3D36FDBBF82: Use SimPort to send your Singer on tour.
    [628] 0x50AB6E3ACDEBF5D7: That wasn’t too bad, was it? And now your Singer has a story from the road.
-   [629] 0x525306F66C354455: Sending your Singer out on the road is a great way to earn extra experience and more Simoleons than you’ll get performing for tips.
+   [629] 0x525306F66C354455: Sending your Singer out on the road is a great way to earn extra experience and more Simoleons than you’ll get performing for tips./n/nEP6_Passport_SendSinger_Low
    [62A] 0xAB7C2AD519D4D289: This opportunity is no longer available.
    [62B] 0xF8BB4D8B17F2FAEE: Use SimPort to send your Singer on tour.
    [62C] 0x0B02A28B229251B0: Road Warrior
    [62D] 0xB5A28E292FFB7E44: Use SimPort to send your Singer on tour.
    [62E] 0x137CDAE756AA1E17: Your Singer made quite a splash on this little junket. And you’re on your way to earning some pretty sweet junk.
-   [62F] 0x62BEFF3169409995: There are plenty of venues in other towns that would love to have your Singer come perform for one night. And they’ll make it worth your while.
+   [62F] 0x62BEFF3169409995: There are plenty of venues in other towns that would love to have your Singer come perform for one night. And they’ll make it worth your while./n/nEP6_Passport_SendSinger_Mid
    [630] 0x1CBDDB8BD05C14C9: This opportunity is no longer available.
    [631] 0xDDE11E577B85DC2E: Use SimPort to send your Singer on tour.
    [632] 0xECC2735783420AF0: One Night Only

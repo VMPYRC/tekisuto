@@ -88,20 +88,21 @@
   + Laser Harp, not Laser Rhythm-a-con
   + Would you like, not Do you want/wish
 
-## v0.0.7 - Opportunities GUID
+## v0.0.7 - Opportunities GUID 1
 
-+ MEMORIES
-  + Bake Table Robbed
-+ Birthday Message
-  + Age up to child
++ Text Fixes
+  + MEMORIES
+    + Bake Table Robbed
+  + Birthday Message
+    + Age up to child
 + Added Opportunities' GUID to Descriptions
   + ALL
     + EP4_Generations
     + EP5_Pets
+    + EP6_Showtime
     + EP10_IslandParadise
   + SOME, not all
     + BaseGame
-    + EP6_Showtime
     + EP7_Supernatural
     + EP11_IntoTheFuture
 
@@ -131,8 +132,6 @@
 + TRASNLATE
 
 ## v0.0.x - ? - PLANNED
-
-+ 
 
 ## Other
 
