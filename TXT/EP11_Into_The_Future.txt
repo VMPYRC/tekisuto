@@ -1510,63 +1510,63 @@ Unknown3: 0x00000000
    [5E1] 0x9A619D309E2F564E: Solar Powered
    [5E2] 0xDB8FD8F157EF28A9: Dump that bulky, expensive Charging Station and power your Plumbot with pure sunlight.\n\n• Replenishes Plumbot Battery Power while the Bot works.\n• Chip only functions outside, during daylight hours.
    [5E3] 0x6E15778305291213: You emerge from your Extra Shift with bleary eyes, aching joints and a pocket full of Simoleons.
-   [5E4] 0x96424ECB301F81A9: The Bot Arena has been so crowded that they can barely keep matches running on time! Would you mind working an extra shift to help?/n/nEP11_Career_ServoBotArena01
+   [5E4] 0x96424ECB301F81A9: The Bot Arena has been so crowded that they can barely keep matches running on time! Would you mind working an extra shift to help?\n\nEP11_Career_ServoBotArena01
    [5E5] 0x3AB07D220D52DB45: Legally, Extra Shifts aren’t mandatory. But practically speaking, your bosses always notice when you don’t sign up.
    [5E6] 0x3896071605955B4C: Extra Shift
    [5E7] 0x9F85F7B67AA22628: Work an Extra Shift at the Bot Arena.
    [5E8] 0x0CD5B532DD4A1B90: You successfully took those Sims on an Arena tour without anyone getting lost or hurt.
-   [5E9] 0x9A24D8AD6CC95894: A group of local Plumbot enthusiasts would love to see how Bot Competitions are run! Guide them on a tour of the Bot Arena./n/nEP11_Career_ServoBotArena02
+   [5E9] 0x9A24D8AD6CC95894: A group of local Plumbot enthusiasts would love to see how Bot Competitions are run! Guide them on a tour of the Bot Arena.\n\nEP11_Career_ServoBotArena02
    [5EA] 0xD6F8C41EDDF058D8: You weren’t in the mood for giving a tour of the Bot Arena. It’s understandable – you needed a day off!
    [5EB] 0x141AB521E401281B: Guide a Tour
    [5EC] 0xBE8C08E25B38AB87: Give a Tour of the Bot Arena.
    [5ED] 0xB97E679164497D15: Despite some nervous stumbles at the start, you pulled yourself together and made some salient points!
-   [5EE] 0x6CE9D1EF7AEDE6DB: The Bot Arena’s top announcer has lost his otherwise golden voice! You’re the only Sim able to fill in with Color Commentary for tonight’s broadcast./n/nEP11_Career_ServoBotArena03
+   [5EE] 0x6CE9D1EF7AEDE6DB: The Bot Arena’s top announcer has lost his otherwise golden voice! You’re the only Sim able to fill in with Color Commentary for tonight’s broadcast.\n\nEP11_Career_ServoBotArena03
    [5EF] 0x789AA85AEB7EBA53: You decided to stay out of the broadcast booth, and the Competition’s ratings took a predictable plummet.
    [5F0] 0x3A1EE327B067D23A: Color Commentary
    [5F1] 0x654D0268862FFD6A: Provide Color Commentary for a Bot Competition.
    [5F2] 0x9F5FCC795F236792: Reading that book gave you knew perspective on every angle of the Bot Arena.
-   [5F3] 0x0A0E790FB491F3F6: Every day, the Bot Arena buzzes with talk about the newest Plumbot Engineering books. Pick up "Advanced Robotic Algorithms for Beginners" and read it to stay current in your field!/n/nEP11_Career_ServoBotArena04
+   [5F3] 0x0A0E790FB491F3F6: Every day, the Bot Arena buzzes with talk about the newest Plumbot Engineering books. Pick up "Advanced Robotic Algorithms for Beginners" and read it to stay current in your field!\n\nEP11_Career_ServoBotArena04
    [5F4] 0x28ADE19E2A4740CE: No matter what skills you acquire, they can always become obsolete in a heartbeat.
    [5F5] 0xF6EB90EC43A82589: Staying Current
    [5F6] 0xFA1AE677C5324079: Read "Advanced Robotic Algorithms for Beginners."
    [5F7] 0xE8F26BC388D1E867: Your elbows and wrists are sore from wrenching, but the local Plumbots are operating better than ever!
-   [5F8] 0x6E8CC603305A0B05: The quality of Bot Competitions has been slipping recently. Head around town offering Professional Tune Ups; you’ll get those Plumbots back to competition trim!/n/nEP11_Career_ServoBotArena05
+   [5F8] 0x6E8CC603305A0B05: The quality of Bot Competitions has been slipping recently. Head around town offering Professional Tune Ups; you’ll get those Plumbots back to competition trim!\n\nEP11_Career_ServoBotArena05
    [5F9] 0xC7877B98CC48D7B9: What’s the use of having all that mechanical skill if you won’t ply your trade?
    [5FA] 0xE034B1F828DE969E: Professionally Tune Up {1.Number} Plumbots
    [5FB] 0xF27C06F8337DEE40: Master Mechanic
    [5FC] 0xCA7E095AF1CF804C: Professionally Tuned Up {0.Number} of {1.Number} Plumbots.
    [5FD] 0x46691342138DCDDF: Star Guide Tours aren’t always fun, but they’re a basic and necessary part of your Observatory work.
-   [5FE] 0x6E32E42D390962AD: Teaching Sims about the cosmos is your first objective at the Observatory. Star Guide Tours are a wonderfully easy way to communicate with the community!/n/nEP11_Career_StellerObservatory01
+   [5FE] 0x6E32E42D390962AD: Teaching Sims about the cosmos is your first objective at the Observatory. Star Guide Tours are a wonderfully easy way to communicate with the community!\n\nEP11_Career_StellerObservatory01
    [5FF] 0xAB9BF58F9E085DE1: You’re a busy Sim and didn’t have enough time to give a Guided Tour. Maybe next time!
    [600] 0x44F6E79DA15C57B8: Galactic Tour Guide
    [601] 0x9909CB080746BFD4: Give a Star Guide Tour at the Observatory.
    [602] 0x6073B47EA872F35C: Everything you said at the press event was way over the reporter’s heads, but at least they wrote it all down!
-   [603] 0xB2B54EA9EA6A8F18: One of the Observatory’s researchers just cataloged a groundbreaking discovery. You’ve been given the honor of announcing it at a Press Event!/n/nEP11_Career_StellerObservatory02
+   [603] 0xB2B54EA9EA6A8F18: One of the Observatory’s researchers just cataloged a groundbreaking discovery. You’ve been given the honor of announcing it at a Press Event!\n\nEP11_Career_StellerObservatory02
    [604] 0x23FA36456EC18674: If we don’t hold Press Events, how can the public know we’re spending our Simoleons wisely?
    [605] 0x7627B5A49711BFB7: Being a Media Star
    [606] 0x752588B4982EA223: Give a Press Event at the Observatory.
    [607] 0xFEDBE3FE32074FC1: After poring through the newest Black Hole research, you can finally explain the maximum mass of a stable white dwarf star.
-   [608] 0xC89381717DC6120F: Black Holes are among the universe’s least-understood phenomena. Studying one would be an easy way to make a big splash in your field./n/nEP11_Career_StellerObservatory03
+   [608] 0xC89381717DC6120F: Black Holes are among the universe’s least-understood phenomena. Studying one would be an easy way to make a big splash in your field.\n\nEP11_Career_StellerObservatory03
    [609] 0x3D4B0150530456DF: Maybe you made the right choice. Ultra-massive Black Holes aren’t for the faint of heart!
    [60A] 0x490BE3AF4E588AD6: A Singular Passion
    [60B] 0x464BD7499DEC5CB6: Research a Black Hole at the Observatory.
    [60C] 0x1A19566BF71BFE26: With a telescope and a chromatograph, you scoured the stars for the slightest scrap of Alien Life.
-   [60D] 0x0E2884F1F31D4F32: Every astronomer dreams of discovering life on other worlds. Now we actually have the tools to do it! Start your own Search for Alien Life./n/nEP11_Career_StellerObservatory04
+   [60D] 0x0E2884F1F31D4F32: Every astronomer dreams of discovering life on other worlds. Now we actually have the tools to do it! Start your own Search for Alien Life.\n\nEP11_Career_StellerObservatory04
    [60E] 0x48BAD039918151B2: Deciding that alien life isn’t important, you’ve focused your efforts elsewhere in the cosmos.
    [60F] 0x77AFD1B641E2F0AD: Casting a Wide Net
    [610] 0xC28834EB65AB084D: Search for Alien Life at the Observatory.
    [611] 0x7ED7BE4261AAA00B: With a flash and the crackle of colliding photino particles, you brought a genuine Tesseract into being!
-   [612] 0x0E165202FE785111: Now that the technology exists to collect Dark Matter, you have the materials needed to fold time and space. You can build a Tesseract!/n/nEP11_Career_StellerObservatory05
+   [612] 0x0E165202FE785111: Now that the technology exists to collect Dark Matter, you have the materials needed to fold time and space. You can build a Tesseract!\n\nEP11_Career_StellerObservatory05
    [613] 0x2A5AC3F212C9AA4D: Maybe it was wise not to build that Tesseract. Sims have gone missing while meddling with them...
    [614] 0xA11A07BC112CD124: There is Such a Thing
    [615] 0x65E8B92A23E5E710: Collect Dark Matter and build a Tesseract at the Observatory.
    [616] 0xB2C34ACB64ED3D68: You’re so glad to have read that book! It’s given you a fresh outlook on planetary motion.
-   [617] 0x8811A73B9FCECFBC: Staying on top of the astronomy world takes dedicated reading. Books filled with new discoveries appear every day! You should read "100 Better Constellations" to expand your knowledge./n/nEP11_Career_StellerObservatory06
+   [617] 0x8811A73B9FCECFBC: Staying on top of the astronomy world takes dedicated reading. Books filled with new discoveries appear every day! You should read "100 Better Constellations" to expand your knowledge.\n\nEP11_Career_StellerObservatory06
    [618] 0x605A58AB02553620: You were too busy to read up on your colleagues' work.
    [619] 0x65BCB5C75127D7B3: Infinite Curiosity
    [61A] 0x884F81727A303DAF: Read "100 Better Constellations."
    [61B] 0x1641277E76387849: You found the Power Cells! Return them to the Time Traveler.
-   [61C] 0x802B8E7728D7DF07: Great woolly llamas! I was on my way home to Oasis Landing and my Time Portal experienced a temporal disruption and its Power Cells were thrown all over! Can you help me collect them?/n/nEP11_HelpingTheTimeTraveler01/nEP11_HelpingTheTimeTraveler02
+   [61C] 0x802B8E7728D7DF07: Great woolly llamas! I was on my way home to Oasis Landing and my Time Portal experienced a temporal disruption and its Power Cells were thrown all over! Can you help me collect them?\n\nEP11_HelpingTheTimeTraveler01\nEP11_HelpingTheTimeTraveler02
    [61D] 0x988B26D0DEFD6737: The Time Portal mysteriously started working again. Hop in and see where it will take you!
    [61E] 0xCDA01BE01B9089BE: Help a Time Traveler Out
    [61F] 0x60F2C19D4C4CE76E: Find and collect the Power Cells on your lot.
@@ -1574,45 +1574,45 @@ Unknown3: 0x00000000
    [621] 0x33F13D44FB23F756: Huzzah! You’re a real life saver! Return those Power Cells to me and I’ll fix the Time Portal. Now I can finally return back to my future home in Oasis Landing!
    [622] 0x7F551EA8F0A57259: Return the Power Cells to the Time Traveler.
    [623] 0xB92B5F4B8ED1F045: The Trait Chips were delivered safely.
-   [624] 0x7BE86BDAD24734EB: Someone in town is in desperate need of Trait Chips to help their Plumbot be more useful. Go deliver some Trait Chips to make this Sim’s day!/n/nEP11_Misc_Future01
+   [624] 0x7BE86BDAD24734EB: Someone in town is in desperate need of Trait Chips to help their Plumbot be more useful. Go deliver some Trait Chips to make this Sim’s day!\n\nEP11_Misc_Future01
    [625] 0xEFA8ACFD3C3C3FE3: You didn’t have enough Trait Chips to spare.
    [626] 0xA56A61C92B58CD6A: Trait Chips for Others
    [627] 0xB5AE63149D96FC3A: Deliver {1.Number} Trait Chips to {2.SimName}
    [628] 0x1378F105B3CCF2DE: Although someone else received an award, you stole the show with you epic Laser Harp skills!
-   [629] 0x35F9BE6BC8B43A3A: There’s an Award Ceremony scheduled to honor an important Sim. The organizers are looking for an accomplished Laser Harp player to provide the music! Are you up to the challenge?/n/nEP11_Misc_Future02 - Stellar Observatory/nEP11_Misc_Future03 - City Hall/nEP11_Misc_Future04 - Military Base/nEP11_Misc_Future05 - Science Lab/nEP11_Misc_Future06 - Theatre/nEP11_Misc_Future07 - Stadium
+   [629] 0x35F9BE6BC8B43A3A: There’s an Award Ceremony scheduled to honor an important Sim. The organizers are looking for an accomplished Laser Harp player to provide the music! Are you up to the challenge?\n\nEP11_Misc_Future02 - Stellar Observatory\nEP11_Misc_Future03 - City Hall\nEP11_Misc_Future04 - Military Base\nEP11_Misc_Future05 - Science Lab\nEP11_Misc_Future06 - Theatre\nEP11_Misc_Future07 - Stadium
    [62A] 0xBBEC3AB848AAE5FA: Playing at the Award Ceremony just seemed too overwhelming so decided not to play.
    [62B] 0x4F3FCFB0768546C5: Award Ceremony
    [62C] 0x1B857340D26127F5: Play for the Award Ceremony at {OpTarget}.
    [62D] 0xEB8E7950BBEFB416: Jetpacking never gets old for me! I hope you liked your view of Oasis Landing.
-   [62E] 0x2ACBB3F28BDABEC2: Welcome to Oasis Landing, temporal traveler! This is the Oasis Landing Community Living Center, from which I summit great mountains of knowledge! To help you get a better perspective of the city, I've given you a Jetpack. Start using it and Fly Around./n/nEP11_Misc_FutureArrival01
+   [62E] 0x2ACBB3F28BDABEC2: Welcome to Oasis Landing, temporal traveler! This is the Oasis Landing Community Living Center, from which I summit great mountains of knowledge! To help you get a better perspective of the city, I've given you a Jetpack. Start using it and Fly Around.\n\nEP11_Misc_FutureArrival01
    [62F] 0xB92DD19350F48C42: Looks like you already know your way around Oasis Landing! If you're looking for something to do, I can always use help with my research!
    [630] 0x5BC95FC031D3D09D: Welcome to the Future
    [631] 0x140D9970679E371D: Fly Around with a Jetpack.
    [632] 0x07C5FF97F687A9FD: Aren’t Plumbots the most amazing things? Next to time travel, I mean. That’s probably more amazing.
-   [633] 0xAA6E499E2EE8E8F3: It’s impossible not to notice the Plumbots around Oasis Landing; though some prefer the term “non-organic Sim.” They’re fantastically helpful for nearly any task, and some have started to develop sentient personalities! You’ve got to meet one yourself: just walk up and say hello./n/nEP11_Misc_FutureArrival02
+   [633] 0xAA6E499E2EE8E8F3: It’s impossible not to notice the Plumbots around Oasis Landing; though some prefer the term “non-organic Sim.” They’re fantastically helpful for nearly any task, and some have started to develop sentient personalities! You’ve got to meet one yourself: just walk up and say hello.\n\nEP11_Misc_FutureArrival02
    [634] 0x9CC4D1D849A7EEA2: Meet the Plumbots
    [635] 0xA207425337C0D562: Greet a Plumbot and then Instruct to Explain its Function.
    [636] 0x14F597A1DF8B0E18: Trait Chips are pretty simple, right? If only human Sims could improve themselves so easily.
-   [637] 0x48BBFA3B2FD1F48C: Plumbots are only as versatile as their software. Roboticists have designed Trait Chips: processors to run the most advanced and specialized programs. Here's a few Trait Chips. Try adjusting a Bot’s Trait Chips then give the Plumbot a High Five for good measure!/n/nEP11_Misc_FutureArrival03/nEP11_Misc_FutureArrival04
+   [637] 0x48BBFA3B2FD1F48C: Plumbots are only as versatile as their software. Roboticists have designed Trait Chips: processors to run the most advanced and specialized programs. Here's a few Trait Chips. Try adjusting a Bot’s Trait Chips then give the Plumbot a High Five for good measure!\n\nEP11_Misc_FutureArrival03\nEP11_Misc_FutureArrival04
    [638] 0x72C518E570132B3F: Adjust a Plumbot’s Trait Chips.
    [639] 0x492DFA67E0980D0F: I’m glad you got friendly with a Bot. They’re delightful creatures, once you get to know them.
    [63A] 0x955631A0236287A4: Give a Plumbot a High Five.
    [63B] 0x2D0EF6D17FE1A51A: Synthesized drinks are amazing, aren’t they? To think Sims in the past had to make their own...
-   [63C] 0xBEABA32543F4492E: You’ve worked so hard to learn about Oasis Landing. A break is well deserved, and you must be parched. Over at the Cafeteria, you’ll find a machine on the counters to synthesize any colored beverage imaginable! Take this Windcarver; you’ll travel faster and have great fun doing it./n/nEP11_Misc_FutureArrival05
+   [63C] 0xBEABA32543F4492E: You’ve worked so hard to learn about Oasis Landing. A break is well deserved, and you must be parched. Over at the Cafeteria, you’ll find a machine on the counters to synthesize any colored beverage imaginable! Take this Windcarver; you’ll travel faster and have great fun doing it.\n\nEP11_Misc_FutureArrival05
    [63D] 0xFFA67FA1C203C431: Take a Break
    [63E] 0xD7E8796A88F4C2D1: Order a Synthesized Drink at the Cafeteria.
    [63F] 0x83DB193ABF582BB1: I’m glad to see your reverence for the Legacy Statues. Who knows? You might join them someday.
-   [640] 0xE2AF9B026B53859F: The people of Oasis Landing have many fine qualities, but my personal favorite is their reverence for the past. Over at Legacy Park, they’ve erected statues to honor the greatest Sims that came before. Use your Time Almanac to find them, and read their inscriptions./n/nEP11_Misc_FutureArrival06
+   [640] 0xE2AF9B026B53859F: The people of Oasis Landing have many fine qualities, but my personal favorite is their reverence for the past. Over at Legacy Park, they’ve erected statues to honor the greatest Sims that came before. Use your Time Almanac to find them, and read their inscriptions.\n\nEP11_Misc_FutureArrival06
    [641] 0x56AAF1BA7790B846: Remembering the Past
    [642] 0x47EC358B844B9386: Read the Inscription on a Legacy Statue.
    [643] 0xA2B1100E6B35844C: You saw the door! What did you think about it? Ever seen anything like it in your life?
-   [644] 0xEBED4527630C8BA8: Here’s an event I’ve never been able to place in the timeline: the crash of an alien vehicle. It was buried sometime between your time and this. All that remains is a single door at the Crash Site out in the Wasteland, which you should examine personally./n/nEP11_Misc_FutureArrival07
+   [644] 0xEBED4527630C8BA8: Here’s an event I’ve never been able to place in the timeline: the crash of an alien vehicle. It was buried sometime between your time and this. All that remains is a single door at the Crash Site out in the Wasteland, which you should examine personally.\n\nEP11_Misc_FutureArrival07
    [645] 0xCB24E4E363AB9CB3: Inspect the Mysterious Door in the Wasteland.
    [646] 0x8C36A808080D5BE3: I’ve gotten my hands dirty enough for one lifetime! Thank you for Excavating that Debris Pile.
-   [647] 0x371ED5CD621B9A59: I’m sure you’ve noticed those grungy Debris Piles around the Wasteland. I never found anything myself, but rumor has it they hide some real treasures. Do some rummaging; even if you find nothing, it’s a reminder that not everything in the Future is wonderful./n/nEP11_Misc_FutureArrival08
+   [647] 0x371ED5CD621B9A59: I’m sure you’ve noticed those grungy Debris Piles around the Wasteland. I never found anything myself, but rumor has it they hide some real treasures. Do some rummaging; even if you find nothing, it’s a reminder that not everything in the Future is wonderful.\n\nEP11_Misc_FutureArrival08
    [648] 0xD84EEE0073B6EBD8: Excavate a Debris Pile.
    [649] 0x4FDEB4641FEA6EBE: Great woolly llamas, this is a piece of a key to the Mysterious Door! Keep it just in case you find others like it. I’m always looking for help so come back and see me if you’d like to help with my experiments!
-   [64A] 0x98E1BBB7E6A8549A: Great woolly llamas, you’ve found something! Bring it back to me so I can scan it. I have a hunch it’s something valuable! This just might be the missing link to the mysterious door!/n/nEP11_Misc_FutureArrival09
+   [64A] 0x98E1BBB7E6A8549A: Great woolly llamas, you’ve found something! Bring it back to me so I can scan it. I have a hunch it’s something valuable! This just might be the missing link to the mysterious door!\n\nEP11_Misc_FutureArrival09
    [64B] 0xBAFE6001F7497CA5: Checking In
    [64C] 0xC26E4DB205BB49D5: Speak with the Time Traveler.
    [64D] 0x4E5F7DCD5FF4FD94: Recalibrate Defensive Grid4 Completion PLACEHOLDER
@@ -1621,245 +1621,245 @@ Unknown3: 0x00000000
    [650] 0x05BE80E97D6492EF: Recalibrate Defensive Grid4 Name PLACEHOLDER
    [651] 0x2FD5266D4FB5292B: Recalibrate Defensive Grid4 Progress PLACEHOLDER
    [652] 0xC96688C02B3D4D54: With a whine of speeding turbines, the Defensive Grid comes online! You’ve stopped the meteors, for now.
-   [653] 0x4A97E367EE4949C0: The Defensive Grid shields the region from falling meteors. It requires a heap of Gems and Metals to turn it on to protect the citizens of Oasis Landing!/n/nEP11_RecalibrateDefenseGrid
+   [653] 0x4A97E367EE4949C0: The Defensive Grid shields the region from falling meteors. It requires a heap of Gems and Metals to turn it on to protect the citizens of Oasis Landing!\n\nEP11_RecalibrateDefenseGrid
    [654] 0x4ADA83BD2A66623C: As long as the Defensive Grid remains inactive, meteors will continue to pulverize Oasis Landing.
    [655] 0x730527E346D2E3AF: Mightier than Meteors
    [656] 0x3801A5B81E925BEB: Bring Gems and Metals to the Observatory.
    [657] 0x8F34B6A2A255D64E: Thank you so much for the Trait Chips! These will do nicely. Here’s your payment.
-   [658] 0xB569C61DF773884A: There’s word around town that you’ve been building some quality Trait Chips. If you’d hammer out a few chips for me, I’d pay you well!/n/nEP11_Skill_BotBuilding01
+   [658] 0xB569C61DF773884A: There’s word around town that you’ve been building some quality Trait Chips. If you’d hammer out a few chips for me, I’d pay you well!\n\nEP11_Skill_BotBuilding01
    [659] 0xFED1438ABC6E354A: Too bad, I was really hoping you’d make me some Trait Chips
    [65A] 0x2AE0DADECC325E35: Silicon Slinger
    [65B] 0xC49773E1CF215CC5: Deliver Trait Chips to {2.SimName}.
    [65C] 0xF5F1460A66D07675: Congratulations on your new competition-ready Plumbot! It takes courage to trust your creations in the Arena.
-   [65D] 0xEAF16C81A00AD5BB: Any amateur plumboticist can slap some components together and declare the monstrosity a Plumbot. Real artisans put their creations to the ultimate test in the Bot Arena!/n/nEP11_Skill_BotBuilding02
+   [65D] 0xEAF16C81A00AD5BB: Any amateur plumboticist can slap some components together and declare the monstrosity a Plumbot. Real artisans put their creations to the ultimate test in the Bot Arena!\n\nEP11_Skill_BotBuilding02
    [65E] 0x10A03A254AF4D933: You decided that when it comes to robotics, you’re more of a hobbyist than a competitor.
    [65F] 0x55D2ECF6464D029A: Test Your Metal
    [660] 0x324BC7C12353DECA: Build a Bot for an Arena Competition.
    [661] 0xF63DC67F67DB31F0: You saved the day by figuring out those Bots were stuck in a toilet-sink logic loop!
-   [662] 0xD4E8404CB53FEE74: The janitorial Plumbots at City Hall have gone haywire! The maintenance team tries their hardest, but they’re woefully under-funded and they need your help to avert an uprising./n/nEP11_Skill_BotBuilding03
+   [662] 0xD4E8404CB53FEE74: The janitorial Plumbots at City Hall have gone haywire! The maintenance team tries their hardest, but they’re woefully under-funded and they need your help to avert an uprising.\n\nEP11_Skill_BotBuilding03
    [663] 0x66445E3F703FDFB8: Plumbots are complicated machines, so you’ve decided not to get involved in their complicated problems.
    [664] 0x2C69BEF07704E37B: Bots Going Berserk
    [665] 0xDCA6A3BDA8F077E7: Go to {OpTarget}.
    [666] 0x72A6DD994E7429C7: A hard day of volunteering at the Bot Arena gave you valuable insight into Bot Building.
-   [667] 0xA41636AD68190EE5: The local Bot Arena is hosting a major international event! They’ve put out a call for robotically inclined Sims who’d like to volunteer and improve their skills./n/nEP11_Skill_BotBuilding04
+   [667] 0xA41636AD68190EE5: The local Bot Arena is hosting a major international event! They’ve put out a call for robotically inclined Sims who’d like to volunteer and improve their skills.\n\nEP11_Skill_BotBuilding04
    [668] 0x0B0A37E078463099: A day in the noise, heat and smell of a Plumbot maintenance pit doesn’t appeal to you.
    [669] 0x0ACA10C6C67FF5A0: Maintenance Moonlighting
    [66A] 0x3BA2D70EACACEAAC: Go to {OpTarget}.
    [66B] 0xE0BA024F6ABE93EC: Riding the Windcarver is much faster than walking!
-   [66C] 0x897E80938EC379C8: With the invention of the Windcarver, there’s no need to walk anywhere! Take a Windcarver for a ride and see how you like it./n/nEP11_Skill_Future01
+   [66C] 0x897E80938EC379C8: With the invention of the Windcarver, there’s no need to walk anywhere! Take a Windcarver for a ride and see how you like it.\n\nEP11_Skill_Future01
    [66D] 0xF385F799B90A6A24: You weren't in the mood for riding the Windcarver.
    [66E] 0xD89EA67CA88C6D81: Ride the Windcarver for a few hours.
    [66F] 0xA30DB17C89C18887: Every Day I’m Hoverin’
    [670] 0x729D78BE7BF3B053: Windcarver ridden for {0.Number} out of {1.Number} hours.
    [671] 0x721DF51985601BAF: Flying with the Jetpack gives you a new perspective on the world.
-   [672] 0x0D4B2E2F0B40195D: The view is always better from up high. Strap a Jetpack on and take it for a flight. It’ll get your adrenaline pumping!/n/nEP11_Skill_Future02
+   [672] 0x0D4B2E2F0B40195D: The view is always better from up high. Strap a Jetpack on and take it for a flight. It’ll get your adrenaline pumping!\n\nEP11_Skill_Future02
    [673] 0x22EE9AF4D5578B11: You didn’t quite have the stomach for the Jetpack.
    [674] 0x8E6ACE76C737AA56: Show off your Jetpack Flying Skills to {1.Number} Sims.
    [675] 0x9D162376CEC64888: Wings of Thunder
    [676] 0x933F92A7B683A744: Used a Jetpack to Show off Flying Skills {0.Number} out of {1.Number} times.
    [677] 0x0250EBB837F08366: You demonstrated the courage to play the big stage and the audience loved the performance.
-   [678] 0xD978D39B827A1272: It’s one thing to play the Laser Harp well; you have the talent to play very well. It’s time for a stage befitting your potential: the local Theater!/n/nEP11_Skill_Harp01
+   [678] 0xD978D39B827A1272: It’s one thing to play the Laser Harp well; you have the talent to play very well. It’s time for a stage befitting your potential: the local Theater!\n\nEP11_Skill_Harp01
    [679] 0x711BDEE383D417F2: Everyone gets stage jitters, especially with such a complicated instrument. Keep practicing!
    [67A] 0xA6391C85F99F8BED: Laser-Light Symphony
    [67B] 0x6CF20246E71F978D: Play a Laser Harp show at {OpTarget}.
    [67C] 0x913074F37AD4E38D: What a great musical show! The diners loved it!
-   [67D] 0x204A33704F5C9363: The Laser Harp is best enjoyed as the accompaniment to a fine meal. Show off your skills by playing a show for the diners at a local restaurant./n/nEP11_Skill_Harp02
+   [67D] 0x204A33704F5C9363: The Laser Harp is best enjoyed as the accompaniment to a fine meal. Show off your skills by playing a show for the diners at a local restaurant.\n\nEP11_Skill_Harp02
    [67E] 0xFC5CC64937F8BC5B: You decided not to play your Laser Harp for the diners while they eat.
    [67F] 0x8FD64EA2F8B9F6B2: To Aid the Digestion
    [680] 0x2220023555171C12: Play the Laser Harp for diners at {OpTarget}.
    [681] 0x9F0355C0E9EE88A8: The crowd and competitors roared in approval over your awesome Laser Harp show!
-   [682] 0x4CBF438D11FCD1FC: Nothing goes with the shrieks of grinding metal like the mind-expanding tones of a Laser Harp! Show off your musical talents at the local Bot Arena./n/nEP11_Skill_Harp03
+   [682] 0x4CBF438D11FCD1FC: Nothing goes with the shrieks of grinding metal like the mind-expanding tones of a Laser Harp! Show off your musical talents at the local Bot Arena.\n\nEP11_Skill_Harp03
    [683] 0x35B2347C87841060: You didn’t have the guts to get on stage and perform for the arena crowd.
    [684] 0x90DF009705FF96F3: Arena Accompaniment
    [685] 0x75FF81C0D84E8DEF: Play a Laser Harp show at {OpTarget}.
    [686] 0x7FBD7E1104F7EF1F: Performing in public is brutal work, but you displayed the emotional fortitude to stick it out!
-   [687] 0xD871443CD56B82ED: What’s the point of a musical gift if you don’t share it? Play your Laser Harp for Sims far and wide! Earn some Simoleons while you’re at it./n/nEP11_Skill_Harp04
+   [687] 0xD871443CD56B82ED: What’s the point of a musical gift if you don’t share it? Play your Laser Harp for Sims far and wide! Earn some Simoleons while you’re at it.\n\nEP11_Skill_Harp04
    [688] 0x80F2D16123358421: You decided more practice was needed before gathering up the courage to perform in public.
    [689] 0x616EDD6D4EA72AA6: Earn {10.Money} in Tips with the Laser Harp.
    [68A] 0x7380326D5918F2F8: Blow Their Minds
    [68B] 0x4374986388BD0214: Earned {0.Money} of {1.Money} in Tips with the Laser Harp.
    [68C] 0xB3AA3D27B02B10AA: Every song is difficult when playing a four-limbed instrument, but you just learned a new one!
-   [68D] 0x2AE428A08E9EA7DE: Learning any single song on the Laser Harp takes a long time, but virtuosos must learn a wide variety of compositions to win the public’s respect./n/nEP11_Skill_Harp05
+   [68D] 0x2AE428A08E9EA7DE: Learning any single song on the Laser Harp takes a long time, but virtuosos must learn a wide variety of compositions to win the public’s respect.\n\nEP11_Skill_Harp05
    [68E] 0x88E641B4C8A0FC56: You already knew plenty of songs on the Laser Harp so there was no need to learn another.
    [68F] 0x4A15FC6789CF1241: Expand your Chromatic Catalogue
    [690] 0xB313A8B7B4B8FEC1: Learn a new Laser Harp composition.
    [691] 0x309B33AA82BF9175: Magnificent specimens! See the fine articulation in their leg joints? It’s connected to tiny artificial muscles.
-   [692] 0x88CB33911755B6BB: Plumbots have a fascinating and surprising history! They didn’t progress from automated vacuum cleaners; instead they evolved almost naturally. Hobbyist Sims built and collected insectoid robots called Nanites, eventually releasing them into the wild. I’ll explain more once you’ve caught some for me./n/nEP11_StoryArc_Bots01
+   [692] 0x88CB33911755B6BB: Plumbots have a fascinating and surprising history! They didn’t progress from automated vacuum cleaners; instead they evolved almost naturally. Hobbyist Sims built and collected insectoid robots called Nanites, eventually releasing them into the wild. I’ll explain more once you’ve caught some for me.\n\nEP11_StoryArc_Bots01
    [693] 0xF3F65DA9AC062A33: Wow, it looks like you already know all there is to know about Bots!
    [694] 0x1080252EC8DB9110: Catch {1.Number} Nanites.
    [695] 0x01D4D22EC14CF59A: Don’t Swat Them!
    [696] 0x8EFB21B213C081CA: Successfully caught {0.Number} of {1.Number} Nanites.
    [697] 0xC9DEA442BE44F14E: Once reversed engineered a Nanite, their almost natural beauty comes into focus.
-   [698] 0x53438D2D6EBE694A: Wild Nanites are a good introduction to the subject of modern robotics, since their small and simple systems are writ large in sophisticated Plumbots. To better understand how these systems interact, I recommend dissecting and Reverse Engineering a Nanite./n/nEP11_StoryArc_Bots02
+   [698] 0x53438D2D6EBE694A: Wild Nanites are a good introduction to the subject of modern robotics, since their small and simple systems are writ large in sophisticated Plumbots. To better understand how these systems interact, I recommend dissecting and Reverse Engineering a Nanite.\n\nEP11_StoryArc_Bots02
    [699] 0xD6E2C01747325135: Nanite Dissection
    [69A] 0x2146CDD2BF8DFFC5: Reverse Engineer a Nanite from your inventory.
    [69B] 0x90C588F2BB975B73: Plumbot Competitions are the best. I needed to change my lab coat after my first Arena visit!
-   [69C] 0x4E8BBC464F84B589: Since Plumbots grew out of avid hobbyist communities, they saw their first action in competition. Down at the Bot Arena, Plumbots grind themselves to pieces striving for glory; it’s not inhumane because Plumbots aren’t human. Watch a Bot Competition for yourself. They’re tons of fun!/n/nEP11_StoryArc_Bots03
+   [69C] 0x4E8BBC464F84B589: Since Plumbots grew out of avid hobbyist communities, they saw their first action in competition. Down at the Bot Arena, Plumbots grind themselves to pieces striving for glory; it’s not inhumane because Plumbots aren’t human. Watch a Bot Competition for yourself. They’re tons of fun!\n\nEP11_StoryArc_Bots03
    [69D] 0xA660F621FB9600AC: Oilsport
    [69E] 0x703176D48F7C9888: Watch a Plumbot Competition.
    [69F] 0xE65F33F80F8C9924: Once you’ve played around with your new Plumbot, you’ll wonder how you ever got by without one.
-   [6A0] 0xAE15982FAA383670: Plumbots may have started as idle curiosities, but they’ve become an enormous part of Oasis Landing’s economy and social fabric. Nobody goes a day without interacting with Plumbots! It’s a beautifully natural social experiment, so I’d like you to purchase a Plumbot of your own./n/nEP11_StoryArc_Bots04
+   [6A0] 0xAE15982FAA383670: Plumbots may have started as idle curiosities, but they’ve become an enormous part of Oasis Landing’s economy and social fabric. Nobody goes a day without interacting with Plumbots! It’s a beautifully natural social experiment, so I’d like you to purchase a Plumbot of your own.\n\nEP11_StoryArc_Bots04
    [6A1] 0xBF50A404FEA6973F: A Serious Investment
    [6A2] 0x4C21B96934C76F1B: Purchase a Plumbot from a Sales Pedestal.
    [6A3] 0x15AA60DEB136BBC9: Perfect! As you can see, Plumbots are just like organic Sims, only more helpful and less whiny.
-   [6A4] 0x7E3B8CFB66E49187: That’s a fine Plumbot you selected! They function best when calibrated slowly and deliberately. Let’s put it through its paces. Instruct your Bot to Explain its Function, then Instruct it to Entertain You. I’ll keep all my scanners running while you do this... for science!/n/nEP11_StoryArc_Bots05
+   [6A4] 0x7E3B8CFB66E49187: That’s a fine Plumbot you selected! They function best when calibrated slowly and deliberately. Let’s put it through its paces. Instruct your Bot to Explain its Function, then Instruct it to Entertain You. I’ll keep all my scanners running while you do this... for science!\n\nEP11_StoryArc_Bots05
    [6A5] 0xA5B1F210517CE93E: Iterating Introductions
    [6A6] 0xA8FE088A32D0FEEE: Instruct Plumbot to Explain its Function and then to Entertain You.
    [6A7] 0x8437F6271B72B7F2: There’s no feeling quite like being elbow-deep in a Plumbot’s thought center, is there?
-   [6A8] 0x32013BC93930A9D6: When Sims got bored of Plumbots just performing domestic chores, they invented Trait Chips capable of modifying nearly any Bot function! There are even chips to simulate romantic love and sentience. Open your Plumbot up and adjust its Trait Chips to appreciate the dramatic difference./n/nEP11_StoryArc_Bots06
+   [6A8] 0x32013BC93930A9D6: When Sims got bored of Plumbots just performing domestic chores, they invented Trait Chips capable of modifying nearly any Bot function! There are even chips to simulate romantic love and sentience. Open your Plumbot up and adjust its Trait Chips to appreciate the dramatic difference.\n\nEP11_StoryArc_Bots06
    [6A9] 0x64B67FF839A8CBE9: Altered Traits
    [6AA] 0xC7606595D72989D9: Adjust Plumbot’s Trait Chips.
    [6AB] 0xAD50CB396A6344C7: There’s nothing quite like a Body Massage from unyielding metal fingers, is there? How invigorating!
-   [6AC] 0x41EFFDBCDF63EFE5: My favorite part of Plumbot history is how relationships between humans and Plumbots developed. We started by manipulating their Trait Chips, but eventually the Mood Adjuster Trait Chip let Plumbots affect human emotions! To experience this yourself, Instruct your Bot to give a Body Massage./n/nEP11_StoryArc_Bots07
+   [6AC] 0x41EFFDBCDF63EFE5: My favorite part of Plumbot history is how relationships between humans and Plumbots developed. We started by manipulating their Trait Chips, but eventually the Mood Adjuster Trait Chip let Plumbots affect human emotions! To experience this yourself, Instruct your Bot to give a Body Massage.\n\nEP11_StoryArc_Bots07
    [6AD] 0xB6CBF5FF417FE8A0: Cyborg Chiropractic
    [6AE] 0x985230FF9D198DAC: Receive Body Massage from Plumbot.
    [6AF] 0xB84E64FAC991F5E8: Great woolly llamas, your devotion is amazing! Enjoy your new Charging Station!
-   [6B0] 0x9827A5C3A3B4513C: Thank you ever so much for your patience, taking this personal journey through Plumbot history. Most Sims are happy to see these remarkable creatures as mere tools. Come and see me; I’ve build you a few Trait Chips to encourage further exploration. For science!/n/nEP11_StoryArc_Bots08
+   [6B0] 0x9827A5C3A3B4513C: Thank you ever so much for your patience, taking this personal journey through Plumbot history. Most Sims are happy to see these remarkable creatures as mere tools. Come and see me; I’ve build you a few Trait Chips to encourage further exploration. For science!\n\nEP11_StoryArc_Bots08
    [6B1] 0x632DA3E68ED65433: Assembly Complete
    [6B2] 0x0D6F996353F2C22F: Talk to the Time Traveler.
    [6B3] 0x9FF3C6C43DFCEECD: Great woolly llamas, your stamina is amazing! Your devotion to acquiring knowledge inspires me every day.
    [6B4] 0x031EF7E504FBCDA3: Thank you ever so much for your patience, taking this personal journey through Plumbot history. Most Sims are happy to see these remarkable creatures as mere tools. Come and see me; I’ll give you a Charging Station. After all, Plumbots are useless with an empty battery!
    [6B5] 0x7F01060979605FFE: How was meeting your Descendants? Thank goodness you didn’t explode from some kind of temporal paradox!
-   [6B6] 0x23F071A8808A2ADA: In my research of this timeline, I noticed that Sims descended from you played an outsized role in Oasis Landing’s development. This could be a coincidence, or perhaps the product of magnificent genes. Meet your own Descendants; see if they seem remarkable in any way./n/nEP11_StoryArc_Descendant01
+   [6B6] 0x23F071A8808A2ADA: In my research of this timeline, I noticed that Sims descended from you played an outsized role in Oasis Landing’s development. This could be a coincidence, or perhaps the product of magnificent genes. Meet your own Descendants; see if they seem remarkable in any way.\n\nEP11_StoryArc_Descendant01
    [6B7] 0xBE14B59D00BE549A: If you’re uncomfortable meddling with your own Descendants’ lives, I won’t pressure you to continue.
    [6B8] 0xCF02C5B1C69FD5E5: Guess Who’s Coming to Dinner?
    [6B9] 0x33A7E5E0B64A9F15: Greet a Descendant.
    [6BA] 0x366B8C9727609165: I see you’ve returned safely to your own time. Make any personal or family alterations you like!
-   [6BB] 0xC23C4999C1847F8B: Now that we’ve got a basic understanding of your Descendants, we can start experimenting! Try to dramatically alter your family’s net wealth, permanently change some traits, or adjust the number of Sims living in your household. The changes won’t take effect until you return to your original timeline, for reasons that should be obvious./n/nEP11_StoryArc_Descendant02
+   [6BB] 0xC23C4999C1847F8B: Now that we’ve got a basic understanding of your Descendants, we can start experimenting! Try to dramatically alter your family’s net wealth, permanently change some traits, or adjust the number of Sims living in your household. The changes won’t take effect until you return to your original timeline, for reasons that should be obvious.\n\nEP11_StoryArc_Descendant02
    [6BC] 0x252E57CA7B750E8A: Changing your Stars
    [6BD] 0x774CD5B96980D25A: Travel back in time to the present day and alter your net wealth, traits, or family size.
    [6BE] 0xF57375508F97A320: Welcome back, weary traveler! Once you’ve recovered from your inter-dimensional journey, you’ll see your new household.
-   [6BF] 0x330A0947683D5BC4: Wonderful! Using my tachyon scanners, I’ve traced your signal back through time and isolated your family line. Get your personality and household to a finished state, and then rejoin me in the future. I’m so excited to see what these changes have wrought!/n/nEP11_StoryArc_Descendant03
+   [6BF] 0x330A0947683D5BC4: Wonderful! Using my tachyon scanners, I’ve traced your signal back through time and isolated your family line. Get your personality and household to a finished state, and then rejoin me in the future. I’m so excited to see what these changes have wrought!\n\nEP11_StoryArc_Descendant03
    [6C0] 0xCFB2E9C370BAD62B: Return to the Post-Present
    [6C1] 0x7607AFA2D43CE137: Travel to the Future and speak with the Time Traveler.
    [6C2] 0xB56C90244B175BF7: Hopefully, you’re enjoying that altered household. If not, simply jump back to the past and try again!
-   [6C3] 0x24C400668011ECF5: Now that you’ve shifted your own genetic timeline, your Descendants may have been radically altered or absent entirely! For all my tachyon-inferred data, we won’t have hard conclusions until you meet with them again. Remember, some changes will be subtler than others./n/nEP11_StoryArc_Descendant04
+   [6C3] 0x24C400668011ECF5: Now that you’ve shifted your own genetic timeline, your Descendants may have been radically altered or absent entirely! For all my tachyon-inferred data, we won’t have hard conclusions until you meet with them again. Remember, some changes will be subtler than others.\n\nEP11_StoryArc_Descendant04
    [6C4] 0xB2533B99C3D2B5D0: The Moment of Truth
    [6C5] 0x97894928007725FC: Greet a Descendant.
    [6C6] 0x49BD2657F7A4C18C: Was Trash diving as fun as it looks? Tell me about it while I scan you...
-   [6C7] 0x6F409F6A1394C7E8: This Dystopia timeline might disgust you, but the Sims here seem fairly happy with their lot. We should test out exactly how unhealthy Dystopia’s various features are. Start out simple and stinky: play in one of the Trash Piles littering the landscape. Get it? "Littering!"/n/nEP11_StoryArc_Dystopia01
+   [6C7] 0x6F409F6A1394C7E8: This Dystopia timeline might disgust you, but the Sims here seem fairly happy with their lot. We should test out exactly how unhealthy Dystopia’s various features are. Start out simple and stinky: play in one of the Trash Piles littering the landscape. Get it? "Littering!"\n\nEP11_StoryArc_Dystopia01
    [6C8] 0x774FCD9899345744: Seems like you’ve already experienced a dystopian Future before. Check back later if you’re still interested in helping me!
    [6C9] 0xE433EB459F9A2A27: Sullied Samples
    [6CA] 0xDD9D0E5813C587F3: Play in a Trash Pile.
    [6CB] 0x1FAFE60AC6BC4D4F: Don’t those bugs have a delightful crunch? And the nutty flavor! Yes, I’ve tried a few myself.
-   [6CC] 0xAA53E9ADBB86A67D: You’ve shown no ill effects from the Trash Piles, aside from some odor. Let’s get a little more exotic! I’ve observed Sims eating the local insects, so they’re probably not poisonous. Catch and consume a few Bugs, to test their flavor and nutritional content./n/nEP11_StoryArc_Dystopia02
+   [6CC] 0xAA53E9ADBB86A67D: You’ve shown no ill effects from the Trash Piles, aside from some odor. Let’s get a little more exotic! I’ve observed Sims eating the local insects, so they’re probably not poisonous. Catch and consume a few Bugs, to test their flavor and nutritional content.\n\nEP11_StoryArc_Dystopia02
    [6CD] 0x22B0083AF22E77F6: Catch and Eat {1.Number} Bugs.
    [6CE] 0x34C15D3AFCA03F28: The Local Flavor
    [6CF] 0x5740C86CC709DDE4: Caught and Eaten {0.Number} of {1.Number} Bugs.
    [6D0] 0x188ED94F0739565A: Great woolly llamas, the third eye tracks my movement! It sees just fine, like the others.
-   [6D1] 0x9B0A02EF9685D36E: According to my readouts, you absorbed a good amount of protein on your eating expedition. Let’s see if the other local fauna are similarly healthy. Catch me a few Three-Eyed fish. That extra eye might not be the freakish mutation I assumed it was./n/nEP11_StoryArc_Dystopia03
+   [6D1] 0x9B0A02EF9685D36E: According to my readouts, you absorbed a good amount of protein on your eating expedition. Let’s see if the other local fauna are similarly healthy. Catch me a few Three-Eyed fish. That extra eye might not be the freakish mutation I assumed it was.\n\nEP11_StoryArc_Dystopia03
    [6D2] 0xACE3D433D5CEC7E3: Catch {1.Number} Three-Eyed Fish near Floating Trash Piles.
    [6D3] 0xE2AAE733F4C76F71: Nature’s Little Blunders
    [6D4] 0x9F3B3AAF9407D011: Catch some Three Eyed Fish
    [6D5] 0x0C6A3758CB17873D: What did you find in the Geyser Rift? I’ve heard about priceless gems and powerful gamma rays!
-   [6D6] 0xD18D686E790BAE33: Those fish checked out; healthy down to their cell chemistry. Most of Dystopia’s problems seem more like ugly quirks! If you don’t mind a bit of real danger, I’d like you to explore the Geyser Rifts caused by falling Meteors./n/nEP11_StoryArc_Dystopia04
+   [6D6] 0xD18D686E790BAE33: Those fish checked out; healthy down to their cell chemistry. Most of Dystopia’s problems seem more like ugly quirks! If you don’t mind a bit of real danger, I’d like you to explore the Geyser Rifts caused by falling Meteors.\n\nEP11_StoryArc_Dystopia04
    [6D7] 0x25DF396F6188CEE2: Geyser Spelunking
    [6D8] 0x200A3083BD767FA2: Explore a Geyser Rift.
    [6D9] 0x03C74750CC9D9F58: Thanks! These couldn’t have been easy to find. Now, to vaporize them in the chromatograph...
-   [6DA] 0xBFFEF365F824FDCC: My data from your Geyser Rift plunge confirms traces of precious gems and ore. It must come from the Meteors forming them. You know what this means: time to catch some falling stars! Not literally, of course. Go and collect some Space Rocks for testing./n/nEP11_StoryArc_Dystopia05
+   [6DA] 0xBFFEF365F824FDCC: My data from your Geyser Rift plunge confirms traces of precious gems and ore. It must come from the Meteors forming them. You know what this means: time to catch some falling stars! Not literally, of course. Go and collect some Space Rocks for testing.\n\nEP11_StoryArc_Dystopia05
    [6DB] 0x44189864A283EF05: Find {1.Number} Space Rocks.
    [6DC] 0x565FEB64AD234323: Astro-Geologist
    [6DD] 0xA1B27CC424D9247F: Find some Space Rocks.
    [6DE] 0xB8DFF6F5E1EEF77B: By preventing Meteors from hitting the ground, the Defense Grid sure makes a Dystopian life safer! Visit the Observatory at any time to active it.
-   [6DF] 0x162A066C0235FE21: Detailed analysis of those Space Rocks confirms: they’re loaded with valuable residue, but also dangerous radioactive isotopes. The Meteors are the genuinely harmful things in Dystopia. I’d like you to visit the Observatory and learn about the Meteor Defense Grid./n/nEP11_StoryArc_Dystopia06
+   [6DF] 0x162A066C0235FE21: Detailed analysis of those Space Rocks confirms: they’re loaded with valuable residue, but also dangerous radioactive isotopes. The Meteors are the genuinely harmful things in Dystopia. I’d like you to visit the Observatory and learn about the Meteor Defense Grid.\n\nEP11_StoryArc_Dystopia06
    [6E0] 0x3A5F3D5E546EF694: An Old Hope
    [6E1] 0x28E56B5E09CB1F20: Go to {OpTarget}.
    [6E2] 0x668821009F88ADF8: What a wonderful piece you bought! I’m not one for fashion myself.
-   [6E3] 0x1CE681847B4A13EC: Hey! I’m pleased as punch you came by, but I’m busy with, uhh... something. That I don’t need help with. Just hang around town for a spell. Stop by the local shops and try on some futuristic fashions. And, uhh... keep your eyes open./n/nEP11_StoryArc_FutureTour01
+   [6E3] 0x1CE681847B4A13EC: Hey! I’m pleased as punch you came by, but I’m busy with, uhh... something. That I don’t need help with. Just hang around town for a spell. Stop by the local shops and try on some futuristic fashions. And, uhh... keep your eyes open.\n\nEP11_StoryArc_FutureTour01
    [6E4] 0x5C620456F3632190: You already know your way around Oasis Landing? Great llamas! You really are an explorer!
    [6E5] 0x323F7195AFC8C5C3: Fashion Distraction
    [6E6] 0x8848EA8D2541921F: Buy something from a Clothing Pedestal.
    [6E7] 0xCDD6C8546A00FB1B: How’d you like the HoloVenture? I haven’t seen a HoloVenture in years!
-   [6E8] 0xC966610246A4DD41: I didn’t expect you back so soon. I’m really busy trying to solve a complex temporal equation and should be done soon. In the meantime, why don’t you catch a HoloVenture at the Theater downtown? I hear the newest title is wonderful!/n/nEP11_StoryArc_FutureTour02
+   [6E8] 0xC966610246A4DD41: I didn’t expect you back so soon. I’m really busy trying to solve a complex temporal equation and should be done soon. In the meantime, why don’t you catch a HoloVenture at the Theater downtown? I hear the newest title is wonderful!\n\nEP11_StoryArc_FutureTour02
    [6E9] 0x19A4C38F59F7A234: Idle Amusement
    [6EA] 0x12E0D9270D1503C0: Go see a HoloVenture at the HoloVenture Theater.
    [6EB] 0xD2F5F2C2C99084F6: I hope you picked a good drink flavor! Did you notice any unusual Nanite activity over there?
-   [6EC] 0x32255D8765A8F122: Ouch! Sorry, I just smacked the old gourd under the couch looking for... uhh, something. You look thirsty! Why don’t you a drink at the Cafeteria? I hear they’re so sugary and delicious that the place attracts Nanites from miles around!/n/nEP11_StoryArc_FutureTour03
+   [6EC] 0x32255D8765A8F122: Ouch! Sorry, I just smacked the old gourd under the couch looking for... uhh, something. You look thirsty! Why don’t you a drink at the Cafeteria? I hear they’re so sugary and delicious that the place attracts Nanites from miles around!\n\nEP11_StoryArc_FutureTour03
    [6ED] 0x1AAD4D83673CFE7D: Empty Calories
    [6EE] 0x16799E01269279FD: Order a Synthesized Drink at the Cafeteria.
    [6EF] 0xD8D3A2998238F391: No trace of Skippy at City Hall? Drat. Where else have I been these past few days?
-   [6F0] 0xDC1655F8674541FF: It’s time to come clean. My Nanite, Skippy, vanished days ago and I haven’t seen joint nor mandible of him since! I’ve had you retracing my steps. Could you please inspect the Lotto Records Archive at City Hall? Never mind why I was there!/n/nEP11_StoryArc_FutureTour04
+   [6F0] 0xDC1655F8674541FF: It’s time to come clean. My Nanite, Skippy, vanished days ago and I haven’t seen joint nor mandible of him since! I’ve had you retracing my steps. Could you please inspect the Lotto Records Archive at City Hall? Never mind why I was there!\n\nEP11_StoryArc_FutureTour04
    [6F1] 0x158EDF7DACF9E526: Honesty is the Best Policy
    [6F2] 0x9D626CF4B0657566: Check Lotto Records at the Oasis Landing City Hall.
    [6F3] 0x5960000CB573572C: Well, that’s one less place my dear Skippy might be. He can’t have left Oasis Landing!
-   [6F4] 0xCF8D2D88999B5308: This problem is worse than I thought! I accidentally left a bit of important research data on Skippy’s hard drive. More than a bit: a few gigabytes, actually. He may have slipped out of my pocket during the Zero-G session. Go into the Zero-G chamber and find out!/n/nEP11_StoryArc_FutureTour05
+   [6F4] 0xCF8D2D88999B5308: This problem is worse than I thought! I accidentally left a bit of important research data on Skippy’s hard drive. More than a bit: a few gigabytes, actually. He may have slipped out of my pocket during the Zero-G session. Go into the Zero-G chamber and find out!\n\nEP11_StoryArc_FutureTour05
    [6F5] 0xC3797176A522D5C7: Lost in Zero-G
    [6F6] 0xC7997C2117111E93: Experiment with Zero-G at the Observatory
    [6F7] 0x95888CD18FE180EF: Oh Skippy, where could you be? Well, I hope you enjoyed the grinding gears of Arena Competitions.
-   [6F8] 0x9CE61A37A3B5A89D: Nanites, it’s been suggested, can establish hive minds with Bots of similar engineering. It’s possible Skippy made his way to the Bot Arena. He’d find friends there, and a wealth of power cells lying around. Head over and take in a competition, would you?/n/nEP11_StoryArc_FutureTour06
+   [6F8] 0x9CE61A37A3B5A89D: Nanites, it’s been suggested, can establish hive minds with Bots of similar engineering. It’s possible Skippy made his way to the Bot Arena. He’d find friends there, and a wealth of power cells lying around. Head over and take in a competition, would you?\n\nEP11_StoryArc_FutureTour06
    [6F9] 0x1405E36C022737C8: Bugs of a Feather
    [6FA] 0xAAD90347D88F3B84: Attend a Bot Arena Competition.
    [6FB] 0x7EA180303FDF44FA: Great woolly llamas, it’s Skippy! I can’t thank you enough for finding the little guy!
-   [6FC] 0x05E47FACF7875F8E: I’ve all but given up. He must just be drifting about Oasis Landing, lost and aimless. Oh, how I fear for little Skippy! It’s time for the brute force approach: get outside with a net and scoop up wild Nanites. I’ll know which is Skippy./n/nEP11_StoryArc_FutureTour07
+   [6FC] 0x05E47FACF7875F8E: I’ve all but given up. He must just be drifting about Oasis Landing, lost and aimless. Oh, how I fear for little Skippy! It’s time for the brute force approach: get outside with a net and scoop up wild Nanites. I’ll know which is Skippy.\n\nEP11_StoryArc_FutureTour07
    [6FD] 0x8C295A64DB577283: Catch {1.Number} Nanites.
    [6FE] 0xC1F06D64FA501A11: Desperate Times, Desperate Measures
    [6FF] 0x43F04B0D5622CBB1: Caught {0.Number} of {1.Number} Nanites.
    [700] 0x50671B0362E87B05: You’ve mended an old man’s broken heart. Here’s the Holo Disc I promised you!
-   [701] 0x1AB8613112C229AB: You found my beloved Skippy! Why don’t you hurry back and bring him back to me. I’ll give you a Holo Disc for your troubles. That way, you’ll always have a friend with you no matter where you end up!/n/nEP11_StoryArc_FutureTour08
+   [701] 0x1AB8613112C229AB: You found my beloved Skippy! Why don’t you hurry back and bring him back to me. I’ll give you a Holo Disc for your troubles. That way, you’ll always have a friend with you no matter where you end up!\n\nEP11_StoryArc_FutureTour08
    [702] 0x7988DFE2C9868E2A: Homeward Bound
    [703] 0x0D43F6EA9E0625FA: Talk to the Time Traveler.
    [704] 0xA081BDDFA598496B: Excellent! I’d take you for a colorful native myself. Now, get out there and explore!
-   [705] 0xC1E1ACA8CD75E3F1: Now that you’ve joined me in this wild Utopian timeline, it’s time I taught you my research methods. The first step when visiting any alternate reality is blending in with the natives. Here is some Rainbow Dew I extracted from a Delightfully Oversized Flower. Use it on yourself!/n/nEP11_StoryArc_Utopia01
+   [705] 0xC1E1ACA8CD75E3F1: Now that you’ve joined me in this wild Utopian timeline, it’s time I taught you my research methods. The first step when visiting any alternate reality is blending in with the natives. Here is some Rainbow Dew I extracted from a Delightfully Oversized Flower. Use it on yourself!\n\nEP11_StoryArc_Utopia01
    [706] 0xE4464EB71F48212D: If you don’t want my guidance while exploring this timeline, I’ll trust your instincts.
    [707] 0x362E89B9CF67DF84: The Scientific Method
    [708] 0xD86B9076C91A7A70: Use Rainbow Dew on yourself.
    [709] 0x6A16ECD40DE31FC8: Thanks! With your gracious assistance, we might be able to figure out the Dew’s origins.
-   [70A] 0x01105BF2B99E789C: The Dew sample was biochemically fascinating! It’s a fine place to begin our investigation. We’ll need more samples from the local Delightfully Oversized Flowers. Any color will work. If a Delightfully Oversized Flower looks empty, you can sometimes get some Dew by shaking its base./n/nEP11_StoryArc_Utopia02
+   [70A] 0x01105BF2B99E789C: The Dew sample was biochemically fascinating! It’s a fine place to begin our investigation. We’ll need more samples from the local Delightfully Oversized Flowers. Any color will work. If a Delightfully Oversized Flower looks empty, you can sometimes get some Dew by shaking its base.\n\nEP11_StoryArc_Utopia02
    [70B] 0xD700B07D322BA000: Don’t want to get your hands messy, eh? Well, Science isn’t for the faint of heart.
    [70C] 0x3FE7E4C01D7CD815: Collect {10.Number} Dews from Delightfully Oversized Flowers.
    [70D] 0x515637C027643B13: Dewduction
    [70E] 0xFEC69B99C6694E0F: Collected {0.Number} of {1.Number} Dews.
    [70F] 0xA970CFE466D6D2AD: Looks like you had a great time! Here’s hoping it didn’t come with a cost...
-   [710] 0x01B2507F7FEFE203: In this Utopian timeline, Sims amuse themselves by hurling colorful Dew. Everyone winds up splattered and giggling like maniacs, but I wonder if the Dew carries any health risks? Go out in public and indulge in some Dewy delight. I’ll sample your plasma afterwards./n/nEP11_StoryArc_Utopia03
+   [710] 0x01B2507F7FEFE203: In this Utopian timeline, Sims amuse themselves by hurling colorful Dew. Everyone winds up splattered and giggling like maniacs, but I wonder if the Dew carries any health risks? Go out in public and indulge in some Dewy delight. I’ll sample your plasma afterwards.\n\nEP11_StoryArc_Utopia03
    [711] 0x5FBB0700D03D61FB: Don’t enjoy being a guinea pig? Well, I don’t blame you. They don’t like it either.
    [712] 0xB5B3D8C739DC1BF8: Throw Dew {1.Number} times at other Sims.
    [713] 0xA36C85C72F3CC7D2: Clowning Around
    [714] 0x550691BC6C7D8C32: Threw Dew at Sims {0.Number} out of {1.Number} times.
    [715] 0x9FDBC2BF455CD9CA: Great woolly llamas, these snails are wonderful! Just look at those rainbow colors!
-   [716] 0xC82931149901AC7E: Good news, everyone! Well, just you. I couldn’t find even a trace of toxicity in that Dew, so we’re perfectly safe researching this timeline. The next step in your Science-y journey is critter collection! Troll the local ponds for these "Rainbow Snails" I’ve heard about./n/nEP11_StoryArc_Utopia04
+   [716] 0xC82931149901AC7E: Good news, everyone! Well, just you. I couldn’t find even a trace of toxicity in that Dew, so we’re perfectly safe researching this timeline. The next step in your Science-y journey is critter collection! Troll the local ponds for these "Rainbow Snails" I’ve heard about.\n\nEP11_StoryArc_Utopia04
    [717] 0x80BABDB08B4B94F6: Explore Utopia by yourself, if you’d like. Some Sims must blaze their own paths.
    [718] 0x0A8D3390AB33B761: Pondering Rainbow Snails
    [719] 0xCCEBFDD4CA583CE1: Fish up some Rainbow Snails near floating flowers.
    [71A] 0xAFD7AC44B81D163F: They just got angry, eh? Well, that’s perfectly consistent with the data we’ve gathered so far.
-   [71B] 0x7CDC3B4FB7E2F88D: Between Dew and Snails, we’ve covered Utopia’s ecology. But if putting Rainbow Dew in the atmosphere altered nature at the molecular level, how did it affect Sims? We’ll start with a simple emotional provocation. Accuse folks of Being too Rational and gauge their responses./n/nEP11_StoryArc_Utopia05
+   [71B] 0x7CDC3B4FB7E2F88D: Between Dew and Snails, we’ve covered Utopia’s ecology. But if putting Rainbow Dew in the atmosphere altered nature at the molecular level, how did it affect Sims? We’ll start with a simple emotional provocation. Accuse folks of Being too Rational and gauge their responses.\n\nEP11_StoryArc_Utopia05
    [71C] 0x22424D61CDDEC7C1: I understand you don’t want to upset other Sims, but it’s only for a science experiment.
    [71D] 0x21E51496700A1CC6: Accuse {1.Number} Sims of Being too Rational.
    [71E] 0x309069967798BB18: Anthropology and Apology
    [71F] 0x06C6ED8586593834: Accused {0.Number} of {1.Number} Sims of Being too Rational.
    [720] 0x1D014D7C622067BC: Good gracious, it worked! Whimsy gets transmitted at a 100% signal rate regardless of your molecular makeup.
-   [721] 0x2BB40361043A38F8: You’ve done wonderful work for me; it’s time to step up your inter-dimensional research. These folks Whimsy Waltz all day long, and it seems to be contagious! Embed yourself in the local population and see if Sims from your timeline can inspire the Whimsy Waltz organically./n/nEP11_StoryArc_Utopia06
+   [721] 0x2BB40361043A38F8: You’ve done wonderful work for me; it’s time to step up your inter-dimensional research. These folks Whimsy Waltz all day long, and it seems to be contagious! Embed yourself in the local population and see if Sims from your timeline can inspire the Whimsy Waltz organically.\n\nEP11_StoryArc_Utopia06
    [722] 0x9AA08E179E97F054: Is this an issue of confidence? I’m sure your Whimsy Waltzes won’t get rejected too often.
    [723] 0x94C52C9D89EDD031: Inspire {1.Number} Sims to Whimsy Waltz.
    [724] 0x61C1379D6D4E2317: Whimsical Conductivity
    [725] 0x91B1A2E0C9833483: Inspired {0.Number} of {1.Number} Sims to Whimsy Waltz.
    [726] 0x5533AFE9E05E2621: Look at that gold sparkle! I wonder if someone put them there, or if they just happened?
-   [727] 0x6DA20B81EE6794EF: Since we’ve found Utopian matter is both fundamentally different and wholly compatible with our own, try digging up a Rainbow Knoll. My instruments tell me they might contain valuable Simoleons!/n/nEP11_StoryArc_Utopia07
+   [727] 0x6DA20B81EE6794EF: Since we’ve found Utopian matter is both fundamentally different and wholly compatible with our own, try digging up a Rainbow Knoll. My instruments tell me they might contain valuable Simoleons!\n\nEP11_StoryArc_Utopia07
    [728] 0xB3F1592282DAC0BF: You really don’t want to take money just lying there? I suppose your integrity is commendable.
    [729] 0x34A665A82496A136: Simoleons for Science
    [72A] 0x68401BEE36ACA716: Dig up a Pot of Gold.
    [72B] 0x179700CCE0A664F2: Magnificent! Thank goodness Oasis Landing keeps such meticulous records when it comes to atmospheric phenomena.
-   [72C] 0xD02D53774FFFA0D6: I may have found a lead on the Wasteland’s Mysterious Door. The thing’s rumored to have fallen from the sky, and since it persists across dimensions we know it must have fallen before the timelines split. Scour the Stellar Observatory’s records for the answer./n/nEP11_StoryArc_Wasteland01
+   [72C] 0xD02D53774FFFA0D6: I may have found a lead on the Wasteland’s Mysterious Door. The thing’s rumored to have fallen from the sky, and since it persists across dimensions we know it must have fallen before the timelines split. Scour the Stellar Observatory’s records for the answer.\n\nEP11_StoryArc_Wasteland01
    [72D] 0x2F1D8070E56772AE: Looks like you’re already familiar with the mysteries of the Wasteland. I’ll be around to help research the Wasteland if you need it!
    [72E] 0xF00AB65C7121E0E9: Buried in the Sand
    [72F] 0x0F4B9E35872A6ED9: Check the Observatory’s Records.
    [730] 0xA9096B84766A68C9: Thanks so much for digging out there! My back just isn’t up to it these days.
-   [731] 0x1C67A4A97DB38887: According to the Observatory records you found, two objects fell into the drying sea that night: a large craft that became the Mysterious Door, and a smaller object that exploded in the atmosphere. Dig for any traces of it by excavating Wasteland Dig Sites./n/nEP11_StoryArc_Wasteland02
+   [731] 0x1C67A4A97DB38887: According to the Observatory records you found, two objects fell into the drying sea that night: a large craft that became the Mysterious Door, and a smaller object that exploded in the atmosphere. Dig for any traces of it by excavating Wasteland Dig Sites.\n\nEP11_StoryArc_Wasteland02
    [732] 0x3106287488F5FE3E: Sweating for Science
    [733] 0xF0E94129E2D1E3EE: Excavate Dig Site heaps in the Wasteland.
    [734] 0x79BE3E9DD4C04624: I’m so pleased to see you feeling better! When you’ve rested, we’ve got pressing research to do.
-   [735] 0x4C41AFDDC1072D70: Great woolly llamas, you look unwell! I’ve heard some terrible diseases lurk in the Wasteland, left behind once the ocean dried. Inter-dimensional pathogens are a specialty of mine, but this is a local virus. Go to the Hospital; they’ll clear it up right away!/n/nEP11_StoryArc_Wasteland03
+   [735] 0x4C41AFDDC1072D70: Great woolly llamas, you look unwell! I’ve heard some terrible diseases lurk in the Wasteland, left behind once the ocean dried. Inter-dimensional pathogens are a specialty of mine, but this is a local virus. Go to the Hospital; they’ll clear it up right away!\n\nEP11_StoryArc_Wasteland03
    [736] 0x4AA4DA69361FAC3F: A Sickly Setback
    [737] 0x940CF208E4C8541B: Get treated at the Hospital.
    [738] 0x2424939880CB0873: My goodness, what a beauty! I can’t wait to get it near that Mysterious Door.
-   [739] 0xECB7D3F46653AC89: While you recovered from that ghastly illness, I was hard at work on your excavated samples. That exploded meteor in the past may actually have been an artifact to unlock the door! Comb the Wasteland for fragments; you’ll know them when you see them./n/nEP11_StoryArc_Wasteland04
+   [739] 0xECB7D3F46653AC89: While you recovered from that ghastly illness, I was hard at work on your excavated samples. That exploded meteor in the past may actually have been an artifact to unlock the door! Comb the Wasteland for fragments; you’ll know them when you see them.\n\nEP11_StoryArc_Wasteland04
    [73A] 0x31B52C86330F15AC: Assembling the Key
    [73B] 0xB81CAF743F7D7D88: Collect and assemble Wasteland Key Fragments.
    [73C] 0x5D3DAEE883789E4E: Oh, that’s how it works! That seems obvious in retrospect. I’m practically exploding with anticipation!
-   [73D] 0xF16FA4DB858D604A: Now that you’ve done the hard work to collect Key Fragments, it’s time for the fun part! Take the Assembled Key to the Mysterious Door. I’m not sure how to use it, but you’ve come a long way as an explorer. You’ll figure it out!/n/nEP11_StoryArc_Wasteland05
+   [73D] 0xF16FA4DB858D604A: Now that you’ve done the hard work to collect Key Fragments, it’s time for the fun part! Take the Assembled Key to the Mysterious Door. I’m not sure how to use it, but you’ve come a long way as an explorer. You’ll figure it out!\n\nEP11_StoryArc_Wasteland05
    [73E] 0x6236F67B7EAB6635: To the Waste, with Haste
    [73F] 0x693206726F8EE4C5: Insert the Assembled Key.
    [740] 0xC3FA3E5047F33E75: Great rampaging gnomes! The Ship sounds so wonderful! Tell me about absolutely everything you saw in there.
-   [741] 0x26F74B3F2E24ADBB: You know what? As excited as I am to see what’s behind that door, in a craft from another world, I’ve decided to stay outside. You’ve done all the work to get us here and open this treasure trove; its contents should be yours alone./n/nEP11_StoryArc_Wasteland06
+   [741] 0x26F74B3F2E24ADBB: You know what? As excited as I am to see what’s behind that door, in a craft from another world, I’ve decided to stay outside. You’ve done all the work to get us here and open this treasure trove; its contents should be yours alone.\n\nEP11_StoryArc_Wasteland06
    [742] 0x8D290892F8C60A9A: Cracking the Seal
    [743] 0xD6E65A51C3C166CA: Explore the Crashed Ship and report back to the Time Traveler.
    [744] 0xF31352CDBFA564F1: Great woolly llamas, you’re brilliant! My readouts show the Dystopia timeline has reverted to its original state!
@@ -1868,51 +1868,51 @@ Unknown3: 0x00000000
    [747] 0x40272BCBD8E9FB86: Reverse Psychology
    [748] 0xA51880B78DDC9BC6: Convinced {0.Number} of {1.Number} Sims that the Sky isn’t Falling.
    [749] 0xC6D845FC00F728A7: Thanks for attending the League of Concerned Doomsayers Meeting. I hope they had free coffee and donuts, at least.
-   [74A] 0x37C306E5496C7145: That worked better than I thought! Not only did we change the Earth’s gravitational pull to attract meteors, but a group called the League of Concerned Doomsayers sprung up. It looks like you’re on the right track to changing the Future! Go to their meeting and see how serious they are!/n/nEP11_Trigger_DystopiaFuture2
+   [74A] 0x37C306E5496C7145: That worked better than I thought! Not only did we change the Earth’s gravitational pull to attract meteors, but a group called the League of Concerned Doomsayers sprung up. It looks like you’re on the right track to changing the Future! Go to their meeting and see how serious they are!\n\nEP11_Trigger_DystopiaFuture2
    [74B] 0x147C32F398692FF9: Why wouldn’t you want to jump into a meeting of certified loonies? They have free coffee!
    [74C] 0xE63732EB087CAB80: The League of Concerned Doomsayers
    [74D] 0x54D20B774F078C8C: Attend a Doomsayers Meeting at City Hall.
    [74E] 0xE306CE54F33737D2: Great work! After you talked to the community, I’ve been hearing meteor talk on every street corner.
-   [74F] 0x79963EC0EA4FBA36: Great wooly llamas! They really think the world is going to end? This is better than expected! I’m not sure there were enough people at the meeting to really start a movement. Go around town and spread the word that the Sky is Falling. Let’s get everyone thinking the end is near!/n/nEP11_Trigger_DystopiaFuture3
+   [74F] 0x79963EC0EA4FBA36: Great wooly llamas! They really think the world is going to end? This is better than expected! I’m not sure there were enough people at the meeting to really start a movement. Go around town and spread the word that the Sky is Falling. Let’s get everyone thinking the end is near!\n\nEP11_Trigger_DystopiaFuture3
    [750] 0x5DB7C9E3E122BC4B: Convince {1.Number} Sims that The Sky is Falling.
    [751] 0x90BBBCE3FDC265C9: Fire in the Skies
    [752] 0x28074868A6D2C4B9: Successfully convinced {0.Number} of {1.Number} Sims that The Sky is Falling.
    [753] 0xF7BD3EF490F19555: You were so convincing that, for a moment, I thought you really did despise the environment!
-   [754] 0x2305AFBA44C4351B: You’ve done it! The town is convinced the world really will end! It’s looking a little too clean around here. You should convince everyone to litter everywhere! If no one cares, I’m sure the Future will change for the worse! Successfully Joke about Trash Talking the Environment and let’s see how much garbage will pile up./n/nEP11_Trigger_DystopiaFuture4
+   [754] 0x2305AFBA44C4351B: You’ve done it! The town is convinced the world really will end! It’s looking a little too clean around here. You should convince everyone to litter everywhere! If no one cares, I’m sure the Future will change for the worse! Successfully Joke about Trash Talking the Environment and let’s see how much garbage will pile up.\n\nEP11_Trigger_DystopiaFuture4
    [755] 0xE967621F77D8B2F0: Trash Talk the Environment to {1.Number} Sims.
    [756] 0xD7560F1F6D66EE7A: Pushing the Envelope
    [757] 0x0792538DA7BB22AA: Successfully Trash Talked the environment {0.Number} of {1.Number} times.
    [758] 0xA944604A761804F7: Isn’t the Meteor Magnet grand? I love using it to light up the night sky!
-   [759] 0x7D23B141923117F5: You want to change the Future for the worse? Let’s start by causing some destruction and mayhem! This old magnet I have should do the trick by attracting meteors to town. Take this Meteor Magnet and point it towards the sky to attract some meteors. It’s bound to garner some attention./n/nEP11_Trigger_DystopiaFuture
+   [759] 0x7D23B141923117F5: You want to change the Future for the worse? Let’s start by causing some destruction and mayhem! This old magnet I have should do the trick by attracting meteors to town. Take this Meteor Magnet and point it towards the sky to attract some meteors. It’s bound to garner some attention.\n\nEP11_Trigger_DystopiaFuture
    [75A] 0x98B06A002BBF9C0E: Use the Meteor Magnet {1.Number} times outside.
    [75B] 0xAAF8BF003660A6D0: A Minor Indulgence
    [75C] 0xE4D4E0A804D8A6FC: Used Meteor Magnet {0.Number} out of {1.Number} times.
    [75D] 0xC56FE5EC012D14F6: Well, the Dew hasn’t melted you. I was slightly worried about that. How do you feel?
-   [75E] 0xD3ED8C90E4B1A122: Great llamas! This data confirms that my goopy Dew has the potential to unleash the inner whimsical side of Sims! Happy Sims will lead to a happy Future, right? First we need a test subject... Since I need to operate the scanner, let’s choose... You! Don’t be scared, it’s for science!/n/nEP11_Trigger_UtopiaFuture2
+   [75E] 0xD3ED8C90E4B1A122: Great llamas! This data confirms that my goopy Dew has the potential to unleash the inner whimsical side of Sims! Happy Sims will lead to a happy Future, right? First we need a test subject... Since I need to operate the scanner, let’s choose... You! Don’t be scared, it’s for science!\n\nEP11_Trigger_UtopiaFuture2
    [75F] 0x62706E86643E0E7D: Dewing a Trial Run
    [760] 0x1DA2BF178BEC89FD: Use Dew on yourself.
    [761] 0xC050BB7DA19D8B1B: Your Dewing spree created such emotional resonance that I was able to detect it even in here!
-   [762] 0x6B2E900BC5AD8D41: It works! Your readings were off the chart! Your quarks have acquired a distinctly whimsical spin, with only a small, colorful side effect! Just one Sim isn’t enough to make a difference - we need more! Take my whole stock of Dew and splash your fellow Sims with it./n/nEP11_Trigger_UtopiaFuture3
+   [762] 0x6B2E900BC5AD8D41: It works! Your readings were off the chart! Your quarks have acquired a distinctly whimsical spin, with only a small, colorful side effect! Just one Sim isn’t enough to make a difference - we need more! Take my whole stock of Dew and splash your fellow Sims with it.\n\nEP11_Trigger_UtopiaFuture3
    [763] 0x94A1F79273C621FA: Use Dew {1.Number} times on other Sims.
    [764] 0x6167E49256F8B234: Spreading Good Cheer
    [765] 0x1A09FA3D726F13C0: Use Dew on Sims {0.Number} out of {1.Number} times.
    [766] 0x4BD9F335ED0FE72C: It’s done! I can smell the joy descending on all Simkind. Here’s to peace and rainbow skies!
-   [767] 0x71555C9218A40308: I’ve been keeping track of your progress and sadly, just splashing a few Sims won’t do it. In the meantime, I’ve modified my last goop of Dew into an aerosol spray form. This’ll pack enough punch to affect a whole region! Hand it off to the local Military Base and their pilots will seed the atmosphere. /n/nEP11_Trigger_UtopiaFuture4
+   [767] 0x71555C9218A40308: I’ve been keeping track of your progress and sadly, just splashing a few Sims won’t do it. In the meantime, I’ve modified my last goop of Dew into an aerosol spray form. This’ll pack enough punch to affect a whole region! Hand it off to the local Military Base and their pilots will seed the atmosphere.\n\nEP11_Trigger_UtopiaFuture4
    [768] 0x0B3C9279A223E5C7: Planting Seeds of Joy
    [769] 0xCEC29D377C6B2E93: Visit the Military Base.
    [76A] 0x30FA96F81DB55F5C: Nothing makes me happier than a Scanner full of piping hot data. I’ll need further assistance soon.
-   [76B] 0x4A54230C2A481318: You want to make the Future a better place? If my cheerful calculations are correct, we can use this goopy stuff I call Dew to make everyone happier! Take this scanner I cobbled together and gather some data of Sims laughing to confirm my calculations./n/nEP11_Trigger_UtopiaFuture
+   [76B] 0x4A54230C2A481318: You want to make the Future a better place? If my cheerful calculations are correct, we can use this goopy stuff I call Dew to make everyone happier! Take this scanner I cobbled together and gather some data of Sims laughing to confirm my calculations.\n\nEP11_Trigger_UtopiaFuture
    [76C] 0x305218B44B98CA74: Altering the Future can have many unintended consequences. Let’s suspend our experiment on changing the Future.
    [76D] 0x8F4E4955816738D1: Scan {1.Number} Sims while they laugh.
    [76E] 0x5C4A545564C78BB7: Scanning for Smiles
    [76F] 0x45BF4B15D9F72E23: Successfully scanned {0.Number} of {1.Number} Sims while they laugh.
    [770] 0xC5692FF2B14DA145: Those nerds know nothing of Time Travel, but a meteor shield might be within their... limited capabilities.
-   [771] 0xC4A2F7DA6A74F7EB: Our innocent, well-intentioned experiment has gone awry! Surprising how often that happens. The Future has become a filthy, polluted, meteor-scarred Dystopia! If we’re going to fix this, the meteors are priority one. Warn those "geniuses" at the Science Lab of the coming meteor-pocalypse./n/nEP11_Undo_DystopiaFuture
+   [771] 0xC4A2F7DA6A74F7EB: Our innocent, well-intentioned experiment has gone awry! Surprising how often that happens. The Future has become a filthy, polluted, meteor-scarred Dystopia! If we’re going to fix this, the meteors are priority one. Warn those "geniuses" at the Science Lab of the coming meteor-pocalypse.\n\nEP11_Undo_DystopiaFuture
    [772] 0x1BD5CD81F7FB52E3: You think Sims have benefitted by living in a dangerous world with falling meteors and stinky trash piles? Tough to argue with you there!
    [773] 0x3AD31958EB7A066A: Undoing Ruin
    [774] 0x856FA49FA344453A: Visit the Science Lab.
    [775] 0xD21FB7CCC44BFFB6: It seems I was wrong from the start. True happiness has to be earned, not granted.
-   [776] 0xB9804DC6CEE906E2: After much reflection, I don’t think we did the right thing in creating this Utopia. Sims’ flaws aren’t fixed, they’re just masked and nobody gets a chance to learn any hard lessons. We can undo the atmospheric seeding with this compound; do the right thing./n/nEP11_Undo_UtopiaFuture
+   [776] 0xB9804DC6CEE906E2: After much reflection, I don’t think we did the right thing in creating this Utopia. Sims’ flaws aren’t fixed, they’re just masked and nobody gets a chance to learn any hard lessons. We can undo the atmospheric seeding with this compound; do the right thing.\n\nEP11_Undo_UtopiaFuture
    [777] 0x219BB474F7328F62: So you wanted to keep the Utopian Future a world a harmony and bliss? I can agree with you – it’s a wonderful place!
    [778] 0x267DAB033187E23D: A Necessary Sacrifice
    [779] 0x227B6109E4AA03BD: Visit the Military Base.
