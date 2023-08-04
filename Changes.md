@@ -93,17 +93,24 @@
 + Text Fixes
   + MEMORIES
     + Bake Table Robbed
+    + Picked Up {1.SimFirstName}
   + Birthday Message
     + Age up to child
+  + Newspaper News
+    + Local Farmers Celebrate Fresh Produce
+  + Rephrased
+    + Setting the price for the Bake Table
++ Minor Fixes
+  + Unnecessary spaces after punctuation
 + Added Opportunities' GUID to Descriptions
   + ALL
     + EP4_Generations
     + EP5_Pets
     + EP6_Showtime
+    + EP7_Supernatural
     + EP10_IslandParadise
   + SOME, not all
     + BaseGame
-    + EP7_Supernatural
     + EP11_IntoTheFuture
 
 # Planned Changes
