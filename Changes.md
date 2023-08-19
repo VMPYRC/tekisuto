@@ -120,6 +120,7 @@
 + Added Opportunities' GUID to Descriptions
   + SOME
     + BaseGame
+    + EP9_UniversityLife
 
 # Planned Changes
 

@@ -1329,181 +1329,181 @@ Unknown3: 0x00000000
    [52C] 0xFAE0DF61E6E652BF: Butch Andrews
    [52D] 0x1811E5F28A04CE11: Core Coed Curriculum
    [52E] 0xA9B6381F6A6916A2: That extra credit might come in handy at the end of the term!
-   [52F] 0xEC8B243E31962466: In the modern economy, fancy offices aren’t necessary. Businesses can be built and run from the home! Your professor will reward you with extra credit for creating a business plan.
+   [52F] 0xEC8B243E31962466: In the modern economy, fancy offices aren’t necessary. Businesses can be built and run from the home! Your professor will reward you with extra credit for creating a business plan.\n\nEP9_Academics_Business_01
    [530] 0xEAA468DACD37157E: You didn’t receive extra credit.
    [531] 0xDD12B9B4A3D46B7B: Develop a business plan with your Business Planner from home.
    [532] 0x12A3ACB4C29F4CD9: Work on Business Plan at Home
    [533] 0x4635716ABF33BC29: Develop a business plan with your Business Planner from home.
    [534] 0x23691BB1E776A079: That extra credit might come in handy at the end of the term!
-   [535] 0x24B0A70FA16C9AD7: Public speaking is never easy, but you’d feel better practicing the slideshow at home. Your Business professors will appreciate the extra preparation with extra credit.
+   [535] 0x24B0A70FA16C9AD7: Public speaking is never easy, but you’d feel better practicing the slideshow at home. Your Business professors will appreciate the extra preparation with extra credit.EP9_Academics_Business_02
    [536] 0xCC4F168BE4EF0347: You didn’t receive extra credit.
    [537] 0x1DD809CCBB7ABFDC: Practice your latest business presentation on a home Business Planner unit.
    [538] 0x5038DECCD78FD4AE: Work on Business Presentation at Home
    [539] 0x3E23DB2E0A9DD73E: Practice your latest business presentation on a home Business Planner unit.
    [53A] 0xAD3D17DFC5ABF194: That extra credit might come in handy at the end of the term!
-   [53B] 0xFA12295E22527600: Sometimes your home isn’t the best place for concentration. The entrepreneurial mind needs breathing room, and your professors will appreciate your willingness to change your daily routines with some extra credit.
+   [53B] 0xFA12295E22527600: Sometimes your home isn’t the best place for concentration. The entrepreneurial mind needs breathing room, and your professors will appreciate your willingness to change your daily routines with some extra credit.\n\nEP9_Academics_Business_03
    [53C] 0x9CF52B8062F3267C: You didn’t receive extra credit.
    [53D] 0x9D12A5C1A188A819: Work on your business plan with the Business Planner at the {OpTarget}.
    [53E] 0x6AB190C1857326EF: Work on Business Plan at the {OpTarget}
    [53F] 0x4B76F67138A6FD2B: Work on your business plan with the Business Planner at the {OpTarget}.
    [540] 0x550DF759410B0EE3: That extra credit might come in handy at the end of the term!
-   [541] 0x7AAD9CD13932C359: If you’re going to give a presentation, you’ll need to practice. Your professors will sniff out any poorly-prepared work, so ensure all your bases are covered. Be sure to use sports metaphors when speaking and the extra credit will be yours!
+   [541] 0x7AAD9CD13932C359: If you’re going to give a presentation, you’ll need to practice. Your professors will sniff out any poorly-prepared work, so ensure all your bases are covered. Be sure to use sports metaphors when speaking and the extra credit will be yours!\n\nEP9_Academics_Business_04
    [542] 0x7B393DE804B7C4B5: You didn’t receive extra credit.
    [543] 0x8752D5DEA12D71D2: Take your Business Planner to the {OpTarget} and practice a presentation.
    [544] 0x5527E2DE8545B89C: Practice Business Presentation at the {OpTarget}
    [545] 0x47797A4E56E866D8: Take your Business Planner to the {OpTarget} and practice a presentation.
    [546] 0x18B603B558E821BE: That extra credit might come in handy at the end of the term!
-   [547] 0xDC7082BBBDBF7D9A: An online presence helps any business grow. Post your opinions and build a consumer following. All your online posts are available to your professor; attract some attention for some extra credit.
+   [547] 0xDC7082BBBDBF7D9A: An online presence helps any business grow. Post your opinions and build a consumer following. All your online posts are available to your professor; attract some attention for some extra credit.\n\nEP9_Academics_Business_05
    [548] 0x1CC751193FD62D5A: You didn’t receive extra credit.
    [549] 0x679FE1D29C7464EF: Go online and post a blog
    [54A] 0x56316CD2928CC7A5: Post a Blog
    [54B] 0x3198D9FFE8ECC4D5: Go online and post a blog.
    [54C] 0x5F287A564EC37F25: That extra credit might come in handy at the end of the term!
-   [54D] 0x752414A69251434B: No great blog was built in a day. Consistent, on-topic posts are the key to increased traffic. These are the principles you’ve been taught, and your professor is giving some extra credit for producing some content!
+   [54D] 0x752414A69251434B: No great blog was built in a day. Consistent, on-topic posts are the key to increased traffic. These are the principles you’ve been taught, and your professor is giving some extra credit for producing some content!\n\nEP9_Academics_Business_06
    [54E] 0x47C9CBB46640EF43: You didn’t receive extra credit.
    [54F] 0xBE6D51EB51D212E0: Make 3 blog posts.
    [550] 0xAC5BFEEB47604E4A: Blogs for Credit
    [551] 0x110A273EF554E81A: Make 3 blog posts.
    [552] 0xD7160EAF67F73FE0: That extra credit might come in handy at the end of the term!
-   [553] 0xF774C540B201AB84: Networking is the key to moving up in the business world. Get out there and mingle. Count up the business cards you collect and report back to your professors for some extra credit.
+   [553] 0xF774C540B201AB84: Networking is the key to moving up in the business world. Get out there and mingle. Count up the business cards you collect and report back to your professors for some extra credit.\n\nEP9_Academics_Business_07
    [554] 0xD9556DE5F6870CC8: You didn’t receive extra credit.
    [555] 0x48353DE435177A5D: Meet 3 new Sims.
    [556] 0x5A4690E43F893EEB: Meeting New Sims
    [557] 0x0DD7097E98B0B1F7: Meet 3 new Sims.
    [558] 0x120549B91995C00F: That extra credit might come in handy at the end of the term!
-   [559] 0xB5C659F71755113D: The best business opportunities come from your friends. All the reason to have more of them! This is a special extra credit assignment to expand your social sphere through cold, calculating cynicism.
+   [559] 0xB5C659F71755113D: The best business opportunities come from your friends. All the reason to have more of them! This is a special extra credit assignment to expand your social sphere through cold, calculating cynicism.\n\nEP9_Academics_Business_08
    [55A] 0x3F848BB6208C75F1: You didn’t receive extra credit.
    [55B] 0xDE43AD795D8F8DB6: Meet a Sim and become friends.
    [55C] 0xF0550279680155E8: Make a New Friend
    [55D] 0x0480BDEE069402A4: Meet a Sim and become friends.
    [55E] 0xF5E64622B8DF581A: That extra credit might come in handy at the end of the term!
-   [55F] 0x023A6A291B0B722E: The world is full of valuable natural goodies. If you don’t profit off them, someone else will! Report the earnings back to your professor for extra credit.
+   [55F] 0x023A6A291B0B722E: The world is full of valuable natural goodies. If you don’t profit off them, someone else will! Report the earnings back to your professor for extra credit.\n\nUNKNOWN GUID
    [560] 0xCA14E4ADBA3B60A6: You didn’t receive extra credit.
    [561] 0x68787972413190A3: Sell {10.Money} worth of harvestables.
    [562] 0x9AD98C725D470F31: Sell Harvestables
    [563] 0x471305B86C263DD1: Sell {10.Money} worth of harvestables.
    [564] 0xF326DF282D0EF948: That extra credit might come in handy at the end of the term!
-   [565] 0x1302A0E3B1210D1C: Insect collections are great investments; everyone knows that. The time has come to sell yours. If you can net enough Simoleons, there’s a professor that’ll swarm to give you extra credit.
+   [565] 0x1302A0E3B1210D1C: Insect collections are great investments; everyone knows that. The time has come to sell yours. If you can net enough Simoleons, there’s a professor that’ll swarm to give you extra credit.\n\nUNKNOWN GUID
    [566] 0x7E9ECC2C69E12C80: You didn’t receive extra credit.
    [567] 0xA402A1B0AB337D95: Raise {10.Money} by selling insects.
    [568] 0xB570F4B0B51AE093: Sell Insects
    [569] 0x85FC26556FE70B8F: Raise {10.Money} by selling insects.
    [56A] 0x3280C2388602AC2D: That extra credit might come in handy at the end of the term!
-   [56B] 0x13A4957077727683: Your own skills are the hardest product to sell. Your professor thinks a class might put you in better situations to sell your skills and is offering extra credit for attending.
+   [56B] 0x13A4957077727683: Your own skills are the hardest product to sell. Your professor thinks a class might put you in better situations to sell your skills and is offering extra credit for attending.\n\nEP9_Academics_Business_11
    [56C] 0x075922B007F2EE7B: You didn’t receive extra credit.
    [56D] 0x19CE95B7C792C178: Attend a Resume Writing and Interview class.
    [56E] 0x078742B7BCF36D52: Resume Writing and Interview Class
    [56F] 0xDC3C1C7815FB49B2: Attend a Resume Writing and Interview class.
    [570] 0x5BDC9F97E27CAB06: That extra credit might come in handy at the end of the term!
-   [571] 0x2EC4210569797992: It’s easy to disbelieve your ears; your eyes are a harder sell. Change minds on the whiteboard. When your professor sees the one-glance logic, you’ll surely get some extra credit.
+   [571] 0x2EC4210569797992: It’s easy to disbelieve your ears; your eyes are a harder sell. Change minds on the whiteboard. When your professor sees the one-glance logic, you’ll surely get some extra credit.\n\nEP9_Academics_Business_12
    [572] 0xBA0976936632E712: You didn’t receive extra credit.
    [573] 0xD976459FB0493E27: Draw up a chart on a whiteboard at the {OpTarget}.
    [574] 0xC765109FA5D7AC8D: Make Charts on a Whiteboard
    [575] 0xBCCED9CE587EAD2D: Draw up a chart on a whiteboard at the {OpTarget}.
    [576] 0x2991B033C4C422EB: That extra credit might come in handy at the end of the term!
-   [577] 0xD3D3F199C4F87871: Business is the art of making deals. Sell your ideas and make your investors an unbeatable offer! Use a whiteboard to present your plan and your professor will reward you with extra credit.
+   [577] 0xD3D3F199C4F87871: Business is the art of making deals. Sell your ideas and make your investors an unbeatable offer! Use a whiteboard to present your plan and your professor will reward you with extra credit.\n\nEP9_Academics_Business_13
    [578] 0x8BE46A6656FDADAD: You didn’t receive extra credit.
    [579] 0xD01119AA7C18736A: Use a whiteboard to give a presentation at the {OpTarget}.
    [57A] 0x9A4946AA5D1E8504: Give a Presentation with a Whiteboard
    [57B] 0x5FA11B32729837F0: Use a whiteboard to give a presentation at the {OpTarget}.
    [57C] 0xA6113FD0814C413C: That extra credit might come in handy at the end of the term!
-   [57D] 0x3DA64851FBBCCD78: The greatest business mavens don’t go into their speeches cold. Preparation leads to paydays, so rehearse! Your professor will like what you have to say and toss some extra credit your way.
+   [57D] 0x3DA64851FBBCCD78: The greatest business mavens don’t go into their speeches cold. Preparation leads to paydays, so rehearse! Your professor will like what you have to say and toss some extra credit your way.\n\nEP9_Academics_Business_14
    [57E] 0x423EA9C6D64D7CD4: You didn’t receive extra credit.
    [57F] 0xF8DFE98E17A475B1: Practice a Speech at a Podium in the {OpTarget}.
    [580] 0xC5DBF48DFB04C897: Practice a Podium Speech
    [581] 0x18E72D9C7300F203: Practice a speech at a podium in the {OpTarget}.
    [582] 0xDE43A23DFF89FFA1: That extra credit might come in handy at the end of the term!
-   [583] 0x7F945072E5EA296F: No Sim alive has your business know-how. Get up there and share your wisdom with the world! Show your professor you’ve earned that extra credit. Project confidence and the world will follow!
+   [583] 0x7F945072E5EA296F: No Sim alive has your business know-how. Get up there and share your wisdom with the world! Show your professor you’ve earned that extra credit. Project confidence and the world will follow!\n\nEP9_Academics_Business_15
    [584] 0x5B8F74D1BA904D3F: You didn’t receive extra credit.
    [585] 0x63302D98938261B4: Give a lecture at a podium at the {OpTarget}.
    [586] 0x98C12298B24D46B6: Give a Podium Lecture
    [587] 0xEF75A6A9E02A6496: Give a lecture at a podium at the {OpTarget}.
    [588] 0xA64887B9EB1785E8: That extra credit might come in handy at the end of the term!
-   [589] 0x7DC0B08999A8013C: The best reporters win plaques and medals for wading into excitement and danger, broadcasting crucial information from remote locations. The best Communications students are rewarded with extra credit for doing the same.
+   [589] 0x7DC0B08999A8013C: The best reporters win plaques and medals for wading into excitement and danger, broadcasting crucial information from remote locations. The best Communications students are rewarded with extra credit for doing the same.\n\nEP9_Academics_Communication_01
    [58A] 0x7A15F65CD43A0FA0: You didn’t receive extra credit.
    [58B] 0x7DB12EB843210135: File a remote report using the mobile radio station.
    [58C] 0x8F1F81B84D086433: Report on Events
    [58D] 0x26F5F69A220DD22F: File a remote report using the mobile radio station.
    [58E] 0x725CFB30E7D4E88B: That extra credit might come in handy at the end of the term!
-   [58F] 0x03C55B50F8518291: When major news occurs, it’s important to speak with the Sims who made the news. Ask the important questions with your brow furrowed in appropriate concern and impress your professor for some extra credit in the process!
+   [58F] 0x03C55B50F8518291: When major news occurs, it’s important to speak with the Sims who made the news. Ask the important questions with your brow furrowed in appropriate concern and impress your professor for some extra credit in the process!\n\nEP9_Academics_Communication_02
    [590] 0x441661A3E4AE83CD: You didn’t receive extra credit.
    [591] 0xFCDDA6AD29226F0A: Conduct an interview with another Sim on your mobile radio station.
    [592] 0xCA7CD3AD0D0D5DA4: Conduct a Live Interview
    [593] 0x048F2E51CBC37B90: Conduct an interview with another Sim on your mobile radio station.
    [594] 0x0D9E935A7D4646A6: That extra credit might come in handy at the end of the term!
-   [595] 0x03D78E3FECF680B2: When you call out your byline on camera, it needs to be snappy, memorable and consistent! Even a momentary drop in energy will draw the ire of your professor coughing up extra credit.
+   [595] 0x03D78E3FECF680B2: When you call out your byline on camera, it needs to be snappy, memorable and consistent! Even a momentary drop in energy will draw the ire of your professor coughing up extra credit.\n\nEP9_Academics_Communication_03
    [596] 0x62766DEB63662B32: You didn’t receive extra credit.
    [597] 0xB323D2A748350EC7: Practice your public speaking in front of a mirror.
    [598] 0xA1129DA73DC37D2D: Practice Speech
    [599] 0x612EAA130D889CCD: Practice your public speaking in front of a mirror.
    [59A] 0xF26120ECB8319841: That extra credit might come in handy at the end of the term!
-   [59B] 0xBE428ABF779F438F: They say a picture’s worth a thousand words. If true, photography is perfect for lazy writers—but your professor doesn’t see it that way. Earn some extra credit by taking a photo!
+   [59B] 0xBE428ABF779F438F: They say a picture’s worth a thousand words. If true, photography is perfect for lazy writers—but your professor doesn’t see it that way. Earn some extra credit by taking a photo!\n\nEP9_Academics_Communication_04
    [59C] 0x57069F0224E9305F: You didn’t receive extra credit.
    [59D] 0x3CDEBAA02B6FE554: Take a photo with a Camera or a Smart Phone.
    [59E] 0x726EAFA04A391756: Take a Photo
    [59F] 0xE4F24C7145C9F136: Take a photo with a Camera or a Smart Phone.
    [5A0] 0x53F8F16D2E9D3BDC: That extra credit might come in handy at the end of the term!
-   [5A1] 0xA86457F7E443C098: With self-photography the biggest question is always: what kind of filter will best hide your blemishes? Shoot from high angles to maximize your foxiness. Put the whole package together to earn extra credit from your professor.
+   [5A1] 0xA86457F7E443C098: With self-photography the biggest question is always: what kind of filter will best hide your blemishes? Shoot from high angles to maximize your foxiness. Put the whole package together to earn extra credit from your professor.\n\nEP9_Academics_Communication_05
    [5A2] 0x3DB5D3F740A65FF4: You didn’t receive extra credit.
    [5A3] 0xD28E7695AF91F951: Take a self portrait with your Smart Phone.
    [5A4] 0x9F8A819592F24C37: Take a Self Portrait
    [5A5] 0x13CBFDDC400C36A3: Take a self portrait with your Smart Phone.
    [5A6] 0x39EE503099B8165F: That extra credit might come in handy at the end of the term!
-   [5A7] 0x63E1ED7B32E2942D: Connecting with your audience is crucial when developing a blog. Photographs add a nice personal touch, and your professors will surely reward your visual taste!
+   [5A7] 0x63E1ED7B32E2942D: Connecting with your audience is crucial when developing a blog. Photographs add a nice personal touch, and your professors will surely reward your visual taste!\n\nEP9_Academics_Communication_06
    [5A8] 0xC55793416FED3761: You didn’t receive extra credit.
    [5A9] 0x5C485E8E92CB1CE6: Post a photo to your personal blog.
    [5AA] 0x6E59B38E9D3CE438: Post a Blog Photo
    [5AB] 0x37B0402FAF245454: Post a photo to your personal blog.
    [5AC] 0xC85800C0592A11EA: That extra credit might come in handy at the end of the term!
-   [5AD] 0xF60E4E9FEA34671E: Sometimes the ideas swirling in your head reach critical mass. It’s time to get writing! When it’s done, hand a copy to your professors for a healthy ladling of extra credit.
+   [5AD] 0xF60E4E9FEA34671E: Sometimes the ideas swirling in your head reach critical mass. It’s time to get writing! When it’s done, hand a copy to your professors for a healthy ladling of extra credit.\n\nEP9_Academics_Communication_07
    [5AE] 0xDB22A624E9463E96: You didn’t receive extra credit.
    [5AF] 0x683AAA83C9275613: Get cracking and finish writing a book.
    [5B0] 0x9B747D83E5F45881: Write a Book
    [5B1] 0xA605CE83550D0E01: Get cracking and finish writing a book.
    [5B2] 0x1E955669A4452175: That extra credit might come in handy at the end of the term!
-   [5B3] 0x6E643E570D4966BB: Magazines and blogs are important, but educated minds need long-form focus. Books provide the needed stimulation, and your professor is eager to reward the most literate students.
+   [5B3] 0x6E643E570D4966BB: Magazines and blogs are important, but educated minds need long-form focus. Books provide the needed stimulation, and your professor is eager to reward the most literate students.\n\nEP9_Academics_Communication_08
    [5B4] 0x55870AE5D356DA33: You didn’t receive extra credit.
    [5B5] 0x3C720300870DA110: Find a good book, sit down and read it cover-to-cover.
    [5B6] 0x2DC6B0007F7F059A: Read a Book
    [5B7] 0xA8817EE8E1DB91CA: Find a good book, sit down and read it cover-to-cover.
    [5B8] 0x1EE1D6DEA54FDCF0: That extra credit might come in handy at the end of the term!
-   [5B9] 0x585B1222227E7F74:  Public protest is one of Simkind’s most powerful expressive tools. Harness it for yourself! When your civic-minded professor hears of your courage, your surely be rewarded with extra credit.
+   [5B9] 0x585B1222227E7F74:  Public protest is one of Simkind’s most powerful expressive tools. Harness it for yourself! When your civic-minded professor hears of your courage, your surely be rewarded with extra credit.\n\nEP9_Academics_Communication_09
    [5BA] 0xAB2B2EFFF8A1E0B8: You didn’t receive extra credit.
    [5BB] 0xF24C2EFAA5C521CD: Find a protest and participate in it.
    [5BC] 0x045D81FAB036E67B: Participate in a Protest
    [5BD] 0x52DC5AE567782AE7: Find a protest and participate in it.
    [5BE] 0x54E7679657DBFF96: That extra credit might come in handy at the end of the term!
-   [5BF] 0x1934143A7E5F0942: You can’t have a protest without other Sims. Boost your turnout with a megaphone. If you shout loud enough, your professor will hear the enthusiasm in your voice! Extra credit will come in bushels.
+   [5BF] 0x1934143A7E5F0942: You can’t have a protest without other Sims. Boost your turnout with a megaphone. If you shout loud enough, your professor will hear the enthusiasm in your voice! Extra credit will come in bushels.\n\nEP9_Academics_Communication_10
    [5C0] 0xEC8A8C5B94436EC2: You didn’t receive extra credit.
    [5C1] 0x5CB13289CCD076D7: Use a Megaphone to announce a protest.
    [5C2] 0x4A9FBD89C25E781D: Announce a Protest
    [5C3] 0xA9817BBAC6A9169D: Use a Megaphone to announce a protest.
    [5C4] 0x7B47CFA6AAF994BB: That extra credit might come in handy at the end of the term!
-   [5C5] 0x7855E14420559C61: Even the most responsible communicators can abuse their tools. Megaphones offer so many possibilities! Your professor has a good sense of humor and offers extra credit for having some fun on the megaphone.
+   [5C5] 0x7855E14420559C61: Even the most responsible communicators can abuse their tools. Megaphones offer so many possibilities! Your professor has a good sense of humor and offers extra credit for having some fun on the megaphone.\n\nEP9_Academics_Communication_11
    [5C6] 0xF56CF36844DB9EDD: You didn’t receive extra credit.
    [5C7] 0xD3564690E9E7E09A: Scare a fellow Sim silly with a megaphone.
    [5C8] 0x9CB53390CA3595D4: Scare a Sim
    [5C9] 0xA48A021189EE6360: Scare a fellow Sim silly with a megaphone.
    [5CA] 0x7E4E85E77B775998: That extra credit might come in handy at the end of the term!
-   [5CB] 0x37245A8322563F0C: Whether it’s plotting new stories or the logistics for your latest protest, whiteboards are the perfect explanatory surface. What better way to earn valuable extra credit than by wowing your professor with your idea?
+   [5CB] 0x37245A8322563F0C: Whether it’s plotting new stories or the logistics for your latest protest, whiteboards are the perfect explanatory surface. What better way to earn valuable extra credit than by wowing your professor with your idea?\n\nEP9_Academics_Communication_12
    [5CC] 0x7E8B881C498556B0: You didn’t receive extra credit.
    [5CD] 0x4FE98E9C00493945: Outline an idea using the whiteboard at the {OpTarget}.
    [5CE] 0x6231E19C0AEA4063: Outline an Idea
    [5CF] 0x0838FB2FCF1E0ABF: Outline an idea using the whiteboard at the {OpTarget}.
    [5D0] 0x711EEDDD9273F57D: That extra credit might come in handy at the end of the term!
-   [5D1] 0x98D6A9E6216D3373: Use the mighty and unassailable logic of whiteboard presentations to rally other Sims around your cause. A truly compelling presentation will win hearts, minds, and extra credit.
+   [5D1] 0x98D6A9E6216D3373: Use the mighty and unassailable logic of whiteboard presentations to rally other Sims around your cause. A truly compelling presentation will win hearts, minds, and extra credit.\n\nEP9_Academics_Communication_13
    [5D2] 0xBAE3A2FBA5F9C06B: You didn’t receive extra credit.
    [5D3] 0x9DE382A1E4D39D68: Give a presentation using the whiteboard at the {OpTarget}.
    [5D4] 0x8B9B2FA1DA329622: Give a Whiteboard Presentation
    [5D5] 0x377B249D96CBB4E2: Give a presentation using the whiteboard at the {OpTarget}.
    [5D6] 0x9667E5171BCDF09A: That extra credit might come in handy at the end of the term!
-   [5D7] 0xAD14036D367893AE: This speech is crucial to you future career as a communicator. You’ve got to practice it, or your professor will know you didn’t prepare. Nail the speech and you’ll score extra credit!
+   [5D7] 0xAD14036D367893AE: This speech is crucial to you future career as a communicator. You’ve got to practice it, or your professor will know you didn’t prepare. Nail the speech and you’ll score extra credit!\n\nEP9_Academics_Communication_14
    [5D8] 0x00EEEF2CD62D2A26: You didn’t receive extra credit.
    [5D9] 0xBC1BCA6B3678ED23: Practice a speech using the podium at the {OpTarget}.
    [5DA] 0xEE7CDD6B528E6BB1: Practice a Podium Speech
    [5DB] 0x6D5C5BB4E7FFA251: Practice a speech using the podium at the {OpTarget}.
    [5DC] 0xB286E8AD7C84588F: That extra credit might come in handy at the end of the term!
-   [5DD] 0x609FF33B32C232BD: Journalists and broadcasters make most of their Simoleons lecturing. This is an important moment for your future, so make the most of it. Impress not just any Sim, but your professors as well for extra credit!
+   [5DD] 0x609FF33B32C232BD: Journalists and broadcasters make most of their Simoleons lecturing. This is an important moment for your future, so make the most of it. Impress not just any Sim, but your professors as well for extra credit!\n\nEP9_Academics_Communication_15
    [5DE] 0x765E96353C7E3F71: You didn’t receive extra credit.
    [5DF] 0x31E6FE7252D6EA36: Give a lecture at a podium at the {OpTarget}.
    [5E0] 0x43F853725D48B268: Give a Podium Lecture
@@ -1515,319 +1515,319 @@ Unknown3: 0x00000000
    [5E6] 0x92C0B1B9586CF4DD: Group Study
    [5E7] 0xC4EC5EF3C485315D: Form a study group.
    [5E8] 0x46197FA6941FA0EA: That extra credit might come in handy at the end of the term!
-   [5E9] 0x9B67EFD61976641E: Leonardo himself did nothing without practice. Sketch your hopes and dreams out on paper. You’ll receive extra credit for even the simplest doodles, provided you take the work of artistic practice seriously.
+   [5E9] 0x9B67EFD61976641E: Leonardo himself did nothing without practice. Sketch your hopes and dreams out on paper. You’ll receive extra credit for even the simplest doodles, provided you take the work of artistic practice seriously.\n\nEP9_Academics_FineArts_01
    [5EA] 0x8128E93394DAEB96: You didn’t receive extra credit.
    [5EB] 0x15CDFC242C015D13: Hone your visual-art skills by practicing sketching.
    [5EC] 0x4907CF2448CE5F81: Practice Sketching
    [5ED] 0x5756C070E2AF0501: Hone your visual-art skills by practicing sketching.
    [5EE] 0x70229FD2F3272741: That extra credit might come in handy at the end of the term!
-   [5EF] 0x639C2BF5A6E1408F: Sometimes a tableau just grips your attention. You feel compelled to capture it, eager to sketch and secure in the knowledge that it’ll secure some extra credit being offered by your professor.
+   [5EF] 0x639C2BF5A6E1408F: Sometimes a tableau just grips your attention. You feel compelled to capture it, eager to sketch and secure in the knowledge that it’ll secure some extra credit being offered by your professor.\n\nEP9_Academics_FineArts_02
    [5F0] 0xFD0CE210D07DDD5F: You didn’t receive extra credit.
    [5F1] 0xEA720C408E49EC54: Use the sketchbook to sketch a still life.
    [5F2] 0x20020140AD131E56: Sketch a Still Life
    [5F3] 0x96433E5ED36BE836: Use the sketchbook to sketch a still life.
    [5F4] 0xD1BA70536992CADC: That extra credit might come in handy at the end of the term!
-   [5F5] 0x4DBDF92E1385BD98: The nude Sim body has always been an inspiration to artists. Anatomy is truth, as your professor always explains. You’re being offered extra credit to restrain your giggles and sketch a nude model.
+   [5F5] 0x4DBDF92E1385BD98: The nude Sim body has always been an inspiration to artists. Anatomy is truth, as your professor always explains. You’re being offered extra credit to restrain your giggles and sketch a nude model.\n\nUNKNOWN GUID
    [5F6] 0xE3BC1705EC3B0CF4: You didn’t receive extra credit.
    [5F7] 0x8021C836126C0051: Use your sketchbook to sketch a nude Sim.
    [5F8] 0x4D1DD335F5CC5337: Draw a Nude Sim
    [5F9] 0xC51CEFC9CDAE2DA3: Use your sketchbook to sketch a nude Sim.
    [5FA] 0xF01E7A1722CA778B: That extra credit might come in handy at the end of the term!
-   [5FB] 0xA91EFC8727937F91: Art doesn’t matter if the masses can’t see it. Public murals keep culture alive, and the University faculty is intent on sustaining street art. Extra credit is available for painting a mural!
+   [5FB] 0xA91EFC8727937F91: Art doesn’t matter if the masses can’t see it. Public murals keep culture alive, and the University faculty is intent on sustaining street art. Extra credit is available for painting a mural!\n\nEP9_Academics_FineArts_04
    [5FC] 0xEA1CA4B2904330CD: You didn’t receive extra credit.
    [5FD] 0xAA70F84D8BFC760A: Paint a street art mural.
    [5FE] 0x7810254D6FE764A4: Street Art
    [5FF] 0xB5E0203F59657290: Find a spot in town and paint Street Art.
    [600] 0x8B601240B83BD5A6: That extra credit might come in handy at the end of the term!
-   [601] 0xA9312F761C387DB2: Notoriety is just another word for fame. Make your name known around town and score some extra credit for your hard work! You wouldn’t expect credit for an essay without your name on it.
+   [601] 0xA9312F761C387DB2: Notoriety is just another word for fame. Make your name known around town and score some extra credit for your hard work! You wouldn’t expect credit for an essay without your name on it.\n\nEP9_Academics_FineArts_05
    [602] 0x087CB0FA0EFAD832: You didn’t receive extra credit.
    [603] 0x60B72447AB0F15C7: Create 3 street art tags or murals.
    [604] 0x4EA5EF47A09D842D: Making Street Art
    [605] 0x127F9C009B2A93CD: Create 3 street art tags or murals.
    [606] 0x0BAF68699A780DCD: That extra credit might come in handy at the end of the term!
-   [607] 0x8E11A3E12A317AA3: Portraiture is among the oldest artistic forms. It’s how great artists separate from the good ones. Your professor is offering extra credit for a demonstration, so find a willing subject!
+   [607] 0x8E11A3E12A317AA3: Portraiture is among the oldest artistic forms. It’s how great artists separate from the good ones. Your professor is offering extra credit for a demonstration, so find a willing subject!\n\nEP9_Academics_FineArts_06
    [608] 0xA8D58FEF1DDECA9B: You didn’t receive extra credit.
    [609] 0xA110745FC25A4B18: Use an easel to paint a portrait.
    [60A] 0x8EC8215FB7B944F2: Paint a Portrait
    [60B] 0x8309B42D093CCD52: Use an easel to paint a portrait.
    [60C] 0x240A06A0260D14E8: That extra credit might come in handy at the end of the term!
-   [60D] 0x231A51BFC8E9FE3C: Beauty is in the eye of the beholder, and your professor will cough up some extra credit if you can render beauty of your own with an easel.
+   [60D] 0x231A51BFC8E9FE3C: Beauty is in the eye of the beholder, and your professor will cough up some extra credit if you can render beauty of your own with an easel.\n\nEP9_Academics_FineArts_07
    [60E] 0x201C396B7FCEBCA0: You didn’t receive extra credit.
    [60F] 0x2B448058A5FB0835: Create a still life painting using an easel.
    [610] 0x3CB2D358AFE26B33: Paint a Still Life
    [611] 0xD846E887AFAFC92F: Create a still life painting using an easel.
    [612] 0x190C6CDEC6DE63C7: That extra credit might come in handy at the end of the term!
-   [613] 0xCCE2A9B904999CE5: Music doesn’t matter if nobody’s around to hear it. Take your musical skills to the masses! You’ll be rewarded with extra credit for a compelling performance.
+   [613] 0xCCE2A9B904999CE5: Music doesn’t matter if nobody’s around to hear it. Take your musical skills to the masses! You’ll be rewarded with extra credit for a compelling performance.\n\nEP9_Academics_FineArts_08
    [614] 0xF5F74BAFAC3CDE99: You didn’t receive extra credit.
    [615] 0x816FD0715ACFD1FE: Take your guitar to the {OpTarget} and play.
    [616] 0x90512571628BFFA0: Play Guitar
    [617] 0x63298023F8D694AC: Take your guitar to the {OpTarget} and play.
    [618] 0xEFF397CC77EDD6F2: That extra credit might come in handy at the end of the term!
-   [619] 0xBCF3E7C55E6656D6: You’ve gotten good enough with the Guitar. It’s time to command Simoleons as well as respect! Your professor offer extra credit for a good haul of Simoleons.
+   [619] 0xBCF3E7C55E6656D6: You’ve gotten good enough with the Guitar. It’s time to command Simoleons as well as respect! Your professor offer extra credit for a good haul of Simoleons.\n\nEP9_Academics_FineArts_09
    [61A] 0xE819BA2A9495C8AE: You didn’t receive extra credit.
    [61B] 0x0B37BC6A3E15396B: Bust out your guitar and play for tips at the {OpTarget}.
    [61C] 0x3E3BAF6A5AB4E2E9: Play Guitar for Tips
    [61D] 0x9237B4BA32E690D9: Bust out your guitar and play for tips at the {OpTarget}.
    [61E] 0x02CB9B481C163530: That extra credit might come in handy at the end of the term!
-   [61F] 0xA4570223E4B5DFB4: Food preparation is the universal art of Simkind. Celebrate food in the simplest way: cooking a meal. Explain the process to your professor for a morsel of extra credit.
+   [61F] 0xA4570223E4B5DFB4: Food preparation is the universal art of Simkind. Celebrate food in the simplest way: cooking a meal. Explain the process to your professor for a morsel of extra credit.\n\nEP9_Academics_FineArts_10
    [620] 0x9260DC9E7AEB1EF8: You didn’t receive extra credit.
    [621] 0x206AE101B806900D: Make a home cooked meal.
    [622] 0x2F163401BF952BBB: Cook a Meal
    [623] 0xE2866C4ED5438F27: Make a home cooked meal.
    [624] 0x53E13EB26DC7EAB5: That extra credit might come in handy at the end of the term!
-   [625] 0x394EC9211AD41AFB: Sharing food with your fellow Sims shows taste, pride and generosity. Meals show their own artistry, and your professor wants to reward that artistry with some extra credit.
+   [625] 0x394EC9211AD41AFB: Sharing food with your fellow Sims shows taste, pride and generosity. Meals show their own artistry, and your professor wants to reward that artistry with some extra credit.\n\nEP9_Academics_FineArts_11
    [626] 0x1B82C94B2AD3A373: You didn’t receive extra credit.
    [627] 0x140CB50C814F6E50: Serve a home cooked meal.
    [628] 0x01FB620C76DDA9DA: Serve a Meal
    [629] 0x80494536FA66440A: Serve a home cooked meal.
    [62A] 0x9AA924F8D57A6F8E: That extra credit might come in handy at the end of the term!
-   [62B] 0x3D2525B2153CC18A: What if reality were one dimension while our dreams were another separate dimension? Diagram it out! If your professor sees merit in your ramblings, extra credit will be forthcoming.
+   [62B] 0x3D2525B2153CC18A: What if reality were one dimension while our dreams were another separate dimension? Diagram it out! If your professor sees merit in your ramblings, extra credit will be forthcoming.\n\nEP9_Academics_FineArts_12
    [62C] 0x1470F4D2CDFDD88A: You didn’t receive extra credit.
    [62D] 0xE95084F50762259F: Create concepts using a whiteboard at the {OpTarget}.
    [62E] 0xD7084FF4FCC15275: Create Concepts
    [62F] 0x7376C6BFE746F105: Create concepts using a whiteboard. at the {OpTarget}.
    [630] 0xB75B79215E11E2B3: That extra credit might come in handy at the end of the term!
-   [631] 0x96B25147A8C3EEC9: You’ve got some incredible ideas, but they won’t matter without peer review. Demonstrate their validity before the proverbial jury, and you’ll earn some extra credit.
+   [631] 0x96B25147A8C3EEC9: You’ve got some incredible ideas, but they won’t matter without peer review. Demonstrate their validity before the proverbial jury, and you’ll earn some extra credit.\n\nEP9_Academics_FineArts_13
    [632] 0xE300C88AB4137C65: You didn’t receive extra credit.
    [633] 0x337678FAE8AADB82: Give a presentation using a whiteboard at the {OpTarget}.
    [634] 0x007285FACC0B32EC: Give a Whiteboard Presentation
    [635] 0x753ADD19ADA7D1C8: Give a presentation using a whiteboard at the {OpTarget}.
    [636] 0x0EF368C3A874CE64: That extra credit might come in handy at the end of the term!
-   [637] 0xEFB036E9F19EAAB0: Art theory isn’t given much respect. Overcome the doubters by honing your lecture to a razor edge! Your self-discipline and attention to detail won’t go unnoticed by your professor handing out extra credit.
+   [637] 0xEFB036E9F19EAAB0: Art theory isn’t given much respect. Overcome the doubters by honing your lecture to a razor edge! Your self-discipline and attention to detail won’t go unnoticed by your professor handing out extra credit.\n\nEP9_Academics_FineArts_14
    [638] 0xC73429123F88E26C: You didn’t receive extra credit.
    [639] 0xF2B108E2D1045089: Practice a speech using a podium at the {OpTarget}.
    [63A] 0xBF7733E2B4374B7F: Practice Podium Speech
    [63B] 0xE384DCF30088B45B: Practice a speech using a podium at the {OpTarget}.
    [63C] 0x2782ADC8C0718409: That extra credit might come in handy at the end of the term!
-   [63D] 0xC2FC21FCBD40A1C7: This is it: the big presentation that will introduce Hexo-Cubism to the art world! Your professors will be watching, and a great performance would do wonders towards earning extra credit.
+   [63D] 0xC2FC21FCBD40A1C7: This is it: the big presentation that will introduce Hexo-Cubism to the art world! Your professors will be watching, and a great performance would do wonders towards earning extra credit.\n\nEP9_Academics_FineArts_15
    [63E] 0x331B18A609515EF7: You didn’t receive extra credit.
    [63F] 0xC9226CE9023FCC0C: Give a lecture at a podium at the {OpTarget}.
    [640] 0xFC5D81E91F0EF27E: Give Podium Lecture
    [641] 0x57816ED438F92F2E: Give a lecture at a podium at the {OpTarget}.
    [642] 0xCAAF757032F041D1: That extra credit might come in handy at the end of the term!
-   [643] 0xB3F13876C160E43F: The human body is fascinating. With modern technology, we can learn more about it than ever before. Your professor has offered extra credit to any student who can make a skeleton dance!
+   [643] 0xB3F13876C160E43F: The human body is fascinating. With modern technology, we can learn more about it than ever before. Your professor has offered extra credit to any student who can make a skeleton dance!\n\nEP9_Academics_PhysEd_01
    [644] 0x5C23C2C410D8D84F: You didn’t receive extra credit.
    [645] 0x53CB5D12CC719144: Test skeletal structure using the anatomy skeleton. 
    [646] 0x8A365212EBF61A66: Test Skeletal Structure
    [647] 0x1D99F615312089A6: Test skeletal structure using any available anatomy skeleton. 
    [648] 0xB1BB3AC8ED98B43A: That extra credit might come in handy at the end of the term!
-   [649] 0xE10A161C4A9744CE: Kicky Bag is the world’s most intense game. So intense only the bravest choose to play. Recongizing the bravery required to play Kicky Bag, your professor is offering some extra credit for playing Kicky Bag.
+   [649] 0xE10A161C4A9744CE: Kicky Bag is the world’s most intense game. So intense only the bravest choose to play. Recongizing the bravery required to play Kicky Bag, your professor is offering some extra credit for playing Kicky Bag.\n\nEP9_Academics_PhysEd_02
    [64A] 0x55050FFAF58BCA46: You didn’t receive extra credit.
    [64B] 0x00D0CCFA1A53A7C3: Find some friends and play Kicky Bag on the {OpTarget}.
    [64C] 0x3331DFFA36692651: Play Kicky Bag
    [64D] 0xAD9639F435C9B8F1: Find some friends and play Kicky Bag on the {OpTarget}.
    [64E] 0x8CB271769CBDF52F: That extra credit might come in handy at the end of the term!
-   [64F] 0x9574005DBFB8ADDD: Few games develop forearm strength and wrist coordination like that hallowed institution, Bowling. Your professor is handing out extra credit to all students to hit the lanes regardless of skill.
+   [64F] 0x9574005DBFB8ADDD: Few games develop forearm strength and wrist coordination like that hallowed institution, Bowling. Your professor is handing out extra credit to all students to hit the lanes regardless of skill.\n\nEP9_Academics_PhysEd_03
    [650] 0x60D8E9F14DA31791: You didn’t receive extra credit.
    [651] 0x201701061EB04FD6: Go Bowling at the Arcade.
    [652] 0x2EC25606263EEE08: Go Bowling
    [653] 0x13F049A81EE364C4: Go Bowling at the Arcade.
    [654] 0xC215DBC2A9EABD38: That extra credit might come in handy at the end of the term!
-   [655] 0xBF1E9B32D6019C2C: Table Tennis is for true athletes: the ultimate game of manual dexterity. The academic establishment prizes the game for its high skill threshold, with extra credit in tow for playing Table Tennis.
+   [655] 0xBF1E9B32D6019C2C: Table Tennis is for true athletes: the ultimate game of manual dexterity. The academic establishment prizes the game for its high skill threshold, with extra credit in tow for playing Table Tennis.\n\nEP9_Academics_PhysEd_04
    [656] 0x6E59D38224ED9ED0: You didn’t receive extra credit.
    [657] 0x3E19912FCC229EE5: Win a game of Table Tennis at the {OpTarget}.
    [658] 0x5060E42FD6C1F203: Play Table Tennis
    [659] 0xA0425B6ABAFE6B5F: Win a game of Table Tennis at the {OpTarget}.
    [65A] 0x0DE7E3E4399BB71D: That extra credit might come in handy at the end of the term!
-   [65B] 0x7754EA90ED183193: When you throw a ball, it’s up and down. Discs glide almost magically over the ground. Your professor will reward you with extra credit for solid demonstrations of throwing a flying disc.
+   [65B] 0x7754EA90ED183193: When you throw a ball, it’s up and down. Discs glide almost magically over the ground. Your professor will reward you with extra credit for solid demonstrations of throwing a flying disc.\n\nEP9_Academics_PhysEd_05
    [65C] 0xF67ACC3A67B4358B: You didn’t receive extra credit.
    [65D] 0x88AC8535ADC82608: Go to the {OpTarget} and use the flying disc.
    [65E] 0x79CB3235A60BFBC2: Throw the Flying Disc
    [65F] 0x1B4D62B168FE4282: Go to the {OpTarget} and use the flying disc.
    [660] 0xDDF61ADCC77FFF36: That extra credit might come in handy at the end of the term!
-   [661] 0x0ACA21FC40442D62: Push-ups and sit-ups only get you so far. Sometimes a Sim’s body needs a real gym facility! Your professor would be so happy to offer extra credit, if only you take a look at all that amazing equipment.
+   [661] 0x0ACA21FC40442D62: Push-ups and sit-ups only get you so far. Sometimes a Sim’s body needs a real gym facility! Your professor would be so happy to offer extra credit, if only you take a look at all that amazing equipment.\n\nEP9_Academics_PhysEd_06
    [662] 0xD8F2D7C16CC88DE2: You didn’t receive extra credit.
    [663] 0x4AE1351D98A9DC77: Head to Gym and work out for 2 hours.
    [664] 0x38CFC01D8E37DDBD: Visit the Gym
    [665] 0x418ADBF5B289773D: Head to the gym and workout for 2 hours.
    [666] 0xC4EB92202B6E285B: That extra credit might come in handy at the end of the term!
-   [667] 0xB3288F4BCA718C81: Push, pull, clink, clank. Workout machines hone in your muscle groups like nothing else. Report the results back to your coaches for some extra credit, and give them a flex for the proof!
+   [667] 0xB3288F4BCA718C81: Push, pull, clink, clank. Workout machines hone in your muscle groups like nothing else. Report the results back to your coaches for some extra credit, and give them a flex for the proof!\n\nEP9_Academics_PhysEd_07
    [668] 0xDC804724531B9BFD: You didn’t receive extra credit.
    [669] 0xBE204924B2DE1D3A: Go to the local gym and work out for 4 hours.
-   [66A] 0x8AE53624960EFB74: Workout at the Gym
+   [66A] 0x8AE53624960EFB74: Workout at the Gym (4)
    [66B] 0x8FB262478AECEF00: Go to the gym and work out for 4 hours.
    [66C] 0xD6CD6A1A983E89B4: That extra credit might come in handy at the end of the term!
-   [66D] 0xD675D07981622CA0: Modern science has taken fitness forward by leaps and bounds. Workout machines work better than ever, and it’s important to diversify. Test out the newest machine at your local gym for some extra credit.
+   [66D] 0xD675D07981622CA0: Modern science has taken fitness forward by leaps and bounds. Workout machines work better than ever, and it’s important to diversify. Test out the newest machine at your local gym for some extra credit.\n\nEP9_Academics_PhysEd_08
    [66E] 0xBE4989BB9009C81C: You didn’t receive extra credit.
    [66F] 0xDEE5F94E62A96A39: Go to the local gym and work out with for 8 hours.
-   [670] 0xAC84E44E4693E80F: Workout at the Gym 
+   [670] 0xAC84E44E4693E80F: Workout at the Gym (8)
    [671] 0x0475B4FED61D534B: Go to the gym and work out for 8 hours.
    [672] 0x4CF96DECBA093799: That extra credit might come in handy at the end of the term!
-   [673] 0x73F7BB6D752DC177: The best athletes use intense cross-training to keep themselves in top shape. Pools can work wonders. Take a few laps to improve your cardiovascular health. Your professor will toss you some extra credit!
+   [673] 0x73F7BB6D752DC177: The best athletes use intense cross-training to keep themselves in top shape. Pools can work wonders. Take a few laps to improve your cardiovascular health. Your professor will toss you some extra credit!\n\nEP9_Academics_PhysEd_09
    [674] 0x442874C22A06FAE7: You didn’t receive extra credit.
    [675] 0x5FAB5D597C9B81FC: Find a pool and go swimming.
    [676] 0x920C325998B096CE: Go Swiming at the Pool
    [677] 0xF72199BBA8127A5E: Find a pool and go swimming.
    [678] 0xF805AE775495BF2B: That extra credit might come in handy at the end of the term!
-   [679] 0x88599C00A919B6B1: Nothing beats the hometown crowd! Head to the {OpTarget} and go wild for the home team. Your sports-loving professor will be in the stands ready to hand off some extra credit for attending!
+   [679] 0x88599C00A919B6B1: Nothing beats the hometown crowd! Head to the {OpTarget} and go wild for the home team. Your sports-loving professor will be in the stands ready to hand off some extra credit for attending!\n\nEP9_Academics_PhysEd_10
    [67A] 0x2E90B55FF5D35CED: You didn’t receive extra credit.
    [67B] 0xEB0DA940F4FBD4AA: Go to the {OpTarget} and attend a game.
    [67C] 0xB8ACD640D8E6C344: Attend a Game
    [67D] 0x974496E2ED606D30: Go to the {OpTarget} and attend a game.
    [67E] 0x96AD46A0ECEA4646: That extra credit might come in handy at the end of the term!
-   [67F] 0xE5928142D2ED17D2: Feel the adrenaline surge through your veins by playing sports at the {OpTarget} and score some extra credit points with your professor. Win the game and you’ll be the intramural hero!
+   [67F] 0xE5928142D2ED17D2: Feel the adrenaline surge through your veins by playing sports at the {OpTarget} and score some extra credit points with your professor. Win the game and you’ll be the intramural hero!\n\nEP9_Academics_PhysEd_11
    [680] 0x4CF0C1A7748B0452: You didn’t receive extra credit.
    [681] 0xA153D53B140E7467: Play a sport at the {OpTarget}.
    [682] 0x8F42A03B099CE2CD: Play Collegiate Sport
    [683] 0x4703129F4443BA6D: Play a sport at the {OpTarget}.
    [684] 0x16FC9CC9CF267E6D: That extra credit might come in handy at the end of the term!
-   [685] 0x35F6D48E4861D9C3: This Sim runs here and this other Sim goes VROOM for the winning deep pass! It’s a perfect play. Pull off that long ball and you’ll win well deserved extra credit from your professor.
+   [685] 0x35F6D48E4861D9C3: This Sim runs here and this other Sim goes VROOM for the winning deep pass! It’s a perfect play. Pull off that long ball and you’ll win well deserved extra credit from your professor.\n\nEP9_Academics_PhysEd_12
    [686] 0xED49A09C836EF6BB: You didn’t receive extra credit.
    [687] 0xE1AC25532B57F6B8: Make a game plan using a whiteboard at the {OpTarget}.
    [688] 0xCF64D25320B8A292: Make a Game Plan
    [689] 0x646E2AD09D37C7F2: Make a game plan using a whiteboard at the {OpTarget}.
    [68A] 0x46767DC09520BD88: That extra credit might come in handy at the end of the term!
-   [68B] 0x0AF2E82E5E078A5C: Sports have been divorced from science for too long. Rigorous analytic approaches yield the best results, and your hard work won’t go unnoticed by your professors in the form of extra credit. 
+   [68B] 0x0AF2E82E5E078A5C: Sports have been divorced from science for too long. Rigorous analytic approaches yield the best results, and your hard work won’t go unnoticed by your professors in the form of extra credit.\n\nEP9_Academics_PhysEd_13
    [68C] 0xB5AD1F9B95F485C0: You didn’t receive extra credit.
    [68D] 0x6BE1314C0EFA66D5: Use a whiteboard to give a presentation at the {OpTarget}.
    [68E] 0x7D4F844C18E1C9D3: Give a Whiteboard Presentation
    [68F] 0xB9AB5F2B43AAC3CF: Use a whiteboard to give a presentation at the {OpTarget}.
    [690] 0x2C98D0891795DCFF: That extra credit might come in handy at the end of the term!
-   [691] 0xEBDC2E2AE68DF14D: Athletes don’t listen to any Sim they don’t respect. Practice your latest speech; hit the right spots. Your approving professor will be lining up to give you extra credit for your effort!
+   [691] 0xEBDC2E2AE68DF14D: Athletes don’t listen to any Sim they don’t respect. Practice your latest speech; hit the right spots. Your approving professor will be lining up to give you extra credit for your effort!\n\nEP9_Academics_PhysEd_14
    [692] 0x02EFE6F8962E8881: You didn’t receive extra credit.
    [693] 0x4A7861225EA48186: Practice a speech using a podium at the {OpTarget}.
    [694] 0x5C89B622691649D8: Practice a Podium Speech
    [695] 0xD83D4B50A4AED5F4: Practice a speech using a podium at the {OpTarget}.
    [696] 0xFB8429B4F216598A: That extra credit might come in handy at the end of the term!
-   [697] 0x9A7CC9B9A28A1F3E: In modern athletics, talent is a wash. Motivation is the difference between victory and defeat. If you can pull off a motivating lecture, you’ll win both respect and extra credit from your professors!
+   [697] 0x9A7CC9B9A28A1F3E: In modern athletics, talent is a wash. Motivation is the difference between victory and defeat. If you can pull off a motivating lecture, you’ll win both respect and extra credit from your professors!\n\nEP9_Academics_PhysEd_15
    [698] 0xCAF0F18AC4AE86B6: You didn’t receive extra credit.
    [699] 0x5669AD1794FF08B3: Give a lecture using the podium at the {OpTarget}.
    [69A] 0x89A48017B1CDBE21: Give a Podium Lecture
    [69B] 0x9EF1042682009DA1: Give a lecture using the podium at the {OpTarget}.
    [69C] 0x906CE9EC27300501: That extra credit might come in handy at the end of the term!
-   [69D] 0x37BB0866D548DF4F: An abundance of student essays and scholarship applications have been building up at the {OpTarget}. Help review Student Essays and earn some extra credit.
+   [69D] 0x37BB0866D548DF4F: An abundance of student essays and scholarship applications have been building up at the {OpTarget}. Help review Student Essays and earn some extra credit.\n\nUNKNOWN GUID
    [69E] 0x5D48E7FF1268AB1F: You didn’t complete this extra credit opportunity in time.
    [69F] 0x362A5FF2A5824F14: Review Student Essays at the {OpTarget}.
    [6A0] 0x685554F2C16A0B16: Review Essays
    [6A1] 0x07244507729181F6: Review Student Essays at the {OpTarget}.
    [6A2] 0xB8433A30945BD07A: That extra credit might come in handy at the end of the term!
-   [6A3] 0x703F0E3C87286A0E: The human body is full of interesting and complicated parts big and small. Bone up on your Anatomy by studying with the Anatomy Skeleton.
+   [6A3] 0x703F0E3C87286A0E: The human body is full of interesting and complicated parts big and small. Bone up on your Anatomy by studying with the Anatomy Skeleton.\n\nEP9_Academics_Science_01
    [6A4] 0xAFDB2383C80BEC86: You didn’t receive extra credit.
    [6A5] 0x15247FD77AF45A03: Bone Up on Anatomy with the Anatomy Skeleton.
    [6A6] 0x4AEB92D799ED0191: Bone Up on Anatomy
    [6A7] 0x877BAB71E583EB31: Bone Up on Anatomy with the Anatomy Skeleton.
    [6A8] 0x12755C99D6B57F11: That extra credit might come in handy at the end of the term!
-   [6A9] 0x4670E487F6E64C7F: Collecting DNA samples and experimenting with them is a great way to learn more about human nature. Find some DNA samples and return them to the {OpTarget} for extra credit.
+   [6A9] 0x4670E487F6E64C7F: Collecting DNA samples and experimenting with them is a great way to learn more about human nature. Find some DNA samples and return them to the {OpTarget} for extra credit.\n\nEP9_Academics_Science_02
    [6AA] 0x63DBD651CE3C818F: You didn’t receive extra credit.
    [6AB] 0x6B860FF02FF71F84: Collect 5 DNA Samples and return them to the {OpTarget}.
    [6AC] 0x9E8A04F04C96CCA6: DNA is Awesome
    [6AD] 0xE0EDCD593FC694E6: Collect 5 DNA Samples and return them to the {OpTarget}.
    [6AE] 0x9301BA0D09EFE2AC: That extra credit might come in handy at the end of the term!
-   [6AF] 0x39E7BC18293C5D88: The Science Research Station is crucial to success for any Science & Medicine student. You have a chance at some extra credit by using it to research science!
+   [6AF] 0x39E7BC18293C5D88: The Science Research Station is crucial to success for any Science & Medicine student. You have a chance at some extra credit by using it to research science!\n\nEP9_Academics_Science_03
    [6B0] 0xE80B84A13E2403E4: You didn’t receive extra credit.
    [6B1] 0x7E9F8BE960A77941: Use a science research station to research science.
    [6B2] 0x4C7496E944BFBD47: Research Science
    [6B3] 0x0B24DC85A6723E13: Use a Science Research Station to research science.
    [6B4] 0x07788254BE7D869B: That extra credit might come in handy at the end of the term!
-   [6B5] 0x33C0EF91D645E7C1: The Spectronomic Analysis laser is one of the Science Research Station’s many amazing features. Completing some extra credit towards your degree would make you an equally amazing student!
+   [6B5] 0x33C0EF91D645E7C1: The Spectronomic Analysis laser is one of the Science Research Station’s many amazing features. Completing some extra credit towards your degree would make you an equally amazing student!\n\nEP9_Academics_Science_04
    [6B6] 0xE9A0852A77EAFD3D: You didn’t receive extra credit.
    [6B7] 0xD5D9FC021661F97A: Research a sample using the science research station.
    [6B8] 0xA29FE901F99489B4: Research a Sample
    [6B9] 0x566C398B9C762340: Research a sample using the science research station.
    [6BA] 0x0C97ACC31E0D1076: That extra credit might come in handy at the end of the term!
-   [6BB] 0x9C7FEC16F549FBA2: Your professor needs some harvestables for class demonstrations and possibly some voodoo magic! You’ll get some extra credit in exchange for bringing back a harvestable to the {OpTarget}.
+   [6BB] 0x9C7FEC16F549FBA2: Your professor needs some harvestables for class demonstrations and possibly some voodoo magic! You’ll get some extra credit in exchange for bringing back a harvestable to the {OpTarget}.\n\nEP9_Academics_Science_05
    [6BC] 0x44F1C0B76E20DC22: You didn’t receive extra credit.
    [6BD] 0xB5B9E7F6114BE3B7: Find 3 Harvestables and return them to the {OpTarget}.
    [6BE] 0xA3A872F606D9E5FD: Find a Harvestable
    [6BF] 0x5A04FE65B5F3997D: Find 3 Harvestables and return them to the {OpTarget}.
    [6C0] 0xAC32CB08F5624A5D: That extra credit might come in handy at the end of the term!
-   [6C1] 0x05D1522E9CEEBED3: Your professor ran out of gems and need one to show the effects of what happens when you mix water and gems! Bring back some gems to the {OpTarget} for extra credit!
+   [6C1] 0x05D1522E9CEEBED3: Your professor ran out of gems and need one to show the effects of what happens when you mix water and gems! Bring back some gems to the {OpTarget} for extra credit!\n\nEP9_Academics_Science_06
    [6C2] 0xFE461296C23E75CB: You didn’t receive extra credit.
    [6C3] 0xA0673813114DB548: Find 3 gems and return them to the {OpTarget}.
    [6C4] 0x8E1FE51306AE6102: Find Gems
    [6C5] 0x4D90FEB1502183C2: Find 3 Gems and return them to the {OpTarget}.
    [6C6] 0xA029DB00F4053978: That extra credit might come in handy at the end of the term!
-   [6C7] 0x874110140AEB1E6C: Metals. So malleable and so important, yet you don’t know why. Your professor hopes to use one as an in-class example class to explain the concepts of metallurgy. Extra credit is offered!
+   [6C7] 0x874110140AEB1E6C: Metals. So malleable and so important, yet you don’t know why. Your professor hopes to use one as an in-class example class to explain the concepts of metallurgy. Extra credit is offered!\n\nEP9_Academics_Science_07
    [6C8] 0xD6F2BC782362C410: You didn’t receive extra credit.
    [6C9] 0xAC59440847A98225: Find 3 Metals and return them to the {OpTarget}.
    [6CA] 0xBB3A97084F65AD43: Find Metals
    [6CB] 0xCBD44AF1B4A2B19F: Find 3 Metals and return them to the {OpTarget}.
    [6CC] 0xEC6B507EEDD83217: That extra credit might come in handy at the end of the term!
-   [6CD] 0x2E04CFC74C8C9595: Your professor wants to take the mystery of fishy fish, but don’t have any in their lab! Go out and find some fish and there will be some sweet extra credit to be had.
+   [6CD] 0x2E04CFC74C8C9595: Your professor wants to take the mystery of fishy fish, but don’t have any in their lab! Go out and find some fish and there will be some sweet extra credit to be had.\n\nEP9_Academics_Science_08
    [6CE] 0xB5039B695ED650C9: You didn’t receive extra credit.
    [6CF] 0xD74B941FC1C4902E: Catch 3 fish and return them to the {OpTarget}.
    [6D0] 0xE62CE91FC980BEF0: Find Fish
    [6D1] 0x82D815D43481151C: Catch 3 fish and return them to the {OpTarget}.
    [6D2] 0xFE6EE971F37F0002: That extra credit might come in handy at the end of the term!
-   [6D3] 0xFA1CCA722FA46846: Every action provokes a reaction, but we never know exactly what that reaction will be. Your professor thinks you ought to know what the reaction may be, and has offered extra credit as an incentive.
+   [6D3] 0xFA1CCA722FA46846: Every action provokes a reaction, but we never know exactly what that reaction will be. Your professor thinks you ought to know what the reaction may be, and has offered extra credit as an incentive.\n\nEP9_Academics_Science_09
    [6D4] 0xD06AA7B0DB07A15E: You didn’t receive extra credit.
    [6D5] 0x89BEC019DD9734DB: Perform the Stimulus Response Test {1.Number} times.
    [6D6] 0xBF4FB319FC621639: Stimulus Response Test
    [6D7] 0x869E172438916989: Perform the Stimulus Response Test {1.Number} times.
    [6D8] 0xA81214A18356BD80: That extra credit might come in handy at the end of the term!
-   [6D9] 0x1D69F608181BAEA4: Describing splashes of ink can reveal many things about Sims, and maybe some things you didn’t want know. There’s extra credit being offered for performing Ink Blot Tests on unsuspecting subjects courtesy of your professor.
+   [6D9] 0x1D69F608181BAEA4: Describing splashes of ink can reveal many things about Sims, and maybe some things you didn’t want know. There’s extra credit being offered for performing Ink Blot Tests on unsuspecting subjects courtesy of your professor.\n\nEP9_Academics_Science_10
    [6DA] 0x915B5290028EF3E8: You didn’t receive extra credit.
    [6DB] 0x1EE8A4B5064209FD: Perform the Ink Blot Test {1.Number} times.
    [6DC] 0x30F9F7B510B3CD8B: Ink Blot Test
    [6DD] 0x2DF6838315735797: Perform the Ink Blot Test {1.Number} times.
    [6DE] 0xDE79023F203A9CC5: That extra credit might come in handy at the end of the term!
-   [6DF] 0x4780CFBAE724526B: Your professor has a duty to uphold: students should always be the first to mess with unknown controls to exotic technology. Not only are you helping your professor, but you’ll get some extra credit too!
+   [6DF] 0x4780CFBAE724526B: Your professor has a duty to uphold: students should always be the first to mess with unknown controls to exotic technology. Not only are you helping your professor, but you’ll get some extra credit too!\n\nEP9_Academics_Science_11
    [6E0] 0x0523A8083C8C4563: You didn’t receive extra credit.
    [6E1] 0x9520B8BC22FCA180: Pull the Level of Doom and see what happens!
    [6E2] 0x830F65BC188ADDEA: Group Science Project
    [6E3] 0x85AC76C6259054BA: Pull the Lever of Doom and see what happens!
    [6E4] 0x38C693F945359F5E: That extra credit might come in handy at the end of the term!
-   [6E5] 0x0192224BDD9157BA: Your professor wants you to get some practice explaining deep and thought provoking scientific theories. Nothing clarifies a theory like drawing it out – especially when there’s extra credit to be earned!
+   [6E5] 0x0192224BDD9157BA: Your professor wants you to get some practice explaining deep and thought provoking scientific theories. Nothing clarifies a theory like drawing it out - especially when there’s extra credit to be earned!\n\nEP9_Academics_Science_12
    [6E6] 0xD16735C348FAEB7A: You didn’t receive extra credit.
    [6E7] 0x3E5248A36D9D408F: Use a whiteboard to make a diagram at {OpTarget}
    [6E8] 0x2CE4D3A363B75745: Make a Whiteboard Diagram
    [6E9] 0xEB8386F25A5A8075: Use a whiteboard to make a diagram at {OpTarget}.
    [6EA] 0x100320FDA31A0A83: That extra credit might come in handy at the end of the term!
-   [6EB] 0xB64E9F78AB222A79: Research and analysis are easy. Presenting results and building consensus are harder. Your professor wouldn’t want you graduating without presentation skills, and is offering extra credit to give a presentation.
+   [6EB] 0xB64E9F78AB222A79: Research and analysis are easy. Presenting results and building consensus are harder. Your professor wouldn’t want you graduating without presentation skills, and is offering extra credit to give a presentation.\n\nEP9_Academics_Science_13
    [6EC] 0x4669BCCBAEEEF7D5: You didn’t receive extra credit.
    [6ED] 0xB48B3CAA8A595672: Use a whiteboard to give a presentation at {OpTarget}
    [6EE] 0x7EFA49AA6B8E743C: Whiteboard Presentation
    [6EF] 0x18846A0102BD0E78: Use a whiteboard to give a presentation at {OpTarget}.
    [6F0] 0xD0B4A823B4DE4B34: That extra credit might come in handy at the end of the term!
-   [6F1] 0x1A25B9F524D7F920: It takes practice to command the attention of a room filled with inattentive Sims. Extra credit is being offered to practice a speech at the podium, so practice turning an inattentive Sim into an attentive Sim.
+   [6F1] 0x1A25B9F524D7F920: It takes practice to command the attention of a room filled with inattentive Sims. Extra credit is being offered to practice a speech at the podium, so practice turning an inattentive Sim into an attentive Sim.\n\nEP9_Academics_Science_14
    [6F2] 0x54FB102A6EFB0C9C: You didn’t receive extra credit.
    [6F3] 0x73C60C9272B337B9: Use a podium to practice a speech at the {OpTarget}
    [6F4] 0x4164F792569DB58F: Practice Podium Speech
    [6F5] 0x0561A363AA14B8CB: Use a podium to practice a speech at {OpTarget}.
    [6F6] 0x46E0ABF5D6A8F919: That extra credit might come in handy at the end of the term!
-   [6F7] 0xB7A7A4E918A38DF7: Your professor is sensing some truly fascinating things rattling around in your brain. You’ve got some extra credit being dangled in front of you to go spread the knowledge by giving a lecture.
+   [6F7] 0xB7A7A4E918A38DF7: Your professor is sensing some truly fascinating things rattling around in your brain. You’ve got some extra credit being dangled in front of you to go spread the knowledge by giving a lecture.\n\nEP9_Academics_Science_15
    [6F8] 0xDAD9FB3108F83F67: You didn’t receive extra credit.
    [6F9] 0xF48B709D8CA54F7C: Use the podium to give a lecture at {OpTarget}
    [6FA] 0x26EC459DA8BA644E: Give Podium Lecture
    [6FB] 0xF80D88207C09DFDE: Use the podium to give a lecture at {OpTarget}.
    [6FC] 0x08B50B44658803AF: Your academic performance for the term improved from studying.
-   [6FD] 0x17EDD909EF0F515D: Sometimes the quiet of your own house is best when a truly challenging subject is being studied. Find a cozy place at home and study like final exams are tomorrow.
+   [6FD] 0x17EDD909EF0F515D: Sometimes the quiet of your own house is best when a truly challenging subject is being studied. Find a cozy place at home and study like final exams are tomorrow.\n\nEP9_Academics_StudyAtHome
    [6FE] 0x599D115694AF4311: You decided not to study.
    [6FF] 0x7BEAD1B1E1DED256: Study at Home.
    [700] 0x8A9626B1E96D7088: Homebound Studying
    [701] 0xD56ABABFD8914F44: Study at Home.
    [702] 0xD2A885EB6E019FDB: Your academic performance for the term improved from studying.
-   [703] 0x9EB251ADEB059B01: The library offers peace and quiet unlike any other venue in town. Find a place to relax, take in the literature that abounds, and get your study on.
+   [703] 0x9EB251ADEB059B01: The library offers peace and quiet unlike any other venue in town. Find a place to relax, take in the literature that abounds, and get your study on.\n\nEP9_Academics_StudyAtLibrary
    [704] 0x7F0AB9F6C070027D: You decided not to study.
    [705] 0xDDD5648123A950BA: Study at the {OpTarget}
    [706] 0xAA9A518106DA2EF4: Power Studying
    [707] 0x1559FDD751571A80: Study at the {OpTarget}.
    [708] 0xA42E58B951319937: Your academic performance for the term improved from studying.
-   [709] 0x89F7CA8E56832E35: While it’s not quiet, the cool air on the skin helps promote plasma flow to the brain and can provide an extra boost to your studying efforts. Find a spot on the {OpTarget} to study.
+   [709] 0x89F7CA8E56832E35: While it’s not quiet, the cool air on the skin helps promote plasma flow to the brain and can provide an extra boost to your studying efforts. Find a spot on the {OpTarget} to study.\n\nEP9_Academics_StudyAtQuad
    [70A] 0x8D10213DBA377A69: You decided not to study.
    [70B] 0xF2CE0C43C41A9A4E: Study at the {OpTarget}
    [70C] 0x05156143CEB9F110: Playful Studying
    [70D] 0x4BE472C0860EDB3C: Study at the {OpTarget}.
    [70E] 0xF4B816B0A5E10C4C: Your academic performance for the term improved from studying.
-   [70F] 0xF9658AD11484A3A8: The loud drone of countless voices chatting is the perfect white noise necessary to focus on studying, and there’s no better place on campus than the {OpTarget}!
+   [70F] 0xF9658AD11484A3A8: The loud drone of countless voices chatting is the perfect white noise necessary to focus on studying, and there’s no better place on campus than the {OpTarget}!\n\nEP9_Academics_StudyAtStudentUnion
    [710] 0xEA97A73711910A04: You decided not to study.
    [711] 0x84957F48F1E8CEE1: Study at the {OpTarget}
    [712] 0x526B8A48D602C5E7: Studying in a Crowd
    [713] 0x91BF85D2D933E4B3: Study at the {OpTarget}.
    [714] 0xAB5888462DA7C5DA: That extra credit might come in handy at the end of the term!
-   [715] 0x762DD0E5E42D49EE: Your professor wants to test the effects of the Brain Enhancement Machine, but doesn’t want to harm innocent animals. Instead, you’re being offered a ride in the Brain Enhancing Machine for extra credit!
+   [715] 0x762DD0E5E42D49EE: Your professor wants to test the effects of the Brain Enhancement Machine, but doesn’t want to harm innocent animals. Instead, you’re being offered a ride in the Brain Enhancing Machine for extra credit!\n\nEP9_Academics_Technology_01
    [716] 0x9CF841E34432E866: You didn’t receive extra credit.
    [717] 0xE9D942AADF0CB363: Use the Brain Enhancing Machine to enhance your brain. 
    [718] 0x1FA055AAFE055AF1: Brain Enhancement
    [719] 0x9E4749D40A8C3391: Use the Brain Enhancing Machine to enhance your brain. 
    [71A] 0x56C280E6DA24A271: That extra credit might come in handy at the end of the term!
-   [71B] 0x56EC95D02EE4795F: “It would be selfish to keep Brain Enhancement technology for your own benefit!” says your professor. To help you learn to share, you’ll get extra credit for using the Brain Enhancing machine on a test subject.
+   [71B] 0x56EC95D02EE4795F: "It would be selfish to keep Brain Enhancement technology for your own benefit!" says your professor. To help you learn to share, you’ll get extra credit for using the Brain Enhancing machine on a test subject.\n\nEP9_Academics_Technology_02
    [71C] 0x9EC2FD02953C876F: You didn’t receive extra credit.
    [71D] 0x403AD2C3940F78E4: Use the Brain Enhancing Machine on a test subject on the {OpTarget}.
    [71E] 0x733EC7C3B0AF2506: Test Subject
    [71F] 0xB5D90E5026831D46: Use the Brain Enhancing Machine on a test subject on the {OpTarget}.
    [720] 0xDC86D54F1E13310C: That extra credit might come in handy at the end of the term!
-   [721] 0x4A646D60613C3E68: The galaxy is filled with wonder. We look out to the universe; who might be looking back? We may never know, but you’re being offered extra credit to use a telescope to find out!
+   [721] 0x4A646D60613C3E68: The galaxy is filled with wonder. We look out to the universe; who might be looking back? We may never know, but you’re being offered extra credit to use a telescope to find out!\n\nEP9_Academics_Technology_03
    [722] 0x740F80D4B5B9A5C4: You didn’t receive extra credit.
    [723] 0x56BA4EBCC7A2FAA1: Use a telescope to search the galaxy.
    [724] 0x212959BCA8D815A7: Search the Galaxy
@@ -1835,71 +1835,71 @@ Unknown3: 0x00000000
    [726] 0x4BA9A5ED085D66FB: That extra credit might come in handy at the end of the term!
    [727] 0xF14DD4624FDD74A1: Chess is an ancient game of kings, but the modern version cuts out the public executions. Your Logic professor has offered you extra credit to compete on the great checkered board.
    [728] 0x7AF87907B9C40E1D: You didn’t receive extra credit.
-   [729] 0xAA8EBED57A7A51DA: Challenge another Sim to a game of Chess and walk away victorious!
+   [729] 0xAA8EBED57A7A51DA: Challenge another Sim to a game of Chess and walk away victorious!\n\nEP9_Academics_Technology_04
    [72A] 0x7754ABD55DACE214: Win a game of Chess
    [72B] 0x27F17A82804F82A0: Challenge another Sim to a game of Chess and walk away victorious!
    [72C] 0x64B52EA9A470F0D6: That extra credit might come in handy at the end of the term!
-   [72D] 0xF7BE5EC177F22E82: Enigmatic high-tech artifacts can teach us many things! These include calculus, using bones as hammers, and spaceship construction. Your professor’s offering extra credit for interfacing with the mighty monolith.
+   [72D] 0xF7BE5EC177F22E82: Enigmatic high-tech artifacts can teach us many things! These include calculus, using bones as hammers, and spaceship construction. Your professor’s offering extra credit for interfacing with the mighty monolith.\n\nEP9_Academics_Technology_05
    [72E] 0x1B9211FFF12C3C02: You didn’t receive extra credit.
    [72F] 0x33E9AACE5D62E717: Use the Pad Tie Node on the group science project and see what happens!
    [730] 0x253F35CE55D5C55D: Use the Pad Tie Node
    [731] 0x816AC9AE708149DD: Use the Pad Tie Node on the group science project and see what happens!
    [732] 0x9F33E64FF185F6BD: That extra credit might come in handy at the end of the term!
-   [733] 0xACB13664C6B324B3: Like a bad rash, entropy never goes away. Strike a blow for order by fixing something broken! Extra credit is on the table if you can manage to do it right.
+   [733] 0xACB13664C6B324B3: Like a bad rash, entropy never goes away. Strike a blow for order by fixing something broken! Extra credit is on the table if you can manage to do it right.\n\nEP9_Academics_Technology_06
    [734] 0x8F9F0674041939AB: You didn’t receive extra credit.
    [735] 0x751BFAE675660DA8: Find something broken and repair it.
    [736] 0x62D4A7E66AC6BA62: Repair a Broken Object
    [737] 0x1F163FA833FAE322: Find something broken and repair it.
    [738] 0x9690F647F30C0ED8: That extra credit might come in handy at the end of the term!
-   [739] 0x9B22C15C45CC744C: These days, everyone replaces broken objects instead of fixing them. It’s silly, it’s lazy and it’s wasteful. Your professors are sick of man’s wretched excess. They’ll reward you for fighting against it!
+   [739] 0x9B22C15C45CC744C: These days, everyone replaces broken objects instead of fixing them. It’s silly, it’s lazy and it’s wasteful. Your professors are sick of man’s wretched excess. They’ll reward you for fighting against it!\n\nEP9_Academics_Technology_07
    [73A] 0x684AB055653BD5F0: You didn’t receive extra credit.
    [73B] 0x810E06DBABC1DA85: Make {1.Number} repairs to broken objects.
    [73C] 0x935559DBB6612EA3: Repair Broken Objects
    [73D] 0xA0BE8BE89B5D87FF: Make {1.Number} repairs to broken objects.
    [73E] 0x528EF3D2EF3F2077: That extra credit might come in handy at the end of the term!
-   [73F] 0x4DF7E2276FA4D275: Extra credit has been offered for a fairly simple task: upgrade an appliance and thereby demonstrate Simkind’s mastery over nature. It’s important to always look beyond existing technology to imagine the future.
+   [73F] 0x4DF7E2276FA4D275: Extra credit has been offered for a fairly simple task: upgrade an appliance and thereby demonstrate Simkind’s mastery over nature. It’s important to always look beyond existing technology to imagine the future.\n\nEP9_Academics_Technology_08
    [740] 0xDCBFC23492759AA9: You didn’t receive extra credit.
    [741] 0x557B56F80DDB938E: Find an upgradeable object and upgrade it.
    [742] 0x67C3ABF8187C9E50: Upgrade an Object
    [743] 0x3D3C140ADDF1D67C: Find an upgradeable object and upgrade it.
    [744] 0x42A00D0A3D5EE062: That extra credit might come in handy at the end of the term!
-   [745] 0x4FDFD925A8D33126: Sim society will never attain true enlightenment until everything such as computers, trash compactors, etc. are upgraded. Do your part to help, by upgrading every object in sight. Extra credit is on the line!
+   [745] 0x4FDFD925A8D33126: Sim society will never attain true enlightenment until everything such as computers, trash compactors, etc. are upgraded. Do your part to help, by upgrading every object in sight. Extra credit is on the line!\n\nEP9_Academics_Technology_09
    [746] 0x61C29B8E1CE0B23E: You didn’t receive extra credit.
    [747] 0x61DA82ED4494693B: Find {1.Number} upgradeable objects and upgrade them.
    [748] 0x940475ED607A6E99: Upgrade Some Objects
    [749] 0x5823581B1C6AC9E9: Find {1.Number} upgradeable objects and upgrade them.
    [74A] 0x4412BA356B4CE7E0: That extra credit might come in handy at the end of the term!
-   [74B] 0x7E7439F85C8E2384: The academic mind thirsts for new knowledge! For an engineer, expanding your mind means taking things apart. For a technology student, tinkering is an expansion of both mind and GPA! Impress your professor and earn extra credit!
+   [74B] 0x7E7439F85C8E2384: The academic mind thirsts for new knowledge! For an engineer, expanding your mind means taking things apart. For a technology student, tinkering is an expansion of both mind and GPA! Impress your professor and earn extra credit!\n\nEP9_Academics_Technology_10
    [74C] 0x22B3466D446804C8: You didn’t receive extra credit.
    [74D] 0xF39D67886A5A625D: Tinker with a Computer at the {OpTarget}.
    [74E] 0x05AEBA8874CC26EB: Tinker with an Object
    [74F] 0x9945F767EDF619F7: Tinker with a Computer at the {OpTarget}.
    [750] 0xCC2525DC52192725: That extra credit might come in handy at the end of the term!
-   [751] 0xFC23895E3CDDBB4B: Your curiosity can’t be satisfied. How does that work? How does this function? You have to know! Moreover, your professor will award copious extra credit for taking the plunge and Study the Brain.
+   [751] 0xFC23895E3CDDBB4B: Your curiosity can’t be satisfied. How does that work? How does this function? You have to know! Moreover, your professor will award copious extra credit for taking the plunge and Study the Brain.\n\nEP9_Academics_Technology_11
    [752] 0x9127A43BB421E743: You didn’t receive extra credit.
    [753] 0x69D57B8F8714FAE0: Use a Brain Enhancing Machine to Study the Brain.
    [754] 0x57C4288F7CA3364A: Study the Brain
    [755] 0x9C7915284A9A501A: Use a Brain Enhancing Machine to Study the Brain.
    [756] 0x85B2AF3B5C3DC9BE: That extra credit might come in handy at the end of the term!
-   [757] 0x636FF773684BF59A: Solve that three-dimensional formula posthaste. You have an opportunity to get extra credit and respect from your professor. Don’t let some under-appreciated genius janitor solve it first, securing a kindly mentor figure for themselves!
+   [757] 0x636FF773684BF59A: Solve that three-dimensional formula posthaste. You have an opportunity to get extra credit and respect from your professor. Don’t let some under-appreciated genius janitor solve it first, securing a kindly mentor figure for themselves!\n\nEP9_Academics_Technology_12
    [758] 0x662529A08DB7255A: You didn’t receive extra credit.
    [759] 0x13080B76D1B74CEF: Solve an equation on a whiteboard at the {OpTarget}.
    [75A] 0x01999676C7CFAFA5: Solve an Equation
    [75B] 0xBD07C7E93E322CD5: Solve an equation on a whiteboard at the {OpTarget}.
    [75C] 0xC20AA2DF4460B6E3: That extra credit might come in handy at the end of the term!
-   [75D] 0x01AD1188E3BF3B59: It’s impossible to explain the Llamatic Backflow Principle in words, but a whiteboard presentation makes everything clear. What’s more, your professor will award extra credit to the first enterprising Sim to diagram it.
+   [75D] 0x01AD1188E3BF3B59: It’s impossible to explain the Llamatic Backflow Principle in words, but a whiteboard presentation makes everything clear. What’s more, your professor will award extra credit to the first enterprising Sim to diagram it.\n\nEP9_Academics_Technology_13
    [75E] 0xC497166F5298BCB5: You didn’t receive extra credit.
    [75F] 0x32BAFF82D67059D2: Give a presentation on a whiteboard at the {OpTarget}.
    [760] 0x00900C82BA88A09C: Give a Whiteboard Presentation
    [761] 0xD2E86837AC2DCED8: Give a presentation on a whiteboard at the {OpTarget}.
    [762] 0x1A39C365C9019994: That extra credit might come in handy at the end of the term!
-   [763] 0x81119E15CCDEEE00: Engineers are better with numbers than public speaking. It would really behoove you to practice beforehand. You’ve got a lot of extra credit riding on this speech, and you really can’t blow it!
+   [763] 0x81119E15CCDEEE00: Engineers are better with numbers than public speaking. It would really behoove you to practice beforehand. You’ve got a lot of extra credit riding on this speech, and you really can’t blow it!\n\nEP9_Academics_Technology_14
    [764] 0xE6530407B0D41E7C: You didn’t receive extra credit.
    [765] 0x487ACF65D6CB9019: Use a podium to practice a speech at the {OpTarget}.
    [766] 0x1619BA65BAB60EEF: Practice Podium Speech
    [767] 0xD6E5E45A8DEC652B: Use a podium to practice a speech at the {OpTarget}.
    [768] 0x9065C737EACC4879: That extra credit might come in handy at the end of the term!
-   [769] 0xABB01BC74BF912D7: Engineering isn’t something that comes naturally to Sims—they’re better at eating and sleeping. The professor is skipping this lecture to play golf; you’re being offering extra credit for filling in.
+   [769] 0xABB01BC74BF912D7: Engineering isn’t something that comes naturally to Sims - they’re better at eating and sleeping. The professor is skipping this lecture to play golf; you’re being offering extra credit for filling in.\n\nEP9_Academics_Technology_15
    [76A] 0x15ACEF1332CFFB47: You didn’t receive extra credit.
    [76B] 0xC9403370F0BDA7DC: Give a lecture at a podium at the {OpTarget}.
    [76C] 0xFBA108710CD2BCAE: Give Podium Lecture
@@ -1925,10 +1925,10 @@ Unknown3: 0x00000000
    [780] 0x4F7CFE812196D91C: Campus Cleanliness CUT
    [781] 0x8C862DEB2F39CF58: Find and clean up street art tags or murals. CUT
    [782] 0x33E5CBCE293507F3: You cleared your name from cheating.
-   [783] 0x1C09D7219270D309: Now that your name is tarnished by an act of cheating, the only way to clear your name is by recording an Anti-cheating video that will be shown to future students.
+   [783] 0x1C09D7219270D309: Now that your name is tarnished by an act of cheating, the only way to clear your name is by recording an Anti-cheating video that will be shown to future students.\n\nEP9_ClearName_Cheating
    [784] 0xCC27641BCDAC60A5: You didn’t get to the recording in time to clear your name for cheating.
    [785] 0x2E0901EAAE2996C2: Visit the {OpTarget} and Record Anti-cheating Video.
-   [786] 0xF79E0EEA8EA5112C: Clear Your Name!
+   [786] 0xF79E0EEA8EA5112C: Clear Your Name! (Cheating)
    [787] 0x297BD21855A2F108: Visit the {OpTarget} and Record Anti-cheating Video.
    [788] 0xC79BEE13880EBD21: You cleared your name!
    [789] 0x855AAC49DF7829EF: Now that your name is tarnished, the only way to clear your name is to offer your services as a human test subject for an upcoming science project on human behavior.
@@ -1945,85 +1945,85 @@ Unknown3: 0x00000000
    [794] 0x76EC8659C3EB8537: You completed the dare!
    [795] 0x658F5ABF29753E69: You weren’t Sim enough to complete the dare.
    [796] 0x86708814E94C307E: The party loved your burgers. Well done!
-   [797] 0xB23AEB17AE3D745A: You can’t have a great party without some delicious BBQ! Fire up the grill and fill your hungry crowd with burgers. 
+   [797] 0xB23AEB17AE3D745A: You can’t have a great party without some delicious BBQ! Fire up the grill and fill your hungry crowd with burgers.\n\nEP9_DareGreek_Burgers
    [798] 0x1B14C446E247C61A: You decided that partying was more fun than grilling.
    [799] 0x0B77E14B7275C6AF: Find a Grill and make some burgers
    [79A] 0xFA096C4B688E2A65: Grilling Time
    [79B] 0xC432508AF2D67B95: Find a grill and make some burgers.
    [79C] 0x6CE012E226165180: The partygoers are in your debt for keeping the house clean.
-   [79D] 0x4704FDDCA3A42AA4: Party goers are a messy type, and that can’t be tolerated! Show your house some love and clean up after the party. It’s a great way to curry favor with your roommates.
+   [79D] 0x4704FDDCA3A42AA4: Party goers are a messy type, and that can’t be tolerated! Show your house some love and clean up after the party. It’s a great way to curry favor with your roommates.\n\nUNKNOWN GUID
    [79E] 0xE4FA337F85BDAFE8: Cleaning up after a raging party didn’t sound like a fun time.
    [79F] 0x9381B4CFA09E3DFD: Clean up the lot
    [7A0] 0xA59307CFAB10018B: Time to Clean
    [7A1] 0x73AABA7EFDDCCB97: Clean up the lot.
    [7A2] 0x2AD321017EBC35F6: Everyone is guessing which effect you’ll have from that herb.
-   [7A3] 0xAAABF2153EE6B422: This party isn’t going so great for you. Change your mood by eating some herbs. It’ll turn a fun party into an epic party!
+   [7A3] 0xAAABF2153EE6B422: This party isn’t going so great for you. Change your mood by eating some herbs. It’ll turn a fun party into an epic party!\n\nUNKNOWN GUID
    [7A4] 0xD1FDB241F1F04CA2: You weren’t in the mood to eat herbs at the party.
    [7A5] 0xE770E9A8DA003537: Find and Eat an Herb
    [7A6] 0xD55F74A8CF8E377D: Eat an Herb
    [7A7] 0xD4C0ECC3AF6FC2FD: Find an herb and eat it.
    [7A8] 0x3955C4DA47AF01CE: Sometimes a good fight will liven up a dull party.
-   [7A9] 0x24C06EABEDF872CA: Things are getting a little dull around this party and you’re looking to liven things up. A good old fashioned fight is in order. You might get hurt, but at least you’ll be entertained!
+   [7A9] 0x24C06EABEDF872CA: Things are getting a little dull around this party and you’re looking to liven things up. A good old fashioned fight is in order. You might get hurt, but at least you’ll be entertained!\n\nEP9_DareGreek_Fight
    [7AA] 0x2324DB813683B7CA: The party was crazy enough to start a fight.
    [7AB] 0x5E2B7279584CDDDF: Start a fight at the party.
    [7AC] 0x4F4A3D795090E5B5: Fight!
    [7AD] 0x94252BB341AE1C45: Start a fight at the party.
    [7AE] 0x8A1A87B59B2B4372: The party loved watching you throw down at Juice-Pong!
-   [7AF] 0xEA8A10EC3FC5B456: Attending this party meant adhering to certain conditions. One of them is participating in a round of Juice Pong. Go find a Sim to challenge at the Table Tennis table!
+   [7AF] 0xEA8A10EC3FC5B456: Attending this party meant adhering to certain conditions. One of them is participating in a round of Juice Pong. Go find a Sim to challenge at the Table Tennis table!\n\nEP9_DareGreek_JuicePong
    [7B0] 0x49D5BC9243640E2E: Juice-Pong is fun and all, but not at tonight’s party.
    [7B1] 0xACD8CF9321C209EB: Play a game of juice pong.
    [7B2] 0xDFDCC2933E61B369: Play Juice-Pong
    [7B3] 0x72F54AE83B66A959: Play a game of Juice-Pong.
    [7B4] 0xD0FA622F676DAC61: Your epic keg stand is the talk of the party.
-   [7B5] 0x9DDCF5AEC4F5AA2F: Attending a party this awesome and not being juiced would be a travesty! Take a stab at a keg stand and show everyone your amazing keg standing prowess.
+   [7B5] 0x9DDCF5AEC4F5AA2F: Attending a party this awesome and not being juiced would be a travesty! Take a stab at a keg stand and show everyone your amazing keg standing prowess.\n\nEP9_DareGreek_KegStand
    [7B6] 0x4758B6FA078A2CFF: There was too much pressure to perform a keg stand in front of the party.
    [7B7] 0x45EE8BC05C492C74: Find a keg and do a keg stand.
    [7B8] 0x781980C07830E876: Keg Stand
    [7B9] 0x329EAEF8AB151B56: Find a keg and do a keg stand.
    [7BA] 0xA52DED68D0D4851E: Everyone will congratulate you on that make out session you had.
-   [7BB] 0x64966D93AAC1C37A: Partying, getting juiced and social awkwardness go hand in hand. Why don't you find another Sim and make out with them?
+   [7BB] 0x64966D93AAC1C37A: Partying, getting juiced and social awkwardness go hand in hand. Why don't you find another Sim and make out with them?\n\nEP9_DareGreek_MakeOut
    [7BC] 0x0D606529AA03753A: You couldn’t find an interested partner to make out with.
-   [7BD] 0x689F38D1241BAE4F: make out with someone
+   [7BD] 0x689F38D1241BAE4F: Make out with someone
    [7BE] 0x5730C3D11A341105: Make Out Session
    [7BF] 0x8CD49F10D19A1B35: Make out with another Sim. 
    [7C0] 0x16284E7A6EA0F9DA: Running around in the buff both excited and scared the other partygoers.
-   [7C1] 0xEE6F9BB04BA0A5EE: Nothing says embarrassment better than a stroll through a house full of strangers with only your birthday suit on. Let go of your inhibitions and streak!
+   [7C1] 0xEE6F9BB04BA0A5EE: Nothing says embarrassment better than a stroll through a house full of strangers with only your birthday suit on. Let go of your inhibitions and streak!\n\nEP9_DareGreek_Streak
    [7C2] 0x4A962065558E8466: Streaking at this party just didn’t seem appropriate.
    [7C3] 0xA944750E3E6F8763: Streak.
    [7C4] 0xDF0B880E5D682EF1: Streak
    [7C5] 0xFD2460D789364791: Go streaking.
    [7C6] 0x0776B5B2DE93D505: Your juice drinking totally raised the roof!
-   [7C7] 0xD596396036EC17AB: Getting super juiced is a great way to hide the shame of embarrassment incurred while doing something inappropriate at a party. Show everyone you have no fear of shame!
+   [7C7] 0xD596396036EC17AB: Getting super juiced is a great way to hide the shame of embarrassment incurred while doing something inappropriate at a party. Show everyone you have no fear of shame!\n\nEP9_DareGreek_SuperJuiced
    [7C8] 0xF2183696BB5E56A3: You’re having too great of a time at the party to spend it juiced.
    [7C9] 0x93723F09DE4E7CC0: Get the super juiced moodlet.
    [7CA] 0x8160EC09D3DCB82A: Get Super Juiced
    [7CB] 0x0406EA9171ABEFFA: Get the Super Juiced moodlet.
    [7CC] 0x95EBCE7992FDDF6D: While everyone else was partying, you had your own private party.
-   [7CD] 0xBDC942380F5BACC3: Part of a great rush party is getting your groove on and making connections with other Sims. Make some WooHoo and show off your party spirit.
+   [7CD] 0xBDC942380F5BACC3: Part of a great rush party is getting your groove on and making connections with other Sims. Make some WooHoo and show off your party spirit.\n\nEP9_DareGreek_Woohoo
    [7CE] 0x983CBC68EF8119BB: Everyone was having too much fun at the party to WooHoo.
-   [7CF] 0x31D1DED661325FB8: Find a sim to WooHoo with.
+   [7CF] 0x31D1DED661325FB8: Find a Sim to WooHoo with.
    [7D0] 0x1F8A8BD656930B92: WooHoo!
    [7D1] 0xF1A9672C400940F2: WooHoo with another Sim.
    [7D2] 0x6C3FBFBF815F7B91: You completed the dare!
-   [7D3] 0x8353DD88F5BE59FF: A dare has been issued! Cheating on a test is a real challenge. Ask for some Exam Answers and cheat on an exam without getting caught.
+   [7D3] 0x8353DD88F5BE59FF: A dare has been issued! Cheating on a test is a real challenge. Ask for some Exam Answers and cheat on an exam without getting caught.\n\nEP9_DareToAskForTestAnswers
    [7D4] 0xDE7E536CAA10770F: You weren’t Sim enough to complete the dare.
-   [7D5] 0x85FE8F3C5EF50004: collect some test answers and cheat without getting caught
+   [7D5] 0x85FE8F3C5EF50004: Collect some test answers and cheat without getting caught.
    [7D6] 0xB902843C7B94AD26: Dare to Ask for Exam Answers
    [7D7] 0x16FDE1FCC8F0BD66: Get exam answers and cheat without getting caught.
    [7D8] 0xE502A1BDFD5C377A: You completed the dare!
-   [7D9] 0x79E30385F2D76F0E: A dare has been issued! Shy or outgoing, no one gets out of this challenge. Find a Sim and ask them out or suffer a shame like no other.
+   [7D9] 0x79E30385F2D76F0E: A dare has been issued! Shy or outgoing, no one gets out of this challenge. Find a Sim and ask them out or suffer a shame like no other.\n\nEP9_DareToAsmSimOut
    [7DA] 0x61921DE73FE12186: You weren’t Sim enough to complete the dare.
    [7DB] 0x9C5BF7AD88EFF903: Ask a Sim out on a date
    [7DC] 0xD2230AADA7E8A091: Dare to Ask Someone Out
    [7DD] 0x569C227684CCFA31: Ask a Sim out on a date.
    [7DE] 0xE822B75A4159B7A1: You completed the dare!
-   [7DF] 0x155D2F76B9DFD16F: A dare has been issued! Playing with fire is both exciting and dangerous. Find some herbs and spice up a bonfire!
+   [7DF] 0x155D2F76B9DFD16F: A dare has been issued! Playing with fire is both exciting and dangerous. Find some herbs and spice up a bonfire!\n\nEP9_DareToBonFire
    [7E0] 0xC13D8619FC9F753F: You weren’t Sim enough to complete the dare.
    [7E1] 0x1A24A6234F8FD9B4: Spice up a bonfire
    [7E2] 0x4FB59B236E5ABEB6: Dare to Spice It Up
    [7E3] 0xC56504721FEB5C96: Spice up a bonfire.
    [7E4] 0xC91DD763624C590D: You completed the dare!
-   [7E5] 0xA01DF7969F593BE3: A dare has been issued! It takes a real talent to cheat on an exam and not get caught. Cheat without getting caught and show everyone who knows how to cheat!
+   [7E5] 0xA01DF7969F593BE3: A dare has been issued! It takes a real talent to cheat on an exam and not get caught. Cheat without getting caught and show everyone who knows how to cheat!\n\nEP9_DaretoCheat
    [7E6] 0x89DC753C33E11CDB: You failed to complete the dare.
    [7E7] 0x14DFC0B7DCB54358: Cheat without getting caught
    [7E8] 0x05FE6DB7D4F91832: Dare to Cheat
@@ -2035,7 +2035,7 @@ Unknown3: 0x00000000
    [7EE] 0x712CA94E3DD4B6B7: EP9_DareToCurseFateName Placeholder DO NOT TRANSLATE
    [7EF] 0x2014DF9A5D008923: EP9_DareToCurseFateProgress Placeholder DO NOT TRANSLATE
    [7F0] 0x893C4B3ED65ED4F6: You completed the dare!
-   [7F1] 0xB9FDB851283AE122: A dare has been issued! It’s time to give your stomach a wild ride and consume a whole bunch of herbs. Keep going until you get sick!
+   [7F1] 0xB9FDB851283AE122: A dare has been issued! It’s time to give your stomach a wild ride and consume a whole bunch of herbs. Keep going until you get sick!\n\nEP9_DareToDivideByZero
    [7F2] 0x0D15AB56904C29A2: You weren't Sim enough to complete the dare.
    [7F3] 0x0CAD66B5EB6FCC37: Eat herbs until nauseous.
    [7F4] 0xFA9BF1B5E0FDCE7D: Dare to Eat Herbs Until Nauseous
@@ -2047,13 +2047,13 @@ Unknown3: 0x00000000
    [7FA] 0xD43F556E17D170C2: EP9_DareToDoAKegStandName Placeholder DO NOT TRANSLATE
    [7FB] 0x5CA2546614C18782: EP9_DareToDoAKegStandProgress Placeholder DO NOT TRANSLATE
    [7FC] 0x550647E57C4F2893: You completed the dare!
-   [7FD] 0x278AE61BA5D7BD29: A dare has been issued! Sometimes energy drinks are used to stay awake. With the amount you’ll be drinking you may be up for days.
+   [7FD] 0x278AE61BA5D7BD29: A dare has been issued! Sometimes energy drinks are used to stay awake. With the amount you’ll be drinking you may be up for days.\n\nEP9_DareToDrinkEnergyDrinks
    [7FE] 0x5D6CDDF1EFD31EC5: You weren’t Sim enough to complete the dare.
    [7FF] 0x544751CBE8DFCF62: Drink 3 energy drinks
    [800] 0x21435ECBCC4025CC: Dare to Drink Energy Drinks
    [801] 0x25E1F8F45A94D8A8: Drink 3 energy drinks.
    [802] 0x31CACDADFCB30040: You completed the dare!
-   [803] 0x8338DA54BC73F264: A dare has been issued! Dumpsters offer a plethora of free items like trash, furniture and electronics. Just be careful not to fall in!
+   [803] 0x8338DA54BC73F264: A dare has been issued! Dumpsters offer a plethora of free items like trash, furniture and electronics. Just be careful not to fall in!\n\nEP9_DareToDumpsterDive
    [804] 0x925B7B2B6C9FFDA8: You weren’t Sim enough to complete the dare.
    [805] 0xB5486B18880659BD: Find a dumpster and dive in
    [806] 0xC759BE1892781E4B: Dare to Dumpster Dive
@@ -2065,66 +2065,66 @@ Unknown3: 0x00000000
    [80C] 0x506B2FAE7BC449C8: EP9_DareToEatABugName Placeholder DO NOT TRANSLATE
    [80D] 0x4BD887CECDBE6D84: EP9_DareToEatABugProgress Placeholder DO NOT TRANSLATE
    [80E] 0xD9E1E412B6872C2F: You completed the dare!
-   [80F] 0x864ABF9D90A122DD: A dare has been issued! Find some cinnamon and eat it raw. It is like a powdery fire in your mouth!
+   [80F] 0x864ABF9D90A122DD: A dare has been issued! Find some cinnamon and eat it raw. It is like a powdery fire in your mouth!\n\nEP9_DareToEatCinnamon
    [810] 0xC9395050C192BC91: You weren’t Sim enough to complete the dare.
    [811] 0x684AAA34DE3B3ED6: Eat some cinnamon
    [812] 0x76F5FF34E5C9DD08: Dare to do the Cinnamon Challenge
    [813] 0x5F633DDA1F18C3C4: Eat some raw cinnamon.
    [814] 0xD84159EAA3A3527A: You completed the dare!
-   [815] 0x1490F7647DAA500E: A dare has been issued! Find and consume a Wonderpetal and suffer the effects of this excellent herb.
+   [815] 0x1490F7647DAA500E: A dare has been issued! Find and consume a Wonderpetal and suffer the effects of this excellent herb.\n\nEP9_DaretoEatHerbs
    [816] 0xE4966A4D5FFA7286: You weren’t Sim enough to complete the dare.
    [817] 0xAB0784BFA107EC03: Find and eat a Wonderpetal herb without getting Herb Nausea.
    [818] 0xE0CE97BFC0009391: Dare to Eat an Herb
    [819] 0x5492EBE2C9E2B790: You completed the dare!
-   [81A] 0x1944C59C741A6C94: A dare has been issued! It has been too long since the last time you were juiced. Find a juice keg and get drinking and don’t stop until you are Super Juiced!
+   [81A] 0x1944C59C741A6C94: A dare has been issued! It has been too long since the last time you were juiced. Find a juice keg and get drinking and don’t stop until you are Super Juiced!\n\nEP9_DareToGetJuiced
    [81B] 0x6B66033AAB0A2CD8: You weren’t Sim enough to complete the dare.
    [81C] 0x93ACFB7116CCE06D: Get the Super Juiced moodlet
    [81D] 0xA5BE4E71213EA41B: Dare to get Juiced
    [81E] 0x0E02451FDE1BE787: Drink juice until you’re Super Juiced.
    [81F] 0xE922C4FA0271F0D6: You completed the dare!
-   [820] 0xFEF4C95133A52E82: A dare has been issued! Do you have the guts to Imply someone else’s mother is a Llama? It is time to find out.
+   [820] 0xFEF4C95133A52E82: A dare has been issued! Do you have the guts to Imply someone else’s mother is a Llama? It is time to find out.\n\nEP9_DareToImplyMotherIsALlama
    [821] 0x1320DD61172F3C02: You weren’t Sim enough to complete the dare.
    [822] 0x1D3DC6D1F36BE717: Imply someone else’s mother is a llama
    [823] 0x0E9351D1EBDEC55D: Dare to Imply Someone’s Mother is a Llama
    [824] 0x2C0E5FC2079A49DD: Imply someone else’s mother is a llama.
    [825] 0x81203691F46FD415: You completed the dare!
-   [826] 0xCB338FE46C13BBDB: A dare has been issued! Every Sim who desires to be juiced must pass the Keg Stand initiation. Find a Keg and perform a Keg Stand!
+   [826] 0xCB338FE46C13BBDB: A dare has been issued! Every Sim who desires to be juiced must pass the Keg Stand initiation. Find a Keg and perform a Keg Stand!\n\nEP9_DareToDoAKegStand
    [827] 0xF31FFADD2005BF53: You weren’t Sim enough to complete the dare.
    [828] 0x86289500D4AAA5B0: Perform a keg stand with a keg
    [829] 0x74174200CA38E13A: Dare to Keg Stand
    [82A] 0x1CDD35A7C79D7C6A: Perform a Keg Stand with a Keg.
    [82B] 0xFBD56E600642FDAB: You completed the dare!
-   [82C] 0xAF9B3466927AEA31: A dare has been issued! Find a random Sim and successfully Kiss them or forever be mocked by your peers.
+   [82C] 0xAF9B3466927AEA31: A dare has been issued! Find a random Sim and successfully Kiss them or forever be mocked by your peers.\n\nEP9_DareToKissSim
    [82D] 0x183E34DA1DC9186D: You weren’t Sim enough to complete the dare.
    [82E] 0xD9569742CDA7072A: Find and kiss a random Sim
-   [82F] 0xA6F5C442B191F5C4: Dare to Kiss another Sim
+   [82F] 0xA6F5C442B191F5C4: Dare to Kiss Another Sim
    [830] 0x9ECFB374D3EE07B0: Kiss a random Sim.
    [831] 0x9A37C29A8C0083AC: You completed the dare!
-   [832] 0x8B59448C2B7DF088: A dare has been issued! Getting juiced is fun when it involves a table, a bunch of cups and some tiny balls. Play some Juice-Pong and try not to get juiced!
+   [832] 0x8B59448C2B7DF088: A dare has been issued! Getting juiced is fun when it involves a table, a bunch of cups and some tiny balls. Play some Juice-Pong and try not to get juiced!\n\nEP9_DareToPlayJuicePong
    [833] 0x7ADD04BB93E1E6E4: You weren’t Sim enough to complete the dare.
    [834] 0xA20C01A860852241: Play a round of juice pong
    [835] 0x6FE10CA8449D6647: Dare to Play Juice-Pong
    [836] 0x43048945581AF713: Play a round of Juice-Pong.
    [837] 0x11463DCB714FA40E: You completed the dare!
-   [838] 0x9F4AD390E084F70A: A dare has been issued! Ranting is well and good, but have you ever ranted about death? You may be in for a real surprise.
+   [838] 0x9F4AD390E084F70A: A dare has been issued! Ranting is well and good, but have you ever ranted about death? You may be in for a real surprise.\n\nUNKNOWN GUID
    [839] 0x02672DFC43F3760A: You weren’t Sim enough to complete the dare.
    [83A] 0x4A661BD3D8A4FE1F: Rant about Death
    [83B] 0x381DE6D3CE042AF5: Dare to Rant About Death
    [83C] 0xC277683357A19185: Rant about Death.
    [83D] 0x8B08F00AB9F941A6: You completed the dare!
-   [83E] 0xD28E0DB7111701B2: A dare has been issued! Running around in the buff is both embarrassing and exhilarating. Now get to it!
+   [83E] 0xD28E0DB7111701B2: A dare has been issued! Running around in the buff is both embarrassing and exhilarating. Now get to it!\n\nEP9_DareToStreak
    [83F] 0xC2C40BC855431C32: You weren’t Sim enough to complete the dare.
    [840] 0x185004900117E1C7: Streak on the {OpTarget}.
    [841] 0x063ECF8FF6A6502D: Dare to Streak
    [842] 0xE202E88207F61FCD: Streak anywhere in town.
    [843] 0xDF72404A69E25CBC: You completed the dare!
-   [844] 0x5395977832CD87F8: A dare has been issued! Make your mark and create some street art in town.
+   [844] 0x5395977832CD87F8: A dare has been issued! Make your mark and create some street art in town.\n\nEP9_DareToTag
    [845] 0xA7B45C527559CF54: You weren’t Sim enough to complete the dare.
    [846] 0x4727ED9A1CA76D31: Make street art at the {OpTarget}.
    [847] 0x1423F89A0007C017: Dare to Paint Street Art
    [848] 0x8C3810DBB4F12183: Create street art anywhere in town.
    [849] 0x475C90CB0CDFB930: You completed the dare!
-   [84A] 0xF02C2FA30B212BB4: A dare has been issued! Go find a Sim and show them a gross video. Their reaction will be priceless!
+   [84A] 0xF02C2FA30B212BB4: A dare has been issued! Go find a Sim and show them a gross video. Their reaction will be priceless!\n\nEP9_DareToWatchGrossVideo
    [84B] 0x2805820CDF77AAF8: You weren’t Sim enough to complete the dare.
    [84C] 0xF15D3457DC3C340D: Show another Sim a gross video.
    [84D] 0x00088757E3CACFBB: Dare to Show a Gross Video
@@ -2216,7 +2216,7 @@ Unknown3: 0x00000000
    [8A3] 0xAC612045BF959D15: Get Paid for Your Excess Plasma
    [8A4] 0xE4D617EECBE828A5: Visit the {OpTarget} and offer to donate plasma for the deficient Sim.
    [8A5] 0x0B30D27EDB5BB470: You just enrolled in University! Enrolling in University also earned your household some extra Simoleons to help pay for tuition!
-   [8A6] 0xEE68235DF89DADF4: All Sims deserve a leg toward their future careers. Enroll in University and earn a degree that will help benefit your future career with extra pay, faster career advancement and improved performance.
+   [8A6] 0xEE68235DF89DADF4: All Sims deserve a leg toward their future careers. Enroll in University and earn a degree that will help benefit your future career with extra pay, faster career advancement and improved performance.\n\nEP9_EnrollInSchool
    [8A7] 0x5D506FFDE4DF6738: You waited too long to enroll in University, but the phone and computer are always available to enroll if you change your mind!
    [8A8] 0x7BEF149580CBB54D: Use the computer to Enroll in University
    [8A9] 0x8E0067958B3D79FB: Enroll in University
