@@ -111,7 +111,7 @@ Unknown3: 0x00000000
    [006A] 0xE2A9BB87B7BD323E: Chinese Bamboo is some of the most sought after bamboo in the world.
    [006B] 0x4C61E534BE3D826F: The great thing about a banana tree is that it doesn't even have to grow bananas to still look like an awesome tree.
    [006C] 0xA79C7F8EB6C8536A: Don't be caught off guard by this tree's bright colors. It's not as domestic as you might think.
-   [006D] 0xE6B2341B2200E279: To no suprise, the harvesting of cinnamon trees happens much more frequently during the holidays.
+   [006D] 0xE6B2341B2200E279: To no surprise, the harvesting of cinnamon trees happens much more frequently during the holidays.
    [006E] 0x6B5BE76B2BEF0C91: From a lone cypress to the Siberian Cypress, different breeds of the cypress can be found across the world!
    [006F] 0x1349720258C72889: The Chinese Elm's broad base is what sets it apart from other Elm trees.
    [0070] 0xAD08C255F0B5DBC0: All maple tree owners know that getting syrup from a maple tree is much harder than it looks on TV.
@@ -123,7 +123,7 @@ Unknown3: 0x00000000
    [0076] 0x70A863C7B5F5FAE3: This product is a window. Or is it a garden? No one can quite tell for sure as it was originally marketed as a garden view window until the garden came to the window, and in fact, became the window!
    [0077] 0x792D726460C70234: King Qing was the first emperor of the Second Dynasty to install glass windows in the Palatial Palace. Previous emperors had to weather windstorms, monsoons, and the occasional barbarian attack without the peace and quiet of a fully sealed restroom.
    [0078] 0xF67BA172F61D84EC: Unlike many of its competing products, this viewing screen comes with a subscription service. Its creators believe that whatever is seen through their window is actually entertainment they have provided you. Due to the amount of lawsuits that have been filed, customers are no longer required to pay an activation fee.
-   [0079] 0x4851764BEBF120A8: Do dust storms keep getting sand in your shawerma? Foliage in your falafel? Install the Desert Shield in your open-air house today and keep the desert out while still retaining the natural beauty of the outside world!
+   [0079] 0x4851764BEBF120A8: Do dust storms keep getting sand in your shawarma? Foliage in your falafel? Install the Desert Shield in your open-air house today and keep the desert out while still retaining the natural beauty of the outside world!
    [007A] 0xE7D6FEB923FA9465: Before blinds and drapes became widely accepted around the world, latticed windows were used to keep peeping eyes out of the affairs of others.
    [007B] 0x6FBA4F8E5CFB1553: It’s a well known fact that the super fine grains of sand found only in the Simomian Desert make the best window glass. Unfortunately, this window doesn’t use that sand. In fact, it’s actually more of a novelty decoration than anything else.
    [007C] 0x2DC303854415BB91: Hello and Goodbye!! Glass shapers designed this window for the specific use of waving hello or goodbye to guests at your residence. Using advanced glass heating techniques, the glass molecules contained in this window can actually enhance the emotion conveyed through this receiving, or parting gesture.
@@ -430,7 +430,7 @@ Unknown3: 0x00000000
    [01A9] 0xDF1C8FEA9FA8194F: The coziest of homes for the closest of families. Set on a large lot, the yard is yours for landscaping or outdoor parties.
    [01AA] 0x86013A7336AB7759: The Azalea House
    [01AB] 0x48314FCCC6B8C20D: The Citron House
-   [01AC] 0x80509E35B4327480: Camp Azelea
+   [01AC] 0x80509E35B4327480: Camp Azalea
    [01AD] 0xE31C2D75BC0C2098: Camp Chrysanthemum
    [01AE] 0x0290D017E20CFA79: Camp Lotus
    [01AF] 0x3740446F43E637FD: Camp Orchid
@@ -533,7 +533,7 @@ Unknown3: 0x00000000
    [0210] 0x64A73FBA2EC57F45: 9 Marketview Place
    [0211] 0x64A73FBA2EC57F44: 11 Marketview Place
    [0212] 0x64A73FBA2EC57F43: 9 Quarry View Place
-   [0213] 0x7F83CC875098D8FB: 5 Marketiew Place
+   [0213] 0x7F83CC875098D8FB: 5 Marketview Place
    [0214] 0x45CD84EDF3B8B2B3: 13 Marketview Place
    [0215] 0x45CD84EDF3B8B2B2: 40 West Riverview Place
    [0216] 0xE5951DC89B965B6C: 1 Quarry View Place
@@ -783,8 +783,8 @@ Unknown3: 0x00000000
    [030A] 0xDCF599C199DDE56A: The Focused Athlete
    [030B] 0x8FE46C553D08751F: Learn Martial Arts
    [030C] 0x96CFF3CE12953FEE: Learn Martial Arts
-   [030D] 0x4A0F7ABF38DF596F: There was a scholarly air about you when you returned. Everybody in the office liked you just a bit more and your job performace was increased!
-   [030E] 0x88784840DC69BAFE: There was a scholarly air about you when you returned. Everybody in the office liked you just a bit more and your job performace was increased!
+   [030D] 0x4A0F7ABF38DF596F: There was a scholarly air about you when you returned. Everybody in the office liked you just a bit more and your job performance was increased!
+   [030E] 0x88784840DC69BAFE: There was a scholarly air about you when you returned. Everybody in the office liked you just a bit more and your job performance was increased!
    [030F] 0xB7A701EDA384F7AF: {1.SimFirstName} can feel the inner peace building with every second. Well, we don't want too much inner peace do we? {1.SimFirstName} can head home whenever he wishes.
    [0310] 0x5C04E50DCB0C8A1D: A pilgrimage to a sedentary spot could bring greater inner peace and focus making you a more valuable Athlete. Visit a Scholar’s Garden and spend some time taking in the air. Your co-workers will be impressed with the new you.
    [0311] 0xE647519268620A98: A pilgrimage to a sedentary spot could bring greater inner peace and focus making you a more valuable Athlete. Visit a Scholar’s Garden and spend some time taking in the air. Your co-workers will be impressed with the new you.
@@ -868,8 +868,8 @@ Unknown3: 0x00000000
    [035F] 0x1C22850A2E043529: Thank you for the package, you can tell your employers that it has safely arrived and you are to be commended.
    [0360] 0x3A0AF1FD3473BFCC: You've found yourself in the middle of a international smuggling ring. Travel to Al Simhara and deliver a secret package to a local contact. Your job performance depends on this and there’ll be a nice raise once you complete the delivery.
    [0361] 0xEA4E17E5BFCF8DCF: You've found yourself in the middle of a international smuggling ring. Travel to Al Simhara and deliver a secret package to a local contact. Your job performance depends on this and there’ll be a nice raise once you complete the delivery.
-   [0362] 0x9D4248E4BD822970: How could you lose the package?! The smuggling ring wll think twice about selecting you for a operation of this size next time.
-   [0363] 0x1589F5ACF572860B: How could you lose the package?! The smuggling ring wll think twice about selecting you for a operation of this size next time.
+   [0362] 0x9D4248E4BD822970: How could you lose the package?! The smuggling ring will think twice about selecting you for a operation of this size next time.
+   [0363] 0x1589F5ACF572860B: How could you lose the package?! The smuggling ring will think twice about selecting you for a operation of this size next time.
    [0364] 0xD6629AC59C7ED505: Go to Egypt and deliver the package in your inventory to a local contact to increase your job performance and earn a raise.
    [0365] 0x95343F6CA095ABE0: Go to Egypt and deliver the package in your inventory to a local contact to increase your job performance and earn a raise.
    [0366] 0xE8A9EDC5A71E2923: Egyptian Delivery
@@ -880,8 +880,8 @@ Unknown3: 0x00000000
    [036B] 0x21EAB114D444A75A: The delivery went smoothly and you were commended for your discretion and professionalism. Its not easy to be a smooth criminal; you received a raise for a job well done.
    [036C] 0xDEC87F570618FF89: You’ve been given a thin paper package to deliver to a contact in Champs Les Sims, France. You suspect that it contains the names of all the major crime bosses on the continent. Pass on this crucial document and report back to work to receive a raise.
    [036D] 0x1FEB777CBCBA411C: You’ve been given a thin paper package to deliver to a contact in Champs Les Sims, France. You suspect that it contains the names of all the major crime bosses on the continent. Pass on this crucial document and report back to work to receive a raise.
-   [036E] 0x866AC95A6C5A0525: You misplaced the package with the sensitive information proving yourself a most incompetent criminal. Maybe next time you'll be more carefull!
-   [036F] 0x1CA406263C59DB40: You misplaced the package with the sensitive information proving yourself a most incompetent criminal. Maybe next time you'll be more carefull!
+   [036E] 0x866AC95A6C5A0525: You misplaced the package with the sensitive information proving yourself a most incompetent criminal. Maybe next time you'll be more careful!
+   [036F] 0x1CA406263C59DB40: You misplaced the package with the sensitive information proving yourself a most incompetent criminal. Maybe next time you'll be more careful!
    [0370] 0x9DAFDBFDD1E88442: Go to France and deliver the thin package in your inventory to a local contact to earn a raise.
    [0371] 0xFD86DEE08F454E71: Go to France and deliver the thin package in your inventory to a local contact to earn a raise.
    [0372] 0x6744E8FDB263FEAC: French Delivery
@@ -987,8 +987,8 @@ Unknown3: 0x00000000
    [03D6] 0x1874C9732D49BE0C: Historical Interview
    [03D7] 0xDA216F51BA1356C9: Interview {2.String}
    [03D8] 0xB0286A96317E055C: Interview {2.String}
-   [03D9] 0xBB31C997DB4F2C3D: You handled the interviews with great sensitivity and insight. The newpaper paid a stipend for your travels and you got a nice raise as well!
-   [03DA] 0x8126233D9A865678: You handled the interviews with great sensitivity and insight. The newpaper paid a stipend for your travels and you got a nice raise as well!
+   [03D9] 0xBB31C997DB4F2C3D: You handled the interviews with great sensitivity and insight. The newspaper paid a stipend for your travels and you got a nice raise as well!
+   [03DA] 0x8126233D9A865678: You handled the interviews with great sensitivity and insight. The newspaper paid a stipend for your travels and you got a nice raise as well!
    [03DB] 0x64C5CA09A7882B95: The responses have been varied and full of good anecdotes. Time to head back to work and compile these notes.
    [03DC] 0x064FE99707990D33: The editor of the paper wants to cover current lifestyles in foreign locations. You will need to travel to France and conduct some interviews to present a day in the life view of French cultures. Your job performance will improve if you can do a good job.
    [03DD] 0x7715149B8FB2271A: The editor of the paper wants to cover current lifestyles in foreign locations. You will need to travel to France and conduct some interviews to present a day in the life view of French culture. Your job performance will improve if you can do a good job.
@@ -1044,8 +1044,8 @@ Unknown3: 0x00000000
    [040F] 0xD2C2BC66269D1AC2: French Seminar
    [0410] 0x9EC2CFC8DEA06347: Attend Siminar in France
    [0411] 0x7443D6FA82EC5DB6: Attend Siminar in France
-   [0412] 0xACA7D96950011A92: It was tricky hiding the Scarab beetles in your suitcase, but you perservered for the good of medical science!
-   [0413] 0x2F35C2076377E601: It was tricky hiding the Scarab beetles in your suitcase, but you perservered for the good of medical science!
+   [0412] 0xACA7D96950011A92: It was tricky hiding the Scarab beetles in your suitcase, but you persevered for the good of medical science!
+   [0413] 0x2F35C2076377E601: It was tricky hiding the Scarab beetles in your suitcase, but you persevered for the good of medical science!
    [0414] 0x792F74C5FD491CF6: The pharmaceutical lab would like to conduct some research on Scarab beetles. Hospital staff travelling to Egypt in the near future have been asked to collect some and bring them in.
    [0415] 0xD75E5E46DD3E47AD: The pharmaceutical lab would like to conduct some research on Scarab beetles. Hospital staff travelling to Egypt in the near future have been asked to collect some and bring them in.
    [0416] 0x08D17A61F94459CE: EP1_CareerMedical_GetScarabsFailure
@@ -1917,7 +1917,7 @@ Unknown3: 0x00000000
    [0778] 0x41A48722B2D79F7B: A More Romantic Tower
    [0779] 0x6D5BF9E9395CF3E7: Photograph the Eiffel Tower at Night
    [077A] 0x4823D4EDB2245275: “Holy moley! I am shocked you actually found a bottle this excellent I’m a bit tempted to sample the Nectar as it must be fantastic, but that would be foolish and short-sighted. I must think of the exhibit, which is almost complete!”
-   [077B] 0xEAB638BA9F89A9BB: “The history of Champs Les Sims is intertwined with Nectar. Without Nectar, Champs Les Sims would not exist! Please find an old and high quality bottle of Nectar. I think an oustanding bottle is good enough. I the cellar under the Nectary stretches on for miles, and you can find some very old and tasty bottles there!”
+   [077B] 0xEAB638BA9F89A9BB: "The history of Champs Les Sims is intertwined with Nectar. Without Nectar, Champs Les Sims would not exist! Please find an old and high quality bottle of Nectar. I think an outstanding bottle is good enough. The cellar under the Nectary stretches on for miles, and you can find some very old and tasty bottles there!"
    [077C] 0x79B9082889AE5A10: Find an outstanding bottle of Nectar and “Deliver Nectar” to {2.String} to receive some Simoleons.
    [077D] 0x6B0DB528821FBE9A: Historic Nectar
    [077E] 0xE1674585EDA9B24E: “Magnifique! You single-handedly, with my direction of course, built this Champs Les Sims cultural exhibit from nothing to... something incredible. I believe this exhibit will be a huge success, bringing many visitors to Champs Les Sims. Thank you a thousand times! I hope this more than compensates you for your time.”
@@ -2035,7 +2035,7 @@ Unknown3: 0x00000000
    [07EE] 0x018F61D26B48E3C1: Losing that journal wasn't a very good idea. Now {2.String} can't figure out what happened to Anastasia!
    [07EF] 0x537C5146FEB55074: Losing that journal wasn't a very good idea. Now {2.String} can't figure out what happened to Anastasia!
    [07F0] 0xE0DCA8E101A6CC34: Deliver Journal
-   [07F1] 0xEB6E1CF3511929BE: “The former groundskeeper of the Landgraab estate, Willard Leroo, kept a journal that I believe may contain first-hand information about the disappearance of Anastasia Necteaux. Please journey to the shack, located on the grounds of the Landgrab Chateau, and recover his journal for me.”
+   [07F1] 0xEB6E1CF3511929BE: "The former groundskeeper of the Landgraab estate, Willard Leroo, kept a journal that I believe may contain first-hand information about the disappearance of Anastasia Necteaux. Please journey to the shack, located on the grounds of the Landgraab Chateau, and recover his journal for me."
    [07F2] 0x539E79AFF9C5F033: Find the Groundskeeper’s Journal within the groundskeeper’s shack at Landgraab Chateau, then “Deliver Journal” to {2.String} to receive some Ancient Coins.
    [07F3] 0x87F1FD6DA74E581A: Find the Groundskeeper’s Journal within the groundskeeper’s shack at Landgraab Chateau, then “Deliver Journal” to {2.String} to receive some Ancient Coins.
    [07F4] 0x86D94CB01694A5A1: The Groundskeeper’s Journal
