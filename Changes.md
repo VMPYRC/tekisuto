@@ -119,12 +119,24 @@
   + Formatting
   + Spelling
   + Grammar
+  + Punctuation
+    + Replaced all instances of “” with ""
+    + Replaced all instances of – with -
+    + Replaced SOME instances of ’ with '
+    + Affected Files
+      + EP2_Ambitions
+      + EP5_Pets
+      + SP3_Outdoor_Living
+      + SP6_Katy_Perry's_Sweet_Treats
+      + SP8_70s_80s_90s
 + Added Opportunities' GUID to Descriptions
   + SOME
     + BaseGame
     + EP9_UniversityLife
 + Added SP6_Katy_Perry's_Sweet_Treats
   + Double Spaces Removed
+  + Would you like, not Do you want
+
 
 # Planned Changes
 
