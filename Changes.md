@@ -113,7 +113,7 @@
     + BaseGame
     + EP11_IntoTheFuture
 
-## v0.0.7 - Opportunities GUID 2
+## v0.0.8 - 2024 Update
 
 + Minor Fixes
   + Formatting
@@ -123,6 +123,8 @@
   + SOME
     + BaseGame
     + EP9_UniversityLife
++ Added SP6_Katy_Perry's_Sweet_Treats
+  + Double Spaces Removed
 
 # Planned Changes
 
