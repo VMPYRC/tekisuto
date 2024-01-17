@@ -18,14 +18,14 @@
 + English Only
 + Steam Version
 + Expansion Packs -- All 11
-+ Stuff Packs -- All EXCEPT SP6 (Sweet Treats)
++ Stuff Packs -- All 9
 
 ## Original File Locations
 
 + `Steam\steamapps\common\The Sims 3\`
-+ Base Game -- `GameData\Shared\Packages\DeltaBuild0.package`
-+ Expansion Packs -- `EP#\GameData\Shared\Packages`
-+ Stuff Packs -- `SP#\GameData\Shared\Packages`
+  + Base Game -- `GameData\Shared\Packages\DeltaBuild0.package`
+  + Expansion Packs -- `EP#\GameData\Shared\Packages`
+  + Stuff Packs -- `SP#\GameData\Shared\Packages`
 
 ## Folders
 

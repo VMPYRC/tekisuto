@@ -1,0 +1,166 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x9A) ---
+   [00] 0x3598BB305716C530: The Sims™ 3 Katy Perry's Sweet Treats
+   [01] 0x05F2F0D004B3FA70: The Sims™ 3 Katy Perry's Sweet Treats Install
+   [02] 0x6BF18E3B52CAB21F: The Sims™ 3 Katy Perry's Sweet Treats Installer
+   [03] 0xA66A0D6E4ED99838: Print
+   [04] 0xA15121A0B4EE01E6: Do you want to completely remove the selected application and all of its features?
+   [05] 0xFEF05B57ADE08127: Build the biggest ice cream cone and freeze your enemies with the latest arcade game.  Ice Cream Blast is a cool experience when you blast your way to the top of the charts. Ice Cream Blast - It will melt your heart! 
+   [06] 0x4C9ACDCBB6CAE787: Get it? It's the candy-coated juice bar you'll just want to unwrap and sink your teeth into! We can't prove that juice made at The Candy Bar tastes that much sweeter, but you can't prove that it doesn't!
+   [07] 0xCB29F50EA5C5F58D: Spin and swirl to your delight when you rest upon this fanciful peppermint barstool. You'll look good, and smell even better! That's right, the Spin N Swirl releases a light scent of peppermint at regular intervals. It's the freshest seat in the house! 
+   [08] 0x0CA5AFC4F4E269A5: Guaranteed to provide sweet dreams of sugarplum fairies and gum drop mountains. The Buttercream Bed is so comfortable you'll feel like you're sleeping on a stick of butter. And what could be better than sleeping on a fine dairy product?
+   [09] 0x937CA0F51B744A2B: Crafted from the finest crystallized confections! That's right, this mobile candy treat tastes as good as it looks.  The crystallized sugar material provides a lightweight and aerodynamic frame that will have you winning races for years. Not recommended for use in snow, rain or outdoor conditions. Coming soon: the Sugar-free Express.
+   [0A] 0x2EBCCD51B71B7C21: The Confection Express Jr. is built just like the adult version but sized for the younger crowd. The Confection Express Jr. exclusively available in grape, strawberry and lemon zow flavors. Not recommended for use in snow, rain or outdoor conditions. Coming soon: the Sugar-free Express Jr.
+   [0B] 0xEAE3FF000D185859: Just like a sweet box of chocolates, you never know what you're gonna get when reaching for a book from this bookshelf. Will it be a story of creamy coconut goodness, or perhaps a history of the mellow marshmallow? You can't judge a sweet by it's chocolaty coating, just like you can't judge these books by their covers.
+   [0C] 0x4D79C5014274DA46: Inspired by a replica of an actual world record winning cupcake, the Sweet Seat is built to the exact dimensions of the recreation of the famous giant treat. Bring a piece of history into your house and you'll be dancing on cupcakes. Please don't dance on the furniture, it's not polite.
+   [0D] 0xE798E2330B97CE1E: Relax the day away while resting on a cloud. The Fluff Tuff is constructed from the lightest, yet durable materials, designed to provide the least resistance to your tush. It's dreamy to rest on the layers of faux cotton candy. Sweet Dreams!
+   [0E] 0x53480458E64384DB: Now your support beams will be as stylish as the rest of the house when you add a Swirled Support column. Tensile strength wrapped in a candy-coated shell.
+   [0F] 0xDD7781F0AC3606F5: These island counters are like the cream cheese to your Drizzled Supreme Counter's piping hot chocolate cupcakes. They're a perfect addition to any kitchen that is customized for a smorgasbord of candy-coated deliciousness.
+
+   [10] 0xD4C093C2CD95C404: Just as a thick coating of fondant can turn the worst looking cakes into culinary masterpieces, these Pressed Fruit Curtains can turn the dullest of rooms into a palace of fruity synergy! Place them over a window now, and enjoy the benefits of daylight diffused by a sweet treat!
+   [11] 0xC8C60F0EA896D8F8: A dream for any child with an imagination and a sweet tooth. The Playwow Gingerbread Dollhouse provides hours of confectionary fun for your wee one. Now when your kids beg for a gingerbread house you won't have to slave away in the kitchen. Pick up one of these preassembled gingerbread homes and let the fun begin.
+   [12] 0x2B659DDEEB949A39: Placeholder
+   [13] 0x2B1096DEEB4C4E17: Placeholder
+   [14] 0x51411197FD6C2519: 15lbs of sugar, 30lbs of flour and one very large piping bag are used to craft this confectionary doorway. This entrance will dazzle your friends and have them begging to stay over for dessert. Doors open AND close!
+   [15] 0x907CF1D22E49801D: With the Decorative Piping Arch you can enjoy all of the benefits of our popular Decorative Piping Entrance design, but without all of that "door" getting in the way. Not only is the new and improved Arch easier to walk through, it now comes scented! Install one in your kitchen and you'll have a home filled with the aroma of fresh baked goods for years to come. Years!
+   [16] 0xFE025A296BDCDEFA: The Phyllo Fence Gate uses the same process as the sibling fence. It's  formed from several hundred thin layers of wood, pressed together and baked on a large cookie sheet using our secret curing process. The gate is designed to keep unwanted guests out and it might make them hungry too. 
+   [17] 0xFF9643C4F8F7AA28: Ooooh! Aaaah! BOOM!  The Sugar Explosion from Ffft Blam Pyrotechnics has the most stunning details and colors ever exploded from a fireworks casing. Using a secret recipe that combines gun power and sugar crystals, the Sugar Explosion will surprise your senses with hearts and candy that paint the night sky!
+   [18] 0x408EA6C295513CC8: A fountain flowing forth candy and sweet delights is the dream of every young child. This isn't one, but it's the next best thing - a Fountain of Treats for the eyes! No wonder CandySim Magazine named this fountain the must have piece of eye candy for your home.
+   [19] 0xD3E65918AF616658: Your music will sound even sweeter when strummed on the 6 String Cupcake Surprise acoustic guitar. Sprinkle your compositions with some tasty chords and whip your fans into frenzy when you top off your solo with a sweet lick or two. Available in chocolate, strawberry or lemon finishes.
+   [1A] 0xE940619F24FA8414: Affectionately named by the local denizens, the Cake Pleasure Dome was originally constructed as an iconic tourist trap – after all, who can resist such a giant sweet treat? As years passed and kitsch Americana went out of vogue, the location fell into disrepair and simply served as a reminder of times past. Like all cyclical trends, larger than life architecture is back in a big way, and businessman John “Licorice” Lit saw a golden ticket to success. Can the Cake Pleasure Dome recapture the boom days of the ‘60s as a modern trendy hangout?
+   [1B] 0x93F7ECFE85E2FC61: Whoever had the idea to start covering nuts, dried fruits, and seeds in sweet candy  was a genius. But the person who decided to cover this jungle gym in a delicious sugary coating was a downright wizard! I mean c'mon, who wouldn't want to play on a structure coated in tasty, yet sticky, candied goodness? It's every child's dream come true!
+   [1C] 0xABCAFF9CB566ADE5: Brought to you by the same makers as the Sweet Seat, this sugar-coated slide promises nothing less than a ride into a world of sweet treats and candied dreams. When you decide to slide, make sure you slide with the best - the Sweet Slide!
+   [1D] 0xDC89A3A402B41C38: These lights burn so beautiful you'd think they'd melt your ice cream cones! But there's no melting of ice cream here, just pure candy-coated light that kisses your skin the same way the sun does! They'll make you feel like summertime is everyday!
+   [1E] 0x0C2BAF8E16813978: You can almost taste sugar in the sweet light that emanates from this beautifully hand crafted floor light! Don't look at it for too long or you may find yourself being drawn to the candy jar for a generous helping of sweets!
+   [1F] 0x0785B19C769B9929: These lights are like a hard candy with a surprise center - the surprise center being the beautiful light that exudes from within them! Place them in your house today to enjoy light draped in candy-coated perfection!
+   [20] 0x289E023D82D1B9D5: Melting ice cream cones are a tragedy! Thankfully, these tasty looking wall lights were constructed with space age material to ensure that they'll never melt! Basically what we're saying is that they're freeze dried, just like any other space age food.
+   [21] 0x4C37275EA5DD032B: Convincing your cupcake to snuggle up to you on this ginormous custom fabricated cupcake loveseat should be no problem! There's even a cherry on top to help you seal the deal. I mean come on, it's a HUGE CUPCAKE.
+   [22] 0xCB5A498966985EBF: Check out that toothsome smile in this fabulous confectionary mirror.  The Panache Ganache will be a delicious addition to your home. Your reflection will whisper sweet nothings and you'll glow in the warmth of a candy-coated design.
+   [23] 0x136AAD86BBBA38D7: A whimsical designer so avant-garde that he legally changed his name to a hashtag, #King was handed a blank check to create a children’s playground that’s deliciously unorthodox. From confectionary to cotton candy, this park has it all. As you traipse through the gumdrop acorns and your tooth begins to ache, take comfort in the fact that the adornments are merely visual flavor. Thankfully, a youngster’s playground romp is the next best thing to a sugar crash for the beleaguered parent looking for a pinch of peace and quiet. 
+   [24] 0x578973B81DCBDA09: What’s more luxurious than taking a dip in a spring fed pool aerated by a subtle peppermint scent? Originally a coral rock quarry, this land was claimed by the local government as part of an ongoing urban beautification project. The remaining bedrock works as a natural filtration system, with the entire pool’s contents displaced daily by fresh water from artesian wells. Relax in the splendor as you suntan amidst the lush surroundings.
+   [25] 0x28B19A9D4C6D0103: Energize and exercise! The Sugar Crystal Sandbox is the real thing,  from the hand molded sugar sculpture casing to the Sugar Crystal 'sand'! Instead or worrying about your children eating dirt, now you'll marvel at the unbound energy gained from this tasty and imaginative sandbox. Not recommended for humid or rainy climates. Optional flavors include grape, orange and acai. Sugar substitute sand available by request.
+   [26] 0x578B734FD2DFE6B3: When you're fighting to stay afloat, what could you want more? Years of research have finally paid off and our top scientists have learned that when you need to be saved, the pure scent of peppermint convinces people to keep on swimming. Try it out today!
+   [27] 0xB3B8CF6FF3F68765: Placeholder
+   [28] 0x2F566700D26EDCCC: This ginormous ice cream cone utilizes space age materials to constantly remain in a melting state. Little did you know all the knowledge of modern day science was sitting before you, in the form of a melted ice cream cone. Plus one for science!
+   [29] 0x6B2C6FFF282A4873: Daring and delicious, Lollipocalypse boldy recalls the most vivid fever dreams of your confection-fueled youth. This is art that frightens as it entices. Part of you wants to look away, but part of you needs to have just one lick. From the artist who brought you Peppermint Graveyard!
+   [2A] 0x9893A335BF438F03: Preserve your favorite confections in bulk for all to see. Bin bites are designed to keep food fresh for up to 2 days longer than the leading competitor and they look good doing it!  The new and improved version releases a gentle spray of sanitizer each time the lid is removed, preventing germs from touching the precious cargo. 
+   [2B] 0x42DE5EF9056D2E5B: Is it a plant or is it a treat in a vase? You can have both with the Candy Plants line of décor. Whether you need a colorful centerpiece or are desperate for a sweet treat, you'll be filled and fulfilled with Candy Plants! Candy Plants, available now!
+   [2C] 0x6A026EF8A4016AD7: This is candy as it was always meant to be displayed: embraced in the brilliance and clarity of XL-ent crystal. Too long has candy settled for crinkly paper wrappers. Give candy the home it deserves! Give it something XL-ent.
+   [2D] 0x0E51C4F71BC24509: Flowers again? Not when you bring Yumly to the table. This pleasing arrangement of sweets gives your home décor a little treat! Mmm-mmm, it looks good enough to eat! [WARNING: Do not ingest] 
+   [2E] 0x127F4B9924C655A7: Other cotton candy décor melts at the slightest hint of moisture. Not so with the Forever Your Treat!  Using REAL bakofla technology, our artists lovingly craft each sculpture from actual cotton candy, and bake it to everlasting strength. The curing process takes more than 8 days but that's not a long time to wait when it becomes Forever Your Treat! 
+   [2F] 0xCC25322F88795A2E: As a child, we believe that anything is possible. Somewhere out there is a magical land of chocolate roads and cotton candy trees, and maybe we can find it if we just believe! Relive those shining days of reckless imagination with the Cottonwood Confection.
+   [30] 0xE7CED857C782BFB7: Give nature a facelift with the Gumball Drop tree. It's everything you love about trees, wrapped in happy memories and brilliant color. Plant one of these sculptures in your yard and we dare you not to smile!
+   [31] 0xD0CFB75A67B052D5: A collection of delightful images sure to brighten your home and make your stomach beg for dessert. Adorn your kitchen with the complete set and you'll forever be Home Sweets Home.
+   [32] 0xB340449B808D750E: test
+   [33] 0x846B08E410C75001: A minimalist visual retelling of the epic poem "Three Knights Journey Across The Dale." Bring a touch of culture to any home or shop with this beautiful work of art. And even if people don't get the reference, it looks like candy and that makes them happy!
+   [34] 0x4F107292AD3EF731: Once again pushing the envelope in the field of wall enhancement, GlowKake proudly introduces the GlowCotton Decorative Wall Enhancer to its collection. Just like real cotton candy, each piece is lovingly handcrafted by carnies.
+   [35] 0xD9B4A99DD5015E0D: Cupcakes -- most magical of all the treats. Show your respect for this ancient pastry with the GlowCake Decorative Wall Enhancer, by GlowKake! Each enhancer appears to pulse softly with its own life, but don't worry! That's just the magic of the cupcake shining through!
+   [36] 0x99647A8DFD9C6538: GlowKake continues to develop their groundbreaking, non-cake line of wall enhancement units with the breathtaking GlowCone Decorative Wall Enhancer. Simply display the GlowCone on the nearest convenient wall, and watch mouths begin to water. The GlowCone by GlowKake: Perfect strangers will want to lick it!
+   [37] 0xC03543E00345F10C: In a perfect world, more things would be made out of candy canes. Give your life a little taste of perfection with this signature shelf. Tempting. Sublime. Konfection.
+   [38] 0x7AE52D6FAB3093F4: Slide through a sugar excursion when you travel through the forest of licorice dreams and candy clouds.  Slippy slides are even sweeter when made from your favorite candy treats!  Flavored water sprays available as an optional accessory.
+   [39] 0x4E657983197BDAAD: Go right from couch potato to a glorious banana split in this whimsical sofa designed after everyone's favorite dessert. The cool fabric is dripping with style that's sure to be the centerpiece of your next party! Grab a spoon, sit down and dig in!
+   [3A] 0xBCF12D00AEFBBADE: One day Mr. Tootles, an inexperienced carpenter, set out to make a sugary sweet swing set for his children. In the end his children loved it, although they did complain the cutouts "made in their likeness," looked much more like gingerbread men than them.
+
+   [3B] 0x99245863D6BF406C: While focus testing the Peppermint Plateau, Landgraab Industries suffered a few setbacks when testers tried to eat the table, rather than the meal before them. Luckily for you, Landgraab has taken this feedback and applied a protective coating that will prevent you from sinking your teeth into this delicious looking table. Plus one for focus tests!
+   [3C] 0x336602083DA295EB: Need a sweet place to place your sweets? This night stand is a great spot to store your snacks for easy access during the night. Hook your bedroom up with The Sweet Spot, and never again venture all the way to the kitchen for your midnight snacks.
+   [3D] 0x092F61B95E147538: Candy bars, sugarplums, and lollipops oh my! When you're sitting at the Sweet Picnic, there's no telling how much sugary goodness one might consume. Eat until your heart's content - or coated in sugar!
+   [3E] 0xFA705A9A8FCD4881: Ginger was a bear. She didn't have hair. But with skin made of sugar, she smelled oh so sweet. Pick one up today and bring home this honey-coated Ursine treat.
+   [3F] 0xC5E7F07226E4AF7F: Believe it or not, the Triple Stack Trashcan can hold 3x the trash as a normal trashcan! With that much trash capacity, there's no telling how many candy wrappers you'll be able to dispose of!
+   [40] 0x1906FC3FDBF03418: You can't cover the entire world with sweets, but you can look through this window and pretend that you did! Colorful, whimsical, and cheaper than a pair of rose-colored glasses!
+   [41] 0x66A5164567197BED: There is a legend from the ancient land of Al Simhara, that a window adorned with gum drops will bring great wealth and prosperity to those who look through it. Unfortunately after we built this window, we found that we got the translation of the ancient legend wrong. We were wondering what the ancient Al Simharans were doing with gum drops in the olden days...
+   [42] 0xD8B0D76FE43124A9: When Dr. Berjes first designed the Peppermint Porthole, he envisioned that when Sims looked through his masterpiece, they'd see a world of candy-coated goodness. However, when the prototype was returned to him from the outsourcers in Simlandonia, he got a porthole that itself looked like candy-coated goodness. Dr. Berjes has since retired.
+   [43] 0xECB233755524CD60: Ice Cream Blast
+   [44] 0xEDE5BF072E013EB8: The Candy Bar
+   [45] 0xE209D11C36787D6A: Spin N Swirl
+   [46] 0x3ECEA8E63A3428E2: Buttercream Bed
+   [47] 0xAEF7F629BE9103DE: Confection Express 1500T
+   [48] 0x16CF97392612A4F0: Confection Express Jr.
+   [49] 0x0896A18205D49156: Box of Books
+   [4A] 0xC8E94052F47DE60D: Sweet Seat
+   [4B] 0xE29787AE716C0759: Fluff Tuff
+   [4C] 0xDBBFBAE6141431AC: Swirled Support
+   [4D] 0xF53F6771909F86A8: Drizzled Supreme Island Counters
+   [4E] 0xD98AB45CF0E6E44F: Pressed Fruit Curtains
+   [4F] 0xA28A42701D177793: Playwow Gingerbread Dollhouse
+   [50] 0x6BFD83AEEFC8BBCC: Gingerbread Doll One
+   [51] 0x6C0E7AAEEFD71FFE: Gingerbread Doll Two
+   [52] 0x677D4097813C4CD8: Decorative Piping Entrance
+   [53] 0xE5BCEEC6CF4839A0: Decorative Piping Arch
+   [54] 0x0E766A42CADEB269: Phyllo Fence Gate
+   [55] 0x472B4B6FFE6B45AB: Sugar Explosion
+   [56] 0x64A82023494F5E6B: Fountain of Treats
+   [57] 0x6D8DC84FA4132A37: 6 String Cupcake Surprise
+   [58] 0x33A8B483B56548BB: Cake Pleasure Dome
+   [59] 0xD6A55D74BF53D460: Comfit Clubhouse
+   [5A] 0x64A0A9A0361F81FC: Sweet Slide
+   [5B] 0x9E0E1EB1EC8BBC1B: Dollops of Delicious
+   [5C] 0x11141EC61E7CB861: Glazed Illumination
+   [5D] 0x2420653B58B661DE: LolliPOP
+   [5E] 0x6F7DB38B0F0E51B4: No Drip It
+   [5F] 0x71B92F28F03AF584: Flantastic Futon
+   [60] 0x25BE396F88EA0D12: Panache Ganache
+   [61] 0x32F58653E6B146A2: Bonbon Lawn
+   [62] 0x69B863ABCB9DF278: Patty’s Natural Baths
+   [63] 0x3AD26A38087A29F6: Sugar Crystal Sandbox
+   [64] 0x3B120F0DB782C35A: Peppermint Preserves
+   [65] 0x155E21DB09CFE6D6: Sculpture Candy Bunny
+   [66] 0xA0A02E928CCE5131: Perma Melt Cone
+
+   [67] 0x89C7133BC383AC6C: Lollipocalypse
+   [68] 0x702BEDBF0D049D7A: Bin Bites Be Free
+   [69] 0x9139A16F989C39F6: Candy Plants
+   [6A] 0x6ADD3531DD8C780A: XL-ent Crystal Vase 
+   [6B] 0xE1D7E83C573040F0: Yumly Glass Vase
+   [6C] 0x15CFB9933DA368D2: Forever Your Treat
+   [6D] 0xA576F79312939941: Cottonwood Confection
+   [6E] 0x5AF57B5B16347A8E: Gumball Drop
+   [6F] 0xB07EC51703FC9022: Home Sweets Home
+   [70] 0x633319FEEA630CB5: test
+   [71] 0x0AD0D868229D435C: These Three Treats
+   [72] 0xAA1C51F4D597E40A: GlowCotton By GlowKake
+   [73] 0x6CF1D484DCE7599E: GlowCake By GlowKake
+   [74] 0x18E317CAB1545FC5: GlowCone By GlowKake
+   [75] 0x80B651150198F4EF: Shelf By Konfection
+   [76] 0xA5383DEBA5FE1F73: Slippy Sweet
+   [77] 0x5A72160D9D4DE838: Pleasure Boat Sundae Sofa
+   [78] 0xB0288258964A1D47: Mr. Tootles' Swingset
+
+   [79] 0x7A3C4E35ECD6AE6D: Peppermint Plateau
+   [7A] 0xDC13217847EB7436: The Sweet Spot
+   [7B] 0x43F52EF7B6EB2C63: Sweet Picnic
+   [7C] 0x0F277FA680607CB0: GingerBear
+   [7D] 0x809F57D18EF38984: Triple Stack Trashcan
+   [7E] 0xF8846B8861D95261: Sweet Panes
+   [7F] 0x50E2AE283FB06D44: Chew on This
+   [80] 0x54BE64B8A8CE8C4A: Peppermint Porthole
+   [81] 0xBE72515CA694C78B: The Phyllo Fence is formed from several hundred thin layers of wood, pressed together and baked on a large cookie sheet using our secret curing process. The craftsmanship is unrivaled and it looks good too. We're sure you'll whisk one of these up soon!  Warning: Made in a facility that contains eggs and nuts. 
+
+   [82] 0x3C1809169A38A29C: Phyllo Fence
+   [83] 0x90F0BD0EA970DC4E: To delete a section of the same wall covering, hold the Shift and Ctrl keys and click on the wall. Hold down the Ctrl key and click to delete a single tile of wall covering.
+
+   [84] 0x88065688F56AF68D: Placeholder
+   [85] 0x2730CF1CA7B0619E: Miles o' Mint
+   [86] 0x0F321808A1EDCDC6: We are unable to verify that your disc is a valid copy of The Sims 3 Katy Perry's Sweet Treats. Please contact customer service.
+
+   [87] 0x93CBC5FB32FB5502: No game disc found! Please insert The Sims 3 Katy Perry's Sweet Treats game disc before proceeding.
+   [88] 0x1CB5CEC60CF5D7F9: Whipping Cream
+   [89] 0xBEC6538805BDFC2B: Adding Food Dye
+   [8A] 0x1CB5CEC60CF5D7FA: Spinning Sugar
+   [8B] 0x1CB5CEC60CF5D7FB: Frosting Cupcakes
+   [8C] 0x1CB5CEC60CF5D7FC: Sculpting Fondant
+   [8D] 0x1CB5CEC60CF5D7FD: Sugaring Plums
+   [8E] 0x1CB5CEC60CF5D7FE: Icing Cookies
+   [8F] 0x1CB5CEC60CF5D7FF: Licking Lollipops
+   [90] 0x1CB5CEC60CF5D7F0: Lighting Fireworks
+   [91] 0x1CB5CEC60CF5D7F1: Swirling Frosting
+   [92] 0x017F7B1C1AF23D99: The Sims™ 3 Katy Perry's Sweet Treats
+   [93] 0xA676D897482A8057: Lead Object Modelers
+   [94] 0x29E8439678A29255: Maxis
+   [95] 0xEF2DA7580EF9D963: Senior Vice President, COO
+   [96] 0xC358BAF88817CEB0: Senior Vice President
+   [97] 0x44C23DF7CCDE4F9B: Senior Vice President, GM, The Sims
+   [98] 0x3A6A38D1B15FB614: Technical Artist
+   [99] 0xC55221691C956EEE: Vice President, COO, The Sims
+---
