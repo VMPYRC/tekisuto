@@ -6,7 +6,7 @@ Unknown3: 0x00000000
    [01] 0x05F2F0D004B3FA70: The Sims™ 3 Katy Perry's Sweet Treats Install
    [02] 0x6BF18E3B52CAB21F: The Sims™ 3 Katy Perry's Sweet Treats Installer
    [03] 0xA66A0D6E4ED99838: Print
-   [04] 0xA15121A0B4EE01E6: Do you want to completely remove the selected application and all of its features?
+   [04] 0xA15121A0B4EE01E6: Would you like to completely remove the selected application and all of its features?
    [05] 0xFEF05B57ADE08127: Build the biggest ice cream cone and freeze your enemies with the latest arcade game. Ice Cream Blast is a cool experience when you blast your way to the top of the charts. Ice Cream Blast - It will melt your heart! 
    [06] 0x4C9ACDCBB6CAE787: Get it? It's the candy-coated juice bar you'll just want to unwrap and sink your teeth into! We can't prove that juice made at The Candy Bar tastes that much sweeter, but you can't prove that it doesn't!
    [07] 0xCB29F50EA5C5F58D: Spin and swirl to your delight when you rest upon this fanciful peppermint barstool. You'll look good, and smell even better! That's right, the Spin N Swirl releases a light scent of peppermint at regular intervals. It's the freshest seat in the house! 
