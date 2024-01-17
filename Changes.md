@@ -115,8 +115,10 @@
 
 ## v0.0.7 - Opportunities GUID 2
 
-+ Text Fixes
-  + definitely not definetly
++ Minor Fixes
+  + Formatting
+  + Spelling
+  + Grammar
 + Added Opportunities' GUID to Descriptions
   + SOME
     + BaseGame
