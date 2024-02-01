@@ -33,7 +33,7 @@ Unknown3: 0x00000000
    [001C] 0xB839C99E55E6F923: When first created over 100 years ago, these doors were used by royalty in their palaces and mansions. Today, most common Sims can afford them because they’re pretty much just rustic looking.
    [001D] 0xF3F92BBC1D8AA792: Cedric Von Hertzheim’s passion for doors and entryways really shines in this set of double doors. Most Sims agree these doors are the pinnacle of Cedric’s work before moving on to wallpaper design.
    [001E] 0xA806FC53743BA320: Custom built for the locals of Shang Simla, this door has recently come on the market to door buyers worldwide. Enjoy this door in your home today!
-   [001F] 0xCE2A8176DDDB76ED: After emigrating from Al Simhara to Pleasantview, Amine Hayuk started up the local Al Simharan Carpenter’s Union. This is the first door to be completely built through unionized labor.
+   [001F] 0xCE2A8176DDDB76ED: After emigrating from Al Simhara to Pleasantview, Amine Hayuk started up the local Al Simharan Carpenter's Union. This is the first door to be completely built through unionized labor.
    [0020] 0x7FA1170CAA517221: Designed with disrespectful teenagers in mind, this quasi door, quasi arch way, allows teenagers to have the feeling of their own space, without being able to completely seal themselves off. A much better alternative to just taking a door off its hinges.
    [0021] 0x3E55F2AB975D255E: For those of you out there seeking hi-tech passageways with low-tech looks, TombTech has built this door just for you. With patent pending SimSensing technology, these seemingly ancient tomb doors automatically open and close for your Sim.
    [0022] 0xD0A2F6268D5C0302: The slat door should be considered more of a gateway than a door. It does seal off access between two rooms, but the same can't be said for smell and sound.
@@ -841,8 +841,8 @@ Unknown3: 0x00000000
    [0344] 0x1332634BD20C0B58: EP1_CareerBusiness_GetNectarProgress
    [0345] 0x193E00208748B749: You somehow managed to get the expensive Relic through customs unnoticed! It was a crazy feat and you won the bet!
    [0346] 0x92E67B5C90D092DC: You somehow managed to get the expensive Relic through customs unnoticed! It was a crazy feat and you won the bet!
-   [0347] 0xA40EA9DA2772EC07: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of simoleons that you can’t pull it off.
-   [0348] 0xC00AABC138954876: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of simoleons that you can’t pull it off.
+   [0347] 0xA40EA9DA2772EC07: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of Simoleons that you can't pull it off.
+   [0348] 0xC00AABC138954876: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of Simoleons that you can't pull it off.
    [0349] 0xDEE707B1CD222437: EP1_CareerBusiness_GetRelicFailure
    [034A] 0xD97756D66A0D4E4C:  Bring a Relic worth at least 750 Simoleons to work with you.
    [034B] 0xE0FDA0558491754F: Bring a Relic worth at least 750 Simoleons to work with you.
@@ -2027,9 +2027,9 @@ Unknown3: 0x00000000
    [07E6] 0xB2EE0C632B41AA8A: Deliver the Special Relic to {2.String}
    [07E7] 0xB1E189B380991461: “Excellent, I hoped someone of your experience and renown would offer their services! Let us get to work, eh?”
    [07E8] 0xB3D9CC5984F15E54: “Excellent, I hoped someone of your experience and renown would offer their services! Let us get to work, eh?”
-   [07E9] 0xF20D1B2589B7622F: “I am conducting research on the disappearance of Anastasia Necteaux. It is my belief that Admiral Landgraab I had something to do with her disappearance. I would like to investigate this further, but require assistance. Please come see me if willing and able to offer assistance!”
-   [07EA] 0x7EC789C7740FD474: “Offer Assistance” to {2.String}
-   [07EB] 0x74C4E60ACD7BDD77: “Offer Assistance” to {2.String}
+   [07E9] 0xF20D1B2589B7622F: "I am conducting research on the disappearance of Anastasia Necteaux. It is my belief that Admiral Landgraab I had something to do with her disappearance. I would like to investigate this further, but require assistance. Please come see me if willing and able to offer assistance!"
+   [07EA] 0x7EC789C7740FD474: "Offer Assistance" to {2.String}
+   [07EB] 0x74C4E60ACD7BDD77: "Offer Assistance" to {2.String}
    [07EC] 0xB0F27EC78FF79076: Landgraab I... Kidnapper?
    [07ED] 0x009DAF03CDFA4356: Offer Assistance
    [07EE] 0x018F61D26B48E3C1: Losing that journal wasn't a very good idea. Now {2.String} can't figure out what happened to Anastasia!
@@ -2040,31 +2040,31 @@ Unknown3: 0x00000000
    [07F3] 0x87F1FD6DA74E581A: Find the Groundskeeper’s Journal within the groundskeeper’s shack at Landgraab Chateau, then “Deliver Journal” to {2.String} to receive some Ancient Coins.
    [07F4] 0x86D94CB01694A5A1: The Groundskeeper’s Journal
    [07F5] 0xBA41BB6C962BBD21: Find Journal
-   [07F6] 0x3CCD8164951CFBCD: “Blast! The journal is locked. It appears this won’t be as easy as first thought. Willard’s daughter, {2.String}, lives in Champs Les Sims. I’m confident she has a key to this journal. Speak to her to obtain the key. Telling her it will aid the town may convince her to help us.”
+   [07F6] 0x3CCD8164951CFBCD: "Blast! The journal is locked. It appears this won’t be as easy as first thought. Willard’s daughter, {2.String}, lives in Champs Les Sims. I’m confident she has a key to this journal. Speak to her to obtain the key. Telling her it will aid the town may convince her to help us."
    [07F7] 0x47AD2DBAC36B6906: Speak to {2.String} and “Ask for Key.”
    [07F8] 0x59BE82BACDDD3158: The Key, Please
    [07F9] 0xF38E0296B8D9F574: Ask {2.String} for key
-   [07FA] 0x348024324BF74908: “This metal is of excellent quality. You really do want this key, don’t you? Just one more favor and you’ll have it.”
-   [07FB] 0x5BE43B680C9694DC: “By giving you the key, I’ll help the town? Of course I'll help you. Oh no! I’m not one to miss an opportunity either. I will need a favor, first. My current collection of jewelry has gotten old. I need something new, something fresh! Go find {9.Number} pieces of Gold and bring them to me. Hurry along now if you want the key!”
-   [07FC] 0x6915FDE473C14E55: Find {9.Number} pieces of Gold and “Deliver Metal” to {2.String}.
+   [07FA] 0x348024324BF74908: "This metal is of excellent quality. You really do want this key, don’t you? Just one more favor and you’ll have it."
+   [07FB] 0x5BE43B680C9694DC: "By giving you the key, I’ll help the town? Of course I'll help you. Oh no! I’m not one to miss an opportunity either. I will need a favor, first. My current collection of jewelry has gotten old. I need something new, something fresh! Go find {9.Number} pieces of Gold and bring them to me. Hurry along now if you want the key!"
+   [07FC] 0x6915FDE473C14E55: Find {9.Number} pieces of Gold and "Deliver Meta" to {2.String}.
    [07FD] 0x7A8450E47DA8B153: A New Ring
-   [07FE] 0x0506433B85FD09ED: “I absolutely love new jewelry! I think these gems will be perfect."
-   [07FF] 0x86E827C7F6F0E443: “A nice band is nothing with a fantastic jewel on top. Please, find me an Amethyst and bring it to me. I’ll trade the key to my father’s journal for the gem.”
+   [07FE] 0x0506433B85FD09ED: "I absolutely love new jewelry! I think these gems will be perfect."
+   [07FF] 0x86E827C7F6F0E443: "A nice band is nothing with a fantastic jewel on top. Please, find me an Amethyst and bring it to me. I’ll trade the key to my father’s journal for the gem."
    [0800] 0xDEE0F1EB901EDE38: Find an Amethyst and deliver it to {2.String} to receive the key to the journal.
    [0801] 0xCC999EEB857F8A12: A New Ring
    [0802] 0x3683D47C817C2252: "You can have the key to the journal, though I’d appreciate it if {2.String} would return the key and journal to me when finished with it." {1.SimFirstName} should deliver it to {2.String} as soon as possible.
    [0803] 0x50D7BA86814E34C1: "You can have the key to the journal, though I’d appreciate it if {2.String} would return the key and journal to me when finished with it." {1.SimFirstName} should deliver it to {2.String} as soon as possible.
-   [0804] 0x9E88A1D378D55BE7: “Deliver Key” to {2.String}.
-   [0805] 0xFEA5B6BF87CA4096: “Deliver Key” to {2.String}.
+   [0804] 0x9E88A1D378D55BE7: "Deliver Key" to {2.String}.
+   [0805] 0xFEA5B6BF87CA4096: "Deliver Key" to {2.String}.
    [0806] 0x8C776CD36E63CA4D: Here’s the Key
    [0807] 0x6253C9E5586ED9ED: Deliver Key
    [0808] 0x0EB2E7A46C2E8197: Find Documents
-   [0809] 0xF3F767B2D151C483: "Incredible! According to Landgraab’s documents he was attempting to locate the tomb of Anastasia's ancestor, Jean Necteaux! Anastasia tricked him into sending men to the wrong location, and they were never seen again.\n\nThis explains Landgraab’s sudden departure shortly after the kidnapping – he didn’t want anyone to find out. Well, the facts will soon be dispersed in my new book. I thank you again for your efforts!"
+   [0809] 0xF3F767B2D151C483: "Incredible! According to Landgraab's documents he was attempting to locate the tomb of Anastasia's ancestor, Jean Necteaux! Anastasia tricked him into sending men to the wrong location, and they were never seen again.\n\nThis explains Landgraab's sudden departure shortly after the kidnapping - he didn't want anyone to find out. Well, the facts will soon be dispersed in my new book. I thank you again for your efforts!"
    [080A] 0x7C43CFDBA64E25D5: Losing those documents was inadvisable. Now {2.String} can't figure out what happened to Anastasia!
    [080B] 0x364214383BE10BB0: Losing those documents was inadvisable. Now {2.String} can't figure out what happened to Anastasia!
    [080C] 0xF940CE2259783878: Deliver Documents to {2.String}
    [080D] 0x77EF3975DF307F33: Deliver Documents to {2.String}
-   [080E] 0xD94AEF3A57A8C131: "Excellent, I can finally open this journal. Let me see here... fascinating! It seems there was quite the ruckus many years ago. At one point some shady looking men dragged someone into the chateau. The famous James Vaughan went in to save the person who... yes, turned out to be Anastasia Necteaux.\n\nI found this key to the estate attached to one of the pages. Landgraab was the meticulous sort, which leads me to believe he kept notes on this incident. Head to the estate and see if you can find those notes. Be careful – Landgraab was paranoid. His whole house is filled with traps and security measures.”
+   [080E] 0xD94AEF3A57A8C131: "Excellent, I can finally open this journal. Let me see here... fascinating! It seems there was quite the ruckus many years ago. At one point some shady looking men dragged someone into the chateau. The famous James Vaughan went in to save the person who... yes, turned out to be Anastasia Necteaux.\n\nI found this key to the estate attached to one of the pages. Landgraab was the meticulous sort, which leads me to believe he kept notes on this incident. Head to the estate and see if you can find those notes. Be careful - Landgraab was paranoid. His whole house is filled with traps and security measures."
    [080F] 0x17A51E4184E0FF6D: How careless!. Without the keystone, {1.SimFirstName} has no way to get into parts of the Landgraab estate!
    [0810] 0x51255D53C6FE6AE8: How careless!. Without the keystone, {1.SimFirstName} has no way to get into parts of the Landgraab estate!
    [0811] 0xE84275D959C2BC2A: Enter the Landgraab’s Chateau, find his Documents, and “Deliver Documents” to {2.String}.
@@ -2078,11 +2078,11 @@ Unknown3: 0x00000000
    [0819] 0x09E226030A47AD69: Explore the tomb at the Abandoned Nectary and find out what became of the men then return to tell the tale.
    [081A] 0xD3415102EA95CB5F: To the Abandoned Nectary!
    [081B] 0x64CA0BF9E93E7A3B: Locate and Enter the Tomb
-   [081C] 0x24DB53042280D2E9: “Incredible! It seems Vaughan and Anastasia completely fooled the dastardly Landgraab. I do feel sorry for his henchmen. Nobody deserves to perish for another man’s greed. This explains Landgraab’s sudden departure shortly after the kidnapping – he didn’t want anyone to find out. Well, the facts will soon be dispersed in my new book. I thank you again for your efforts!”
+   [081C] 0x24DB53042280D2E9: "Incredible! It seems Vaughan and Anastasia completely fooled the dastardly Landgraab. I do feel sorry for his henchmen. Nobody deserves to perish for another man’s greed. This explains Landgraab’s sudden departure shortly after the kidnapping – he didn’t want anyone to find out. Well, the facts will soon be dispersed in my new book. I thank you again for your efforts!"
    [081D] 0x6D23859833CF430E: Explain Story to {2.String}
-   [081E] 0x490CB3AC5287B468: “Can you smell that? I love the smell of a new book. It saddens me that I will finish this book so quickly, but I’d rather have that than nothing. Thank you!”
-   [081F] 0x8145DD6F5D4704BC: “I have read all that can be found in Shang Simla, yet my mind is still hungry! I will trade Simoleons for any foreigner who brings a book they have written to me, {2.SimName}.”
-   [0820] 0x74577E71045EE37F: “I have read all that can be found in Shang Simla, yet my mind is still hungry! I will trade Simoleons for any foreigner who brings a book they have written to me, {2.SimName}.”
+   [081E] 0x490CB3AC5287B468: "Can you smell that? I love the smell of a new book. It saddens me that I will finish this book so quickly, but I’d rather have that than nothing. Thank you!"
+   [081F] 0x8145DD6F5D4704BC: "I have read all that can be found in Shang Simla, yet my mind is still hungry! I will trade Simoleons for any foreigner who brings a book they have written to me, {2.SimName}."
+   [0820] 0x74577E71045EE37F: "I have read all that can be found in Shang Simla, yet my mind is still hungry! I will trade Simoleons for any foreigner who brings a book they have written to me, {2.SimName}."
    [0821] 0xBE41E350C0B89B20: EP1_Quest_LiteraryFriendFailure
    [0822] 0x277F52E45326A3B5: Deliver a book you have written to {2.SimName} to earn Simoleons and an improved Visa Level.
    [0823] 0x7331EEC5F7B696D0: Deliver a book you have written to {2.SimName} to earn Simoleons and an improved Visa Level.
@@ -2563,8 +2563,8 @@ Unknown3: 0x00000000
    [09FE] 0xC09C68BF64CB442A: “It is so good to see you again. My word, is that the Ruby of Sakhara? It appears the trip to Egypt wasn’t entirely filled with frustration, was it? I hope this reward adequately expresses my appreciation!”
    [09FF] 0xCAFB8630277D8641: Report Success to {2.String}
    [0A00] 0x461631A69C8953F4: Report Success to {2.String}
-   [0A01] 0xFD6413C71886BB97: “Here is the Ruby of Sakhara as promised. I belive the other gems are in France. Myth states that the Sapphire of the Crescent Moon lies in the tomb of Jean Necteaux’s wife, Isael who is buried near her husband. I suggest you return to France and speak to {2.String}."
-   [0A02] 0xA786FD6490906286: “Here is the Ruby of Sakhara as promised. I belive the other gems are in France. Myth states that the Sapphire of the Crescent Moon lies in the tomb of Jean Necteaux’s wife, Isael who is buried near her husband. I suggest you return to France and speak to {2.String}."
+   [0A01] 0xFD6413C71886BB97: "Here is the Ruby of Sakhara as promised. I believe the other gems are in France. Myth states that the Sapphire of the Crescent Moon lies in the tomb of Jean Necteaux’s wife, Isael who is buried near her husband. I suggest you return to France and speak to {2.String}."
+   [0A02] 0xA786FD6490906286: "Here is the Ruby of Sakhara as promised. I believe the other gems are in France. Myth states that the Sapphire of the Crescent Moon lies in the tomb of Jean Necteaux’s wife, Isael who is buried near her husband. I suggest you return to France and speak to {2.String}."
    [0A03] 0x7E110581DBCACE07: Losing the Ruby of Sakhara is an unparalleled disaster. {1.SimFirstName} cannot continue without it!.
    [0A04] 0x9F7DED19DD279E76: Losing the Ruby of Sakhara is an unparalleled disaster. {1.SimFirstName} cannot continue without it!.
    [0A05] 0xF122EA4D1631429C: “Report Success” to {2.String} in Champs Les Sims, France.
@@ -2590,8 +2590,7 @@ Unknown3: 0x00000000
    [0A19] 0x8B4FE652029413E5: The Sapphire of the Crescent Moon is a beautiful sight to behold! It would be pertinent to return to {2.String} with this treasure.
    [0A1A] 0x1668D39A29DA3D00: The Sapphire of the Crescent Moon is a beautiful sight to behold! It would be pertinent to return to {2.String} with this treasure.
    [0A1B] 0x35C3421C3A0B3F0B: "History is made by the bold, and by the looks of it, {1.SimFirstName}. The Tomb of Isael is now unlocked and ready to be explored. What lies within its silent walls?\n\nAll that remains is to find the Sapphire deep within the Tomb. {1.SimFirstName} must be careful, for it is safe to assume Jean Necteaux and his wife, Isael, had no intentions of these sacred chambers being breached."
-   [0A1C] 0x6E5C4B387E698D32: "History is made by the bold, and by the looks of it, {1.SimFirstName}. The Tomb of Isael is now unlocked and ready to be explored. What lies within its silent walls?\n\n
-All that remains is to find the Sapphire deep within the Tomb. {1.SimFirstName} must be careful, for it is safe to assume Jean Necteaux and his wife, Isael, had no intentions of these sacred chambers being breached."
+   [0A1C] 0x6E5C4B387E698D32: "History is made by the bold, and by the looks of it, {1.SimFirstName}. The Tomb of Isael is now unlocked and ready to be explored. What lies within its silent walls?\n\nAll that remains is to find the Sapphire deep within the Tomb. {1.SimFirstName} must be careful, for it is safe to assume Jean Necteaux and his wife, Isael, had no intentions of these sacred chambers being breached."
    [0A1D] 0x3B333270948740A0: Find the Sapphire of the Crescent Moon within the Tomb of Isael then bring it to {2.String}
    [0A1E] 0x5AB28469A62870BB: Find the Sapphire of the Crescent Moon within the Tomb of Isael then bring it to {2.String}
    [0A1F] 0x2C87DF708CF8A50A: At last, the Sapphire
@@ -2602,14 +2601,14 @@ All that remains is to find the Sapphire deep within the Tomb. {1.SimFirstName} 
    [0A24] 0x3B53844DD3659C70: Bring the Sapphire of the Crescent Moon to {2.String}
    [0A25] 0x549CECCD9A76F8A3: The sapphire fits! Unfortunately, it doesn’t seem like much has changed this time. It will be necessary to confer with {2.String}.
    [0A26] 0x626CFDFB212E280A: The sapphire fits! Unfortunately, it doesn’t seem like much has changed this time. It will be necessary to confer with {2.String}.
-   [0A27] 0xA49211D9FE0ACA19: “Much like the Ruby, you must test to see if the Sapphire fits. Take the Sapphire to one of the two remaining holes, inspect it for a slot, and place the Sapphire. Return to me when you are done.”
-   [0A28] 0x5E02B65EFEC56A92: “Inspect” the remaining holes at the Tomb of Necteaux.
+   [0A27] 0xA49211D9FE0ACA19: "Much like the Ruby, you must test to see if the Sapphire fits. Take the Sapphire to one of the two remaining holes, inspect it for a slot, and place the Sapphire. Return to me when you are done."
+   [0A28] 0x5E02B65EFEC56A92: "Inspect" the remaining holes at the Tomb of Necteaux.
    [0A29] 0x2872C35EDFFC3C5C: Yes, But Does it Work?
    [0A2A] 0x9213F130ADD16698: Inspect Holes
    [0A2B] 0x6DC8A553635D7973: Return to {2.String}
    [0A2C] 0xCCC96B22971BD75A: Return to {2.String}
    [0A2D] 0x3FCE467F984E6AB9: Ask Sims about the Emerald
-   [0A2E] 0xA13FAC91B7D8535F: "Based on what you learned, I have an idea where the third gem is. History mentions that Anastasia always wore a beautiful green gem in a necklace. I believe after she died it was eventually sold at auction. Ask a handful of Sims about the auction to see what you can discover.”
+   [0A2E] 0xA13FAC91B7D8535F: "Based on what you learned, I have an idea where the third gem is. History mentions that Anastasia always wore a beautiful green gem in a necklace. I believe after she died it was eventually sold at auction. Ask a handful of Sims about the auction to see what you can discover."
    [0A2F] 0x9223EA0B50E926E4: Ask Sims about the Emerald until you find one who knows something.
    [0A30] 0xC527DF0B6D88D306: Have You Seen this Necklace?
    [0A31] 0x46F89626FF96AB46: Ask Sims about the Emerald

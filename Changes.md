@@ -165,6 +165,8 @@
 
 ## v0.0.x - ? - PLANNED
 
++ Capitalized Simoleons
+
 ## Other
 
 | Original | Changed |

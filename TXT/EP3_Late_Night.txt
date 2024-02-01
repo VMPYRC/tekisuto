@@ -642,7 +642,7 @@ Unknown3: 0x00000000
    [27D] 0x3A3D11944D3ACF6C: 64 Queensbury Road
    [27E] 0xE2468549BD093B91: 2097 Edgewood Road
    [27F] 0x4A29F245A1AE92D0: Sometimes even the best location can fall out of favor. Remodeled cheaply many times, Crescent Bay Plaza is again under renovation which for now just means a lot of noise for its hapless residents.
-   [280] 0x35A4FB4D54EA9C63: This historic building was once the meeting place of Bridgeport’s movers and shakers. However, lately it has fallen out of fashion and is now the denizen of citizens who do much less shaking and not too much moving either.
+   [280] 0x35A4FB4D54EA9C63: This historic building was once the meeting place of Bridgeport's movers and shakers. However, lately it has fallen out of fashion and is now the denizen of citizens who do much less shaking and not too much moving either.
    [281] 0x0AF7EA06D3D4DD80: Built on stilts to take advantage of a steep property, this contemporary house features outstanding city views, twin bedrooms, and multiple view decks. You’ll hardly notice that traffic winds around 3 sides of the house.
    [282] 0xC575506C08D3F619: An efficient studio apartment is offered in the trendy floodgate section of town. Live here and be close to industry and the bustle of the upper bay.
    [283] 0x7A4F0C5AC001E8F1: The two story garage addition, with a mother in law apartment above, softened the effect of this hastily constructed house. However most locals still call it "Raised Eyebrows" because the façade resembles an ornery face.
@@ -1862,7 +1862,7 @@ Unknown3: 0x00000000
    [741] 0xBD9E11FCAC0981C9: "Play for Fundraiser" at {OpTarget}.
    [742] 0x8A633CFC8F3AC8BF: What's My Motivation Gala
    [743] 0xBCB66F1E2C91789B: "Play for Fundraiser" at {OpTarget}.
-   [744] 0x9BD079C6E25F871A: The master class was a huge hit! Sims all over Bridgeport have gained even more respect for {OpOwner}. 
+   [744] 0x9BD079C6E25F871A: The master class was a huge hit! Sims all over Bridgeport have gained even more respect for {OpOwner}.
    [745] 0x6F5F2A1B9FDB4F2E: Pianist Sims everywhere are clamoring for {OpOwner}'s constructive criticism! In particular, The Sim Piano Guild would like {OpOwner} to be one of a few Sims to give a master class at {OpTarget}. Listen carefully to other Sims' playing and provide criticism on their technique, musicality, and, most likely, overly-dramatic breathing. 
    [746] 0x25E47DF9B0EFEDA6: It's really too bad that {OpOwner} decided not to show for {MA.his}{FA.her} own master class. The theater, in particular, is upset that they have to return all the money for the ticket sales. As a result, {OpOwner} has lost relationship with the employers.
    [747] 0x1C679BCF03EB37A3: "Give a Master Class" at {OpTarget}.
@@ -2051,7 +2051,7 @@ Unknown3: 0x00000000
    [7FE] 0x6CD6428210DEA9E4: Ooo... Buuuubbles! Your Sims will love the Hot Tub as much as you do. Warning: Extended use may lead to pruning.
    [7FF] 0x6CD6428210DEA9E5: Shy Sims are happiest in the company of close friends and don’t take well to strangers.
    [800] 0x6CD6428210DEA9E6: If all the Sims ever created joined hands in a chain, they would stretch from Sunset Valley to Bridgeport and back over one billion times!
-   [801] 0x6CD6428210DEA9E7: Keep an eye out in Bridgeport for the food truck. It’s the best place to get a sinfully greasy snack on the go!
+   [801] 0x6CD6428210DEA9E7: Keep an eye out in Bridgeport for the food truck. It's the best place to get a sinfully greasy snack on the go!
    [802] 0x6CD6428210DEA9E0: Feeding Digital Fish isn’t necessary, but it helps Sims feel like they’re making a difference.
    [803] 0x6CD6428210DEA9E1: Wanna mix things up? Consider renaming your band to something silly.
    [804] 0x6CD6428210DEA9E2: Gigs are a great way to gain money and fame, provided that your Sims show up.
