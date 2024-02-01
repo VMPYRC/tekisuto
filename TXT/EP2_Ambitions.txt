@@ -351,7 +351,7 @@ Unknown3: 0x00000000
    [15A] 0x32B783C97E044A8E: Abracadabra
    [15B] 0x892C17AE214D6EA5: Magical Gnome of Sculpting
    [15C] 0xC65D4D9F0D5BEF5D: Magnifying Glass
-   [15D] 0xE90652A54FCF2237: Jolina Family Mauseleom
+   [15D] 0xE90652A54FCF2237: Jolina Family Mausoleum
    [15E] 0x75AC392767482597: melted ice sculpture
    [15F] 0x51825C3BF9A9816A: Meteor Impact Shadow Object-(DNT) See Alan if you see this text
    [160] 0x067FB3B62EF3747C: Sims in Arms Military Base

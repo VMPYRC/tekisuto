@@ -210,9 +210,7 @@ Unknown3: 0x00000000
    [0CD] 0x7A2CE3BFCD1A8334: Keep it real, yo, with this legit Graffiti backdrop. You can take the performer out of the streets, but if you want to keep the streets in the performer, make this beautifully tagged background part of your act. Best of all, if you paint it white, the graffiti's back the next day!
    [0CE] 0xB45726574F84F612: Why settle for an OK Corral when you can have this High-Falootin' Saloon front! The perfect backdrop for a showdown or a hoedown, with this vintage Old West scenery you'll be roundin' up the audience in no time. Yee haw!
    [0CF] 0xF852BEA364561940: Unlike Atlas, who struggled under the weight of a great burden, this bear crushes his burden beneath his feet. His souless eyes reflect the unspeakable terrors that he has witnessed. Many things have been won and lost on the hard and lonely path to greatness, chief among them: his pants.
-   [0D0] 0xB381976F846A5ED5: Diagonal paths
-reach outstreched across the land
-brothers intertwined
+   [0D0] 0xB381976F846A5ED5: Diagonal paths\nreach outstreched across the land\nbrothers intertwined
    [0D1] 0xB59FB09E34338EC7: This Cactus looks real enough to snag your chaps on! Most folks can only dream of living in barren, drought-ravaged deserts...but now with the Old West Mercantile plastic Cactus, you can bring a prickly piece of the desert to your home or stage!
    [0D2] 0xF8742FA5255C64B9: Chase away the monsters with this ornate candalabra by Blackfyre. With its elegant wrought iron and hand-dipped candles, this adds a perfect gothic touch to your Victorian stage setup or stately manor.
    [0D3] 0xB88D7CB09FD91C08: After one too many run-ins with lawsuits, we've decided to put our warning in the name of this cannon. This cannon will look great on your stage or in your home, and it will shoot out some lovely (non-flammable, safe, and environmentally friendly!) sparks, but it will not shoot out any other things including--but not limited to!--cannonballs, Clown Sims, Daredevil Sims, Sim dogs, pies, fish, jellyfish, llamas, or gnomes. There is absolutely no additional functionality on this cannon!
@@ -230,18 +228,10 @@ brothers intertwined
    [0DF] 0x64AAB4CD2AC3A4FD: Explore the world of Steampunk with this mystical globe sculpture. With its unique composition of Copper, Gold and Simonium, it is rumored to create powerful magnetic fields that can transport one through time or into alternate realities, though this is pure conjecture.
    [0E0] 0x91B4E2E409CA39E4: We all know the tragic tale of Gossamer Goblin-glitter, now don't we? What an amazing tale it is - the best story ever told, some say. And, as you know, there is only one way to free her from her eternal torment. Why don't you purchase the sculpture to make her feel better?
    [0E1] 0x48B9AC090B08CB13: This 10 Ton Ice Cream cone could feed 10 Sims for 10 days. 10 Sims would take 10 minutes to flip it back over, but they could dig in now thanks to the 10 second rule. 0 out of 10 doctors recommend eating fake ice cream. Brought to you by Om Nom Nom Inc.
-   [0E2] 0xBADDA0A3414B08E7: Noble, fragile king
-silent flag of your people
-token of their cause
-   [0E3] 0xC6D0B4BE252A2139: Oh, fast, noble steed
-victory leaping onward
-which way do you ride?
+   [0E2] 0xBADDA0A3414B08E7: Noble, fragile king\nsilent flag of your people\ntoken of their cause
+   [0E3] 0xC6D0B4BE252A2139: Oh, fast, noble steed\nvictory leaping onward\nwhich way do you ride?
    [0E4] 0xD6C0665CF9A1334B: Celebrate the basic Simatomic building block of all things, the plumbob, beautifully represented in this LED sculpture by Marquee de Sim. Ponder its existential facets and geometric symbolism...or just stare at the sparkly light. Either way, this piece is sure to enthrall your houseguests or stage show audiences. Shine on, you crazy diamond!
-   [0E5] 0xD2C607DAEAA13DBB: Give me your sleepy, your grungy, 
-your lonely masses yearning to talk to someone, anyone,
-and the wretched ones who really had to go.
-Send these, the hungry and the stressed to me.
-I lift my mic beside the golden lights!
+   [0E5] 0xD2C607DAEAA13DBB: Give me your sleepy, your grungy,\nyour lonely masses yearning to talk to someone, anyone,\nand the wretched ones who really had to go.\nSend these, the hungry and the stressed to me.\nI lift my mic beside the golden lights!
    [0E6] 0x1EEDAF00F403922C: Originally created as a retinal scanner to secure entry into the SimTech Industries CEO’s office, this beautifully illuminated, and now disarmed, security column is the perfect addition to any show stage or home office. You will also receive two commemorative eye patches in memory of the recently deceased SimTech CEO.
    [0E7] 0x4E032271760AE491: Floating on a beam of simulated energy, the Electro-Orb provides just the right ambiance to give any show stage or room in your home a touch of futuristic style. If you want to be the first to own the ultimate in “anti-gravity art”, the Electro-Orb from SimTech Industries is for you.
    [0E8] 0xE3E6C50E92B73C13: Beware the Magic Trunk! Some say it is cursed by the haunted soul of a magician who died while submerged inside it! Others say it still contains his chained skeleton! But no one will ever know...the trunk has been permanently sealed!! One thing's for certain: placing it on your stage or in your home will add an extra air of mystery!
@@ -251,19 +241,13 @@ I lift my mic beside the golden lights!
    [0EC] 0x38F317EBEDF54ECA: SimTech Industries is proud to offer up the Digi-Arch, the perfect accessory for adding flair to an empty show stage or your traditional home décor. Following years of research, SimTech Engineers found that the most perfect form in nature is the arch. And what better way to compliment that perfect form than to add pulsating neon lights. 
    [0ED] 0xECEC18FC5A9E9602: For the Sim that has everything, the new SimTech Industries Sim-Bot is something else to blow Simoleons on. While it provides none of the useful services of traditional robots, it looks great and uses less electricity than ten toasters. As a low-maintenance companion at home or a low-maintenance, motionless backup dancer on-stage, the Sim-bot is one of a kind (unless you buy more).
    [0EE] 0x35857F1A6ED66A59: According to legend, the evil pirate Greenbeard found an old lamp containing a genie and, with his second wish, asked for a giant onyx gem (the first wish being WooHoo related (it was a long sea voyage), the third wish being "three more wishes"). Thus was created the Black Plumbob of lore. This replica reminds you to be careful what you wish for... 
-   [0EF] 0x9356BAA3BBE26550: Round head so shiny
-sadly so disposable
-a pawn in their game
+   [0EF] 0x9356BAA3BBE26550: Round head so shiny\nsadly so disposable\na pawn in their game
    [0F0] 0xE7BEE62BA3569C88: This Decor8 sculpture, symbolizing all three planets in the known Sims universe - Boonitz, Dipthong and Earth - is both attractive and functional, as simply by virtue of owning it, it may make you seem smarter. Decorate your space... with Space!
    [0F1] 0xCEF8714F7E385A8C: It’s a beam of light! It’s a teleporter! No, wait it’s an interstellar dimensional transponding device! Keep your audience guessing with a ray of light so advanced the smarties at SimTech couldn’t figure out what it was. Or place it in your home and dazzle your visitors and make them question if you truly did move in from outer space. Either way the WhatIzIt?!? is guaranteed to confuse onlookers, or your Simoleons back!
-   [0F2] 0x246F373E7AF45714: Quick and deadly queen
-watchful warrior sees all
-best and greatest hope
+   [0F2] 0x246F373E7AF45714: Quick and deadly queen\nwatchful warrior sees all\nbest and greatest hope
    [0F3] 0x73714CCD9161FC5F: Without beginning or end, the Ring Tower is both finite and infinite. Whatever the rings represent for you - eternity, commitment, circuses, dirty bathtubs - this exquisite sculpture will be an eternal reminder.
    [0F4] 0x85FA681B9655076E: Decor8 invites you to relive the excitement and romance of the Cold War Era with this new Rocketship sculpture! The whimsical design, inspired by early Nuclear Warhead schematics, features sassy striping and colorful accents. As a stage prop, a conversation piece, or something to hang your clothes on, the Decor8 Rocketship will have you blasting off for fun!
-   [0F5] 0x812350A3B1539335: Strong, steady fortress
-upholds the future, unmoved
-protects ancient kings
+   [0F5] 0x812350A3B1539335: Strong, steady fortress\nupholds the future, unmoved\nprotects ancient kings
    [0F6] 0x14037731F071A644: This vintage prop was once owned by Jacques Serrat, the infamous illusionist. Those who saw him perform say his Saw Box trick was incredibly realistic. This prop can no longer be used without a Certificate of Sanity, but makes an exciting conversation piece or stage prop.
    [0F7] 0x25663322C9D6756E: Have you ever dreamed of living under the sea, riding the wild currents on your trusty seahorse? No? Well, regardless, with the Mer-Made Seahorse Sculpture, Sims can get all the enjoyment of owning a seahorse without the hassle of being underwater.
    [0F8] 0x9A69A3943CFAD469: Those who've never seen the Social Bunny may think it's just another fictional rabbit. Not so! While it is true that it appears to only the loneliest of Sims, the fact that there's a statue of it proves that it's real! 

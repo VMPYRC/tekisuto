@@ -107,7 +107,6 @@ Unknown3: 0x00000000
    [64] 0x3B120F0DB782C35A: Peppermint Preserves
    [65] 0x155E21DB09CFE6D6: Sculpture Candy Bunny
    [66] 0xA0A02E928CCE5131: Perma Melt Cone
-
    [67] 0x89C7133BC383AC6C: Lollipocalypse
    [68] 0x702BEDBF0D049D7A: Bin Bites Be Free
    [69] 0x9139A16F989C39F6: Candy Plants
@@ -126,7 +125,6 @@ Unknown3: 0x00000000
    [76] 0xA5383DEBA5FE1F73: Slippy Sweet
    [77] 0x5A72160D9D4DE838: Pleasure Boat Sundae Sofa
    [78] 0xB0288258964A1D47: Mr. Tootles' Swingset
-
    [79] 0x7A3C4E35ECD6AE6D: Peppermint Plateau
    [7A] 0xDC13217847EB7436: The Sweet Spot
    [7B] 0x43F52EF7B6EB2C63: Sweet Picnic
@@ -136,14 +134,11 @@ Unknown3: 0x00000000
    [7F] 0x50E2AE283FB06D44: Chew on This
    [80] 0x54BE64B8A8CE8C4A: Peppermint Porthole
    [81] 0xBE72515CA694C78B: The Phyllo Fence is formed from several hundred thin layers of wood, pressed together and baked on a large cookie sheet using our secret curing process. The craftsmanship is unrivaled and it looks good too. We're sure you'll whisk one of these up soon! Warning: Made in a facility that contains eggs and nuts.
-
    [82] 0x3C1809169A38A29C: Phyllo Fence
    [83] 0x90F0BD0EA970DC4E: To delete a section of the same wall covering, hold the Shift and Ctrl keys and click on the wall. Hold down the Ctrl key and click to delete a single tile of wall covering.
-
    [84] 0x88065688F56AF68D: Placeholder
    [85] 0x2730CF1CA7B0619E: Miles o' Mint
    [86] 0x0F321808A1EDCDC6: We are unable to verify that your disc is a valid copy of The Sims 3 Katy Perry's Sweet Treats. Please contact customer service.
-
    [87] 0x93CBC5FB32FB5502: No game disc found! Please insert The Sims 3 Katy Perry's Sweet Treats game disc before proceeding.
    [88] 0x1CB5CEC60CF5D7F9: Whipping Cream
    [89] 0xBEC6538805BDFC2B: Adding Food Dye

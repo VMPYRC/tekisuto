@@ -20,10 +20,7 @@ Unknown3: 0x00000000
    [00F] 0x5690ACE3C076780D: All fear the mighty Slade! Guffaw at Poseidon's paltry influence as you cleave his nugatory waves, Slade evermore your trusty steed! Darn the currents, curse the interminable briny expanse, and meet head-on any who dare impugn Slade's honor! Kids love it too!
    [010] 0xF45BB8939D976FB9: “O CAPTAIN! my Captain! our sailing trip is done;\nThis ship has weather'd every storm, the prize we sought is won!\nExult, O shores, and ring, O bells!\nAnd I, shall sail ahead\nMan that rudder with the skies\nClear and blue O’erhead.” 
    [011] 0x167CEFB683CFB430: It’s fast, it’s fun, and it’s safe enough for the whole family to ride (but one at a time, for Pete's sake!) Aqua-Sled Watercraft: This time... it's personal!
-   [012] 0x862DA45761B7BA7B: Half a league, half a league, half a league onward. 
-All in the ocean of fun rode the cool speedboats! 
-"Forward, the Speed Brigade! Charge for the waves," we say! 
-Into the ocean of fun rode the cool speedboats!
+   [012] 0x862DA45761B7BA7B: Half a league, half a league, half a league onward.\nAll in the ocean of fun rode the cool speedboats!\n"Forward, the Speed Brigade! Charge for the waves," we say!\nInto the ocean of fun rode the cool speedboats!
    [013] 0xF6F1163E4FBF7FC1: Even boats need to feel dirt beneath their hull now and then! Give them a nice resting place with this sturdy trailer from Aqua Transporter.
    [014] 0x64BA6E33076CAFCA: It’s fast, it’s fun, and it’s safe enough for the whole family to ride (but one at a time, for Pete's sake!) Aqua-Sled Watercraft: This time... it's personal!
    [015] 0x8C74FD0974D09D9A: Even if it's a teaser breeze or it's nukin', Laminar Wind Windsurfing Boards will have you ripping in no time. Shaka bra!
@@ -141,8 +138,7 @@ Into the ocean of fun rode the cool speedboats!
    [085] 0x9048CEE0E3196EFF: Can you see the pensive lion in the stone's structure? No? Hmm... well maybe if you squint just right you can see a playful squirrel instead.
    [086] 0x9048CEE0E3196EFE: Someone stacked two stones on top of each other in perfect balance, but don't worry. That boulder isn't going anywhere!
    [087] 0x5BCE660A4A1C7FB6: This is a large rock.
-   [088] 0xE9A481E744A771CC: “Buy, buy, buy this boat. You should buy this boat! Verily, verily, verily, verily, boat boat boat buy-our-boat!” 
-Look, we’re sorry; our poetry guy is on vacation right now.
+   [088] 0xE9A481E744A771CC: "Buy, buy, buy this boat. You should buy this boat! Verily, verily, verily, verily, boat boat boat buy-our-boat!" Look, we’re sorry; our poetry guy is on vacation right now.
    [089] 0x7DE738BCC157B49F: Seashell slabs salvaged from sensibly suited suppliers solicit sensations of serenity when simultaneously swimming, sunbathing, or splashing.
    [08A] 0xC5C32D50246A028B: Here in Accolades, children and teens get the best education free Simoleons can get. The prestigious school known for its superb general education along with a state of the art sports program attracts parents all across town. All the students here are provided the best education and sports training to prepare them in the future.
    [08B] 0x18F5A3195D0EE524: Specializing in volcanic and aquatic sciences for over fifty years!
@@ -1185,18 +1181,16 @@ Look, we’re sorry; our poetry guy is on vacation right now.
    [498] 0xC6BEB7B89768EFB8: Fight a shark
    [499] 0x5E97DEF27C9B4904: There it is! The fabled Refuge Island! It should be easy to navigate there now!
    [49A] 0x2AC17589953DD7D0: “Wow, thanks! OK, I’m convinced! Refuge Island is actually easy to find; there’s an old map at town hall that will point the way. Search the dilapidated cartography section.”\n\nEP10_HiddenIsland_Op5
-   [49B] 0x0947FCE3D8541229: “Search for Map” at {OpTarget}.
+   [49B] 0x0947FCE3D8541229: "Search for Map" at {OpTarget}.
    [49C] 0xD60D27E3BB85591F: Not uncharted, you LOST the chart!
    [49D] 0x2F742E71DFC116FB: Find the Map
    [49E] 0xCF46E420FF65F9B3: Fascinating! There is so much to find at the bottom of the sea.
-   [49F] 0x8FD021A6CAA703C9: The bottom of the sea is host to a multitude of mysterious caves, waiting to be explored. The scientists at {OpTarget}, however, are not exactly the exploring type. To further their research, they would like {OpOwner} to explore some underwater caves and report back with what {MA.he}{FA.she} observes.\n
-\nEP10_SkillUnderwaterDiving_Caves1\nEP10_SkillUnderwaterDiving_Caves2
+   [49F] 0x8FD021A6CAA703C9: The bottom of the sea is host to a multitude of mysterious caves, waiting to be explored. The scientists at {OpTarget}, however, are not exactly the exploring type. To further their research, they would like {OpOwner} to explore some underwater caves and report back with what {MA.he}{FA.she} observes.\n\nEP10_SkillUnderwaterDiving_Caves1\nEP10_SkillUnderwaterDiving_Caves2
    [4A0] 0xEC3BD4F07B17AA82: Explore {OpNumEventsGoal} underwater caves and report back to {OpTarget}.
    [4A1] 0xB937E1F05E7801EC: Deep Sea Diving
    [4A2] 0x6A0EA0CA604D10C8: Explored {OpNumEventsCurrent} / {OpNumEventsGoal} Caves.
    [4A3] 0xCE5D4E1C450CDCEA: Fascinating! There is so much to find at the bottom of the sea.
-   [4A4] 0x13DBC1D1BC93581E: The bottom of the sea is host to a multitude of mysterious caves, waiting to be explored. The scientists at {OpTarget}, however, are not exactly the exploring type. To further their research, they would like {OpOwner} to explore some underwater caves and report back with what {MA.he}{FA.she} observes.\n
-\nEP10_SkillUnderwaterDiving_Caves1\nEP10_SkillUnderwaterDiving_Caves2
+   [4A4] 0x13DBC1D1BC93581E: The bottom of the sea is host to a multitude of mysterious caves, waiting to be explored. The scientists at {OpTarget}, however, are not exactly the exploring type. To further their research, they would like {OpOwner} to explore some underwater caves and report back with what {MA.he}{FA.she} observes.\n\nEP10_SkillUnderwaterDiving_Caves1\nEP10_SkillUnderwaterDiving_Caves2
    [4A5] 0x73161D171D387913: Explore {OpNumEventsGoal} underwater caves and report back to {OpTarget}.
    [4A6] 0xA64FF0173A057B81: Deep Sea Diving
    [4A7] 0x7D412700C775E101: Explore {OpNumEventsCurrent} / {OpNumEventsGoal} Caves.
