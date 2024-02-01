@@ -446,15 +446,15 @@ Unknown3: 0x00000000
    [1B9] 0xE29E7923D250DBAC: graffitiArtWall1x1 DO NOT TRANSLATE
    [1BA] 0xE2A16F23D2530047: graffitiArtWall2x1 name DO NOT TRANSLATE
    [1BB] 0xE2A47523D255404E: graffitiArtWall3x1 name DO NOT TRANSLATE
-   [1BC] 0x79636438821EFFCB: Placeable Graffiti Mural – Wall Small
-   [1BD] 0x795D5838821A7FD9: Placeable Graffiti Mural – Wall Medium
-   [1BE] 0x610CCC8840281412: Placeable Graffiti Mural – Wall large
+   [1BC] 0x79636438821EFFCB: Placeable Graffiti Mural - Wall Small
+   [1BD] 0x795D5838821A7FD9: Placeable Graffiti Mural - Wall Medium
+   [1BE] 0x610CCC8840281412: Placeable Graffiti Mural - Wall large
    [1BF] 0xB403483576EB6D6E: Greenleaf
    [1C0] 0x6B5E7F195FC92A0F: Group Science Project
-   [1C1] 0x71B162C1F6619220: Group Science Project – Lever of Doom
-   [1C2] 0x869720199EFDF47D: Group Science Project – Magnatic Array
-   [1C3] 0xC197B290CE258107: Group Science Project – Mind Melder
-   [1C4] 0x5E91F6B5B5079B7F: Group Science Project – Pad Tie Node
+   [1C1] 0x71B162C1F6619220: Group Science Project - Lever of Doom
+   [1C2] 0x869720199EFDF47D: Group Science Project - Magnatic Array
+   [1C3] 0xC197B290CE258107: Group Science Project - Mind Melder
+   [1C4] 0x5E91F6B5B5079B7F: Group Science Project - Pad Tie Node
    [1C5] 0xEB4009E997DB0CB6: Halfback Hamper by GoTeamGo
    [1C6] 0x581B8D0FCF5692A1: improvedProtesting_jig DO NOT TRANSLATE
    [1C7] 0x3DF28E7BA0407678: University Job Board
@@ -763,7 +763,7 @@ Unknown3: 0x00000000
    [2F6] 0x41CF3143EB81D692: Steps and a fenced front porch invite Sims to a spacious, family-friendly residence. Efficient, sensible layouts make every floor both a cozy den and a private palace.
    [2F7] 0x52C149E2D24F1291: Nothing special here. Just a quaint little park. 
    [2F8] 0xCE024B977CE87B93: The original founding house of the Tri-Fruhm Sorority. Ladies only!
-   [2F9] 0xB6B08462726A0BC0: If you like bowling – or just hanging out and having fun – this place is right up your alley.
+   [2F9] 0xB6B08462726A0BC0: If you like bowling - or just hanging out and having fun - this place is right up your alley.
    [2FA] 0xA9FE1641013501C5: Be a winner with our Physical Education degree or spend your time playing University intramural sports. 
    [2FB] 0x14ABA7E921E2E5BD: A simple house for salt-of-the-earth Sims. The wide front porch welcomes in visitors to a happy, well-run household—the kind that has the basic amenities and doesn’t ask for more.
    [2FC] 0x14ABA7E921E2E5BE: The perfect home for young Sims just making their way in the world. An enormous common room keeps options open. The wide fenced deck gives your dreams space to soar.

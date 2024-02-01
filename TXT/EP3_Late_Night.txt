@@ -93,7 +93,7 @@ Unknown3: 0x00000000
    [058] 0x59F76F82D8305DFA: When you're on the A-List, you're constantly bombarded with gifts from up-and-coming designers trying to impress you with their next great piece of clothing. If this statement describes your life, then you need to own Dresser of Holding! Creak open the doors to access a pocket dimension that allows you nearly endless space to throw all those gifts.
    [059] 0xA706141AFDC28134: You wish you had more cow bell... now you can! The Marvin Beats Drum Kit will let you create great music with the right percussions, drums, and Cow Bell!
    [05A] 0x4F8D593B293442F7: The professional-grade Party FX Machine 5950 is a revolutionary device that lets you unleash a hurricane of special effects in any location. Just press the "Insta-Party" button to turn on the machine and watch the party unfold!
-   [05B] 0x9C1CC71DA092C50B: The Deco Elevator was designed with design in mind! Passengers will not only arrive at their destination, but they’ll arrive in style–regardless of any personal stylistic shortcomings.
+   [05B] 0x9C1CC71DA092C50B: The Deco Elevator was designed with design in mind! Passengers will not only arrive at their destination, but they'll arrive in style - regardless of any personal stylistic shortcomings.
    [05C] 0xFFAE4E0A6E6B3998: Use an Elevator Shaft to connect multiple floors without the need for an elevator stop. Most often used on the thirteenth floor.
    [05D] 0xC7CB23495DDF330F: Elegant, refined, and trendy, too, the Shapely Shine Fence is perfect for lounges, night clubs, bars, or homes looking for a certain level of after hours sophistication.
    [05E] 0xE1170DBB7C92A7A4: Light in weight, but heavy in durability the Light Up My World Fence is both lustrous and unique. Add a touch of polished sophistication and show off your playful side with this slick style of modern fencing.
@@ -1070,7 +1070,7 @@ Unknown3: 0x00000000
    [429] 0x545669AEBFBB721E: Shaker
    [42A] 0x540180AEBF7359E7: Sharpe
    [42B] 0xAE3DE1773B70B74F: Kai
-   [42C] 0xA29888B3284000ED: Kai’s always been a lucky guy, but this lucky – dating a superstar – is even beyond his wildest dreams. Many people attribute it to his great looks, but he’s starting to wonder whether they’ll be enough to get him by with Lola’s new motherly responsibilities.
+   [42C] 0xA29888B3284000ED: Kai has always been a lucky guy, but this lucky - dating a superstar - is even beyond his wildest dreams. Many people attribute it to his great looks, but he's starting to wonder whether they'll be enough to get him by with Lola's new motherly responsibilities.
    [42D] 0x9898DDAEE619A92F: Shimmy
    [42E] 0xAE3DE1773B70B75E: Rohan
    [42F] 0xEB5486AE83F41AEA: Shukla
@@ -2058,7 +2058,7 @@ Unknown3: 0x00000000
    [805] 0x6CD6428210DEA9E3: Tired of giving the same performance with the band? More skilled Sims should consider doing a Sweet Move to freshen things up.
    [806] 0x6CD6428210DEA9EC: Up to four Sims can join a band. If one gets on your nerves, kick them out!
    [807] 0x6CD6428210DEA9ED: Is your Sim in a band? Many band interactions are found on instruments, your Sim, or their bandmates.
-   [808] 0x3D220B6AD18BFCDF: Black lights – they aren’t just for raves anymore! Try modifying one of your lamps at home to keep the party going all night long.
+   [808] 0x3D220B6AD18BFCDF: Black lights - they aren't just for raves anymore! Try modifying one of your lamps at home to keep the party going all night long.
    [809] 0x6CD6458210DEAEDD: Once your Sim gains a skill point for any instrument, consider asking another Sim to Form a Band!
    [80A] 0x6CD6458210DEAEDC: Serenading other Sims is a great way for skilled musicians to create that certain mood. Why not give it a try?
    [80B] 0x6CD6458210DEAEDF: Feel like making music with other Sims? Consider jamming. It’s a nice way to make friends too.
@@ -2071,7 +2071,7 @@ Unknown3: 0x00000000
    [812] 0x6CD6458210DEAED4: Daring denizens of the night may be roaming your town. Will you fight against them or join them?
    [813] 0x3D220B6AD18BFCDE: Want a wall stereo of your very own? Perhaps you can snag one when nobody is looking...
    [814] 0x6CD6448210DEAD0A: Vampires can...breed? That’s one cute baby, except for the fangs!
-   [815] 0x6CD6448210DEAD0B: Vampires are at their best at night – they gain skills more quickly, their motives decay slower, and they can read other Sims' minds to learn their traits, likes, and dislikes!
+   [815] 0x6CD6448210DEAD0B: Vampires are at their best at night - they gain skills more quickly, their motives decay slower, and they can read other Sims' minds to learn their traits, likes, and dislikes!
    [816] 0x6CD6448210DEAD08: Vegetarian Vampires can enjoy a special snack: Plasma Fruit! Cultivate it like any other fruit with seeds found around town.
    [817] 0x6CD6448210DEAD09: Vampires enjoy special benefits during the night, but watch out during the day. Too much sun and they’ll be paying the price.
    [818] 0x6CD6448210DEAD0E: Enjoy a modern style? Consider building platforms in your Sim’s home. They’re a great way to define space in open floor plans.

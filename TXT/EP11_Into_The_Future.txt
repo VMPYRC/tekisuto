@@ -26,7 +26,7 @@ Unknown3: 0x00000000
    [015] 0x156655F1BFC688D7: Traditional bookshelves leave their contents exposed to the atmosphere. Corebital’s revolutionary BiblioVault design protects your precious volumes from the ravages of moisture, oxygen and even time itself!
    [016] 0x4382060F980D7BA9: What do children love more than books? They love a framework of abstract overlapping shapes surrounding those books! Stimulate your child’s mind with geometry and literature at the same time. 
    [017] 0xE8511F418C66C78C: The perfect accent to any children’s room, this squat learning center is easily accessible to young minds. Natural vegetation accents the bookshelf’s shrub-inspired design.
-   [018] 0xC87305CF7527D352: Enjoy two of life’s greatest pleasures – books and spas! Enjoy the best manicure in town conveniently located inside a bookstore!
+   [018] 0xC87305CF7527D352: Enjoy two of life's greatest pleasures - books and spas! Enjoy the best manicure in town conveniently located inside a bookstore!
    [019] 0xEB2A9A842BD754D4: New technology brings new opportunities to make Simoleons! Plumbots make big differences in Sims’ lives and soon everyone will have one. They may as well buy it from you.
    [01A] 0x6B9168926B8BEE67: Bot Emporium Shell
    [01B] 0xC99CD9EECF5901F3: Even the most advanced Plumbots wear down and need a recharge. In the Nexus-9 Charging Station, your bot can replenish their batteries while peacefully dreaming of electric llamas.
@@ -73,7 +73,7 @@ Unknown3: 0x00000000
    [044] 0xF474D236734D755D: It would be awful tacky to park a pristine new hovercar in old digs! Turn your garage into a Vehicle Storage Unit, complete with a retracting door and remote opener.
    [045] 0x29A4D8D32EDC2F67: The handle of this simple, spare door floats like an iceberg in a sea of glass. Sturdy construction ensures the door won’t shatter, even if you walk headlong into it.
    [046] 0x141DBB7BF2D78B8C: Finally, an automatic sliding door! Technically they’ve been available for decades, but this one retracts into the wall with a cool futuristic sound. Your supermarket’s front door can’t offer that.
-   [047] 0x3B35C2060B659BE5: Modern technology allows Sims to script their dreams and feel the life enhancing effects the next morning! Be careful – good dreams can turn into nightmares with unpleasant side effects.
+   [047] 0x3B35C2060B659BE5: Modern technology allows Sims to script their dreams and feel the life enhancing effects the next morning! Be careful - good dreams can turn into nightmares with unpleasant side effects.
    [048] 0x49FB3A73B9B02520: Weather can be unpredictable, and any sensible Sim needs to be prepared for any eventuality. Whatever elements of outerwear the climate calls for, they’ll stay ordered in this dresser.
    [049] 0x07A6DF6DF0839024: Stacked like the mighty magnets of a particle accelerator, these dresser drawers accommodate a huge variety of clothing. They can be linked to other Van Allen products to save space.
    [04A] 0x8D80F3B7EABFAC98: Sleek double doors slide shut to form an unbreakable airtight seal. Inside, barometric pressure is reduced to zero; your clothes are perfectly preserved in a deep-space vacuum!
@@ -125,7 +125,7 @@ Unknown3: 0x00000000
    [078] 0x0969E26AB8EB58B8: Simply the greatest performance guitar ever constructed. The hollow body keeps it light for onstage theatrics, and touch sensors along the neck give you the world’s fastest fretboard.
    [079] 0xF066DAFE46DAF891: Ordinary instruments are so primitive: plucking taut strings, blowing air through tubes. The sparkling new Laser Harp is a new approach to the ancient language of music, manipulated through laser controls!
    [07A] 0x7CDEF465C2AFD09B: Your child deserves to sit and eat in total security. The planet deserves totally nontoxic eco-friendly construction. As always, Wiggin is here to please both parents and their little ones!
-   [07B] 0xD038F4FD1A679F28: We all need a friend sometimes; a close and special relationship we don’t have to share with others. Holo Sprites provide warm, instant companionship – but they’ll need tender loving care to keep their mood up!
+   [07B] 0xD038F4FD1A679F28: We all need a friend sometimes; a close and special relationship we don't have to share with others. Holo Sprites provide warm, instant companionship - but they'll need tender loving care to keep their mood up!
    [07C] 0x53980FAB017A4624: Living, breathing plants are notoriously needy: always whining for things like water and sunlight. Sidestep such corporeal concerns by “planting” these holographic replacements anywhere you like!
    [07D] 0x539C05AB017E1DDC: No, these aren’t the ghosts of long-dead plants come back to haunt their negligent owners. They’re holographic potted plants, built to give your home a hip-but-mysterious vibe.
    [07E] 0xE1DC2F0968FC70A0: Suffering from Time Sickness or in need of scientific research? We’ll serve you with a smile and guarantee our work.
@@ -185,7 +185,7 @@ Unknown3: 0x00000000
    [0B4] 0xBAB546CE0B6E68BA: Distant Planet
    [0B5] 0xD90F6C841987EE37: Orbiting Satellite
    [0B6] 0x3C304F8AA1F1D7B3: Shooting Star
-   [0B7] 0x0FA6BD74FB08F6A4: In some places, tomorrow is just another day – but not for the citizens of SimCity™. Their lives are about to be upgraded with new ways to travel and sleek futuristic architecture. Experience the city of tomorrow, today!
+   [0B7] 0x0FA6BD74FB08F6A4: In some places, tomorrow is just another day - but not for the citizens of SimCity™. Their lives are about to be upgraded with new ways to travel and sleek futuristic architecture. Experience the city of tomorrow, today!
    [0B8] 0x8F9DD816109B055C: Even in a vast field of stars, a single bright flare can really stand out. What might this glorious thing be saying to us? What might she be asking for?
    [0B9] 0x448B466806FF3397: Spectacular Super Nova
    [0BA] 0x34D53B6DE38B0FFC: Universe’s End
@@ -544,7 +544,7 @@ Unknown3: 0x00000000
    [21B] 0xC89EC811AB059ABB: Arasika Elroy from Zed’s Dizcount Dealz
    [21C] 0xEB68B1059A85EBF3: Arasika Amalthea from Zed’s Dizcount Dealz
    [21D] 0x276BBAEA5290B7AD: Arasika Bubalus
-   [21E] 0x7430DA19C8DCEEEC: Nanite Spawner – Bot Workshop
+   [21E] 0x7430DA19C8DCEEEC: Nanite Spawner - Bot Workshop
    [21F] 0xC323AA3D5B9ACF06: Secord X-7 Jetpack
    [220] 0xC42E25CE54A51FB9: jetpackFlyAround_jig DO NOT TRANSLATE
    [221] 0xDB3D7B44148A6AAA: jetpackLandFail_jig DO NOT TRANSLATE
@@ -862,9 +862,9 @@ Unknown3: 0x00000000
    [359] 0x96DE24AB1CEC09F8: 1383 Desolation Drive
    [35A] 0xE5812FE564A92AA7: Prove which Plumbot is the best of the best in cold hard steel competition. Competitions daily for those who have bolts of steel.
    [35B] 0x2F030D08E89AE892: A place for visitors to relax and unwind while visiting Oasis Landing. Stay for as long or as little as you’d like!
-   [35C] 0xC1D35DCD5E5E25A3: Long ago this was a bustling beach on a pristine ocean. It’s still a great place to visit – just bring your own water!
+   [35C] 0xC1D35DCD5E5E25A3: Long ago this was a bustling beach on a pristine ocean. It's still a great place to visit - just bring your own water!
    [35D] 0x252C8FBDCDBD7A15: The perfect place to clear the mind and reflect on past events. Say hello to someone and maybe you’ll meet a new friend!
-   [35E] 0x2AB09CA7409315D5: Enjoy two of life’s greatest pleasures – books and spas! Enjoy the best manicure in town conveniently located inside a bookstore!
+   [35E] 0x2AB09CA7409315D5: Enjoy two of life's greatest pleasures - books and spas! Enjoy the best manicure in town conveniently located inside a bookstore!
    [35F] 0xD3B18F724494B010: Take a stroll and learn about the heroes of history that helped shaped Oasis Landing’s culture. 
    [360] 0x7203AFBCD8D58798: Meals are synthesized to order and served by friendly Plumbots. Best of all, there’s no tipping required!
    [361] 0x2AA6D125D08DB9E6: We’re standing by and ready to serve the denizens of Oasis Landing. Swing by and say hello!
@@ -904,7 +904,7 @@ Unknown3: 0x00000000
    [383] 0x5C0776EF014BB364: If you’ve got a big family, you need to get them back in touch with nature! A family-centric layout and plenty of living space combine with a delightfully rustic motif.
    [384] 0x5C0773EF014BAE74: This luxurious home will exceed all your expectations. The large backyard has infinite possibilities and the open floor plan makes decorating a snap. Don’t delay on moving into this wonderful home!
    [385] 0x5A4BE76072A818EE: Whether you’re and adult or a minor, you’ll enjoy spending time in this park created by the miners of yore.
-   [386] 0x5A4BE76072A818ED: The perfect place for a serene day with the kids. Enjoy the fountains, playground, or BBQ pit – the choice is yours!
+   [386] 0x5A4BE76072A818ED: The perfect place for a serene day with the kids. Enjoy the fountains, playground, or BBQ pit - the choice is yours!
    [387] 0x5A4BE76072A818EC: This quaint little park is a favorite of Oasis Landing. Take a seat and enjoy the fountains!
    [388] 0x0BCB0C3CEF21BDDF: Explore the cosmos and unlock the greatest mysteries of the universe. Fun for Sims of all ages!
    [389] 0x9AC4FBC09F2FA239: Enjoy the latest and greatest films remade in HoloVision! You’ll never look at movies the same again.
@@ -1516,7 +1516,7 @@ Unknown3: 0x00000000
    [5E7] 0x9F85F7B67AA22628: Work an Extra Shift at the Bot Arena.
    [5E8] 0x0CD5B532DD4A1B90: You successfully took those Sims on an Arena tour without anyone getting lost or hurt.
    [5E9] 0x9A24D8AD6CC95894: A group of local Plumbot enthusiasts would love to see how Bot Competitions are run! Guide them on a tour of the Bot Arena.\n\nEP11_Career_ServoBotArena02
-   [5EA] 0xD6F8C41EDDF058D8: You weren’t in the mood for giving a tour of the Bot Arena. It’s understandable – you needed a day off!
+   [5EA] 0xD6F8C41EDDF058D8: You weren't in the mood for giving a tour of the Bot Arena. It's understandable - you needed a day off!
    [5EB] 0x141AB521E401281B: Guide a Tour
    [5EC] 0xBE8C08E25B38AB87: Give a Tour of the Bot Arena.
    [5ED] 0xB97E679164497D15: Despite some nervous stumbles at the start, you pulled yourself together and made some salient points!
@@ -1913,7 +1913,7 @@ Unknown3: 0x00000000
    [774] 0x856FA49FA344453A: Visit the Science Lab.
    [775] 0xD21FB7CCC44BFFB6: It seems I was wrong from the start. True happiness has to be earned, not granted.
    [776] 0xB9804DC6CEE906E2: After much reflection, I don’t think we did the right thing in creating this Utopia. Sims’ flaws aren’t fixed, they’re just masked and nobody gets a chance to learn any hard lessons. We can undo the atmospheric seeding with this compound; do the right thing.\n\nEP11_Undo_UtopiaFuture
-   [777] 0x219BB474F7328F62: So you wanted to keep the Utopian Future a world a harmony and bliss? I can agree with you – it’s a wonderful place!
+   [777] 0x219BB474F7328F62: So you wanted to keep the Utopian Future a world a harmony and bliss? I can agree with you - it's a wonderful place!
    [778] 0x267DAB033187E23D: A Necessary Sacrifice
    [779] 0x227B6109E4AA03BD: Visit the Military Base.
    [77A] 0x29FD26E119D185A7: Play Evil

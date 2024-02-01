@@ -28,7 +28,7 @@ Unknown3: 0x00000000
    [017] 0xA985C04978EC2666: Bring a little of the classic outdoor hobby inside with these enchanting planter bowls from Tiny Garden. All the challenges and rewards of gardening are there in a perfectly manageable space. With Tiny Garden, you can have exactly as much garden as you can handle, and not a bulb more.
    [018] 0x1110E03A87328268: Our clay planter bowls put the beauty and durability of clay right in your hands. Fanciful designs around the bowl make these a pleasure to look at even before your tiny garden blooms! And the clay will never break. With Tiny Garden, you can have exactly as much garden as you can handle, and not a bulb more.
    [019] 0x27C538F454EF4171: Bring the joy of gardening into even the gloomiest abode with the Tiny Garden gothic planter bowl. Like our other bowls, the gothic model allows you to grow any plant you want for any purpose you might have in mind – completely free of judgment! With Tiny Garden, you can have exactly as much garden as you can handle, and not a bulb more.
-   [01A] 0xA251AA5380F7642F: There’s not a lot of “big business” in Moonlight Falls, but what there is, you’ll find here. And stop in next door for a great cup of coffee or a quick bite (to eat, that is).
+   [01A] 0xA251AA5380F7642F: There's not a lot of "big business" in Moonlight Falls, but what there is, you'll find here. And stop in next door for a great cup of coffee or a quick bite (to eat, that is).
    [01B] 0x187CD7396C0BC9E1: Destroyed Cabin
    [01C] 0x0A30A704396D1B78: castSpell_jig DO NOT TRANSLATE
    [01D] 0x1CC9A1E52FB01906: castSpellDuel_jig DO NOT TRANSLATE
@@ -70,7 +70,7 @@ Unknown3: 0x00000000
    [041] 0xC9519DFA56FB901C: Spawn gems for alchemy ingredients
    [042] 0xA416800384288BC4: Sometimes you find that a perfect gem, and other times you find a gem that could really use some sculpting. For those “other” times, might we suggest the fabulous one of a kind Gem-U-Cut Machine? With this contraption every gem you find can be beautiful! Attractive, easy to use, and much faster than the mailbox method, the Gem-U-Cut Machine will have you turning out your own high-quality gems in no time!
    [043] 0xBBA86FADFA3FFDE8: Destines are foretold, for better or worse, in this little wagon.
-   [044] 0xFD384749C7CFC391: Sometimes trees are a little too green and don’t give off that eerie vibe to make visitors feel unwelcome. This reproduction of the famous tree from Miranda Glauer’s residence in the early days of Moonlight Falls is just the tree you’ve been looking for! No one will dare mistake you for not being a witch ever again with a few of these in your yard.
+   [044] 0xFD384749C7CFC391: Sometimes trees are a little too green and don't give off that eerie vibe to make visitors feel unwelcome. This reproduction of the famous tree from Miranda Glauer's residence in the early days of Moonlight Falls is just the tree you've been looking for! No one will dare mistake you for not being a witch ever again with a few of these in your yard.
    [045] 0xAF842DC79FB78157: Old Log
    [046] 0x253B98DD83F87D68: Old Tree Stump
    [047] 0x56F200AF11197706: Honey
@@ -767,7 +767,7 @@ Wood is not an uncommon material for a dining table, but why do so few dining ta
    [2F9] 0xFE852FAF8EAF7FB4: Frank
    [2FA] 0x105F41601FD49D40: Fricorith
    [2FB] 0xFE6A49AF8E98E434: Frida
-   [2FC] 0x2B995181E2B48018: Frida has never been interested in love or commitment, so when her family suggested marriage to a Landgraab to tie the influential families together, she decided relocation was in order. While she hated the falling out with her brother, Gunther, coming to Moonlight Falls with her uncle Samuel and his new bride Olivia seemed like the perfect fresh start. Things seemed great until Uncle Samuel’s love for magic jelly beans caused his early demise. Olivia’s heartbreak led to distraction, which in turn led to an electronic accident and fire, resulting in not just one ghost in the house, but three. Frida has adapted well though, and being a ghost suits her just fine!
+   [2FC] 0x2B995181E2B48018: Frida has never been interested in love or commitment, so when her family suggested marriage to a Landgraab to tie the influential families together, she decided relocation was in order. While she hated the falling out with her brother, Gunther, coming to Moonlight Falls with her uncle Samuel and his new bride Olivia seemed like the perfect fresh start. Things seemed great until Uncle Samuel's love for magic jelly beans caused his early demise. Olivia's heartbreak led to distraction, which in turn led to an electronic accident and fire, resulting in not just one ghost in the house, but three. Frida has adapted well though, and being a ghost suits her just fine!
    [2FD] 0x88216E094F28E6E0: Gandillon
    [2FE] 0xF2C4DDB661C9840F: Gator
    [2FF] 0x177EA61469616173: As his name suggests, Gator Wolff has the tenacity of an alligator, the temper of a wolf, and the self-control of neither. Erica admits her youngest might be “a little rowdy” but aren’t all boys at that age? Probably, but then again most parents are used to the Terrible Twos ending after age two. Most of Moonlight Falls believes he was literally raised by wolves! With Gator’s unique personality, he’s bound to lead an exciting life and become famous for his stunts.
