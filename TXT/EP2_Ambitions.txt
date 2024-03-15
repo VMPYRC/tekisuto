@@ -35,7 +35,7 @@ Unknown3: 0x00000000
    [01E] 0xD61EA2136626704A: use base game text [Placeholder]
    [01F] 0xE99C33F4878BF7CA: A stacks of boxes are always useful in any situation.
    [020] 0x2690D1535E697221: This super strong bridge has been tested to support the weight of hundreds of cars without creating a crack.
-   [021] 0xC3219753D6CB3595: This bridge has seen its uses and has been left years without maintanence. It is no longer safe to cross it.
+   [021] 0xC3219753D6CB3595: This bridge has seen its uses and has been left years without maintenance. It is no longer safe to cross it.
    [022] 0x48FADF078CCD8E80: use base game text [Placeholder]
    [023] 0x5CAD00C4B6606535: After years of cavorting about in trucks with wimpy sirens, fire chiefs everywhere clamored for a more awesome engine of fire fighting supremacy. Coupled with a bigger engine, louder siren, and longer ladder The Woo Woo 4000 is sure to please!
    [024] 0x7232027E43909C69: This unsalvageable piece of metal is no longer able to be of any use of its previous owner. Now it sits and await its doom.
@@ -60,13 +60,13 @@ Unknown3: 0x00000000
    [037] 0x28BA748D1776A392: These pipes are used to delivery liquids into and out of factories.
    [038] 0x0BFEF1675C4FD5BA: fence federal post description needs text -(DNT) See Alan if you see this text
    [039] 0x8B7F1F25C48E8E93: Classically carved wood provides an elegant façade to this fireplace. The Shelby Mantle is just like a lady: elegant on the outside and fiery on the inside.
-   [03A] 0xD5686E5C2AC2C600: With a design featuring timeless columns and a smooth marble mantle, this fireplace is a shining example of classical craftmanship.
+   [03A] 0xD5686E5C2AC2C600: With a design featuring timeless columns and a smooth marble mantle, this fireplace is a shining example of classical craftsmanship.
    [03B] 0xD3B607E861A67BE9: In situations where you just don't have time to take the stairs, sliding down a pole may be the quickest option! Just don't try to save time by going back up the same way.
    [03C] 0x140F69DB16B41731: Place this invisible object to spawn spooky fog.
    [03D] 0xB68DC4DE0501222E: The rustic appearance is only one of the benefits of this fountain! The sound of trickling water has been sonically altered to not induce sudden bathroom breaks.
    [03E] 0x59D98A2F462287DE: Packed full of features like the Dynamic Spirit Processor, the Paranormal Frequency Modulator, and the patent pending Ghost or Spirit Detection System, Landgraab's second iteration on their popular Ghost Positioning System is no child's toy. Send some ghosts to the afterlife today!
    [03F] 0xF72CD7149D7F45FA: The Banshee Banisher packs a punch for any poltergeist in range! Using ultra high-tech, high precision, and high octane specter blasting technology, this item is a must have for any ghost hunting aficionado.
-   [040] 0xCC467E55695AF627: Played in ancient times by the hordes of barbarians who invaded Champs Les Sims, the game of Sim Gnubb still survives to this day. Any number can play, taking turns trying to knock over adorable pawns in an effort to crush the mighty King Gnome and win! Safe and fun for all ages. This hierloom-quality hand-made set will last for generations!
+   [040] 0xCC467E55695AF627: Played in ancient times by the hordes of barbarians who invaded Champs Les Sims, the game of Sim Gnubb still survives to this day. Any number can play, taking turns trying to knock over adorable pawns in an effort to crush the mighty King Gnome and win! Safe and fun for all ages. This heirloom-quality hand-made set will last for generations!
    [041] 0x30AE2DC7B78F96D1: use base game text [Placeholder]
    [042] 0xC44985414757B97B: The Harvester is a multi-purpose tool for gathering a variety of items quickly. Fun and flexible, use the Harvester to suck up stray puddles in seconds! Quickly gather copious amounts of rocks, gems, and insects! Dispatch of old newspapers and trash without getting your hands dirty! There is no end to the variety of harvestables the Harvester is capable of consuming!
    [043] 0xF742311153A7C7A8: use base game text [Placeholder]
@@ -99,14 +99,14 @@ Unknown3: 0x00000000
    [05E] 0xB16D65B88F57F200: The Miner is a powerful machine for drilling deep into the ground to find valuable resources.
    [05F] 0x17405A5EB76E4724: The Fancy Federal Mirror offers buyers a style somewhere between minimalist and fancy, making it a great gift for acquaintances, friends, and enemies.
    [060] 0x2868B2B0164D6681: When The Beast goes to a holiday party, it doesn't wear a name tag. At picnics, it doesn't compliment the chef. During birthday parties, The Beast always gets its cake first. You don't ride The Beast -- you beg it to share the road.
-   [061] 0x2002D485ADD42112: Where could this antique have come from? Perhaps a wily globe-trotting gnome was trapped within by an evil scorceress? Or maybe it's a cheap knock-off? Either way, it's a beautiful music box.
+   [061] 0x2002D485ADD42112: Where could this antique have come from? Perhaps a wily globe-trotting gnome was trapped within by an evil sorceress? Or maybe it's a cheap knock-off? Either way, it's a beautiful music box.
    [062] 0x619F35555C00DE9B: Where could this antique have come from? Perhaps from the depths of an ancient tom under the sands of Al Simhara? Or maybe it's a just cheap knock-off? Either way, it's a beautiful music box.
    [063] 0x56FCBC3D63A12A1E: Where could this antique have come from? Perhaps from the depths of an ancient Shang Simla tomb? Or maybe it's a cheap knock-off? Either way, it's a beautiful music box.
    [064] 0xC28B8F9F918AC151: This beautiful music box from exclusive designer OMG-IRL will delight anyone ... anyone who isn't a curmudgeon, anyway. It's sure to brighten any room and bring its delightful lilting tones to children young and old.
    [065] 0xCBEE3EF5087FF5F1: A drum full of oil.
    [066] 0x1EBE0FE3E09F70DA: This digital photo frame allows you to view all your pictures without ever having the need to develop them.
-   [067] 0xC476918C6FAFAF30: This white version of the Hydrangea is also commonly used to decroate gardens and other lush locations. It is able to blend easily with other flowers and bushes to deliver that natural look.
-   [068] 0xE6C9C1E1E29A7BB4: These cattails are oftenly found in the wetlands habitats, in particular the swamp.
+   [067] 0xC476918C6FAFAF30: This white version of the Hydrangea is also commonly used to decorate gardens and other lush locations. It is able to blend easily with other flowers and bushes to deliver that natural look.
+   [068] 0xE6C9C1E1E29A7BB4: These cattails are often found in the wetlands habitats, in particular the swamp.
    [069] 0x981B8ADA93A3AB4A: Travelers beware, for who knows what may lie in wait in the thickly tangled blades of grass. Treasure, fortune, or the physical embodiment of your greatest fears? As they say, it came from beneath the swamp... grass!
    [06A] 0x3588E7D870CDB44C: This large overgrown piles of brown grass is abundant in leaves that can make any child lost within them.
    [06B] 0xDAED274BE06928CE: This large overgrown piles of green grass is abundant in leaves that can make any child lost within them.
@@ -115,7 +115,7 @@ Unknown3: 0x00000000
    [06E] 0xFFFFBB5419016A84: The perfect space in which to capture and catalog your finest aesthetic achievements! Potential clients will be inspired by this visual collection of your work.
    [06F] 0xFDCFD92768BA3A6F: Stylist's Portfolio
    [070] 0x29682F58A4BE6C13: Place this register on a Consignment Store Community Lot to create a new consignment store.
-   [071] 0xB8F558DAB3DD0BE4: These ruins have been left alone and abandoned where its history and importance have also been left forgottened.
+   [071] 0xB8F558DAB3DD0BE4: These ruins have been left alone and abandoned where its history and importance have also been left forgotten.
    [072] 0xF4BB10228287FFB2: use base game text [Placeholder]
    [073] 0x8474176BCD9705AA: use base game text [Placeholder]
    [074] 0x8C7652AE9ACA2B0A: a pile of Scrap

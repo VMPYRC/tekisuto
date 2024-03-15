@@ -193,7 +193,7 @@ Unknown3: 0x00000000
    [0BC] 0x54303C279E7280B5: Sir Henry Waddlesworth Manfredgensensten, the greatest novelist of the 1840s, is a figure worth commemorating in this fabulous bust sculpture. Also serves as an ideal platform for ironic decorations.
    [0BD] 0x06460A0A0E292ADB: Art isn’t magic, it’s a skill built with practice. When you’re practicing, things go wrong. And when they go wrong, they go on the Failure Pile with the others.
    [0BE] 0x0E86B938B8495B0E: Relive your street art filled youth with stencils and paint. These won’t actually make you a better street artist, but will evoke memories of a hooligan past!
-   [0BF] 0xBF193E1C7D21EC4B: This infinitely poseable figure sits in your office or living room reminding all visitors of the best Sim virtues: silence and flexibility.
+   [0BF] 0xBF193E1C7D21EC4B: This infinitely posable figure sits in your office or living room reminding all visitors of the best Sim virtues: silence and flexibility.
    [0C0] 0x2AFB1D583F4ECADC: Let’s go back in time to the days when griffins roamed the skies and men were happy to be ruled by their betters. All lived in harmony, except the poor.
    [0C1] 0x61C59242CA3C2B70: You won’t quit painting until your work fills museum galleries. Secret Bohemia loves your drive. Just set your tools on a cloth, please. Think of the security deposit.
    [0C2] 0x3BDF93E0750228F4: For the techie who’s not content to plug and play. EZ-Open claps let you open the case and get your hands in some electronic guts. Upgrades, downgrades, sidegrades—your screwdriver’s ready.

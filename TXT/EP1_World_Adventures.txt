@@ -3497,8 +3497,8 @@ Unknown3: 0x00000000
    [0DA4] 0x5C4B39DA53FD512A: Report back to {2.String}
    [0DA5] 0x4D0E7EE50E8AC076: The Relic earned you extra credit from the science teacher and you were paid!
    [0DA6] 0xEF7B23D7BB04262D: The Relic earned you extra credit from the science teacher and you were paid!
-   [0DA7] 0xA416FBC29ADC0BA2: A small Collection of Relics are on display in the school foyer and the school is asking for student contributions. Specifically, a Common Relic from Egypt or China. If you can deliver one, you’ll earn some money and your School Performance will improve too.
-   [0DA8] 0x702E4A20047BFC11: A small Collection of Relics are on display in the school foyer and the school is asking for student contributions. Specifically, a Common Relic from Egypt or China. If you can deliver one, you’ll earn some money and your School Performance will improve too.
+   [0DA7] 0xA416FBC29ADC0BA2: A small Collection of Relics are on display in the school foyer and the school is asking for student contributions. Specifically, a Common Relic from Egypt or China. If you can deliver one, you’ll earn some money and your School Performance will improve too.\n\nEP1_SchoolGrade_Souvenir
+   [0DA8] 0x702E4A20047BFC11: A small Collection of Relics are on display in the school foyer and the school is asking for student contributions. Specifically, a Common Relic from Egypt or China. If you can deliver one, you’ll earn some money and your School Performance will improve too.\n\nEP1_SchoolGrade_Souvenir
    [0DA9] 0xD64ACB8EDF3713B7: Deliver a Common Relic from Egypt or China to the school to earn some money.
    [0DAA] 0x396E2095E2152766: Deliver a Common Relic from Egypt or China to the school to earn some money.
    [0DAB] 0xC439568ED4C515FD: Archeology Exhibit
