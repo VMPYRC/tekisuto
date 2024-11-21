@@ -1,0 +1,1159 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x481) ---
+   [000] 0x76CC71F59C19BE12: PLACEHOLDER GemCutInstanceEP7 DO NOT TRANSLATE
+   [001] 0xBB0D813011513BBB: The Sims™ 3 Supernatural
+   [002] 0xFF30FEA436B1C392: Gold from a Fairy
+   [003] 0xB29992345EFA00CA:  accessoryJarFairyDust description DO NOT TRANSLATE
+   [004] 0x959CA89AA5E9123C: 
+   [005] 0x33E0E3AEB6A6B11D: 
+   [006] 0x461AAC6D3F1CC9AD: Spawn insects for alchemy ingredients. 
+   [007] 0x835D74603F1BDA95: Finally, the powers of the universe can be yours for a price that won’t have you wishing you could turn lead into gold! Aleister’s Alchemy Station is user-friendly, safe-ish, and fully featured. Right out of the box you’ll be brewing elixirs that’ll make conventional science want to go take a little lie down somewhere. Let Al put the power in YOUR hands with Aleister’s Alchemy Station.
+   [008] 0xA437486FB2594C4C: It is a common misconception that portals are a recent achievement from the world of science. In fact, magical portals have been in use for thousands of years! And no name is more trusted in the field of instantaneous magical relocation than the LLAMA. Take your LLAMA to work, to the grocery store, or even to your best friend's house. You'll never be late when you're riding a LLAMA.
+   [009] 0xB0AEF695DF9816B0: Experience the magic of nature: horticulture, gardening competitions, plants and greenery. Fairies love this place…and they love to play with visitors.
+   [00A] 0xD2ABE5C76E7A8AED: Bitter sweet and best not to eat. DO NOT TRANSLATE
+   [00B] 0x6405E5D63D64785D: Is there any feeling as satisfying as seeing that metal claw rise up from the pile with a shiny new prize gripped firmly in its talons? Watching as it deposits your winnings into the incredible victory chute? We sure wouldn’t know, because it drops our stupid toy at the last second EVERY TIME. We’re sure you’ll have much better luck, though!
+   [00C] 0xA9CAFA620234C08F: You stand, mallet at the ready, muscles tightly coiled and ready to spring, waiting for the telltale snap that precedes the appearance of another disgusting monster. One after another they snap up, again and again, terrible little faces mocking you! There is only one recourse. Crush them! CRUSH THEM ALL!! Fun for all ages!!
+   [00D] 0x05A8FF84B04BF5AD: EP7 Area Ceiling Light DO NOT TRANSLATE
+   [00E] 0xD8448297DF815F66: It has all of the modern comforts you’d expect in a bed, but you’ll swear you’re lying on a soft bed of moss beneath the shade of an enchanted oak tree. It almost seems a shame to keep a bed like this indoors. Don’t forget to water your Twigs-n-Sticks bed at least once a week and have it treated for pests twice a year.
+   [00F] 0xB4B6B54BEC51CFB5: For supernaturals who are trying to get the most out of undeath, there are few things as comfortable and cozy as stone and fire. Lay your body to rest on a bed that really gives bedtime a sense of ceremony. Tired of standard, cushiony beds? Here’s your Altar-native!
+   [010] 0x9A0D18B0ED941DA6: Step up to Mrs. Stingley’s Beekeeping Box and get ready to dive into the exciting world of beekeeping! Sure you can get honey at the store, but fending off the swarm is the only way for true honey aficionados. Can you tame the delicate dance of the bees and convince the hive to part with its treasures? Give it a go! Not for sale to bears.
+   [011] 0x2E3FAF2B5AFF313B: beeswax description DO NOT TRANSLATE
+   [012] 0xC45867DBAE6CD32A: 
+   [013] 0xBB9027B0E983188D: Whether you’re looking to be entertained or edified, pampered or purified, the Mind-Body Connection will keep you healthy, wealthy and wise!
+   [014] 0xABC4D7799CF54E1E: Flat Bridge
+   [015] 0x57159484A0D5115C: Arched Metal Bridge
+   [016] 0xF734DA5343456EE3: Old Wooden Bridge
+   [017] 0xA985C04978EC2666: Bring a little of the classic outdoor hobby inside with these enchanting planter bowls from Tiny Garden. All the challenges and rewards of gardening are there in a perfectly manageable space. With Tiny Garden, you can have exactly as much garden as you can handle, and not a bulb more.
+   [018] 0x1110E03A87328268: Our clay planter bowls put the beauty and durability of clay right in your hands. Fanciful designs around the bowl make these a pleasure to look at even before your tiny garden blooms! And the clay will never break. With Tiny Garden, you can have exactly as much garden as you can handle, and not a bulb more.
+   [019] 0x27C538F454EF4171: Bring the joy of gardening into even the gloomiest abode with the Tiny Garden gothic planter bowl. Like our other bowls, the gothic model allows you to grow any plant you want for any purpose you might have in mind – completely free of judgment! With Tiny Garden, you can have exactly as much garden as you can handle, and not a bulb more.
+   [01A] 0xA251AA5380F7642F: There’s not a lot of “big business” in Moonlight Falls, but what there is, you’ll find here. And stop in next door for a great cup of coffee or a quick bite (to eat, that is).
+   [01B] 0x187CD7396C0BC9E1: Destroyed Cabin
+   [01C] 0x0A30A704396D1B78: castSpell_jig DO NOT TRANSLATE
+   [01D] 0x1CC9A1E52FB01906: castSpellDuel_jig DO NOT TRANSLATE
+   [01E] 0x89C7CC81DFE13908: Chairs simply are not made more naturally than this one. Each and every chair is assembled by hand by Fairy carpenters. They chop the wood, cut it into shape, and sand it smooth by hand. Every screw is chiseled out of raw iron ore with stone tools. And the special stain-resistant protective coating? You guessed it. Fairy dust.
+   [01F] 0x3CC3B1A0E8D1D6E8: Despite its name, this easy chair is actually very difficult to manufacture. Finding, shaping, and treating the wood for the frame is no real challenge, of course, but if the magical Upholstery Tree isn’t harvested at the exact peak of ripeness you wind up with rotten cushions.
+   [020] 0xC821C43374267289: This treasure was discovered in the now-abandoned Sunnytime Factory. Once all the rage, this quaint style of rocking chair is now making a comeback! Only a handful of these genuine antiques survived, so don’t miss your chance to own a beautiful piece of social/industrial history.
+   [021] 0xF45CA7B2900FE696: It’s nice that recliners can go back, but aren’t you tired of chairs that only go halfway? The Relax-O-Rocker with TruSway technology can go back AND forth! Now that’s a chair with a full range of motion! Nothing soothes the soul like a gentle sway in a Relax-O-Rocker. You’ll lose hours to the comfort and rhythm. It’s like sitting – only better!
+   [022] 0x3E7CBC2DBA366A7B: For people who like old-timey things that aren’t old-timey, here’s the Professor Rocking Chair, from Xavier’s Furniture Outlet. It offers the comfort of rocking slowly back-and-forth with significantly reduced “old-person-feel.” Rock in style with the sleek and handsome Professor Rocking Chair!
+   [023] 0xA622C6509D9C5E38: The seat of power in Moonlight Falls – home to City Hall, the Military and Law Enforcement.
+   [024] 0x3131808B9BF604C3: This charming… “cabinet” makes perfect living quarters for Bonehilda. It provides a cozy space for your trusty skeletal servant to recharge in between jobs. Who knows what a skeleton has that needs recharging, though… marrow? Pick one up today and watch your Bonehilda happily rest… in pieces!
+   [025] 0x8B3F0CB50299440B: Condemned Home
+   [026] 0x7222A7B4F49F6C3A: Abandoned Home
+   [027] 0xF66834F1F0F427C6: Specializing in second-run movies and classic cinema, this is a perfect place for local teenagers to take their dates (and, for the local criminals who own it, to launder their money).
+   [028] 0x2D3F18BAF6E323A3: These curtains are based on a style that first became popular over a hundred years ago. They are just like the curtains found in the house of notorious suspected burglar Hiram Samuel Maddox. Unlike Hiram, however, these will be safe in your home. Great conversation piece!
+   [029] 0x4A0EB25DC1A64267: Going to the grocery store on an empty stomach is never a good idea, so why not stop by the diner before you shop.
+   [02A] 0xA68536958BBBE830: Want to display all of your fine alchemy creations in a display cabinet as old and distinguished as the art of Alchemy itself? The legendary alchemist, Aleister Krummly, drew the original design for this cabinet, and this re-creation is perfect for displaying elixirs, containers or rare ingredients such as gems, insects and rocks. It even has extra storage below for any other odds and ends you want to keep handy.
+   [02B] 0x8017F6B07A66AC87: Aleister has done it again! This time he offers you this handsome and handy display cabinet for all of your important elixirs, gems, and rocks. It helps keep your alchemy organized, and it gives you a nice place to show off your hard work. Bonus storage below is perfect for whatever odds and ends you want to keep close by.
+   [02C] 0x56019CA9A066CED9: Is there anything more satisfying than watching little creatures scurry around and live out their day-to-day lives, completely unaware of the power you could wield over their lives if you wished it? Many people find this very entertaining. That’s why we invented this handy display case for all of your insect terrariums. Also features extra storage for all your little odds and ends!
+   [02D] 0xB299320883B78C28: MaxiGlass Doors are made with the most glass possible without threatening the structural integrity of the doors. You won’t believe the incredible view you’ll have through these doors! Always know what you’re walking into or out to – give your home a set of MaxiGlass French Doors! (Not made in France.)
+   [02E] 0x15A3A46C7128BDFF: It’s finally here! The all-time classic! You don’t dare call your home a manor until you’ve installed at least one sliding bookcase door. Books are considered gateways to knowledge, but now they can be the gateway to so much more. What secrets will YOU keep behind the bookcase? (Note: For best results use Sliding Bookcase Door in the library and not the kitchen or bathroom.)
+   [02F] 0xD0AAD0E8F388CA6D: Like all of our furniture, the Twigs-n-Sticks vanity is 100% natural. The wood only comes from magical trees, and the nails and screws are all made by hand in Fairy workshops. Even the reflective surface is completely natural! Instead of manufactured glass we use water from an enchanted pond, held in place perfectly still by a proprietary spell. Not to sound vain, but no other vanity can match its beauty!
+   [030] 0x463D153EB3AE72DD: With its gorgeous, antique facade the Ancestral Wardrobe looks like a piece of furniture that has served for generations. But don't worry, this wardrobe has years and years of reliable service left it in. No matter how many outfits you need to organize, the Ancestral Wardrobe will ensure that they are secure, straight, and neatly arranged.
+   [031] 0xF140720798E956F2: Classic construction and uncompromising quality are the hallmarks of the Aurora Wardrobe. This is no mere cabinet, but a perfect vessel for holding a seemingly endless variety of outfits. Whether you’re dressing up for a night on the town or dressing down for a night in with a good book, the Aurora Wardrobe is here to serve you.
+   [032] 0xD61F08CF15374D8F: 
+   [033] 0x016430DD0A4F4718: This modest bungalow will provide your fairy family with cozy accommodations when in their true fairy forms. Fully furnished and move-in ready, this home has been thoroughly checked by fairy home inspectors. After all, even tiny specks of light have needs! Get what you need with the Fairy Bungalow. 
+   [034] 0x64E122307CEC6C8F: Your family deserves the best, especially when in their true fairy forms. Give them a home that satisfies their every need while giving them plenty of room to stretch their wings. Not only is the Fairy Castle a little piece of paradise for you and your tiny, flying loved ones, but it also makes a lovely decoration for a human-sized house!
+   [035] 0x021F57A18C19603B: Celebrate the small towns of yesteryear with the classic Centennial Fence. Its proud design recalls images of brass bands, gazebos, and fireworks. Transport yourself back to a time when entire communities came together in day-long festivals. Music! Food! Green grass and sunshine! The Centennial Fence turns any yard into a celebration.
+   [036] 0xB303A4924F342416: Thanks to science, LustroPlant has perfected shrubbery. Our shrub’s thick, lustrous mane of leaves is going to drive you wild. Go ahead, close your eyes and run your hand over its surface. You’ll swear you’re stroking the fur of an exotic animal. Dedicated LustroPlant testers have rubbed our shrubbery for hours with absolutely no loss to its brilliant sheen. It’s perfect, and you deserve it!
+   [037] 0x29DD590410F6F095: Celebrate the small towns of yesteryear with the classic Centennial Fence. Its proud design recalls images of brass bands, gazebos, and fireworks. Transport yourself back to a time when entire communities came together in day-long festivals. Music! Food! Green grass and sunshine! The Centennial Fence turns any yard into a celebration.
+   [038] 0x775377DA9C338663: New advances in fire technology originally led to the Pyro-Pit. Those same advances have now been applied to its new and improved chimney! This new chimney takes the Micro-Inferno's smoke and funnels it through the chimney with hurricane force. No coughing, no soot, no problem!
+   [039] 0x3AF80AF502D01CCD: Romantic fireside rendezvous and bustlingly warm conversations now come standard with the Sweet Heat Home Warmer! Enjoy this sleek, new, polished facade that will cement the bond between you and your loved ones. Romanco - Warming homes and hearts for generations.
+   [03A] 0x683B9ACA919D5FD9: A Fairy Damsel fish.
+   [03B] 0xCA709B890A6A67D7: A mounted Fairy Damsel fish.
+   [03C] 0xEBABE04322C6CCCE: A Luminous Salamander.
+   [03D] 0xBA70676F4818797E: A mounted Luminous Salamander.
+   [03E] 0xD3D19798FE8B3240: Something not quite a fish and almost toad like.
+   [03F] 0x233126E96571B39C: A mounted Toad.
+   [040] 0xB661801CC7F06880: This is the fog locator for the Sliding Bookcase DO NOT TRANSLATE
+   [041] 0xC9519DFA56FB901C: Spawn gems for alchemy ingredients
+   [042] 0xA416800384288BC4: Sometimes you find that a perfect gem, and other times you find a gem that could really use some sculpting. For those “other” times, might we suggest the fabulous one of a kind Gem-U-Cut Machine? With this contraption every gem you find can be beautiful! Attractive, easy to use, and much faster than the mailbox method, the Gem-U-Cut Machine will have you turning out your own high-quality gems in no time!
+   [043] 0xBBA86FADFA3FFDE8: Destines are foretold, for better or worse, in this little wagon.
+   [044] 0xFD384749C7CFC391: Sometimes trees are a little too green and don’t give off that eerie vibe to make visitors feel unwelcome. This reproduction of the famous tree from Miranda Glauer’s residence in the early days of Moonlight Falls is just the tree you’ve been looking for! No one will dare mistake you for not being a witch ever again with a few of these in your yard.
+   [045] 0xAF842DC79FB78157: Old Log
+   [046] 0x253B98DD83F87D68: Old Tree Stump
+   [047] 0x56F200AF11197706: Honey
+   [048] 0x300AEE205A591A42: In addition to providing full medical services, the Bloom Institute is a scientific research facility conducting a variety of studies on some of Moonlight Falls’ most interesting elements.
+   [049] 0x7DF6BD23B8FECCE4: Grown in the electrically-charged Zimmelzap swamps, these floor lamps are a fun and natural way to light up any room in the house. Light electrical currents travel safely through the wood and react with the swamp gas trapped within the glow pods. The effect is breathtaking, and we guarantee that the odor of the swamp gas is completely contained.
+   [04A] 0xA11AEC2F1ABFCC19: Understand, this is not some gimmicky lamp that will try to predict your mood. No no no. This is a magical lamp that causes people’s moods to… shift in certain ways. A full spectrum of colors, a full spectrum of possibilities. Let the mood strike you with the Spectrum Mood Lamp.
+   [04B] 0xB9B020A281716443: Tired of cruising around town and obeying the traffic laws? The folks at Zoomsweeper feel your pain. Get ready for the no holds barred world of tricks and stunts that will drop the jaws of your friends and leave them coming back for more! Going the speed limit is never fun. Don’t you deserve a Zoomsweeper Broom Arena?
+   [04C] 0xBD8D6662277C3756: Whether you’re cruising around town or participating in death defying tricks, you just can’t beat a reliable flying broom. Best of all you won’t need air conditioning on those hot summer days! The Zoomsweeper Classic is our most popular model, but no matter which style you choose you can count on performance. Zoomsweeper: the first name in brooms for the last 14,000 years.
+   [04D] 0x5308ED2EFBD6D219: Go beyond twigs with the luxury line of Zoomsweeper Pegasus brooms. The proud Pegasus figurehead informs your friends that you’ll only accept the finest in your choice of vehicle. The wings are not only exquisite ornamentation, but also provide a stability you can’t get on any other broom. When you need to fly the best, mount a Zoomsweeper Pegasus.
+   [04E] 0x4462749267E9549D: Fly in style with the brand new Neo-Classic model of Zoomsweeper broom. When you want a little modern touch without sacrificing those classic broom elements, this is the broom you reach for. Like all of our brooms, the Neo-Classic runs on clean, efficient magic, but with its sturdy bolts and polished brass fixtures you’d swear it burns gasoline!
+   [04F] 0x59A11E0CEFD3F716: This handsome and reliable stand is here to hold your brooms and nothing else. If you are looking for the perfect place to rest the family brooms, your search is over! The Magic Broom Stand will do just that. Nothing more, and nothing less. We will not be held responsible for what happens if you try to hang anything else on this stand. It won’t work. It's only for magic brooms. 
+   [050] 0x040158ADD25AE25C: There is an art, or rather a knack, to flying, and for those who are just starting to learn we offer our dependable line of Zoomsweeper Junior training brooms. Watch young riders push their limits and build confidence with our specially engineered flight simulators. They’ll swear they’re soaring miles above the ground!
+   [051] 0x1B164DD756332AFB: Not everyone clings to the highly-romanticized nostalgia surrounding the broom. Sometimes you want something a little more modern, something sleeker and faster. That’s why we produce the Megathrust Flying Vacuum, for today’s modern witch on the go. Just hop on and blast off and you’ll feel the Megathrust difference. (You might want to empty the bag first.)
+   [052] 0xE25BDCDD7A43713C: There is something very, very wrong with this Gnome. The leading theory is that the Gnome of the Darned is compelled by restless spirits to create mischief and make horrible faces. If you believe that your Gnome may be haunted, it might be worthwhile to check if any ghosts are spending a suspicious amount of time near your Gnome.
+   [053] 0xC605AE9980476D4D: In a perfect world, all of life’s food necessities like cookies and bacon would grow on magical little plants. Unfortunately, the world isn’t perfect but at least jelly beans can grow on bushes! To be clear, it is not the jelly bean bush that is magic, but rather an ordinary bush which dispenses Magic Jelly Beans!
+   [054] 0x702039B2FA0B403A: Look no further for a wand that’s as easy to use as the Classic, yet still provides the handling and ease of use that suits a novice spellcaster. Though not as powerful as other wands, it’s on par with other first time wand upgrades for any witch that’s ready to show they mean business. If the magical abilities of this wand don’t make your opponent tremble, its dashing good looks will!\n\nSpell Accuracy: Low\nMagic Cost Efficiency: Low
+   [055] 0x1757BDCDA66B426E: Take the first step in upgrading that obsolete Classic wand by laying your hands on the Azure with its perfect weight and balance to ease you into the journey of wand upgrades. Sleek, sophisticated, and robust, this wand sends a message that you’re getting serious about spellcasting. This cool blue wand won’t actually make your spells colder, but you’ll certainly look cooler casting those spells!\n\nSpell Accuracy: Low\nMagic Cost Efficiency: Low
+   [056] 0x1F015B69141B2CBF: This is the one that started it all. Carved out of wood from an enchanted forest, this magic wand is light, yet durable – a fine tool for a novice spell-caster. Other wands may be fancier, more accurate, safer or more powerful, but the Classic gets the job done…and they don’t come any cheaper!\n\nSpell Accuracy: Lowest\nMagic Cost Efficiency: Lowest
+   [057] 0x9E08E37FBFE5D6A4: The first step in wand upgrades, this wand was built for the beginner in mind as they work their way up the magic wand ladder. Though its name might suggest otherwise, it actually does not provide any benefits to hot headed or redhead Sims. Instead, it’ll help you make a bold fashion statement to others that you truly are capable of color coordination.\n\nSpell Accuracy: Low\nMagic Cost Efficiency: Low
+   [058] 0x9889F6F6F33DC9F5: This wand is a favorite of experienced spell-casters because it requires the least amount of energy to use. With only average accuracy and safety, however, it may not be the best choice for less-skilled Sims. Heavier than wooden wands, and with more of the weight distributed toward the tip, many witches nonetheless prefer the performance of the crystal wand. It’s also tough to beat the style of this beautiful wand.\n\nSpell Accuracy: Medium\nMagic Cost Efficiency: Highest
+   [059] 0xED12ECFCCEB2B0B5: Wielding this wand can be exhausting, but with its incredibly high accuracy, there’s less chance of wasting energy attempting spells over and over. A powerful tool for a developing spell-caster. Braided wands may seem a bit old-fashioned by current standards, but they are still favored by some witches who respect the fusion of elegance and spellcasting accuracy that this wand provides.\n\nSpell Accuracy: Highest\nMagic Cost Efficiency: Medium
+   [05A] 0x3FBE00ED4A16C5CD: This, the most powerful wand ever created, provides a dazzling level of magical power. Highly accurate, safe and very efficient, it’s the perfect implement for a master of magic. It might not be coincidence that a great majority of magical crimes committed by spellcasters are executed with Iridescent wands and have led to discussions about banning them. But the Iridescent wands are used far too widely for any of these discussions to gain traction.\n\nSpell Accuracy: High\nMagic Cost Efficiency: High
+   [05B] 0x5037D98BA61B8EF4: This wand is designed with the safety-conscious Sim in mind. While not the most efficient or accurate, there’s little chance of suffering the agony, shame and potential death stemming from an Epic Fail. Technically the “ivory” in this wand is taken from the fore-tusks of a mythical creature called the Blandergriff, but the term is sufficient. And its magical properties are the secret to this safety conscious wand.\n\nSpell Accuracy: High\nMagic Cost Efficiency: Medium
+   [05C] 0x382AF24327206C8B: A more affordable version of the high-end Iridescent wand, this nifty model is a breeze to use, requiring little energy, yet offering above-average safety from Epic Fails and solid spell-casting accuracy. Spellcasters who feel a strong connection to the natural world are inexorably drawn to Verdant wands, pulled from the roots of the enchanted Ardahkt Tree. As pilgrimages to the Ardahkt Tree become more popular, some have begun to speak out against over-harvesting of this magical treasure.\n\nSpell Accuracy: Medium\nMagic Cost Efficiency: High
+   [05D] 0x5FB828B722E53182: Think you’ve seen a ghost? You certainly will at this mausoleum!
+   [05E] 0x94EDBA422B81407E: Ever wish you had a friend who was always there, happy to talk or just listen…AND you could hang them on a wall? With this incredible looking-glass you can share gossip, chit-chat, or just ask each other how your days were! And you while you may like to admire yourself in the mirror, but it’s even better when the mirror is admiring you! You may never need another friend with this mirror in your house!
+   [05F] 0x2E41AECB4B2487C7: For thousands of years, Sims have used sundials to tell time with astonishing accuracy. Get ready for the next big leap: the moondial! Now for the first time it’s possible get a glimpse into the cryptic cycle of the moon. This sharp looking moondial isn’t just for lunatics to count down to the next full moon. It’ll dress up any drab corner of the house in a snap.
+   [060] 0x6880C060B8A8CC66: Dead Mushrooms
+   [061] 0x3796C2F089E0B6BE: Glow Orb Mushroom DO NOT TRANSLATE
+   [062] 0x246D6C583A0D4577: Glow Orb Mushroom Grow DO NOT TRANSLATE
+   [063] 0x31036F67A8A7017D: Mycelium Mushroom DO NOT TRANSLATE
+   [064] 0x9A095D37ADB8EA09: Mycena Mushroom DO NOT TRANSLATE
+   [065] 0xE2BF944C1337C400: Mycena Mushroom Grow DO NOT TRANSLATE
+   [066] 0xF03251CBAC369381: Porcini Mushroom Grow DO NOT TRANSLATE
+   [067] 0x9745BB117DBC70A8: Spotlight Mushroom DO NOT TRANSLATE
+   [068] 0x621E4658A9274D91: Spotlight Mushroom Grow DO NOT TRANSLATE
+   [069] 0x969EFF20781D82D8: Toadstool Grow DO NOT TRANSLATE
+   [06A] 0x7CB9E2E3F184CFEB: Truffle Grow DO NOT TRANSLATE
+   [06B] 0x1DD3D9121E893F7C: White Cap Mushroom Grow DO NOT TRANSLATE
+   [06C] 0x1D6D72098F859B59: Rusted Truck
+   [06D] 0x8C176B8C7C9BB04F: The answers to all of life’s problems lie within you. You can discover them for yourself through quiet reflection and the application of logic. But who has time for all of that?! Just reach for the Orb of Answers, and leave the life-altering decisions to us. Friends will just try to spare you feelings – you can only trust Orb of Answers!
+   [06E] 0x168A319BBB919A7A: This stately portrait of Moonlight Falls’ crown jewel proudly shines with the eminence and dignity associated with this iconic building. Built by the supernaturals who were first settled the town, Commonwealth Court has long served and protected the citizens of Moonlight Falls. And for all of those years, the building has stood completely un-haunted, though at times this painting might suggest otherwise... 
+   [06F] 0x93C14F25708A28F3: This portrait recalls all the cozy feelings of that place we call home. Painted by renowned artist Franco Delatissi, art historians believe this painting to show Delatissi’s actual home. Art lovers appreciate Franco’s muted use of color to evoke a warm sense of memory, but rarely seem to discuss the fact that Franco had mysteriously disappeared in the house. Stranger still is the fact that the painting didn’t seem to surface until one year after Franco Delatissi’s disappearance…
+   [070] 0x382A62D9DAE12482: An unspoiled paradise beckons you closer and closer. You almost feel as though you could step into the painting, feel its soft grasses and smell its calming aromas. But there is something else… It feels like every part of this idyllic scene is drawing you into a dark center. It is inescapable! What secrets steal through the trees? 
+   [071] 0xAEB6632F21102176: The Everglow family – one of Moonlight Falls’ first Fairy clans – established this school with the mission to “make magic learning and learning magic”. Some say the school was built on haunted grounds, but nobody has been able to prove this. But some claim to have seen the truth… 
+   [072] 0xB8FAE62354E0A606: A note from this painter’s journal reveals that the image was inspired by an old myth about a cursed group ghost riders chasing a spectral herd of cattle across the sky for eternity. This was a punishment for being wicked in their lives. The man in the painting still has the opportunity to change his ways before joining their cursed drive. Will he find redemption? Or will he show his true side?
+   [073] 0x88B8266440A21EE6: This beautiful portrait depicts one of Moonlight Falls' earliest residents, the mysterious Fairy “Midnight” Madeline Everglow. She was known in town for her generous spirit and fondness for all Sims, supernatural and human alike. However, rumors lingered that when the sun went down she transformed into a different person entirely, and the nickname of Midnight Maddy followed her to her final day.
+   [074] 0x25F1C9F19AF7C3E9: Hiram S. Maddox was the living embodiment of the phrase “innocent until proven guilty.” Even though he was connected to more than a dozen crimes, there was never enough evidence to bring him to trial. He finally got the hint and disappeared from town, though this image of him stayed behind…and maybe something else…
+   [075] 0x35A148DA18D3D334: Miranda Glauer never fit in. The other Witches at school ridiculed her practice of “old” witchcraft and treated her as an outcast. On the eve of graduation, a group of popular Witches decided to play a magical prank on Miranda as a final send-off. Dismayed by their trick, Miranda became a recluse but promised her schoolmates that she would never stop watching for her chance at revenge.
+   [076] 0x759401C9F623D36E: One of the most talked about pieces in local art circles, “The Visitors” is a work shrouded in mystery. No one knows who created this piece, as art historians have never been able to find a signature. Its style matches no known artists and scholars can only guess at its age. Who are the mysterious couple we see? Is this their home? Are they the visitors? Are we? The answers to these burning questions may never see the light of day…
+   [077] 0xDFA40C05539A9217: This captivating work has caused endless debate in art circles for decades. Most of the controversy surrounds the title of the work: “Finding Peace.” Some suggest that Peace is the name of the young woman in the portrait. Others believe that she came to this place in the woods to begin a quest for personal peace, where still others argue that the painting clearly shows the moment that the woman achieves peace. Who was this young dreamer, and what will bring her peace?
+   [078] 0xEC9C4F137F73AF27: One of the more colorful characters from Moonlight Fall’s history was the old Witch known as “Binary Betty.” She had no family in town and no real friends, undoubtedly due to her radical mood swings and unpredictable behavior. Although the artist appears to have captured Betty in one of her nicer moods, some who have seen the this painting see her bad side…
+   [079] 0x0F936F4903109B46: Okay, this is an actual Philosopher’s Stone. We are not messing around here anymore, kiddies. This is not for the casual alchemy hobbyist – this is the big leagues. Sitting down in front of the Philosopher’s Stone will grant you power beyond your wildest imagination. With great power comes great responsibilities. And even bigger consequences. 
+   [07A] 0x9AD6320765331B25: Spice up your life with a Ghost Chili plant.
+   [07B] 0x0C64014F579F3CB5: Looking for a manageable plant with no maintenance required? Here’s your huckleberry! Plant a couple dozen of these in your yard, and in no time at all you’ll be enjoying the sweet, sweet smell of huckleberry. One whiff brings back memories of some place you’ve been where they had huckleberries. 
+   [07C] 0xA067F8C5F6E12DE4: playFetchWerewolf_jig DO NOT TRANSLATE
+   [07D] 0x63D9AD3973008ADD: playTagWerewolfFairy_jig DO NOT TRANSLATE
+   [07E] 0x3F8A9DDB0A5E64E6: practiceSpell_jig description DO NOT TRANSLATE
+   [07F] 0x66E4739C3ABEA74C: The perfect accoutrement for that little elixir shop, this register makes it easy to ring up your elixirs and collectables. Now featuring all of the numbers from 0 – 9 (welcome to the family, “7”) and authentic ka-ching sound effects.
+   [080] 0x91B02F72FADB70A3: Your little cowboy or cowgirl will be ready to ride into adventure with the Giddy-Up Rocker! They’ll feel like they’re dashing across the open plains, the frontier wind blowing in their hair – and the best part is, they don’t really go anywhere! The Giddy-Up Rocker: keep your kid in one place for a while.
+   [081] 0xAE03D5CFF5EC211B: Abandoned Saw Mill
+   [082] 0x83AB30679B06AEAB: Here, local children learn the “three R’s”: reading, ‘riting and ‘rithmetic, but also “three S’s”: spellcraft, shape-shifting and supernatural studies. The adjoining Coliseum hosts all sorts of community events.
+   [083] 0xB8CF37CA362E7DB7: At one time these were the most mystical elixirs known to Sims. But now, they’re just empty bottles. Not just any empty bottle – but an intricate bottle at that! Although the powers contained within these bottles are long gone, there’s nothing stopping you from impressing your friends with a  good story about the powers that lurk within.
+   [084] 0x0A17FE672730C913: Looking to show the world your love of elixirs? Too timid or not enough ingredients to mix up your own? If you answered “yes” to either question (or even if you didn’t), then the Expired Elixirs collection is here to help! Using only top shelf flasks that once contained a magical elixir, this collection will spice up your home or shop the way only an elixir can. And since they’re empty, it makes for a great conversation piece!
+   [085] 0x0CED4B660860AB23: Give that barren shop the spice it needs with this snazzy collection of empty flasks. Each was handpicked to provide the variety that any demanding Sim requires. Not enough variety for you? No problem! The other Expired Elixirs round out the collection to provide just the right amount of variety, but without too much clutter. 
+   [086] 0x7435AB786A933505: New from the Harried Alchemist catalog, it’s Pile o’ Books! This large pile of books and scrolls tells anyone who wanders into your lab that there is crazy amounts of research being done there. There must be! Why else would you have piles of books and scrolls lying around? 
+   [087] 0xBD52596A1C772275: If you fill your laboratory with the exact same pile of books over and over, people are going to catch on that you’re only doing it for appearances. Break things up with the Harried Alchemist’s famous Pile o’ Books: Medium Pile. These books and scrolls offer a refreshingly different arrangement from our Large and Small Pile editions.
+   [088] 0xA24959A7E330CABD: This Pile o’ Books is popular with Alchemists who wish to appear busy, without looking ostentatiously so. It also provides much needed visual variation to laboratories filled with our Large and Medium Pile o’ Books. Unlike real books, ours contain absolutely no information regarding Alchemy.
+   [089] 0x47978D6A2D1C76F4: The crowning achievement in recycling used wands, this handsome sculpture looks great on any table, anytime, anywhere! Rest assured that artist Artro Ravenfoot chose only the finest wands used by the most powerful of witches for this decadent collection. And since these wands have been decommissioned, they’re as safe as a twig and suitable to look at for all ages!
+   [08A] 0x43CEC28A763E7A9A: The well-known artist Artro Ravenfoot’s claim to fame is available once again due to high demand. Enjoy the elegance of these not so magical wands that sparked a revolution in displaying wands as art. Unlike higher end collections, these wands were never used by witches. They’re just plastic reproductions of real wands!
+   [08B] 0xAC548F5E5D052F1C: Artro Ravenfoot did it again! He’s found a new way to show off those used up wands in a powerful display piece that’s interesting from all three angles! Just being in the presence of this piece will make anyone feel more magical, even if they really aren’t. And best of all, you’ll feel great knowing that these elaborate wands ended up in a sculpture – and not the garbage can!
+   [08C] 0x473E50853BB6351B: Cashing in on the success of Artro Ravenfoot's Ode de Wand collection, up and coming artist Ortra Swanfoot has found a new way to display spent up wands: on the wall! This evolution in wand displays keeps them off the table and away from little hands. Not that these wands actually do anything – but who wants fingerprints all over their precious collection?
+   [08D] 0x58533FF79DC39426: Sometimes, while gathering enchanted wood for our Twigs-n-Sticks furniture, we discover a piece so beautiful that we just can’t bear to cut it down any further. We release these pieces as natural sculptures. Each one is its own unique study in growth. Sometimes, you just have to let the wood be.
+   [08E] 0xE99C6E3FEF88406C: Here’s a cute little extraterrestrial who won’t try to strip the planet of its natural resources. It’s Zeedo, the friendly little alien in a jar. He never has to be fed or cleaned! He’s perfectly content just to float in his jar and watch the world go by, silently reporting everything he observes to his masters telepathically. Try not to drop him!
+   [08F] 0x8482545CC1D5B12D: Look at these curious little fellows! Who knows what they are, or how they came to be in this little bottle? Well, it doesn’t look like they’re going anywhere, so you have plenty of time to contemplate their strange origin.
+   [090] 0xB8A0473B3569E795: The nanopede is a very rare arthropod that has up to a billion legs per specimen. Of course they tend to be over 120 feet long. The specimen in this bottle is the even more uncommon miniature nanopede, which is a few inches long and has about 40 legs. Still pretty impressive, though.
+   [091] 0x393DBA1CEC491115: DESCRIPTION sculptureRewardTrophyGardening DO NOT TRANSLATE
+   [092] 0x87A1B09E1A24197F: Shockingly enough, not everybody is a master alchemist. Some Sims actually need to go out there and purchase their elixirs from some kind of potion shop. This sign tells people in no uncertain terms where they can buy their elixirs.
+   [093] 0x8F0936BE63204A55: Inspired by the signs of days gone by, this hansome sign is sure to attract Sims to your business! The intricately cut corners set this sign apart from lesser signs and it’s guaranteed never to sway thanks to the patented NoSway technology that comes standard on every sign. Who’d have thought an old sign could learn new tricks?
+   [094] 0xA6462A4E60067C15: Vampire Bar Sign
+   [095] 0x91760406BF54E09F: The Enigmatic Tapestry was an ancient piece of wall art blessed with unknown power by a unique group of both fairies and witches. Even though the original was lost ages ago, recently reproductions have sprung up around the globe, each claiming to be the true Enigmatic Tapestry. Even if the real tapestry is never found, any house with this beautiful wall art is sure to be blessed with great style!
+   [096] 0xAE8EF1D48D3CFB59: Utility Shed
+   [097] 0xB64A08D4915A0354: Tool Shed
+   [098] 0x3781DA9562C06F1E: Let the Sims of the world know that you’ve got the iron they want to pump with this gymnasium signpost. It’s tall enough to ensure maximum visibility, and its bright, clear lettering makes it easy to read. We’ll go ahead and guarantee it: no one’s gonna think this is the bistro.
+   [099] 0xD89F16D73D3EEC47: Nothing says family fun like a day at the pool! And this sign will let that family know exactly where the swimming is. It also displays a helpful warning in fine print that reminds families only to swim in approved chlorinated water, and not in lava or piles of gold.
+   [09A] 0xD70F8F2BABE3BAA5: Books! People love to read them, but where can you find them? Place one of these charming library signposts and let people know: here’s the books. People may also assume there are restrooms and last-generation computers here. Every library signpost is like a signpost to adventure!!
+   [09B] 0xE8353CCB207FCEF9: Get back to nature by ditching symmetry, smooth lines, and fake materials. Built using well-kept secrets from real fairy artisans, this sofa is comfortable as well as interesting to view.  Nature lovers and trendy Sims alike are sure to love this attention-grabbing sofa.
+   [09C] 0x9D5732B76028796D: Auto Soil: Ghost Chili Plant
+   [09D] 0x96FBC7404023213C: Auto Soil: Glow Orb
+   [09E] 0xAEE42B438115630E: Auto Soil: Plant Mandrake
+   [09F] 0x23F12E0A5B05E27B: Auto Soil: Mycenas Mushroom
+   [0A0] 0x27E228C5D91B06FE: Auto Soil: Porcinis Mushroom
+   [0A1] 0x567FBF4A11880322: Auto Soil: Red Toadstool
+   [0A2] 0x1A526426F2826892: Auto Soil: Red Valerian
+   [0A3] 0x716D7835866EB768: Auto Soil: Spotlight Mushroom
+   [0A4] 0xEBEAC88D10AF8B00: Auto Soil: Truffles
+   [0A5] 0x9A819F27DD281A73: Auto Soil: White Caps Mushroom
+   [0A6] 0xD19AF4A006FB9CB8: Auto Soil: Wolfsbane
+   [0A7] 0x9E0174E093289677: 
+Wood is not an uncommon material for a dining table, but why do so few dining tables actually look like wood? Many are painted, stained, or varnished beyond recognition! If you want to see the beautiful, natural wood in your table, then pull your seat up to the dining table from Twigs-n-Sticks. It’s like eating on a big slice of tree!
+   [0A8] 0xA526859885F2F86B: This beautiful table looks as if it was carved from a single piece of wood, but in fact that’s just how it grew on the tree! A team of Fairy carpenters constantly scour the enchanted woods looking for branches that grow into this exact shape. They’re exceedingly rare! Pick yours up today!
+   [0A9] 0x6EA9907D4BC80D19: End tables make a great addition to any house. Put it in the corner. Or behind the couch. Wherever you choose, any place is a good one for an end table. The Endless End Table is the apex of end tables with a design that’s easy to mix and match with anything. And best of all you can put lots of stuff on it! This is one end table that’s as useful as it looks.
+   [0AA] 0x9361C0C2DBBD74F8: End tables have a problem. Too often they are squat little affairs that barely look worthy to set a lamp upon. Why can’t end tables be tall and slender like nature’s perfect animal, the giraffe? Thanks to the artisans at Elegance, you can have that giraffe. By which we mean end table. It’s delicate and beautiful, all the things their name would imply. The Elegance End Table: it’s seriously like having the Queen Of All Giraffes in your living room.
+   [0AB] 0x2F6CDE4367D06A7C: It’s the Scary Bearys Fairy Bear! Designed with care by Mary Barry. Feeling wary? Don’t tarry! You can’t afford to stay sedentary. Carry one home, and bring one to share! They’re not very scary but they’re fairly rare. The Fairy Bear: by Scary Bearys.
+   [0AC] 0x1AD2EF3DA54D1803: Your wish is about to come true! This loyal friend will stick by your side through thick and thin, and he’s such a great listener! Wishing for a buddy who will keep all your secrets and always greet you with a smile? Stop rubbing lamps and start rubbing this bear’s fuzzy tummy. You can’t wish for infinite wishes, but you CAN wish for infinite hugs!
+   [0AD] 0xAD99294722408838: Tired of losing debates about whose imaginary friend is the coolest? The next time you hear some kid going on and on about how his imaginary friend can scare away the biggest monsters and transform into a jet and do his math homework for him, just pull this little guy out from behind your back and say, “Yeah… but mine’s real.”
+   [0AE] 0xC7F9730CFF0C21EA: Beware disturbing the crypt of the ancient pharaoh Ursiris, or you might just be cursed with a new best friend for life! Completely dependable, this little teddy always keeps your secrets under wraps and he’ll never get caught up in any pyramid schemes. Don’t wait until the next dynasty, wrap this adorable mummy up – in your arms!!
+   [0AF] 0x6A6747330C328D55: Robo-Bearbot is capable of performing 68 million calculations per second, but only you can teach him how to love. Each Robo-Bearbot is programmed according to the 3 laws of bearotics. 1. Now’s a good time for a hug. 2. Honey is delicious. 3. Your orders must be obeyed (unless they conflict with the first two laws).
+   [0B0] 0x60AF8277996C4BB9: Here’s a fuzzy little friend that will go straight to your heart like a wooden stake. He might not be able to turn into a mist or a pack of ferocious badgers at will, but he can turn a frown into a smile. And he’s such a snappy dresser! Invite this Vampire buddy into your home and let him suck the sadness right out of you!
+   [0B1] 0x33552060788FD6F6: This Scary Beary has no human form, so technically he’s not so much a werewolf as he is a Bearwolf. Which is completely awesome. You’ll want to hug this little guy close under the moonlight over and over again. There’s no truer friend when things get a little hairy.
+   [0B2] 0x9FB483D71EF65E60: Here’s a magical little friend who will cast a spell on your heart the moment you pick him up. It should be noted that this bear is not capable of performing actual charms or curses, and that your heart is perfectly safe while playing with him – it was just a metaphor. Anyway, look at his little hat!!
+   [0B3] 0x86CE07D08B071C1E: Rusted Tractor
+   [0B4] 0xB37DE4E0BE1E0760: You won’t believe the attention to detail put into the latest and greatest locomotive microcosm from Very Small Trains. Modeled after the beautiful Sunset Valley, each set comes pre-assembled so you are ready for hours of fun out of the box. If you tried to operate a real train people would probably get hurt, so why not buy a Very Small Train?
+   [0B5] 0x459FBF5F32D90E58: Some people claim that these trees are fully grown within days from a single leaf of the Ardahkt Tree, but those people are lying. There is only one Ardahkt Tree and it can only grow in the one location magical enough to support its power: the Valley of Nevermore. However, these faux Ardahkt Trees do resemble one of the smaller branches of the real thing.
+   [0B6] 0x87D466ECD1E68AE4: Remember the classic children’s rhyme: “I’ll trick you and you’ll trick me and we’ll both trick each other by the cottonwood tree?” Plant one of these beauties in your backyard and you can teach that rhyme to a new generation of tree lovers, and then trick them.
+   [0B7] 0x11FB1A08778E4FB2: The scotch pine is a magnificent tree. Its handsome silhouette sets it apart from your basic elms and maples, and it looks wonderful all year round. When the air is cool a soft breeze can carry the smell of pine right to you. While the scotch pine has no specific magical properties, planting one feels like bringing a little piece of the enchanted forest to your home.
+   [0B8] 0xDA02641FEA72CA2C: This proud spruce tree lends its signature beauty to any yard. Foregoing the usual lollipop shape, the spruce instead resembles a man with a pointed hat in long, flowing robes. This guardian of the garden is ready to stand tall beside your home and scare off any skittish, extremely near-sighted intruders.
+   [0B9] 0x2E01AF4DB116572F: Rock Troll
+   [0BA] 0x10F796DF127233E4: As self-appointed town guardians of lore and knowledge, the Van Gould family constructed the Vault of Antiquity as an indestructible and sun-proof repository for ancient relics and texts.
+   [0BB] 0x3E5A0A10954B4ACD: As self-appointed town guardians of lore and knowledge, the Van Gould family constructed the Vault of Antiquity as an indestructible and sun-proof repository for ancient relics and texts.
+   [0BC] 0x95F83A9D191CAB00: Tower of Water
+   [0BD] 0x5D3D42F8A39C4401: This gorgeous window gives any house a classic Victorian look. You’ll love the way it floods your house with sunlight, unless you’re a vampire. If you are a vampire, consider that a window of this level of magnificence is quite a status symbol. You’ll have to balance that against the strength of your personal aversion to the daystar, obviously.
+   [0BE] 0x107926DEC8E8A7ED: For slightly obsessive Sims, we introduce a window that really has its priorities straight. It may not have a lot of fancy dressing around the frame, but rest assured that each and every one of our windows is neatly divided up into the exact right number of frames. You could spend hours staring at each perfectly identical rectangle, and if you want you can even look through the window to the world outside!
+   [0BF] 0xCF2269B6444F2754: Certain Sims who were even more fixated on rectangles than we imagined have expressed their concern that our single Priorities Window was severely lacking in its number of perfect rectangles. We heard you, and we have responded. The double-wide has exactly twice the number of rectangle panes, but no additional foofaraw around the frame. Is that enough rectangles for you? Please say that’s enough rectangles.
+   [0C0] 0x66555D05650A23CC: Fans of perfectly-formed rectangles were delighted when we introduced a double-wide window boasting twice the expected number of rectangular panes; however, many critics were upset that the rectangles were separated by a thin strip of wood. We’ve heard your feedback, and at great personal expense, we now offer the Priorities Mega-Window: all the rectangles you want, in one gloriously uninterrupted frame. We good now?!
+   [0C1] 0x0D12B13334AEBCF4: The Priorities Mega-Window quickly became one of our best-sellers. Just as quick were the complaints that our window was “a little too rectangle-y…” In a desperate, last-ditch effort to appease our customers, we now provide the Mega-Window Topper. It lines up nicely with the existing rectangles in your Mega-Window, but will add no additional rectangles – guaranteed! If this doesn’t do it for you, we seriously give up!
+   [0C2] 0xB213D63A83FE1DDB: Fairy Gold
+   [0C3] 0x2A1927E8252FE294: accessoryFairyTrueForm DO NOT TRANSLATE
+   [0C4] 0x6BE938DAD5E22DF5: Jar of Fairy Dust
+   [0C5] 0xD546B94282FD25D4: Not Used In Game
+   [0C6] 0xE91D7F7AA10B63B9: Air Conditioning Unit
+   [0C7] 0xBA6974281669B618: Air Conditioning Unit Large
+   [0C8] 0x3321993C1F8FA868: Insect Spawner - Alchemy
+   [0C9] 0xFCA89A859B7B296C: Aleister’s Alchemy Station
+   [0CA] 0x7178A26CD7470675: Lightning Leap Atomic Molecular Arranger
+   [0CB] 0xA0DE4E03BEDBA6CB: Fae Ray Arboretum
+   [0CC] 0xD76BBDA05DF576BA: Poisoned Apple
+   [0CD] 0x247EF2405D29A7DA: The Claaaaw
+   [0CE] 0x7F75AFB974B32B32: Smack-A-Gnome!
+   [0CF] 0x9D917F56CFFB329A: Area Light Ceiling EP7 Point 1 DO NOT TRANSLATE
+   [0D0] 0xC4242FC8C89C41DA: Area Light Ceiling EP7 Spot 1 DO NOT TRANSLATE
+   [0D1] 0x15E49F0B3DFE53D1: Twigs-n-Sticks Canopy Bed
+   [0D2] 0x9301AAB4FA5D6F58: Altar Bed
+   [0D3] 0xF4EBC4CF49248269: Mrs. Stingley’s Beekeeping Box
+   [0D4] 0x0C59EB563ED9E404: Beeswax
+   [0D5] 0x298627F5DB9CD879: Warehouse Sign
+   [0D6] 0xEEF3106F8DD3EAF0: Mind-Body Connection Bookstore & Spa
+   [0D7] 0x3D8F24EEF2827A69: Flat Bridge
+   [0D8] 0x3B9B5DF609AA4EE5: Arched Metal Bridge
+   [0D9] 0xEE3105563887EDA4: Old Wooden Bridge
+   [0DA] 0x9083B73A2C3652DB: Brittany’s Tiny Garden Planter Bowl
+   [0DB] 0xE7C8E6F7AEAFADA7: Clay Tiny Garden Planter Bowl
+   [0DC] 0x903B944F50D66756: Gothic Tiny Garden Planter Bowl
+   [0DD] 0x25AFA5CB3A3A014C: Van Gould Merchant House & Cafe
+   [0DE] 0x12F43D3725B47EE4: Destroyed Cabin
+   [0DF] 0xB2CA314EC1E33617: castSpell_jig DO NOT TRANSLATE
+   [0E0] 0x6616AB7E1702B701: castSpellDuel_jig DO NOT TRANSLATE
+   [0E1] 0xD32758BB118D1977: Twigs-n-Sticks Dining Chair
+   [0E2] 0xB0A1923778902FE7: Twigs-n-Sticks Easy Chair
+   [0E3] 0xCE1BA43C4DE9D772: Sunnytime Antique Rocking Chair
+   [0E4] 0xBB9FBBECD0F6CD95: Relax-O-Rocker
+   [0E5] 0x2C3E12BB8CD9D87A: The Professor Rocking Chair
+   [0E6] 0x38F81DF5A52E2A46: Chimney Brown Brick 2x1 Body DO NOT TRANSLATE
+   [0E7] 0x816E90D0E550F342: Chimney Brown Brick 2x1 Cap DO NOT TRANSLATE
+   [0E8] 0x3379F41040585CCD: Chimney Brown Brick 2x1 Full Level DO NOT TRANSLATE
+   [0E9] 0xDB46FC1E847C9BC3: Chimney Brown Brick 2x1 Ground Level DO NOT TRANSLATE
+   [0EA] 0xCA6A2340A1E10F0F: Chimney Brown Brick 2x1 Mantle DO NOT TRANSLATE
+   [0EB] 0x812EB2D0E51B4973: Chimney Brown Brick 2x1 Top DO NOT TRANSLATE
+   [0EC] 0x77840D8CA3DC732B: Chimney Grey Brick 2x1 Body DO NOT TRANSLATE
+   [0ED] 0x937B357BE8D1FF15: Chimney Grey Brick 2X1 Cap DO NOT TRANSLATE
+   [0EE] 0x9EBD09200076C82A: Chimney Grey Brick 2X1 Full Level DO NOT TRANSLATE
+   [0EF] 0x0DDB262F276B92A0: Chimney Grey Brick 2X1 Ground Level DO NOT TRANSLATE
+   [0F0] 0x6132B0E6B05EC2FE: Chimney Grey Brick 2X1 Mantle DO NOT TRANSLATE
+   [0F1] 0x93BC377BE90999B0: Chimney Grey Brick 2X1 Top DO NOT TRANSLATE
+   [0F2] 0x9C00B755EF660432: Chimney Concrete 2X1 Body DO NOT TRANSLATE
+   [0F3] 0x653F9F14CB97A596: Chimney Concrete 2X1 Cap DO NOT TRANSLATE
+   [0F4] 0x1E7936D9E20ECAA9: Chimney Concrete 2x1 Full Level DO NOT TRANSLATE
+   [0F5] 0xB45518E50142BFB7: Chimney Concrete 2X1 Ground Level DO NOT TRANSLATE
+   [0F6] 0x2A0B09D16F38B3B3: Chimney Concrete 2X1 Mantle DO NOT TRANSLATE
+   [0F7] 0x651AC914CB78D177: Chimney Concrete 2X1 Top DO NOT TRANSLATE
+   [0F8] 0x67A9DF9824619293: Commonwealth Court
+   [0F9] 0x33751A4FD6861268: Bonehilda Living Quarters
+   [0FA] 0x011D4D0E3BCEC6B4: Condemned Home
+   [0FB] 0xF5FB360E34CCE2B9: Abandoned Home
+   [0FC] 0xE36912264FA323DF: Deja View Theater
+   [0FD] 0x6FAF330A858D23F6: Antique Curtains
+   [0FE] 0x2948BB9CB14F3E74: Sam’s Market Diner
+   [0FF] 0x127280BFEEAA84DD: Aleister’s Antique Alchemy Cabinet
+   [100] 0xBD75DD88D3E568F2: Aleister’s Alchemy Cabinet
+   [101] 0x79046312D786E222: Bug Lovers Display Case
+   [102] 0xBA18E6E01B5EA67D: MaxiGlass French Doors
+   [103] 0x6F98E0517F2FB410: Sliding Bookcase Door
+   [104] 0x0449CBF215E305B2: Twigs-n-Sticks Vanity
+   [105] 0x64DC669F56CE2BFC: Ancestral Wardrobe
+   [106] 0x1F8B1DF4F404CFFB: Aurora Wardrobe
+   [107] 0x49F284966CD57AB6: Electrical Box
+   [108] 0xDDDE8274B7E176CF: Fairy Bungalow
+   [109] 0x7ACD9521459F7684: Fairy Castle
+   [10A] 0x01B6CCCFEE391B64: Centennial Fence
+   [10B] 0xB123B6E8BB885629: Thick Shrubbery by LustroPlant
+   [10C] 0xBBA2A184B5BBE9DC: Centennial Fence
+   [10D] 0xA91078843C5A69D0: Pyro-Pit with Beige Brick Chimney
+   [10E] 0x58270BFEC516F8D0: Sweet Heat Home Warmer from Romanco with Cement Chimney
+   [10F] 0xBE541F54CA8EAFDE: Fairy Damsel
+   [110] 0xE352557714BD542E: Mounted Fairy Damsel
+   [111] 0x16DD438889CDACF7: Luminous Salamander
+   [112] 0xA1A6377509984659: Mounted Luminous Salamander
+   [113] 0x9ADDB1B8B262BB5D: Toad
+   [114] 0x51390859DB79886B: Mounted Toad
+   [115] 0xFD0BCB7A4DDD8175: Fog locator for Sliding Bookcase DO NOT TRANSLATE
+   [116] 0x3249D52C548C1D62: FX_EP7_fogGroundSwamp
+   [117] 0xEE29DF7C826A46B7: Gem Spawner - Alchemy
+   [118] 0x3D41469BEF1BC5E3: Gem-U-Cut Machine
+   [119] 0xCF9EAA693C954AE3: Gypsy Wagon
+   [11A] 0x0F51E67BF920624E: Glauer Tree
+   [11B] 0x1DC87F9216DAABF2: Old Log
+   [11C] 0x81229C536E843EF7: Old Tree Stump
+   [11D] 0x1756A24C4E1DFFBD: Honey
+   [11E] 0x60B5B91DA8A7BA95: Bloom Institute of Wellness
+   [11F] 0x77F780CD8EAFE48B: Twigs-n-Sticks Floor Lamp
+   [120] 0x6095672E5B19BF70: Spectrum Mood Lamp
+   [121] 0x69E37670E642A2B0: Zoomsweeper Broom Arena
+   [122] 0x091C0171A7AF0BE9: Zoomsweeper Classic
+   [123] 0x0D1C7BB7F8EA1502: Zoomsweeper Pegasus
+   [124] 0x1747C06FF710CCB8: Zoomsweeper Neo-Classic
+   [125] 0xA30CD50660A3C209: Magic Broom Stand
+   [126] 0xA01040E0CD8BBCC5: Zoomsweeper Junior
+   [127] 0xD12442B4EF6CAD2E: Megathrust Flying Vacuum
+   [128] 0x86FA1BC170CAFD63: Gnome of the Darned
+   [129] 0xBFF93951CECE46B0: magicHandsLHR DO NOT TRANSLATE
+   [12A] 0x5D627A1918014B24: Magic Jelly Bean Bush
+   [12B] 0x5ABCE3E562B1BD91: Magic Mirror
+   [12C] 0x4A84448CC50C1B01: Magic Wand: Argent
+   [12D] 0x24B9C47D3D45C73B: Magic Wand: Azure
+   [12E] 0xB66584676227084E: Magic Wand: Classic
+   [12F] 0x9534AB27F2465459: Magic Wand: Crimson
+   [130] 0xF14597ABD6FA40A8: Magic Wand: Crystal
+   [131] 0x12FE0F95898BC924: Magic Wand: Elegant
+   [132] 0x8E4DC7FDC0D0F736: Magic Wand: Iridescent
+   [133] 0xA70868BF16BDE471: Magic Wand: Ivory
+   [134] 0x38784048746C7BB6: Magic Wand: Verdant
+   [135] 0x44D873E0675EED47: Hallowed Mausoleum
+   [136] 0x68CA9FC65F8AC697: Magic Mirror
+   [137] 0xB320AA130BD393EA: Moondial
+   [138] 0x660916C09E3423AF: Dead Mushrooms
+   [139] 0x9CC0053BF2616359: Glow Orb Mushrooms
+   [13A] 0x7062BB45E6EF5990: Grow Glow Orb Mushroom DO NOT TRANSLATE
+   [13B] 0xB22814894FA0ED58: Mycelium Mushrooms
+   [13C] 0x95D462D358EB9964: Mycena Mushrooms
+   [13D] 0xFD99266EE0179035: Grow Mycena Mushroom DO NOT TRANSLATE
+   [13E] 0xA89D9ABAA2F4FD81: Porcini Mushrooms
+   [13F] 0xF5E18C6201D18BEA: Grow Porcini Mushroom DO NOT TRANSLATE
+   [140] 0x28355326FA2C64DF: Spotlight Mushrooms
+   [141] 0x8B4212D63262AAC6: Grow Spotlight Mushroom DO NOT TRANSLATE
+   [142] 0x2051B4288100C0F7: Grow Toadstools DO NOT TRANSLATE
+   [143] 0x2D75B10BF8BC796C: Grow Truffles DO NOT TRANSLATE
+   [144] 0x44A853E70CC8423D: Grow White Cap Mushroom DO NOT TRANSLATE
+   [145] 0xD627C1C216760E96: Rusted Truck
+   [146] 0x146B416C718D95EA: Orb of Answers
+   [147] 0xC8A743FEA0575FF9: Commonwealth Court
+   [148] 0xE131B18F1383FCAC: Comforts of Home
+   [149] 0xBA8DF7D0E160601F: Dark Arcadia
+   [14A] 0xD29841EF3890E839: Everglow Academy
+   [14B] 0x0516302473E6FD3F: Cowboy Angel
+   [14C] 0xB601C2B3AC2A6625: Midnight Maddy Portrait
+   [14D] 0x553304629537CAF6: Photograph of Hiram Samuel Maddox
+   [14E] 0xFF212F366D78FF27: Portrait of Miranda Glauer
+   [14F] 0x7EFF6FB63ECD7B2B: The Visitors
+   [150] 0xD88983939F71ECA0: Finding Peace
+   [151] 0xE54B7D056ED1BE64: Binary Betty Portrait
+   [152] 0xBE13055BC8408247: The Philosopher’s Stone
+   [153] 0xFEC1BD82D58172A2: Ghost Chil Plant
+   [154] 0x5086797FFCAF7300: Huckleberry Bush
+   [155] 0x68DFFEB31308FB0C: Plasma Orange Juice
+   [156] 0x42415A2B7A150B33: playFetchWerewolf_jig DO NOT TRANSLATE
+   [157] 0xFF1762720CB6AAFC: playTagWerewolfFairy_jig DO NOT TRANSLATE
+   [158] 0xACF962037DF04089: practiceSpell_jig DO NOT TRANSLATE
+   [159] 0x6AE46530BDA8D799: Elixir Store Consignment Register
+   [15A] 0x3C453DEDEC518548: Giddy-Up Rocker
+   [15B] 0xCAEAE9C2852CDB3A: Abandoned Saw Mill
+   [15C] 0x6219BA72DBECE502: Everglow Academy & Coliseum
+   [15D] 0xC0EF00B2892A6826: Expired Elixirs: Mystic’s Collection
+   [15E] 0x6798F5F9C3BABF68: Expired Elixirs: Paranormal Collection
+   [15F] 0x8B6DF4EEEB10B7E2: Expired Elixirs: Arcane Collection
+   [160] 0xDEFE4C43E5F4A8E6: Pile o’ Books: Large Pile
+   [161] 0x40822650A521A328: Pile o’ Books: Medium Pile
+   [162] 0x52F840852FD9A2A2: Pile o’ Books: Small Pile
+   [163] 0xDB8A020EB14197B7: Ode de Wand: Imperial
+   [164] 0x2097B0C448A5F713: Ode de Wand: Classic
+   [165] 0x2FA815AA8373C523: Ode de Wand: Trifecta
+   [166] 0x381FE744787BCF50: Walled Wand Collection
+   [167] 0x33E6BB45732B34F5: Twigs-n-Sticks Sculpture
+   [168] 0x19D9C3857B1E0597: Bottled Oddity Alien
+   [169] 0xB248796DDEADDF2A: Bottled Oddity Bunnies
+   [16A] 0x0B461C2C6E51CB66: Bottled Oddity Nanopede
+   [16B] 0xB734968B564D7F88: Gardening Competition Trophy
+   [16C] 0xBA001323DBFC21B8: Elixir Shop Sign
+   [16D] 0xC08EB89208F7EA22: Ye Olde Sign
+   [16E] 0x688091C9B2E4BA06: Vampire Bar Sign
+   [16F] 0x44758D2A40E5223C: Enigmatic Tapestry
+   [170] 0x4B2AEC32A6AA6404: Utility Shed
+   [171] 0x40E2D532A06223C9: Tool Shed
+   [172] 0x3182DC10E326EAF9: Gymnasium Signpost
+   [173] 0x97D33CB228A2528A: Pool Sign
+   [174] 0xDBC93357D4470BDC: Library Signpost
+   [175] 0x7E0A65CD5CE5CA90: Twigs-n-Sticks Sofa
+   [176] 0x9CF0D88D2F3B8972: Auto Soil: Ghost Chili Plant
+   [177] 0xBF93CC31F09435BB: Auto Soil: Glow Orb Mushroom
+   [178] 0x3A61E03375C7989D: Auto Soil: Mandrake
+   [179] 0xF36DF145134857EE: Auto Soil: Mycenas
+   [17A] 0x7900E222797D08AD: Auto Soil: Porcini Mushroom
+   [17B] 0x3576C69DA24AE493: Auto Soil: Red Toadstool
+   [17C] 0x507E30B3815789AB: Auto Soil: Red Valerian
+   [17D] 0x173AA5D8D9F2213F: Auto Soil: Spotlight Mushrooms
+   [17E] 0x94917149486ED253: Auto Soil: Truffles
+   [17F] 0x66F7740B8B9809F2: Auto Soil: White Caps Mushroom
+   [180] 0xB04ADCF1074F4BAD: Auto Soil: Wolfsbane
+   [181] 0x5630127990A9866A: Twigs-n-Sticks Dining Table
+   [182] 0x146EE02C6DFEF312: Twigs-n-Sticks End Table
+   [183] 0x3A9A916E06E6CD1E: Endless End Table
+   [184] 0xB4A59E103D172AB3: Elegance End Table
+   [185] 0x84F52CAC32DA85EF: Scary Bearys: Fairy
+   [186] 0x460307B6DFE2B73C: Scary Bearys: Genie
+   [187] 0x845C1E36CED8152B: Scary Bearys: Imaginary Friend
+   [188] 0x50CE5BE75C8C1C4D: Scary Bearys: Mummy
+   [189] 0x11BD80B1B6FC9654: Scary Bearys: Robo-Bearbot
+   [18A] 0x518558F067349B9A: Scary Bearys: Vampire
+   [18B] 0xB09BB47535D03D0F: Scary Bearys: Werewolf
+   [18C] 0x4D865BB323892F5D: Scary Bearys: Witch
+   [18D] 0x5F47C3B78E128233: Rusted Tractor
+   [18E] 0x71BC3793B5F920AF: Very Small Train Set
+   [18F] 0xD4D535C5F9E365AB: Faux Ardahkt Tree
+   [190] 0x70D6B6EFA7A759B1: Cottonwood Tree
+   [191] 0x81372FD526D597AB: Scotch Pine Tree
+   [192] 0xA79E9AD5D5AB317D: Spruce Tree
+   [193] 0xF640677A9735E82A: Rock Troll
+   [194] 0xA3B84C731CE922C1: Vault of Antiquity
+   [195] 0xEFE0AB73E7E82B0A: Vault of Antiquity
+   [196] 0xA8341A73E768CF13: Tower of Water
+   [197] 0x1DCCE3D769D21A8E: wereWolf Puppy Prop DO NOT TRANSLATE
+   [198] 0x012749D7BEA16F06: Victorian Bay Window
+   [199] 0x3FCBE71FB45DB110: Priorities Window
+   [19A] 0x5FF82271752DD9CB: Priorities Double-Wide Window
+   [19B] 0xBD51F8BC9DC939A9: Priorities Mega-Window
+   [19C] 0x6FC08F72CDD2381F: Priorities Mega-Window Topper
+   [19D] 0xBADD89696D8845CE: Sims who demand the finest that grass has to offer turn to Great Grass. Guaranteed to make you the envy of all your neighbors!
+   [19E] 0xEC9BD09DB09FA85A: This slab of concrete not only looks stylish, but it makes a great path for Sims to walk on!
+   [19F] 0x24E4DE48CB35E6A1: Nothing special about this type of rock… It’s just a regular old hard rock.
+   [1A0] 0x9D6CC19B60947CDE: Lots of itty bitty pebbles come together to make this comfortable sand.
+   [1A1] 0xE739993A90B73365: Not all Sims dig the lighter green look of grass. For those particular souls, we present the dark edition to add some spice to your lawn.
+   [1A2] 0x5E8F994E234E7435: Great Grass
+   [1A3] 0x79C41F449CDFBCE3: Concrete Footpath
+   [1A4] 0x34AB83FCE8621CD2: Rock
+   [1A5] 0x3856366462DD8C5D: Shifty Sand
+   [1A6] 0x039327BD692E84C4: Great Grass Dark Edition
+   [1A7] 0x95D5FE8EF23033FF: 310 Knott Street
+   [1A8] 0x07DE4342CF5CB94E: 2301 Waning Way
+   [1A9] 0x372C212191437622: 1135 Merchant Way
+   [1AA] 0xFCA0B3C12710BEC8: 309 Knott Street
+   [1AB] 0xA5BE854072C71D02: 90 Horseshoe Bend
+   [1AC] 0xE0BD425589D4B582: 104 Horseshoe Bend
+   [1AD] 0x65DE3AB1C9E46F34: 20 N Falls Ave
+   [1AE] 0x67C59692B2B51A11: That Old Trail
+   [1AF] 0xFE88E2AFF793F7EA: 2345 Waning Way
+   [1B0] 0xE7DFAFA39CB69D93: 164 Wood Street
+   [1B1] 0x27CD902E6B9EC71C: 16 La Shove Road
+   [1B2] 0x0497D93851DE9083: 110 Wood Street
+   [1B3] 0xD6D921683BB82070: 1110 Merchant Way
+   [1B4] 0x45E5F1017B34E3E7: 348 Knott Street
+   [1B5] 0x7344626A67DB238B: 338 Knott Street
+   [1B6] 0x52466432C09F7C48: 111 Wood Street
+   [1B7] 0x89E406D6CE0C4FBE: 49 S Falls Ave
+   [1B8] 0xAF4497C8B8E826E4: 344 Knott Street
+   [1B9] 0x0C191CADC6FEE00C: 2336 Waning Way
+   [1BA] 0x2A8B1A2CE27EF2D5: 81 N Falls Ave
+   [1BB] 0x8E9A86EBEFDBC0D1: 424 Huckleberry Lane
+   [1BC] 0xF09B93BE2B5E7234: 108 Wood Street
+   [1BD] 0x430849D296155E13: 1105 Merchant Way
+   [1BE] 0xD9218C48BD52982D: 94 Horseshoe Bend
+   [1BF] 0xA23C336143C56F0E: 336 Knott Street
+   [1C0] 0xD0DAF8E5A4446488: 123 Horseshoe Bend
+   [1C1] 0x5A4169752FD2E2FC: 1109 Merchant Way
+   [1C2] 0x51D87E90FC5548D4: 2303 Waning Way
+   [1C3] 0x8E6AC71F4619CBDF: 89 Horseshoe Bend
+   [1C4] 0x27FC3A91469DC94E: End of Big Pine Trail
+   [1C5] 0x0D4B7430F8C38E91: 262 Valley View Drive
+   [1C6] 0x0D4B7430F8C38E92: 414 Huckleberry Lane
+   [1C7] 0x0D4B7430F8C38E93: 114 Wood Street
+   [1C8] 0x5B33CBF99477CCF0: 112 Wood Street
+   [1C9] 0x60EE849FE70C0D4C: 1120 Merchant Way
+   [1CA] 0x60EE849FE70C0D4F: 434 Huckleberry Lane
+   [1CB] 0x60EE849FE70C0D4E: 230 Valley View Drive
+   [1CC] 0x60EE849FE70C0D49: 2316 Waning Way
+   [1CD] 0x60EE849FE70C0D48: 29 Lupine Lane
+   [1CE] 0x60EE849FE70C0D4B: 2 Lupine Lane
+   [1CF] 0x60EE849FE70C0D4A: 142 Wood Street
+   [1D0] 0x60EE849FE70C0D45: 323 Knott Street
+   [1D1] 0x60EE849FE70C0D44: 120 Wood Street
+   [1D2] 0x60EE839FE70C0BFA: 1126 Merchant Way
+   [1D3] 0x60EE839FE70C0BFB: 320 Knott Street
+   [1D4] 0x60EE839FE70C0BF8: 155 Horseshoe Bend
+   [1D5] 0x60EE839FE70C0BF9: 1129 Merchant Way
+   [1D6] 0x60EE839FE70C0BFE: 249 Valley View Drive
+   [1D7] 0x60EE839FE70C0BFF: 404 Huckleberry Lane
+   [1D8] 0x60EE839FE70C0BFC: 160 Wood Street
+   [1D9] 0x60EE839FE70C0BFD: 277 Valley View Drive
+   [1DA] 0x60EE839FE70C0BF2: 347 Knott Street
+   [1DB] 0x60EE839FE70C0BF3: 431 Huckleberry Lane
+   [1DC] 0x60EE829FE70C0A27: 212 Valley View Drive
+   [1DD] 0x60EE829FE70C0A26: 13 Lupine Lane
+   [1DE] 0x63CF4B6B1DE5A964: End of Moonlight Trail
+   [1DF] 0x856903E8AE27A924: 37 S Falls Way
+   [1E0] 0x856903E8AE27A927: 31 Lupine Lane
+   [1E1] 0x856903E8AE27A926: 20 Lupine Lane
+   [1E2] 0x856903E8AE27A921: 327 Knott Street
+   [1E3] 0x856903E8AE27A920: 204 Lakeside Drive
+   [1E4] 0x622950490C8760FD: 29 S Falls Ave
+   [1E5] 0x622950490C8760FC: 205 Valley View Drive
+   [1E6] 0x539468204A09CC04: 149 Horseshoe Bend
+   [1E7] 0x539468204A09CC05: 428 Huckleberry Lane
+   [1E8] 0x539468204A09CC06: 99 Horseshoe Bend
+   [1E9] 0x539468204A09CC07: 126 Wood Street
+   [1EA] 0x539468204A09CC00: 130 Wood Street
+   [1EB] 0x539468204A09CC01: 127 Wood Street
+   [1EC] 0x539468204A09CC02: 96 Horseshoe Bend
+   [1ED] 0x622950490C8760FF: 206 Valley View Drive
+   [1EE] 0x622950490C8760FE: 261 Valley View Drive
+   [1EF] 0x622950490C8760F9: 270 Valley View Drive
+   [1F0] 0x622950490C8760F8: 41 N Falls Ave
+   [1F1] 0x622950490C8760FB: 71 N Falls Ave
+   [1F2] 0x622950490C8760FA: 163 Horseshoe Bend
+   [1F3] 0x622950490C8760F5: 305 Knott Street
+   [1F4] 0x622950490C8760F4: 302 Knott Street
+   [1F5] 0x2162E1F13E87927F: 278 Valley View Drive
+   [1F6] 0x2420F64B9BEC9964: 2327 Waning Way
+   [1F7] 0x1F38A094DFB6EFB8: 1138 Merchant Way
+   [1F8] 0xE1A6069F6CA909E8: Cast away your worries and enjoy a leisurely picnic at this remote pond.
+   [1F9] 0x64592982953560C8: Experience the magic of nature: horticulture, gardening competitions, plants and greenery. Fairies love this place…and they love to play with visitors.
+   [1FA] 0xC34F4B06B6685A4D: A perfect spot to catch those glorious glimpses of sunlight that appear for several minutes at a time every few weeks.
+   [1FB] 0x67FB79C149BE7096: Rumor has it that long ago this park was the epicenter of ghostly supernatural activity. But now it’s just a regular park with an occasional haunting.
+   [1FC] 0x7B308EAC4A2C96E3: There’s not a lot of “big business” in Moonlight Falls, but what there is, you’ll find here. And stop in next door for a great cup of coffee or a quick bite (to eat, that is).
+   [1FD] 0x6C8B9B2404618550: Whether you’re looking to be entertained or edified, pampered or purified, the Mind-Body Connection will keep you healthy, wealthy and wise!
+   [1FE] 0xF40111E816D4E34C: Take your magic broom for wild ride! If you fall, you’ll be magically cushioned; if you don’t, anyone watching is sure to be swept off their feet!
+   [1FF] 0x1CFED72637F3AEA3: The seat of power in Moonlight Falls – home to City Hall, the Military and Law Enforcement.
+   [200] 0x313A1DB361C846BB: Think you’ve seen a ghost? You certainly will at this cemetery!
+   [201] 0xD5EBA5E10F97BB4B: Going to the grocery store on an empty stomach is never a good idea, so why not stop by the diner before you shop.
+   [202] 0x798548262C46FFA5: Why drink an elixir to lose the fat when you can feel the burn and lose weight like a real Sim?
+   [203] 0x87EF872FD17BA9F6: For reasons unknown, gypsy wagons are mysteriously drawn to this park. Might as well get your fortune read while you’re here!
+   [204] 0x1C2F432479C09270: In addition to providing full medical services, the Bloom Institute is a scientific research facility conducting a variety of studies on some of Moonlight Falls’ most interesting elements.
+   [205] 0xF4F62EB9507E737D: As self-appointed town guardians of lore and knowledge, the Van Gould family constructed the Vault of Antiquity as an indestructible and sun-proof repository for ancient relics and texts.
+   [206] 0x9711C5B226483A48: Take a tour through the town’s history, complete with local artwork, antiques, and displays of locally-discovered gems and other oddities. 
+   [207] 0x4254F8DCF2DECED6: Enjoy swimming, diving and chicken-fighting year-round in this traditional natatorium…unless, of course, you’re hydrophobic.
+   [208] 0xF6D06BBA904A2B9D: It’s said that Aleister Krummly created the very first Moonlight Falls elixirs on this very spot. The building may be new, but the elixirs sold inside are as traditional and potent as magic itself.
+   [209] 0x2AC78EDC36C997B1: Here, local children learn the “three R’s”: reading, ‘riting and ‘rithmetic, but also “three S’s”: spellcraft, shape-shifting and supernatural studies. The adjoining Coliseum hosts all sorts of community events.
+   [20A] 0x884340A942350D23: Specializing in second-run movies and classic cinema, this is a perfect place for local teenagers to take their dates (and, for the local criminals who own it, to launder their money).
+   [20B] 0x3A3F1CEBAB497CF5: Whether you’re a werewolf or just want to party like one, Varg’s is the hangout for you. Open to everyone, but don’t be surprised if fur starts flying.
+   [20C] 0x3C16F585A633517D: According to legend, the Stone Troll watches over this spot and can curse the wasteful fisherman or bless the conscientious angler.
+   [20D] 0xF19B98615AA88ADE: Welcoming Sims of all persuasions for over a century! A perfect spot to enjoy spirits or just sit a spell.
+   [20E] 0xE99895D41210AF1A: This is the home for a Sim who won’t settle for any old mansion. Unlike the ones built a hundred years ago, this mansion is built with the modern Sim in mind. It features modern touches like flexible floor plans, lots of bathrooms, and even a gym! And large garage windows mean no more having to step inside the garage to gaze at your car collection.
+   [20F] 0xE99895D41210AF19: Are you finally ready for your dream house? This attractive home combines the open space of a contemporary home with a classic look. The wide open floor plan means you and your family can create your own style. To complete the picture the carriage house is placed perfectly just steps from the porch for ease of use. Two-stories of security and comfort await you.
+   [210] 0xE99895D41210AF18: Designed by the well-known architect Victoria, this home has been put to the test and passed with flying colors. Its timeless design will never go out of style and sturdy construction will also pass the test of time. Warm up in the inviting sunroom with its smartly curved windows and see for yourself why Sims clamor for a genuine Victorian home!
+   [211] 0xE99895D41210AF1F: This quant house is great for a small family who loves to spend time in the yard with its expansive lot. The serene deck is perfect for hanging out and here’s plenty of room for gardeners or for do it yourselfers who wish to expand their house. This house has it all and then some – check it out today!
+   [212] 0xE99895D41210AF1E: Not even the most hardcore of home aficionados will find any faults with this Greek Revival styled home. Its two floors plus a bonus room in the third floor is more than enough room for larger families to spread out. And if more space is needed, this house can easily accommodate another bedroom with its exceptionally designed floor plan.
+   [213] 0x657C6ADFFD25364F: Enjoy some family time by taking the kids out and letting them run amok. 
+   [214] 0xCEFA670C76D61D3D: This massive multi-level manor house is meant for a King and his entire court! The custom-designed roofline with its many peaks and gables add to the impressive facade. Your little Prince or Princess has their own turret tower from which to rule over their kingdom. Give your royal family the palace they deserve! 
+   [215] 0xCEFA670C76D61D3E: Not for the faint of heart, any self-respecting witch will be proud to make this house their accessory. The witch hat styled turret really ties this house together to make no mistake that a witch dwells within. But those less witchy types will still appreciate the intricate craftsmanship throughout with no expenses spared in material choice. Even the garage is luxurious!
+   [216] 0xCEFA670C76D61D3F: A house this massive has everything your Sim wants and then some! Start your stroll from the indoor pool and pass by a library with a secret on the way to a kitchen larger than some apartments. Upstairs things get even better where each luxurious bedroom has their own equally luxurious bathroom. Once a Sim steps foot in this luxurious home, they may never want to leave!
+   [217] 0xCEFA670C76D61D38: This fantastic find has potential written all over it! Though a little dated inside, it won’t take much to spruce up this old house. The basement makes for a great place to escape, or get out of the dark and into the light with a dedicated sunroom with adjoining patio. Large families will love the spaciousness this fine home provides but won’t feel too overwhelmed with its size. 
+   [218] 0xCEFA670C76D61D39: This is a home that all Manufactured Homes aspire to be. Enjoy the opulence of this double wide style with a giant window to view out into the world. Niceties abound in this home with a separate dining room, two large bedrooms, and even a snazzy bay window! What more could you possibly fit into this home?
+   [219] 0xCEFA670C76D61D3A: A house for the rest of us, this humble place satisfies the basic needs of a Sim for a roof over their head and a comfortable place to sleep. Great care was taken to ensure minimal walking distance from bed to breakfast for those who wake up with a rumble in their tummy. This centrally located kitchen also means your Sim can grab a snack while watching TV and make it back before the commercials end!
+   [21A] 0xCEFA670C76D61D3B: This contemporary Greek Revival style home boasts three floors plus a basement tucked away for everything your Sim could possibly want in a house. The glow of the fireplace makes the expansive living room extra inviting, so much that guests may never want to leave! But for one lucky family, they’ll be able to enjoy that living room anytime they please!
+   [21B] 0xCEFA670C76D61D34: The mark of an exquisite house is lots of high pitched roofs with a rotunda or two thrown in, and this house is no exception. Step out back and enjoy the serenity of your own pool. Better yet enjoy some barbecues and invite the neighbors! But the real charm can be found inside where your Sims can live in the lap of luxury with an old time feel.
+   [21C] 0xCEFA670C76D61D35: Sims who adore dormers on their home won’t want to miss this one! Three of them speckle the upper floor to give it a nice flair compared to dormer-less homes. Sims with a lesser affection for dormers will be won over by its open floor plan and cute deck in the back. There’s something for everyone here!
+   [21D] 0xCEFA680C76D61E8F: This well-built home is large enough to comfortably fit a family of Sims but without the ostentatiousness of a large mansion.  Your family will love hanging out in the cozy living room and one lucky Sim will have their own balcony attached to their bedroom. You’ll find just the right place for all your belongings in this easy-to-accessorize house!
+   [21E] 0xCEFA680C76D61E8E: Enjoy the size of a mansion without the creepy look in this Victorian style home. Balconies aplenty in this home for views that must be seen to be believed! And with four floors plus basement, one could scream and never be heard. Take a tour of this home and just try and convince yourself it’s not for you. 
+   [21F] 0xCEFA680C76D61E8D: Welcome to this inviting two-story country colonial large enough for nearly any family. The oversize covered front porch will accommodate more than a few friends with room enough for the dog and kids too. And what could say country more than an all-brick fireplace to complete the picture of Home Sweet Home?
+   [220] 0xCEFA680C76D61E8C: If entertaining guests is a priority, then this house is ready for your Sim! The downstairs is free of unsightly walls that break up the room, for a truly open feeling from the kitchen to the living room – perfect for packing in the guests. Though the upstairs contains some walls, trust us that they’re totally necessary!
+   [221] 0xCEFA680C76D61E8B: Step into this Neo-Classical home and experience luxuries your Sim didn’t realize existed. Ever wanted a sun room or a fashionable three story turret? Now you do! And the well-stocked library will unleash the inner bookworm in every Sim. Don’t take our word for it. Once you experience the unique architecture and lavish appointments of this home, anything else just won’t cut it.
+   [222] 0xCEFA680C76D61E8A: Tree houses aren’t just for kids or fairies anymore! With modern amenities such as doors and insulation, any Sim would be proud to call this quirky place home. Enjoy second floor decks for a view of the cars passing by or step out back and gaze over the peaceful pond. Whatever your age or supernatural status, there’s no outgrowing this charming house!
+   [223] 0xCEFA680C76D61E89: This quaint home boasts a wide open kitchen complete with large windows for all the natural light you’ll ever want. Enjoy the privacy and cleanliness (or lack thereof) of your own bathroom with not one, but two master bathroom suites! An oversized detached garage gives your car plenty of room to park – or a space to put all your non-automobile-related goods.
+   [224] 0xCEFA680C76D61E88: Sweeping curves, intricate finishes, and lots of history - there’s none of that in this stunning home! Instead, Sims will find pleasantly flat walls, tons of glass, and more concrete than they’ll know what do with. A great blend of minimalism wrapped in a modern package make this house a rare find.
+   [225] 0xCEFA680C76D61E87: Not too small and not too big, this Greek Revival style house is just right, whether you’re starting a family or just a single Sim who wants it all. The stylish bay window adorning the front adds a welcome touch of class that is sure to be the envy of your neighbors. Better yet, the flexible floor plan offers your Sim endless possibilities to add that personal touch!
+   [226] 0xCEFA680C76D61E86: Show your friends who’s reached success by moving into this classical home. Let there be light with gracefully-paned windows that circle the house, especially with the dominating rotundas that draw oohs and ahhs from guests. There’s just so much to this house that we couldn’t possibly fit it all into this small space. You really have to see it for yourself!
+   [227] 0xCEFA690C76D62042: This elegant home has all the class and style of the large mansion on the hill, but without the colossal size and price tag to go with it. Each of its three stories feature top notch craftsmanship that you won’t find in newer homes. And with a spacious floor plan, you may need a run to the furniture store after moving in!
+   [228] 0xCEFA690C76D62043: Why have extra rooms that take up space and cost an arm and a leg? Sims who buy this manufactured beauty know the answer to that question! Get everything you need and nothing more for an efficient abode that’ll bode well with your Sim. Kitchen, bedroom, bathroom, and living room - it’s all there!
+   [229] 0x0DF9C922FB8C9B2F: This spot provides some of the most spectacular views to be found anywhere in town – especially when the full moon is rising.
+   [22A] 0x3F5021788CCA50C5: Built for a Sim on a budget with a discerning eye, this cozy home has everything you need. It has an extra generous sized room that can double as a bedroom, office, or whatever! And no more having to eat out all the time thanks to a kitchen that’ll get the job done with ease. Should your Sim outgrow this house, no worries. There’s plenty of room for expansion!
+   [22B] 0x3F5021788CCA50C6: This modest yet comfortable home provides everything you need in your first home. Its sensible layout offers an intimate setting, while still providing plenty of space to move around in. Infinite design possibilities are yours with this surprisingly flexible floor plan. 
+   [22C] 0x3F5021788CCA50C7: This charming low-maintenance manufactured home offers a deep, covered entry large enough for a party. The winged-frame roof provides plenty of shade and keeps the inside of your home a nice, even temperature. A truly comfortable home for a truly comfortable price! 
+   [22D] 0x3F5021788CCA50C0: Not every Sim can afford an expensive Victorian home, so for those on a budget here’s the find of a lifetime! An award-winning layout leaves no wasted space with a stylish Victorian-inspired design on the front augmented with a sharp front porch. All the class without the cost – that’s what you’ll get in this stunning house. 
+   [22E] 0x3F5021788CCA50C1: This elegant one-level home proves that simple is best. The lovely box bay window in the living area adds both natural light and added space. The covered entry and extended roof line offer protection and comfort day and night.
+   [22F] 0xB2247485C3383FA9: You won’t find a better place to grab a bite and a drink.
+   [230] 0x1271460CCDCC7AB2: That Old Fishing Hole
+   [231] 0xB47423D808E1FBC2: Fae Ray Gardens
+   [232] 0x3A18E1C5799FB14F: La Shove Beach
+   [233] 0x782EE8C742CFA7F0: Eerie Park
+   [234] 0x6831B82303A2E929: Van Gould Merchant House & Cafe
+   [235] 0xB5C66CA2322B021E: Mind-Body Connection Bookstore & Spa
+   [236] 0x89802E88F793A0D2: Zoomsweeper Test Track
+   [237] 0xF4ACA9377A4727D9: Commonwealth Court
+   [238] 0x9C44D90C505B6A05: Hallowed Grounds Cemetery
+   [239] 0xFB221B3F170C5355: Sam’s Market Diner
+   [23A] 0x271B3698B43649B3: Bell’s Barbell House
+   [23B] 0x1F057E2DCF71F18C: Gypsy’s Landing
+   [23C] 0x6A420D7F542E886A: Bloom Institute of Wellness
+   [23D] 0xBF48C04C60DD3243: Library of Lore & Vault of Antiquity
+   [23E] 0x4656E27AE2377E5A: Moonlight Falls Historical Society & Museum
+   [23F] 0x6165D37AA0F2F464: H Two the O Indoor Pool
+   [240] 0x3C2226881F1F66E7: Aleister’s Elixirs and Sundries
+   [241] 0xEAE4ABA053D5237F: Everglow Academy & Coliseum
+   [242] 0x9C45F3467D45C125: Deja View Theatre
+   [243] 0xDC91662E4ECCEC4F: Varg's Tavern
+   [244] 0x609DE58E1C64F38F: Stone Troll Fishing Hole
+   [245] 0xA6ED8AB0C5D44088: The Toadstool
+   [246] 0xCD704953A51EC364: Modern Mansion – 5br, 5ba
+   [247] 0xCD704953A51EC367: Desirable Classic - 2br, 2.5 ba
+   [248] 0xCD704953A51EC366: Victoria’s Victorian Home - 4br, 4.5ba
+   [249] 0xCD704953A51EC361: Quaint House – 2br, 2.5 ba
+   [24A] 0xCD704953A51EC360: Stunning Revival – 3 br, 3ba
+   [24B] 0x91A5E1BEA40C82C5: Playful Playground
+   [24C] 0xA1597AA4F061F5AF: Pleasant Place - 4br, 4 ba
+   [24D] 0xA1597AA4F061F5AC: Witch’s Cove - 5br, 3.5ba
+   [24E] 0xA1597AA4F061F5AD: Massively Massive Mansion - 3br, 3ba, 3hb
+   [24F] 0xA1597AA4F061F5AA: Spacious Revival - 4br, 3ba
+   [250] 0xA1597AA4F061F5AB: Manufactured Magnificence - 2br, 1ba
+   [251] 0xA1597AA4F061F5A8: The Humble House - 1br, 1ba
+   [252] 0xA1597AA4F061F5A9: Great Greek - 2br 1.5ba 
+   [253] 0xA1597AA4F061F5A6: Lap of Luxury - 4br, 4.5ba
+   [254] 0xA1597AA4F061F5A7: Quaint Settlement - 2br, 2ba
+   [255] 0xA1597BA4F061F761: Refined Elegance - 3br, 2ba
+   [256] 0xA1597BA4F061F760: Mellow Manor - 5br, 3ba
+   [257] 0xA1597BA4F061F763: Country Living - 2br, 2.5 ba
+   [258] 0xA1597BA4F061F762: Dionysus’ Dwelling - 1br, 1.5ba
+   [259] 0xA1597BA4F061F765: Abundant Richness - 5br, 3.5ba
+   [25A] 0xA1597BA4F061F764: The Tree House - 2br, 1ba
+   [25B] 0xA1597BA4F061F767: Outdoorsman’s Delight - 2br, 2.5ba
+   [25C] 0xA1597BA4F061F766: Minimally Modern – 2br, 2ba
+   [25D] 0xA1597BA4F061F769: The Bay View - 2br, 1.5ba
+   [25E] 0xA1597BA4F061F768: Graceful Getaway - 4br, 3ba
+   [25F] 0xA15978A4F061F208: Petite Mansion - 4br 4.5ba
+   [260] 0xA15978A4F061F209: Efficient Abode - 1br,1ba
+   [261] 0xE0DBBAE477CA5345: Moonlight Point
+   [262] 0x0212075E01CC3157: Comfortable Classic – 2br, 1ba
+   [263] 0x0212075E01CC3154: Stately Starter - 1br, 1ba
+   [264] 0x0212075E01CC3155: Cozy Retreat – 1br, 1ba
+   [265] 0x0212075E01CC3152: Affordable Elegance - 2br, 1ba
+   [266] 0x0212075E01CC3153: The Craftsman’s Mansion – 2br, 1ba
+   [267] 0x008B97C11DCE9F67: Red Velvet Lounge
+   [268] 0xCB4A7A398A5FD4AC: Crumplebottom
+   [269] 0xC768B1F228B9CBBA: The three Crumplebottom sisters have very little in common with one another, and yet they have never been able to live apart. They feel right at home in Moonlight Falls, which, like their family, is full of drama and magic. Will these three witches ever find balance and serenity, or are they destined always to express their love for each other through a combination of trickery and shouting?
+   [26A] 0x35676DFD89B741E1: Durwood
+   [26B] 0x16E9FBE123F7C59D: On the outside, the Durwoods would make others jealous with their nice house, two adorable children, and a father with a great job. However, all is not what it seems between a mother in-law who disapproves of her daughter’s husband and two kids who always get what they want. Can the Durwoods learn to live together or will the family spiral out of control?
+   [26C] 0xC7EE769704B1ABB1: Farmwell
+   [26D] 0xD8E3D4A6E427D50D: Moonlight Falls is a perfect fit for a guy like Gladsten. With all the fishing, the great outdoors, and friendly people, he never wants to leave…and plenty of local ladies are happy about that! Can Gladsten stick around in Moonlight Falls or will he be run out of town by an angry mob of ex-girlfriends?
+   [26E] 0x599C4A91E14D591F: Goodfellow
+   [26F] 0x38A0836AD9EFA87B: Fairies are typically curious about human Sims, and the Goodfellows are no exception. Led by their sprightly matriarch, Flora, the mischievous Goodfellows have engineered several encounters with humans, from simple pranks to elaborate social experiments! Their crowning achievement is an adoption mix-up resulting in Linda Rodgers’ newly adopted baby being a fairy with the Goodfellows taking possession of the human baby instead. Will raising Fawn, their human toddler, bring them more than they bargained for?
+   [270] 0xB63F9C4450BE819B: Goth
+   [271] 0x5A7DFA7597A9ECC7: After having the house to themselves for a while, the Goth Ghosts are now living with a human in their house. Will the Goths be able to get accustomed to living with a human for the first time or will the inquisitive Helen Hall ask too many questions?
+   [272] 0xFD030D14F4CD7065: Grimm
+   [273] 0xD45F1BEB39D7F9C1: Chauncey Grimm is a single guy with a passion for storytelling…especially tales of the supernatural. While he can’t prove it, he believes he must be a descendant of the famous Grimm brothers, the writers of many classic fairy tales. Chauncey has come to Moonlight Falls to carry on his family legacy. But will he just write stories or become the main character in his own supernatural story?
+   [274] 0x007A3B328A895AA0: Hoppcraft
+   [275] 0xFF3D3D11EB8A474E: Back where James Hoppcraft was from, people worked hard, respected one another, and didn’t turn into howling beasts when the moon was full. And that’s the way it should be everywhere. The Hoppcrafts are a traditional family that values traditional family values, period. Can the Hoppcrafts survive in such an outlandish town or will their values get the best of them?
+   [276] 0x1B10AA4CA9A695F5: Ivy
+   [277] 0xC64B4D50182131B1: Once on the verge of living on the streets, the hippie Ivy family now lives the “trustifarian” lifestyle after Rainflower inherited a fortune from a long-lost great-aunt. No longer bound by the shackles of a budget, this family can have anything they’d like, except they don’t know what they want! Will the influx of Simoleons be a curse for the Ivy family?
+   [278] 0x9BBC2E78169C19CF: MacDuff
+   [279] 0x2C1FB293FDF5CE0B: This is one large family with another member on the way! To an outsider, this combined family of witches and humans may seem strange and full of chaos, but the MacDuffs are quick to pull together and support each other in a crisis (like that time Faith’s hamster died…). The parents, Joanie and Flint, do their best to manage such a large household, but will the addition of Baby MacDuff be one MacDuff too many?
+   [27A] 0x5028F68FDE44F5C1: Maldano
+   [27B] 0xD9FE9F6C8B05F9FD: Marigold only recently realized that she’s descended from a family of powerful fairies. She was raised by her late grandmother and recently inherited the family home, where she lives alone. Strange things seem to happen wherever she goes. Is she a magnet for supernatural events or is she just crazy?
+   [27C] 0x1AFFC14CA9984916: Nix
+   [27D] 0xEB9CF63F28DD5DFC: The Nix family may be the most “normal” family in Moonlight Falls…which makes them one of the most unusual families in Moonlight Falls! Mike and Annie met at a high school dance, dated through college, and then got married when Mike graduated from medical school. Mara was born a year later. Will the Nixes be able to find some friends or are they just too normal for a place like Moonlight Falls?
+   [27E] 0xA23997D3B8F3235D: Pappy
+   [27F] 0x22E7DF049AA68D89: Pappy is the patriarch of the Wolff clan and was raised with the dogged belief that the Wolffs were the original settlers of Moonlight Falls…a claim hotly disputed by the Van Gould family. Pappy lives alone on the opposite end of town from all those “undead deadbeats”. Will the Wolffs and Van Goulds continue their feud? Or can Pappy be the bigger Wolff and make peace?
+   [280] 0x1B65A34CA9EEC9CD: Pok
+   [281] 0x95FDA9B047E2E919: David Pok always had a thing for assertive women, but when the beautiful Janet slammed his head down onto the hood of her police cruiser he knew he had found The One. With careful planning, David ensured that Janet would be his arresting officer on his next heist. She read him his rights, he read her a love poem scribbled on a counterfeit bill, and the rest is history. Can Janet turn this love into a life sentence, or will she let David go early due to bad behavior?
+   [282] 0xE8608F90A569A911: Rodgers
+   [283] 0x8277A880790B2EED: Linda Rodgers has more love in her pinky finger than some Sims have in their entire heart! Thanks to the Moonlight Falls adoption center, Linda’s lifelong dream of starting a family has come true. Of course, thanks to a little… intervention by some mischievous fairies, Linda will discover she is getting more with her adoption than she ever dreamed of! What will Linda say when little Sophie grows up to be a beautiful young fairy?
+   [284] 0xF155C88DF583BF70: Roommates Supernatural
+   [285] 0x892B4608A7C562BE: A Vampire, Ghost, and Werewolf all living under one roof? And, what’s more, they’re all best friends! These three Supernaturals are loving life and are excited to be in their new home in Moonlight Falls. Will their human neighbors be accepting of the three roommates or will they have to depend on each other for friendship?
+   [286] 0x9A20A16273219939: Roommates Vegan
+   [287] 0xD9FCE96224636145: These two roommates are Best Friends Forever and share a love for living off the land! Branch is a Fairy with the greenest thumb of all and Dayvid is a Vampire who won’t touch meat or drink plasma. Can Branch make a living in nature? And how long can Dayvid repress his nature?
+   [288] 0xD46EB02DAB194708: Roommates Wanna Be
+   [289] 0x429B95DD86800A66: These roomies met at a Supernatural conference because of their shared love of all things mystical. Although none of them possess any un-humanly powers, you wouldn’t know it by how they dress and act. They love being around all the interesting characters of Moonlight Falls but how will the town’s “real” supernaturals react to their masquerading?
+   [28A] 0x41645EBC1FC73A2C: Singh
+   [28B] 0x1D3DD91F6356283A: The Singhs met in medical school and quickly found themselves swept up in a fairytale romance… But this is a fairytale with a twist! On their wedding night, Param was surprised when his new bride Navita suddenly turned into werewolf and turned him into one too! Will the Singhs live wolfally ever after? Or will Param be haunted by his carefree days as a bachelor (and a human)?
+   [28C] 0x61D726BBA1A113BD: Swain
+   [28D] 0xC8210BEF7DD71F69: New to Moonlight Falls, Chester Swain came in the hopes of providing a better life for his daughter Bailey, who he’s raised alone. She’s his whole world, and he loves her very much even if he can be a little overprotective. Despite the time they spend together, Chester is somehow unaware of Bailey’s fanatical obsession with the supernatural. Can Chester find a way to protect his daughter from her own curiosity?
+   [28E] 0x03606DD925F41283: Van Gould
+   [28F] 0x07212FD12A32531F: The Van Goulds go back hundreds of years to the very first days of Moonlight Falls. Of course, for a vampire family that’s just a single generation! Ayden Van Gould, the current patriarch, claims to have had a hand in the actual founding of the town – a claim which is hotly disputed by his rivals, the Wolff family. Can the Van Gould’s secure their place as the Moonlight Falls founders, or will the Wolffs rise up and claw it away from them?
+   [290] 0x16FDED98229FFEB1: Wolff
+   [291] 0x2D9A45373CCB660D: The Wolffs are one of the oldest and proudest families in Moonlight Falls. The only other family that’s been around as long is the Van Goulds, and these two clans are bitter rivals. Debate rages over the identity of the town’s original founders, but the Wolffs will never surrender their claim. Will the Wolffs finally find the respect they feel they deserve or will Ayden Van Gould buy his way into Moonlight Falls history?
+   [292] 0x53FDEE85911A37A3: Abbie
+   [293] 0xC38A29737DA082B1: Abdulla
+   [294] 0x2CB4783CEC4E8558: Alex
+   [295] 0x452DA785896C94E9: Alexa
+   [296] 0x12A31FE891CA0898: Alfred
+   [297] 0x8F71A58BE76086C7: Alfred is a very charismatic and well behaved little guy whom Miriam and James believe is the envy of all the other parents on the block. He was much like other toddlers until he had a fateful encounter with the elder fairy, Flora Goodfellow, who was practicing some new spells. Flora intended to cast a spell on herself but it backfired and turned Alfred, who happened to be nearby, into a fairy. Too afraid to say anything, Flora kept it to herself but secretly watches from afar to see how the Hoppcrafts will take to their son’s glistening wings once he grows up. 
+   [298] 0x45569A85898F83E0: Alice
+   [299] 0xBAAB4023FF811E1C: Alice has always had a reputation for being a bit of a dark mystery and considered too cool for school. Though she has no aspirations to become a supernatural, Alice is still quite fascinated with them and wants to know more about their intriguing lifestyle. Her big secret is that she’s a kleptomaniac, and she’ll pilfer an object or two and study it to gain more insight to the life of a supernatural. Only time will tell if Alice will steal everyone’s hearts…or just their stuff. 
+   [29A] 0x8CB516D7BD8C269B: Anjali
+   [29B] 0xD1AB703B77AF79AA: Annalove
+   [29C] 0xA4CE947D47BF028E: Annalove met Rainflower while he was on tour performing at environment-saving fund raisers. It was love at first sight for Annalove when she finally met someone who loved the environment as much as she does. Moonlight Falls is the perfect fit for her except for all those fake supernaturals, but Annalove is really into gathering and there are amazing things to be found all over town! There’s too much stuff to be found that maybe there’s an easier, less labor-intensive way to find hidden gems. Even if it comes at a small cost to the environment…
+   [29D] 0x33BC4A857F82EAFB: Annie
+   [29E] 0x5D81124AF5D942A2: The proud wife of Mike and mother of Mara, Annie loves her family and her whole life centers around taking care of them. A romantic at heart, it was love at first site when Mike asked her to dance and she knew someday they’d be happily married. Annie loves reading, whether it is for herself or to Mara, and is an especially big fan of the “Ask Joanie” column in the local newspaper, since she is still learning the ropes of being a great parent. There is nothing more rewarding to Annie than even the smallest of Mara’s accomplishments.
+   [29F] 0xB1238143E273080F: Anthony
+   [2A0] 0xE12C8685E1CD8600: Argus
+   [2A1] 0x018591CC98F3F172: Argus has always enjoyed roughing it in the outdoors and loves camping high up in the mountains. Formerly a tree-hugging, granola-eating human, Argus was out camping when he ran into a brood of vampires. He escaped…right into a pack of crazed werewolves who insisted he join them! Still coming to grips with being a Werewolf, Argus has had to quit working the night shift at the hospital – his howling was keeping the patients awake!
+   [2A2] 0x0066007280F1AEAA: Ashley
+   [2A3] 0x70E2CEA84F899988: Aubrey
+   [2A4] 0xA39F7B85BEAE0447: Ayden
+   [2A5] 0x5BBE3B43BDFEAE79: Ayden Van Gould is what vampires call “old blood.” Very rich, proper, and centuries old, Ayden claims to remember the actual founding of Moonlight Falls, even though he was just a wee lad of 47 at the time. From the moment a werewolf hair landed in his soup, he developed a distaste for all things furry. The pesky Wolff family also claiming to be the town founders isn’t helping either. Ayden has spent his whole life building up Moonlight Falls into a charming town and is not about to let everything he’s built be destroyed by the ridiculous claims of a few Werewolves.
+   [2A6] 0x3494AE3CF08ADD93: Bahl
+   [2A7] 0x83FB0E235FAD0606: Bailey
+   [2A8] 0x0BC139E3BE813872: While out in the woods on a typical dull Moonlight Falls day, Bailey came across a vampire. Her initial thought: this is the best town EVER! For Bailey, it’s like something right out of her favorite fantasy novels. Imagine getting to know actual vampires, werewolves, and fairies! At first she wanted anything but to move to Moonlight Falls but now she never wants to leave! In a place like this, even a plain, clumsy girl like her could make a love connection with one of these fantastic Sims, right? Well, if her dad, Chester, ever leaves her alone for two seconds that is…
+   [2A9] 0x6EBB9123E4E3DC0D: Barney
+   [2AA] 0x0DB9BE23AD75000A: Baylee
+   [2AB] 0x34879D3CF08036AE: Bean
+   [2AC] 0xB11D0FAD4AA763EB: Beatrice
+   [2AD] 0xB290EBF51D0E3580: The eldest of the three Witches, Beatrice just wants to create perfect spells and she doesn’t give two cat’s whiskers about anything else in her ambition to be the best witch that Moonlight Falls has ever seen. She has very little patience, and if it wasn’t for the company of her two sisters, she wouldn’t have any friends at all. She has a very stuck up attitude towards others and refuses to acknowledge the achievements of her fellow Witches. Belinda is accustomed to dealing with Beatrice’s quick temper, but young Bianca thinks her old sister can be a real drag sometimes.
+   [2AE] 0xC2ADE18CA9E310AE: Becky
+   [2AF] 0x8012344C28DBD1C9: Belinda
+   [2B0] 0x5FA440A7E1B99C0E: Belinda is the middle sister and full-time peacekeeper of the Crumplebottom family. She’s pretty much the only thing that keeps Beatrice and Bianca from tricking each other into oblivion. Sometimes Belinda wonders if she was actually born into the right family but those thoughts are quick to disappear after spending an hour with her two conflicting sisters. Yes, Beatrice is difficult to deal with when she gets grumpy, and Bianca can be a little self-absorbed… always. But Belinda is determined to have them get along. (Because it’s the only way she’ll get some peace and quiet in the house!)
+   [2B1] 0x2A3E7CFEDED66964: Bertiger
+   [2B2] 0xF3D70BE20F447E4E: Bianca
+   [2B3] 0xFA56B47C8025EBC1: Poor Beatrice and Belinda! It must be hard for them to have a sister who is soooo much younger and soooo much prettier than they are. Bianca is the youngest of three sisters that couldn’t be any more opposite. Always being picked on and lashing back at her sisters, she doesn’t know if it’s because she’s the youngest or her good looks that are the envy of her sisters. But really, does that give them any right to take it out on her? It’s not her fault she turned out perfect! Maybe they’d be happier if Beatrice wasn’t an old grump and Belinda wasn’t so concerned about other people!
+   [2B4] 0x3479CA3CF07445B7: Bill
+   [2B5] 0xE36960AC356AA229: Blanestreet
+   [2B6] 0x508FC3879F731FA8: Branch
+   [2B7] 0x1FB0DA005E82F7D4: Branch is a fairy known all over Moonlight Falls for the delicious fruits and vegetables his gardens produce. He says the secret ingredients are a little love and pixie dust. He’s not sure what his favorite part of gardening is - catching some rays or talking to all of his sweet little plants. Branch now has his best buddy Dayvid to tend the gardens. 
+   [2B8] 0x40B1818C603E9E11: Brett
+   [2B9] 0x2BD9D20B96CCD07D: Brittany
+   [2BA] 0x40D37E8C605B7FDC: Brown
+   [2BB] 0x4111728C6090CC09: Bryce
+   [2BC] 0x3450B03CF05114ED: Burt
+   [2BD] 0x21F8FAF48E767821: Caliente
+   [2BE] 0x45A25695BAA510B5: Carmella
+   [2BF] 0x0A16208F2AB47B14: Chauncey
+   [2C0] 0x53576A4408DCF610: Chauncey is an acclaimed writer who since his childhood has been fascinated with all things supernatural, which inspired him to write the smash hit novel “True Fairy Tales.” He recently moved into Moonlight Falls to research and collect stories to tell the world about this quaint little town of supernaturals and humans living together. Although he only planned to stay a short time, Chauncey loves cruising the open roads on his bike as he explores Moonlight Falls and could see himself sticking around for a while. Better yet, Chauncey might become a supernatural himself!
+   [2C1] 0x6B798E92C09A155F: Chawd
+   [2C2] 0xF9AB489BFF4C6E4A: Chester
+   [2C3] 0x9E826DA3EA7CBD2E: In his short time in town, Chester feels as though he chose the perfect little berg in which to raise his daughter. But if Chester didn’t know any better, he’d say there was something funny going on in Moonlight Falls. What a place to raise an impressionable young daughter – especially one who keeps reading all those vampire and werewolf books. Chester thinks it’s just a typical act of teenage rebellion and, though he worries at times, Chester is determined to protect his daughter so she grow up to lead a wholesome life.
+   [2C4] 0x843540320A63DDCD: Chesterton
+   [2C5] 0x6B649592C087C571: Chong
+   [2C6] 0x3BB0DE3CF421979B: Clum
+   [2C7] 0x96A66492D90431BD: Count
+   [2C8] 0x86DB84F8F500041C: Countess
+   [2C9] 0xB2BC9EA962F41687: Crissy
+   [2CA] 0x53F076529ADF1EFF: Crumplebottom
+   [2CB] 0xB66840925A478EDB: Cuffs
+   [2CC] 0xFAF6617AD361B697: Dahlia
+   [2CD] 0x1FD30394E744829D: A Sim who loves to live off the land and is respectful of Mother Nature, Dahlia is a Fairy’s fairy in the truest sense. She loves to spend the day tending the gardens and nursing sick plants but isn’t above the occasional prank or two when her loving husband Pip isn’t stirring up trouble. As a young girl, Dahlia would always sing and hum while she was tending the garden and after being told she had the voice of an angel, she realized she had a real future as a musician. She warmly welcomes Fawn into the family and is excited to spending her time with her new daughter.
+   [2CE] 0x2516389D69C34B30: Dante
+   [2CF] 0xCC0A9A36B5451725: Always up for a party, Dante is the first to arrive and the last one to leave. Being a Vampire, Dante loves the late nights and would keep going all day if he could. He jumped at the chance to move in with Violet and Argus, especially since he hasn’t had much luck in getting a steady job due to graveyard shifts being very tough to come by in Moonlight Falls. But he doesn’t mind – “job” is just another word for less time partying and hanging with his buddies.
+   [2D0] 0x24FB2B9D69AC6DE2: David
+   [2D1] 0xCC672B3A7099B8CA: David would be the first to admit that he hasn’t always made the best choices. And he’ll never live down his foiled petunia heist to end all heists. But in his vast, empty desert of judgment, one good decision blooms: asking Janet to marry him. Since then, David’s behavior has started to resemble that of a functional human being! Some say you can change a person but David’s continued personal hygiene (or lack thereof) says otherwise. Aside from that, Janet’s strength, beauty, and dedication to duty – why it’s almost enough to make a guy give up on crime completely! Almost…
+   [2D2] 0x47B3C2F6455BA127: Daydream
+   [2D3] 0x44F0989C4F3F7F4B: A kid who loves watching TV until the wee hours of the morning, Daydream tries heeds the advice of her parents to be kind to the environment but just loves all the new toys their money can buy! She’s never had a TV with a working tube before, so now it’s time to catch up on all that she’s missed! Her parents cringe at all the electricity she’s using up, but Daydream just can’t resist. Some might chalk it up to a weak willpower, but she also has a problem finding the garbage can for her trash. Maybe Daydream isn’t the responsible environmentalist her parents want her to be…
+   [2D4] 0x669E8C7A7F0D0DBB: Dayvid
+   [2D5] 0xD608577411BB1FF7: Unlike his vampire brethren, Dayvid is a vegan who faints immediately at the sight of plasma. And nothing beats a day out in the sun for Dayvid! Now he’s been shunned by the vampire community in Moonlight Falls. Dayvid met Branch, who placed an ad looking for someone to move into a spare room in Branch’s house. The two became best friends immediately with their common interests: being mindful of the environment and eating their own homegrown food.
+   [2D6] 0x84BD48573BCB1AB0: Deedee
+   [2D7] 0xEE26F860C073A12E: With a contagious smile and charming personality, Deedee has a knack for making anyone around her feel great. Though she’s not looking to become a supernatural, Deedee still loves having them as friends since humans can get sooooo boring! At least Deedee’s roommates share the same affection for supernaturals, so they’re all pretty cool in Deedee’s book. Deedee also loves to cook; unfortunately, she isn’t very good at it. She waits patiently by the phone for that call to become a five star chef, but at this rate she’ll be waiting a long time…
+   [2D8] 0xC24361575EE4965E: Denise
+   [2D9] 0xC2324B575ED5FDD5: Dennis
+   [2DA] 0xC8BCD656D208DCF4: DeSean
+   [2DB] 0x11BAFCB596BE1A55: Dhupam
+   [2DC] 0x11BAFCB596BE1A56: Dhupan
+   [2DD] 0xF9F98BAAB893F884: Dokota
+   [2DE] 0x57B4239D860C338A: Dolor
+   [2DF] 0xBD26F0417A8C2A71: Donella
+   [2E0] 0x8A36EF415DFD118D: Donovan
+   [2E1] 0x33CFE7AA48A3FD4D: Doreen
+   [2E2] 0xD37AF42968024616: Doreen is actually an old Witch but thanks to a narcissistic personality and the miracle of an age reversing elixir, she looks much younger than she actually is. A very talented Witch and a control freak at heart who must know all the details, Doreen seeks to take charge over everything in life from her age to who her daughter Serena can date. She so badly wanted to see Serena marry a witch to keep the family lineage alive - even going so far as to casts spells to sabotage their love. Unfortunately her spells had no effect so it was with the help of a fairy that she could carry out her devious plan…
+   [2E3] 0xC5EFE46BF1E216B6: Durwood
+   [2E4] 0x222A77F0E71430A2: Dwayne
+   [2E5] 0x3DD97ABEB72D7E8A: Dwayne’s doing the best he can to move his family up from their humble beginnings. Some things never change though, as Dwayne is at his best goofing off, going for a run, or having a thrilling ride in the car. He knows that his ancestors founded Moonlight Falls, and he won’t stand idly by while the Van Goulds takes credit. His new political career has helped solidify the Wolffs’ position as the first family of Moonlight Falls, and it’s helped him move his family out of their beat-up old shack into a beat-up old house! Look out world, the Wolffs are on the prowl!
+   [2E6] 0x4DB1293CFE84DBFC: Earl
+   [2E7] 0xC09C03668DFE7A08: Edskar
+   [2E8] 0x9EB941A1C24CBBEF: Emelie
+   [2E9] 0x076B9008AE738921: A Vampire who loves pink, pop, and lots of it, Emelie missed the memo that encouraged all vampires to embrace a gothic lifestyle. Struggling to accept the vampire lifestyle, Emelie loves a good salad and spending time in the sun. She also finds cuddly and furry animals to be the cutest things in the world! And while her father assumes that the most controversial thing about his bubbly young daughter is her choice in colors, he would never suspect that young Emelie secretly has an unwavering crush on one Waylon Wolff.
+   [2EA] 0x4DBB333CFE8D4172: Enza
+   [2EB] 0xF5552CA428168BF2: Erica
+   [2EC] 0x35418966A109D0BA: Erica is exactly as shy and refined as you’d expect a professional wrestler to be. Though semi-retired from the pro wrestling arena, she’s finding the wrestling with her children to be no walk in the park. She’s a woman who speaks her mind, and isn’t afraid to back it up with her patented stepover-armlock. These skills come in quite handy as she attempts to wrestle her three hyper pups into anything less than total chaos. She may have married into the family, but make no mistake – she’s a Wolff, loud and proud!
+   [2ED] 0x8ED82EAF4FB2473C: Faith
+   [2EE] 0x2A2EB8CC78CAD5DE: Faith is a typical brooding teen who is sick of having to deal with her older brothers’ pranks. If she were a witch like her dad, maybe she could cast a spell to make the twins disappear, but for now she just spends most of her time in her bedroom. She doesn’t have many friends but Faith doesn’t care about that. She’s happy listening to music and, with her innate artistic abilities, letting her paintbrush fly across the canvas. Now if her twin brothers would just move out so she can finally have some peace and quiet!
+   [2EF] 0xAB6076AED403571C: Farmwell
+   [2F0] 0x5814573D04E40AFC: Fawn
+   [2F1] 0x48D6C7802FD78D70: A Human adopted child in a family of Fairies, Fawn came into the Goodfellow family as part of a planned adoption mix-up with the help of Pip. In some families being the only non-supernatural could make one feel like an outcast… but not so with Fawn! Her parents are pleased as punch to have her as part of the family and at a young age Fawn is almost ready to believe that she is a Fairy – even though she’s human.
+   [2F2] 0x1258E1B6DC0966A3: Felicity
+   [2F3] 0xE11958F217DE1461: Felicity is a very impressionable young Sim who looks up to her twin brothers and giggles at their funny pranks. Unfortunately, a prank that got her hair wet without permission has scarred her for life and Felicity just can’t stand to be anywhere near water. Aside from a fear of water, Felicity isn’t afraid to go out on her own and get into some trouble. Sometimes she leaves her parents worried sick! Felicity doesn’t know it yet, but she has inherited the same witch powers as her dad and brother, Jules. And hers just might prove to be the most powerful of them all!
+   [2F4] 0x4D1E84DACE83A3FE: Fitzgerald
+   [2F5] 0x638F4DAF372F9D29: Flint
+   [2F6] 0x2900FC8964FB5EFF: When he was younger, Flint was really into his witchcraft and spent all day casting spells and causing trouble for unsuspecting Sims. One day, he cast a spell and accidentally set off fire sprinklers in an apartment building, but his bad magic turned to good fortune when he met a soaking-wet young lady named Joanie…and ended up marrying her! Joanie set Flint straight and now he uses magic mostly to fix things around the house, though he seems to break more stuff than he fixes.
+   [2F7] 0x639659AF3735D00E: Flora
+   [2F8] 0x49E7B31350F010C2: In her quest to understand human emotions, Flora has led several social experiments on humans. Of course, some of these are just good old fashioned pranks. These include magically eliminating a single sock from the dryer, moving someone’s keys when they were right there, and also that thing where you tap someone’s shoulder but then stand behind their other shoulder so when they look around, they’re looking over the wrong shoulder. Though Flora has some guilt in accidently turning the Hoppcraft toddler into a fairy, she looks forward to watching from afar to see how the events unfold. One prank stands head and shoulders above the others: providing a fairy child for that delightful Linda Rodgers while welcoming a human baby into the Goodfellow home.
+   [2F9] 0xFE852FAF8EAF7FB4: Frank
+   [2FA] 0x105F41601FD49D40: Fricorith
+   [2FB] 0xFE6A49AF8E98E434: Frida
+   [2FC] 0x2B995181E2B48018: Frida has never been interested in love or commitment, so when her family suggested marriage to a Landgraab to tie the influential families together, she decided relocation was in order. While she hated the falling out with her brother, Gunther, coming to Moonlight Falls with her uncle Samuel and his new bride Olivia seemed like the perfect fresh start. Things seemed great until Uncle Samuel’s love for magic jelly beans caused his early demise. Olivia’s heartbreak led to distraction, which in turn led to an electronic accident and fire, resulting in not just one ghost in the house, but three. Frida has adapted well though, and being a ghost suits her just fine!
+   [2FD] 0x88216E094F28E6E0: Gandillon
+   [2FE] 0xF2C4DDB661C9840F: Gator
+   [2FF] 0x177EA61469616173: As his name suggests, Gator Wolff has the tenacity of an alligator, the temper of a wolf, and the self-control of neither. Erica admits her youngest might be “a little rowdy” but aren’t all boys at that age? Probably, but then again most parents are used to the Terrible Twos ending after age two. Most of Moonlight Falls believes he was literally raised by wolves! With Gator’s unique personality, he’s bound to lead an exciting life and become famous for his stunts.
+   [300] 0xEDB9D7E5C5BC62A2: Gladsten
+   [301] 0x7183C5446FE773A8: Gladsten isn’t a werewolf, but he kind of looks like one. And he’s just as strong, virile and irresistible. He feels most at home on a long hike in the woods with fishing pole in hand, off to catch some yummy fish. He’s not much of a cook though... so his catch of the day usually ends up as the charcoal of the day! Gladsten has some trouble settling down too. What might be a promising relationship usually ends before it gets started due to one superficial reason or another. The most recent casualty was Marigold Maldano, who burnt a big, beautiful salmon.  
+   [302] 0x9C7B39B631021956: Gomez
+   [303] 0xC05771ADC5851AD6: Goodfellow
+   [304] 0x5FBB813D08F089AE: Goth
+   [305] 0xFA38ADEC27FC6875: Gregory
+   [306] 0x8328E6B622DAD04E: Grimm
+   [307] 0x4DB0282409DAC8FA: Hai
+   [308] 0x7C28EB3826420E81: Haley
+   [309] 0xA34270D6D402714A: The only thing Haley is missing in her quest to become a fairy are her wings and a Fairy King to spend her life with. For years she’s been making regular visits to the Arboretum to find fairies, but still comes up empty handed. Until that magical day comes when Haley can become a fairy, she does everything possible to uphold the values of the fairy short of playing tricks or bestowing enchantments. Luckily her current roommates understand this desire, since Haley’s old roommates thought she was crazy! Haley has been working a long time on her book “Broken Wings”, and hopes that it will attract the attention of a Fairy King.
+   [30A] 0xDD1D343CBEC38921: Hall
+   [30B] 0xDD1D323CBEC3858C: Hank
+   [30C] 0x378E77686EEABD3D: Harris
+   [30D] 0x7BC2F03825EB643F: Hartz
+   [30E] 0x9CCA8F38382BA3CA: Helen
+   [30F] 0x84502FA78F50EBFF: A natural-born psychic, Helen has many questions about ghosts that remain unanswered. Why don’t they open doors? What could possibly be so fun about haunting furniture? Such are questions that Helen has always wanted to know. Living with a family full of ghosts might seem crazy and reckless to some, but not for Helen! She’s always been a risk taker and living with a bunch of ghosts ranks among the lesser risks she’s taken.  Helen loves her video games and other high tech toys, but she’s not sure how her high tech lifestyle will fit in with a family of ghosts that are set in their ways… 
+   [310] 0x9CAF9B383814F03C: Hetal
+   [311] 0xEC2ABB57A22344BB: Hoppcraft
+   [312] 0x99F07EDAAD03B4BB: Howler
+   [313] 0x293A1838883BFCAB: Huang
+   [314] 0x16FA85CD1832E292: Impala
+   [315] 0x9888655B4D1DEF03: Ip
+   [316] 0x4DB33F2409DD2506: Ivy
+   [317] 0xEF495F3CC94BD119: Jack
+   [318] 0xE584F74A0BDA7D54: James
+   [319] 0x59B0B2AACCA8FDE3: A man of science, James does not agree with the supernatural. All this magic and mystical nonsense – it’s just not healthy! He once tried to cast a magic spell as a child and his mother gave him a stern talking to and sent him right to law school. It was the best thing that ever happened to James and he was only 8! Even though he gave up law after passing the Bar at age 12, James was always grateful for the discipline and structure that his school provided. Now he just hopes to bring that structure into everyone’s lives.
+   [31A] 0xE58EE74A0BE2B608: Janet
+   [31B] 0x247C141B8F348454: Janet Pok is the law. The town saying is you can’t spell law without Janet and for good reason. From hall monitor, to captain of the neighborhood watch, to the Moonlight Falls police force, Janet’s whole life has been about keeping order and putting rule breakers in detention. Or jail. Everything she says and does is planned and executed by the book with no exceptions. So why did she throw a wrench into all of her carefully laid plans by falling for David? Well, every book has its twists…
+   [31C] 0x2A9A374A32EBE0BE: Jimmy
+   [31D] 0x4DB73C2409E10953: Jin
+   [31E] 0x248DDCE3F84863BE: Joanie
+   [31F] 0x34BA176C37046D98: Joanie is a working mom who juggles raising four children with writing a “parenting advice” column in the local newspaper. Unlike some people, Joanie actually follows her own advice and has raised four fine kids…and now there’s one more on the way! Even though her husband, Flint, is an actual wizard and Joanie is human, everyone knows she’s the real whiz in the family.
+   [320] 0x4DB7362409E0FF6E: Joe
+   [321] 0x6F7CCB67AEC87668: Joe inherited his love of pulling pranks from his father, and, being a natural competitor, he’s never content to let his twin brother, Jules, outdo him It doesn’t help that Jules calls him “Average Joe”. Joe can’t help it if he didn’t inherit his father’s magical abilities while Jules did. But that just motivates him even more.
+   [322] 0x4542717D6E095B6C: Juan-Marco
+   [323] 0x4E38E74A475FC9BD: Jules
+   [324] 0x004C8F3BD513F323: Jules is the identical twin of Joe and shares his love for fantastic pranks. Even though he calls his twin “Average Joe” because he didn’t inherit their father’s powers, he knows Joe is actually smarter and (just slightly) better looking. Maybe that’s why Jules is the daredevil of the family and is obsessed with outdoing his twin. It’s all in good fun, but at the rate Jules is going he just may never grow up… 
+   [325] 0x49AB9A511E231E5A: Kairi
+   [326] 0x533B6B9AEFAFC917: Khomme
+   [327] 0xF6C0893CCD2F2C81: Kyle
+   [328] 0x4F91DA5BF209442E: Larry
+   [329] 0x0B2D705BCB8E3864: Linda
+   [32A] 0xBEA0F600DA47746C: Linda was one of those girls who could always be seen with a doll clutched in her arms. She was always playing “mommy” or pretending to teach her class of dollie students. At a young age Linda would practice cooking for her dolls – little did Linda realize she had a natural talent in cooking and followed her love of cooking to make a career out of it. Adopting little Sophie filled the missing void in her life with a magical daughter to raise. Linda suspects she got more than she bargained for in her adoption of Sophie. But whatever the case may be Linda loves Sophie and will raise her the best she can!
+   [32B] 0x8D2279A1E7C40A3F: Lugosi
+   [32C] 0x093F043CD7FE075B: Maaz
+   [32D] 0x3A87E83747C73F4C: MacDuff
+   [32E] 0xC30F0C40F114A3EE: Maggie
+   [32F] 0x2F422F1E2C991F85: Malcolm
+   [330] 0x70FCEAC6AEF5CC8E: Ever since Malcolm was a wee lad he has been obsessed with vampires. Although his parents thought it was funny to watch their child attack his stuffed animals with little fake fangs, Malcolm always took his fascination seriously. Now in a town bustling with vampires, Malcolm has taken every opportunity to hang out with them in hopes that one day he may become a vampire. Although he’s made friends with a few vampires around town, none have taken the plunge to turn Malcom to a vampire…
+   [331] 0x5A75E01E45091C2A: Maldano
+   [332] 0x093EF13CD7FDE6B9: Mara
+   [333] 0x5348561A432F18A0: Moving into a new town can be rough on a kid, and Mara is no exception. Unfortunately for her, most of Mara’s classmates come from families of vampires, werewolves, witches or fairies and, being both a typical human kid and new in town, finding new friends hasn’t been easy. Mara spends her free time playing alone, at home with her mom, or out fishing with her dad, though she still hasn’t caught any of her own fish. One of these days she’ll catch that fish all on her own!
+   [334] 0xB3DAA563046F0FAE: Marco
+   [335] 0xB3DA9B63046EFEA2: Maria
+   [336] 0x5A8797AC6D08FB6B: Marigold
+   [337] 0x3F6F27647245C9A7: Marigold’s only other known relative, Uncle Terry, recently died in a freak bug-zapper accident. She, like all the Maldanos before her, is considered either “quirky” or “insane”, depending on who you ask. Marigold has a happy, sunny disposition, but she’s been unlucky in love. Her latest attempt at love was with Gladsten Farmwell, but he broke things off after she tried to make dinner and burned his salmon.
+   [338] 0x0B63B740888C4E19: Martin
+   [339] 0xA1F54F62FA228157: McCoy
+   [33A] 0x8FADE362EF8302B0: Megan
+   [33B] 0xA2D0F1E0FCCAC373: Michael
+   [33C] 0x73CE744D8C8A1C1A: Michaels
+   [33D] 0x0923DA3CD7E6F86E: Mike
+   [33E] 0x5A4178CD4C33C613: Mike is a doctor at the local hospital, where most of his patients seem to need treatments for either bites or sunburns. The townspeople are definitely a little strange, but they’re in remarkably good health overall, so Mike has plenty of time to pursue his real passion: fishing! (which is the main reason he moved to Moonlight Falls in the first place.) Mike is teaching his daughter, Mara, to be a master angler. If he had his way, he’d go fishing every day.
+   [33F] 0x0923E13CD7E70391: Mira
+   [340] 0x202B4AFE736199C3: Miriam
+   [341] 0x99AA2A4AC3B8ABF0: Miriam hails from a small town of 15 Sims where everyone knew each other’s names and everything about their personal life. To her, Moonlight Falls is bustling city and it’s easy for her to feel lost in the crowd. Miriam expects everything to be in its place, is resistant change, and certainly cannot understand the life of a supernatural. She knew something was up the moment she moved to Moonlight Falls and hopes that by running for office she can shed some truth onto the town.  She will lead by example, her family a shining beacon of normalcy in the murky skies above Moonlight Falls. Everything will turn out perfectly.
+   [342] 0x2A7073FE79A7C2D6: Misfit
+   [343] 0x090EE13CD7D4A787: Mora
+   [344] 0x1C75A57B104F2991: Morganthe
+   [345] 0x08FAFA3CD7C42936: Musa
+   [346] 0xFF41FFDE7EB2F40C: Musgrave
+   [347] 0x8C8B5B502322DFA9: Navita
+   [348] 0x45B44FFC7F156806: Poor Navita is unlucky in cards and in love – and in pretty much anything else she tries to do. That’s what drew her to medical school; there’s no luck, just scientific fact. Everything can be measured and quantified. Of course, falling in love with Param was a bit of a curveball, and the fact that he loved her back was completely mind-blowing. Worried that she might lose the one lucky thing in her life, she decided to give Param the ultimate wedding gift: lycanthropy! Now they’re sure to be together forever!
+   [349] 0x3839EC0D182111AB: Nicholas
+   [34A] 0x5443F569167A4B6E: Nicky
+   [34B] 0x4DC4542409EBBC19: Nix
+   [34C] 0xC1A49696FE920CB3: Oakley
+   [34D] 0x75B26EAEC5EA6F15: Oberon
+   [34E] 0x18AC706B42AE49CD: Octavia
+   [34F] 0xBEF8B0C09A108ABA: Olivia
+   [350] 0x24A9448D965F6DEE: Even with the difference in their ages and social standing, Olivia knew Samuel was perfect for her from the instant they met. It was easy to ignore the taunts that she only married Samuel for his Goth family fortune – that was only one of the reasons! Olivia didn’t even mind that Samuel’s niece accompanied them to their new home in Moonlight Falls. Life became much harder when Olivia lost Samuel to a rogue magic jelly bean. After all, what kind of relationship could she have with a ghost? In her despondence, she accidentally shorted out the stereo and became a ghost herself! Olivia has since stayed away from most electronics, and doesn’t really like all the new gadgets Helen keeps bringing into the house.
+   [351] 0xFDD91E13F763054E: Oviedo
+   [352] 0xCDE77902AD2BF69A: Pappy
+   [353] 0x799AD86D79A8CC42: Pappy is the oldest and rowdiest of the Wolffs – and that’s saying something. Pappy’s home, referred to by some as “the Pound” isn’t the nicest or neatest residence in town, but there’s always a party going on…even if it’s just Pappy. He’s never felt comfortable around anything he considers “high tech” and is happiest out in the woods. But nothing brings a twinkle in his eye like seeing his grandchildren and hunting as a pack with them.
+   [354] 0xCDE09C02AD2613C3: Param
+   [355] 0xE596522CD27112F0: Param loves his wife, and he knew that marriage was going to bring with it a unique set of challenges. Still, he didn’t see that whole “werewolf” thing coming and suddenly it makes sense why Navita would never go on a date when the Full Moon is out! While he used to dream of being a world-renowned surgeon, Param now is obsessed with the science of the supernatural. In the lab he strives to better understand his new, moon-governed world. And that can only bring him closer to his lovely wolf-bride, right?
+   [356] 0xCDF58D02AD385642: Patty
+   [357] 0x4F4F50AFBC837057: Peanut
+   [358] 0x66B2496868836E7B: This impressionable tyke takes after his father and is destined to be a world famous musician. However, he also looks up to his older sister Daydream and can often be found sitting on the couch with her watching the TV. His parents urge him to be environmentally-conscious and, so far, Peanut seems to be listening, but with the influence of Daydream, his parents can only guess how environmentally responsible Peanut will when he grows up…
+   [359] 0x4E0230240A20E023: Pip
+   [35A] 0xF16BCC80C84FC589: While Flora is the brains behind the Goodfellow’s shenanigans, Pip is most definitely the muscle behind her mischievous pranks. His light hearted nature and ability to talk himself in or out of any situation makes him the perfect Fairy prankster. As a lifelong Fairy, he’s always been fascinated by the Human Sim culture and loves to read books by Human authors. So taking a part time job at the bookstore was a natural choice for him. A very influential Fairy with friends all over town, Pip was able to pull off the ultimate prank of an adoption mix-up involving Linda Rodgers’ newly adopted daughter.
+   [35B] 0x4E0236240A20EAEE: Pok
+   [35C] 0xA766DAA04A295185: Rachel
+   [35D] 0xBD795D3D3D993212: Rain
+   [35E] 0x26D32CA59D000C17: Rainflower
+   [35F] 0x9A58C5F901C3493B: Rainflower believes in protecting the environment and pursued a career in music so that he could use his tunes to soothe and heal. He struggled for many years to get his music career off the ground, and now that he has money, he can finally provide for the family as he’d like and be conscious of his impact on the environment, just like he teaches his kids. Though that new SUV to carry his gear looks quite tempting, Rainflower has resisted the urge to give into temptation…for now…
+   [360] 0x4E0844240A256D97: Raj
+   [361] 0xC19AA64BAAD3D95B: Renaldo
+   [362] 0xBD5E373D3D822A59: Rick
+   [363] 0xC8831274A9C0BED9: A very smart Sim who loves his family, Rick is a human Sim who was smitten by a lovely witch named Serena. The morning of Rick’s and Serena’s wedding, Doreen enlisted the help of Flora Goodfellow to enlarge his ears that was only supposed to last a day. It’s been several years and the ears are still enlarged – but Rick rather likes his new look as does his wife. Sometimes Rick feels caught in the middle of a bossy mother in law and two kids who gotta have that shiny new toy.  He does his best to provide for the family and is quick to cave into any request.
+   [364] 0x24392F2DFA020DC0: Robin
+   [365] 0x1BEE9C5097BB0932: Rodgers
+   [366] 0xF690540FE65B77C3: Rufus
+   [367] 0xF6A1570FE669EF8C: Rumpp
+   [368] 0x72F1E31A6CAB1A01: Sally
+   [369] 0x72F5081A6CAD8F57: Sammy
+   [36A] 0x0399FFE6AAA45775: Samuel
+   [36B] 0x8822AB712CB14867: Samuel is a Goth, through and through. Although known as a hard-working, ambitious man, Samuel also has a bit of an insane streak. Most people attribute this streak to his sudden marriage to a woman much younger and poorer than he. Samuel hasn’t let his death from his favorite snack slow him down – he’s still as ambitious as ever. He likes to attend events around town to make sure people know that even though he’s less than corporeal, he’s still an important part of this town. He met Helen at a psychic convention, and the two quickly became very good friends. When Samuel learned Helen didn’t have a place to stay, he offered her a room, a little to the dismay of Olivia.
+   [36C] 0x0E4C41E6B1477C09: Sandra
+   [36D] 0x0676AC0A92786998: Serena
+   [36E] 0xE955473DB465067C: A very sweet lady who can do no wrong, Serena is actually a witch but she likes to keep it under wraps. She’d never fathom casting a spell that could harm a Sim, but will occasionally cast spells to help an unfortunate Sim in need. Her affection for big ears caused Doreen’s devious plot on Rick to backfire and Serena found herself married happily ever after to Rick. Serena’s two darling children are the apples of her eye and wouldn’t change a thing in her life, even if her mother can be overbearing at times.
+   [36F] 0xB80E261A93C2A1B7: Singh
+   [370] 0x174AB30CFEB136DA: Skipper
+   [371] 0x66B4D452A1156B32: Slymer
+   [372] 0x9E37D9B3042FC778: Snitcher
+   [373] 0x478B506439F04E50: Snypes
+   [374] 0x330FD35DE52BA6E4: Sophie
+   [375] 0x8C30EA8ED04246EC: Sophie Rodgers may only be a toddler, but she already has a personality that just shines forth and brightens everyone’s day. No one is perfect though, and Sophie’s playful side sometimes leads her into trouble. (Like the times she played hide and seek with Linda for hours before being found!) How will that good natured playfulness evolve once all of Sophie’s fairy powers develop? She is Linda’s treasure, but even Linda can’t imagine how special her little Sophie really is!
+   [376] 0xC816723D4429AF24: Stan
+   [377] 0x27C5711AD2C8ACC1: Steal
+   [378] 0x31A63E9412478266: St. John
+   [379] 0xDFA2318E2CC32755: Sumari
+   [37A] 0x0E3EFBC7167D327C: Summerdream
+   [37B] 0xC685B58E1EC92799: Suraya
+   [37C] 0x3236861AD933EEFE: Swain
+   [37D] 0xC50DE3B0E0AB5244: Sylvia
+   [37E] 0xABDAC0F575CB96AE: Timbley
+   [37F] 0x1F3F444FFEFC9EEC: Tinnin
+   [380] 0x7F782841BD3E5F10: Titania
+   [381] 0x3EFAB83E669D8EFF: Torres
+   [382] 0x26D2C2919C94991E: Tricou
+   [383] 0x162A2F6D5E05A0CB: Tristan
+   [384] 0x249960CA0F68FFF5: Taking after his father, Tristan is very polite and more than a little stubborn. Unlike his dad though, Tristan has a strong romantic streak in him, and he often stays up late composing love ballads on his guitar. He hopes to be a world famous musician someday. Although he has had many first dates, it’s getting to that second date that’s always eluded him. He might seem quiet or even brooding to most, but Tristan knows he’s just saving up his most powerful emotions for that one special Sim…
+   [385] 0xC983461958140B1E: Van Gould
+   [386] 0x5922F936589E07F1: Victor
+   [387] 0x35365F3643E822F9: Violet
+   [388] 0xF52CF3ECDEA83F07: Before her untimely death, Violet perfected the art of alchemy using old school techniques with a golden touch that had no equal. It was unfortunate, yet ironic, that an alchemy accident turned Violet into a golden Ghost. Once an outdoorsy Sim who loved to explore, Violet now hates to leave the house and spends her days admiring her golden trinkets. She’s invited her best friends Argus and Dante to move into her home to keep her company and can’t resist the occasional haunting when visitors drop by, even if it is in good fun!
+   [389] 0xE1C1D53D529D3C3D: Vlad
+   [38A] 0x39D8CD19FA51EBF6: Vladimir
+   [38B] 0x9888825B4D1E20CF: Vu
+   [38C] 0x3A67A96463F1FC01: Warren
+   [38D] 0x77C1D26486E65874: Waylon
+   [38E] 0x79784979FEBA8040: If a pack of Wolffs have a black sheep, Waylon is it. While the other Wolff children are quick to grab a toy and play “How Hard Can I Throw the Toy?” Waylon is much happier sitting quietly at his computer to research the latest trends in high society. Being adept in the latest Sim technology and having a knack for getting an A+ on tests, his teachers can hardly believe he’s one of the Wolff clan. Could this departure from the rest of his family be related to his secret crush on Emelie Van Gould?
+   [38F] 0x2A3F668B6B654FCA: Whitney
+   [390] 0x606F9DFF95162CC5: Wickerman
+   [391] 0x570DDC0B3EE2E6E0: Wilhemina
+   [392] 0xEAFB9778B9F9CACC: Willie may not bounce off the walls quite as hard as her kid brother, Gator, but she definitely has a curious streak that can get her into trouble. Willie is fascinated with other Sims, whether they’re vamps, ghosts, fairies, humans, or whatever! It doesn’t take much to impress this young Wolff with an infectious laugh that warms the heart. When she’s not curled up on the sofa she’s walking around and sticking her nose into other Sims’ business. Her snooping and sleuthing around might make her the perfect detective when she grows up!
+   [393] 0x612555225921E07C: Wilson
+   [394] 0x468B4B391FA2632E: Wolff
+   [395] 0xE8DD273D56327D78: Wynn
+   [396] 0xF10B34925F6EBE2C: Younan
+   [397] 0x8AA324C7405DD3B0: Young
+   [398] 0x79070F3D17121809: Zack
+   [399] 0x312A31D2B6FD52E9: This young tyke has a fascination with witchcraft and wants to become a witch someday! Zack, like his mother, is a very good natured kid and hopes to use spells to help Sims solve their problems unlike his twin sister who wants to become an evil witch. While Zoe is quick to throw a tantrum in the middle of the toy store to get the hottest toy on the block Zack has figured out how to get what he wants without being a brat.
+   [39A] 0x78F9F43D1707604A: Zeno
+   [39B] 0x4DED56240A0EC4BE: Zoe
+   [39C] 0x37084D23F5B371CE: The opposite of her twin brother Zack, Zoe looks up to her grandmother and wants to become a witch when she’s older so  she can cast evil spells to torment unsuspecting Sims. Her tantrums in the toy store are bad enough and no parent can resist her crying. And at home she is just as much of a handful, if not more. Zoe would make a great daredevil with her gasp-inducing stunts and knows all too well the trouble she causes her parents.
+   [39D] 0x313B6C1DB09D16D1: Supernatural
+   [39E] 0x021CC88BEFED3792: Alexander Goth
+   [39F] 0xB9D1E93DF098569B: Baron Graff Van Gould
+   [3A0] 0xAD87E4F23E7214B8: Chauncey Grimm
+   [3A1] 0xAD87E4F23E7214BB: Hans L. Geisel
+   [3A2] 0x26F91EA01E1DA322: True Fairy Tales
+   [3A3] 0x26F91EA01E1DA321: One Wolf, Two Wolves. Where Wolf? There Wolf!
+   [3A4] 0x06BCF1D4CE2DD7F4: Mel Neilson
+   [3A5] 0x9440A491235207D9: The Wight Wail
+   [3A6] 0x6DBDCEDCCBF4F6BB: The Roots of Fairy Dance
+   [3A7] 0x2C68998BB4C3771E: Starflower Treestar
+   [3A8] 0xDE30B10765E64771: Mercedes Salazar
+   [3A9] 0x43877C920EC0D824: Under Siege and Ogre Powered 
+   [3AA] 0xAE5CBDFC3965FC6F: Tabitha K. Stevens
+   [3AB] 0x9292953012B4090E: Spellslinger: Have Wand, Will Travel
+   [3AC] 0x96EB2969ED1A5D3E: The Eight G's of Genies DO NOT TRANSLATE
+   [3AD] 0xA2CDB6A5CEB68D9F: Ginnie Gillford
+   [3AE] 0x087D06B90103A151: How To Cook for Forty Ghosts
+   [3AF] 0x84310D2D6F053264: The Ghost of Zeke Perkins
+   [3B0] 0x714A9E9D633091A6: Ep7GnomeLoreBook1 DO NOT TRANSLATE
+   [3B1] 0x91A5555773FD4A87: Ep7GnomeLoreBook1Author DO NOT TRANSLATE
+   [3B2] 0x41177CA24976B9F7: Grigori Blavatsky
+   [3B3] 0xF05D88EC1E4BFC26: The Secret History of Lost Lemuria
+   [3B4] 0xD9180EA9BFF88878: Louise S. Robertson
+   [3B5] 0xD9180EA9BFF8887B: Howard L. Phelps
+   [3B6] 0xD9180EA9BFF8887A: Harrison J. Thomas
+   [3B7] 0xD9180EA9BFF8887D: Tabitha K. Stephens
+   [3B8] 0xD92F16005203CCE2: Loel and Lola
+   [3B9] 0xD92F16005203CCE1: The Sandwich Horror
+   [3BA] 0xD92F16005203CCE0: The Silence of the Llamas
+   [3BB] 0xD92F16005203CCE7: Hotel Diavolo: Hell's Bellhops
+   [3BC] 0x6737C929EE09FA24: Steven Meiers
+   [3BD] 0x41662C2AE11B8F69: Breaking Wind
+   [3BE] 0x3A2DD941FC30855F: Ep7ImaginaryFriendLoreBook1 DO NOT TRANSLATE
+   [3BF] 0xC99999A44D2CC66A: Ep7ImaginaryFriendLoreBook1Author DO NOT TRANSLATE
+   [3C0] 0x21067AC50BE85E25: Ep7MummyLoreBook1 DO NOT TRANSLATE
+   [3C1] 0x27012C56A04486B0: Ep7MummyLoreBook1Author DO NOT TRANSLATE
+   [3C2] 0xDAD357D9D8BCD142: Brittany Aaron
+   [3C3] 0x61A40980C428856B: Inappropriate Manor
+   [3C4] 0x3C19EBA3E9082991: General Malaise
+   [3C5] 0x3C19EBA3E9082992: Hrithik Dixit
+   [3C6] 0x3C19EBA3E9082993: Cole Stoker
+   [3C7] 0x3C19EBA3E9082994: I. M. Wright
+   [3C8] 0x3C19EBA3E9082995: Topher Stubbs
+   [3C9] 0x3C19EBA3E9082996: Peter Reich
+   [3CA] 0x3C19EBA3E9082997: Araceli Doucet
+   [3CB] 0x3C19EBA3E9082998: Mel Neilson
+   [3CC] 0x3C19EBA3E9082999: Henry Ryan
+   [3CD] 0xED30F7DDE97BF89B: Germ Warfare
+   [3CE] 0xED30F7DDE97BF898: Compendium of Curses
+   [3CF] 0xED30F7DDE97BF899: Why Do Vampires Suck?
+   [3D0] 0xED30F7DDE97BF89E: Predictions Of The Future
+   [3D1] 0xED30F7DDE97BF89F: Things That Go Bump In The Night
+   [3D2] 0xED30F7DDE97BF89C: Accumulating Orgone With The Wind
+   [3D3] 0xED30F7DDE97BF89D: Logical Fallacies You Can Really Believe
+   [3D4] 0xED30F7DDE97BF892: Catch A Magic Fish, Cook a Magic Meal
+   [3D5] 0xED30F7DDE97BF893: How To Win At Videogames Without Really Trying
+   [3D6] 0x5CC1E5B9A94D23C9: Christina Ballard
+   [3D7] 0x5CC1E5B9A94D23CA: Fumiko Yamashiro
+   [3D8] 0x5CC1E5B9A94D23CB: Donna LeFromage
+   [3D9] 0x5CC1E5B9A94D23CC: Euripides
+   [3DA] 0x8FFB32E18F451723: Ballard's Ballads
+   [3DB] 0x8FFB32E18F451720: White Mountain Haikus
+   [3DC] 0x8FFB32E18F451721: Loafing, Whining, and Thou
+   [3DD] 0x8FFB32E18F451726: The Epic of the Tattered Trousers
+   [3DE] 0x84D356642DA4BE02: Jane Houston
+   [3DF] 0xD2D6F2A3FB35D52B: Seances and Sixth Sense Abilities
+   [3E0] 0x524745DB8E533C13: Woody Edwards
+   [3E1] 0x552D98966C10EE8A: Plan 8 from Lunar Lakes
+   [3E2] 0x04A0A227E1B501EE: Ep7SimbotLoreBook1 DO NOT TRANSLATE
+   [3E3] 0x1D11B4FB5E11EA6F: Ep7SimbotLoreBook1Author DO NOT TRANSLATE
+   [3E4] 0xC190715330D8F9F9: Butch Andrews
+   [3E5] 0xC190715330D8F9FA: Butch Andrews
+   [3E6] 0x4C3800318200F533: More Bawdy Tales
+   [3E7] 0x4C3800318200F530: Haute Knights
+   [3E8] 0xAAA86E6072F4D156: Ep7UnicornLoreBook1 DO NOT TRANSLATE
+   [3E9] 0xF5B1037741376F97: Ep7UnicornLoreBook1Author DO NOT TRANSLATE
+   [3EA] 0x3E4F97C85F677AC0: This Bites: A Guide To Raising Your Teenage Vampire
+   [3EB] 0xA713BF8385D54CE1: Dr. Draco Von Bruinvald
+   [3EC] 0x0F4E0F4FAB40079B: GrrrROWLF!!
+   [3ED] 0xB3CD077DD8216BFE: Snnrrrlglrrff
+   [3EE] 0xC7504625EBD8E5B1: Which Witch?
+   [3EF] 0x59A07B2AD0A5E8C4: Aaron Schmidt
+   [3F0] 0xC553D457D8E88BCA: Finding four insects was just a simple test to see if your Sim could handle the first step in Alchemic Mastery. There’s still much more to do!
+   [3F1] 0xFEE117574F61227E: Any Sim can become a great alchemist, but achieving Alchemic Mastery is something few individuals can achieve. It won’t be easy but for those who dare its quite an accomplishment!
+   [3F2] 0xFA3998227DEC749C: Don’t worry, even though your Sim hasn’t achieved Alchemic Mastery, they’re still a good alchemist.
+   [3F3] 0x08E4F122857B1AF3: Find four insects of any kind and return them to the Science Lab.
+   [3F4] 0x3F85C422A52CF961: Alchemic Mastery
+   [3F5] 0x0C35A0DD16FE9EE1: Find four insects of any kind and return them to the Science Lab.
+   [3F6] 0x7AABC18273E9D821: That was a piece of cake! Or maybe it wasn’t so easy… Regardless, your Sim is well on their way to achieving Alchemic Mastery now.
+   [3F7] 0xA459F1C4A4C70AEF: Buckle up because now things are getting serious! Your Sim handled the first challenge with aplomb, but will they be able to continue in their quest for Alchemic Mastery?
+   [3F8] 0xAEEA623A45CF214B: Have no shame, few Sims even managed to get this far in achieving Alchemic Mastery. 
+   [3F9] 0x340E0139FFC4FE34: Return the following three Nice Quality or better harvestables to the Arboretum: Wolfsbane, Mandrake, and Red Valerian.
+   [3FA] 0x699EF63A1E8FE336: Alchemic Mastery
+   [3FB] 0xA789BEF683530916: Return the following three Nice Quality or better harvestables to the Arboretum: Wolfsbane, Mandrake, and Red Valerian.
+   [3FC] 0x42795F14F5AC19BC: Who can proudly say they achieved Alchemic Mastery? Your Sim, that’s who! Your Sim’s reputation will precede them among the tightly knit alchemy circles.
+   [3FD] 0x626BE9A3BA99AEF8: Precious gems and metals hold the key to unlocking Alchemic Mastery. Nothing can stop your Sim now in separating themself from a common run of the mill alchemist.
+   [3FE] 0x52477C2F40C04ED2: Unfortunately your Sim isn’t Alchemic Mastery material. They were so close, but it wasn’t meant to be. 
+   [3FF] 0xC9BDBD2F83E71231: Return any two of each Gem or Metal to the Vault of Antiquity.
+   [400] 0x96B9C82F67476517: Alchemic Mastery
+   [401] 0xD0FB45E916299683: Return any two of each Gem or Metal to the Vault of Antiquity.
+   [402] 0x1EED74C2BD35A8EB: Deliver the Objects
+   [403] 0x52C5DA03798438E4: Forsake the Fae
+   [404] 0xA53B338481D37081: Forsake Vampire
+   [405] 0x45319C5EB18A02CE: Forsake Werewolf
+   [406] 0xDF856C74B721FDC2: Forsake Witchitude
+   [407] 0x2C7640080EE3856D: Help Investigation
+   [408] 0x01310B6249FB1A11: Plasma Orange Juice
+   [409] 0x2320A47D9847FF28: Supernatural Surprise Gift Box
+   [40A] 0x28853DD5A11E9F33: Select this gift to send your friend a surprise elixir! Your friend will be delighted to receive this little tincture of magic! Nothing will be removed from your inventory.
+   [40B] 0x4A499C6A9C7018CF: The Sims™ 3 Supernatural Install
+   [40C] 0xF785E5658443FC9C: The Sims™ 3 Supernatural Installer
+   [40D] 0x4A52E689D7388EB7: Print
+   [40E] 0x6A23981DBCFC7975: Do you want to completely remove the selected application and all of its features?
+   [40F] 0xFDA1B35E0C4275AF: Fairy Wing Type
+   [410] 0xE7962D4FC50C603F: Supernatural Type
+   [411] 0x062A6DABA9D454DC: Brewing Elixirs...
+   [412] 0x4E6D36B193CC31E4: Preparing Untold Fortunes...
+   [413] 0x4E6D36B193CC31E5: Verifying Existence of Fairies...
+   [414] 0x062A6DABA9D454DF: Braaaains...
+   [415] 0x062A6DABA9D454DE: Reading Palms...
+   [416] 0x062A6DABA9D454D9: Asking the Mirror...
+   [417] 0x062A6DABA9D454D8: Planting Jelly Bean Seeds...
+   [418] 0x062A6DABA9D454DB: Determining Moon Phase...
+   [419] 0x062A6DABA9D454DA: Polishing Wands...
+   [41A] 0x062A6DABA9D454D5: Instantiating Werewolf Claws...
+   [41B] 0x062A6DABA9D454D4: Tricking Out Magic Brooms...
+   [41C] 0xDE6F0120B4C10691: No game disc found! Please insert The Sims™ 3 Supernatural disc before proceeding.
+   [41D] 0xF069928D19067695: No game disc found! Please insert The Sims™ 3 Supernatural disc before proceeding.
+   [41E] 0x32E08276FDE86860: You placed the Fae Ray Gardens. This is a great place to meet other fairies living in town.
+   [41F] 0x36D8A197E23FB98F: You placed the Gypsy’s Landing. Go here to have your fortune read!
+   [420] 0x38292118C4C6D4CD: You placed the Hallowed Grounds Cemetery. Come here to hang out with some ghosts.
+   [421] 0x84111DAA40809BEE: You placed Aleister’s Elixirs and Sundries. Buy and sell your favorite elixirs and ingredients!
+   [422] 0xF0D0D92058183F1A: You placed the Library of Lore & Vault of Antiquity. Go here to learn all about Supernatural lore.
+   [423] 0x1E7990A4D5BDD699: You placed Varg’s Tavern. There’s no finer place for to hangout and have fun.
+   [424] 0x301007CE8E36AFB8: When making Elixirs, try using a Werewolf to hunt for ingredients, or use the Gem Cutting machine to turn your Gems into multiple Gem Powders.
+   [425] 0xE1ECFBFBA6EC9598: Fairy Auras will provide benefits to nearby Sims but will also slowly drain your fairy’s magical power. 
+   [426] 0xE1ECFBFBA6EC9599: Howling at the moon near other Werewolves will cause the others to howl along with you!
+   [427] 0xE1ECFBFBA6EC959A: Even werewolves need fashion too! Try using an everyday outfit as a special outfit while in Werewolf form.
+   [428] 0xE1ECFBFBA6EC959B: Are cars too boring and brooms not fast enough? The LLAMA is your ticket to fast travel around town.
+   [429] 0xE1ECFBFBA6EC959C: Looking for a quick pick-me-up? Ask the Magic Mirror for a Magic Makeover to brighten up your Sim’s day.
+   [42A] 0xE1ECFBFBA6EC959D: Try experimenting with the different magic wands. Each one will have a different effect on your Sim’s magic spells. Try them all!
+   [42B] 0xE1ECFBFBA6EC959E: With a little experience at the Magic Broom Arena, Sims can learn impressive stunt rides.
+   [42C] 0xE1ECFBFBA6EC959F: A happy bee is a busy bee, which means higher quality honey with fewer stings. Try smoking the Beekeeping Box to keep the bees happy.
+   [42D] 0xE1ECFBFBA6EC9590: Witches will learn Alchemy Skill and discover new elixirs faster than other Sims.
+   [42E] 0xE1ECFBFBA6EC9591: Witches with Cats or small pets get extra boosts when casting spells!
+   [42F] 0x301007CE8E36AFBB: Your Elixirs will be more likely to sell at the Elixir Consignment Shop during a Full Moon.
+   [430] 0x301007CE8E36AFBA: As your Werewolf becomes more experienced, you will be able to pass on the Werewolves Curse to other Sims!
+   [431] 0x301007CE8E36AFBD: Zombies, Toadified Sims, and Tragic Clowns are not fully fledged Supernatural Creatures. They have been transformed and may return to normal Sims in time.
+   [432] 0x301007CE8E36AFBC: Fans of Ghostly Encounters should visit the Graveyard during a Full Moon.
+   [433] 0x301007CE8E36AFBF: Fortune Tellers can earn Simoleons on the side by performing private readings or holding psychic conventions!
+   [434] 0x301007CE8E36AFBE: Witches get a special discount at the Elixir Consignment Shop.
+   [435] 0x301007CE8E36AFB1: Witches are masters of the elements with spells like Ice Blast and Fire Blast, but be careful! Expending too much magical power can leave all of your spells fizzling.
+   [436] 0x301007CE8E36AFB0: Toad Sims can eat the flies that buzz around dirty dishes. For a sweet treat, the Toad Sim will even eat bees at the Beekeeping Box!
+   [437] 0xC678A8A7E00A9BC7: Supernatural
+   [438] 0x3B1D2C81D3BDFD56: This action is disabled while transformed. To enable, swap back to human form.
+   [439] 0xC2E07073F2BC6F38: The Expansion Pack required for this feature isn't installed.
+   [43A] 0x8D69D3D3DD0C6E3F: Fairy
+   [43B] 0x94401B8A3CB48345: Change Wing Color
+   [43C] 0x6FF17BEEFDA40B14: SimBot
+   [43D] 0xAC415F4B8901F6BA: Cannot change gender while transformed. To modify gender, swap back to human form.
+   [43E] 0x77230EDFC2A2134C: Genie
+   [43F] 0xE6B919E0018C7DA5: Ghost
+   [440] 0xA44B1EE62501D903: Human
+   [441] 0x8597E819FEA3105B: Imaginary Friend
+   [442] 0x6BE5030FA191FE9D: Mummy
+   [443] 0x4C099839C520494A: Vampire
+   [444] 0x4EE01069EEF96C1F: Werewolf
+   [445] 0xCAE50026176D19BC: Werewolves have two forms and can customize each form. To swap forms, use the Transform button above the Sim Portrait.
+   [446] 0x5F6DD056EB692761: Witch
+   [447] 0xC560B9E19F148F8B: EA Maxis Label
+   [448] 0x0AD38A0F6B0B3F8D: Senior Vice President, COO
+   [449] 0x1476B1944C93B474: Senior Vice President
+   [44A] 0xEF99BEA2669425D0: The Sims™ 3 Supernatural Team
+   [44B] 0xC3AB7CC9C2F5A2ED: Recording courtesy of Shoot The Noise
+   [44C] 0x88CD45638F018C93: Performed by Khursor feat. Sarai Givaty
+   [44D] 0x7DCC2EA6C05F73E9: Published by The Punk Rock Seesaw Club (BMI) and Sarai Givaty Music (BMI)
+   [44E] 0xFD1DB591A80D7F16: Written by Michael Wandmacher and Sarai Givaty
+   [44F] 0x48BFE678EBB452BB: Recording courtesy of Columbia Records by arrangement with Sony Music Entertainment
+   [450] 0x552D4E0FBA12F091: Performed by MS MR
+   [451] 0x971B1C126F3144FF: Copyright Control
+   [452] 0x12C216720D94A378: Written by Elizabeth L. Plapinger and Alexander Max Hershenow
+   [453] 0x776EF0D3B91EC683: Recording courtesy of Century Media Records
+   [454] 0x5D999058BB403309: Performed by Lacuna Coil
+   [455] 0x739C372394ED1F67: Published by Songs of SMP (ASCAP)/Spectrophonics, Inc. and High Speed Chase/Kobalt Music Publishing America, Inc.
+   [456] 0x9E6EE2C288158570: Written by Cristina Scabbia, Andrea Ferro, Cristiano Migliore, Marco Biazzi, Marco Zelati, Cristiano Mozzati and Don G. Gilmore
+   [457] 0x02EAD02655715FFC: Performed by Vampire Twins
+   [458] 0xD9E7330A047E619D: Written by Charlton Pettus
+   [459] 0x34A4A3DD4DBD7CCC: Recording courtesy of Virgin Records Ltd.
+   [45A] 0xBA9503B25B9F8290: Performed by Bastille
+   [45B] 0x61F0E9CBA3B1102E: Published by Universal Music Publishing
+   [45C] 0xCF70E6A7F8DDFF99: Written by Bastille
+   [45D] 0x3385E9BD9AA48BD6: Recording courtesy of Stun Volume
+   [45E] 0x52D58E75CC86EE2A: Performed by Garbage
+   [45F] 0x9BF3AC1FD6400838: Published by Vibecrusher Music administered by Kobalt Music Publishing America, Inc.
+   [460] 0x324B6F09B4F177CF: Written by Shirley Manson, Douglas Erickson, Bryan Vig and Steve Marker
+   [461] 0x7A605D15898C560B: Recording courtesy of Domino Records
+   [462] 0xAF0A2F4E9FA27BA1: Performed by Austra
+   [463] 0xB872FD5C9E76A68F: Published by Domino US Publishing Company (SESAC)
+   [464] 0x57D08E9CB0432B68: Written by Kaitlin Stelmanis
+   [465] 0x155BFA941DECBA51: Performed by Ladytron
+   [466] 0xCA6719BAFDFE2938: Written and recorded by Daniel Hunt
+   [467] 0xD4B0FA4DC50FBA30: Recording courtesy of Warner Bros. Records by arrangement with Warner Music Group Video Game Licensing
+   [468] 0xA46EB112DD5965FC: Performed by Sabi
+   [469] 0xF64C3440E1052E7A: Published by Dat Damn Dean Music/Universal Music Publishing, Prescription Songs/Kasz’s Money Publishing administered by Kobalt Music Publishing America, Inc.
+   [46A] 0xE24E8C7B7C9CF79D: Written by Esther Dean, Henry Walter and Lukasz Gottwald
+   [46B] 0xC89454F3F804C138: Recording courtesy of Glassnote Records
+   [46C] 0x82A1018969F79E74: Performed by Oberhofer
+   [46D] 0x68D361970F7B77A2: Published by Universal Tunes/Songs of Universal, Inc. (SESAC) 
+   [46E] 0xAA30E16823E1F3F5: Written by Bradley James Goodman Oberhofer
+   [46F] 0xB353E082285E83CF: Change Wing Color
+   [470] 0x5920C441FA0F93CA: Cannot change age while transformed. To modify age, swap back to human form.
+   [471] 0xFBF52D72C6414B67: Willowed Wisps
+   [472] 0xFBF52D72C6414B64: Dreamy Dragonfly
+   [473] 0xFBF52D72C6414B65: Majestic Monarch
+   [474] 0xDD63D4872BFD2F99: Change Wing Color
+   [475] 0xFBF52D72C6414B62: Super Swirly
+   [476] 0xFBF52D72C6414B63: Fanciful Ferns
+   [477] 0xFBF52D72C6414B60: Busy Bumblebee
+   [478] 0x892E130BCDE9548B: Body
+   [479] 0xB7F993FB4CE4371E: Head
+   [47A] 0xFFAA32614F1650D6: Imaginary Friend Basics
+   [47B] 0x00D2111B363F1B28: Mummy Basics
+   [47C] 0xD8C0CC1E4D8D7A61: Specific ages are required for this selection.
+   [47D] 0x4966B726F67CB89E: Only one hairstyle is available while transformed. To specify hairstyles per outfit, swap back to human form.
+   [47E] 0x18C6CC26669ED6E5: SimBot Basics
+   [47F] 0x12C111E62629001D: Transformation is disabled while editing body hair or tattoos.
+   [480] 0xDD631A67483FE33E: Transform
+---

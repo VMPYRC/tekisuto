@@ -1,0 +1,97 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x5C) ---
+   [00] 0x3598BB305716C53E: The Sims™ 3 70s, 80s, & 90s Stuff
+   [01] 0x6B74FD46CC11B886: The Sims™ 3 70s, 80s, & 90s Stuff Install
+   [02] 0x0E7C720B3856CD91: The Sims™ 3 70s, 80s, & 90s Stuff Installer
+   [03] 0x3C2F1920D20D54C1: Do you like video electronic games? Then get ready for the new standard in electronic entertainment!  Fast reflexes and a keen eye are required to survive the ultimate war between Blips and Pixels. Featuring graphics so advanced you can see them, and sound so good the little theme song will be stuck in your head for the rest of your life! Become a joystick master and beat the High Score in Blips Vs. Pixel!!
+   [04] 0xC84445B1478BB342: House your precious paper in a fortress of metal. The IndustroShelf has the strength to support 57,000 books, even though it only has space for about 20. Have all the bookshelf you’ll ever need plus much, much more with the unbreakable IndustroShelf!
+   [05] 0xA05ABC4CE378B088: As you well know if you follow the latest trends, things that don’t curve out at wild angles are barely even worth looking at. Luckily we understand, and we’re sure that you will appreciate the dramatic angles of the Wild Wedge Dining Chair. After admiring one of our fashionable chairs, you’ll realize just how disgusting straight-backed chairs really are. Buy a Wild Wedge, and get with the curve!
+   [06] 0x750F218D76B626BE: Wear and tear looks so hot on furniture, but it can take years to achieve the right effect! Wouldn’t it be nice if you could just skip all that time and effort with money? You can!! For a modest fee, we will expertly distress your easy chair so that your brand new furniture looks old and used. It makes so much sense, it’s almost ridiculous!
+   [07] 0xC60B795F05319E58: The hottest fad to hit the world of furniture in decades is the swivel movement! And with the Bateman Swivel Chair, swivel has really come into its own, commercially and artistically. The whole seat has a crisp, clean movement and the sheen of consummate professionalism. You’d be psycho not to buy one!
+   [08] 0xDC00983230E593AF: We know what you want in your furniture. You want it low, and you want it wide. It’s a style that’s here to stay, so we’re providing all the low and wide you could ever want with our latest Low Wider Lounger. You can’t NOT sink into the comfort of this slick lounge chair. Easy to get into, hard to get out of – The Low Wider Lounger.
+   [09] 0xF157A91A6154212F: Expecting guests? Lead them through the arch that says “You just entered the party,” or, depending on the direction they’re going, “Hey, you’re leaving the party!” Modern and daring, this arch inspires so much fun you’ll want to start a party on both sides at once. Party forever with the Party Arch!
+   [0A] 0x03E612942C39228D: Nothing says groovy like a fire hovering a few inches off the floor. It’s the greatest, oldest technology packaged in a far out, modern way. The fireplace will warm the room, and knowing you own something this cool will warm your heart. WARNING: Placing a pet bed beneath the Hoverflame Floating Fireplace is a terrible, terrible idea.
+   [0B] 0x8829B55E742719DD: Using a lamp to light your room? That’s okay if you like doing the bare minimum. Two lamps? Better, but you’re not quite there yet. For the ultimate lighting experience you must have the Trips Lamp with Triple-Lite Action! It’s your key, fill, and back all in one sleek unit. We recommend the popular “two up, one down” configuration!
+   [0C] 0xEC346944477B0964: Grab your knobs and get ready to play the sport of tomorrow, neon style! Imagine a future where movement up and down the soccer field is illegal! The only moves available are strafing left and right, and bicycle kicks. Will you have what it takes to be a neon champion?!
+   [0D] 0x042EA3D1D482CED3: Slam a pick down the strings of El Grungo, and you’ll agree: dirty garage rock has never sounded this good. It only plays power chords! Produce a sound so incredibly powerful, you’ll have legions of fans standing in place and lightly nodding their heads. El Grungo: you’ll almost feel something!
+   [0E] 0x8B5BE2C2CB4A04C1: Inspired by a sandwich he bit into once, Hermann Von Lohffseet designed this brilliant sofa to suggest waves of tangy condiments splashing out of the sides as pressure is applied to the middle. Play some new wave tunes on your hi-fi stereo and chill out on this awesome loveseat.
+   [0F] 0xDA088909A241D409: This bunny does a hip little dance by wiggling his square-ish body. Featuring an attractive selection of bright colors – it certainly is hue-y! The good news is it won’t cost you a lot of Simoleons to have this fun work on your wall.
+   [10] 0xC9D877713521E757: No one knows the identity of the short-haired woman that appeared in all those pin-ups, but our friend Marty totally swears that he saw her in a laundromat once. Hang one of these classics in your pad, and show everyone how you’re all modern and understand fashion and stuff.
+   [11] 0xC7E244B50935CC57: Each decade brings its own distinct visual style that makes its mark before being forever frozen in time. However, through all the years the poster has remained the best way to display those styles on your wall.
+   [12] 0xBDFA1A364E8BC8D9: Think you’ve got the skills to put up the high score? You’ve never faced a challenge like El Fuego! Navigate through El Fuego’s terrible traps and unlock his secret score multipliers. Score high enough, and you might even face El Fuego himself!!
+   [13] 0x6181B2AB0488C0BB: Well you can tell by the way my floor lights up, I’m a dancing Sim – I love to strut. Just install one of these instant parties in your floor, and you’ll want to dance dance dance the night away. Constantly! Even when there’s no music! The party never, ever, ever ends once you’re on The Dance Floor!
+   [14] 0x2687BC00790D0DE1: With the Starlight Party Ball, you can make any boring old room look totally galactic! Its radical blast of brightly colored stars opens up a universe of fun. And just like the real thing, each star is powered by tiny nuclear fusion reactions!
+   [15] 0x953090781DE99BB2: What is the most attractive way to display a plant? The correct answer is orb. Make your place of living more attractive with many Suspended Plantorbs. Simply hang, and observe. It is pleasing. Suspended Plantorb: Definitely Made by Humans.
+   [16] 0xBE1ABBD2AD93D0D1: Enjoy the clever juxtaposition of organic vs. steel with the JuxtaPlant. Marvel as the living flora struggles up from its cold, industrial prison. You can tell all of your friends it’s an allegory for something and they will totally believe you.
+   [17] 0xA1105FFC90C86806: Kids and adults love Lightsplosion! Using the newest breakthrough technology, Fiber Optics, the Lightsplosion! can fill any space with a million tiny lights. It’s the same tech they use on the space shuttle! Part light, part sculpture, all future – Lightsplosion!
+   [18] 0x053432946897900E: The perfect complement to our famous “The Dance Floor,” this electric wall sculpture will bombard your party pad with all the light and color you could ever need. Show your friends that the party doesn’t end with the floor – it’s all around them! The Dance Wall: It’s a little bit of dance floor… for your wall.
+   [19] 0xDD38D0D8D52E8936: There’s no simple way to capture the look and style of an entire decade, unless you’re talking about the 80’s in which case it’s random colors and shapes mashed together. If you want the 80’s on your wall, this is definitely the most direct route. Not 80’s enough for you? Now with NEON!
+   [1A] 0x4EC6F1F62FB8F4FB: Inspired by a chocolate bar he dropped on the ground once, Hermann Von Lohffseet designed the ChocoSofa to suggest delectable blocks of chocolate. Also, it’s a sectional sofa, and chocolate bars can be broken up into sections. Von Lohffseet is a food-loving genius – that’s all we’re saying.
+   [1B] 0x4ED439EF8DEC2DB3: What ChocoSofa could be complete without the ChocoSpacer? Hermann Von Lohffseet designed this ottoman to suggest delectable blocks of chocolate. This ottoman can serve to break the ChocoSofa into sections.
+   [1C] 0x0663FBB227663946: Has your box got all the boom you could possibly need? It will once you invest in the Boomin’ Box, the Hi-est, Fi-est mega stereo ever assembled. It’s got the bass, it’s got the watts, it’s got noise cancellation out the wazoo! It’s got 32 different types of woofer! It’s got more dials and switches than you’ll ever know what to do with. What are you waiting for??
+   [1D] 0xA3DC5CEB77FB1793: The Stereophonic Super Cabinet plays every kind of music imaginable: records AND tape cassettes. You can be the master of all sound with only one medium-sized piece of furniture. We’ve even thrown in a radio! No home is complete without an all-in-one music center like the Stereophonic Super Cabinet. Only weighs 1000 lbs.
+   [1E] 0x234042505C7BC675: Start a few conversations with this shocking new coffee table from Nuthin’ But Neon Furnishings. You can’t catch lightning in a bottle, but you can keep it in front of your sofa! Zzzzap: guaranteed to be the last coffee table in the phone book!
+   [1F] 0x7217C0697857D45C: It’s no secret that every piece of furniture is an opportunity to showcase your appreciation for high art. And with the unflinchingly transparent surface of the High Art Dining Table, there can be no secrets. As you sit exposed, your every move laid bare for everyone at dinner to see, you will know true art. It’s also super easy to clean!
+   [20] 0xACE3E0614289E0F2: Here it is! The first place winner from our “YOU Create-a-Table” contest. As you recall, the challenge was to build something amazing out of four rods and two sheets of metal, and I think we can all agree that you couldn’t make a much finer table than this. Congratulations, Ed Beaver of Southburg!
+   [21] 0x11C2F819E59B18C1: Looking for a place to store several hundred pounds of physical media? It’s no longer enough just to stand a TV up on some tray table. You need space for all those video cassettes, beta cassettes, audio cassettes, and, if you can afford them, CDs. Keep all your entertainment in one place, and you too can Have-It-All!
+   [22] 0xDAA32AA2F4574170: Here is the television set that has everything you’ll ever need for an optimal TV viewing experience: twin antennas for unparalleled reception, a curved screen to cut glare, and both vertical AND horizontal hold! Not only does it provide a brilliant picture, but it even has a speaker so sound can come out! No one tops a Zeemuth!
+   [23] 0x9A583261280318BE: Blips Vs. Pixel
+   [24] 0x0B8850DF8F2AA835: IndustroShelf
+   [25] 0x157D49809B601E85: Wild Wedge Dining Chair
+   [26] 0x9D531D5A1CFAF419: Designer Distress Easy Chair
+   [27] 0x02BE1F263AF6F637: Bateman Swivel Chair
+   [28] 0x68C74546C0C0FA98: Low Wider Lounger
+   [29] 0x359B2B2034F9C0CE: Party Arch
+   [2A] 0x2F452C9E6751BD82: Hoverflame Floating Fireplace
+   [2B] 0x278E66C92FF08D68: Trips Lamp
+   [2C] 0x0FA7DDEF298ECDCB: Neonis Foosball Table
+   [2D] 0x5FBD2B1D09CE29CE: El Grungo
+   [2E] 0xB1D3DA34E21EFFEE: Flowover Loveseat
+   [2F] 0x5607A28CEAE45790: Hip Bunny Painting
+   [30] 0x3FF3DE91D35C8702: Rad Glamour
+   [31] 0x3096843D3EB3AFAA: Vintage Poster
+   [32] 0x7AC8B8D38C16F1AC: El Fuego Pinball
+   [33] 0x660BFDC219C7884A: The Dance Floor
+   [34] 0x401C3A18F7D2BF46: Starlight Party Ball
+   [35] 0x8D0A23FBC48024EF: Suspended Plantorb
+   [36] 0xFC963C81FE793830: JuxtaPlant
+   [37] 0x51C175CAA5578E73: Lightsplosion!
+   [38] 0xC6E187A2EC7EA1B5: The Dance Wall
+   [39] 0x2CAA80DE5D89E4EF: So Very 80’s
+   [3A] 0x9C038827E133FAE0: ChocoSofa
+   [3B] 0x157D691E65885AE4: ChocoSpacer
+   [3C] 0xCEA4A688B5ABC2B1: Boomin’ Box
+   [3D] 0xB31D28F9DD7BE032: Stereophonic Super Cabinet
+   [3E] 0xCF902B6593E6D16E: Zzzzap Coffee Table
+   [3F] 0xC67D7DF983951A1D: High Art Dining Table
+   [40] 0x5172B2CC4CCF4B2F: Create-a-Table
+   [41] 0xB1789F3C402CDC66: Have-It-All Entertainment Center
+   [42] 0x1E3304023A916013: Zeemuth Television Set
+   [43] 0x2F35414408FBD7A8: We are unable to verify that your disc is a  valid copy of The Sims™ 3 70s, 80s, & 90s Stuff.  Please contact customer service.
+   [44] 0x695BCC73373A00DC: No game disc found! Please insert The Sims™ 3 70s, 80s, & 90s Stuff game disc before proceeding.
+   [45] 0xF904CE8A6A0FEBBE: © 2013 Electronic Arts Inc.
+   [46] 0xADC98B064D4D6B0B: Feathering Hair
+   [47] 0x9AE246B55A8CE381: Putting Baby in a Corner
+   [48] 0xADC98B064D4D6B08: Stretching Spandex
+   [49] 0xADC98B064D4D6B09: Grunging It Up
+   [4A] 0xADC98B064D4D6B0E: Shaggin Carpets
+   [4B] 0xADC98B064D4D6B0F: Reticulating Plaid
+   [4C] 0xADC98B064D4D6B0C: Acid Washing Everything
+   [4D] 0xADC98B064D4D6B0D: Unpacking Brats
+   [4E] 0xADC98B064D4D6B02: Taking It to the Max!
+   [4F] 0xADC98B064D4D6B03: Following Dance Safety Protocols
+   [50] 0xF8A29A86E46C3B08: Music
+   [51] 0xD0F0332D6EEE7827: The Sims™ 3 70s, 80s, & 90s Stuff Team
+   [52] 0x90BE5F269C59883D: Lead Object Modelers
+   [53] 0x11199C43DBCB00EF: Maxis
+   [54] 0x5E21AE3A237AE1E4: QA Analyst
+   [55] 0x8322D142CF4AB768: Sr. QA Test Lead
+   [56] 0x407F1E15D4C58931: Senior Vice President, COO
+   [57] 0x33EDB183E52AC9FE: Senior Vice President
+   [58] 0xD73A935247666EE9: Senior Vice President, GM, The Sims
+   [59] 0x3BF35530A99BA27A: Tech Artist
+   [5A] 0x6D3CF36A1A95E08C: Vice President, COO, The Sims
+   [5B] 0xA6B256503726F30E: Arranged and Performed by Julian Conroy
+---

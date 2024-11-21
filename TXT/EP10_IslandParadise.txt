@@ -1,0 +1,1334 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x52C) ---
+   [000] 0x50921872526F0D98: An archipelago of islands surrounded by tranquil seas, Isla Paradiso is a place for relaxation, recreation, and exploration. Indulge with a stay at a resort, an adventurous boat cruise, or scuba dive into the depths in search of hidden wonders. Where will your adventures take you?
+   [001] 0xEEEDC95B6281BA5F: Isla Paradiso
+   [002] 0xB68579BE519BBF43: Sea Grass
+   [003] 0xBB0D823011513D0F: The Sims™ 3 Island Paradise
+   [004] 0x49B823EF238175C2: This planter is for placing trees on top of. 
+   [005] 0xD7F866A9EFF6CE65: Tree Planter
+   [006] 0x5BECB6F1E8D796A8: This Water Closet is truly closet sized, allowing you to take care of business in the most space-efficient and time-efficient manner possible. We call it space-time efficiency! What’s that smell? Could it be… the future?
+   [007] 0x0885FE4148D884FF: When there is a need to create a grand entryway between two sides. The Grand Arch of Arches has the necessity to create the perfect visual portal to the next side. Many Sims will pass underneath this colossal arch and acknowledge the work that is put into building such a beautiful structure.
+   [008] 0x5A47E8C6E332023F: When there is a need to create a grand entryway between two sides. The Grand Bell Arch of Arches has the necessity to create the perfect visual portal to the next side. Many Sims will pass underneath this colossal arch and acknowledge the work that is put into building such a beautiful structure. Though unknowing to many Sims, the bell on top doesn't actually ring.
+   [009] 0xB3C3ED3DBE889304: At Gambles, we know when to hold on to a good idea! When you want to create a folded chair, you don’t walk away from the opportunity. So when you run down to your local Gambles, make sure you pick up one of these stylish chairs on sale. Hurry, before this deal is done!
+   [00A] 0x3261BDCCFBD521FE: If you’ve ever wanted a shower that looks like it belongs inside an old missionary operated by middle-aged real estate agents then have we got a treat for you! The Penultimate Deluxe is the last word in exceptionally high-quality showers, or at least the next-to-last word. For the second-fanciest shower you’re ever likely to find, make it the Penultimate Deluxe!
+   [00B] 0x985F53928AB2A41C: (hidden) Relaxing on the ground is not complete without using a beach towel. Its bright print and comfortable fabric will make Sims stay for hours upon hours.
+   [00C] 0xB31DDB8F373754B0: (hidden) Tried of getting burned? The umbrella and beach towel combination will prevent Sims from all the natural hazardous effects from the sun. It’s a great option for those that aren't used to being outside.
+   [00D] 0x2F5566E7128B531A: The Tropicalio Bedstead features a frame so simple, it’s fancy. And if that doesn’t make sense to you, maybe you need to look for a different bed. Bedstead aficionados will recognize its fine charms right away. Includes mattress!
+   [00E] 0x8F37D2D07C15DDE7: Despite the misleading name, a Bird of Paradise isn’t actually a bird! Well, actually, there IS a bird called the Bird of Paradise too, which just makes it more confusing! After too many mix-ups in the shipping department, we’ve modified the name to be more accurate. You’ll thank us later.
+   [00F] 0x5690ACE3C076780D: All fear the mighty Slade! Guffaw at Poseidon's paltry influence as you cleave his nugatory waves, Slade evermore your trusty steed! Darn the currents, curse the interminable briny expanse, and meet head-on any who dare impugn Slade's honor! Kids love it too!
+   [010] 0xF45BB8939D976FB9: “O CAPTAIN! my Captain! our sailing trip is done;\nThis ship has weather'd every storm, the prize we sought is won!\nExult, O shores, and ring, O bells!\nAnd I, shall sail ahead\nMan that rudder with the skies\nClear and blue O’erhead.” 
+   [011] 0x167CEFB683CFB430: It’s fast, it’s fun, and it’s safe enough for the whole family to ride (but one at a time, for Pete's sake!) Aqua-Sled Watercraft: This time... it's personal!
+   [012] 0x862DA45761B7BA7B: Half a league, half a league, half a league onward. 
+All in the ocean of fun rode the cool speedboats! 
+"Forward, the Speed Brigade! Charge for the waves," we say! 
+Into the ocean of fun rode the cool speedboats!
+   [013] 0xF6F1163E4FBF7FC1: Even boats need to feel dirt beneath their hull now and then! Give them a nice resting place with this sturdy trailer from Aqua Transporter.
+   [014] 0x64BA6E33076CAFCA: It’s fast, it’s fun, and it’s safe enough for the whole family to ride (but one at a time, for Pete's sake!) Aqua-Sled Watercraft: This time... it's personal!
+   [015] 0x8C74FD0974D09D9A: Even if it's a teaser breeze or it's nukin', Laminar Wind Windsurfing Boards will have you ripping in no time. Shaka bra!
+   [016] 0x833CA2A15E3127E4: Smaller but no less functional, Laminar Wind Co. guarantees to bring out the maximum trick potential out of every grommet.
+   [017] 0x12EF518D2D8AFF4D: Those hungry guests aren't going to feed themselves. Well, actually they probably will. Make sure that they always come away happy by setting up The Grand Buffet at your resort. The endless amount of food that comes from this table is truly magical.
+   [018] 0x7902BC83FF709E4C: A cozy bookstore sharing a building with a ruthless corporation...add an attractive female and a handsome male and you have all the ingredients for a romantic comedy!
+   [019] 0xADD802FA4860B96C: Unlike most electronics, this camera works better underwater. Use this to take photos of the deep sea life in your underwater adventures!
+   [01A] 0x4A08E4C2628085F5: An economical choice, plastic chairs are a common sight for places needing to seat a lot of people. But with the added cushion, hardly anyone can tell you decorated with a such modest budget!
+   [01B] 0x5F45D9D01CE1AC8E: Get those swimming outfits out from the dresser as Sims start their career off with this custom lifeguard chair. Its elevated seat allow lifeguards to comfortably survey the beach for any Sims that need saving. Hot lifeguard is not included.
+   [01C] 0xA55C94E72B0DE55B: Nothing gives a room that homey feeling like an old-style chair – the kind that grandma and grandpa would sit in for hours watching TV or doing their puzzles. The Grandparents Chair is the quick, easy solution for anyone looking for that cozy feel. Each chair is tested by a battalion of professional chair-stressing grandparents to ensure maximum quality!
+   [01D] 0x630F5A5D2B9971E6: When you’re ready to get serious about your leisure, then pick up the chair used by professional relaxers in over 50 nationally-recognized competitions! The Sand Lounger is so stress-shatteringly laid back, you’ll wonder how you can even sit in it without a book and/or drink in your hand. Place one in your favorite stress-free environment, and start doing nothing as hard as you can.
+   [01E] 0x631D6F5D2BA5D2F5: There’s an excellent chance you’ll never fly a spaceship. Sorry to be blunt, but there it is. Of course if you want to pretend you’re flying a spaceship (without being too obvious about it) then you must purchase the Fantasy Starchair. Every time you slide into this sleek lounger you’ll feel like you’re prepping for launch. If you’re being subtle you probably shouldn’t tell people it’s called Fantasy Starchair.
+   [01F] 0x10F413A094DAF5D9: The military, police, and city officials all in one place, for your convenience, of course!
+   [020] 0x84E2B74691C87B6F: Round is in, square is out. Show off your modern sensibilities (and excellent taste!) with this modern take on an old idea.
+   [021] 0x08FDA1C41F108F20: Round is in, square is out. Show off your modern sensibilities (and excellent taste!) with this modern take on an old idea.
+   [022] 0xADADD040E25F3062: Round is in, square is out. Show off your modern sensibilities (and excellent taste!) with this modern take on an old idea.
+   [023] 0xC963FF1FCC394012: Not every column has to be stately – they are allowed to have a little fun! Inspired by the wild side of tropical life, this column will almost make you feel like you’re peering through the fronds of a vibrant rainforest instead of staring at a slab of granite.
+   [024] 0xEEDAA6B1B435C666: Beauty and function meet, hook up, break up, see other properties, get back together, and ultimately marry in the elegant design of the D-Fusion Light Column. In addition to adding an air of class to any structure, it also emits a soft glow that can help you from walking into its incredibly sharp corners.
+   [025] 0x7C6EDFA34E96B27D: Column experts agree that buying two columns with the intention of stacking them on top of one another is insanely dangerous. When one column isn’t giving you the lift you need, invest in the Double Column, featuring twice the delightful tropical art. It’s tall times two!
+   [026] 0xF50F10CB3DD7A261: No one here but honest pirates...
+   [027] 0x3617E179FCC1914A: Sit down, relax, and sip something sweet...
+   [028] 0x06BFAC9917EC8E3D: You’re smooth. You command respect. Should you expect any less from your arch? The Modern Stately arch is carved from fine marble and polished to a surface so smooth it makes silk jealous. Try pairing it with the “It’s Glass!” double doors for a classic look that’s sure to impress.
+   [029] 0x6AE9CF9D494A53D0: If you don’t like to throw stones, have we got a set of doors for you! Our semi-transparent doors are housed in attractive, sturdy frames and are not even a tiny bit shatter-resistant! Feel like you’re living in a glass house with the “It’s Glass!” double doors.
+   [02A] 0x1B80283F117CF8ED: Like the waves of the ocean, the lines of a palm leaf, or the feathers of a macaw, the effortlessly flowing lines of Nature’s Pass transports you directly to a tropical paradise. For maximum effect, we recommend installing a set of these beautiful doors anywhere that allows you to step out into a warm sea breeze.
+   [02B] 0x25C2439D6EDC0083: These simple yet welcoming doors are perfect for markets, resorts, or any other location where you hope to see a lot of people – even your home! Sturdy enough to handle high-traffic but light enough to let in the sea breeze. That’s the Bodega brand.
+   [02C] 0x1C1FF438C9BECEC5: Designed by insane Finnish zoologist, Knut Schoergllakee, the Crazy Zebra Door spits in the face of all architectural convention and then quacks like a duck for hours. Schoergllakee’s design practically dares you to stare at its insidious stripes without losing your mind. Eat the paradox.
+   [02D] 0xC70345B7C14AB694: The Wrought family has been making high-quality iron doors and fences for generations, and their current patriarch, Jacoby T. Wrought, has elevated their craft to an art form. Every door is so intricately styled that you’d never believe that Jacoby hand-makes each one in just under seven minutes. They’re built to last forever, which is why they carry the family guarantee: You’ll Never Be Over Wrought!
+   [02E] 0xA68F3152B6CD7290: Keep your car protected from the elements while showing off the pride and joy behind this translucent garage door. It will never fail to impress.
+   [02F] 0xC72704B66560489B: Turn your car port into the highlight of your home. Ramin's Rustic Garage Door is so exquisite that you'll strangely find yourself craving to hang out in your garage above anywhere else.
+   [030] 0x74A640326298FA04: What is a door? Is it merely a slab of wood with a handle on it? Could it not be more? Should it not be more? Don’t you deserve a door that looks like it could be on some elevator in some really fancy hotel somewhere? Wouldn’t that be great? Why not treat yourself to a Fancy For You Door today?
+   [031] 0x139E4083A6F2E9B4: There’s nothing worse than a door with a bunch of vertical lines running down it. Look out over that great horizon… What do you see? Do you see a vertical line? No! That would be madness. You see a HORIZONTAL line. That’s why it’s the horizon. This door celebrates the horizon by incorporating as many horizontal lines as possible. You’re welcome.
+   [032] 0x9B2609F60F097A09: These old bricks have seen many travelers walk across its paths.
+   [033] 0x2295AAB0531F5064: Urchins, stones, and seashells make for a colorful floor decoration.
+   [034] 0xB4219C6320C91300: The great thing about the beach is that nothing has to be fancy, but it can still be stylish and fun. We take that spirit to heart with the Fence By The Beach. It’s simple, stylish design is a perfect complement to sandy dunes and summer breezes.
+   [035] 0x06183267A2FC14B3: The great thing about living by the beach is that you can be as fancy as you want, and nobody thinks twice because you live by the beach and they probably assume you’re rich and weird. Show everyone you are absolutely not messing around with the Serious Gate. It’s so ornamental, you’ll feel bad walking through it without a top hat.
+   [036] 0x965D3A6763F2AE56: Designed to complement the incomparable Serious Gate, this fence will broadcast to the world at top volume that you like things to look nice, even when they provide a very basic function. You can’t have fancy without fancy, and this fence provides.
+   [037] 0x6C1F0EB9376F8853: This original design takes all the fun of the beach and brings it anywhere you can install a fence! Its charming silhouette is sure to put a smile on your face and help you forget the countless surfers who died to provide the broken boards for its construction.
+   [038] 0x2B7F9E84D3B97490: Even the islands can get cold at night. Nothing beats gathering around your own personal bonfire with family and friends. A warm fire with warm company – that’s island living.
+   [039] 0x593F29F5DCE1E88B: Designed by Philip Hotman, the Flameo Firepit gives fire something it’s been missing: a little class. With Flameo, you can finally contain those chaotic jumping flames within a cool, sleek, white exterior. By all means, stay warm – just stay cool while you do it. Flameo, by Hotman.
+   [03A] 0xB31FE88DDCAC7520: The ultimate test of mind over matter, Sims have been firewalking as long as they've had feet (which, given their propensity for firewalking, was not always a given). Will you cleanse your soul or singe your soles on the Coal Stroll?
+   [03B] 0x51B26004C6DF3C2C: Enjoy a fun snack or drink while relaxing poolside or at the beach. A friendly attendant is always there to help you with your hunger needs. The best thing is that everything is free!
+   [03C] 0xFD6E014446E5127C: Don't call it a food stand or you might just get plantain to the face. This food counter serves up some serious gourmet snacks and drinks to resort guests in style.
+   [03D] 0x306981B1702214CD: The original plan was to sculpt an entire whale, but the money dried up halfway into production and the artist bailed for a more lucrative position with an architectural firm. Never one to waste, the woman who commissioned the statue transformed her half-a-whale into this breathtaking art installation.
+   [03E] 0x2431A97BD148EBA9: This charming sculpture celebrates the guardian Xopeckuato, spirit of endless oceans. Young and old alike will be delighted by his deep blank stare. The intricate tile work surrounding his visage is second to none in the world. Welcome Xopeckuato into your home or garden to remind you of the greatness of the open seas!
+   [03F] 0x2166D8815E844919: This gorgeous planter celebrates one of the great heroes of river and ocean, fish astronaut “Bucky” Glubberson. He was the first fish ever to explore outer space, meaning the space immediately outside of his pond.
+   [040] 0x9D125CA2E15C5B70: This beautifully constructed front desk is the *Ding-Ding!* result of dozens of *Ding!* us bellhops' efforts, and *DING-DING* months *Ding!* of *Ding!* market *Ding!* research *DING-DING!* *DING-DING-DING-DING* How does that feel, huh? How do YOU all like it?!
+   [041] 0x96E11F1F59D57978: Gangways serve as the connection between ports and houseboats. Place one on each port so that houseboats may dock there. Make sure there's enough room for houseboats of all size to dock!
+   [042] 0x1561ABD48EEF5FDD: The Guardian has watched over the land since the beginning of time.
+   [043] 0x4ABCB50230ED3A05: Fresh produce and aged meats!
+   [044] 0x6C2E79D820A0D192: Sims take note: You cannot drive your houseboat anywhere without one of these! It will just be a house. (With a market niche like this, we don’t need fancy advertising)
+
+   [045] 0xAE0A6EE072BCC924: Our physicians are top notch, and our nurses are always ready with a smile! 
+   [046] 0x3161F906F1CD4FD9: Why swim with the sharks when you can relax with jets? High quality filtration and luxurious seats ensure you’ll feel pretty tonight.
+   [047] 0x30C36B39E71DDABA: Tired of ‘bladder failing’ into the pool all the time to help to warm it up? Well, now – wait, what do you mean no one does that? Of course everyone does! I mean... right?
+   [048] 0xE6498DBC03BC9F9B: This barge style houseboat hull is 15x10 in size.
+   [049] 0xFFA2FDBC11EA389C: This barge style houseboat hull is 20x15 in size.
+   [04A] 0x235EC10E0F7DA6AC: This barge style houseboat hull is 20x6 in size.
+   [04B] 0x84A627056A2AB485: This curved bow houseboat hull has 14x6 tiles of buildable space.
+   [04C] 0xAC030A0DCC6CE27B: This barge style houseboat hull is 10x8 in size.
+   [04D] 0x518D7193191EBBB0: This curved bow houseboat hull has 12x8 tiles of buildable space.
+   [04E] 0x6379E304336ABCD5: Part of an old map...
+   [04F] 0x8BC6D6ADEB843EFF: Kelp is tasty.
+   [050] 0xAE2E1F82D6D21503: Kelp is the grass of the sea...only it grows really, really tall.
+   [051] 0x58BE8363DA577451: The leaves of the kelp plant reach high to the surfaces of the water, creating pillars of vegetation for fish to hide in.
+   [052] 0xE976C879F8C425D8: Mermaids can harvest Kelp to eat from this plant.
+   [053] 0xB698DCF019A10AD8: An unknown creature that lives deep within the seas. Rumors have it that this kraken will occasionally surface and attack unknowing boats. Not much is known about this creature and only a few have witness its enormous size.
+   [054] 0xAAC25F52D751F905: This unique "ladder" is actually anything but! Straight from a shoe factory assembly line in Isla Si'meppe, this piece was originally used as a device to assist with eyelet placement on gigantic novelty shoes. When that business venture failed spectacularly, the parts were stripped from the manufacturing plant and repurposed as this functional ladder.
+   [055] 0x7B4388E764472B7C: The perennial classic returns. The Candelier features an inverted dome ringed with high-quality candles, each secured in its own attractive housing. Their gentle brilliance will fill the entire room. Don’t just light your house up – illuminate it, with The Candelier.
+   [056] 0x564C4C0BA74F36EE: With the force of a mighty tempest, these three fixtures will rain down a tremendous storm of pleasing, diffused light upon your house. There will be no escape from their gentle glow, nor the cozy feeling they provide. Install the Conical Lightstorm and bask in furious comfort.
+   [057] 0xC854720614F50900: Take other lighting fixtures to school with this whimsical work of functional art. One easy installation, and a whole school of friendly fish will be happy to light the way. And the best part is, you will never have to feed them or flush them, guaranteed!
+   [058] 0x1693EF221168E62A: Everyone knows that the best source of light is candles. And everyone knows that the safest place to keep candles is around the floor. This attractive series of candles was designed specifically to be displayed on floors, the way nature intended. You can light your entire house with just dozens! Start collecting today.
+   [059] 0xF8BBF6F6A25D6756: The beach can be a great escape. Even leaving behind modern conveniences can be a luxury now and then. Bring a little old-fashioned light into your life with this sand-and-surf inspired hanging lantern. The warm glow from a few of these fine lanterns will set the perfect mood.
+   [05A] 0x60A2DA378B859955: The Paper Glowlamp is an exciting new product from furniture superstore Totes Quality Imports. Each unit is lovingly assembled by one of our certified lamp artisans, and covered with nothing but the very finest crumpled paper. Available in all Totes Quality outlets.
+   [05B] 0xEF370275132D1C9F: Here is an actual streetlamp. It was one of hundreds manufactured for the city during the last citywide reconstruction project, but due to a clerical error it was accidentally raffled off as a prize during the mayor’s office’s most recent “family fun day.” Apparently someone put it up for sale, because you now have the opportunity to own an actual streetlamp!
+   [05C] 0x92ED58B5BCEBDD0D: Worried that people are ignoring your streetlamp? They’re a fairly ubiquitous feature after all, and after awhile people just don’t notice them anymore! Draw those wandering eyes back to your beautiful streetlamp with this collection of attention-grabbing signage. Their bright colors and fanciful designs are sure to do the job!
+   [05D] 0x54DF69B42D3312D0: Are you ready for real island living? Sometimes on the island you have to learn to improvise – do the best you can with the materials at hand. That’s why we created this charming table lamp, featuring a base made out of driftwood, and a frame of branches.
+   [05E] 0xEDA26CF0CE11D165: Making fire is hard. Why not light up the night by placing a few tropic lanterns? The Tropic Lantern is sure to create the ambience needed for a cozy time with friends.
+   [05F] 0x18DD6537674D35CC: A stunning statement in water and light: the newest innovation from Hirschfield’s House Art. This exquisite lighting system will transform your home into a shimmering, living work of art. Don’t just light up your home – become luminescent, with Hirschfield's.
+   [060] 0x039779E46721AE93: Don’t you hate it when you stumble into walls that are just too dark? Tired of squinting at night to read that graffiti in the dwindling sunlight? Have we got a solution for you! Wall Lighting Solutions has just patented and produced over 10,000 units of our sensational new product: The Wall Light! Use it to light walls! Now THAT’S looking at a wall!
+   [061] 0xF35EA4EA8AA6C3EC: Above and below the horizon lie perfectly mirrored worlds of symmetrical illumination. Light up. Light down. Bring balance to the darkness. SymmetriLux.
+   [062] 0x1DF8121A899775D0: If this loveseat looks familiar, that’s because you’ve seen it in the background of the Garadeen’s living room every Monday night on the hit sitcom “Who Invited The Cheetah?!” This was an actual loveseat used in the production of the show, and has suffered little to no cheetah damage. We do not treat loveseats for odors prior to shipping.
+   [063] 0x82824246E0A1C2C1: With its simple yet elegant design, this charming loveseat looks exactly like the lovingly handcrafted furniture of a bygone generation. And it’s all thanks to our fully-automated, precision manufacturing process run by computers. Every heartwarming detail has been calculated by our propriety algorithms to evoke the most positive emotional response. Give in to statistics and buy one today!
+   [064] 0xAAD453502EE52A65: Featuring the mild curves and simple ornamentation popular in its time, this attractive leather bench is a worthy addition to anyone’s antique collection. Brass studs accent the carefully tooled leather for an undeniably classic look.
+   [065] 0x94130FF5874BD9EC: At Wrongways, nobody loves using things for stuff they weren’t designed for more than us. Just take our popular Surf Sofa! These surfboards were made for sport, but instead we just sit on them! Trust us: drop a Surf Sofa into the ocean and it will sink like a stone. 100% of its intended purpose has been removed! That’s the Wrongways guarantee!
+   [066] 0x9FB497DA3B403AB3: An expert in living on the high seas, Mr. Mariner rarely makes an appearance on land. His lifetime experience of undersea diving has made him become attracted to all objects involving water. Not many Sims have seen this diver Gnome, but he's known to be found in caves or hiding among the sea life of the ocean floor.
+   [067] 0x128973DAA99D8C34: Spawns sharks.
+   [068] 0x06476774BD2BF980: A pleasant resting place for your dearly departed.
+   [069] 0xF7CE740137CE353B: Strange things happen to Sims who eat this...
+   [06A] 0xF9C75A79E2E4FDCE: Spawns bottles with maps and messages.
+   [06B] 0xCDBA0797335B58BE: Need a place to dock the boat? The Mooring Cleat provides a sturdy post to safely secure a boat to the dock. It will guarantee that no boats will ever drift away when tied to one of these posts. Only one boat per Mooring Cleat please.
+   [06C] 0x21739115FE97BB82: Wild nights - Wild nights! If not at sea, mooring posts are more than luxury! Futile - the waves - to your boat when tied - you’ll know where to go, when you need a ride! Rowboats stay tethered - Ah, you’ll see! You should moor your boat - with me!
+   [06D] 0x3831AA91581A8E7C: A spray from this magical can will shoo off all those pesky mosquitos. Never will Sims worry about being a victim of nasty bug bites when this repellent is applied.
+   [06E] 0xB46BEDFD06B10C5D: Mosquito Spawner
+   [06F] 0x8EE66B9F6958FF30: Oh, those lazy summer days of our youth. The gentle breezes, the warming rays, the subtle ‘glug-glugging’ of our pedal-powered boats. Simpler times. Happier times. Carefree times. Being an adult is terrible, is what I’m getting at - it's just miserable - but they’ll never take our paddleboats!
+   [070] 0xF6C870E71FAEDE5E: A weathered map once used by a sea captain.
+   [071] 0xF6C870E71FAEDE5D: An old map illustrated by a famous explorer.
+   [072] 0xF6C870E71FAEDE5C: Captain Jack's treasure map, eh?
+   [073] 0x0B416ADA2A39D6ED: This painting depicts the evolution of the plumbob from the beginning of time to the present.
+   [074] 0xD3FE217179CD655A: Nothing says “I live near one of the major bodies of water” like one of these fine paintings. Hang one of these on the wall and you can practically smell the salty spray of the ocean in the air. Probably because you actually live near the ocean, which, if you’re purchasing a painting like this, is highly likely!
+   [075] 0x0402ACA1AA0208A4: Lantanas are some of the most beautiful plants around, and are utilized to provide unmatched color and elegance just about everywhere, from botanical gardens to highway medians.
+   [076] 0xAE21616F231DF22F: The bartender collects money, the swimmer gets a refreshing drink without leaving the cool comfort of the pool. Everybody wins!
+   [077] 0xFBEF4F74FAC8E110: The water keeps falling and falling! Where's all the water coming from? We could solve world thirst with this thing. Why are we wasting it on your stupid pool?!
+   [078] 0xC3577564A70B4049: Putting the 'Art' in 'Artificial,' this installable waterfall is quite the statement piece for your pool. We don't know what the statement is, because we can't hear it over the pleasing sound of cascading water!
+   [079] 0x1AF3C1599111D019: Oxygen, Hydrogen, and Gravity combine for a breathtaking display of plummeting liquids. Science has never been this refreshing before.
+   [07A] 0x99373D0D90A3BF0A: The beach looks even better when viewed from the top of this resort tower.
+   [07B] 0x5F21FE90779890E0: This Eco Modern Resort Tower combines luxury accomodations with environmental sensibility. The high density steel construction ensures that future expansions to the tower can be made easily. Reclaimed materials adorn each guest room and common area reminding guests that vacationing in style and environmental awareness can coexist.
+   [07C] 0x5058C68ACF8CAC0A: Vacation in style in the Island Beach Bungalow resort guest rooms. If you're looking for charm look no further because this is the end of line when it comes to charm.
+   [07D] 0x37D5100AFE7A49B7: Add some flair and extra space to your resort with this elegant yet casual tower. Architects have carefully designed this structure to withstand the test of time. The open floor plan leaves room for upgrades for those ambitious resort owners.
+   [07E] 0xB2E9D0070DD275EB: This is a large rock.
+   [07F] 0xB2E9D0070DD275E8: This is a large rock.
+   [080] 0xB2E9D0070DD275E9: This is a large rock.
+   [081] 0xBAB8BC45BA4D7B60: Low to the ground, this flat rock makes for great decoration on its own or as a complimentary piece in a rock garden. So smooth and peaceful, you'd almost want to sleep on it!
+   [082] 0xBAB8BC45BA4D7B63: Can you see the pensive lion in the stone's structure? No? Hmm…well maybe if you squint just right you can see a playful squirrel instead.
+   [083] 0xBAB8BC45BA4D7B62: Someone stacked two stones on top of each other in perfect balance, but don't worry. That boulder isn't going anywhere!
+   [084] 0x9048CEE0E3196EFC: Low to the ground, this flat rock makes for great decoration on its own or as a complimentary piece in a rock garden. So smooth and peaceful, you'd almost want to sleep on it!
+   [085] 0x9048CEE0E3196EFF: Can you see the pensive lion in the stone's structure? No? Hmm…well maybe if you squint just right you can see a playful squirrel instead.
+   [086] 0x9048CEE0E3196EFE: Someone stacked two stones on top of each other in perfect balance, but don't worry. That boulder isn't going anywhere!
+   [087] 0x5BCE660A4A1C7FB6: This is a large rock.
+   [088] 0xE9A481E744A771CC: “Buy, buy, buy this boat. You should buy this boat! Verily, verily, verily, verily, boat boat boat buy-our-boat!” 
+Look, we’re sorry; our poetry guy is on vacation right now.
+   [089] 0x7DE738BCC157B49F: Seashell slabs salvaged from sensibly suited suppliers solicit sensations of serenity when simultaneously swimming, sunbathing, or splashing.
+   [08A] 0xC5C32D50246A028B: Here in Accolades, children and teens get the best education free Simoleons can get. The prestigious school known for its superb general education along with a state of the art sports program attracts parents all across town. All the students here are provided the best education and sports training to prepare them in the future.
+   [08B] 0x18F5A3195D0EE524: Specializing in volcanic and aquatic sciences for over fifty years!
+   [08C] 0x1DFC68C030D527B1: Here marks a destination dive spot for all would-be deep sea explorers. The person who encounters such an item is sure to find adventure not too far away. 
+   [08D] 0x9DADB326D4647AF7: Do you sell parrots? Are parrots welcome in your establishment? Do you wish to communicate a general appreciation for parrots and parrot-enthusiast culture? It might be time for you to buy a parrot sign. If you don’t sell parrots though, just know that people might assume you sell parrots.
+   [08E] 0xA4F40E00E0CA1971: At Pescado’s we’ve been hanging fish for generations. Single fish, double fish, red snappers, blue marlins – we’ve done it all! If you want to let people know where the fish are, you want to display one of our premium hanging fish signs at your home or business. Available in a wide variety of delightful designs that are all fish.
+   [08F] 0x86556E34450D25A3: These triple decker fish balance themselves perfectly on their heads and tails. Many critics would say that this sculpture is outrageous in design. However, you can't predict what fish may do when fish are out of water.
+   [090] 0xD07228F543782542: Flowers are the natural beauty of the world. When placed inside a large sculpture such as this, it suddenly brings out the life and elegance to those around it. Go ahead! Place these beauties around and observe the pleasant view it brings.
+   [091] 0x8C09771A6AAD5709: Nelly was the best anchor that ever graced the bottom of the seven seas.... Imagine her surprise when the sailors cut the rope and left her on the ocean floor! Not one to complain about her plight, Nelly quickly befriended the local sea life, especially the barnacles.
+   [092] 0x62076FD448CEC575: Thanks to catastrophic earthquake damage and severe negligence while purchasing insurance, Hector’s Pristine Arches is now forced to sell off its entire inventory as Hector’s Faux Ruins! Save big on beautiful, hand-crafted arches that were basically decimated. Imagine what you’d get after throwing a blueberry muffin into a rotating fan – that’s pretty much what we’re dealing with here.
+   [093] 0xD9C40A9FDF0CD614: These canopies add a flair to the outdoor pavilions of resorts. Perfect for enjoying the sun while being in the shade.
+   [094] 0x25BCDBB9194954AB: All sorts of garbage ends up cluttering our sparkling oceans…these bottles are no exception. Help keep our oceans clean by recycling, and depositing trash in the proper receptacles!
+   [095] 0xB6FF1E262ABAE3D9: Although not really made of brain, I hear if you tickle it at just the right spot, you can get the ocean to sneeze!
+   [096] 0x2CE103A2154F4972: While attempting to move his inventory of broken arches, Hector accidentally drove his truck into a pottery factory and was forced to purchase their entire stock of smashed pots. Introducing: Hector’s Shattered Pots, the perfect companion piece to Hector’s Faux Ruins.
+   [097] 0x45367F9029A2280A: The most traditional of corals, the Candelabrum adds a classic touch to your deep sea décor.
+   [098] 0xE6EFE34A8E496871: Brought to you by Arrg-anic Antiques, we guarantee 100% authenticity of our wares. 
+   [099] 0xC107F1FED9FC62D1: A new trend of spikey tops has started among the coral scene. Those in the know can be found gathering together to show off their new threads.
+   [09A] 0x6088C7851A94882E: This lovely coral platform is perfect for entertaining all sorts of sea creatures... colorful fish, fearsome sharks, beautiful mermaids....
+   [09B] 0x12C475A8248E68AE: Few things capture that feeling of Island Living like a sun-worn, salt-blasted wooden sign. Whether they advertise food, shopping, or lodging, it’s a great way to get the tourists’ attention. With this hand-painted Fish Signage, you can let everyone know where the fish is!
+   [09C] 0x6ACE355D4D677036: It takes a long time for a clam to grow this big. How long? This clam, she isn't saying much about her age... but with age comes beauty in the guise of giant pearls.
+   [09D] 0xDBE7BA9596A32514: Now is the time to get in on the exciting world of Olmec colossal head collecting! This rapidly growing hobby has caught the fascination of young and old alike, and there’s never been a better time to be a collector. Unlike stamps or coins, Olmec colossal heads refuse to be ignored! No one alive owns more than one. Can you beat that record?
+   [09E] 0x6604E09BB3D43CCE: This amazing sculpture perfectly captures the motion of kelp growing deep in the ocean, ever reaching upward toward the sun as it rolls back and forth in the currents. If that’s too boring for people you can tell them it’s a giant octopus attack.
+   [09F] 0xD8AC428DA1F4F57C: Feel the supple texture of its surface. That's how you know if it is of good quality, although some will say that the scent is the real key. 
+   [0A0] 0xD58BD37F0DF91297: Anyone can paint a mermaid. That’s not impressive. If you really want your art collection to excite guests, you must have the Inconvenient Mermaid. Hewn from a solid, 18-metric-ton slab of basalt, people will wonder how you even got it into the house!
+   [0A1] 0xB04A116AF175E6B7: Like fingers jutting out from the ground, it almost looks like it might grab you! Thankfully, these coral only seem to want to point to the sky. I wonder what's up there?
+   [0A2] 0x0ED3537096C6457C: Nature is home for all plants, but some plants just don’t need all that extra room and they’d rather just move into a nice little clay or ceramic condominium to live out their golden years. Give a leafy green friend a good home with the GlazeMasterz Plant Condo.
+   [0A3] 0x0ED6597096C88564: What has six sides and enough green to make a frog jealous? The Shrub Hexagon! And it’s not just perfect for shrubs – it holds your grass, your bushes, your leafy plants, small hedges, briers and ferns! It holds so much plant matter only six walls could hold it all in. Shrub Hexagon!!!
+   [0A4] 0x925AE2E630C4E5C5: Is it Snowflake Day? No? Well, this plant certainly adds an air of festivity. 
+   [0A5] 0xA4E351648A8C8A26: New from Repurp-It, your one stop shop for all repurposed decorations, it’s Mad Props! Our oversized propeller decorations are 100% real and were all pulled directly from non-functional ships. At least, they were non-functional once we had the propellers! Buy dozens!!
+   [0A6] 0x982806D011ADF00B: Be a hero, and “spread” the word with this sandwich board. Don’t loaf around, break into the upper crust and get yourself a slice of the good life!
+   [0A7] 0x45870DEBB917230E: Woven together by only the most skilled of mermaid hands, these corals add a touch of luxury to any abode. 
+   [0A8] 0x77EF47F367678C5C: This is what happens when someone just rips the propeller off of a boat. Fortunately, at Repurp-It, your one stop shop for all repurposed decorations, we know attractive home décor when we see it sitting at the bottom of the ocean. Pick one up today and give your home that classic “shipwreck” feel!
+   [0A9] 0xF53049B1EB96CB51: Mermaid lore hints at an ancient kingdom that once ruled the sea and shore. Are these stairs a remnant of that lost place, or something far older and more mysterious?
+   [0AA] 0x9BAD258856B907C6: Sailors say that a perfectly symmetrical starfish is a rare sight indeed. If you see one you'll have three days of good luck, but if you take one from the sea you'll have three years of bad luck. Better leave this one alone....
+   [0AB] 0x64A79CE45E7E2253: This cute starfish is happiest when kept in warm ocean water with lots of friends. The Sand Dollar Starfish is the most social of all starfish and hates to be alone.
+   [0AC] 0x39E1E890743A7113: What's better than one starfish? Three starfish! That's right, this starfish trio is available to liven up the ocean floor, the beach, your living room…the possibilities are endless!
+   [0AD] 0x43F8AB4D69DA1456: The underwater version of a blooming flower, each layer reveals a new layer within. 
+   [0AE] 0x3C8F744D6602E00B: Both seemingly functional and decorative, many a designer has found inspiration examining the formations of table corals.
+   [0AF] 0xBE5E2DC2969C4C95: When you want to create a welcoming atmosphere, just reach for the world’s friendliest plant, the Traveler’s Palm! Install one of these and it looks like the whole room is waving to you!
+   [0B0] 0x97DFD2C221F814BE: You might think "tube sponge" is an odd name for a sea creature, but it is a sponge…and it is shaped like a tube. So, yeah.
+   [0B1] 0xD836E47E3CAD3A4B: It is whispered that the ghost ship, the Simary Celeste, is doomed to roam these waters for eternity because the captain cut loose her steering wheel and threw it overboard during a mutiny... perhaps this belonged to her?
+   [0B2] 0x8459111660F6F1A6: There’s just something about the Island Life that puts a spell on people, specifically tourists, specifically a spell that makes them want to spend lots and lots of money. Get their attention and remind them how tropical you are with this delightful sign featuring popular tropical birds.
+   [0B3] 0x7047FCE320887445: Alexander Roofington proudly presents his lastest innovation in things that curve: the Roof Curves! They’re the perfect topper to any hacienda. And they’re so easy to install -- all you have to do is drag and drop. That’s right! Just drag them up to your roof using a ladder and then drop them down wherever you want them.
+   [0B4] 0x0DD20D6C5E30B7CA: Let everyone know where to go for the best seafood in town, or just show off your love of the cuisine!
+   [0B5] 0xAC696FC34A9A1400: Alexander Roofington is tearing down barriers yet again in the world of curvy things. His latest innovation: straight things! If you are a fan of his Roof Curves, you have to try Alexander Roofington’s Roof Straights. You won’t believe the balance they’ll bring to your roof.
+   [0B6] 0x48AD50713B376742: No foray into island living would be complete without a sampling of the incredible fruits native to tropical lands. No more tantalizing array of natural treats exists! This attractive display, while not edible, certainly harkens to the scintillating flavors of the island's gifts!
+   [0B7] 0x4D8FDCD4243DCFCC: Why not add an umbrella to your table? The Patio Umbrella will help to create that comforting shade to sit in while resting at a table.
+   [0B8] 0xEE6427294B1CF7A1: Tired of boring arches? STEP UP to some real curves with the MaxxArch Arch Accentuator!! Just install over any existing arch shape and BAM!! You’ve maxxed out your arching potential. WARNING, fool! Not compatible with arcs, semicircles, or domes!!
+   [0B9] 0x878EEF704D5D2FAE: A popular variation on clay tile roofs, this piece comes with an attached balcony. Not the regular kind of balcony that you actually walk onto, but one of those little decorative ones. They look absolutely stunning from street level, but you might want to make sure that the windows they cover open inwards first.
+   [0BA] 0xF83F28D7DC283698: Nothing can compare to the grandeur of seeing the ocean floor in person. However, this shell mural comes really close. Impress your friends with this beautiful wall decoration!
+   [0BB] 0x2A09D88EC775B3CE: Seen on countless structures big and small, clay tile roofs are becoming more popular than ever. It’s charming “ripple” effect is made possible through its brilliant but simple one-piece barrel design. A quick installation and these tiles will enhance the profile of any home or public institution.
+   [0BC] 0x31DD1C592900D766: On a good day the bottom of the ocean is a nightmare-scape of unending horrors. Ocean life is some of the most bizarre and terrifying in the universe, but we’ve managed to collect some samples from the narrow band of things from the sea that relax and soothe. Put it on your wall!
+   [0BD] 0x717D078B8B73339A: Alexander Roofington's roof business is well known for its high quality roof decorations. To celebrate, Mr. Roofington proudly offers this bell centerpiece in honor of the 100 years of successful roof topper creations.
+   [0BE] 0xFDD3BC235F4854BB: Spawns all sealife creatures.
+   [0BF] 0x2E43E870E6C07AF3: Spawns sealife creatures.
+   [0C0] 0x2E43E870E6C07AF0: Spawns sealife creatures.
+   [0C1] 0x06B8B15B8BD5FF11: Spawns sealife creatures.
+   [0C2] 0x06B8B15B8BD5FF12: Spawns sealife creatures.
+   [0C3] 0x11B7E75B92B97E6D: Spawns sealife creatures.
+   [0C4] 0x11B7E75B92B97E6E: Spawns sealife creatures.
+   [0C5] 0x0B8000C701370773: Spawns non-collectable sea life.
+   [0C6] 0x0C16D96E35B608F0: Spawns sharks on the surface of the water.
+   [0C7] 0xFA0E44BA5E0E48F6: Spawns common collectable seashells on land.
+   [0C8] 0xFA0E44BA5E0E48F5: Spawns common collectable seashells underwater.
+   [0C9] 0xFA0E44BA5E0E48F4: Spawns uncommon collectable seashells on land.
+   [0CA] 0xFA0E44BA5E0E48F3: Spawns uncommon collectable seashells underwater.
+   [0CB] 0xFA0E44BA5E0E48F2: Spawns rare collectable seashells on land.
+   [0CC] 0xFA0E44BA5E0E48F1: Spawns rare collectable seashells underwater.
+   [0CD] 0x42F7A4836192E731: Mr. DeLuge had an aqueous dream: to make amusement park-quality waterslides affordable, compact, and fun for all! It was his hope that everyone in the family, big or small, would enjoy it, so what are you all waiting for? Hydro-Kids! Hydro-Wife! Hydroglide Waterslide!
+   [0CE] 0xAA1275D2EADC657A: Attention parents! Playground slides are dangerous! Did you know children reach speeds approaching FIVE while sliding? Can you trust them to land safely on their feet instead of impacting ground at a horrifying velocity? No. No, you can't. At Aquaducks, we know the safest place to land is in soft, kid-safe water.
+   [0CF] 0x032546C2B26C6139: The Skimtron Outboard Speedboat (S.O.S.) features superior handling and has engine visibility ratings up to 100% higher than the other leading speedboat brands. The S.O.S. is sleek, stylish, and very safe! It’s a fact - when you buy from Skimtron, we’ll have you shouting “S.O.S!” in no time!
+   [0D0] 0x5E5C58ADC2FF8068: These beautiful and festive stairs are a pleasure to climb, every time. As you ascend this rising work of art, take time to admire the intricate patterns baked onto every tile with Never-Fade Glaze. The Tiled Staircase to Paradise: we provide the tiles and the staircase, you provide the paradise.
+   [0D1] 0x455C0D85B7BE5CD3: Every Sim dreams of one day growing up and owning the kind of stairs that might be used in the local aquarium. That’s why we made lighted mood stairs. With an easy installation, you can give your home that immersive, let’s-go-look-at-the-sharks-first kind of mood.
+   [0D2] 0xA968726C283D9AEC: This charming bistro-style table is the perfect place to meet a friend or two for coffee or a light lunch. It comes in a variety of styles to suit all your needs, including Modern, Natural, and Ancient Civilization Calendar. (Warning: Calendar may be out of date.)
+   [0D3] 0xCA563110789E76F4: On a hot, lazy day in the tropics, nothing makes a better makeshift table than a coupla coolers put together. That’s why we invented Coupla Coolers, the dual coolers with high carrying capacity as well as unmatched top surface area. Whether you’re setting things in them or on them, you’ll be glad you brought a Coupla Coolers.
+   [0D4] 0x7FED6B1100D2074C: Hundreds of years ago sloops and galleons would dance between the islands, crossing vast expanses of ocean to trade goods and transport people, or to engage in piracy. This exquisite coffee table was carefully hand-carved from wood taken from those old, decommissioned ships. Own a piece of island history with the Old Sea!
+   [0D5] 0x4CD3C9CAC7D5FB0B: Pairing crisp, clean lines with a strong use of contrast, the X-Leg is an engagingly modern work of furniture art. The highlight must be its frosted glass surface, which sits perfectly flush with the table’s edges. The X-Leg makes every dinner a beautiful affair.
+   [0D6] 0x47C068FC4A99C7FE: These small but indispensable tables are all beautifully hand-carved, but even more amazing is the source of its materials. All of the wood used to make the Old Sea End Table was taken from decommissioned pirate hunter ships. A page from the most exciting chapter in naval history can be yours, with Old Sea!
+   [0D7] 0x4F0203F860F48182: This travel tent is the ultimate mobile bed that Simoleons can buy. Its ultra compact size and brilliant colors will show others that you no rookie when it comes to sleeping outdoors.
+   [0D8] 0x38E86A072988CC20: Distant island terrain.
+   [0D9] 0x53B3DDD41B651F25: All of your old favorites, and maybe something new too!
+   [0DA] 0x87B74144F6D945F3: Hidden riches are stored within this chest. What kind of valuable does this chest contain?
+   [0DB] 0x45D9C605BB874019: Hidden riches are stored within this chest. What kind of valuable does this chest contain?
+   [0DC] 0xC23304880C9BFEF5: “Green and leafy, short and stout, that’s what Alocasias are all about! Alocasia! Alocasia! They’ll amaze ya!”
+   [0DD] 0x186F26F0A94870A3: Despite the misleading name, a Bird of Paradise isn’t actually a bird! Well, actually, there IS a bird called the Bird of Paradise too, which just makes it more confusing! After too many mix-ups in the shipping department, we’ve modified the name to be more accurate. You’ll thank us later.
+   [0DE] 0x4319737591F4D46A: While floss and silk are both very delicate, these trees are truly resilient. Impervious to drought and inclement weather, Sims will enjoy the company of these trees year after year.
+   [0DF] 0x5783BBE7BF2B8C9F: Palm Bismarks, as we all know, are named after the venerable Grotto Von Bismark, who used his mighty palms to plant the first of the trees in these lands centuries ago. Add several to your yard today!
+   [0E0] 0x3E2916EFA98CED0A: The date palm tree is the perfect tree for lovers.
+   [0E1] 0xF47888310B6EF9A6: The question remains...where is the King Palm?
+   [0E2] 0x6A8D3F7F57EA3F93: A twist on the normal ‘boring bark, pretty leaves’ paradigm, the beautiful rainbow eucalyptus has some plain leaves but plenty of funk in its trunk.
+   [0E3] 0x68BCD0650A01DA5E: Money doesn’t grow on trees (for most)! However, you can use all of your money to buy the trees that we’ve grown, and that’s pretty darn close!
+   [0E4] 0x3078ED092C1D0424: Its etymology time! ‘Rhododendron’ is derived from the ancient Greek meaning ‘rose tree.’ Wow. Real original, ancient Greeks.
+   [0E5] 0x6AF66AA74DE17C4A: These pleasant purple "roses" are sure to increase the pretty factor of your yard, garden, or private island.
+   [0E6] 0x8A0C6BD97B536864: Yellow is the color of sunshine, sand, and cowards.
+   [0E7] 0xFEF7600853D4BF66: Mangrove trees are tropical trees with roots that dig deep, deep into the earth.
+   [0E8] 0x02436445578D6A52: Many mysteries await the Sim who dares to enter the Deep Sea Cave. What treasures will you find? Perhaps a hidden pathway? But beware the monster that lurks within the dark crevices. Who knows what will happen if you startle it!
+   [0E9] 0xA4B5C9200B19E765: Many mysteries await the Sim who dares to enter the Deep Sea Cave. What treasures will you find? Perhaps a hidden pathway? But beware the monster that lurks within the dark crevices. Who knows what will happen if you startle it!
+   [0EA] 0xA3874B7A15F12AFE: "I heard warning of caves such as these and now I'm not so sure I should have entered. It's so dark in here! But what is that bright light? It's so pretty…. Wait… is that teeth?" - from a former explorer
+   [0EB] 0x430B0995B43C9462: A retaining wall from a tropical locale.
+   [0EC] 0xE6A2152A431938DD: Renew your vows or confess your love to one another in paradise. The Island Wedding Arch is the perfect centerpiece for your special day.
+   [0ED] 0x8E74D906227CB5FA: No window outranks The Generalissimo. Each pane of glass is a medal of bravery pinned to its noble chest. Each curve and line like the taut musculature of a leader. Looking for the window that will take command of your house? Look no further than The Generalissimo.
+   [0EE] 0x4A5FAE138034C923: If you live somewhere with amazing weather, why not let everybody know it by installing a Good Weather Window, the window that’s always open? As everyone knows, people in beautiful climates never have to worry about crime or bugs, so get rid of those tacky metal screens and glass panes and enjoy the Good Weather!
+   [0EF] 0x4CE1F3C111C5A110: Sometimes you long to let that sea breeze roll into the room, but without being assaulted by the deadly rays of the sun. You should invest in these window blinds, guaranteed to be of at least motel-level quality. Block out those harmful rays, and bring home that sweet, salty breeze. Perfect for the home or the “hospitality” industry.
+   [0F0] 0x499B957189BB29CB: Looking to save your “resort” guests even more money? Buy a triple pack of these motel-quality window blinds and cover more wall area with a single installation. You’ll get three-for-the-price-of-more-than-one-but-maybe-not-so-much-as-you’d-think! What a bargain!!
+   [0F1] 0xFA95CD763F70DB3F: For powerful, yet sleek window performance, try the TriPane Standard. It has all the power of three large panes of semi-smoked glass, but with none of the bells and whistles of conventional windows. Three is a powerful number.
+   [0F2] 0x770C5DDAF854F489: The All-in-One Bathroom
+   [0F3] 0xC011DDD31845F6FE: Grand Arch of Arches
+   [0F4] 0x23CCFE819181146C: Grand Bell Arch of Arches
+   [0F5] 0xB19F04ECCA9DA155: 2x2 Daylight Light Ceiling
+   [0F6] 0x738AD4250EA9D829: Gambles Folded Chair
+   [0F7] 0x33445CB9E8869337: Penultimate Deluxe
+   [0F8] 0x9C3B20687DDC6E55: Beach Towel
+   [0F9] 0x9460A3C2E40AC93D: Beach Umbrella
+   [0FA] 0xDA33B721FACD63AD: Tropicalio Bedstead
+   [0FB] 0x83D697393BDAFF9D: Beverage Cup Metal
+   [0FC] 0xC8656A557776720C: Beverage Cup Plastic 
+   [0FD] 0x6C6DB869FA9A2F3E: Plant of Paradise
+   [0FE] 0x26C3AC6CA3F82A6C: "Slade the Indomitable" Paddleboat
+   [0FF] 0xC7A475F5FA40A1E8: Sailboat by Public Domains
+   [100] 0xB33E1614F888E8D5: Aqua-Sled, the Personal Watercraft
+   [101] 0x7D2410E2A4955AD8: Speedboat by Public Domains
+   [102] 0x07995F5882768D2A: Aqua Transporter Boat Trailer
+   [103] 0x33F33DCE74875577: Aqua-Sled, the Personal Watercraft
+   [104] 0xD28B47ED23EE9471: Windsurf Sr. from Laminar Wind LLC
+   [105] 0x2FF83D42BFEDBFB9: Windsurf Jr. from Laminar Wind LLC
+   [106] 0x9C29CCC3D68725BD: {BPrint_RoomTypeLazyRiverPool} - {BPrint_RoomStyleEndCapHottub}
+   [107] 0x795BF2C822DC6D3A: {BPrint_RoomTypePoolArea} - {BPrint_RoomStyleCheapEconomy}
+   [108] 0xD573D8567B587FAE: {BPrint_RoomTypePoolArea} - {BPrint_RoomStyleModerateContemporary}
+   [109] 0xCB31D5202F3629BA: {BPrint_RoomTypePoolArea} - {BPrint_RoomStyleRoman}
+   [10A] 0x80A3DFAFC6E52F00: {BPrint_RoomTypePoolArea} - {BPrint_RoomStyleBeach}
+   [10B] 0x86EFB5A12D07E62B: {BPrint_RoomTypeLazyRiverPool} - {BPrint_RoomStyleEndCapWaterfall}
+   [10C] 0x377319852735DE40: {BPrint_RoomTypeLazyRiverPool} - {BPrint_RoomStyleEndCapWaterfall}
+   [10D] 0x78A8B00E3EDA73DC: {BPrint_RoomTypeLazyRiverPool} - {BPrint_RoomStyleEndCapPoolBar}
+   [10E] 0xC3314502F1FB3996: {BPrint_RoomTypeLazyRiverPool} - {BPrint_RoomStyleEndCapWaterfall}
+   [10F] 0x0719B4862CBF3949: {BPrint_RoomTypeLazyRiverPool} - {BPrint_RoomStyleEndCapWaterslide}
+   [110] 0x5369B43DF10CCC8A: {BPrint_RoomTypeResortDiningArea} - {BPrint_RoomStyleBeach}
+   [111] 0x5369B43DF10CCC89: {BPrint_RoomTypeResortDiningArea} - {BPrint_RoomStyleBeach}
+   [112] 0xE8C31DEFF2D3C185: {BPrint_RoomTypeBungalow} - {BPrint_RoomStyleBeach}
+   [113] 0xE8C31DEFF2D3C186: {BPrint_RoomTypeBungalow} - {BPrint_RoomStyleBeach}
+   [114] 0xE8C31DEFF2D3C187: {BPrint_RoomTypeSuite} - {BPrint_RoomStyleBeach}
+   [115] 0x63A95CDA680BE3C9: {BPrint_RoomTypeResortGym} - {BPrint_RoomStyleBeach}
+   [116] 0x63A95CDA680BE3CA: {BPrint_RoomTypeResortGym} - {BPrint_RoomStyleBeach}
+   [117] 0x1E907425323B48C0: {BPrint_RoomTypeLobby} - {BPrint_RoomStyleBeach}
+   [118] 0x1E907425323B48C3: {BPrint_RoomTypeLobby} - {BPrint_RoomStyleBeach}
+   [119] 0x8A46CC469D4AD36C: {BPrint_RoomTypeLounge} - {BPrint_RoomStyleBeach}
+   [11A] 0xE5DE8E0B4E5C240C: {BPrint_RoomTypeOutdoorActivityArea} - {BPrint_RoomStyleBeach}
+   [11B] 0x246730FDBA2EE593: {BPrint_RoomTypePoolArea} - {BPrint_RoomStyleBeach}
+   [11C] 0x9D6917D4F3A54045: {BPrint_RoomTypeResortTower} - {BPrint_RoomStyleBeach}
+   [11D] 0x17971381456BC728: {BPrint_RoomTypeResortTower} - {BPrint_RoomStyleBeach}
+   [11E] 0x05D0A8BB5933547C: {BPrint_RoomTypeWeddingVenue} - {BPrint_RoomStyleBeach}
+   [11F] 0xC446F3C63944AE27: Resort Lobby
+   [120] 0xB966A92D43FCE4B6: {BPrint_RoomTypeResortDiningArea} - {BPrint_RoomStyleEcoModern}
+   [121] 0xB966A92D43FCE4B5: {BPrint_RoomTypeResortDiningArea} - {BPrint_RoomStyleEcoModern}
+   [122] 0x3CDA36A18B9B5A49: {BPrint_RoomTypeGuestRoom} - {BPrint_RoomStyleEcoModern}
+   [123] 0x3CDA36A18B9B5A4A: {BPrint_RoomTypeGuestRoom} - {BPrint_RoomStyleEcoModern}
+   [124] 0x3CDA36A18B9B5A4B: {BPrint_RoomTypeSuite} - {BPrint_RoomStyleEcoModern}
+   [125] 0x7A5325B8E8095945: {BPrint_RoomTypeResortGym} - {BPrint_RoomStyleEcoModern}
+   [126] 0x7A5325B8E8095946: {BPrint_RoomTypeResortGym} - {BPrint_RoomStyleEcoModern}
+   [127] 0xDEA4E0437E76882C: {BPrint_RoomTypeLobby} - {BPrint_RoomStyleEcoModern}
+   [128] 0xDEA4E0437E76882F: {BPrint_RoomTypeLobby} - {BPrint_RoomStyleEcoModern}
+   [129] 0xDEA4E0437E76882E: {BPrint_RoomTypeLobby} - {BPrint_RoomStyleEcoModern}
+   [12A] 0x9E027E3AB9E8F290: {BPrint_RoomTypeLounge} - {BPrint_RoomStyleEcoModern}
+   [12B] 0x9E027E3AB9E8F293: {BPrint_RoomTypeLounge} - {BPrint_RoomStyleEcoModern}
+   [12C] 0xFA4058D541C4D278: {BPrint_RoomTypeOutdoorActivityArea} - {BPrint_RoomStyleEcoModern}
+   [12D] 0xFA4058D541C4D27B: {BPrint_RoomTypeOutdoorActivityArea} - {BPrint_RoomStyleEcoModern}
+   [12E] 0xD2F80E3AD03505F7: {BPrint_RoomTypePoolArea} - {BPrint_RoomStyleEcoModern}
+   [12F] 0xD2F80E3AD03505F4: {BPrint_RoomTypePoolArea} - {BPrint_RoomStyleEcoModern}
+   [130] 0x1F82DCF559A115C1: {BPrint_RoomTypeResortTower} - {BPrint_RoomStyleEcoModern}
+   [131] 0x730FB53D0F4559F8: {BPrint_RoomTypeWeddingChapel} - {BPrint_RoomStyleEcoModern}
+   [132] 0x730FB53D0F4559FB: {BPrint_RoomTypeWeddingVenue} - {BPrint_RoomStyleEcoModern}
+   [133] 0x88203BAE2B2634B6: {BPrint_RoomTypePoolArea} - {BPrint_RoomStyleSpanish}
+   [134] 0x11B40464C988BA67: {BPrint_RoomTypeResortDiningArea} - {BPrint_RoomStyleSpanish}
+   [135] 0x11B40464C988BA64: {BPrint_RoomTypeResortDiningArea} - {BPrint_RoomStyleSpanish}
+   [136] 0xF93432D1CEA0CE9A: {BPrint_RoomTypeGuestRoom} - {BPrint_RoomStyleSpanish}
+   [137] 0xF93432D1CEA0CE99: {BPrint_RoomTypeGuestRoom} - {BPrint_RoomStyleSpanish}
+   [138] 0xF93432D1CEA0CE98: {BPrint_RoomTypeSuite} - {BPrint_RoomStyleSpanish}
+   [139] 0x4F328FB74FA78142: {BPrint_RoomTypeResortGym} - {BPrint_RoomStyleSpanish}
+   [13A] 0x4F328FB74FA78141: {BPrint_RoomTypeResortGym} - {BPrint_RoomStyleSpanish}
+   [13B] 0x2F2CCF9E86DFB1B3: {BPrint_RoomTypeLobby} - {BPrint_RoomStyleSpanish}
+   [13C] 0x2F2CCF9E86DFB1B0: {BPrint_RoomTypeLobby} - {BPrint_RoomStyleSpanish}
+   [13D] 0x2F2CCF9E86DFB1B1: {BPrint_RoomTypeLobby} - {BPrint_RoomStyleSpanish}
+   [13E] 0x1FAE4582E92A3D35: {BPrint_RoomTypeLounge} - {BPrint_RoomStyleSpanish}
+   [13F] 0x1FAE4582E92A3D36: {BPrint_RoomTypeLounge} - {BPrint_RoomStyleSpanish}
+   [140] 0x0EB97CBB1EB9D8BB: {BPrint_RoomTypeOutdoorActivityArea} - {BPrint_RoomStyleSpanish}
+   [141] 0x63F910AA4A52ABBE: {BPrint_RoomTypePoolArea} - {BPrint_RoomStyleSpanish}
+   [142] 0x63F910AA4A52ABBD: {BPrint_RoomTypePoolArea} - {BPrint_RoomStyleSpanish}
+   [143] 0x3AA146D42A35A2DA: {BPrint_RoomTypeResortTower} - {BPrint_RoomStyleSpanish}
+   [144] 0x79E863B1EF9C31A3: {BPrint_RoomTypeWeddingChapel} - {BPrint_RoomStyleSpanish}
+   [145] 0x21AF38C59092221C: {BPrint_RoomTypeLounge} - {BPrint_RoomStyleBeach}
+   [146] 0xB2E29F48F81D8985: {BPrint_RoomTypeLounge} - {BPrint_RoomStyleSpanish}
+   [147] 0xB2E29F48F81D8986: {BPrint_RoomTypeLounge} - {BPrint_RoomStyleSpanish}
+   [148] 0x80B8A85960B78826: The Grand Buffet
+   [149] 0xD6B147AB32914C7D: Costa Verde Corp. & Alyssa's Bookstore
+   [14A] 0xC53FFE1FEABE4C81: Underwater Camera
+   [14B] 0x23F5D9FF45411FD2: Sleek Plastic Chair
+   [14C] 0x4BE96BE1DADF8E63: Chair of Life Savings
+   [14D] 0xE31EF1641F45EEEE: Grandparents Chair
+   [14E] 0x0CDBD978E7E01C57: Sand Lounger
+   [14F] 0x0CE8F478E7EAD414: Fantasy Starchair
+   [150] 0x4F532E7896DCA18C: Civic Center
+   [151] 0x99F1FCA97820F5B4: Round Modern Column
+   [152] 0x8B1D92DD16E4881B: Round Modern Column Three Story
+   [153] 0x42F44119E62CB501: Round Modern Column Two Story
+   [154] 0x4CE0E2908E56F8F5: Fronds Like These Column
+   [155] 0xD21D722E2E41FAA7: D-Fusion Light Column
+   [156] 0x9AAA46FEBEFC6CAE: Fronds Like These Double Column
+   [157] 0x3759FE5670EA0EA8: Smuggler's Lair
+   [158] 0x09B7CCA438948D49: Trade Winds Spa and Bistro
+   [159] 0xF8DF7D5B6AA08CEA: Modern Stately Arch
+   [15A] 0x88F83D12EE7B0B77: It's Glass! Double Doors
+   [15B] 0x1304E06D50392686: Nature’s Pass Double Door
+   [15C] 0xDD2AC302A80FB49A: Bodega Doors
+   [15D] 0xB8B44CB58635F126: Crazy Zebra Door
+   [15E] 0x9E4F3C72E43122C7: Wrought Iron Door
+   [15F] 0x5F538BA317F123C9: Clear View Garage Door
+   [160] 0xC710AEA001A1284A: Ramin's Rustic Garage Door
+   [161] 0xFF30957562A07B6D: Fancy For You Door
+   [162] 0x49F97D23805FFD05: Horizon Door
+   [163] 0xAEA44982221DBFA8: Brick Herringbone
+   [164] 0x23B65469F245285F: Ocean Floor
+   [165] 0x85CA94AA8062CA1F: Fence By The Beach
+   [166] 0x9B63E6149F2D50BE: Serious Gate
+   [167] 0x4F912E1504BDD49B: Serious Fence
+   [168] 0x0BAA0BB4CF7C4DA4: Surf Celebration Fence
+   [169] 0xDF5C7E50EC8608A3: Vanity Bonfire
+   [16A] 0x6759D5CF5022A15A: Flameo Firepit
+   [16B] 0x7847153CA52C69D7: Coal Stroll Firewalk Pit
+   [16C] 0x82A95697C747168E: Mounted Anemone
+   [16D] 0x6C1A3A4EC26671EB: Mounted Eel
+   [16E] 0x9CEC42184E2D56DE: Mounted Hermit Crab
+   [16F] 0xEB81BF756E72E9A0: Mounted Octopus
+   [170] 0x085836FC382362F3: Mounted Polyp
+   [171] 0xEBBA30964F12F9D7: Mounted Seahorse
+   [172] 0x28A7B6AE440C7689: Mounted Sea Urchin
+   [173] 0x1D035D7FA4D1B07F: Mounted Squid
+   [174] 0xE5CE879088DA1431: The Beachside Food Stand
+   [175] 0xFBE23AE9AFB464C7: Eco Modern Food Counter
+   [176] 0x41C61090623F8A0E: Half-a-Whale Fountain
+   [177] 0x6688BDEAF8699394: Xopeckuato the Great
+   [178] 0x2693948E6F1F631E: Fish Hero Planter
+   [179] 0x84803AE58722296F: Island Bell Hoppers' Front Desk
+   [17A] 0x70A8EC1767E62A37: Gangway Style
+   [17B] 0x1EB882AA3AD0564E: The Guardian
+   [17C] 0xE46200C04E8AA138: Cruzita's Groceries and Diner
+   [17D] 0xA825F59349515A77: "Helm" by Helm Street Designs
+   [17E] 0xFB02BAD4B8DCA651: El Hospital
+   [17F] 0x7A6E8FC4F39AC704: Wet-Side Hot Tub
+   [180] 0x16242B009EC685D1: “The Perfect Warm” Hot Tub
+   [181] 0x4DCBFF4621C0C2E2: Medium Houseboat Hull - 15x10
+   [182] 0x3472EF461393CCC9: Large Houseboat Hull - 20x15
+   [183] 0x344CAED4982A80FB: Narrow Houseboat Hull - 20x6
+   [184] 0x5EAEFECD34B6CBF8: Narrow Curved Houseboat Hull - 14x6
+   [185] 0xFE6AADD4791B301C: Small Houseboat Hull - 10x8
+   [186] 0x267315BD5543760D: Wide Curved Houseboat Hull - 12x8
+   [187] 0xCB96EA4FF31D218A: Map Piece
+   [188] 0x804A565AA73D92E2: Kelp Ingredient
+   [189] 0x296574D86A925DA4: Large Kelp
+   [18A] 0xF59CDE4648C93573: Harvestable Kelp
+   [18B] 0xA95F80B5EF60931E: Tall Kelp
+   [18C] 0x3369F39FC79AE26D: Kraken
+   [18D] 0xDEC67D711ED7E432: Eyelet Ladder
+   [18E] 0xA7DC17C74A6B3E63: The Candelier
+   [18F] 0x52EBE512E06CD441: Conical Lightstorm
+   [190] 0x672917A0857974F9: School of Lights
+   [191] 0xC6E3F9B08363C4B9: Floor Candle
+   [192] 0xF0DC1B492CC541CD: Hanging Lantern
+   [193] 0xC08E3D00BED4B728: Paper Glowlamp
+   [194] 0xD1220747B3B70DD6: Actual Streetlamp
+   [195] 0x33C4DA824FEA22FE: Streetlamp Highlights
+   [196] 0x793D160E69C30261: Tabur Lamp
+   [197] 0x8D7E9445B0195274: Tropic Lantern
+   [198] 0x564D7F21F493E703: Hirschfield's Waterfall Lights
+   [199] 0xE0BFE1D2EBD20E2A: Wall Lighting Solutions Wall Light
+   [19A] 0x6191A424A8CC5311: SymmetriLux Wall Light
+   [19B] 0xC7B6D841358E289F: TV’s Couch!
+   [19C] 0xAB2893CE363FABA8: "Hand-Made" Loveseat
+   [19D] 0x97E50242FB2E6BBC: Antique Leather Bench
+   [19E] 0x8561353DC11BD207: Wrongways Surf Sofa
+   [19F] 0x8B4248BAB803B0D0: Mr. Mariner Gnome
+   [1A0] 0x7D6C971F95610D1B: Underwater Shark Spawner
+   [1A1] 0x1818407AB696CF44: Surface Shark Spawner
+   [1A2] 0x2D63DB064D2F78C1: Island Mausoleum
+   [1A3] 0xBC9F213195CA3D2C: Mermadic Kelp
+   [1A4] 0xB91B3DEC41F80A7B: Bottle Spawner
+   [1A5] 0xB74133F8B78F30E9: Mooring Cleat
+   [1A6] 0xC27BA3D68C09CF7F: Mooring Post by Public Domains
+   [1A7] 0xDCF54984DA8AAB0B: Mosquito Repellent
+   [1A8] 0x1FACA109E75981DA: Mosquito Spawner
+   [1A9] 0xFCD279C03138CAD5: Lazy Dayzy Paddleboat
+   [1AA] 0x0040F0D3B968DD0F: Captain’s Map
+   [1AB] 0x0040F0D3B968DD0C: Explorer’s Map
+   [1AC] 0x0040F0D3B968DD0D: Buccaneer’s Map
+   [1AD] 0xDE3156D92FADAA62: Evolution of the Plumbob
+   [1AE] 0x2DCADD14313F2641: Ocean Adjacent Painting
+   [1AF] 0x777EA3C6D537DC75: The Lantana by Land's Capers
+   [1B0] 0xDB618BA1DB424970: "Liquid Pro Quo" Pool Bar
+   [1B1] 0x1A1DE4BF0F6F56C1: Trinarch Waterfall
+   [1B2] 0x064A3099F6D8A8CC: Artificial Waterfall by H2Flow
+   [1B3] 0xBB07918BA4CAAF0C: Cateraction Waterfall
+   [1B4] 0x6950F21C97AFFED1: Beach Resort Tower
+   [1B5] 0x647EB05FCEB93365: Eco Modern Resort Tower
+   [1B6] 0x824115AA95F5D825: Island Beach Bungalow
+   [1B7] 0xB4E8B1FABF8D9938: Spanish Style Resort Cottage
+   [1B8] 0x1A22B4122FF6F578: Rock Formation 1
+   [1B9] 0x1A22B4122FF6F57B: Rock Formation 2
+   [1BA] 0x1A22B4122FF6F57A: Rock Formation 3
+   [1BB] 0x0DFD7CF93A4179B9: Flat Rock
+   [1BC] 0x0DFD7CF93A4179BA: Contemplative Stone
+   [1BD] 0x0DFD7CF93A4179BB: Stacked Boulders
+   [1BE] 0xA61E125308AAC295: Flat Rock - Underwater Version
+   [1BF] 0xA61E125308AAC296: Contemplative Stone - Underwater Version
+   [1C0] 0xA61E125308AAC297: Stacked Boulders - Underwater Version
+   [1C1] 0xFE76B8C28BD43EFF: Underwater Rock
+   [1C2] 0xE99816540275A441: Rowboat by Public Domains
+   [1C3] 0x907B8DEF0F200C18: Seashell Mosaic
+   [1C4] 0x573C8471E557706E: Accolades Institute and Stadium
+   [1C5] 0x60A99567ADE7FF0F: Nautilus Laboratories
+   [1C6] 0x169F31B109CEB9DA: Scuba Buoy
+   [1C7] 0xC41F9BFF2AB61A60: Parrot Sign
+   [1C8] 0xD1FDE360D4EB49DC: Hanging Pescado
+   [1C9] 0xC0D2326802094B9C: Fishtailed Out of Water
+   [1CA] 0x38CB30099D0A1CFB: Alcove Gardens
+   [1CB] 0x1E9E6EC56E4D603C: Nautical Nelly
+   [1CC] 0x74099AF28FD4C602: Hector’s Faux Ruins
+   [1CD] 0xBEB5093C0CB0138B: Island Canopy
+   [1CE] 0x3504F8763CE23496: Sea Debris
+   [1CF] 0xF961293F53AF8C88: Brain Coral
+   [1D0] 0xBD4C7B4F705864E3: Hector’s Shattered Pots
+   [1D1] 0xF48A7B6EADF83411: Candelabrum
+   [1D2] 0x64627C8E1B5A9214: Cannon Wreckage
+   [1D3] 0x3A06E28140525024: Cup Coral
+   [1D4] 0x96DE30A6AF36F92D: Mermaid's Coral
+   [1D5] 0xE8E166EFBD71F435: Fish Signage
+   [1D6] 0x9E454D250A575AF7: Vintage Giant Clam Shell
+   [1D7] 0x0C6A207E315C4E2B: My First Olmec Colossal Head
+   [1D8] 0xA0231499D16E1771: Destiny Of Kelp
+   [1D9] 0x60CE016A31383A4B: Leather Coral
+   [1DA] 0x7EBF790226D255B2: Inconvenient Mermaid
+   [1DB] 0x5A62F69E4FAA1C8E: Pillar Coral
+   [1DC] 0x0C2A6E427F444145: Plant Condo
+   [1DD] 0x0C2768427F42015D: Shrub Hexagon
+   [1DE] 0x96A069C06FE92930: Festive Potted Plant
+   [1DF] 0x52F7E3025BB21487: Mad Props
+   [1E0] 0x6BDBD916B7B0A9E4: Sandwich Board Signage
+   [1E1] 0x9B7954EF50E9CF19: Sea Fan
+   [1E2] 0x68772E623567D305: Most Of A Boat
+   [1E3] 0xE60BC7A761C8C49E: Aquatic Ascent
+   [1E4] 0x7468AA9ABC49A275: Perfect Starfish
+   [1E5] 0xB343F15E922ED292: Sanddollar Starfish
+   [1E6] 0xCA91383D7845F8A8: Starfish Trio
+   [1E7] 0xF23D743E5A8C6E8F: Layered Table Coral
+   [1E8] 0xFB5A9B3E5FD6CF0A: Table Coral
+   [1E9] 0x68601D601373DD00: Traveler’s Palm
+   [1EA] 0x3DEE876811078263: Tube Sponge
+   [1EB] 0xE2F4153869F12574: Wheel Wreckage
+   [1EC] 0x83D8DB133222F711: Tropical Life Signboard
+   [1ED] 0x456DC89362373782: Roofington Roof Curves
+   [1EE] 0x2C8F4C7567CB909B: Bites and Brews Seafood Sign
+   [1EF] 0xE0BB1D1BBFD19CCB: Roofington Roof Straights
+   [1F0] 0xC0762E940E7F8489: Island Bounty
+   [1F1] 0x3FF7CFF44F41B227: Patio Umbrella
+   [1F2] 0x62D97C0E5051061C: MaxxArch Arch Accentuator
+   [1F3] 0xD64B0752FFE27EAB: Clay Tiles with Miniature Balcony
+   [1F4] 0x1213C2733C0C6BCD: Seashell Wall Mural
+   [1F5] 0xFE7B521823ADD92D: Clay Tiles
+   [1F6] 0xD9010ABF74F360A1: Ocean’s Floor For Your Wall
+   [1F7] 0x98D6E81E1264F487: Roofington Bell
+   [1F8] 0x9735A510EBC57C66: Sea Life Spawner - All
+   [1F9] 0x24B5BC0E3DD3A7CA: Sealife Spawner - High 1
+   [1FA] 0x24B5BC0E3DD3A7C9: Sealife Spawner - High 2
+   [1FB] 0x498EB058D3B934F6: Sealife Spawner - Low 1
+   [1FC] 0x498EB058D3B934F5: Sealife Spawner - Low 2
+   [1FD] 0x3EFC8658CD329BFE: Sealife Spawner - Medium 1
+   [1FE] 0x3EFC8658CD329BFD: Sealife Spawner - Medium 2
+   [1FF] 0x21FC0ABFABB06568: Non-collectable Sea Life Spawner
+   [200] 0xC046265066E53C83: Seashell and Bottle Land Spawner - Common
+   [201] 0xC046265066E53C80: Seashell and Bottle Underwater Spawner - Common
+   [202] 0xC046265066E53C81: Seashell and Bottle Land Spawner - Uncommon
+   [203] 0xC046265066E53C86: Seashell and Bottle Underwater Spawner - Uncommon
+   [204] 0xC046265066E53C87: Seashell and Bottle Land Spawner - Rare
+   [205] 0xC046265066E53C84: Seashell and Bottle Underwater Spawner - Rare
+   [206] 0x2663EA2E411AA7A1: Shipwreck
+   [207] 0x6EA4DEE213B328E8: Hydroglide Waterslide by DeLuge Inc.
+   [208] 0xFC325510E774FF4F: Aquaducks Waterslide
+   [209] 0xC95A7FDA16F27C2A: Skimtron Outboard Speedboat
+   [20A] 0x6BE6CC77BB9B1C57: Tiled Staircase to Paradise
+   [20B] 0xFB7D8A199E625582: Mood Stairs
+   [20C] 0xAA24F722096FA643: Island Bistro Table
+   [20D] 0x84D37703A8AB3B71: Coupla Coolers
+   [20E] 0x12B1AF98C81F6201: Old Sea Coffee Table
+   [20F] 0x3D4B01F2846FEAD2: X-Leg Dining Table
+   [210] 0x8D72F3BE18CD71D1: Old Sea End Table
+   [211] 0x38F1499AF02033D1: Sim's Travel Tent
+   [212] 0x1BF00253958F6141: Distant Terrain
+   [213] 0x91122C363587F116: Blue Sky Movie Theater
+   [214] 0x89F7C7B86A42667C: Treasure Chest - Land
+   [215] 0x65BBD7223EB9FFC8: Treasure Chest - Water
+   [216] 0x38DA085384E6DDF0: Alocasia
+   [217] 0x4CA3B5C942163A76: Plant of Paradise
+   [218] 0x25FD3BAA3CFA07A5: Floss Silk Tree
+   [219] 0x85AFD13B3B5BC8AC: Palm Bismark
+   [21A] 0x698466D6E7C7E7F3: Date Palm Tree
+   [21B] 0x598E7F2AC14276D7: Queen Palm
+   [21C] 0xBF3C15C67CE2A638: Rainbow Eucalyptus by Land’s Capers
+   [21D] 0xA6E8E0E1881ED529: Rainbow Shower by Land’s Capers
+   [21E] 0x8D3541B5970B9AFD: Rhododendron by Land’s Capers
+   [21F] 0x77C4D93FCA550D7F: Purple Rhododendron
+   [220] 0x0FAA6900BD105251: Yellow Rhododendron
+   [221] 0xC1FD5E9A371BE4AF: Mangrove Tree
+   [222] 0xBBC4B6A46409A0FB: Underwater Cave
+   [223] 0x66EC3D808FD54648: Deep Sea Cave
+   [224] 0x7D155C6E8D8E10D1: Dark Cavern
+   [225] 0x66E9A7589403C55C: Island Paradise Metal Wall
+   [226] 0x8699C8BE775E3C4A: Island Geometric Wall Triangles
+   [227] 0x8699C8BE775E3C49: Island Geometric Wall
+   [228] 0x1B2040FDC6494E25: Tropical Retaining Wall
+   [229] 0x62571CC05F9CF6C2: Island Wedding Arch
+   [22A] 0x3379D031E68D5737: The Generalissimo
+   [22B] 0x0A1C7DE258D4557E: Good Weather Window
+   [22C] 0xF553386DB19A6FF1: Motel Quality Window Blinds
+   [22D] 0xB4D34A97A435A7F0: Motel Quality Window Blinds Triple Pack
+   [22E] 0x25C3565CB8E30D7A: TriPane Standard
+   [22F] 0xC7FADA9EF97CDDF8: 15 Scuba Street
+   [230] 0xC7FADA9EF97CDDFB: 16 Scuba Street
+   [231] 0xC7FADA9EF97CDDFA: Seaside Retreat, Science Island
+   [232] 0xC7FADA9EF97CDDFD: 102 Civic Center
+   [233] 0xC7FADA9EF97CDDFC: 15 Riviera Road
+   [234] 0xC7FADA9EF97CDDFF: 47 Surf Circle
+   [235] 0xC7FADA9EF97CDDFE: The Hideaway, Shark Bite Island
+   [236] 0xC7FADA9EF97CDDF1: Ocean View, Isla Romantica
+   [237] 0xC7FADA9EF97CDDF0: 79 Paradise Road
+   [238] 0xC7FAD99EF97CDC26: 77 Paradise Road
+   [239] 0xC7FAD99EF97CDC27: Palm Beach, Pirate Island
+   [23A] 0xC7FAD99EF97CDC24: 25 Paradise Road
+   [23B] 0xC7FAD99EF97CDC25: The Flats, Fire Island
+   [23C] 0xC7FAD99EF97CDC22: 15 Dolphin Lane
+   [23D] 0xC7FAD99EF97CDC23: 10 Sea Shell Way
+   [23E] 0xC7FAD99EF97CDC20: 6 Camino del Ray
+   [23F] 0xC7FAD99EF97CDC21: 33 Surf Circle
+   [240] 0xC7FAD99EF97CDC2E: Shimmering Sands, Isla Paradiso
+   [241] 0xC7FAD99EF97CDC2F: 2 Sharks Bay
+   [242] 0xC7FAD89EF97CDA53: Retreat, Serenity Isle
+   [243] 0xD0012E9D23F11E48: The Shallows, Isla Paradiso
+   [244] 0xD0012E9D23F11E4B: 9 Sea Spray Lane
+   [245] 0xD0012E9D23F11E4A: 27 Paradise Road
+   [246] 0xD0012E9D23F11E4D: 6 Greenbeard Road
+   [247] 0xD0012E9D23F11E4C: 69 Paradise Road
+   [248] 0xD0012E9D23F11E4F: 10 Modern Mile
+   [249] 0xD0012E9D23F11E4E: 10 Scuba Street
+   [24A] 0xD0012E9D23F11E41: 13 Shaka Bra Road
+   [24B] 0xCF04FB761F972E36: This little home is both comfortable and pleasant.
+   [24C] 0xCF04FB761F972E35: Everyone has a different idea of what paradise is... apparently this home fits the bill for someone.
+   [24D] 0xCF04FB761F972E34: This cozy home is perfect for the single Sim, or a newlywed couple.
+   [24E] 0xCF04FB761F972E33: This home is perfectly located close to town.
+   [24F] 0xCF04FB761F972E32: This tiny home is perfect for a single Sim with a minimalist mindset.
+   [250] 0xCF04FB761F972E31: This modern mansion is perfect for Sims who look to the future.
+   [251] 0xCF04FB761F972E30: Once known as the most beautiful house on all the islands... now it's just quaint.
+   [252] 0xCF04FB761F972E3F: This home is charming because of, or in spite of, its simplicity.
+   [253] 0xCF04FB761F972E3E: The spirit of the sea is loud and awfully salty.
+   [254] 0xCF04FA761F972C64: The heat of the day, the crunch of the sand... home.
+   [255] 0xCF04FA761F972C65: What a wonderful place to live!
+   [256] 0xA2C802990E5CFE79: La Casita 1br, 1ba
+   [257] 0xA2C802990E5CFE7A: Personal Paradise - 2br, 1ba
+   [258] 0xA2C802990E5CFE7B: Cozy Cottage - 1br, 1ba
+   [259] 0xA2C802990E5CFE7C: Humble Home, 2br 2ba
+   [25A] 0xA2C802990E5CFE7D: Bachelor Pad - 2br, 1ba
+   [25B] 0xA2C802990E5CFE7E: Modern Marvel - 2br, 2ba
+   [25C] 0xA2C802990E5CFE7F: Island Beauty - 1br, 1ba
+   [25D] 0xA2C802990E5CFE70: Mi Casa - 1br, 1ba
+   [25E] 0xA2C802990E5CFE71: Spirit of the Sea
+   [25F] 0xA2C803990E5CFFCB: Sun and Sand
+   [260] 0xA2C803990E5CFFCA: Meridian
+   [261] 0xD59AD0C169DE41F2: Beryl Shoals
+   [262] 0xD59AD0C169DE41F3: Plunder Cove
+   [263] 0xD59AD0C169DE41F0: Diver's Den
+   [264] 0xD59AD0C169DE41F1: Mermaid's Secret
+   [265] 0xD59AD0C169DE41F6: Refuge Island
+   [266] 0xD59AD0C169DE41F7: No Trouble Atoll
+   [267] 0xD59AD0C169DE41F4: Cay to the City
+   [268] 0xD59AD0C169DE41F5: Plumbob Island
+   [269] 0x8568C9C2DE0B5A98: This houseboat is designed for folks who are new to life above water!
+   [26A] 0x8A1D3685B0CC90FF: A pleasant houseboat designed for two.
+   [26B] 0x030AB7EA0F541374: A handsome houseboat for a handsome man!
+   [26C] 0xACB1F3B763CBBE3A: This houseboat is designed for free spirits who roam the open sea.
+   [26D] 0xE8B34B1937D3742C: A well loved houseboat that is sturdy and strong.
+   [26E] 0x51E52555A33AF058: This speedy houseboat promises to go just as fast as every other houseboat.
+   [26F] 0x94FA1B7A8FBFAD15: This houseboat is happy to have you aboard!
+   [270] 0x94FA1B7A8FBFAD14: A clever houseboat design for not-so-clever people.
+   [271] 0x95A05A7A904CAF0F: This houseboat is sure to make all her passengers happy.
+   [272] 0x3664EBDDC345C6A2: A sturdy houseboat for adventurers everywhere!
+   [273] 0x3664EBDDC345C6A1: What fate awaits this houseboat on the open sea?
+   [274] 0x3664EBDDC345C6A0: This houseboat is sturdy and strong and good for long voyages.
+   [275] 0x35B832DDC2B38909: This houseboat is perfect for lazy days spent drifting on the sea.
+   [276] 0x55DF28FCA0E2A961: Our First Houseboat - 2br, 2ba
+   [277] 0x05FE2731AD8E3812: Atlantis - 1br, 2ba
+   [278] 0xC829915145836A29: Fantasea - 2br, 1ba
+   [279] 0xCEEA5B5AA5FCC791: Sea Spirit - 1br, 2ba
+   [27A] 0x8C05001BADC8AFF7: Aquaholic - 1br, 1ba
+   [27B] 0xC4DFDA8575796389: Tide Runner - 2br, 1ba
+   [27C] 0xC359268B9E3B9344: Happy Houseboat - 1br, 1ba
+   [27D] 0xC359268B9E3B9345: You're On a Boat - 1br, 1ba
+   [27E] 0xC2C05F8B9DB9E7E2: Bella - 1br, 1ba
+   [27F] 0xE544217311DC3689: The Floating Fortress - 3br, 2ba
+   [280] 0xE544217311DC368A: Destiny - 1br, 1 ba
+   [281] 0xE544217311DC368B: Odyssey - 2br, 2ba
+   [282] 0xE65DDA7312CB45A2: Escapade - 1br, 1ba
+   [283] 0x3FA1BC4D035DE01F: Silver Lining - 1br, 1ba
+   [284] 0x8CD4F4097DBDBAAF: The Lonely Beach, Isla Paradiso
+   [285] 0x8CD4F4097DBDBAAC: 1 Camino del Ray
+   [286] 0x8CD4F4097DBDBAAD: 11 Ocean View Road
+   [287] 0x8CD4F4097DBDBAAA: 5 Beach Boulevard
+   [288] 0x8CD4F4097DBDBAAB: Sandy Beach, Surf Island
+   [289] 0x8CD4F4097DBDBAA8: Sandy Shore, Surf Island
+   [28A] 0x8CD4F4097DBDBAA9: 1 Sharks Bay
+   [28B] 0x8CD4F4097DBDBAA6: 76 Civic Center
+   [28C] 0x8CD4F4097DBDBAA7: 74 Civic Center
+   [28D] 0x8CD4F5097DBDBC61: 78 Civic Center
+   [28E] 0x8CD4F5097DBDBC60: 17 Paradise Road
+   [28F] 0x8CD4F5097DBDBC63: Dry Land, Kraken Island
+   [290] 0x8CD4F5097DBDBC62: The Hill, Science Island
+   [291] 0x8CD4F5097DBDBC65: 53 Paradise Road
+   [292] 0x8CD4F5097DBDBC64: 51 Paradise Road
+   [293] 0x8CD4F5097DBDBC67: 65 Paradise Road
+   [294] 0x8CD4F5097DBDBC66: 7 Sea Spray Lane
+   [295] 0x8CD4F5097DBDBC69: Land's End, Isla Zamora
+   [296] 0x8CD4F5097DBDBC68: 25 Riviera Road
+   [297] 0x8CD4F2097DBDB708: 45 Surf Circle
+   [298] 0x8CD4F2097DBDB709: 1 Alto Road
+   [299] 0x8109279CA3E73499: The perfect home for the anti-social Sim in us all.
+   [29A] 0x8109279CA3E7349A: A modern take on an ancient home.
+   [29B] 0x8109279CA3E7349B: A lovely home with excellent views.
+   [29C] 0x8109279CA3E7349C: This cozy home has nurtured Sims for generations.
+   [29D] 0x8109279CA3E7349D: This home is close to the water, perfect for Sims who love to swim or fish.
+   [29E] 0x8109279CA3E7349E: A modest ocean view home.
+   [29F] 0x8109279CA3E7349F: This seaside home features wonderful views of Sharks Bay.
+   [2A0] 0x8109279CA3E73490: This home features plenty of space for an expanding family.
+   [2A1] 0x8109279CA3E73491: Colorful and fun, this home is perfect for any Sim looking to add some festivity to their daily lives.
+   [2A2] 0x8109289CA3E7366B: Life's a party when you reside in this colorful home!
+   [2A3] 0x8109289CA3E7366A: Ample space for one, maybe two. Three is a crowd.
+   [2A4] 0x8109289CA3E73669: This modern marvel is located on high ground, well away from potential tsunami flooding and kraken attacks.
+   [2A5] 0x8109289CA3E73668: Every budding scientist needs their own research facility and the remoteness of this home makes it perfect for... experiments.
+   [2A6] 0x8109289CA3E7366F: Modern, vibrant, and large, this home is sure to please.
+   [2A7] 0x8109289CA3E7366E: The best home is one that feels like a respite from the busy world....
+   [2A8] 0x8109289CA3E7366D: Designed by a renowned architect, this home was featured on the cover of the Island Architecture magazine.
+   [2A9] 0x8109289CA3E7366C: A regal estate for important Sims.
+   [2AA] 0x8109289CA3E73663: This home offers solitude and seclusion.
+   [2AB] 0x8109289CA3E73662: The perfect place to spend a vacation.
+   [2AC] 0x8109299CA3E7383E: This house looks best when viewed in full sunshine.
+   [2AD] 0x8109299CA3E7383F: This mega-mansion is all about luxury.
+   [2AE] 0x8913C5F1006A7754: Solitude - 1br, 1 ba
+   [2AF] 0x8913C5F1006A7757: Castillo de Ichtaca - 5br, 3ba
+   [2B0] 0x8913C5F1006A7756: Adobe Abode - 3br, 1ba
+   [2B1] 0x8913C5F1006A7751: Casita Azulita - 0br, 1ba
+   [2B2] 0x8913C5F1006A7750: Spirit of the Sea - 2br, 1ba
+   [2B3] 0x8913C5F1006A7753: Seaside Escape - 1br, 1ba
+   [2B4] 0x8913C5F1006A7752: Sea House - 2br, 1ba
+   [2B5] 0x8913C5F1006A775D: Colonial Casa - 4br, 2.5ba
+   [2B6] 0x8913C5F1006A775C: The Painted Lady - 2br, 2ba
+   [2B7] 0x8913C4F1006A7582: Fiesta House - 1br, 2ba
+   [2B8] 0x8913C4F1006A7583: Casa del Sol, 2br, 2ba
+   [2B9] 0x8913C4F1006A7580: The Modern Hideaway - 1br, 1.5ba
+   [2BA] 0x8913C4F1006A7581: My First Research Facility - 1br, 1ba
+   [2BB] 0x8913C4F1006A7586: The Red Palace - 4br, 2ba
+   [2BC] 0x8913C4F1006A7587: The Oasis - 1br, 1.5ba
+   [2BD] 0x8913C4F1006A7584: A Modern Folly - 2br, 3ba
+   [2BE] 0x8913C4F1006A7585: The Spanish Queen - 2br, 2ba
+   [2BF] 0x8913C4F1006A758A: Surf Shack - 0br, 0ba
+   [2C0] 0x8913C4F1006A758B: Holiday House - 3br, 1ba
+   [2C1] 0x8913C3F1006A73CF: Sundancer - 2br, 1ba
+   [2C2] 0x8913C3F1006A73CE: Luxury Villa - 2br, 1.5ba
+   [2C3] 0x1F9D479DF8CAD544: 58 Civic Center
+   [2C4] 0xBDD90CA1E48AB900: 100 Civic Center
+   [2C5] 0xBEA124D759543CB4: Smuggler's Point, Isla Paradiso
+   [2C6] 0x883E3B2CA9A50D75: 10 Sunshine Street
+   [2C7] 0x7D9D2F22166663C1: 12 Scuba Street
+   [2C8] 0x6E82256D49CBE22D: The Bluff, Isla Paradiso
+   [2C9] 0x8E10361E7BAA20F3: 100 Universidad Boulevard
+   [2CA] 0x8DC9AE2A839B98A3: The Lab, Science Island
+   [2CB] 0xA6DAAE2EEB966432: 70 Civic Center
+   [2CC] 0xBA42056E45409B16: Those who frequent The Mermaid Grotto boast of its beauty. The colorful corals attract many visitors here, both from water and land!
+   [2CD] 0x439F413EAF3FCD69: Within the depths of these natural formations are hidden sealife and treasure accessible to the expert diver.
+   [2CE] 0x92218330453D2BA4: A popular spot for novice divers, Rocky Reef is the diving destination for Sims looking to get more than their feet wet.
+   [2CF] 0xC268C75BCF50616F: Simbeard and his crew of pillaging pirates were notorious for the rare treasures they collected throughout the seas. But alas, a run-in with Mr. Davy Jones himself ran the luck of this pirate crew out. The last known location of Simbeard's vessel lays below these waters.
+   [2D0] 0xFB12EA1B8B481C7F: What wonders lay beneath these still waters?
+   [2D1] 0xC1946B1C2D070D19: The Mermaid Grotto
+   [2D2] 0x11D76909E0BAC406: Pearl's Deep
+   [2D3] 0x405DF1394D17A11F: Rocky Reef
+   [2D4] 0x639CAAFAA76A3ED4: Davy Jones' Locker
+   [2D5] 0xD85AF15E2A8795CC: Cenote
+   [2D6] 0x38AD751319848A8A: 11 Scuba Street
+   [2D7] 0x38AD751319848A89: 13 Scuba Street
+   [2D8] 0x38AD751319848A88: 14 Scuba Street
+   [2D9] 0x38AD751319848A8F: 2 The Overlook
+   [2DA] 0x38AD751319848A8E: 1 The Overlook
+   [2DB] 0x38AD751319848A8D: 63 Paradise Road
+   [2DC] 0x38AD751319848A8C: 68 Civic Center
+   [2DD] 0x38AD751319848A83: 80 Civic Center
+   [2DE] 0x38AD751319848A82: 90 Civic Center
+   [2DF] 0x38AD741319848938: The Plaza
+   [2E0] 0x38AD741319848939: The Hilltop, Isla Paradiso
+   [2E1] 0x38AD74131984893A: 6 Ocean View Way
+   [2E2] 0x38AD74131984893B: 36 Paradise Road
+   [2E3] 0x38AD74131984893C: 5 Sea Spray Lane
+   [2E4] 0x38AD74131984893D: 12 Shaka Bra Road
+   [2E5] 0x38AD74131984893E: Crystal Cove, Isla Paradiso
+   [2E6] 0x38AD74131984893F: Bella Vista Beach, Surf Island
+   [2E7] 0x38AD741319848930: Manufactured Sands, Isla Paradiso
+   [2E8] 0x38AD741319848931: 45 Paradise Road
+   [2E9] 0x38AD771319848E11: 75 Fiesta Circle
+   [2EA] 0x38AD771319848E10: 101 Surf Circle
+   [2EB] 0x38AD771319848E13: 54 Civic Center
+   [2EC] 0x4EF3E5F9D09B5A4C: Port Pescado, Isla Paradiso
+   [2ED] 0xC3CA137D77FA6F11: Pleasing Port, Isla Paradiso
+   [2EE] 0xC3CA137D77FA6F12: Port Plenty, Isla Paradiso
+   [2EF] 0xC3CA137D77FA6F13: Port Placid, Surf Island
+   [2F0] 0xC3CA137D77FA6F1C: Promising Port, Isla Paradiso
+   [2F1] 0xC3CA137D77FA6F1D: Port Popular, Isla Paradiso
+   [2F2] 0xC3CA147D77FA70E7: Port Pyre, Fire Island
+   [2F3] 0xC3CA147D77FA70E6: Port Pleasant, Surf Island
+   [2F4] 0xC3CA147D77FA70E5: Prominent Port, Isla Paradiso
+   [2F5] 0xC3CA147D77FA70E4: Pretty Port, Isla Paradiso
+   [2F6] 0xC3CA147D77FA70E3: Port Playa, Isla Paradiso
+   [2F7] 0xC3CA147D77FA70E2: Port Pepper, The Lonely Isle
+   [2F8] 0xC3CA147D77FA70E1: Peaceful Port, Isla Paradiso
+   [2F9] 0x4EF3E5F9D09B5A48: Picturesque Port, Isla Paradiso
+   [2FA] 0x4EF3E8F9D09B5FA7: Port Perilous, Surf Island
+   [2FB] 0xE56D0DB95D76A591: Premium Port, Isla Paradiso
+   [2FC] 0xE56D0DB95D76A592: Port Prosperous, Isla Paradiso
+   [2FD] 0xE56D0DB95D76A59C: Port Primavera, Isla Paradiso
+   [2FE] 0xB3A7609F80992877: Built atop the best sand money can buy, this resort caters to an upscale clientele including movie stars, the rich and the restless, and, of course, families like yours!
+   [2FF] 0xB3A75F9F809926AB: The green coast has long been a place for relaxation and rejuvenation. The modern resort is built on the ruins of a colonial era fort that was used by the famous pirate Currency Charlie as a place to relax between pillaging and plundering. Beauty and history combined with modern luxuries make this the perfect vacation spot for families, couples, and single Sims alike.
+   [300] 0xB3A75F9F809926AA: If surf, sun, and fun are what you’re after then this is the perfect vacation spot for you!
+   [301] 0x51EF53E3225B82A7: Seaside Stuff Art Gallery
+   [302] 0x51EF53E3225B82A4: Petite Park
+   [303] 0x51EF53E3225B82A5: Fortunate Fishing
+   [304] 0x51EF53E3225B82A2: Island Jewel Park
+   [305] 0x51EF53E3225B82A3: Ichtaca Community Garden
+   [306] 0x51EF53E3225B82A0: Oceanview Cemetery
+   [307] 0x51EF53E3225B82A1: Paradise Pub
+   [308] 0x51EF53E3225B82AE: Beso de Sol Garden
+   [309] 0x51EF53E3225B82AF: Los Libros Library
+   [30A] 0x51EF54E3225B8479: Plaza Park
+   [30B] 0x51EF54E3225B8478: Greenbeard's Fishing Spot
+   [30C] 0x51EF54E3225B847B: Cementerio Antiguo
+   [30D] 0x51EF54E3225B847A: The Palms Gym
+   [30E] 0x51EF54E3225B847D: Sweet Water Pool
+   [30F] 0x51EF54E3225B847C: Rebecca's Cafe
+   [310] 0x51EF54E3225B847F: Crystal Waters Beach
+   [311] 0x51EF54E3225B847E: Bella Vista Beach
+   [312] 0x51EF54E3225B8471: Sparkling Sands Beach
+   [313] 0x51EF54E3225B8470: Sparkling Sands
+   [314] 0x51EF51E3225B7F00: La Costa Verde
+   [315] 0x51EF51E3225B7F01: Hobart's Hideaway
+   [316] 0x51EF51E3225B7F02: Nautical Museum
+   [317] 0x9AFC6E3F7F399ABB: Port Pescado
+   [318] 0x948A10E52EE1EBF4: Pleasing Port
+   [319] 0x948A10E52EE1EBF7: Port Plenty
+   [31A] 0x948A10E52EE1EBF6: Port Placid
+   [31B] 0x948A10E52EE1EBF9: Promising Port
+   [31C] 0x948A10E52EE1EBF8: Port Popular
+   [31D] 0x948A0FE52EE1EA3E: Port Pyre
+   [31E] 0x948A0FE52EE1EA3F: Port Pleasant
+   [31F] 0x948A0FE52EE1EA3C: Prominent Port
+   [320] 0x948A0FE52EE1EA3D: Pretty Port
+   [321] 0x948A0FE52EE1EA3A: Port Playa
+   [322] 0x948A0FE52EE1EA3B: Port Pepper
+   [323] 0x948A0FE52EE1EA38: Peaceful Port
+   [324] 0x9AFC6E3F7F399ABF: Picturesque Port
+   [325] 0x9AFC6F3F7F399C0C: Port Perilous
+   [326] 0x60C184CB2E3227CC: Premium Port
+   [327] 0x60C184CB2E3227CF: Port Prosperous
+   [328] 0x60C184CB2E3227C1: Port Primavera
+   [329] 0x450F8D731AEDCF65: Island Paradise
+   [32A] 0xC79039D415B940B0: (From Mosquito Bite)
+   [32B] 0xA0A9A6D61D84DF27: Aislara is a bit of a loner who always seem to be thinking about something far, far away…
+   [32C] 0xF69191FBF1116B38: Akoni is a cousin of Alana Kahale from Sunlit Tides.
+   [32D] 0xB7D8801E3BE140D2: Alfonso turned a small investment into a huge fortune.
+   [32E] 0x0F9176443FFAE595: Andrei spent his youth traveling the world enjoying water sports. This place was always his favorite, so he decided to retire here.
+   [32F] 0x7B0F0D7BDE2C65D8: Antoine loves to go diving and participate in water sports.
+   [330] 0x01CF335041706482: Pretty, stylish, and a bit of a daredevil Ashley is oblivious to her parents marital woes.
+   [331] 0x33CF83FC8021034F: There is something sad and almost detached about Cara…
+   [332] 0xC82CB810B7AEFEE7: Carolina is a proud woman and bit of a snob.
+   [333] 0xBF46B6F7CB69DD31: Chandell is tired of being cooped up on a boat with her parents. Though she loves them she yearns for adventure…
+   [334] 0xEF86636CF5F8C55F: Christopher has a good disposition and people like him.
+   [335] 0x83684FA81ED44255: Cristobel does not like to spend time outside and prefers to play alone.
+   [336] 0x663E111391F11404: Devin is a quiet man with the soul of a poet.
+   [337] 0x3AAAAFFC83801F03: A former investment banker, Doug still dresses sharp and has a stern manner. 
+   [338] 0xDD33024B2ECDB9B5: Edward dreams of visiting Twikkii Island, which he is sure lies just over the horizon…
+   [339] 0x85F5861A7DB507EA: Emily is a happy child with many friends and few worries.
+   [33A] 0x35085FCBEBE1ABC2: Everado is a musical genius.
+   [33B] 0xD76D3F2C8A2CD2DB: After her husband lost his resort investments to Alfonso Alto, Florita left him and their child and has been carrying on an affair with Alfonso, right under his wife's nose…
+   [33C] 0x7C19343467368AE3: Francios is destined to be handsome like his father.
+   [33D] 0x5C3FA37801EDB897: Gabrielle knows her parents want her off their houseboat, but life is so much easier when it's predictable.
+   [33E] 0x74F815F0FBFFF51B: The sun, surf, and sand are the best part of living here!
+   [33F] 0x3E45CAAA7DB1DFA8: Isn't it wonderful to live so close to the beach!
+   [340] 0xD19BC730D62C3CE0: Being trapped forever in such a beautiful place isn't so bad...
+   [341] 0x37F857AE0BCF5DC1: Being a ghost in paradise... I could do worse.
+   [342] 0x94327436649E232D: Gregory is touring the islands. His first stop was Sunlit Tides to visit his cousins.
+   [343] 0xC7902C479F6D7540: Guillermo is handsome, like his brother.
+   [344] 0x4C5EDC37ECADA279: Harley's main focus is fish, fish, and bigger fish!
+   [345] 0x18FE60374BC89D52: Hinni is playful and easy going. She likes to spend her days lounging on the beach.
+   [346] 0x4C102B3768744075: Honey is a rising star in the culinary world. 
+   [347] 0x5E808D86EF73B48E: As a child Javiera enjoyed studying ghosts at the graveyard.
+   [348] 0x6DBC89FCA02BDBDE: Joel is a champion swimmer.
+   [349] 0x6CCE784379BCD2DC: Justine is athletic and enjoys spending time in the sun.
+   [34A] 0xD770058D90795470: Karlie loves swimming scuba diving, and seafood.
+   [34B] 0x3069ABC47721D54D: Leandro hates to be idle and is always trying to stay busy.
+   [34C] 0x672F4D041FD5210E: Liliana is a difficult child and is bound to grow into a spoiled teenager.
+   [34D] 0xCEE0E4F340E19225: Lincoln trained his daughter, Honey, to follow in his footsteps.
+   [34E] 0xA44992554509D0AC: Linda doesn't share her husband's passion for the sea, and quite frankly she's tired of dusting his bits of driftwood and shells that clutter the family houseboat. She yearns for a stable life…on land. 
+   [34F] 0x2A1393D20ED1558F: Lopita loves showing off her wealth and is rumored to have married her husband for his money.
+   [350] 0x7F53E6FCAA3654B8: Lora loves reading above all other hobbies.
+   [351] 0x37B8BD6CD0EF2776: Margarita has two children who have long since moved away.
+   [352] 0x8E7910BCB10784C2: Martina is a happy child and is very social.
+   [353] 0x6CEDD96118541BE9: Masao and Honey were brought together by their love for gardening.
+   [354] 0x97DB0FFC6FB00C6A: As a child Matteo loved to go fishing and would count the boats as they drifted by…
+   [355] 0xB952BDF1C82DB476: Sometimes Matthew is afraid of gnomes.
+   [356] 0x8A6F18FCB1324860: Maya enjoys bright sunshine and cool water.
+   [357] 0xDA0C8A6C47073AFB: Mia had a lovely voice, but now she just plays guitar…
+   [358] 0x0A053896149C668B: Michael likes to throw temper tantrums.
+   [359] 0x24D4B560EEB288B0: Mylee is dedicated to her family and loves to cook.
+   [35A] 0x990F5AFCB8B6BE90: There is nothing Olin loves more than a good workout!
+   [35B] 0x990C6EFCB8B4AB51: Omar loves to explore and spend time at the playground.
+   [35C] 0xF378FFE61B99DFAA: Palmira is confused by her parents separation and is fussy and often sullen.
+   [35D] 0x2B82C7B978D61553: Persephone used to vacation on the islands as a girl and has always dreamed of moving here.
+   [35E] 0x1BC53185F2CE75FE: Phillip is a poor student, but he excels at sports.
+   [35F] 0x9D3AED8AD068470A: Rajan has a winning personality and a winning body. 
+   [360] 0xDA1D7E6C47159900: Rei prefers to stay out of the sun and read a good book.
+   [361] 0x082C8CE2F500E109: Rosemarie is dedicated to her family and hopes to have many, many children. 
+   [362] 0xEFE2A58A6E322962: Ruben loves his family, fishing, and the open sea…in that order.
+   [363] 0x48B7484685A4EBF0: Rubisel is an expert scuba diver who once saw a mermaid…
+   [364] 0xD5427C90A7349061: Salty is evil. He loves sharks.
+   [365] 0xBCC1FAFCCD3B35B1: Sean loves to cook, clean, and play guitar.
+   [366] 0x5D48D597CE28BB23: Tariq's real passion is the sea and all things about it…swimming, fishing, scuba, he loves them all.
+   [367] 0x48D218D0533BA437: Teodor is too trusting, which is why Alfonso was able to take advantage of him.
+   [368] 0x9350C675D8D5F806: Formerly known as "Fish Kid"
+   [369] 0xE1F936681F4E6892: Valerie yearns for romance, but feels too busy to find love.
+   [36A] 0x62375ED6D9DCBB50: Some people mistake Yelena's pride for snobbery.
+   [36B] 0xB4A8CD01C9EEC997: Alto
+   [36C] 0x2A4F8A02AC15A4E3: The Altos are known for their enormous wealth and questionable ethics…Alfonso made his fortune in island resorts, but only by stealing from and lying to his partners. Enemies abound and friends are few…will Lopita stand by her husband or has she had enough of his wicked ways?
+   [36D] 0x30A28A3D03498402: The Siren
+   [36E] 0x65B998F6CADA39A8: A soulful song writer with a quiet disposition and stars in her eyes, Aislara is a talented guitar player and is well known on the islands for her soulful tunes. 
+   [36F] 0x0CD40740A81F1253: Los Amigos
+   [370] 0x7434F1139D4EB08F: Harley and Rajan are enjoying an extended stay on the islands. Harley won't go home until he's caught all the fish, and Rajan won't go home until he's romanced all the ladies! With goals like that they're here for the long haul!
+   [371] 0x932B5109EFD6218F: Arias
+   [372] 0x7406049BE4AD8CCB: When they retired Ruben and Mylee sold their home and moved onto a houseboat with dreams of fishing and traveling the seas. Their daughter Gabrielle was suppose to stay with them for only a few short weeks...weeks that turned into months. Her parents worry, will she ever leave the nest and let them get on with their retirement?
+   [373] 0xBA502821F912CBDA: Babes on the Beach
+   [374] 0x01BC70BD05274BF0: Three young women looking for love and good times on the beach! Hinni, Karlie, and Rei have come to the islands to catch some sun and enjoy some R&R, but Karlie is falling hard for both scuba diving and the islands many bachelors... Vacations are meant to be temporary, but maybe she should stay for good?
+   [375] 0x8E391AFFD0398EB1: The Scientist
+   [376] 0xCB90BA2EE984960D: Brilliant, genius, loner…Javiera prefers to live alone from other Sims so that she can pursue her experiments in a controlled environment. She has wide eyes that twinkle (with a touch of madness?) and a passion for experiments of all sorts.
+   [377] 0x1A3221D46C57B583: Collins
+   [378] 0xBA20001E9E80541F: Christopher and Rosemarie are dedicated to their growing family, but three kids and another on the way, oh my!
+   [379] 0x907249338B49DB8C: Dregg
+   [37A] 0xF8CD72851808C51A: Edward and Cara have been newlyweds for a long, long time. Cara likes to be grounded and enjoys keeping house, but Edward is always dreaming of the far horizon. Their love has stood the test of time, but can it withstand Edward's wanderlust?
+   [37B] 0x60AB846AB9C0DF77: Estrada
+   [37C] 0x70401C12A005276D: Hamada
+   [37D] 0x544FDC1BDA16BE39: It was love at first sight for Honey and Masao, quickly followed by a beach wedding and a lovely baby girl! If happiness is worth its weight in gold then the Hamadas are the wealthiest family in the world…
+   [37E] 0x6BAAEE329D83C4F8: Han
+   [37F] 0x968FE59CC39743F6: Recent transplants to the islands the Han family have made friends, found jobs, and adjusted to island life…at least the adults have. Phillip and Michael are spoiled, stubborn, and miss their old home, will they ever adjust?
+   [380] 0x7DDCABFF7EA9D9C0: Senorita Hernandez
+   [381] 0x9E527DC5B522F2EE: Florita left her lover after he lost everything to the Altos, and she soon started a steamy affair with Alfonso Alto himself…Florita has big dreams of wealth, prestige, and power, but will her wanton ways really net her all she desires?
+   [382] 0x5FCCAC0BF493BBAC: Ichtaca
+   [383] 0x81DDFAA90082B8BA: The Ichtaca family are descendants of ancient island royalty and take a great pride in their ancestry.
+   [384] 0xA824D477B7E4B0CF: The Romantic
+   [385] 0xBDAED58469024B0B: Akoni is kind and generous, wealthy and single…a hopeless romantic he relocated to the islands after a fortune teller foretold that this is where he would meet his one true love…
+   [386] 0xAD054CE603D6FED3: La Rosa
+   [387] 0x3B84EE7D462EDA0F: Leandro and Lora worked hard and saved every Simoleon so they could have a fabulous retirement. Moving to the islands was their dream, but life in paradise costs more than they imagined. Will they find a way to make their budget work, or should they look at downsizing to a smaller place?
+   [388] 0x2AFE05F252E1B778: Leroy
+   [389] 0x617BA1481025AF76: Antoine quit his high stress job and brought his family for an extended stay on the islands. They love the sun, the sand, and the surf, but their son Francois is afraid of the water…can his parents help him overcome this fear?
+   [38A] 0x4F45A008BD802892: The Lone Artist
+   [38B] 0x8444F53E209EA0D8: A successful artist in her youth, Margarita now finds herself alone, adrift in a world of vibrant color… Though her days are waning Margarita will be happy to spend her remaining time painting seascapes and sunrises.
+   [38C] 0xFFB1F96F13152736: Lozano
+   [38D] 0xEAE4EDEB556A14BB: The Loner
+   [38E] 0x44A421313A662767: Madness runs in the family, or so Matthew has been told. Only he can't remember where his family is, so he lives alone on a desert isle with his collection of not-so-rare tropical plants and driftwood.
+   [38F] 0xC7EA7ABE5EABF1F7: Medina
+   [390] 0xC50C4F28F85C48C3: Teodor lost his resort plans and his lover, Florita, to Alfonso Alto. Now he struggles as single dad with no reliable income…will Teodor be able to turn his life around and win Florita back, or is it time to look for someone new?
+   [391] 0xC1F684CE500530B4: Mermaid
+   [392] 0x94352FEB244BCA46: Moose
+   [393] 0x06C59418F0C46B27: Neiman
+   [394] 0xD63D99F86BAD8428: Ojeda
+   [395] 0x54228573B4DE5006: Family and tradition are the foundations of Olin and Yelena's life together, but their narrow world view has put them at odds with their daughter, Lopita. Can the family reconcile the differences between old and new?
+   [396] 0xFA13F6B4FE4B1CFD: The Diver
+   [397] 0x6ACB88F23C6599A9: Gregory's passion for scuba diving knows no limits and there is nothing this bachelor would rather be doing than spending time beneath the waves. His ideal match? Someone who loves what is underneath the sea just as much as he does!
+   [398] 0x0F702205DE187CBF: The Angler
+   [399] 0x0D4D7EA531FDEB9B: Lincoln has dedicated his life to the study of fish. How to catch them, how to keep them, how to cook them… He is an expert on mermaid lore and has spent most of his adult life pursuing their secrets…
+   [39A] 0x851B76AB7C1C9DC4: The Prince
+   [39B] 0xB32B5874EB5E4382: Descended from ancient royalty, Rubisel prides himself on his family's lineage and his chiseled good looks. Not to mention his handsome houseboat and his successful career in Law Enforcement. Will he ever settle down, or does his heart belong to the sea?
+   [39C] 0x88DD36AA15DC0891: The Lonely Lover
+   [39D] 0x850E9AA8F594496D: After the death of his wife Doug decided he needed a change of scenery. Money can't buy happiness, but it can buy a wonderful mansion with an attractive next door neighbor…
+   [39E] 0x1AD62D9F06EE79E0: Scott
+   [39F] 0xDC6B28D64598E48E: Tariq loves the sea, but Linda yearns for a life on solid ground. Will living together in close quarters bring them closer together, or will this be the wedge that finally drives them apart?
+   [3A0] 0x3F512508114C3200: Torres
+   [3A1] 0xC4862C2982BB712E: Matteo struggled emotionally and financially after losing his parents at a young age. Though he is strong of spirit and perseverant, his moral compass may be faulty...will a life of crime bring Matteo the security he yearns for, or will it be the cause of further tragedy?
+   [3A2] 0xDBB84609DEF8610E: Varadi
+   [3A3] 0x221CE1AA0A35AF84: A retired fisherman and avid scuba diver Andrei has dedicated his life to what lives under the waves…
+   [3A4] 0xF3ABA0C88D3B0E17: Vidal
+   [3A5] 0x90279D3E77059663: Valerie has her hands full as a single mom with two teenage sons and a full time career. Between work, family obligations, and her hobbies there is very little time for romance…but the heart wants what it wants, is a new relationship on the horizon?
+   [3A6] 0x001D4EC2DCFBE1C4: Walsh
+   [3A7] 0x6BDDEE329DAF1E4A: Yee
+   [3A8] 0xCF45B6DEAA55BCB8: Adalia
+   [3A9] 0x9CAB1C2FE06658CD: Aida
+   [3AA] 0x03C1FEDABA6B63B9: Aislara
+   [3AB] 0xAF42FB5A586F29F6: Akoni
+   [3AC] 0xFA273A9D32F23661: Alazar
+   [3AD] 0xF29F2A9D2F0093E8: Albert
+   [3AE] 0x88415DF44055CE30: Alfonso
+   [3AF] 0x9C0DA49CFDFBA5CB: Allani
+   [3B0] 0x91D3799CF7BF80AC: Almira
+   [3B1] 0x9CBC422FE0750C1E: Alto
+   [3B2] 0xE7AD1D70350C4A29: Alvarez
+   [3B3] 0x456F069CCCEC04EB: Alvaro
+   [3B4] 0xC55ADF749F704815: Anarosa
+   [3B5] 0x1E8893ADCF4BA84B: Andrei
+   [3B6] 0x6C1791DF9972CC3E: Antoine
+   [3B7] 0x6C0D96DF996A803A: Antonio
+   [3B8] 0x87DD1D5AD321C728: Arias
+   [3B9] 0x87DD215AD321CE4B: Ariel
+   [3BA] 0x7D4DE55ACC9D4C09: Ashby
+   [3BB] 0x88D8E249AF718D14: Ashley
+   [3BC] 0xE4865F132422150E: Azalia
+   [3BD] 0x9CEC3D2FE09E27D8: Azul
+   [3BE] 0x14230BBDCFBB1E22: Batista
+   [3BF] 0x5F912EEF1C17FDCF: Bernardo
+   [3C0] 0xE2394DB8B4505891: Blanca
+   [3C1] 0xD9046FE0A4AEE9EE: Caldwell
+   [3C2] 0x256F5B6A07862654: Capistrano
+   [3C3] 0x8A99E02FD5F4BB3D: Cara
+   [3C4] 0x18F7674ABC903CFE: Carmel
+   [3C5] 0xFCAE7FFE69222AF1: Carmina
+   [3C6] 0x8AA4845E564906C5: Carolina
+   [3C7] 0xDAED68F483D31EA3: Casarosa
+   [3C8] 0x8AB8E72FD60F77BE: Chan
+   [3C9] 0x5EE91AA8AF5B193F: Chandell
+   [3CA] 0x199EAD9C3B33EBED: Christopher
+   [3CB] 0x8ABBD12FD611882A: Coco
+   [3CC] 0x4CF37052D79A7680: Collins
+   [3CD] 0x8C8BD70D4BE3E293: Consuelos
+   [3CE] 0xF9EE7148D846D2BA: Craig
+   [3CF] 0x62DCB0FFD733D953: Cristobel
+   [3D0] 0x8ACCDF2FD6201338: Cruz
+   [3D1] 0x4988E24905D45090: Cygan
+   [3D2] 0xE28A713DA837410E: Cynthia
+   [3D3] 0xD2E3DF2E49EF175B: Dallas
+   [3D4] 0xA8331E7246ADA967: Dario
+   [3D5] 0x2665492E6FC55501: Darrellyn
+   [3D6] 0xC290B3510419763B: Delmar
+   [3D7] 0xCC11A2725B572B2E: Devin
+   [3D8] 0x533B4D8AFB2B078D: Domingo
+   [3D9] 0xB611AC2FEE9EB201: Doug
+   [3DA] 0x1B9B217288D64D9F: Dregg
+   [3DB] 0x55AD5C72A9009CAD: Dulce
+   [3DC] 0x7562B819F07EA0EB: Edward
+   [3DD] 0x30138F796D812DB4: Emily
+   [3DE] 0xBE8E246D541B6876: Enrico
+   [3DF] 0xD1DB1AC6C7560E6B: Estefani
+   [3E0] 0xA4BEBC793F9D2194: Estrada
+   [3E1] 0x51E4158EE7B90498: Everado
+   [3E2] 0x62882BB92F3F0209: Felipe
+   [3E3] 0xC5257493591EAC85: Ferdinand
+   [3E4] 0xA10EAB186F12C207: Florinda
+   [3E5] 0xA0EE02F7D12CEAA9: Florita
+   [3E6] 0x82FEC588CB123E83: Foster
+   [3E7] 0x494F0A072C132D51: Fox
+   [3E8] 0xBADA3A8877FAE0D1: Francios
+   [3E9] 0x6C7961162A59CF0D: Gabrielle
+   [3EA] 0x1EDA501E92D5D009: Garcia
+   [3EB] 0x1F1A541E930BBB47: Garvin
+   [3EC] 0x349449C51C96B17F: Glenda
+   [3ED] 0x018F64C4FFF56C1A: Gloria
+   [3EE] 0x14A6E1BE0BC20256: Goldberg
+   [3EF] 0x5A0499100A080834: Goodwhich
+   [3F0] 0xAEC37E2FEADE5554: Goth
+   [3F1] 0x1719D5B6FE7BE608: Greenwood
+   [3F2] 0xB0ED9CD111086BEB: Gregory
+   [3F3] 0xF20CCE1074DB940E: Guillermo
+   [3F4] 0x83069C0708DA5289: Hadley
+   [3F5] 0xDA496A300394C077: Haku
+   [3F6] 0x336F1006DB4EDCA4: Hamada
+   [3F7] 0x4963F8072C256AF3: Han
+   [3F8] 0x2C4CE606D7B3C12B: Harley
+   [3F9] 0xFB82A99493C2FC20: Hashini
+   [3FA] 0x20BA67DA1EA0ABD3: Hernandez
+   [3FB] 0x5B123E96009F92F9: Heuer
+   [3FC] 0x3A5FB595EEA7B8E4: Hinni
+   [3FD] 0x04C19895CFD2055F: Honey
+   [3FE] 0xD632759646E33A87: Hwang
+   [3FF] 0x4966DC072C27708E: Ian
+   [400] 0x2BB638207CAFD147: Ichtaca
+   [401] 0x864C4F575A7B434A: Imelda
+   [402] 0xE16B9530072FDD52: Inez
+   [403] 0x3E51C6883941899C: Isabel
+   [404] 0x15320A842F5CB786: James
+   [405] 0xC81CF52FF90BFA7E: Jana
+   [406] 0x38A79CA2CB37B53C: Javiera
+   [407] 0x0A7888EFDDD1013C: Jessica
+   [408] 0xC815EA2FF905C8AC: Joel
+   [409] 0x0353B584251649AA: Jordi
+   [40A] 0xC860F52FF945C68C: Jung
+   [40B] 0xAC5956CE107D3432: Justine
+   [40C] 0x403937A0C7E5C3C3: Kaelee
+   [40D] 0x14C46FA0AF3E095A: Kahale
+   [40E] 0x7974BC8B41BDED5F: Kaiwi
+   [40F] 0xF3D1CDA09D1020B8: Kalani
+   [410] 0xCFE61E2FFD355E63: Kale
+   [411] 0xD438F0A11BEFC736: Karlie
+   [412] 0x496010072C21AAF7: Kay
+   [413] 0xCFCA3C2FFD1D162F: King
+   [414] 0x21689083DA736C52: La Rosa
+   [415] 0x497114072C3024EC: Lea
+   [416] 0x039D3E4444B7359B: Leandro
+   [417] 0xCDA758B50E81C0BF: Leroy
+   [418] 0xDFBA0B1650ABD294: Liliana
+   [419] 0x74BD33272CD2947F: Lincoln
+   [41A] 0x649863B4D2AFBF92: Linda
+   [41B] 0xA405CB543E9746E9: Lopita
+   [41C] 0xFB28073015B1F686: Lora
+   [41D] 0x7907EF54265490EF: Lousie
+   [41E] 0x4D821B540D9E4EE3: Lozano
+   [41F] 0x497104072C300930: Lum
+   [420] 0x4974F4072C33D767: Mac
+   [421] 0x8E4532BFBB2AE976: Mahai
+   [422] 0xC6FF0ACAF5918A34: Malala
+   [423] 0x8E3E61BFBB251A37: Mandy
+   [424] 0x8E3E60BFBB2518F4: Mango
+   [425] 0xD8E74FCAFFE031B0: Manuel
+   [426] 0x33BC2AF0A6DED874: Manzano
+   [427] 0xA182FEA2F6E57AB4: Margarita
+   [428] 0x5842290E660DE6F9: Marianne
+   [429] 0x44979155955424EC: Martina
+   [42A] 0x8E6A52BFBB4A3BD3: Masao
+   [42B] 0x0F49AE2077C0450B: Matsuri
+   [42C] 0x0B4535CB1BF32E64: Matteo
+   [42D] 0x19B7D2207E296A9C: Matthew
+   [42E] 0x1C49139C4504D3D8: Maxfield
+   [42F] 0x059225301C172906: Maya
+   [430] 0x9F1FEDEC115860F8: McGuire
+   [431] 0x1BF750A8621946EA: Medina
+   [432] 0x4974EC072C33C90D: Mia
+   [433] 0x10CEA43FBD319DF1: Michael
+   [434] 0x057612301BFE8E0E: Minh
+   [435] 0xCD1953844FC66EE6: Minnie
+   [436] 0x75B52F778D82A79F: Montel
+   [437] 0x858729257502A05C: Montero
+   [438] 0x3794B2BF8A0B54AD: Moose
+   [439] 0xD34C96BFE2304CEA: Mylee
+   [43A] 0x3FC6C3A313B330D0: Nardi
+   [43B] 0xFE002EF6880EBE96: Neiman
+   [43C] 0x5F1DF8F6BF96060B: Nevada
+   [43D] 0x83FF14A33A08D7CC: Nicki
+   [43E] 0x845B10A33A572FE8: Nixon
+   [43F] 0x339F95E2AF96AA23: Nuzetti
+   [440] 0x127800ADCACEBB10: Ocean
+   [441] 0x5EB384ADF57F4FF7: Ojeda
+   [442] 0xF375DB30119B6CA6: Olin
+   [443] 0x692976867CCCB6FF: Oliver
+   [444] 0xF372EF301199589F: Omar
+   [445] 0xB56022AE269B2E79: Opali
+   [446] 0x77F8E7AE039C2900: Owens
+   [447] 0x29AD4ACB8B6178C4: Pablo
+   [448] 0x08B26A2F8C627FFD: Paco
+   [449] 0x46F67D056B396CA8: Palmira
+   [44A] 0x08B27B2F8C629C07: Parr
+   [44B] 0x63EB547781F6A58A: Parrott
+   [44C] 0x29CF45CB8B7E56FE: Patel
+   [44D] 0x898A96DE07ADD1F6: Patell
+   [44E] 0xC1D41F4740D2DDCC: Patrick 
+   [44F] 0x08B2742F8C6290FC: Paul
+   [450] 0xECE357BAEB9BFA5E: Pepper
+   [451] 0x8C0C1C519144A121: Persephone
+   [452] 0x9F3492E77E5C1B00: Phillip
+   [453] 0x05D7D9EFF875E47A: Porter
+   [454] 0x0629DD4A0C700A75: Prince
+   [455] 0xC04085B9A5BB0F80: Rajan
+   [456] 0x5535DD490E6A5600: Randall
+   [457] 0xF6863D2F81DA3460: Rang
+   [458] 0xE69F6E7453242747: Raylen
+   [459] 0x490AE0072BD91896: Rei
+   [45A] 0xF693322F81E4ABD3: Reya
+   [45B] 0xE0CA1DB9B78FFE26: Reyes
+   [45C] 0x468D211773A174B2: Ricardo
+   [45D] 0x00320DED8A078A39: Richardson
+   [45E] 0x37C0C1B9E8EA1F14: Rocco
+   [45F] 0x37AFC7B9E8DBB616: Rodel
+   [460] 0x42CD3336CC7F807B: Rosemarie
+   [461] 0x3768A9B9E89F80B8: Royce
+   [462] 0xF6CA292F8213DEB2: Rube
+   [463] 0x6D62ADBA07C36818: Ruben
+   [464] 0xDC9A3C348F2B0DE6: Rubisel
+   [465] 0xDA02D1CEE44FEA44: Sadoro
+   [466] 0xCDFD3CC5A01945D7: Salty
+   [467] 0xCDD84DC59FFA463C: Sayah
+   [468] 0xBBF6E8C595B1876F: Scott
+   [469] 0x01C33B2F88F2B557: Sean
+   [46A] 0x86BE3D184B1CCAB1: Seaworth
+   [46B] 0x8039644B07F6A724: Spencer
+   [46C] 0x7A42D2E7A7302818: Stanley
+   [46D] 0xFBCCA3B18A39BAAB: Tammie
+   [46E] 0x152916B198698ECE: Tanner
+   [46F] 0xFDB21DEF57ACC169: Tariq
+   [470] 0xFDC025EF57B90C63: Tavio
+   [471] 0x265117D58779F891: Teodor
+   [472] 0x2D23122FA1882D7E: Thom
+   [473] 0x4254DEECF9CDF59C: Thorpe
+   [474] 0xE159E705468BE475: Torres
+   [475] 0x2CCB042FA13D9F1D: Tran
+   [476] 0xEC4FE115DEB61D28: Triton
+   [477] 0x55055E3E75E4C86A: Ursula
+   [478] 0x489B250989C41CEC: Valerie
+   [479] 0x9DA8D547FC7F7EB3: Varadi
+   [47A] 0x4F7AE1DD4B3482AC: Vidal
+   [47B] 0x1AC3DB2F96D4769E: Vito
+   [47C] 0xF835FFE4842170AB: Walsh
+   [47D] 0x6AB1694C3F157F8F: Warren
+   [47E] 0x80DAD4E441119A33: Wolfe
+   [47F] 0x860B7333FAF42874: Xander
+   [480] 0x56D2773471752075: Xavier
+   [481] 0x493100072BFA1EF9: Yee
+   [482] 0xBDDC999A35076032: Yelena
+   [483] 0x00F9CB02063AE040: Yesenia
+   [484] 0x5883F22FBA1F6753: York
+   [485] 0xDBD06E2DF788663D: Yvette
+   [486] 0x32D5122E28EEC4BF: Yvonne
+   [487] 0x157982B47E2EFF25: Unfortunately, {0.SimFirstName} is not skilled enough to open this chest. {0.SimFirstName} needs to be a Level {1.Number} Scuba Diver to be able to open this chest.
+   [488] 0x1717F85B7AAB22DE: {0.SimFirstName} just found the following in the treasure chest: {1.String}
+   [489] 0x975D2B1527F90F4C: “Oh, so it’s adventure you want? Well then why are you hanging in the lobby?! You could be out searching for a SECRET ISLAND that only few have glimpsed. If you seek the unknown, talk to {OpTarget}. {OpTarget} will set you on your way.”
+   [48A] 0xE0D65B14269B1B85: "Talk about Refuge Island" with {OpTarget}.
+   [48B] 0xF31DAE14313A6FA3: The Old Sim and the Secret Island
+   [48C] 0xB07C2CEE312758FF: Talk to {OpTarget}.
+   [48D] 0x291489DDAB4B213B: “Aye, maybe I know about that which you speak, and maybe I don’t. Maybe The Refuge exists, and maybe it doesn’t - are you a true ally to this archipelago? If so, I have an ecologist friend that needs help..."
+   [48E] 0x6D6D533535339890: Bring {OpNumItemsGoal} Kelp to {OpTarget}.
+   [48F] 0x5EC200352DA4FD1A: Kelp! I need some!
+   [490] 0x69A327A4A49EC14A: {OpNumItemsCurrent} / {OpNumItemsGoal} Kelp
+   [491] 0x1AE68FEAF1EE057A: “Thanks for the help. You seem like a fine person, but are you in tune with your island spirit? Perform an act of daring mind-over-matter, and then we’ll talk about the island.”
+   [492] 0xC764C126E567144F: “Firewalk” Successfully on the Firewalk Pit.
+   [493] 0xB5F64C26DB7F7705: Firewalk with Me
+   [494] 0xA2695A76CA36E135: Firewalk
+   [495] 0x742A01368EB092B9: “One more thing - and this is really more a favor: Roving sharks have been interrupting my sea surveys, and it’s quite a bother. As an ecologist, it’s extremely important to me that you punch a shark in the face. That’ll teach ‘em.”
+   [496] 0x199BD10AC8011DB2: Get in a fight with a shark.
+   [497] 0xE770DE0AAC19657C: Shark, a Vagrant
+   [498] 0xC6BEB7B89768EFB8: Fight a shark
+   [499] 0x5E97DEF27C9B4904: There it is! The fabled Refuge Island! It should be easy to navigate there now!
+   [49A] 0x2AC17589953DD7D0: “Wow, thanks! OK, I’m convinced! Refuge Island is actually easy to find; there’s an old map at town hall that will point the way. Search the dilapidated cartography section.”
+   [49B] 0x0947FCE3D8541229: “Search for Map” at {OpTarget}.
+   [49C] 0xD60D27E3BB85591F: Not uncharted, you LOST the chart!
+   [49D] 0x2F742E71DFC116FB: Find the Map
+   [49E] 0xCF46E420FF65F9B3: Fascinating! There is so much to find at the bottom of the sea.
+   [49F] 0x8FD021A6CAA703C9: The bottom of the sea is host to a multitude of mysterious caves, waiting to be explored. The scientists at {OpTarget}, however, are not exactly the exploring type. To further their research, they would like {OpOwner} to explore some underwater caves and report back with what {MA.he}{FA.she} observes.
+   [4A0] 0xEC3BD4F07B17AA82: Explore {OpNumEventsGoal} underwater caves and report back to {OpTarget}.
+   [4A1] 0xB937E1F05E7801EC: Deep Sea Diving
+   [4A2] 0x6A0EA0CA604D10C8: Explored {OpNumEventsCurrent} / {OpNumEventsGoal} Caves.
+   [4A3] 0xCE5D4E1C450CDCEA: Fascinating! There is so much to find at the bottom of the sea.
+   [4A4] 0x13DBC1D1BC93581E: The bottom of the sea is host to a multitude of mysterious caves, waiting to be explored. The scientists at {OpTarget}, however, are not exactly the exploring type. To further their research, they would like {OpOwner} to explore some underwater caves and report back with what {MA.he}{FA.she} observes.
+   [4A5] 0x73161D171D387913: Explore {OpNumEventsGoal} underwater caves and report back to {OpTarget}.
+   [4A6] 0xA64FF0173A057B81: Deep Sea Diving
+   [4A7] 0x7D412700C775E101: Explore {OpNumEventsCurrent} / {OpNumEventsGoal} Caves.
+   [4A8] 0x159615B82A3C0C0F: Fascinating! These messages will greatly improve the completeness of the town's history.
+   [4A9] 0x6B1CFC6061E8353D: {OpTarget} is looking to collect some of the lost messages sent by the many former residents (and shipwrecked Sims) of the islands. {OpOwner} has been asked to find some messages in bottles that have ended up on the ocean floor.
+   [4AA] 0x5455E978B8C839B6: Deliver {OpNumItemsGoal} Message Bottles to {OpTarget}.
+   [4AB] 0x66673E78C33A01E8: Lost History
+   [4AC] 0x62BC8D11EBFD6EA4: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Bottles.
+   [4AD] 0x5EC599F994945946: Fascinating! These messages will greatly improve the completeness of the town's history.
+   [4AE] 0x90FB20E7B8EB60D2: {OpTarget} is looking to collect some of the lost messages sent by the many former residents (and shipwrecked Sims) of the islands. {OpOwner} has been asked to find some messages in bottles that have ended up on the ocean floor.
+   [4AF] 0xA4A383B70E611F67: Deliver {OpNumItemsGoal} Message Bottles to {OpTarget}.
+   [4B0] 0x92924EB703EF8DCD: Lost History
+   [4B1] 0xCC83E33C29AA956D: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Bottles.
+   [4B2] 0x23C5418C7EB8B04E: The chef accepts the urchins with gratitude and gingerly extracts the meat. The customers will be quite pleased!
+   [4B3] 0x89DFD17F736BF64A: The sea urchin is a true delicacy of the sea… even though it resembles a not so friendly pincushion. It seems that the regular customers of {OpTarget} have been clamoring for more and more of this strange, yet tasty, treat. Maybe {OpOwner} can use {MA.his}{FA.her} diving skills to find some urchins for the chef. 
+   [4B4] 0x267166E6E0B8005F: Deliver {OpNumItemsGoal} Urchins to {OpTarget}.
+   [4B5] 0x179031E6D8FC0835: Only Spiny on the Outside
+   [4B6] 0x394D5DB15832A6C5: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Urchins.
+   [4B7] 0x9AF51E1D52B34797: Whoa! Nice job wrangling those slippery buggers! The chef seems quite pleased with the quality of these eels.
+   [4B8] 0x9D42B3ECACD21E15: It might look slimy, but eel tastes surprisingly similar to chicken. Maybe that's why the diners at {OpTarget} have been ordering so much of it! The chef would be very appreciative if {OpOwner} could catch some eel for the restaurant.
+   [4B9] 0xC143B0D30B8451AE: Deliver {OpNumItemsGoal} Eels to {OpTarget}.
+   [4BA] 0xD02505D313408070: Slippery, Yet Satisfying
+   [4BB] 0x0458BD3DDBB7AE9C: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Eels.
+   [4BC] 0x1EE431BB0FB976C8: What a beautiful catch! The diners are sure to stick around with food this fresh.
+   [4BD] 0x1033707AD8D44D9C: The diners at {OpTarget} can't get enough of the new squid themed dishes the chef has been preparing. If the owners are going to keep up with demand, they'll need a skilled diver to catch some more chewy deliciousness.
+   [4BE] 0xC35BFCACB67DE715: Deliver {OpNumItemsGoal} Squid to {OpTarget}.
+   [4BF] 0xD4CA4FACC0654A13: Hope You Like it Chewy
+   [4C0] 0x4898693B5206CD0F: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Squid.
+   [4C1] 0x1D03390F71F671E9: The scientists are very happy with the shells that {OpOwner} found. Their experiments can continue uninterrupted now. 
+   [4C2] 0xB69D0887A34FBE27: The scientists at {OpTarget} are doing some research on marine mollusks and have been having some trouble finding enough seashells to study. They're willing to pay {OpOwner} to collect some samples for them.
+   [4C3] 0xD198154C40778EEC: Deliver {OpNumItemsGoal} Seashells to {OpTarget}.
+   [4C4] 0x08392A4C6029DD5E: Shell Studies
+   [4C5] 0xAEBCC2280882CA0E: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Shells.
+   [4C6] 0xA957F5118447B8AC: These samples will do nicely! {OpOwner} has been rewarded handsomely for {MA.his}{FA.her} work.
+   [4C7] 0x864404B40C7CFF88: In an attempt to keep the ocean free of impurities, the scientists at {OpTarget} need to study some sand particles from the ocean floor. Since sand often collects inside seashells, they would like {OpOwner} to find some shells for them.
+   [4C8] 0xB8B6AD2AE1EDFF41: Deliver {OpNumItemsGoal} Seashells to {OpTarget}.
+   [4C9] 0x868BB82AC6064347: Sandy Samples
+   [4CA] 0x1AE4722D67CC2413: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Shells.
+   [4CB] 0x4615E3219C3FD80B: Deliver {OpNumItemsCurrent} / {OpNumItemsGoal} Shells.
+   [4CC] 0x31E6F9538A067911: The people have decided that {OpTarget} would look better with more natural decorations from the surrounding waters. The mayor is willing to pay {OpOwner} to collect some beautiful looking shells from the sea to beautify the city capitol.
+   [4CD] 0x61B83F393440DA8A: Deliver {OpNumItemsGoal} Seashells to {OpTarget}.
+   [4CE] 0x2F576C39182BC924: Natural Decoration
+   [4CF] 0x914E4F37B0705F10: Such gorgeous colors! There's nothing quite like the natural beauty of nature.
+   [4D0] 0x3798F83A18073630: Ask About Refuge Island
+   [4D1] 0xEF0652FFAE5C07C1: Permission to View Old Maps
+   [4D2] 0x7B383F2B7C3EA1BD: Return To The Lab
+   [4D3] 0xB5D38E6B6D164928: Search For The Map
+   [4D4] 0xE3C24CC35ACCB716: Turn In Cave Exploration Notes
+   [4D5] 0x2826AEC38147B65D: Turn in Kelp
+   [4D6] 0x91390095E9DD8BFB: Turn In Bottles
+   [4D7] 0x2D8E95BEAF18F304: Turn In Sea Life
+   [4D8] 0x771B2B88ABC2B3D3: Turn In Seashells
+   [4D9] 0x9B4D4DA9B8084DF3: Open
+   [4DA] 0x08BBC4B1D06D9834: Assign Treasure...
+   [4DB] 0xAE1B92BEFF4F991E: \n•
+   [4DC] 0xFC6F9EFB76CCA4C4: {1.Number} {0.String}
+   [4DD] 0x96E16F443BF17885: Set To UnOpened
+   [4DE] 0x4352F987692FF394: Set Required Skill Level...
+   [4DF] 0x8D05018E47B75F04: Set Require Diving Skill Level
+   [4E0] 0x268D00BCD23EB99F: Current Level is {0.Number}
+   [4E1] 0x906D34AAD2033583: The Sims™ 3 Island Paradise Install
+   [4E2] 0x5BB74D2A37692EE8: The Sims™ 3 Island Paradise Installer
+   [4E3] 0xDFD0E06C2B9372E8: Calculating Wave Functions…
+   [4E4] 0xE3603FCE0B8C4008: Running In Slow Motion…
+   [4E5] 0xE3603FCE0B8C4009: Scraping Barnacles…
+   [4E6] 0xE3603FCE0B8C400A: Measuring Ocean Depth…
+   [4E7] 0xDFD0E06C2B9372EB: Debugging Rooms…
+   [4E8] 0xDFD0E06C2B9372EA: Releasing The Kraken…
+   [4E9] 0xDFD0E06C2B9372ED: Filling Oxygen Tanks…
+   [4EA] 0xDFD0E06C2B9372EC: Chlorinating Pools…
+   [4EB] 0xDFD0E06C2B9372EF: Hiding Islands…
+   [4EC] 0xDFD0E06C2B9372EE: Polishing Mermaid Scales…
+   [4ED] 0xDFD0E06C2B9372E1: Burying Treasure…
+   [4EE] 0xDFD0E06C2B9372E0: Hoisting The Anchor…
+   [4EF] 0x507DA3EFCD48E841: No game disc found! Please insert The Sims™ 3 Island Paradise game disc before proceeding.
+   [4F0] 0x468DBC7362B70A1D: No game disc found! Please insert The Sims™ 3 Island Paradise game disc before proceeding.
+   [4F1] 0x798E26BD95D68B08: Want a faster way to build your lot? Use Blueprint Mode to place down whole rooms to design your home. 
+   [4F2] 0x6316DC259B8E3EA8: Scuba divers have a chance of encountering a mermaid when underwater. Become friends with them and they may offer you the secret to becoming one yourself. 
+   [4F3] 0x798E26BD95D68B0B: Did you know? There are all sorts of treasure to be found on land as well as underwater. Try Scuba Diving for Treasure Chests and exploring Underwater Caves to find unique items. 
+   [4F4] 0x798E26BD95D68B0A: There are many uncharted islands to be found and claimed. However, no two islands are discovered the same way!
+   [4F5] 0x798E26BD95D68B0D: Exploring the open seas does not come without dangers. Sharks will be especially attracted to your Sims if they are carrying fresh meat. There have also been rumors of a terrifying sea monster taking ships whole!
+   [4F6] 0x798E26BD95D68B0C: Keep your resort guests happy by providing them with activities to do. Look in the Resort Objects Tab located in Build and Buy Modes to start, but there are other objects in the catalog that will make them happy as well.
+   [4F7] 0x798E26BD95D68B0F: Having trouble keeping your resort profitable? Check your resort reviews from the front desk regularly to read guests' feedback about how you’re doing.
+   [4F8] 0x798E26BD95D68B0E: Adding ladders or the All-in-One Bathroom can be the perfect solution to cramped quarters for those living on a houseboat.
+   [4F9] 0x798E26BD95D68B01: Living on a houseboat means you're the captain. Move to a different port anytime you like, or abandon the ports all together and drop anchor far out at sea.
+   [4FA] 0x798E26BD95D68B00: If your Sim is seasick, they will only start to feel better if they get to dry land or a docked houseboat. Vomiting will also do the trick.
+   [4FB] 0x89B53A326A1D0DD3: ©2013 Electronic Arts Inc.
+   [4FC] 0x10578D20703C2818: No Lot, Port, or House Selected
+   [4FD] 0x2142DC33E9198D71: sea shell
+   [4FE] 0x699F48E82184248F: Cut Gems
+   [4FF] 0x5041D6E5F946A26E: GUID
+   [500] 0x0ED0A640C280C2A5: Map Piece
+   [501] 0x059B1FF6C2E839EF: Objects
+   [502] 0x38EE2F0D96951FAD: Raw RGM
+   [503] 0x0676CCB4114735DB: Seashells
+   [504] 0xB66E4A342025D6F2: Simoleons
+   [505] 0x132FAB638D9FCB45: Smelted Metals
+   [506] 0x6002869888A8610E: List of Cut Gems given, what cut, and if it's a large gem
+   [507] 0xFD452051C94FD35D: By Number
+   [508] 0xDB390CBA68EDE5E8: True if it Gives a Map Fragment, False if not
+   [509] 0x6AFB9C190A3BDD8E: Object
+   [50A] 0xC972F1857D69A236: List of Raw Rock Gem Metals given
+   [50B] 0x8507E47CD4BC3402: List of Sea Shells given. Empty if None
+   [50C] 0x472827C9D50A1DB7: Number of Simoleons Sim will get
+   [50D] 0x185A52AA01AB61B8: List of smelted metals given 
+   [50E] 0x49A25641B206A8C3: Island Paradise
+   [50F] 0x68808B6E296D4538: The Sims™ 3 Island Paradise
+   [510] 0x6280E4562BF38FA2: (P) 2012 Stiff Records Limited
+   [511] 0x681D139FCB05521E: Recording courtesy of Warner UK by arrangement with Warner Music Group Video Game Licensing
+   [512] 0x514E5439433508C2: Performed by Sam and The Womp
+   [513] 0x9A1F07C2A52ED3A0: Published by SPZ Music, Inc. (BMI) administered by Downtown Music Publishing
+   [514] 0x068C0F78B0E0F267: Written by Aaron Horn, Sam Ritchie, Bloom De Wylde De Lindgy and Raz Olsher 
+   [515] 0x56F8D2AEC511C939: Written and Recorded by Charlton Pettus
+   [516] 0xFFC80D1A07C4E823: Recording courtesy of Universal Records/Lava Music under license from Universal Music Enterprises
+   [517] 0x574D442B7D469229: Performed by Katy Tiz
+   [518] 0x7287E1EB67A7A987: Published by EMI April Music, Seven Peaks Music o/b/o itself and Cletis Jones Publishing (ASCAP) and Warner Chappell
+   [519] 0xB091E065B8794990: Written by Damon Sharpe, Matt Squire and Katy Tiz
+   [51A] 0x3E26614921B5F970: Recording courtesy of Columbia Records by arrangement with Sony Music Licensing
+   [51B] 0x12BA8FE7F751893C: Performed by Walk Off The Earth
+   [51C] 0x0D9ED0F4F86684BA: Published by SonyATV Tunes (ASCAP) and Copyright Control
+   [51D] 0x744F53F8E2E54CDD: Written by Thomas Salter, Sarah Blackwood, Ryan Marshall and Gianni Nicassio
+   [51E] 0x787C323992C5F6F0: Written and Performed by Ozomatli
+   [51F] 0x9C59D6566CBBA064: Recording courtesy Aquarian Records
+   [520] 0xFD3F6520BA8476D8: Performed by Rocky Dawuni
+   [521] 0xEF20108294DF4486: Published by of Rocky Dawuni Music (BMI)
+   [522] 0x97A2A2479BC55421: Written by Rocky Dawuni
+   [523] 0xC080307977314777: Recording courtesy of Capitol Records under license from Universal Music Enterprises
+   [524] 0x1E95FCE23F7247B5: Performed by Capital Cities
+   [525] 0x522AE98AAEC6D473: Published by Tkacs Music Publishing/Sony ATV Ballad (BMI) and Lazy Y Music administered by Sony/ATV Allegro (ASCAP)
+   [526] 0x5ED2AA23A942BC64: Written by Ryan Takacs Merchant and Sebouh (Sebu) Simonian
+   [527] 0xC01E0B377416BED7: Recording courtesy of Merge Records by arrangement with Bank Robber Music
+   [528] 0xB7AE836A106CCB95: Performed by Shout Out Louds
+   [529] 0x83A8CD78D60E6D53: Published by EMI Blackwood Music, Inc. (BMI)
+   [52A] 0xF2A7B5C7BE78F344: Written by Adam Olenius
+   [52B] 0x8CB24F6F18A42DFF: You don't have any other options for photo size. Try gaining some more Photography skill.
+---

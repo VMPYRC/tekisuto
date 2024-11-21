@@ -1,0 +1,99 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x5D) ---
+   [00] 0x3598BB305716C533: The Sims™ 3 Master Suite Stuff
+   [01] 0x352108E812501407: The Sims™ 3 Master Suite Stuff Install
+   [02] 0x148436220CFC7A28: The Sims™ 3 Master Suite Stuff Installer
+   [03] 0xFDD7258794A763AF: Print
+   [04] 0x02359B4995313865: Do you want to completely remove the selected application and all of its features?
+   [05] 0x59F5F7AF8820FB4B: The large basin of this stylish tub beckons you to hop inside and relax in the soothing, effervescent water. Your inner spirit will be calmed as you cleanse the day away. It's such an endearing experience that you'll never want to leave. Eventually you'll have to, so enjoy it while you can.
+   [06] 0xEE0F873DFD0A1AF9: Comfort and privacy will envelop you in this haven from the turmoil of life. The ultimate in comfort is just a dream away when you sleep on the pillow top mattress, crafted with our special CloudCushion technology. And when you want a little privacy, just pull the curtains closed and sleep in your very own luxurious cocoon.
+   [07] 0x9B260C6CD44F2383: This plush chair caresses your skin as you sink into the seat. Filled with millions of hypo-allergenic nanofluff pellets, this patent-pending cushioning system is rated as the softest padding available. Bring home a Warm Embrace Living Chair and your hindsight will thank you.
+   [08] 0x43904C5C1B64BD15: The curved elements of this delightful structural beam are like fingers reaching for the nearest cloud in the sky. When you Clasp the Sky, you're not just using a load-bearing element, you're creating an architectural piece of history.
+   [09] 0xECFC78922A9F2586: Sunkissed Curtains are handcrafted using sewing techniques passed down through the generations. No machine stitches will ever appear on their products. Sunkissed Curtains, they take a really long time to make, but they look great! Made with love from the Burstalle Family.
+   [0A] 0x6CFBC4F468754285: Sunkissed Curtains are handcrafted using sewing techniques passed down through the generations. No machine stitches will ever appear on their products. Sunkissed Curtains, they take a really long time to make, but they look great! Made with love from the Burstalle Family.
+   [0B] 0x106F7BBFB15486F4: Why just install a door when you can make a grand entrance? When you use the Enter My Heart Double Door, you'll feel the beat of its heart with every turn of the knob. You'll love it and it will love you forever…or at least until the warranty runs out.
+   [0C] 0x49D46438B56F2486: Your furniture should care for your clothing as much as you do, and this dresser does! The spacious drawers are lined in velvet, ensuring your foundation garments will not be ripped, snagged or torn during storage. That's Amore!
+   [0D] 0x6A4ED48B3D978A32: Few household objects have been featured so prominently in romantic literature as the fireplace. Whether you are getting cozy with an attractive Sim or penning a poem about loves lost, this tasteful fireplace will fuel the flames of affection. Your sentiment will never go cold when you gather by the burning flames of this fire.
+   [0E] 0x3220C0DBF2521901: Featured in "Mood Lighting Monthly" Magazine, this stunning light is a winner of three prestigious awards including Editor's Choice! When your night requires romantic lighting, you'll fall in love with the Light of My Life.
+   [0F] 0x272205DD6A9C62E3: Remedial romantics take note: even the most inexperienced suitor can create an amorous atmosphere with just a few simple candles and some soft music. The gentle flicker of  simulated candlelight will provide perfect mood lighting and make everything look more enchanting. Whether you place it in the dining room or spa, this feisty flame will burn with the sweet scent of romance.
+   [10] 0x3AD4B881E7B66EB6: The famous poet Baron Gordon once said, "A candle burns no hotter than the desires of the heart." Show your romantic side the next time you are entertaining at home by laying out this elegant tablescape. Chances are your date will be as impressed with your decorating skills as they are with your cooking skills!
+   [11] 0x666BEC9EFA9F100B: Like an incomplete profession of love, this delicate light leaves onlookers desiring more. The beaded strands dangle unfinished, leaving you hanging, like unspoken words on the lips of your love.
+   [12] 0x94EE3C411FE046C2: Whether you are primping for that big first date or getting ready to propose to the Sim that has captured your heart, the Forever Yours Mirror will be there to help you look your best. No matter what relationships come and go, you can rest assured that it will accurately reflect your countenance for eternity.
+   [13] 0xC714F27520CDDE4A: Oh hey, I didn't see you there!  Come closer! It's me, and by 'me', I mean you! Don't you look fabulous in this reflection? Don't be shy! The Magnetic Attraction puts the action into attraction.
+   [14] 0x57BF5605E8460F25: The Glamour Puss by Forget Industries has a mirrored surface specially crafted using real diamond dust. You'll look like a million and feel like you've spent almost as much on this fine décor item.
+   [15] 0x6E13E11E99987AA5: For the person that wants to drape their home in Mother Nature but doesn't have time to take care of chores, the Cherished Delight plant is Life-lite.  Our plants are specially cared for in climate-controlled greenhouse before freeze drying them to a lifelike finish. No watering needed. It will look real because it once was!
+   [16] 0xC0964A9B775F7631: A tender look, a tender touch, a tender sentiment. These are Tender Moments. Buy your Tender Moments at many fine locations.
+   [17] 0xAC7A2AFE768AF911: Each Blooming Love bouquet contains at least one dozen of the finest short stemmed roses, placed in a gorgeous crystal vase. Your loved one will cry with delight. Once your love has bloomed you'll probably have to spring for long stemmed roses, so hurry today.
+   [18] 0x85833FA0A3591702: Even when that special Sim is far away, you can keep the flame of passion alive by placing a memento in this keepsake easel. Whether the token of affection is a photo, profile portrait, or a pressed flower, it will feel as though that Sim who captured your heart is still close at hand. Gaze into the Petals of Endearment and it will be as though you are gazing into your dear one's eyes.
+   [19] 0xE600BF8D1A7359F6: Decorate your romantic enclave with this enchanting flower and charm your guests with the wandering stalks of the Captivating Beauties. Amorously-minded Sims will notice that the stems resemble the meandering path of a couple walking on the beach. The intricate beauty of each individual flower will render viewers speechless, as though they received unexpected kiss from a potential suitor.
+   [1A] 0x93F4465A9C9EDB74: True romantics will want to keep this elegant fragrance within arm's reach. Just one sniff of its flowery aroma will recall the memories of romantic rendezvous and the murmurs of a paramour's sweet nothings. You'll almost be able to feel the soft, ripe lips of your admirer's kiss whispered upon your lips.
+   [1B] 0xA816669BD0DBA16F: Thoughtful admirers give a gift of flowers to their beloved as a sign of their deep affection. But no Sim wants their sweetheart's amorous symbol to die in fear that their love will die along with it. Preserve that special gift forever in this sealed case and rest assured that the flowers will be as eternal as your passion.
+   [1C] 0xF6C28C3EB19E589A: When you care about your towels the way your Grandma cared about you on your birthday or graduation day, it's time to install one of these shelves. Nothing can beat a Grandma's love, but at least you'll have extra storage space.
+   [1D] 0x4CD1F9EAFBA899FD: Can you be emotionally connected to a functional decoration? Try one of these and see! We think you'll love the results.
+   [1E] 0x804566FB918109B9: The Misty Touch Shower massages your body in a spray of gentle rain droplets, pre-filtered to eliminate 99.99% of microbes. You'll never be cleaner, and your skin will practically sparkle! Optional pre-filter available to remove the remaining 0.01% of microbes.
+   [1F] 0xFF772BB835ED423E: Can you fall in love with plumbing? You will with the Gentle Hands Sumptuous Sink. The faucet will automatically adjust the temperature to your body's needs, releasing a stream of water designed especially for you.  Without any guesswork, you can just sit back and relax. It's true love and clean hands all in one!
+   [20] 0x9D83323349835EE4: Classy lines and the sleek construction make this delightful end table worth a second glance. It's the end all of end tables.  Fall in love with your furniture and have another surface to place a lamp or clock as well.
+   [21] 0xBB319ABCD54DD384: When a romantic situation gets too steamy, nervous Sims will find a respite in the privacy of the bathroom. There, the Seat of Romance will await them, providing a welcome throne upon which to depressurize. Once the hesitant paramour is done resting their nerves, they can resume their affections with the renewed confidence that comes from unloading those undesirable burdens.
+   [22] 0xBAACF1505577173B: A stunning bay window with optional seat cushions sets the standard for modern romantic décor. When you wistfully gaze upon this window into the night...you will be potentially staring into your neighbors' house, so be careful!
+   [23] 0x3573A967E565CF5E: Built in shutters make this window a first choice when you want the ultimate in discretion for those special nights. Stop those prying eyes and install a few of these around the most private rooms of your house.
+   [24] 0x4F8E1A819C273460: Depths of My Heart
+   [25] 0x326AF750BBE1D952: Private Serenade Canopy Bed
+   [26] 0x543D3BFE8E3E2318: Warm Embrace Living Chair
+   [27] 0x11E0A6A9B4DCB9EC: Clasp the Sky
+   [28] 0x6ECEA5A5DA961FB9: Sunkissed Curtain Left
+   [29] 0x030E7CAF151CE94C: Sunkissed Curtain Right
+   [2A] 0x46906003064D93D5: Enter My Heart Double Door
+   [2B] 0x9DE13443CD2DE3A7: That's Amore
+   [2C] 0x112B047913437AEB: Flame of Passion
+   [2D] 0x5C1C6C4232C4054A: Light of My Life
+   [2E] 0x96368348FDC4A3EE: Fiery Romance
+   [2F] 0x4B917C7901482C9B: Burning Desire
+   [30] 0x1DBAC9CC1254D9B2: Delicate Dangling Participle
+   [31] 0x16B5849BD32EABD5: Forever Yours Mirror
+   [32] 0xEF11025238146ACF: Magnetic Attraction
+   [33] 0xBB16B5A753E01CCE: Glamour Puss
+   [34] 0xCC268D11699FC7E6: Cherished Delight
+   [35] 0x29C0B56C48D10A34: Tender Moments
+   [36] 0x97148ABE7C85C0B4: Blooming Love
+   [37] 0x22CD5B5DA2C2ACAD: Petals of Endearment
+   [38] 0x063190105E1F8437: Captivating Beauties
+   [39] 0x7E60BAB92325B3B7: Whispered Melodies
+   [3A] 0x4FC87317F9739C38: Fragrant Memories
+   [3B] 0xEAC7309C0A748563: Wrapped in Your Soul Towel Shelf
+   [3C] 0x6F2F253B284F4402: Hankering Hanky Holder
+   [3D] 0x904A206B079FC098: Misty Touch Shower
+   [3E] 0xE80E4CE911129277: Gentle Hands Sumptuous Sink
+   [3F] 0x0AE66FF60A78EAFD: Devotion's End
+   [40] 0x0494C051C81D5BF9: The Seat of Romance
+   [41] 0x8A77B9237BD49A04: Bayside Retreat
+   [42] 0x35B7D16279A82A71: Shuttered Isle
+   [43] 0x0BEDC65DE030BE81: We are unable to verify that your disc is a valid copy of The Sims 3 Master Suite Stuff. Please contact customer service.
+
+   [44] 0x45500689A6F1C54D: No game disc found! Please insert The Sims 3 Master Suite Stuff game disc before proceeding.
+   [45] 0x8C13E9E9DE6B80A3: ©2011 Electronic Arts Inc.
+   [46] 0x9DF8EA37D53928CC: Fluffing Pillows...
+   [47] 0xA71EC8DF50205294: Freshening Up...
+   [48] 0x9DF8EA37D53928CF: Scattering Rose Petals...
+   [49] 0x9DF8EA37D53928CE: Spraying Perfume...
+   [4A] 0x9DF8EA37D53928C9: Lighting Candles...
+   [4B] 0x9DF8EA37D53928C8: Straightening Mirrors...
+   [4C] 0x9DF8EA37D53928CB: Arranging Flowers...
+   [4D] 0x9DF8EA37D53928CA: Dimming Lights...
+   [4E] 0x9DF8EA37D53928C5: Drawing a Bath...
+   [4F] 0x9DF8EA37D53928C4: Getting Comfortable...
+   [50] 0x30FFE79BF992D57C: The Sims™ 3 Master Suite Stuff Team
+   [51] 0xA5389B334B5BE0FD: Development Testing 
+   [52] 0xACCAF0FFFD0AE8FE: Lead Object Modelers
+   [53] 0x7C245CFFA8985C06: Maxis
+   [54] 0x35A6C98968F63051: QA Compliance Test Lead
+   [55] 0x99A58C3431D14DD3: QA Tester
+   [56] 0xFADB344092013C0F: Senior QA Tester
+   [57] 0x8E9220029CAB9F6A: Sound Designer
+   [58] 0xFD854EB6C17F3684: Senior Vice President, COO
+   [59] 0xE97B123E62392779: Senior Vice President
+   [5A] 0xE113E153F7208BFA: Senior Vice President, GM, The Sims
+   [5B] 0x0F65EED7DE490541: Test Leads
+   [5C] 0x7D32CF095B956237: Vice President, COO, The Sims
+---

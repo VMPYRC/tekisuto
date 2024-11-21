@@ -1,0 +1,93 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x57) ---
+   [00] 0x3598BB305716C537: The Sims™ 3 High-End Loft Stuff
+   [01] 0x6319610CA26810AB: The Sims™ 3 High-End Loft Stuff Install
+   [02] 0x16D84E456200E2AC: The Sims™ 3 High-End Loft Stuff Installer
+   [03] 0xBCE72A48A30F4519: You currently have one or more expansion packs for The Sims™ 3 installed.  Uninstalling The Sims™ 3 High-End Loft Stuff may cause those expansion pack(s) to no longer function correctly unless you update your game online via The Sims 3 Launcher.  Do you wish to continue uninstalling The Sims™ 3 High-End Loft Stuff?
+   [04] 0xE6C2EEB10108C1A1: Do you want to completely remove the selected application and all of its features?
+   [05] 0xCEFB67DA06E3B884: Just when it seemed sleep technology couldn’t get any better, Landgraab Apnea Labs dreamed up the new and improved Vibromatic LN3000 to shake things up.  Jazz up the boring bedtime routine with the Vibromatic LN3000.  More than just a bed or a conversation piece, this iconic love nest is an investment in fun.
+   [06] 0xF357077956E22E7D: Is it possible to have too much of a good thing? Are two heads better that one? What about two pillows? The answers to these mysterious questions can be found in a blissful night on the Starloft DuoDreamer. This bed is perfect for cuddling and relaxing for up to two lucky sims (granted, it is somewhat difficult to cuddle alone).
+   [07] 0x68A844F4346C5EA2: Not all beds are equal, and the MonoDreamer indeed has no equal. Starloft has crafted this unique bed using only the finest materials available, and it's the perfect bed for the busy life of the single Sim. It's safe to say this is a really, really, comfy bed.  Really.
+   [08] 0x3C0D21C40917416B: Humble materials. Color-impregnated Plexiglas. Simple repeated forms. This is the vocabulary of the design collective known simply as "FormFunk." This rhythmic and rigorous book display was featured in this year's "Objects of Desire" exhibition.
+   [09] 0x3C0D21C409174168: Made as a clever companion for the B-Shelf, FormFunk once again displays their sense of humor mixed with rigor. Utility remains front and center in this delightful nod to mid-century cynicism and desire.
+   [0A] 0x8EDAC6A39688BF71: Libronica opens a new chapter in book storage with their self-published shelving unit, "Book Cliff." Taking a page from spacial narrative of retail, face-outs are minimized to maximize spline density. Steel tubes act as the visual glue to hold the entire piece together. Destined to become a bestseller!
+   [0B] 0xD673D212CFD9CA53: With superior torque and space-age rolling mechanics, this swivel chair allows for over 360 degrees of rotation, over and over again, and features EasySit casters that let you take your seat without ever having to lift the chair. Which is good, because the space-age rolling mechanics can be pretty heavy here on Earth.
+   [0C] 0x25914C53293151B8: With space-age materials, including ionized faux leather and SuperLite filler fluff, this is the very same chair that seats astronauts when they’re in between missions and enjoying down time in their backyards.
+   [0D] 0x25914C53293151BB: Made with the same high-tech cushioning materials that we use in our sofa and loveseat, the Retro Metro Chair offers the degree of comfort that you demand from your seating, without all of the excess fluff, in one individual-sized portion. Settle yourself on firmer, sleeker coziness, because comfort doesn’t have to be fat.
+   [0E] 0x19F273CDD72EE89E: With space-age materials, including ionized faux leather and SuperLite filler fluff, this lounge chair will lull your Sims into a truly superior state of relaxation, as enjoyed in the backyards of Sim astronauts everywhere.
+   [0F] 0xA21094535D86F9A9: You may not be able to travel at the speed of light, but the display on this modern clock does. Its angular shape serves as a reminder that time is but another dimension, while its simplistic digital display reminds us that all that exists is now. Live in the moment with the Right on! Timepiece.
+   [10] 0xFA1617DB25F2774C: MindMax strikes yet again with another monstrous desktop computer. The Uni-PC 7200 includes everything a Sim could ever want in a computer, including the ability to generate features that might be desired in the future. The widescreen swivel display is perfect for chatting, web surfing, and losing hours of time to the latest hi-tech video games. 
+   [11] 0xE601D5617B00B616: Its crouching form has been said to resemble a snail but the esCargo 'Outside' Processor is anything but slow.  Crafted from a single piece of Metallyte, this machine is a behemoth in both capacity and design.  Not for the mobile-minded, this computer is definitively deskbound.
+   [12] 0x830F70399A4C4C9C: You can’t remember the last time you got a real letter in the mail and you certainly haven’t written one lately. You don’t need stamps, you don’t have a lot of pesky, clutter-some papers to clip or staple. So why do you need a desk with drawers? You’re just going make a mess of them by cramming them with stuff that you don’t even need. It’s time to take your office furniture into the next century.
+   [13] 0xE60C7399DB514BB0: You can’t remember the last time you got a real letter in the mail and you certainly haven’t written one lately. You don’t need stamps, you don’t have a lot of pesky, clutter-some papers to clip or staple. So why do you need a desk with drawers? You’re just going make a mess of them by cramming them with stuff that you don’t even need. It’s time to take your office furniture into the next century.
+   [14] 0x2F047BA9234FB933: If doors could talk, these would say "we mean business." The Dura-Doors make a bold and professional statement about the room they enclose. Although useful for a variety of styles, these doors are tailored towards the ambitious and sophisticated set.
+   [15] 0xFCEA55B40DEEF39B: This arch is an ideal and necessary accompaniment to the Steeled Dura-Doors.
+   [16] 0x2F4F0CEBCDD2A445: This dresser doesn’t play by the rules. Its nonconformist style scoffs at other boxy chests of drawers with their conventional structures. Thoroughly modern and entirely liberated, the Outside the Box Dresser lets you store your clothes without compromising their maverick values.
+   [17] 0x69E6DA4016D15B31: The LoftLabs Gate features especially well on high-end loft patios where well-heeled socialites make grand entrances (visible from afar through the crystal clear suspended glass.)
+   [18] 0xE19B6AF88A34AD3E: Made from highly polished pebbles handpicked by children on beach holidays with their families.  When the family suitcases threaten to incur overweight charges, the buckets of pebbles get left behind.  This opportunistic,  award-winning recycled product is now available to those who can afford it.  Manufactured in all major beach resort towns. 
+   [19] 0xBA2CA266B5E440DE: Lighting is art, magnified.  Such is the case with the soft, moody light of the Lumina Chimes. The cylindrical, wind chime-like tubes contain a special phosphorous gas, providing a pleasant glow that is not too bright, and not too dark. Perfect for any room in a modern Sim home and definitely better than candles!
+   [1A] 0x18987256CDB54255: Owners of a Q-lamp describe it as a mark of refinement, sophistication, and elegance. Others call it a spindly office lamp. Either way, this modern accessory will bring a soft ambiance to any study and its double-articulation arms allow for great flexibility in lighting direction. Made of anodized Metallyte, Q-Lamps are completely stain and rust proof. They are not, however, static shock proof.
+   [1B] 0xA5A2834C50424FD3: For the true audiophile, music appreciation doesn’t end with the purchase of a stereo system, it ends when the audio environment has been fine-tuned to maximize audio enjoyment through careful combinations of light, color, fabric and even friends. Use Lumina Technica wall lamps to help "hit the right notes" in your home.
+   [1C] 0xD2844B39C0D812E4: Made with new high-tech cushioning materials, our loveseat offers the degree of comfort that you demand from your seating, without all the excess fluff. Settle yourself on firmer, sleeker coziness, because comfort doesn’t have to be fat.
+   [1D] 0x1576262A2C78F27A: For Sims with a deep appreciation for modern abstract art, no collection could be complete without this piece by the talented Pambo Psimcasso. An amazing view of the world through digital eyes, Scenic Circuits raises more answers than there are questions. Installation manual and strategy guide not included.
+   [1E] 0x3A24D551A6B9E9D7: The Right On! Cordless Phone is almost as good as having the latest and greatest cellphone.  With all kinds of free downloads, flashy graphics and automatic updates, this may be the last phone you ever buy.
+   [1F] 0x1D27CAB19F177535: Fitness equipment manufacturers always make the same bold claims but the good lookin' folks at Slimline only hold one: to have the sleekest, most attractive treadmill on the market.  Running on it is optional, making it part of your complete loft layout is essential.
+   [20] 0xAB42A86D66D2DD77: Right On! Phone Handset
+   [21] 0x7C73B327D1208425: The Vibromatic LN3000
+
+   [22] 0x3B6591A8B584985A: The DuoDreamer by Starloft
+   [23] 0xEDAF6B537488957D: The MonoDreamer by Starloft
+   [24] 0x8D81661241E6D732: FormFunk B-Shelf
+   [25] 0x8D81661241E6D731: FormFunk G-Shelf
+   [26] 0xB2B08B29ED2ADC70: Book Cliff by Libronica
+   [27] 0x151471037825B018: Swivel Me Rolling Chair
+   [28] 0xB1EBD3618C5549AD: Astro Chair by Out of This World Inc.
+   [29] 0xB1EBD3618C5549AE: The Retro Metro Chair 
+   [2A] 0x104C5860FBB0716D: Astro Lounge Chair by Out of This World Inc.
+   [2B] 0x18E95A66AD46B300: Right On! Timepiece
+   [2C] 0x8B40697F451244FD: MindMax Uni-PC 7200
+   [2D] 0xB0B840425E0B39D5: esCargo 'Outside' Processor
+   [2E] 0x7781A7A7C021491D: Don’t Need No Stinking Drawers Desk
+   [2F] 0xCCA981AEA5B9A14D: Don’t Need No Stinking Drawers Desk
+   [30] 0xE3EA278664848C98: Steeled Dura-Doors
+   [31] 0x0CED14A12C6B9E04: Steeled Dura-Arch
+   [32] 0x1BD34DB2E8460374: Outside the Box Dresser
+   [33] 0x8AACA32C3C326DB6: Glassic Gate by LoftLabs
+   [34] 0x4F43EF757E2D41C3: PebbleStone Fire Pit
+   [35] 0xA0586AD990503321: Lumina Chimes
+   [36] 0x0578025BF7FBF082: Metallyte Q-Lamp
+   [37] 0x3EE32CA2BA1CD2FA: Lumina Technica
+   [38] 0x69CD25FDD2AF6FE9: Slimline Loveseat by Svelte Seating
+   [39] 0x947C5916AD3F7BC1: Psimcasso's Scenic Circuits
+   [3A] 0x2C03AD9B2EA5B7CA: Right On! Cordless Phone
+   [3B] 0x16ABA00DFA657FB6: Slimline Axursize
+   [3C] 0x63C1831704D8A445: 
+   [3D] 0x63C17D1704D89A7F: 
+   [3E] 0x2DCC422BACB14E06: 
+   [3F] 0x2DCC442BACB15190: 
+   [40] 0xEDE833DE2B8D328B: 
+   [41] 0xEDE832DE2B8D313E: 
+   [42] 0xCFC2EFA9CFF3EC86: 
+   [43] 0xCFC2F5A9CFF3F6D0: 
+   [44] 0x163A1E76BDFC4879: 
+   [45] 0x163A1D76BDFC46A0: 
+   [46] 0x0CCC072908ABEE34: 
+   [47] 0x15CAA3290DDC64F7: 
+   [48] 0xC71D8275AF418F79: No game disc found! Please insert The Sims 3 High-End Loft Stuff game disc before proceeding.
+   [49] 0x53D2CEB5A2058BB7: ©2010 Electronic Arts Inc. All Rights Reserved.
+   [4A] 0x36FD6A1D86B7BB28: Redesigning the Space…
+   [4B] 0x2856782BEA3304C8: Living It Up…
+   [4C] 0x36FD6A1D86B7BB2B: Building High Ceilings…
+   [4D] 0x36FD6A1D86B7BB2A: Upgrading Gadgets…
+   [4E] 0x36FD6A1D86B7BB2D: Activating LED lights…
+   [4F] 0x36FD6A1D86B7BB2C: Styling Hair…
+   [50] 0x36FD6A1D86B7BB2F: Spinning New Tunes…
+   [51] 0x36FD6A1D86B7BB2E: Anticipating the Good Life…
+   [52] 0x36FD6A1D86B7BB21: Polishing Glass and Metal…
+   [53] 0x36FD6A1D86B7BB20: Calculating Deck Size…
+   [54] 0xF8A29A86E46C3B01: Music
+   [55] 0xCE93EB5A508BAD70: The Sims 3 High-End Loft Stuff Team
+   [56] 0x5DE17441561F86DF: Voice Actors
+---
