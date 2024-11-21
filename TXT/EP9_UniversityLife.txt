@@ -57,7 +57,7 @@ Unknown3: 0x00000000
    [034] 0x1C371BD828F983D5: Earn a prestigious degree in Fine Arts and join the ranks of our world class artist alumni.
    [035] 0x80B77A2ADA33FE39: Don’t nap on this knapsack! Twin straps provide ample lumbar support, but you can look cool by switching to one strap. Oh, that’s not cool anymore? It’s hard keeping track.
    [036] 0x9FC4DAA105D038E3: Take a study break to swing by the local coffee bar! Meet up with friends, order a drink, or nibble on a snack and let the procrastination begin.
-   [037] 0xF73A87D7D9FB9AA1: Inspired by the sleeping conditions on Navy ships (only more spacious!), Stacked and Racked  bunk beds feature bilateral ladders and heavy-duty guardrails for even the most spastic sleeper.
+   [037] 0xF73A87D7D9FB9AA1: Inspired by the sleeping conditions on Navy ships (only more spacious!), Stacked and Racked bunk beds feature bilateral ladders and heavy-duty guardrails for even the most spastic sleeper.
    [038] 0xC5DD129BE51EA9C6: Using the same design as the top-selling Stacked and Racked, this single bed offers bunk bed elevation without the messy realities of a roommate.
    [039] 0x698B8F6C4A116F8E: The plus-sized version of the Scholarly Slumber single bed, for restless sleepers or sleepers with company. Similar to Scholarly Slumber, you’ll see your sheets are a little short.
    [03A] 0x04DA6CCCE7741DFB: Maybe you’re hurting for bedroom space. Maybe you want to feel like an old-timey detective. Whatever the case, a Murphy bed is the furniture solution for outside-the-box sleepers!
@@ -102,7 +102,7 @@ Unknown3: 0x00000000
    [061] 0x1D39C7963A8E7065: Everything a desk demands, nothing more. Flat, wide surface? Done. Space for a chair? Check. O.C. even threw in a drawer. Don’t say we never did anything for you.
    [062] 0xA0DDAB1BA90676C5: The Titan Desk’s heavy construction and broad profile pushes less-worthy souls to an appropriate distance. It’s more than a collection of drawers—it’s an institution.
    [063] 0x0246BE01B441683E: Drawers can be dangerous: body parts pinched, toes stubbed... The Pointdexter cuts down the hazards, complementing sturdy shelves with a manageable pair of drawers.
-   [064] 0x0617330900CB5E41: Artists don’t need desks; they need altars of creation!  The Pollack art desk eschews such bourgeois features as drawers, stripping the concept of Desk down to its rawest expression.
+   [064] 0x0617330900CB5E41: Artists don’t need desks; they need altars of creation! The Pollack art desk eschews such bourgeois features as drawers, stripping the concept of Desk down to its rawest expression.
    [065] 0xE3DF644EB614674E: A halo of windows surrounds this handcrafted door, beaming welcoming light through your home. Beware of wild parties; a crazed reveler might try to walk through the glass.
    [066] 0x94C18BF5FBECB842: Based on E.A.’s popular line of luxury doors, this archway eases the home-entry process by skipping the middleman. As a wise Sim once said: more doors, more problems.
    [067] 0x45C5DD18020B907B: Recalling the pastoral tones of a Victorian farmhouse, this well-built door admits plenty of light into your foyer. In keeping with Standard Issue’s general philosophy, all angles are right angles.
@@ -132,7 +132,7 @@ Unknown3: 0x00000000
    [07F] 0x81FDC1C011D806F2: Enjoy the world’s most popular game with friends and family! With grinding hours of practice, a talented athlete might match the skills of the legendary Tommy Wobbler: Soccerball Wizard.
    [080] 0x0352A069178B7C74: PLACEHOLDER DESCRIPTION lectureHall_jig DO NOT TRANSLATE
    [081] 0x040B943E7992D7D7: Library Shell
-   [082] 0x05D6E549DA04C421: LibraryEP09_Doors desc  DO NOT TRANSLATE
+   [082] 0x05D6E549DA04C421: LibraryEP09_Doors desc DO NOT TRANSLATE
    [083] 0x926C0E8F34FD4BD2: Lamps are so last season, always casting the same light. Accelerate your life with Bolt track lighting! Four prehensile bulbs draw eyes to the highlights in any room.
    [084] 0x904F8CDAFA9A665E: “Is that an alien invasion on your ceiling, or are you just the coolest person I’ve ever met?” Wow friends and family with this three-piece UFO-inspired appliance.
    [085] 0x8A61176395D27806: Open your mind and prepare it to receive…The Nozzle. Four prehensile stalks emerge from the floor and blossom out like a glowing alien plant. Unlike a plant, it needs electricity.
@@ -146,7 +146,7 @@ Unknown3: 0x00000000
    [08D] 0x0D0B598E7FA5FE4A: Children need nightlights to ward off monsters. Adults need to keep the kids quiet. Old folks need to survive their nightly bathroom trips. Why do YOU need a nightlight?
    [08E] 0x2CC3E67E0A47C5EA: This beautiful lamp hangs from the wall like a gilded floral arrangement. Light and luxury pour from every bulb in such bounty you’ll have to squint entering the room.
    [08F] 0x34E190B8329A1F33: It’s amazing how many mattresses folks throw away. This one became a cheap and romantic sofa for two. Your sweetie might hate the stains, but she’ll love the initiative.
-   [090] 0xEDBA6ABCAE13BE30: Power means telling others to wait. Real power means having an entire room and furniture where others are sent to wait.  The Waiting Room: where comfort and shame collide.
+   [090] 0xEDBA6ABCAE13BE30: Power means telling others to wait. Real power means having an entire room and furniture where others are sent to wait. The Waiting Room: where comfort and shame collide.
    [091] 0x07C7E8F83D965CB0: Graduation Gnome
    [092] 0xB7224A6976736AD6: Sometimes the cries of brave Sims go unheard. Maybe society is against them, or maybe they’re just not shouting loud enough? Inspire crowds and wake up others with this megaphone.
    [093] 0x76A88109478843BA: Narcissa is more than a mirror: it’s a scrapbook for your wall! From your first kiss with Billy, to your first fight with Billy, to realizing you could do better.
@@ -200,7 +200,7 @@ Unknown3: 0x00000000
    [0C3] 0xC2F183E97F5B2CA7: If brushes could speak, they’d have quite the artistic story to tell! These well used brushes have seen it all and are the perfect complement to any artistic minded Sim.
    [0C4] 0x8D5075B73E21B23C: The O.C. brings you the world’s smallest, cheapest particle accelerator! Forge new subatomic particles in the comfort and privacy of your home. Warning: incorrect use may destroy the planet.
    [0C5] 0x77CC5A6AA64F538D: Having a human arm lying around your room would be weird. Robot arms are more socially acceptable. And if the robot arm starts moving, that’s way less scary.
-   [0C6] 0xFFB195BF52FD94D0: You don’t own toys; those are for children.  You own collectibles, which are more grown-up because they stay in the box and nobody ever gets to play with them.
+   [0C6] 0xFFB195BF52FD94D0: You don’t own toys; those are for children. You own collectibles, which are more grown-up because they stay in the box and nobody ever gets to play with them.
    [0C7] 0x25ACD953B1D4DEFA: Yearbooks are emotional dynamite. Some pages hold old friends and “Have a great summer!” autographs. Others flaunt your braces, overalls and oversized backpack. One day, your children will find them.
    [0C8] 0xC16AF82D24D0397A: Cast shade across the sidewalk while you draw eyes to your storefront! If you can’t block out basic sunlight, how could you ever provide decent customer service?
    [0C9] 0xCE347303E3BA8C4D: That precious little nugget of corner-awning that keeps your store from looking amateurish. Thank us later.
@@ -221,13 +221,13 @@ Unknown3: 0x00000000
    [0D8] 0x431CFC0F47E78155: Stare into my sign. Closer. Closer, and breathe slowly…that’s it. You see the beauty of the circles. You will do whatever I command. Now go forth and BUY MY MERCHANDISE!
    [0D9] 0x5A1BC614923B6206: For stores and booths on narrow streets, Sanjiten presents this ultra-thin neon sign. Soothe your neighbors’ territorial feelings as you beat the snot out of them in sales.
    [0DA] 0x28F1C608ACA2D926: Art is a retreat from life’s messy realities. Fill any room with beauty: portraits, Impressionist landscapes, hand-drawn maps or avant-garde watercolors. Tasteful nudes available upon request.
-   [0DB] 0xB06EF9121EEEDEF3: Jazz up your den or dorm room with the Brash Banner, the first product GoTeamGo ever made.  It’s a classic the world over, printed for forty-eight sports in fifty-five countries.
+   [0DB] 0xB06EF9121EEEDEF3: Jazz up your den or dorm room with the Brash Banner, the first product GoTeamGo ever made. It’s a classic the world over, printed for forty-eight sports in fifty-five countries.
    [0DC] 0x829E6D61D17D6CEF: Photos, cards and artwork are too precious to lock away. Tack them to the supple cork of a bulletin board, setting your memories in a perfect mosaic! Tacks not included.
    [0DD] 0x179112E40A8AEE39: Sanjiten’s animation brings its characters to life for this tasteful three-panel poster. All your favorites are available, from Soopi the Llama to Kokudo the Bear!
    [0DE] 0xF751D18FD8EA77BA: This sign is perfect for the ostentatious sports fan in your life. Emblazoned with authentic team logos, it beams a winning attitude across the room and directly into your retinas.
    [0DF] 0x01552E832BB06CEF: Slapping this colorful mascot-inscribed banner on your wall leaves no doubt as to loyalties. Oh, you root for our school? I root for our school too! What a coincidence.
    [0E0] 0x4431B3F830A90119: College is a time to explore new ideas: frightening, revolutionary ideas. You’ll abandon them when you learn about things like rent and car insurance. But for now, buy this flag!
-   [0E1] 0x2BCDB3B771D039A7: Every building on campus holds a plaque like this in some musty back hallway.  It celebrates those who came before, did great things, and couldn’t keep quiet about it.
+   [0E1] 0x2BCDB3B771D039A7: Every building on campus holds a plaque like this in some musty back hallway. It celebrates those who came before, did great things, and couldn’t keep quiet about it.
    [0E2] 0x23940C84A53256A6: Nobody gets far in life without love. Families, puppies and boyfriends hold us up when we’re slumping down, and how better to celebrate them than this tasteful wall arrangement?
    [0E3] 0x5589A2C5B01B1CE2: If hanging cloth isn’t your thing, this sleek sports-themed plaque just might be. Unless you’re not a sports fan—in which case the door is that-a-way.
    [0E4] 0xB9CC62BE5E0F46DD: Modeled after glucoaldehyde, a crucial sugar in living cells, this stylish decoration celebrates all the life on Earth. “I’m a nerd, and I’m here to stay!” it proclaims.
@@ -299,10 +299,10 @@ Unknown3: 0x00000000
    [126] 0x7B1A939669E88308: If you thought the Square Sightlines single window was exciting, get a load of this! Four squares on display—or are there? Together these double windows form a fifth square
    [127] 0x8CDB2DCA04294ACA: Academic Text Book DO NOT TrANSLATE
    [128] 0x738EE2C2F15FF6C5: Glass DO NOT TRANSLATE
-   [129] 0x50DC802F6ABAE3FB: accessoryFlashCard name  DO NOT TRANSLATE
+   [129] 0x50DC802F6ABAE3FB: accessoryFlashCard name DO NOT TRANSLATE
    [12A] 0x7D17295E89B63043: Online Headset DO NOT TRANSLATE
    [12B] 0xD351033995024754:  accessoryMicEp09 DO NOT TRANSLATE
-   [12C] 0x9677A63E281D2141: accessoryScienceScanner name  DO NOT TRANSLATE
+   [12C] 0x9677A63E281D2141: accessoryScienceScanner name DO NOT TRANSLATE
    [12D] 0x66FC3993E1F6B64D: St. John Administration Center
    [12E] 0x8A65C6EEC7041EB1: Longhorns and Laser Beams Arcade Machine
    [12F] 0x1D4A9C2852AC1DE4: Fire in the Skies Arcade Machine
@@ -434,7 +434,7 @@ Unknown3: 0x00000000
    [1AD] 0xEDA08E7949F8C8C6: Rundown Cabin
    [1AE] 0xC7BD8D7F488D387F: Frame
    [1AF] 0xBC655E7F415D9B83: Frame
-   [1B0] 0xAA5E864972E0C894: garbageCanFlaming name  DO NOT TRANSLATE
+   [1B0] 0xAA5E864972E0C894: garbageCanFlaming name DO NOT TRANSLATE
    [1B1] 0xF9994CB89CF78D70: Ginseng
    [1B2] 0x4536332BD906484B: graffitiArt_jig name DO NOT TRANSLATE
    [1B3] 0x25B2BA5A64980154: Banky’s Street Art Kit
@@ -732,7 +732,7 @@ Unknown3: 0x00000000
    [2D7] 0x3553A315CD38EB85: College living at its finest with your best friends. Guys only!
    [2D8] 0xD5682032EF52D8CD: The gym is just the place to make up for your junk food and energy drink diet.
    [2D9] 0xC75F6FEEEC00D02E: You don’t have to be a Rebel to enjoy the Grotto. It’s just a cool place to hang out.
-   [2DA] 0x916CEE094E4266CF: The perfect place to play hooky  and enjoy a serene day. 
+   [2DA] 0x916CEE094E4266CF: The perfect place to play hooky and enjoy a serene day.
    [2DB] 0x7063459126EE70F5: Other universities envy this library bursting at the seams with knowledge.
    [2DC] 0xA8B52596E173DEDE: Grab your buds and check out the latest flicks!
    [2DD] 0x919EF87A3D9B5FA9: The perfect place to indulge your inner (or outer) nerd.
@@ -1461,7 +1461,7 @@ Unknown3: 0x00000000
    [5B0] 0x9B747D83E5F45881: Write a Book
    [5B1] 0xA605CE83550D0E01: Get cracking and finish writing a book.
    [5B2] 0x1E955669A4452175: That extra credit might come in handy at the end of the term!
-   [5B3] 0x6E643E570D4966BB: Magazines and blogs are important, but educated minds need long-form focus.  Books provide the needed stimulation, and your professor is eager to reward the most literate students.
+   [5B3] 0x6E643E570D4966BB: Magazines and blogs are important, but educated minds need long-form focus. Books provide the needed stimulation, and your professor is eager to reward the most literate students.
    [5B4] 0x55870AE5D356DA33: You didn’t receive extra credit.
    [5B5] 0x3C720300870DA110: Find a good book, sit down and read it cover-to-cover.
    [5B6] 0x2DC6B0007F7F059A: Read a Book
@@ -1713,7 +1713,7 @@ Unknown3: 0x00000000
    [6AC] 0x9E8A04F04C96CCA6: DNA is Awesome
    [6AD] 0xE0EDCD593FC694E6: Collect 5 DNA Samples and return them to the {OpTarget}.
    [6AE] 0x9301BA0D09EFE2AC: That extra credit might come in handy at the end of the term!
-   [6AF] 0x39E7BC18293C5D88: The Science Research Station is crucial to success for any Science & Medicine student. You have a chance at some extra credit by using it to research science!  
+   [6AF] 0x39E7BC18293C5D88: The Science Research Station is crucial to success for any Science & Medicine student. You have a chance at some extra credit by using it to research science!
    [6B0] 0xE80B84A13E2403E4: You didn’t receive extra credit.
    [6B1] 0x7E9F8BE960A77941: Use a science research station to research science.
    [6B2] 0x4C7496E944BFBD47: Research Science
@@ -2379,7 +2379,7 @@ Unknown3: 0x00000000
    [946] 0x87F3DD18A4F3205D: You were plenty smart already and didn’t need the help of the Brain Enhancing Machine.
    [947] 0x47E04DDD3040651A: Use the Brain Enhancement Machine and get some Brains Enhanced!
    [948] 0x113F3ADD108E1A54: Research Advanced Technology Outside of Class
-   [949] 0xB74A98C4D1DF6FE0: Use the Brain Enhancing Machine to  enhance your brain!
+   [949] 0xB74A98C4D1DF6FE0: Use the Brain Enhancing Machine to enhance your brain!
    [94A] 0xFDA5D2A1CA6283E9: You just earned some cred with the Jock group!
    [94B] 0xD6F9FC33E2F25427: Hand-eye coordination isn’t learned just from video games! Improve hand-eye coordination the old fashioned way - take a baseball out to the {OpTarget} and play catch with another Sim.
    [94C] 0x9F05A8A554D98157: {0.SimName} has failed to complete the task in time.

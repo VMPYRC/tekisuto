@@ -5,7 +5,7 @@ Unknown3: 0x00000000
    [00] 0x3598BB305716C53E: The Sims™ 3 70s, 80s, & 90s Stuff
    [01] 0x6B74FD46CC11B886: The Sims™ 3 70s, 80s, & 90s Stuff Install
    [02] 0x0E7C720B3856CD91: The Sims™ 3 70s, 80s, & 90s Stuff Installer
-   [03] 0x3C2F1920D20D54C1: Do you like video electronic games? Then get ready for the new standard in electronic entertainment!  Fast reflexes and a keen eye are required to survive the ultimate war between Blips and Pixels. Featuring graphics so advanced you can see them, and sound so good the little theme song will be stuck in your head for the rest of your life! Become a joystick master and beat the High Score in Blips Vs. Pixel!!
+   [03] 0x3C2F1920D20D54C1: Do you like video electronic games? Then get ready for the new standard in electronic entertainment! Fast reflexes, and a keen eye are required to survive the ultimate war between Blips and Pixels. Featuring graphics so advanced you can see them, and sound so good the little theme song will be stuck in your head for the rest of your life! Become a joystick master and beat the High Score in Blips Vs. Pixel!!
    [04] 0xC84445B1478BB342: House your precious paper in a fortress of metal. The IndustroShelf has the strength to support 57,000 books, even though it only has space for about 20. Have all the bookshelf you’ll ever need plus much, much more with the unbreakable IndustroShelf!
    [05] 0xA05ABC4CE378B088: As you well know if you follow the latest trends, things that don’t curve out at wild angles are barely even worth looking at. Luckily we understand, and we’re sure that you will appreciate the dramatic angles of the Wild Wedge Dining Chair. After admiring one of our fashionable chairs, you’ll realize just how disgusting straight-backed chairs really are. Buy a Wild Wedge, and get with the curve!
    [06] 0x750F218D76B626BE: Wear and tear looks so hot on furniture, but it can take years to achieve the right effect! Wouldn’t it be nice if you could just skip all that time and effort with money? You can!! For a modest fee, we will expertly distress your easy chair so that your brand new furniture looks old and used. It makes so much sense, it’s almost ridiculous!
@@ -69,7 +69,7 @@ Unknown3: 0x00000000
    [40] 0x5172B2CC4CCF4B2F: Create-a-Table
    [41] 0xB1789F3C402CDC66: Have-It-All Entertainment Center
    [42] 0x1E3304023A916013: Zeemuth Television Set
-   [43] 0x2F35414408FBD7A8: We are unable to verify that your disc is a  valid copy of The Sims™ 3 70s, 80s, & 90s Stuff.  Please contact customer service.
+   [43] 0x2F35414408FBD7A8: We are unable to verify that your disc is a valid copy of The Sims™ 3 70s, 80s, & 90s Stuff. Please contact customer service.
    [44] 0x695BCC73373A00DC: No game disc found! Please insert The Sims™ 3 70s, 80s, & 90s Stuff game disc before proceeding.
    [45] 0xF904CE8A6A0FEBBE: © 2013 Electronic Arts Inc.
    [46] 0xADC98B064D4D6B0B: Feathering Hair

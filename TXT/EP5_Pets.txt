@@ -30,7 +30,7 @@ Unknown3: 0x00000000
    [019] 0xD2420C81A3E5417C: Spider Web
    [01A] 0x1116821FD7B76BD7: Tooled Leather
    [01B] 0xBB0D813011513BB9: The Sims™ 3 Pets
-   [01C] 0xAC4D7BFF032C03D6: The joy of farming - in miniature!  Without any backbreaking labor required.  Why spend the effort?  Let these industrious little fellows do all the work and enjoy the fruits of their labors… for as long as you desire.
+   [01C] 0xAC4D7BFF032C03D6: The joy of farming - in miniature! Without any backbreaking labor required. Why spend the effort? Let these industrious little fellows do all the work and enjoy the fruits of their labors… for as long as you desire.
    [01D] 0x9994ABDC81D38CAA: It's a big backdrop!
    [01E] 0xB8FE1C456C544942: Built strong and hearty like the farm folk of yore, Old Barley's Lucky Barstool will keep your Sims deeply grounded while they enjoy their favorite meals. Luck implied, but not included.
    [01F] 0xF09A8591BD4BD0FA: Inspired by the teen drama "Porcelwood's Creek", we've created a furniture line made from porcelain and wood. These materials also represent our human strength juxtaposed with our weaknesses . This tub is deep, literally.
@@ -41,7 +41,7 @@ Unknown3: 0x00000000
    [024] 0x79EE849BD72EDF44: Inspired by the old west, Don Libro and Co. bring to you a bookshelf deeply-rooted in history! In fact, each bookshelf is sandblasted and then left in a ghost town until one of the local ghosts reads from it!
    [025] 0x3A095CF9F9758E5B: In days of yore, retired Bavarian Superheroes took up furniture making as a way to get some extra cash near the end of their golden years. They developed solid methods leading to solid furniture, and passed those techniques on to us! If there is anything we can say about The Sturdy Gurdy Bookshelf, it is that it is amazingly solid!
    [026] 0x438CBC26B770DC26: Straight out of Chapter 11 bankruptcy comes a fresh new book shopping concept at Walls Book 'n Bath! What's the answer to an archaic business model fighting a losing battle against the coming electronic age? Water of course! Slip into a soothing hot bath with an old fashioned book; after all, e-readers and water can have shocking results!
-   [027] 0x63D314190BEEC9F8: Every pet deserves a clean place to live.  Give your horse a box stall that never needs to be cleaned.
+   [027] 0x63D314190BEEC9F8: Every pet deserves a clean place to live. Give your horse a box stall that never needs to be cleaned.
    [028] 0xB4CD7D9341C26C11: Keep them safe and keep them healthy! The Western Box Stall is the perfect room to give your horse all the major necessities it needs. Just be sure you clean up after them once in a while or you'll start smelling unfamiliar and unwanted aromas.
    [029] 0xE81C750A4D4150FF: With a sturdy wood frame and large living space, the Old Western Box Stall is the optimal place to keep your horses during the day or night. It’s like giving them their own hotel room right in your own lot.
    [02A] 0x07E742779B0DBFCB: This bridge goes great with rivers!
@@ -96,7 +96,7 @@ Unknown3: 0x00000000
    [05B] 0x91783FC1309864B2: Add a touch of Western flair to any abode with this classy set of saloon doors. Guaranteed to let lawmen in and keep varmints out!
    [05C] 0xC93BD44D7C518A53: The finest in Norwegian design takes on the rustic outdoors with the Bjørn Sliding Door. Tempered in the volcanic northwestern region of Norway, lifelong artisans work day and night to satisfy demand for this regal door. Of course, that's not what those Icelandic thieves would have you believe with their imitation line of Björn Barn Doors.
    [05D] 0x1EB93C171E86D027: After years of research and testing the tensile strength needed to withstand the force of stampede, Grady McPherson has begun manufacturing common household fixtures designed to withstand a rush of wild animals. The Stampede Stopper Garage Door should be your first purchase when living on the range.
-   [05E] 0x31D5FB4AC3FF503C: When it’s round up  time for the little ones in your house, the Round Up Time Door is the perfect instrument to make sure your cowboys or cowgirls stay put for the night. Ain't nothin’ good about havin’ the herd skedaddling about in the night!
+   [05E] 0x31D5FB4AC3FF503C: When it’s round up time for the little ones in your house, the Round Up Time Door is the perfect instrument to make sure your cowboys or cowgirls stay put for the night. Ain't nothin’ good about havin’ the herd skedaddling about in the night!
    [05F] 0x730B494094732C36: In need of a quick change of clothes to escape the law? Been on the trail for days with no respite? Do yourself a favor, partner, and lasso one of these Desperado Dressers for a fresh set of threads. Ain’t nothin’ better, less a clean shave, than a new pair of britches for the desperado in us all.
    [060] 0xD581F4CDD53B4984: This glamorous country dresser is the perfect finishing piece for your dream ranch bedroom. For the cowboy or cowgirl with an eye to accessorize, you'll find ample room for outfits to match any occasion. No matter if it's an impromptu hoedown or just a playful roll in the hay, with the Hot to Trot dresser you'll always be good to go!
    [061] 0xB635DD0E80DB53AC: Proof that Sims settled in this area in ancient times.
@@ -132,7 +132,7 @@ Unknown3: 0x00000000
    [07F] 0x937B3BAD5A309C2C: This attractive sign brings a touch of rustic beauty to any ranch or farm.
    [080] 0x2F68F64FA161E2F4: Need to train your horse on how to jump over obstacles? The Cavaletti jump trainer is the perfect fit for those amateur horses getting ready to compete in jumping competitions. With steadfast training, your horse will be able to leap over more difficult objects.
    [081] 0x8F958685985CB739: There is nothing more exciting than jumping through a hoop set on fire. Unless you are jumping through a hoop set on fire while riding a horse! Watch out for those flames!
-   [082] 0xB985779DEAED9E44: Continue training with this beginner level jump obstacle. With plenty of hard work, your horse will become the next jumping phenomenon the world has been waiting for!  After mastering this jump, your next obstacle is waiting for you just around the corner.
+   [082] 0xB985779DEAED9E44: Continue training with this beginner level jump obstacle. With plenty of hard work, your horse will become the next jumping phenomenon the world has been waiting for! After mastering this jump, your next obstacle is waiting for you just around the corner.
    [083] 0x93A534166BD37E0A: Flames! Explosions! Fireworks! Show off your epic jumping skills with this Pyrotechnic jump obstacle. Enough flashy lights and loud noises to rival a travelling circus, this obstacle has it all! Flame-retardant jumpsuit with matching saddle not included. 
    [084] 0xBC71D16DFA7443AF: This moderately difficult Oxer jump obstacle is for the more experienced jumper and companion. The six bar setup is perfect for conditioning your horse for moderate level obstacles.
    [085] 0x749EDA4898479F58: The incline of the Triple Bars obstacle has a medium difficulty jump rating. Horses with moderate amounts of experience under their saddles would do well jumping over this type of obstacle.
@@ -201,7 +201,7 @@ Unknown3: 0x00000000
    [0C4] 0xFF57AEF7A8DFFEAE: This is a Turtle spawner.
    [0C5] 0xFF57AEF7A8DFFEAF: This is a Turtle spawner.
    [0C6] 0xFF57AEF7A8DFFEA8: This is a Turtle spawner.
-   [0C7] 0xEE1E92826C7F9CDD: Mirror design has become extravagant over the decades, so much so that it can be frustrating to find the perfect frame to fit your desired decor and budget.  Don’t worry! Now you can just get all functionality of any and every mirror, with the Overly Simple Standup Mirror. This is the most cost efficient mirror out on the market!
+   [0C7] 0xEE1E92826C7F9CDD: Mirror design has become extravagant over the decades, so much so that it can be frustrating to find the perfect frame to fit your desired decor and budget. Don’t worry! Now you can just get all functionality of any and every mirror, with the Overly Simple Standup Mirror. This is the most cost efficient mirror out on the market!
    [0C8] 0x65C5619D2D30321C: With all the obvious benefits of binding a mirror in leather, it goes without saying that this mirror is not only functional, but stylish to boot! Who would have ever thought that a leather bound mirror could reflect as well as one that wasn’t?
    [0C9] 0x19CBA0D78F2B28D5: Entrepreneur Darris Teeter spent years attempting to expand his line of gourmet grocery stores. Unfortunately every time a location opened in a new community, people lined up thinking it was a trendy new movie theater! After years of frustration he succumbed to public perception and restored this old theater to its former glory, branding it with his infamous name.
    [0CA] 0xA7262D725D63A543: Our favorite shades of the color spectrum!
@@ -223,7 +223,7 @@ Unknown3: 0x00000000
    [0DA] 0x41837DCA2181F896: If a fluffy feline is all you require to fulfill your calendar dreams and desires, then this Kitty Calendar was made just for you! Cuddly kitties abound in this lovely organizational wall piece. Your heart will melt as you gaze upon month after month of sweet kittens and cantankerous tom cats!
    [0DB] 0x41797FCA2179A7A4: If a Sim's Best Friend is all you require to fulfill your calendar dreams and desires, then this Canine Calendar was made just for you! Noble pups abound in this lovely organizational wall piece. Month after month of boisterous barking beauties will greet you as you pencil in appointments and revelries.
    [0DC] 0x4C1A80E31BBF93B1: If a noble steed is all you require to fulfill your calendar dreams and desires, then this Horsey Calendar was made just for you! Equine beauty abounds in this lovely organizational wall piece. Swoon over fillies and foals while you keep track of mundane tasks.
-   [0DD] 0xFB8CA3F798A3C021: Text deleted? Who’s messing with the copy? This brand new poster entitled Three Dog M[TEXT DELETED].  Grrr! Look, there are three dogs, there is a planetary body and thus it has been entitled Three Do[TEXT DELETED]. Argh! Can we please not edit the copy!? It’s a poster of three animals, there happens to be celestial object… you might even say moon. Moon. Now you’re ok with moon!? Three [TEXT DELETED]… seriously?!
+   [0DD] 0xFB8CA3F798A3C021: Text deleted? Who’s messing with the copy? This brand new poster entitled Three Dog M[TEXT DELETED]. Grrr! Look, there are three dogs, there is a planetary body and thus it has been entitled Three Do[TEXT DELETED]. Argh! Can we please not edit the copy!? It’s a poster of three animals, there happens to be celestial object… you might even say moon. Moon. Now you’re ok with moon!? Three [TEXT DELETED]… seriously?!
    [0DE] 0x316923B427E77ABD: This collection of frames comes straight from grandmother Alberta Werthington’s house. Alberta always prided herself on the classic arrangement of the frames; an arrangement that took her 5 years of staring at the wall.
    [0DF] 0xA0148C3F2326FFBB: Deep in the undergrowth, natives silently stalk the Simadonian Python, waiting for the great serpents to shed their skin. It is whispered that the beasts only shed twice a year on nights with a full moon obscured by rain clouds. The Simadonian natives gather the delicate skin and quickly seal it behind glass before it flakes away into dust. From Simadonia to your living room.
    [0E0] 0x3CEABA5672CE90C5: Bow wow wowzer! When it comes to top of the line doggy and kitty comfort, look no further than the Bow Wow Wowzer Pet Bed. It'll put a little wowzer into the dreams of your pets!
@@ -240,8 +240,8 @@ Unknown3: 0x00000000
    [0EB] 0x2581388789B2B64E: Hand crafted to resemble some of Twinbrook's cheapest residential architecture, give your pet an abode that's just above cardboard! Complete with shingled roof!
    [0EC] 0x48B227C4228C4378: Hand crafted to resemble some of Twinbrook's finest residential architecture, give your pet the best in multi-level living with the Twinbrook Tandem!
    [0ED] 0xE14F65496571236F: Quick and easy way to clean your pet!
-   [0EE] 0x0AB0A2A751E9BEA4: Sir Bricks-a-lot Jr, from the same folks that brought you Sir Bricks-a-lot.  What could be more fun than a brick?  Nothing!  Sir Bricks-a-lot Jr, the cuddly wubbly brick for the whole family.  Now with 50% more wubbly!
-   [0EF] 0x86123D0770D54050: Not long ago there lived a fish named Fred.  Fred was a happy fish.  One day while Fred was leisurely swimming along enjoying a sun bath, he found himself hit in the head by a Gonk Rock.  And now Fred is dead, but the rock lives on…  it lives on for you.
+   [0EE] 0x0AB0A2A751E9BEA4: Sir Bricks-a-lot Jr, from the same folks that brought you Sir Bricks-a-lot. What could be more fun than a brick? Nothing! Sir Bricks-a-lot Jr, the cuddly wubbly brick for the whole family. Now with 50% more wubbly!
+   [0EF] 0x86123D0770D54050: Not long ago there lived a fish named Fred. Fred was a happy fish. One day while Fred was leisurely swimming along enjoying a sun bath, he found himself hit in the head by a Gonk Rock. And now Fred is dead, but the rock lives on…it lives on for you.
    [0F0] 0x68E8F98B2FE36428: A shiny ball of foil!
    [0F1] 0xFA31422F0C48F9B0: A discarded piece of paper.
    [0F2] 0xF470CDB7F2DE1606: A plastic cat toy.
@@ -272,8 +272,8 @@ Unknown3: 0x00000000
    [10B] 0x85D1980BC04B1205: The English knew a good saddle when they saw one, so when they saw this one they named it after themselves so that no one could doubt their claim of discovering it! Did they really discover it? Who knows! But it still bears their name.
    [10C] 0x9E853D78DF9C0306: This sturdy sign indicates that something remarkable once occurred at this very spot. Or near this spot. Or across the ravine from this spot. Maybe the spot is now covered in water?
    [10D] 0xD25F4ADEA743C1DB: Jumping Jessica, legend of the old west! Equine mistress and horsewoman extraordinaire, Jessica was legendary for her ability to ride any horse, anywhere, at any time – and to guide them into jumping over seemingly impassable, impossible, implausible obstacles! This is a replica of her lucky jumping saddle as preserved, presented, and premanufactured for your viewing enjoyment.
-   [10E] 0xB7ABB03F7D5CCA07: The same folks that brought you such miraculous space saving concepts as "The Box and the Hollowed Out Ottoman" now bring us the latest advance:  STACKING!  "2 Buckets in 1" is representative of this life changing concept.  Embrace its revolutionary simplicity.
-   [10F] 0x1011526CDB88BEE0: Recovered during the recent dredging of the East River, these authentic milk barrels from the early ‘20s can now be yours.  Be the first to re-open these treasures from the past.
+   [10E] 0xB7ABB03F7D5CCA07: The same folks that brought you such miraculous space saving concepts as "The Box and the Hollowed Out Ottoman" now bring us the latest advance: STACKING! "2 Buckets in 1" is representative of this life changing concept. Embrace its revolutionary simplicity.
+   [10F] 0x1011526CDB88BEE0: Recovered during the recent dredging of the East River, these authentic milk barrels from the early ‘20s can now be yours. Be the first to re-open these treasures from the past.
    [110] 0xFA15861D07FDCCDB: This saddle was worn by champion race horse Black Thorn! It is said that Black Thorn never lost a race, that he was the fastest race horse ever seen east of the Mississippi! It still has a bit of luck in it, and will bring victory if worn by the proper stallion.
    [111] 0x29152D1072573878: These crates may appear to be decorative items, but let me tell you, hauling cargo across the great western expanse used to be messy and unorganized until the invention of these handy, organizational crates. If these crates hadn’t been shipped to your home in other Wayne’s Crates, I reckon they would have been lost along the way!
    [112] 0xB7C8FFFF323AE6DE: This is an abstract sculpture of Palomar, the first horse ever to be elected to Parliament. Not only was he the first horse in the history of the world to hold a government position, but he was the first member of parliament to vote “Nay” on every single issue that came before him. The people of Simlandonia will think twice next time a horse runs for office.
@@ -284,8 +284,8 @@ Unknown3: 0x00000000
    [117] 0x04113DB8E827790E: There once was a sawhorse that was old and sad. Its wooden beams were brittle and drab. What a sorrowful sawhorse! What a dark fate! Alone in the barn with the hay it does wait.
    [118] 0x4DCB0622587FCE29: Fred was the premiere model of tractor from FarmCo. Last century. Now Fred is covered in dust and rust.
    [119] 0x3CF32F1D4DEDFD06: Insert tree. Watch it flourish. The city is more beautiful. The air quality is improved. Why didn't we add trees sooner?
-   [11A] 0x095B5C6361A81B7B: This wagon wheel reproduction has been crafted from its very own piece of timber; lovingly shaved, sheered and carved until all that remained was a pair of perfect wagon wheels.  Remember the past by harvesting our future.
-   [11B] 0x4C5575AF7D7395F9: Now with 100% less horse for your safety, the Standing Riding Horse sculpture provides a unique opportunity to visualize your riding experience long before you climb aboard the real thing to risk life and limb.  Prepare before you dare!
+   [11A] 0x095B5C6361A81B7B: This wagon wheel reproduction has been crafted from its very own piece of timber; lovingly shaved, sheered and carved until all that remained was a pair of perfect wagon wheels. Remember the past by harvesting our future.
+   [11B] 0x4C5575AF7D7395F9: Now with 100% less horse for your safety, the Standing Riding Horse sculpture provides a unique opportunity to visualize your riding experience long before you climb aboard the real thing to risk life and limb. Prepare before you dare!
    [11C] 0x60C44DC758E03943: Brushes, lather, a hoof pick…all the things your Sim needs to keep their horse’s coat beautiful and clean! A clean horse is a happy horse. And we all want a happy horse, right? A sad horse…well, that would just be…sad.
    [11D] 0x6D24015FE98598E4: These ultra pellets are biodegradable, squishy, and they smell nice too! This pet bedding is flexible! It will keep reptiles warm at night, and rodents entertained during the day! Birds love to play in it! The benefits almost outweigh the price tag. Almost.
    [11E] 0x70DAC7051895376B: The daily walk is the highlight for many a dog! Keep them wondering when it will occur by furnishing your home with multiple Pet Leash sculptures. Also makes a great paperweight.
@@ -305,12 +305,12 @@ Unknown3: 0x00000000
    [12C] 0xEAEC3567289CDBFB: Industrial strength rope powerful enough to stay a stallion, yet flexible enough to finesse a filly.
    [12D] 0xF5D17898BFB2C98C: A bridle must be individually fitted to each horse’s unique head, and we here at Buntington believe that a comfortable horse is a happy horse! And what’s better than a happy horse? A stylish horse! Yes, our bridles are not only comfortable but attractive too! Bridles by Buntington…happening headgear for headstrong horses! 
    [12E] 0x1DB1D130E4D93194: 2-Shoe is the official symbol of the Bi-Legged Derby, known mostly for its clip-clip-jump style of racing. It has the side benefit of only requiring the horse to wear two shoes. Which, to the joy of many a blacksmith, has been attributed to a dramatic decrease in shoulder injuries.
-   [12F] 0xAA8E66C87075A4E0: Gas prices have driven many an economical monstrosity to the top of the scrap heap.  Among the heap risers, are the town cars of the great lone star state.  Thousands of longhorn ornaments have been rescued from the maw of the crusher.  Get yours now, before the bulls come calling!
+   [12F] 0xAA8E66C87075A4E0: Gas prices have driven many an economical monstrosity to the top of the scrap heap. Among the heap risers, are the town cars of the great lone star state. Thousands of longhorn ornaments have been rescued from the maw of the crusher. Get yours now, before the bulls come calling!
    [130] 0x0629E4148623257E: Looking to complete that Tack-EE designed look in your house? Look no further than the Pet Plates! Honor your pets with these fine Tack-EE designs, because nothing screams Tack-EE louder than these plates!
    [131] 0xAD5DE46370FBEED4: It's amazing what can be found on the back roads of this great land of ours! Rocks, trees, some dirt, and maybe if you look hard enough, you can find A Little Bit o'Country. But if you don't, we did! We've dusted it off, added simulated rust, dents, scratches and just about everything you need to make you feel country... without all that outdoor mess.
-   [132] 0x57C1EC678444AE98: Aromas from the plains of the Serengeti, oils from the rivers of Egypt, and fabrics woven by the hands of the world's finest artisans were our inspiration!  Our simulated accoutrement technology is ready to be put to the test in this first ever display for public acquisition.  Warning:  All shelved items are for display purposes only.  Please do not ingest display items or come within 2-1/2 feet of the display.
+   [132] 0x57C1EC678444AE98: Aromas from the plains of the Serengeti, oils from the rivers of Egypt, and fabrics woven by the hands of the world's finest artisans were our inspiration! Our simulated accoutrement technology is ready to be put to the test in this first ever display for public acquisition. Warning: All shelved items are for display purposes only. Please do not ingest display items or come within 2-1/2 feet of the display.
    [133] 0xD485A215F58C8350: The wheels on the wagon go round and round, up and down, around and around…the wheels on the wagon go round and round…until they all fall off!
-   [134] 0x1E38DE8523DAA8C4: Chic, sophisticated, alluring, the G-Class shower by Ele-Gante has been named the best new luxury shower in its class for the 9th straight year.  J.C. E'Lane, director of public relations, commented: "She's a keeper!" at a recent press event and truer words could not be found.  The G-Class, a first time experience, every time!
+   [134] 0x1E38DE8523DAA8C4: Chic, sophisticated, alluring, the G-Class shower by Ele-Gante has been named the best new luxury shower in its class for the 9th straight year. J.C. E'Lane, director of public relations, commented: "She's a keeper!" at a recent press event and truer words could not be found. The G-Class, a first time experience, every time!
    [135] 0xA36CA4EF3AB09E7C: Ponies! Ponies! Ponies!
    [136] 0x5F1CF4A7D7301460: Simina Pet Chow, making pets happy and keeping them healthy.
    [137] 0x9AA4E54922C86A1F: They can't wait to share your Simoleons!
@@ -318,7 +318,7 @@ Unknown3: 0x00000000
    [139] 0xDF4F4CCCE2DB99AC: This sign will help you find your way!
    [13A] 0x263D616916238F56: Be sure to watch for animals crossing the road!
    [13B] 0xC44506E8DE224E61: Llamas are forbidden.
-   [13C] 0x34CDE4D15E44796F: The Flow!  Not one but a TWO handled Faucet?  Oh yea!  Hot AND cold water?  Of course!  A wash basin WITH a drain?  Why not.  WOW, The Flow has got it all!  And you know what?  YOU WANT IT!  And if you act now, we'll throw in, at no extra cost to you, a money back guarantee(guarantee offer subject to be discontinued at any time).
+   [13C] 0x34CDE4D15E44796F: The Flow! Not one but a TWO handled Faucet? Oh yea! Hot AND cold water? Of course! A wash basin WITH a drain? Why not. WOW, The Flow has got it all! And you know what? YOU WANT IT! And if you act now, we'll throw in, at no extra cost to you, a money back guarantee (guarantee offer subject to be discontinued at any time).
    [13D] 0xCC28476561FAF035: In a shocking display of good will and cooperation, the furniture firms of Björn and Bjørn set aside their decade old rivalry to collaborate on this new age sofa. Presenting themselves as the unified front of Bjorn, their top designers submit this as a shining beacon of the future of furniture in the 21st century. From the city to the country, the retro cushions meld with a clean metallic frame to help create the ultimate in modern living.
    [13E] 0x7F53FF30381E0D1D: Otherwise known as Bigfoot, the Sasquatch is a legendary creature that lurks deep in the forests and mountains. He is hairy and large, but known to be friendly. He is, however, photo shy.
    [13F] 0xFC602D530C1BD671: This stone is hard and cool to the touch.
@@ -332,15 +332,15 @@ Unknown3: 0x00000000
    [147] 0xC261EA3395002736: A clumsy ranch hand's loss is your gain! Old MacGilscarbo gave up on fixing that rickety old gate years ago. On its last legs, the gate conveniently fell upon a nearby trough. MacGilscarbo's wife never had a more sturdy coffee table since.
    [148] 0x0CA4F32229B0E553: Have you ever seen a gnome with a blow torch? Neither have we. But leave a 1/2 ton of scrap metal in a room with six or seven garden gnomes overnight and you'd be surprised to find a table the next day (we were)! Those gnomes took a whole room of scrap, worth nearly a million Simoleons, and created a table worth almost nothing! And why do we keep storing the garden gnomes and scrap metal in the same building!? ...we're broke.
    [149] 0x028874639726D8EA: This dining table is made from the sturdiest and heaviest wood. In fact, each table weighs as much as a small pony! To add to your bragging rights of owning the world's heaviest table we've included heavy iron brackets that hold the table together!
-   [14A] 0x1F2133C8F8E31298: A newcomer to the craftsman stage, John C. Vaugn has turned his attention away from his former pursuit of involuntary home goods redistribution, and instead has chosen to focus on his institutionally sanctioned pastime, building furniture.  The "I-double D-I" End Table is John's first foray into the field and is made from recycled leg restraints and riot squad shield glass, from the very institution that he called home for the past 37 years.
+   [14A] 0x1F2133C8F8E31298: A newcomer to the craftsman stage, John C. Vaugn has turned his attention away from his former pursuit of involuntary home goods redistribution, and instead has chosen to focus on his institutionally sanctioned pastime, building furniture. The "I-double D-I" End Table is John's first foray into the field and is made from recycled leg restraints and riot squad shield glass, from the very institution that he called home for the past 37 years.
    [14B] 0x1CE146821B9ED23F: Every Cowgirl needs a trusty end table! She can store her boots, her spurs, her hat, her toy ponies! The possibilities are as limitless as the frontier. Yee-haw!
-   [14C] 0xB26F1C7CA098FFB4: My parent's progeny, Peter, preferred a plateau-like pulpit to promote his potted plants, platter of parquetry or other parallel playthings.  And if it pleases you to picture such pursuits as you place your own potted or plattered paraphernalia, then perhaps you should pride yourself to purchase the Perfect Pedestal, and point out to your partner it's "Peter Preferred!"
+   [14C] 0xB26F1C7CA098FFB4: My parent's progeny, Peter, preferred a plateau-like pulpit to promote his potted plants, platter of parquetry or other parallel playthings. And if it pleases you to picture such pursuits as you place your own potted or plattered paraphernalia, then perhaps you should pride yourself to purchase the Perfect Pedestal, and point out to your partner it's "Peter Preferred!"
    [14D] 0x9CE098A44671096F: Beautiful from far away, but hard to see up close...
-   [14E] 0x3E3C3A0E36A97037: The perfect way to recreate a natural habitat for your pet lizard!  The Lizard Terrarium has just enough room for lizards to hang out and soak up some artificial UV rays.
-   [14F] 0x51F82A8F41823305: The Rodent Terrarium includes all the essentials a rodent needs on a day to day basis: a wheel, a place to climb, and a place to hide!  What more could a rodent ask for?
-   [150] 0x8CDC8C9E26163AE5: The Snake Terrarium is essential for any Sim who plans to own a snake, while providing plenty of room for it to slither around.  After all, a snake running loose in the house isn't necessarily safe! 
-   [151] 0xAA5EB96FEB478821: Whether your turtle wants to soak up some "sun" or go for a swim, the Turtle Terrarium is the perfect place for it to reside.  Your turtle should feel right at home!
-   [152] 0x58C64CFDA2E7D267: Whatever your pursuits may be, the Reinforced Personal Stage is there to keep you put no matter what dangers may lurk!  Polyurethane ribbing and our patented "Bolt and Nut" securing method are guaranteed to prevent any of the usual malfunctions you might find with lesser brands.  Fear not friends, you shall never find yourself face first on the floor from unwanted bowl separation!  Bowl and tank, together as one... as was intended by the natural order!
+   [14E] 0x3E3C3A0E36A97037: The perfect way to recreate a natural habitat for your pet lizard! The Lizard Terrarium has just enough room for lizards to hang out and soak up some artificial UV rays.
+   [14F] 0x51F82A8F41823305: The Rodent Terrarium includes all the essentials a rodent needs on a day to day basis: a wheel, a place to climb, and a place to hide! What more could a rodent ask for?
+   [150] 0x8CDC8C9E26163AE5: The Snake Terrarium is essential for any Sim who plans to own a snake, while providing plenty of room for it to slither around. After all, a snake running loose in the house isn't necessarily safe!
+   [151] 0xAA5EB96FEB478821: Whether your turtle wants to soak up some "sun" or go for a swim, the Turtle Terrarium is the perfect place for it to reside. Your turtle should feel right at home!
+   [152] 0x58C64CFDA2E7D267: Whatever your pursuits may be, the Reinforced Personal Stage is there to keep you put no matter what dangers may lurk! Polyurethane ribbing and our patented "Bolt and Nut" securing method are guaranteed to prevent any of the usual malfunctions you might find with lesser brands. Fear not friends, you shall never find yourself face first on the floor from unwanted bowl separation! Bowl and tank, together as one... as was intended by the natural order!
    [153] 0x217BE544A84139D7: Dinosaur teeth! 25 simoleons! Today only!
    [154] 0xEA0AFC7B6113C11E: All that remains of a well loved pet toy.
    [155] 0xD7838A388E8102CD: On your mark, get set… Go! The Dashing Training Post is a great way to condition your horse for those Racing and Cross-Country competitions. Horses specifically trained with these posts have been rumored to becoming faster than a speeding bullet! Ok, well maybe not that fast, but close enough!
@@ -362,11 +362,11 @@ Unknown3: 0x00000000
    [165] 0xC88B566E1B78523D: This windmill lacks blades.
    [166] 0x2F158ABCB00CA4AB: From rustic bungalows to grand ranch houses, these rustic windows provide copious amounts of natural light from dusk till dawn.
    [167] 0xC6C5E0FFF84B2FE2: From rustic bungalows to grand ranch houses, these rustic windows provide copious amounts of natural light from dusk till dawn.
-   [168] 0xEF152DED312DAA1D: This Double X Window, an exciting new variant of The Classic X Window, will keep you awake at night wondering why you ever thought just one X would do.  Remember X is better with two, or even more when you pair it with The Classic X!
-   [169] 0x7186330F6DAF0DB4: An abstract interpretation of western idealism, Window with Boards attempts to capture the inherent conflict of the inner and outer spirit of the self.  Its simplicity compels you to look beyond its fragile glass shell, while the boards stand firm with their rigidity.  The window constrains you!  Window with Boards is the masterpiece every home should have... no, what every home needs!
-   [16A] 0x53B6B81E4F0EA803: Nestled within an aged wood-like material guaranteed to be nearly 99% perfectly harmless and pieced together with precision using 2-1/4" recycled nails salvaged from the depths of the icy northern waters, this window is lovingly hand etched by machine controlled laser systems.  Nothing says superior craftsmanship better than an assembly line of finely tuned robotic arms caring for every detail of your window.
+   [168] 0xEF152DED312DAA1D: This Double X Window, an exciting new variant of The Classic X Window, will keep you awake at night wondering why you ever thought just one X would do. Remember X is better with two, or even more when you pair it with The Classic X!
+   [169] 0x7186330F6DAF0DB4: An abstract interpretation of western idealism, Window with Boards attempts to capture the inherent conflict of the inner and outer spirit of the self. Its simplicity compels you to look beyond its fragile glass shell, while the boards stand firm with their rigidity. The window constrains you! Window with Boards is the masterpiece every home should have... no, what every home needs!
+   [16A] 0x53B6B81E4F0EA803: Nestled within an aged wood-like material guaranteed to be nearly 99% perfectly harmless and pieced together with precision using 2-1/4" recycled nails salvaged from the depths of the icy northern waters, this window is lovingly hand etched by machine controlled laser systems. Nothing says superior craftsmanship better than an assembly line of finely tuned robotic arms caring for every detail of your window.
    [16B] 0xF092300BFC7117B1: Kyle was a master window builder when the world of windows was new. This window is his greatest creation. His brainchild. His legacy.
-   [16C] 0xB9987367EA5CB0C8: It's big, it's bold and it's in your face!  Now guaranteed to let in 10% more light than ever before.  Remember if it has to be an X window, make sure it's The Classic X.  Anything less is just an overhyped glass wall allowing the sun's rays to pass through its surface with minimal refraction.
+   [16C] 0xB9987367EA5CB0C8: It's big, it's bold and it's in your face! Now guaranteed to let in 10% more light than ever before. Remember if it has to be an X window, make sure it's The Classic X. Anything less is just an overhyped glass wall allowing the sun's rays to pass through its surface with minimal refraction.
    [16D] 0x72DC67579C608CF6: This potion will magically turn back the time on your pet's life. Here's to starting over!
    [16E] 0x51EA93AC012B82FD: Subterranean Simulation Device
    [16F] 0x296438E7DF2D4A5F: Backdrop
@@ -501,7 +501,7 @@ Unknown3: 0x00000000
    [1F0] 0xBCADD77700112478: Formidable Wall
    [1F1] 0x191361FD46A0D0DC: Emerald's Gaze
    [1F2] 0x9DA8561FA13E5D9F: Advanced Water Obstacle
-   [1F3] 0xEEDC812CDB2F1DE7: Waber's  Ducky Obstacle
+   [1F3] 0xEEDC812CDB2F1DE7: Waber's Ducky Obstacle
    [1F4] 0x76D6F0813187FD5F: Wild 'n Wet Water Trough
    [1F5] 0x409A1A44F30297F0: Wolfson's Hospital and Research Facility
    [1F6] 0x4CCCCFE76CD9C691: Ice Cream Cone
@@ -1266,7 +1266,7 @@ Unknown3: 0x00000000
    [4ED] 0x8E70F1A7B43F2C26: Zebedee
    [4EE] 0xF924D0AEAE3FD438: Stray Dog
    [4EF] 0xFD4EC92FB020B0FA: Magnificent! The CCC is quite please with the performance and has parceled out a decent reward to {OpOwner}!
-   [4F0] 0x87C389B8B6B1E38E: The local Canine Covetor's Club just can't get enough of their dogs.  They have made it known that any pet owner with a dog can come by the local Dog Park and show off any tricks they know.  Prizes will be given out to participants showing off enough tricks.
+   [4F0] 0x87C389B8B6B1E38E: The local Canine Covetor's Club just can't get enough of their dogs. They have made it known that any pet owner with a dog can come by the local Dog Park and show off any tricks they know. Prizes will be given out to participants showing off enough tricks.
    [4F1] 0x94904D1F59E08E06: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
    [4F2] 0x9C02C9A334043E83: Bring a dog to the Dog Park and have them perform {OpNumEventsGoal} tricks to earn some prize money.
    [4F3] 0xD1C9DCA352FCE611: Dog Trick Showdown
@@ -1277,38 +1277,38 @@ Unknown3: 0x00000000
    [4F8] 0x19677E5C9FA22DD9: EP5_Location_FindFossils_Hint
    [4F9] 0xE3A0695C80A982AF: Fossil Finder Frenzy
    [4FA] 0x9316CCB468E66AEB: EP5_Location_FindFossils_Progress
-   [4FB] 0xD31D8DFD50D828B7: Horus's equine experience has helped {OpOwner}'s horse excel at their riding and jumping skills.  Jumping those high gates will be even easier now!
-   [4FC] 0xF0FECD19BE8904B5: The city council was lucky enough to attract the skills of self-proclaimed Horse Lord Horus E. Quine to the local equestrian center.  He will be giving free lessons and tips to those that bring their horses there today.
+   [4FB] 0xD31D8DFD50D828B7: Horus's equine experience has helped {OpOwner}'s horse excel at their riding and jumping skills. Jumping those high gates will be even easier now!
+   [4FC] 0xF0FECD19BE8904B5: The city council was lucky enough to attract the skills of self-proclaimed Horse Lord Horus E. Quine to the local equestrian center. He will be giving free lessons and tips to those that bring their horses there today.
    [4FD] 0x147D15D003E528E9: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
    [4FE] 0x0DA9919E3951A5CE: Enter the Equestrian Center with a household Horse to get a significant boost to riding and jumping skill.
    [4FF] 0x1FF0E69E43F0FC90: Professional Horse Training Seminar
    [500] 0x17B68753B82E5EBC: Enter the Equestrian Center with an owned horse.
-   [501] 0xCF539CB468BAF7BB: The event was quite successful.  With an atmosphere of can do attitude and so many good examples of good horsemanship, {OpOwner}'s horse has definitely learned a lot!
-   [502] 0x09C64F9D8FF0D561: The nearby equestrian fanatics have banded together to rent out the local horse ranch.  They've invited all horse owners to bring out their equines and do some jumping.  With all the jumping practice going on {OpOwner}'s horse is bound to learn extra fast!
+   [501] 0xCF539CB468BAF7BB: The event was quite successful. With an atmosphere of can do attitude and so many good examples of good horsemanship, {OpOwner}'s horse has definitely learned a lot!
+   [502] 0x09C64F9D8FF0D561: The nearby equestrian fanatics have banded together to rent out the local horse ranch. They've invited all horse owners to bring out their equines and do some jumping. With all the jumping practice going on {OpOwner}'s horse is bound to learn extra fast!
    [503] 0x9B6C9EFDA6C3C7DD: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
    [504] 0x49B23D9D398C5B9A: Have {OpOwner}'s horse perform {OpNumEventsGoal} jumps to be rewarded with a skill boost.
    [505] 0x13112A9D19DA10D4: Horse Jump Power Hour
    [506] 0x9E2390E6E76C0E60: {OpNumEventsCurrent} / {OpNumEventsGoal} Horse Jumps performed.
-   [507] 0x788A40D02D1AC73F: OFF was very pleased with the turnout and everyone had a lot of fun.  It was pretty awesome and {OpOwner} was quite the Socialite milling about!
-   [508] 0x81FFA44782F6BB8D: The Official Feline Followers are encouraging all cat lovers to socialize and meet new friends at the local cat jungle.  They are really hoping it will be an Awesome Party for those that come.
+   [507] 0x788A40D02D1AC73F: OFF was very pleased with the turnout and everyone had a lot of fun. It was pretty awesome and {OpOwner} was quite the Socialite milling about!
+   [508] 0x81FFA44782F6BB8D: The Official Feline Followers are encouraging all cat lovers to socialize and meet new friends at the local cat jungle. They are really hoping it will be an Awesome Party for those that come.
    [509] 0x0C6FA9819923DAC1: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
    [50A] 0xA9C437E1A6BD55C6: Meet {OpNumEventsGoal} new Sims (Human or Pet) to get an Awesome Party moodlet.
    [50B] 0xB86F8CE1AE4BF418: The Great Cat Roundup!
    [50C] 0x36ED778BECB88134: {OpNumEventsCurrent} / {OpNumEventsGoal} new Sims met.
-   [50D] 0xD15C7D2902121B99: The event was a success and {OpOwner} met so many new possible friends!  People are calling it an Awesome Party!
-   [50E] 0x712E9EDBDC492D77: It appears that there is a small Meet and Greet event going on at the local dog park.  Everyone is encouraged to bring all their dogs to the dog park and have fun with all the other neighbors!
+   [50D] 0xD15C7D2902121B99: The event was a success and {OpOwner} met so many new possible friends! People are calling it an Awesome Party!
+   [50E] 0x712E9EDBDC492D77: It appears that there is a small Meet and Greet event going on at the local dog park. Everyone is encouraged to bring all their dogs to the dog park and have fun with all the other neighbors!
    [50F] 0xFD383CEE8CD1A6E7: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
    [510] 0xCA5A3545850B85FC: Meet {OpNumEventsGoal} new Sims (Human or Pet) to get an Awesome Party moodlet and become a Socialite.
    [511] 0xFCBB0A45A1209ACE: The Dog Social Hour
    [512] 0x379EBD278674BE5E: {OpNumEventsCurrent} / {OpNumEventsGoal} new Sims met.
-   [513] 0xD7D756DB32BF83F0: {OpOwner} saw a lot of new faces and met quite a few to boot!  They had an Awesome Party and hopefully some of these new faces will become solid friends in the future!
-   [514] 0x112A8C4677374474: In order to promote camaraderie and improve community morale among horse owners, the city has staged a Meet and Greet for all Sims at the local horse ranch.  Sims should bring their horses and meet some new friends there today!
+   [513] 0xD7D756DB32BF83F0: {OpOwner} saw a lot of new faces and met quite a few to boot! They had an Awesome Party and hopefully some of these new faces will become solid friends in the future!
+   [514] 0x112A8C4677374474: In order to promote camaraderie and improve community morale among horse owners, the city has staged a Meet and Greet for all Sims at the local horse ranch. Sims should bring their horses and meet some new friends there today!
    [515] 0xD4C00CE014C4D5B8: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
    [516] 0x5E900E6845AA00CD: Meet {OpNumEventsGoal} new Sims (Human or Pet) to get an Awesome Party moodlet.
    [517] 0x70A16168501BC57B: Equestrian Lovers' Meet and Greetings
    [518] 0x1DC65EB536DE79E7: {OpNumEventsCurrent} / {OpNumEventsGoal} new Sims met.
-   [519] 0xDA8BA8121FE10FDD: {OpOwner}'s entry stole the show!  All of the judges were amazed at the pet's looks and attitude, or maybe it was luck!  Who knows but {OpOwner} has won the grand prize!
-   [51A] 0x459668C1D2585753: The local pet adoption center is working with the Association for Wondrous Wildlife to host an incredible Pet competition at the stadium.  Sims should come by to enter one of their favored cats or dogs for a chance at the big prize!
+   [519] 0xDA8BA8121FE10FDD: {OpOwner}'s entry stole the show! All of the judges were amazed at the pet's looks and attitude, or maybe it was luck! Who knows but {OpOwner} has won the grand prize!
+   [51A] 0x459668C1D2585753: The local pet adoption center is working with the Association for Wondrous Wildlife to host an incredible Pet competition at the stadium. Sims should come by to enter one of their favored cats or dogs for a chance at the big prize!
    [51B] 0xA9DE8EF45EFCC64B: You left the location while the event was still going on! How do you expect to participate when you're not even present? Maybe next time...
    [51C] 0x69C20861574EA6C8: "Enter the Competition" at the Stadium with a favorite cat or dog to win big prizes!
    [51D] 0x577AB5614CAF5282: Best in the Show Competition
@@ -1333,17 +1333,17 @@ Unknown3: 0x00000000
    [530] 0xB4C45027DC25AC38: Calibrating Claws...
    [531] 0xB4C45027DC25AC37: Hatching Fleas...
    [532] 0xB4C45027DC25AC36: Wagging Tails…
-   [533] 0x1AFD3B6C04E279AB: We are unable to verify that your disc is a valid copy of The Sims™ 3 Pets.  Please contact customer service.
+   [533] 0x1AFD3B6C04E279AB: We are unable to verify that your disc is a valid copy of The Sims™ 3 Pets. Please contact customer service.
    [534] 0xD3470C4E6B734D1F: No game disc found! Please insert The Sims™ 3 Pets game disc before proceeding
    [535] 0x3C56F45B5E15FF7A: You placed a Cat Jungle. This location is perfect for cats to safely play outdoors and make new friends!
-   [536] 0x17A3400FF5D824A1: You placed a consignment store.  This location is perfect for putting your sims handcrafted goods up for sale.
+   [536] 0x17A3400FF5D824A1: You placed a consignment store. This location is perfect for putting your sims handcrafted goods up for sale.
    [537] 0xD3E18F270936E22F: You placed a Dive Bar. This location is wonderful for relaxing after a long day, casually enjoying the local night life, or simply getting your juice on.
    [538] 0xA46A4CAA72EAA10B: You placed a Dog Park. This location is just the spot for dogs to run around, play fetch, and meet other pups!
    [539] 0x9D643067B3AFE0C7: You placed an Equestrian Center. This location is the place to be when you're ready to enter your horse in a competition, breed your horse, or simply buy and sell horses.
    [53A] 0x9C231CC835E98144: You placed an Equestrian Center. This location is the place to be when you're ready to enter your horse in a competition, breed your horse, or simply buy and sell horses.
-   [53B] 0xF475CF79C609F7F9: You placed a fire station.  This is the lot where firemen live while on duty.
+   [53B] 0xF475CF79C609F7F9: You placed a fire station. This is the lot where firemen live while on duty.
    [53C] 0xAC9E39E7DE570B24: You placed a Horse Ranch. This location is great to visit when you're ready to train your horse in the racing or jumping skills.
-   [53D] 0x7196E9D234998425: You placed a junkyard.  This place is perfect for finding Scrap and other treasures sims do not want anymore.
+   [53D] 0x7196E9D234998425: You placed a junkyard. This place is perfect for finding Scrap and other treasures sims do not want anymore.
    [53E] 0x891C10C101007DFA: You placed a salon. This place is perfect for getting your Sims all dressed up for a night on the town...
    [53F] 0x4290EF82EA751846: In Create a Household, to further customize your pets you can select Advance Mode In both shapes and coat sections
    [540] 0x4290EF82EA751845: If your Sim desires a new pet he/she can adopt one via phone or computer for little or no Simoleons.
