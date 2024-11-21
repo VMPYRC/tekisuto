@@ -81,7 +81,7 @@ Unknown3: 0x00000000
    [4C] 0xB6F0DBBFA159CC48: Plots and Plans Dining Table
    [4D] 0x3AEBA95D460ABDE9: Saloon Sal's Table
    [4E] 0x9EA9E8EA410FCEB5: Serpent's Kiss End Table
-   [4F] 0xB8C1894FE64D95AD: We are unable to verify that your disc is a  valid copy of The Sims™ 3 Movie Stuff. Please contact customer service.
+   [4F] 0xB8C1894FE64D95AD: We are unable to verify that your disc is a valid copy of The Sims™ 3 Movie Stuff. Please contact customer service.
    [50] 0x9250478223B53DA1: No game disc found! Please insert The Sims™ 3 Movie Stuff game disc before proceeding.
    [51] 0x3316AB32390D867B: © 2013 Electronic Arts Inc.
    [52] 0xC5B7ED7E29B74410: Adjusting Lighting...

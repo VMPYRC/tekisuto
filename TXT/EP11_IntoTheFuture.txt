@@ -235,7 +235,7 @@ Unknown3: 0x00000000
    [0E6] 0x4C41B55CA31C079C: These mysterious and geometrically perfect structures are mined intact from distant asteroid belts. Sure, there are cults who say they hear the sculptures whispering. Nothing’s been proven.
    [0E7] 0x6293A92FA1500435: Imagine a future where water could travel upward from the base of this sculpture to nourish the plant at its top. Unfortunately, that’s not real and neither is the plant.
    [0E8] 0x6588B473D4545E28: sculptureTableRobotLlamaBlue PLACEHOLDER DESCRIPTION DNT
-   [0E9] 0x6588B473D4545E2B: sculptureTableRobotLlamaGreen PLACEHOLDER DESCRIPTION  DNT
+   [0E9] 0x6588B473D4545E2B: sculptureTableRobotLlamaGreen PLACEHOLDER DESCRIPTION DNT
    [0EA] 0x6588B473D4545E2A: sculptureTableRobotLlamaPurple PLACEHOLDER DESCRIPTION DNT
    [0EB] 0x6588B473D4545E2D: sculptureTableRobotLlamaRed PLACEHOLDER DESCRIPTION DNT
    [0EC] 0x6588B473D4545E2C: sculptureTableRobotLlamaYellow PLACEHOLDER DESCRIPTION DNT
@@ -273,7 +273,7 @@ Unknown3: 0x00000000
    [10C] 0x70B6FA5AE8EF07CF: Spawns plants.
    [10D] 0x5D22B81AABE98171: Spawns plants.
    [10E] 0x535F6C590197992A: The very best rugs are made by Nature herself. Enjoy the crunch of real grass beneath your feet or turn your living room into a full vegetable garden!
-   [10F] 0x7B1894EE8952D7B1: Wholly organic floor rugs make any room feel like a placid woodland grove.  This half-tile of sod is the perfect solution for beautifying the furthest corners of the Earth!
+   [10F] 0x7B1894EE8952D7B1: Wholly organic floor rugs make any room feel like a placid woodland grove. This half-tile of sod is the perfect solution for beautifying the furthest corners of the Earth!
    [110] 0x225DDFBFD434E0E7: Sims used to waste great gouts of water just cleaning themselves, but no longer. Enter the Sonic Shower, employing sound waves to blast every particle of filth off your skin!
    [111] 0x8269AD70578D141A: It’s tough to be a small child, watching everyone else swoop around on hover scooters. Kids can’t safely operate flying vehicles until age 8, so this will have to do.
    [112] 0xAC46C5ACB0BE43A1: For children whose tastes in miniature playground vehicles run towards cars rather than bikes, we present the Springy Speeder. Seat belts not included, because it doesn’t go anywhere.
@@ -880,7 +880,7 @@ Unknown3: 0x00000000
    [36B] 0x4D18C0BAA1B84EDB: Next-generation architecture inverts traditional spaces to create mind-bending luxury. In this stunning mansion, the pool lies below the house while Sims lounge on a sunny roof lawn.
    [36C] 0x4D18C0BAA1B84EDA: Sometimes the simplest architecture yields the best results. This rustic family home harnesses the unyielding strength of triangular shapes to support two stories beneath a tall, sloping roof.
    [36D] 0x4D18C0BAA1B84EDD: The problem with large family homes: you have to spend time with your family! This four-story complex elegantly sidesteps the issue by spreading out residents over its sprawling square footage.
-   [36E] 0x32289FE3F607E020: It’s always a good day to take a dip in the pool! Let your worries swim away  - unless you can’t swim!
+   [36E] 0x32289FE3F607E020: It’s always a good day to take a dip in the pool! Let your worries swim away - unless you can’t swim!
    [36F] 0x1748842E8C954023: Heralded as the finest restaurant in all of Oasis Landing, Sims come from all over to experience our fine dining.
    [370] 0xB4077B6BF2CCBBF5: Whether you’re in the market for a Plumbot or just need parts, we’re your one stop shop for all your Plumbot needs.
    [371] 0x5C0775EF014BB19B: More floors mean more wall space for more windows. This vertical structure offers four floors and dozens of windows to create a bright and relaxing home.
@@ -947,7 +947,7 @@ Unknown3: 0x00000000
    [3AE] 0x6C9B378E2957FAA8: Ephrem’s Ancestral Plot – 4 br, 2.5 ba
    [3AF] 0x6C9B378E2957FAA9: Isla Profecto Vacation Home – 3 br, 2 ba, 2 hb
    [3B0] 0x6C9B388E2957FC73: The Hot Pad – 3 br, 3.5 ba
-   [3B1] 0x6C9B388E2957FC72: Comfort Capacitor  – 3 br, 4 ba
+   [3B1] 0x6C9B388E2957FC72: Comfort Capacitor – 3 br, 4 ba
    [3B2] 0x6C9B388E2957FC71: Natural Nursery – 3 br, 3 ba
    [3B3] 0x6C9B388E2957FC70: Panopticon Luxury Home – 3 br, 3 ba
    [3B4] 0x6C9B388E2957FC77: Lodge on a Ledge – 1 br, 1 ba
@@ -1436,7 +1436,7 @@ Unknown3: 0x00000000
    [597] 0x0D7BDFD402E39EEB: Mayhem in Utopia
    [598] 0x0D7BDFD402E39EE8: An Illustrated History of the Zombie Apocalypse
    [599] 0x0D7BDFD402E39EE9: Jetpacks, Windcarvers, and ZEPHYRs, Oh My!
-   [59A] 0x0D7BDFD402E39EE6: Visions of Silicon: My  Life in a Dreampod
+   [59A] 0x0D7BDFD402E39EE6: Visions of Silicon: My Life in a Dreampod
    [59B] 0x0D7BDFD402E39EE7: Out of the Wastelands of Your Heart
    [59C] 0x56D88C1DAA0109F5: Brian Caswell
    [59D] 0x56D88C1DAA0109F6: Jeff Anderson
@@ -1584,7 +1584,7 @@ Unknown3: 0x00000000
    [62B] 0x4F3FCFB0768546C5: Award Ceremony
    [62C] 0x1B857340D26127F5: Play for the Award Ceremony at {OpTarget}.
    [62D] 0xEB8E7950BBEFB416: Jetpacking never gets old for me! I hope you liked your view of Oasis Landing.
-   [62E] 0x2ACBB3F28BDABEC2: Welcome to Oasis Landing, temporal traveler!  This is the Oasis Landing Community Living Center, from which I summit great mountains of knowledge! To help you get a better perspective of the city, I've given you a Jetpack. Start using it and Fly Around.
+   [62E] 0x2ACBB3F28BDABEC2: Welcome to Oasis Landing, temporal traveler! This is the Oasis Landing Community Living Center, from which I summit great mountains of knowledge! To help you get a better perspective of the city, I've given you a Jetpack. Start using it and Fly Around.
    [62F] 0xB92DD19350F48C42: Looks like you already know your way around Oasis Landing! If you're looking for something to do, I can always use help with my research!
    [630] 0x5BC95FC031D3D09D: Welcome to the Future
    [631] 0x140D9970679E371D: Fly Around with a Jetpack.
@@ -1905,7 +1905,7 @@ Unknown3: 0x00000000
    [76C] 0x305218B44B98CA74: Altering the Future can have many unintended consequences. Let’s suspend our experiment on changing the Future.
    [76D] 0x8F4E4955816738D1: Scan {1.Number} Sims while they laugh.
    [76E] 0x5C4A545564C78BB7: Scanning for Smiles
-   [76F] 0x45BF4B15D9F72E23: Successfully scanned {0.Number} of {1.Number}  Sims while they laugh.
+   [76F] 0x45BF4B15D9F72E23: Successfully scanned {0.Number} of {1.Number} Sims while they laugh.
    [770] 0xC5692FF2B14DA145: Those nerds know nothing of Time Travel, but a meteor shield might be within their… limited capabilities.
    [771] 0xC4A2F7DA6A74F7EB: Our innocent, well-intentioned experiment has gone awry! Surprising how often that happens. The Future has become a filthy, polluted, meteor-scarred Dystopia! If we’re going to fix this, the meteors are priority one. Warn those “geniuses” at the Science Lab of the coming meteor-pocalypse.
    [772] 0x1BD5CD81F7FB52E3: You think Sims have benefitted by living in a dangerous world with falling meteors and stinky trash piles? Tough to argue with you there!

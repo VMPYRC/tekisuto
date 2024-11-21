@@ -44,7 +44,7 @@ Unknown3: 0x00000000
    [27] 0xA1050F554E5230DC: After years of research into lemonade creation, preservation, and pouring ergonomics, scientists have finally designed “the most researched lemonade pitcher” ever created. Unfortunately for them, “The Perfect Lemonade Pitcher” was already patented by another company.
    [28] 0xEF8DE0239E7F477A: When celebrating a large event or hosting a V.I.P., Splendiferous is the brand to trust when it comes to impressing guests! Four out of five exclusive guests agree: nothing makes a greater party impression than the quality of serving dishes. Choose Splendiferous today!
    [29] 0x2C69348DDA363D49: Snuggle your favorite plants in the warm, nurturing environment of the Cozy Tabletop Terrarium, and watch them flourish before your eyes. Lay back in your easy chair and cherish hours of contemplating a miniature living world, safely enclosed from outside contaminations!
-   [2A] 0x281E197ABCADDDC6: When the Hanging Plants of Simolón were first discovered by Arturo Terragraabo in the first half of the middle century, he and his hardened explorers were perplexed as to why anyone would choose to hang a plant from a wall. However, after being trapped in the Tomb of Simolón for 40 days, they grew to love the decorative appeal of wall plants.    
+   [2A] 0x281E197ABCADDDC6: When the Hanging Plants of Simolón were first discovered by Arturo Terragraabo in the first half of the middle century, he and his hardened explorers were perplexed as to why anyone would choose to hang a plant from a wall. However, after being trapped in the Tomb of Simolón for 40 days, they grew to love the decorative appeal of wall plants.
    [2B] 0x12DAF7B4438274A2: Rather than being hooked up to a water main or a well, the Hydrogenator uses a scientifically advanced process of infusing hydrogen molecules with oxygen to create water. The scientists spent years programming what they call the perfect water “recipe” into this sink: two parts hydrogen to one part oxygen. Now you can enjoy “perfect” water at home or in your backyard!
    [2C] 0xA8E14AE4F80B1F93: The Rock 'n' Rock stereo was originally designed for theme parks and adventure rides as a way to cleverly disguise the terrifying noises of the jungle, caves, or any other frightening place you wouldn't expect to find a stereo. We've found they're perfect for backyards or patios as well, even if they're not horrifying!
    [2D] 0x168437B487506D6A: New from Landgraab Industries is the MaxBTU Cooktop and Oven. Designed by all three of the world's rocket scientists that ended up as successful head chefs, the MaxBTU has been rated to cook at temperatures that are seriously out of this world. Don't overcook the waffles too long in this one, or you'll have rocket dust!
@@ -90,7 +90,7 @@ Unknown3: 0x00000000
    [55] 0x48A40F25E63F6F91: The Lemonade Baron
    [56] 0x522A4E7577147917: Splendiferous Brand Serving Dish
    [57] 0xF6A353D66C04CFE0: Cozy Tabletop Terrarium
-   [58] 0xC1F41672A2105FC1: Hanging Plant of Simolón  
+   [58] 0xC1F41672A2105FC1: Hanging Plant of Simolón
    [59] 0x0F54230144CAA787: The Hydrogenator
    [5A] 0x83BE77E31788D252: Rock 'n' Rock Stereo
    [5B] 0x2CF3B0A7456CC83F: Landgraab Industries MaxBTU Cooktop
