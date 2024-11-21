@@ -20,10 +20,7 @@ Unknown3: 0x00000000
    [00F] 0x5690ACE3C076780D: All fear the mighty Slade! Guffaw at Poseidon's paltry influence as you cleave his nugatory waves, Slade evermore your trusty steed! Darn the currents, curse the interminable briny expanse, and meet head-on any who dare impugn Slade's honor! Kids love it too!
    [010] 0xF45BB8939D976FB9: “O CAPTAIN! my Captain! our sailing trip is done;\nThis ship has weather'd every storm, the prize we sought is won!\nExult, O shores, and ring, O bells!\nAnd I, shall sail ahead\nMan that rudder with the skies\nClear and blue O’erhead.” 
    [011] 0x167CEFB683CFB430: It’s fast, it’s fun, and it’s safe enough for the whole family to ride (but one at a time, for Pete's sake!) Aqua-Sled Watercraft: This time... it's personal!
-   [012] 0x862DA45761B7BA7B: Half a league, half a league, half a league onward. 
-All in the ocean of fun rode the cool speedboats! 
-"Forward, the Speed Brigade! Charge for the waves," we say! 
-Into the ocean of fun rode the cool speedboats!
+   [012] 0x862DA45761B7BA7B: Half a league, half a league, half a league onward.\nAll in the ocean of fun rode the cool speedboats!\n"Forward, the Speed Brigade! Charge for the waves," we say!\nInto the ocean of fun rode the cool speedboats!
    [013] 0xF6F1163E4FBF7FC1: Even boats need to feel dirt beneath their hull now and then! Give them a nice resting place with this sturdy trailer from Aqua Transporter.
    [014] 0x64BA6E33076CAFCA: It’s fast, it’s fun, and it’s safe enough for the whole family to ride (but one at a time, for Pete's sake!) Aqua-Sled Watercraft: This time... it's personal!
    [015] 0x8C74FD0974D09D9A: Even if it's a teaser breeze or it's nukin', Laminar Wind Windsurfing Boards will have you ripping in no time. Shaka bra!
@@ -74,7 +71,6 @@ Into the ocean of fun rode the cool speedboats!
    [042] 0x1561ABD48EEF5FDD: The Guardian has watched over the land since the beginning of time.
    [043] 0x4ABCB50230ED3A05: Fresh produce and aged meats!
    [044] 0x6C2E79D820A0D192: Sims take note: You cannot drive your houseboat anywhere without one of these! It will just be a house. (With a market niche like this, we don’t need fancy advertising)
-
    [045] 0xAE0A6EE072BCC924: Our physicians are top notch, and our nurses are always ready with a smile! 
    [046] 0x3161F906F1CD4FD9: Why swim with the sharks when you can relax with jets? High quality filtration and luxurious seats ensure you’ll feel pretty tonight.
    [047] 0x30C36B39E71DDABA: Tired of ‘bladder failing’ into the pool all the time to help to warm it up? Well, now – wait, what do you mean no one does that? Of course everyone does! I mean... right?
@@ -142,8 +138,7 @@ Into the ocean of fun rode the cool speedboats!
    [085] 0x9048CEE0E3196EFF: Can you see the pensive lion in the stone's structure? No? Hmm…well maybe if you squint just right you can see a playful squirrel instead.
    [086] 0x9048CEE0E3196EFE: Someone stacked two stones on top of each other in perfect balance, but don't worry. That boulder isn't going anywhere!
    [087] 0x5BCE660A4A1C7FB6: This is a large rock.
-   [088] 0xE9A481E744A771CC: “Buy, buy, buy this boat. You should buy this boat! Verily, verily, verily, verily, boat boat boat buy-our-boat!” 
-Look, we’re sorry; our poetry guy is on vacation right now.
+   [088] 0xE9A481E744A771CC: “Buy, buy, buy this boat. You should buy this boat! Verily, verily, verily, verily, boat boat boat buy-our-boat!” Look, we’re sorry; our poetry guy is on vacation right now.
    [089] 0x7DE738BCC157B49F: Seashell slabs salvaged from sensibly suited suppliers solicit sensations of serenity when simultaneously swimming, sunbathing, or splashing.
    [08A] 0xC5C32D50246A028B: Here in Accolades, children and teens get the best education free Simoleons can get. The prestigious school known for its superb general education along with a state of the art sports program attracts parents all across town. All the students here are provided the best education and sports training to prepare them in the future.
    [08B] 0x18F5A3195D0EE524: Specializing in volcanic and aquatic sciences for over fifty years!

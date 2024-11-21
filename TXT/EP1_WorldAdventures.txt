@@ -1595,8 +1595,8 @@ Unknown3: 0x00000000
    [0636] 0x3E1158470D380757: Prepare {9.Number} single-serving meals of great or better quality and deliver them to {2.String} to receive some high quality produce and Simoleons.
    [0637] 0x00FCCCF2E65C0396: Café Quality Cooking
    [0638] 0x8FFE6462D3611520: EP1_Quest_ChinaTutorial1Completion
-   [0639] 0x96904550978A11C4: "I am searching for an intrepid adventurer who can retrieve an ancient Relic for me. I've searched all over town and no one has the guts. Please contact me, {2.SimName}, if you are interested. \n\nI recommend you purchase some adventurer supplies at the market beforehand, including a tent, some dried food, and perhaps a shower-in-a-can if hygiene is a concern. The general store will have everything you need and more!"
-   [063A] 0x1210975738382687: "I am searching for an intrepid adventurer who can retrieve an ancient Relic for me. I've searched all over town and no one has the guts. Please contact me, {2.SimName}, if you are interested. \n\nI recommend you purchase some adventurer supplies at the market beforehand, including a tent, some dried food, and perhaps a shower-in-a-can if hygiene is a concern. The general store will have everything you need and more!"
+   [0639] 0x96904550978A11C4: "I am searching for an intrepid adventurer who can retrieve an ancient Relic for me. I've searched all over town and no one has the guts. Please contact me, {2.SimName}, if you are interested.\n\nI recommend you purchase some adventurer supplies at the market beforehand, including a tent, some dried food, and perhaps a shower-in-a-can if hygiene is a concern. The general store will have everything you need and more!"
+   [063A] 0x1210975738382687: "I am searching for an intrepid adventurer who can retrieve an ancient Relic for me. I've searched all over town and no one has the guts. Please contact me, {2.SimName}, if you are interested.\n\nI recommend you purchase some adventurer supplies at the market beforehand, including a tent, some dried food, and perhaps a shower-in-a-can if hygiene is a concern. The general store will have everything you need and more!"
    [063B] 0xF2BA008184253D08: EP1_Quest_ChinaTutorial1Failure
    [063C] 0x3255BA7DF3513C9D: Speak to {2.SimName} about the ancient Relic.
    [063D] 0x587E8FA6D513BE18: Speak to {2.SimName} about the ancient Relic.
@@ -1931,20 +1931,16 @@ Unknown3: 0x00000000
    [0786] 0x0F4BB7334ECC1408: A Trivial Affair
    [0787] 0xA5077E009CBDEAC4: Report to {2.String}
    [0788] 0xE27E25950E94C987: Report to {2.String}
-   [0789] 0x6ED33A25BF8A649D: "Ah, Monsieur!  You have returned my precious baseball.  I thank you from the depths of my heart.  It is lucky you see, I would never dare to go into a place like those ruins without it at my side.  That is why I had to pay you to do it for me. \n\nSpeaking of payment, here are some Ancient Coins.  You will find these scattered around many tombs that you explore. Some merchants, for instance {16.SimName}, only accept these for their wares.  The most interesting of items can be purchased with them.  Now, enjoy the rest of your time in Champs Les Sims!"
-   [078A] 0xB685627D64C8F618: "Ah, Madame!  You have returned my precious baseball.  I thank you from the depths of my heart.  It is lucky you see, I would never dare to go into a place like those ruins without it at my side.  That is why I had to pay you to do it for me. \n\nSpeaking of payment, here are some Ancient Coins.  You will find these scattered around many tombs that you explore. Some merchants, for instance {16.SimName}, only accept these for their wares.  The most interesting of items can be purchased with them.  Now, enjoy the rest of your time in Champs Les Sims!"
+   [0789] 0x6ED33A25BF8A649D: "Ah, Monsieur!  You have returned my precious baseball.  I thank you from the depths of my heart.  It is lucky you see, I would never dare to go into a place like those ruins without it at my side.  That is why I had to pay you to do it for me.\n\nSpeaking of payment, here are some Ancient Coins.  You will find these scattered around many tombs that you explore. Some merchants, for instance {16.SimName}, only accept these for their wares.  The most interesting of items can be purchased with them.  Now, enjoy the rest of your time in Champs Les Sims!"
+   [078A] 0xB685627D64C8F618: "Ah, Madame!  You have returned my precious baseball.  I thank you from the depths of my heart.  It is lucky you see, I would never dare to go into a place like those ruins without it at my side.  That is why I had to pay you to do it for me.\n\nSpeaking of payment, here are some Ancient Coins.  You will find these scattered around many tombs that you explore. Some merchants, for instance {16.SimName}, only accept these for their wares.  The most interesting of items can be purchased with them.  Now, enjoy the rest of your time in Champs Les Sims!"
    [078B] 0xB5F0042995A23E0B: How awful! Without the baseball, {1.SimFirstName} cannot collect his reward from {2.String}.
    [078C] 0x90BCFBEAE2C3B232: How awful! Without the baseball, {1.SimFirstName} cannot collect his reward from {2.String}.
    [078D] 0x5D83EE1C7476B402: Return the {11.ObjectName} to {2.String}
    [078E] 0x5A52CBB34A283C31: Return the {11.ObjectName} to {2.String}
    [078F] 0xD78554267AEDE36C: A baseball?  Really?  {2.String} is paying for someone to retrieve a baseball? Well, it would be best to find it and bring it back.
    [0790] 0xDE7070801C62A8AF: A baseball?  Really?  {2.String} is paying for someone to retrieve a baseball? Well, it would be best to find it and bring it back.
-   [0791] 0x144A11040F279048: "Ah, thank you for coming. Are you prepared? I need you to do a bit of underground exploration for me. You should never go adventuring without the proper supplies though!  I have already given you some dried food, essential for staying nourished while you explore the depths of any tomb.  In addition, you should always bring a tent with you.  As it happens, my humble store sells both tents and dried food, so you should peruse my wares when we are done speaking.
-
-Now to your mission. I need you to head up to the old Celtic Ruins and retrieve something I lost while exploring there several days ago.  I dropped it in a hole in the floor and didn't realize until I was halfway home!  You will know when you find it.  Now go, I eagerly await your victorious return!"
-   [0792] 0xB17BD5D2E94D9083: "Ah, thank you for coming. Are you prepared? I need you to do a bit of underground exploration for me. You should never go adventuring without the proper supplies though!  I have already given you some dried food, essential for staying nourished while you explore the depths of any tomb.  In addition, you should always bring a tent with you.  As it happens, my humble store sells both tents and dried food, so you should peruse my wares when we are done speaking.
-
-Now to your mission. I need you to head up to the old Celtic Ruins and retrieve something I lost while exploring there several days ago.  I dropped it in a hole in the floor and didn't realize until I was halfway home!  You will know when you find it.  Now go, I eagerly await your victorious return!"
+   [0791] 0x144A11040F279048: "Ah, thank you for coming. Are you prepared? I need you to do a bit of underground exploration for me. You should never go adventuring without the proper supplies though!  I have already given you some dried food, essential for staying nourished while you explore the depths of any tomb.  In addition, you should always bring a tent with you.  As it happens, my humble store sells both tents and dried food, so you should peruse my wares when we are done speaking.\n\nNow to your mission. I need you to head up to the old Celtic Ruins and retrieve something I lost while exploring there several days ago.  I dropped it in a hole in the floor and didn't realize until I was halfway home!  You will know when you find it.  Now go, I eagerly await your victorious return!"
+   [0792] 0xB17BD5D2E94D9083: "Ah, thank you for coming. Are you prepared? I need you to do a bit of underground exploration for me. You should never go adventuring without the proper supplies though!  I have already given you some dried food, essential for staying nourished while you explore the depths of any tomb.  In addition, you should always bring a tent with you.  As it happens, my humble store sells both tents and dried food, so you should peruse my wares when we are done speaking.\n\nNow to your mission. I need you to head up to the old Celtic Ruins and retrieve something I lost while exploring there several days ago.  I dropped it in a hole in the floor and didn't realize until I was halfway home!  You will know when you find it.  Now go, I eagerly await your victorious return!"
    [0793] 0x4AD43A3928923901: Travel to the Celtic Ruins up the road and behind the Nectary.  Enter the ruins, and find {2.String}'s missing object in a hole in the floor.  Then return it to {2.String}.
    [0794] 0x23E0573EC90817B4: Travel to the Celtic Ruins up the road and behind the Nectary.  Enter the ruins, and find {2.String}'s missing object in a hole in the floor.  Then return it to {2.String}.
    [0795] 0x1543453909C75407: Celtic Foray
@@ -2063,16 +2059,12 @@ Now to your mission. I need you to head up to the old Celtic Ruins and retrieve 
    [0806] 0x8C776CD36E63CA4D: Here’s the Key
    [0807] 0x6253C9E5586ED9ED: Deliver Key
    [0808] 0x0EB2E7A46C2E8197: Find Documents
-   [0809] 0xF3F767B2D151C483: "Incredible! According to Landgraab’s documents he was attempting to locate the tomb of Anastasia's ancestor, Jean Necteaux! Anastasia tricked him into sending men to the wrong location, and they were never seen again. 
-
-This explains Landgraab’s sudden departure shortly after the kidnapping – he didn’t want anyone to find out. Well, the facts will soon be dispersed in my new book. I thank you again for your efforts!"
+   [0809] 0xF3F767B2D151C483: "Incredible! According to Landgraab’s documents he was attempting to locate the tomb of Anastasia's ancestor, Jean Necteaux! Anastasia tricked him into sending men to the wrong location, and they were never seen again.\n\nThis explains Landgraab’s sudden departure shortly after the kidnapping – he didn’t want anyone to find out. Well, the facts will soon be dispersed in my new book. I thank you again for your efforts!"
    [080A] 0x7C43CFDBA64E25D5: Losing those documents was inadvisable. Now {2.String} can't figure out what happened to Anastasia!
    [080B] 0x364214383BE10BB0: Losing those documents was inadvisable. Now {2.String} can't figure out what happened to Anastasia!
    [080C] 0xF940CE2259783878: Deliver Documents to {2.String}
    [080D] 0x77EF3975DF307F33: Deliver Documents to {2.String}
-   [080E] 0xD94AEF3A57A8C131: "Excellent, I can finally open this journal. Let me see here…fascinating! It seems there was quite the ruckus many years ago. At one point some shady looking men dragged someone into the chateau. The famous James Vaughan went in to save the person who…yes, turned out to be Anastasia Necteaux. 
-
-I found this key to the estate attached to one of the pages. Landgraab was the meticulous sort, which leads me to believe he kept notes on this incident. Head to the estate and see if you can find those notes. Be careful – Landgraab was paranoid. His whole house is filled with traps and security measures.”
+   [080E] 0xD94AEF3A57A8C131: "Excellent, I can finally open this journal. Let me see here…fascinating! It seems there was quite the ruckus many years ago. At one point some shady looking men dragged someone into the chateau. The famous James Vaughan went in to save the person who…yes, turned out to be Anastasia Necteaux.\n\nI found this key to the estate attached to one of the pages. Landgraab was the meticulous sort, which leads me to believe he kept notes on this incident. Head to the estate and see if you can find those notes. Be careful – Landgraab was paranoid. His whole house is filled with traps and security measures.”
    [080F] 0x17A51E4184E0FF6D: How careless!. Without the keystone, {1.SimFirstName} has no way to get into parts of the Landgraab estate!
    [0810] 0x51255D53C6FE6AE8: How careless!. Without the keystone, {1.SimFirstName} has no way to get into parts of the Landgraab estate!
    [0811] 0xE84275D959C2BC2A: Enter the Landgraab’s Chateau, find his Documents, and “Deliver Documents” to {2.String}.
@@ -2266,7 +2258,6 @@ I found this key to the estate attached to one of the pages. Landgraab was the m
    [08CD] 0xC4716D68F06E1407: Why'd you destroy the keystone? Hopefully, you can find another one later.
    [08CE] 0x122611CA17604E93: EP1_Quest_MainChinaC2Completion
    [08CF] 0x95B4F58F23FB4F29: “I have grim news of what lies before you. Dong Huo, the cursed warlord of centuries past, is that which the Dragon Cave was built to contain. He was trapped previously, but now he wakes. He must be defeated by a master of the way of the Resolute Fist. You are that master. Train to the highest level of Martial Arts and break a Space Rock and you will be one step closer to fulfilling your destiny.”
-
    [08D0] 0xCD8B85E5BECE90C5: EP1_Quest_MainChinaC2Failure
    [08D1] 0x7909FE9EAF2A2562: Train to Level 10 of the Martial Arts skill and break a Space Rock, then speak to {2.SimName} to receive Ancient Coins.
    [08D2] 0x5D398BF59BB0B4D1: Train to Level 10 of the Martial Arts skill and break a Space Rock, then speak to {2.SimName} to receive Ancient Coins.
@@ -2598,12 +2589,8 @@ I found this key to the estate attached to one of the pages. Landgraab was the m
    [0A18] 0xACDA025C8ACB1FB7: Open The Tomb of Isael
    [0A19] 0x8B4FE652029413E5: The Sapphire of the Crescent Moon is a beautiful sight to behold! It would be pertinent to return to {2.String} with this treasure.
    [0A1A] 0x1668D39A29DA3D00: The Sapphire of the Crescent Moon is a beautiful sight to behold! It would be pertinent to return to {2.String} with this treasure.
-   [0A1B] 0x35C3421C3A0B3F0B: "History is made by the bold, and by the looks of it, {1.SimFirstName}. The Tomb of Isael is now unlocked and ready to be explored. What lies within its silent walls? 
-
-All that remains is to find the Sapphire deep within the Tomb. {1.SimFirstName} must be careful, for it is safe to assume Jean Necteaux and his wife, Isael, had no intentions of these sacred chambers being breached."
-   [0A1C] 0x6E5C4B387E698D32: "History is made by the bold, and by the looks of it, {1.SimFirstName}. The Tomb of Isael is now unlocked and ready to be explored. What lies within its silent walls? 
-
-All that remains is to find the Sapphire deep within the Tomb. {1.SimFirstName} must be careful, for it is safe to assume Jean Necteaux and his wife, Isael, had no intentions of these sacred chambers being breached."
+   [0A1B] 0x35C3421C3A0B3F0B: "History is made by the bold, and by the looks of it, {1.SimFirstName}. The Tomb of Isael is now unlocked and ready to be explored. What lies within its silent walls?\n\nAll that remains is to find the Sapphire deep within the Tomb. {1.SimFirstName} must be careful, for it is safe to assume Jean Necteaux and his wife, Isael, had no intentions of these sacred chambers being breached."
+   [0A1C] 0x6E5C4B387E698D32: "History is made by the bold, and by the looks of it, {1.SimFirstName}. The Tomb of Isael is now unlocked and ready to be explored. What lies within its silent walls?\n\nAll that remains is to find the Sapphire deep within the Tomb. {1.SimFirstName} must be careful, for it is safe to assume Jean Necteaux and his wife, Isael, had no intentions of these sacred chambers being breached."
    [0A1D] 0x3B333270948740A0: Find the Sapphire of the Crescent Moon within the Tomb of Isael then bring it to {2.String}
    [0A1E] 0x5AB28469A62870BB: Find the Sapphire of the Crescent Moon within the Tomb of Isael then bring it to {2.String}
    [0A1F] 0x2C87DF708CF8A50A: At last, the Sapphire
@@ -2639,12 +2626,8 @@ All that remains is to find the Sapphire deep within the Tomb. {1.SimFirstName} 
    [0A3D] 0x87B2233D028A1112: Mmm, Nectar
    [0A3E] 0x779074F15EB95808: “I am speechless! Well, I suppose not as I’m blathering on like an idiot. Nevertheless you found the Emerald! We should celebrate at once. Here, take these coins and Nectar from my private stock. I insist!”
    [0A3F] 0xC95E4A7F0468E743: “I am speechless! Well, I suppose not as I’m blathering on like an idiot. Nevertheless you found the Emerald! We should celebrate at once. Here, take these coins and Nectar from my private stock. I insist!”
-   [0A40] 0x12AC7014EC5611DC: "Thank you, this is one of my favorite Nectars! You say you want the gem from my necklace! Hah! I wouldn’t give it to just anyone, but if you are working to help the town, I’ll gladly give it to you. I paid less for it than this bottle of Nectar, so I am still profiting anyway, hahaha!"
-
-You should head back and tell {2.String} of your success.
-   [0A41] 0xBDA5948A7C5F69DF: "Thank you, this is one of my favorite Nectars! You say you want the gem from my necklace! Hah! I wouldn’t give it to just anyone, but if you are working to help the town, I’ll gladly give it to you. I paid less for it than this bottle of Nectar, so I am still profiting anyway, hahaha!"
-
-You should head back and tell {2.String} of your success.
+   [0A40] 0x12AC7014EC5611DC: "Thank you, this is one of my favorite Nectars! You say you want the gem from my necklace! Hah! I wouldn’t give it to just anyone, but if you are working to help the town, I’ll gladly give it to you. I paid less for it than this bottle of Nectar, so I am still profiting anyway, hahaha!"\n\nYou should head back and tell {2.String} of your success.
+   [0A41] 0xBDA5948A7C5F69DF: "Thank you, this is one of my favorite Nectars! You say you want the gem from my necklace! Hah! I wouldn’t give it to just anyone, but if you are working to help the town, I’ll gladly give it to you. I paid less for it than this bottle of Nectar, so I am still profiting anyway, hahaha!"\n\nYou should head back and tell {2.String} of your success.
    [0A42] 0xC4C3C397EDFC5540: Losing the Emerald of Envious Hearts is an unparalleled disaster. {1.SimFirstName} cannot continue without it!
    [0A43] 0x96D77105BC19B69B: Losing the Emerald of Envious Hearts is an unparalleled disaster. {1.SimFirstName} cannot continue without it!
    [0A44] 0x242E8235F0CBD555: “Deliver Emerald” to {2.String}.
@@ -2652,9 +2635,7 @@ You should head back and tell {2.String} of your success.
    [0A46] 0x359CD535FAB33853: Success is Sweet
    [0A47] 0x64F384F4D8F05A4F: Deliver Emerald to {2.String}
    [0A48] 0x6DB6B62F724E259E: Deliver Emerald to {2.String}
-   [0A49] 0x901323E737683E31: "With this Emerald, you will be able to finally open the door to the tomb. If this is indeed the final resting place of Jean Necteaux, and if what I have read is true, his final resting place contains the original recipe for Nectar, rumored to be the greatest Nectar ever created. 
-
-You must recover it! The recipe could revitalize the Champs Les Sims Nectar industry and make it the greatest source of Nectar in all the world once again!”
+   [0A49] 0x901323E737683E31: "With this Emerald, you will be able to finally open the door to the tomb. If this is indeed the final resting place of Jean Necteaux, and if what I have read is true, his final resting place contains the original recipe for Nectar, rumored to be the greatest Nectar ever created.\n\nYou must recover it! The recipe could revitalize the Champs Les Sims Nectar industry and make it the greatest source of Nectar in all the world once again!”
    [0A4A] 0xA35AFA2AD6CD432A: Place the Emerald in the final hole to enter the tomb, find the Ancient Nectar Recipe and return it to {2.String}.
    [0A4B] 0x2E1B79C4EB7B3E19: Place the Emerald in the final hole to enter the tomb, find the Ancient Nectar Recipe and return it to {2.String}.
    [0A4C] 0x70FA272ABAB831C4: Opening the Tomb of Necteaux
@@ -2675,9 +2656,7 @@ You must recover it! The recipe could revitalize the Champs Les Sims Nectar indu
    [0A5B] 0x3B03A1386BB6C538: What's this? Opening this chest seems to have revealed some sort of hidden door…{2.String} should certainly be informed!
    [0A5C] 0x2D948EC8BA6BE5F3: What's this? Opening this chest seems to have revealed some sort of hidden door…{2.String} should certainly be informed!
    [0A5D] 0xB2FF2FC4B733335F: Find Nectar
-   [0A5E] 0xF6AC538074CFD349: "It is a little known fact that the Nectary here in town is centuries old and the cellars below date back to those times. There are some truly ancient bottles down there. If I had just one of these bottles I could break down its ingredients and uncover so much about the lost art of Nectar making. 
-
-Go to the cellar and find a bottle of Nectar that is at least 5000 years old. Back then they used to store them in chests, so be sure to check any you find. Take this keystone, it should get you into some of the older sections of the cellars."
+   [0A5E] 0xF6AC538074CFD349: "It is a little known fact that the Nectary here in town is centuries old and the cellars below date back to those times. There are some truly ancient bottles down there. If I had just one of these bottles I could break down its ingredients and uncover so much about the lost art of Nectar making.\n\nGo to the cellar and find a bottle of Nectar that is at least 5000 years old. Back then they used to store them in chests, so be sure to check any you find. Take this keystone, it should get you into some of the older sections of the cellars."
    [0A5F] 0x24252DC599A558E5: How careless!. Without the keystone, {1.SimFirstName} has no way to get the ancient Nectar! {2.String} would be very disappointed.
    [0A60] 0x1601F1796F3A4400: How careless!. Without the keystone, {1.SimFirstName} has no way to get the ancient Nectar! {2.String} would be very disappointed.
    [0A61] 0x01DA07D753B67102: Find a bottle of Nectar older than 5000 years in the cellar of the Champs Les Sims Nectary. Ancient bottles should be behind locked doors. Check in any chests you find.
@@ -2706,12 +2685,8 @@ Go to the cellar and find a bottle of Nectar that is at least 5000 years old. Ba
    [0A78] 0x7A086C11A9522CC2: Discuss Riddle with {2.String}
    [0A79] 0x8FDF477C9A5F67DB: Seek Assistance from {2.String}
    [0A7A] 0x0168147E38B24EC2: Seek Assistance from {2.String}
-   [0A7B] 0x3FA74F470C63ADA5: "I have not heard a good riddle in some time, so your presence delights me. Let me think a minute....Pharaohs, sparkles. It sounds to me like you may be searching for some kind of gems. I have a good friend in Egypt who is something of an amateur Egyptologist and should be able to help you.
-
-My friend has been studying insects of late. I highly suggest you collect some local insects to bring with you just in case. I'd say five Cerambryx Beetles would do just fine."
-   [0A7C] 0xDC1BFE21725600C0: "I have not heard a good riddle in some time, so your presence delights me. Let me think a minute....Pharaohs, sparkles. It sounds to me like you may be searching for some kind of gems. I have a good friend in Egypt who is something of an amateur Egyptologist and should be able to help you.
-
-My friend has been studying insects of late. I highly suggest you collect some local insects to bring with you just in case. I'd say five Cerambryx Beetles would do just fine."
+   [0A7B] 0x3FA74F470C63ADA5: "I have not heard a good riddle in some time, so your presence delights me. Let me think a minute....Pharaohs, sparkles. It sounds to me like you may be searching for some kind of gems. I have a good friend in Egypt who is something of an amateur Egyptologist and should be able to help you.\n\nMy friend has been studying insects of late. I highly suggest you collect some local insects to bring with you just in case. I'd say five Cerambryx Beetles would do just fine."
+   [0A7C] 0xDC1BFE21725600C0: "I have not heard a good riddle in some time, so your presence delights me. Let me think a minute....Pharaohs, sparkles. It sounds to me like you may be searching for some kind of gems. I have a good friend in Egypt who is something of an amateur Egyptologist and should be able to help you.\n\nMy friend has been studying insects of late. I highly suggest you collect some local insects to bring with you just in case. I'd say five Cerambryx Beetles would do just fine."
    [0A7D] 0xCCF8BFB4725FA5BE: Catch five Cerambryx Beetles in France and then travel to Egypt to meet {2.String}'s friend.
    [0A7E] 0xA7108602E24D4F35: Catch five Cerambryx Beetles in France and then travel to Egypt to meet {2.String}'s friend.
    [0A7F] 0xDF4114B47D00B060: To Egypt!
@@ -2722,24 +2697,14 @@ My friend has been studying insects of late. I highly suggest you collect some l
    [0A84] 0x35397059B3977792: Bring {9.Number} Cerambryx Beetles to {2.String} in Egypt. Cerambryx beetles are mostly found in France.
    [0A85] 0x8D2A9EAD7527DFA9: Entymology
    [0A86] 0x08E19B075512848D: “Ah yes, the legendary gems of the Pharaoh Anak-Rus! The legends lists a sapphire more blue than the desert sky, a ruby redder than blood, and an emerald more green than the eyes of the cobra. Yes, we have much to discuss.”
-   [0A87] 0xBFEEE72C26152663: "Ah, I see you've come prepared, thank you for your help.
-
-History tells us that centuries ago, Jean Necteaux lived in Al Simhara, Egypt for some time before running back to France with the Pharoah's daughter whom he fell in love with. According to myth, when they left they stole three mystical gems that were going to be used to make a new crown for the Pharoah. Perhaps these are the gems of your riddle.
-
-Go speak with the Al Simhara Relic Merchant {2.String} who follows the less than...wholesome markets on these things and may know something."
-   [0A88] 0x01C344C88924AACA: "Ah, I see you've come prepared, thank you for your help.
-
-History tells us that centuries ago, Jean Necteaux lived in Al Simhara, Egypt for some time before running back to France with the Pharoah's daughter whom he fell in love with. According to myth, when they left they stole three mystical gems that were going to be used to make a new crown for the Pharoah. Perhaps these are the gems of your riddle.
-
-Go speak with the Al Simhara Relic Merchant {2.String} who follows the less than...wholesome markets on these things and may know something."
+   [0A87] 0xBFEEE72C26152663: "Ah, I see you've come prepared, thank you for your help.\n\nHistory tells us that centuries ago, Jean Necteaux lived in Al Simhara, Egypt for some time before running back to France with the Pharoah's daughter whom he fell in love with. According to myth, when they left they stole three mystical gems that were going to be used to make a new crown for the Pharoah. Perhaps these are the gems of your riddle.\n\nGo speak with the Al Simhara Relic Merchant {2.String} who follows the less than...wholesome markets on these things and may know something."
+   [0A88] 0x01C344C88924AACA: "Ah, I see you've come prepared, thank you for your help.\n\nHistory tells us that centuries ago, Jean Necteaux lived in Al Simhara, Egypt for some time before running back to France with the Pharoah's daughter whom he fell in love with. According to myth, when they left they stole three mystical gems that were going to be used to make a new crown for the Pharoah. Perhaps these are the gems of your riddle.\n\nGo speak with the Al Simhara Relic Merchant {2.String} who follows the less than...wholesome markets on these things and may know something."
    [0A89] 0x961463A7C1E8CAD8: “Seek Assistance” from {2.String}.
    [0A8A] 0x6B29B348A99632D3: “Seek Assistance” from {2.String}.
    [0A8B] 0x873310A7BA2C9FB2: The Black Market
    [0A8C] 0x3F3F3E7A1824D512: “Seek Assistance” from {2.String}
    [0A8D] 0xAEA7480520857181: “Seek Assistance” from {2.String}
-   [0A8E] 0xEC63F748E8B564FC: "The legendary gems of the Pharaoh Anak-Rus’ crown! The legends speak of a sapphire more blue than the sky on the clearest day, a ruby a deeper red than fresh blood, and an emerald more piercing green than the eye of a cobra. I will help you find them. They would be truly great treasures to own. As luck will have it, I believe I know where the Ruby of Sakhara is. 
-
-Before I dispense this information, I require a simple donation to my private holdings of a {9.Number} Relics worth at least 200 Simoleons. That is reasonable, yes?”
+   [0A8E] 0xEC63F748E8B564FC: "The legendary gems of the Pharaoh Anak-Rus’ crown! The legends speak of a sapphire more blue than the sky on the clearest day, a ruby a deeper red than fresh blood, and an emerald more piercing green than the eye of a cobra. I will help you find them. They would be truly great treasures to own. As luck will have it, I believe I know where the Ruby of Sakhara is.\n\nBefore I dispense this information, I require a simple donation to my private holdings of a {9.Number} Relics worth at least 200 Simoleons. That is reasonable, yes?”
    [0A8F] 0x76CE6F9BBD8C8FF5: Deliver {9.Number} Relics worth at least 200 Simoleons to {2.String}.
    [0A90] 0x81D8812CCDB17610: Deliver {9.Number} Relics worth at least 200 Simoleons to {2.String}.
    [0A91] 0x883BC29BC7723FF3: The Sleazy Merchant
@@ -3140,12 +3105,8 @@ Before I dispense this information, I require a simple donation to my private ho
    [0C1C] 0x7B83E42476AAB5CF: More Like “Haunted Garden”
    [0C1D] 0x219BEC1F3FB2880B: Communicate with Apparition
    [0C1E] 0xF6CEB611EA231897: "I will plant these Pomegranates in the garden as the apparition requests."
-   [0C1F] 0x1FD0E889FFD24115: Upon mourning at the tombstone a voice whispers on the wind. “My beloved adored Pomegranates. She loved to eat them after every meal. I believe the garden would truly be complete if Pomegranates were planted in my garden. If this were done I believe I will be able to finally rest." 
-
-Bring {9.Number} Pomegranates to {2.String} to put the ghost to rest.
-   [0C20] 0xB503BBD9A4DCBAF0: Upon mourning at the tombstone a voice whispers on the wind. “My beloved adored Pomegranates. She loved to eat them after every meal. I believe the garden would truly be complete if Pomegranates were planted in my garden. If this were done I believe I will be able to finally rest." 
-
-Bring {9.Number} Pomegranates to {2.String} to put the ghost to rest.
+   [0C1F] 0x1FD0E889FFD24115: Upon mourning at the tombstone a voice whispers on the wind. “My beloved adored Pomegranates. She loved to eat them after every meal. I believe the garden would truly be complete if Pomegranates were planted in my garden. If this were done I believe I will be able to finally rest."\n\nBring {9.Number} Pomegranates to {2.String} to put the ghost to rest.
+   [0C20] 0xB503BBD9A4DCBAF0: Upon mourning at the tombstone a voice whispers on the wind. “My beloved adored Pomegranates. She loved to eat them after every meal. I believe the garden would truly be complete if Pomegranates were planted in my garden. If this were done I believe I will be able to finally rest."\n\nBring {9.Number} Pomegranates to {2.String} to put the ghost to rest.
    [0C21] 0x91F6E118913AAAAE: “Deliver” {9.Number} Pomegranates to {2.String}. Pomegranates are primarily found in Egypt.
    [0C22] 0x7F9CDB10C759E7E5: “Deliver” {9.Number} Pomegranates to {2.String}. Pomegranates are primarily found in Egypt.
    [0C23] 0xA0D8361898F6D970: Love in Bloom

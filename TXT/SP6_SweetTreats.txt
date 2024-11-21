@@ -18,7 +18,6 @@ Unknown3: 0x00000000
    [0D] 0xE798E2330B97CE1E: Relax the day away while resting on a cloud. The Fluff Tuff is constructed from the lightest, yet durable materials, designed to provide the least resistance to your tush. It's dreamy to rest on the layers of faux cotton candy. Sweet Dreams!
    [0E] 0x53480458E64384DB: Now your support beams will be as stylish as the rest of the house when you add a Swirled Support column. Tensile strength wrapped in a candy-coated shell.
    [0F] 0xDD7781F0AC3606F5: These island counters are like the cream cheese to your Drizzled Supreme Counter's piping hot chocolate cupcakes. They're a perfect addition to any kitchen that is customized for a smorgasbord of candy-coated deliciousness.
-
    [10] 0xD4C093C2CD95C404: Just as a thick coating of fondant can turn the worst looking cakes into culinary masterpieces, these Pressed Fruit Curtains can turn the dullest of rooms into a palace of fruity synergy! Place them over a window now, and enjoy the benefits of daylight diffused by a sweet treat!
    [11] 0xC8C60F0EA896D8F8: A dream for any child with an imagination and a sweet tooth. The Playwow Gingerbread Dollhouse provides hours of confectionary fun for your wee one. Now when your kids beg for a gingerbread house you won't have to slave away in the kitchen. Pick up one of these preassembled gingerbread homes and let the fun begin.
    [12] 0x2B659DDEEB949A39: Placeholder
@@ -62,7 +61,6 @@ Unknown3: 0x00000000
    [38] 0x7AE52D6FAB3093F4: Slide through a sugar excursion when you travel through the forest of licorice dreams and candy clouds.  Slippy slides are even sweeter when made from your favorite candy treats!  Flavored water sprays available as an optional accessory.
    [39] 0x4E657983197BDAAD: Go right from couch potato to a glorious banana split in this whimsical sofa designed after everyone's favorite dessert. The cool fabric is dripping with style that's sure to be the centerpiece of your next party! Grab a spoon, sit down and dig in!
    [3A] 0xBCF12D00AEFBBADE: One day Mr. Tootles, an inexperienced carpenter, set out to make a sugary sweet swing set for his children. In the end his children loved it, although they did complain the cutouts "made in their likeness," looked much more like gingerbread men than them.
-
    [3B] 0x99245863D6BF406C: While focus testing the Peppermint Plateau, Landgraab Industries suffered a few setbacks when testers tried to eat the table, rather than the meal before them. Luckily for you, Landgraab has taken this feedback and applied a protective coating that will prevent you from sinking your teeth into this delicious looking table. Plus one for focus tests!
    [3C] 0x336602083DA295EB: Need a sweet place to place your sweets? This night stand is a great spot to store your snacks for easy access during the night. Hook your bedroom up with The Sweet Spot, and never again venture all the way to the kitchen for your midnight snacks.
    [3D] 0x092F61B95E147538: Candy bars, sugarplums, and lollipops oh my! When you're sitting at the Sweet Picnic, there's no telling how much sugary goodness one might consume. Eat until your heart's content - or coated in sugar!
@@ -107,7 +105,6 @@ Unknown3: 0x00000000
    [64] 0x3B120F0DB782C35A: Peppermint Preserves
    [65] 0x155E21DB09CFE6D6: Sculpture Candy Bunny
    [66] 0xA0A02E928CCE5131: Perma Melt Cone
-
    [67] 0x89C7133BC383AC6C: Lollipocalypse
    [68] 0x702BEDBF0D049D7A: Bin Bites Be Free
    [69] 0x9139A16F989C39F6: Candy Plants
@@ -126,7 +123,6 @@ Unknown3: 0x00000000
    [76] 0xA5383DEBA5FE1F73: Slippy Sweet
    [77] 0x5A72160D9D4DE838: Pleasure Boat Sundae Sofa
    [78] 0xB0288258964A1D47: Mr. Tootles' Swingset
-
    [79] 0x7A3C4E35ECD6AE6D: Peppermint Plateau
    [7A] 0xDC13217847EB7436: The Sweet Spot
    [7B] 0x43F52EF7B6EB2C63: Sweet Picnic
@@ -135,15 +131,12 @@ Unknown3: 0x00000000
    [7E] 0xF8846B8861D95261: Sweet Panes
    [7F] 0x50E2AE283FB06D44: Chew on This
    [80] 0x54BE64B8A8CE8C4A: Peppermint Porthole
-   [81] 0xBE72515CA694C78B: The Phyllo Fence is formed from several hundred thin layers of wood, pressed together and baked on a large cookie sheet using our secret curing process. The craftsmanship is unrivaled and it looks good too. We're sure you'll whisk one of these up soon!  Warning: Made in a facility that contains eggs and nuts. 
-
+   [81] 0xBE72515CA694C78B: The Phyllo Fence is formed from several hundred thin layers of wood, pressed together and baked on a large cookie sheet using our secret curing process. The craftsmanship is unrivaled and it looks good too. We're sure you'll whisk one of these up soon!  Warning: Made in a facility that contains eggs and nuts.
    [82] 0x3C1809169A38A29C: Phyllo Fence
    [83] 0x90F0BD0EA970DC4E: To delete a section of the same wall covering, hold the Shift and Ctrl keys and click on the wall. Hold down the Ctrl key and click to delete a single tile of wall covering.
-
    [84] 0x88065688F56AF68D: Placeholder
    [85] 0x2730CF1CA7B0619E: Miles o' Mint
    [86] 0x0F321808A1EDCDC6: We are unable to verify that your disc is a valid copy of The Sims 3 Katy Perry's Sweet Treats. Please contact customer service.
-
    [87] 0x93CBC5FB32FB5502: No game disc found! Please insert The Sims 3 Katy Perry's Sweet Treats game disc before proceeding.
    [88] 0x1CB5CEC60CF5D7F9: Whipping Cream
    [89] 0xBEC6538805BDFC2B: Adding Food Dye
