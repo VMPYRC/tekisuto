@@ -1785,7 +1785,7 @@ Unknown3: 0x00000000
    [6F4] 0x31E8335D5D83F0E8: Percussion Party
    [6F5] 0xBEAB63741661CDA4: Play Drums at {OpTarget}'s party .
    [6F6] 0xF63BA7C189830906: The beatnik crowd really dug your playing. In fact, they've made a pact to knit their berets to look like cymbals in honor of {OpOwner}.
-   [6F7] 0x849CFFCC394B3392: {OpTarget} is holding a beatnik poetry reading session. The usual attendants are really tired of snapping their fingers, so they're asking {OpOwner} to play a little bit of brushed cymbal a la beatnik. As a reward, the bookstore will give you a new composition.
+   [6F7] 0x849CFFCC394B3392: {OpTarget} is holding a beatnik poetry reading session. The usual attendants are really tired of snapping their fingers, so they’re asking {OpOwner} to play a little bit of brushed cymbal à la beatnik. As a reward, the bookstore will give you a new composition.
    [6F8] 0xF6A9B3EF97AE0112: What a tragedy! Beatniks were forced to snap their own fingers during the poetry reading, leading to many blisters. The only benefit to {OpOwner}'s failure to perform is that bandage sales are up.
    [6F9] 0xBAFEE666D9F28C27: "Play for Beatniks" at {OpTarget} during the appropriate hours.
    [6FA] 0xA8EDB166CF80FA8D: Beating for Beatniks
