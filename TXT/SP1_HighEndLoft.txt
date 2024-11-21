@@ -36,7 +36,6 @@ Unknown3: 0x00000000
    [1F] 0x1D27CAB19F177535: Fitness equipment manufacturers always make the same bold claims but the good lookin' folks at Slimline only hold one: to have the sleekest, most attractive treadmill on the market.  Running on it is optional, making it part of your complete loft layout is essential.
    [20] 0xAB42A86D66D2DD77: Right On! Phone Handset
    [21] 0x7C73B327D1208425: The Vibromatic LN3000
-
    [22] 0x3B6591A8B584985A: The DuoDreamer by Starloft
    [23] 0xEDAF6B537488957D: The MonoDreamer by Starloft
    [24] 0x8D81661241E6D732: FormFunk B-Shelf

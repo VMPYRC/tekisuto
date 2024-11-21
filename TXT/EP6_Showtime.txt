@@ -38,7 +38,6 @@ Unknown3: 0x00000000
    [021] 0x9CAB020B2F843C1F: These two women love their soda, and so should you! Grab a can of Fizztastic today!
    [022] 0x2DE91D43BA0E6445: Invigorate the mind and body at the Serenity Bookstore and Spa.
    [023] 0x27AE4F166865D657: Snack Bowl description placeholder
-
    [024] 0x87492C9675A07178: Box of Danger
    [025] 0x19ECA02E99521B98: Box of Mystery
    [026] 0x81E27E8EF07EAFB0: A Commerce Center with a Commissary – where business meets pleasure!
@@ -68,24 +67,15 @@ Unknown3: 0x00000000
    [03E] 0xFF8E4668DC679E49: A more portable version of the Rare Breed special edition bar, this counter island would be right at home on safari, in an exotic nightclub or in your very own home!
    [03F] 0x029A2B51B72E01BB: This is an upstanding shoe factory. Nothing to see here. Move along.
    [040] 0xF8132C0827537A43: CrowdMonsterHighResA description placeholder
-
    [041] 0xF8132C0827537A40: CrowdMonsterHighResB description placeholder
-
    [042] 0xF8132C0827537A41: CrowdMonsterHighResC description placeholder
-
    [043] 0x724EE2B3ED223064: @@ CrowdMonsterLowRes description placeholder
-
    [044] 0xDC5163624E99181F: A large crowd of people for shows in Big Show Venues.
    [045] 0xCBF0315CBBBBC079: Crowd Monster Place Jig description placeholder
-
    [046] 0x7B7F5ED5DD703073: @@ CrowdMonsterSittingHighResA description placeholder
-
    [047] 0x7B7F5ED5DD703070: @@ CrowdMonsterSittingHighResB description placeholder
-
    [048] 0x7B7F5ED5DD703071: @@ CrowdMonsterSittingHighResC description placeholder
-
    [049] 0xF613317B5276ECB4: @@ CrowdMonsterSittingLowRes description placeholder
-
    [04A] 0xBE47A6EC10D5F34C: Pop into this retro hotspot for a bite to eat and maybe some entertainment.
    [04B] 0x7196211870F1DA89: Take advantage of your music mixing aptitude with this new piece of tech that will surely coddle the crudest of crowds. With Mixers and Midi’s, Sound Cards and Synthesizers, you’ll surely deliver a sound that will make any listener’s head spin.
    [04C] 0x9F71413F33431CEB: It's a little musty and tad a bit crusty, but it remains intact to lay down a track. Its character’s true, which is apparent to you, and though others may doubt, they’ll soon scream and shout. So hop on up and take it for a spin, ‘cause this old baby has sweet tunes within.
@@ -111,17 +101,11 @@ Unknown3: 0x00000000
    [060] 0x0B8E23CE3DE993BE: Protect your town, or at least make it look snazzy, with a Crimson Fire Hydrant.
    [061] 0xDD163C22F61BBE22: Heat. Light. Flame. Why would you put something so pure and beautiful as fire in anything less than a pure and beautiful fire pit? This chrome-plated hemisphere with cast iron supports will hold ample coals to give any fire a long and happy life. Sleek. Sophisticated. Simply Stylish!
    [062] 0x15ABE12E1D4DC140: Fish Starfish Bat description placeholder
-
    [063] 0x3B846C512C30089C: Fish Starfish Bat Mounted description placeholder
-
    [064] 0x27DFA63CB2BAF1CC: Fish Starfish Linckia description placeholder
-
    [065] 0x5EE32A85249B7FE8: Fish Starfish Linckia Mounted description placeholder
-
    [066] 0xF1A42894B97B1F51: Fish Starfish Ninja description placeholder
-
    [067] 0x96EC4F8A732D50EF: Fish Starfish Ninja Mounted description placeholder
-
    [068] 0x53758CAE51B7CB06: fountainCityHallEP6
    [069] 0x4ADD0FA030E64ED9: This fountain, featuring the exquisite sculpture “No Sim is an Island”, hand-crafted by Glass Act ingénue Jephrey von Hipsburg, celebrates the extroversion of isolation, the solidity of liquid, and the depths of superficiality.
    [06A] 0x6FE9766C44BA8E75: Behold two-tiers of cast stone and ceramic tile opulence designed for indoor or outdoor use!  The 6 HP pump sprays 56 gallons a minute in bubbling jets of imported sparkling water. Due to the special ionizing effect of this glistening sculpture, it will be so clean, you could eat off of it! (Mariachi band not included.)
@@ -141,14 +125,10 @@ Unknown3: 0x00000000
    [078] 0x975074F86FEF0130: Front Stage Kit
    [079] 0x09A4D5D9B63063C9: kitFrontStage_Sing_Jig
    [07A] 0xAFA45BFFE53D6FD5: Performer Kit placeholder
-
    [07B] 0x5B30A1009982C82E: A Jig used when soliciting as a Performer
    [07C] 0x687DDB9050FF4785: Kit Performer Jig description placeholder
-
    [07D] 0x691905D030934D01: Sleight of Hand Kit
-
    [07E] 0x0CD1D73F7677951F: Levitate Self Jig description placeholder
-
    [07F] 0xE4900CD91BC9B796: Make a toast to taste with this elegant light fixture, inspired by the design of a fluted glass. Raise your glass to the ceiling for a toast that is sure to please the eye.
    [080] 0x7093F512FFFE7EAD: A little whimsy, a little style, and just the right amount of perspective combine to create a lighting experience that matches well with homes that match it.
    [081] 0x9109A315E6EDA304: The leafy shape of this lamp is incredibly appealing to the eye and has been known to inspire intense cravings for light. The tall, slender base is reminiscent of an isolated tower, and placing one of these lamps in your living room is sure to create an intimate space where you can relax and let your hair down.
@@ -230,9 +210,7 @@ Unknown3: 0x00000000
    [0CD] 0x7A2CE3BFCD1A8334: Keep it real, yo, with this legit Graffiti backdrop. You can take the performer out of the streets, but if you want to keep the streets in the performer, make this beautifully tagged background part of your act. Best of all, if you paint it white, the graffiti's back the next day!
    [0CE] 0xB45726574F84F612: Why settle for an OK Corral when you can have this High-Falootin' Saloon front! The perfect backdrop for a showdown or a hoedown, with this vintage Old West scenery you'll be roundin' up the audience in no time. Yee haw!
    [0CF] 0xF852BEA364561940: Unlike Atlas, who struggled under the weight of a great burden, this bear crushes his burden beneath his feet. His souless eyes reflect the unspeakable terrors that he has witnessed. Many things have been won and lost on the hard and lonely path to greatness, chief among them: his pants.
-   [0D0] 0xB381976F846A5ED5: Diagonal paths
-reach outstreched across the land
-brothers intertwined
+   [0D0] 0xB381976F846A5ED5: Diagonal paths\nreach outstreched across the land\nbrothers intertwined.
    [0D1] 0xB59FB09E34338EC7: This Cactus looks real enough to snag your chaps on! Most folks can only dream of living in barren, drought-ravaged deserts...but now with the Old West Mercantile plastic Cactus, you can bring a prickly piece of the desert to your home or stage!
    [0D2] 0xF8742FA5255C64B9: Chase away the monsters with this ornate candalabra by Blackfyre. With its elegant wrought iron and hand-dipped candles, this adds a perfect gothic touch to your Victorian stage setup or stately manor.
    [0D3] 0xB88D7CB09FD91C08: After one too many run-ins with lawsuits, we've decided to put our warning in the name of this cannon. This cannon will look great on your stage or in your home, and it will shoot out some lovely (non-flammable, safe, and environmentally friendly!) sparks, but it will not shoot out any other things including--but not limited to!--cannonballs, Clown Sims, Daredevil Sims, Sim dogs, pies, fish, jellyfish, llamas, or gnomes. There is absolutely no additional functionality on this cannon!
@@ -250,18 +228,10 @@ brothers intertwined
    [0DF] 0x64AAB4CD2AC3A4FD: Explore the world of Steampunk with this mystical globe sculpture. With its unique composition of Copper, Gold and Simonium, it is rumored to create powerful magnetic fields that can transport one through time or into alternate realities, though this is pure conjecture.
    [0E0] 0x91B4E2E409CA39E4: We all know the tragic tale of Gossamer Goblin-glitter, now don't we? What an amazing tale it is - the best story ever told, some say. And, as you know, there is only one way to free her from her eternal torment. Why don't you purchase the sculpture to make her feel better?
    [0E1] 0x48B9AC090B08CB13: This 10 Ton Ice Cream cone could feed 10 Sims for 10 days. 10 Sims would take 10 minutes to flip it back over, but they could dig in now thanks to the 10 second rule. 0 out of 10 doctors recommend eating fake ice cream. Brought to you by Om Nom Nom Inc.
-   [0E2] 0xBADDA0A3414B08E7: Noble, fragile king
-silent flag of your people
-token of their cause
-   [0E3] 0xC6D0B4BE252A2139: Oh, fast, noble steed
-victory leaping onward
-which way do you ride?
+   [0E2] 0xBADDA0A3414B08E7: Noble, fragile king\nsilent flag of your people\ntoken of their cause.
+   [0E3] 0xC6D0B4BE252A2139: Oh, fast, noble steed\nvictory leaping onward\nwhich way do you ride?
    [0E4] 0xD6C0665CF9A1334B: Celebrate the basic Simatomic building block of all things, the plumbob, beautifully represented in this LED sculpture by Marquee de Sim. Ponder its existential facets and geometric symbolism...or just stare at the sparkly light. Either way, this piece is sure to enthrall your houseguests or stage show audiences. Shine on, you crazy diamond!
-   [0E5] 0xD2C607DAEAA13DBB: Give me your sleepy, your grungy, 
-your lonely masses yearning to talk to someone, anyone,
-and the wretched ones who really had to go.
-Send these, the hungry and the stressed to me.
-I lift my mic beside the golden lights!
+   [0E5] 0xD2C607DAEAA13DBB: Give me your sleepy, your grungy,\nyour lonely masses yearning to talk to someone, anyone,\nand the wretched ones who really had to go.\nSend these, the hungry and the stressed to me.\nI lift my mic beside the golden lights!
    [0E6] 0x1EEDAF00F403922C: Originally created as a retinal scanner to secure entry into the SimTech Industries CEO’s office, this beautifully illuminated, and now disarmed, security column is the perfect addition to any show stage or home office. You will also receive two commemorative eye patches in memory of the recently deceased SimTech CEO.
    [0E7] 0x4E032271760AE491: Floating on a beam of simulated energy, the Electro-Orb provides just the right ambiance to give any show stage or room in your home a touch of futuristic style. If you want to be the first to own the ultimate in “anti-gravity art”, the Electro-Orb from SimTech Industries is for you.
    [0E8] 0xE3E6C50E92B73C13: Beware the Magic Trunk! Some say it is cursed by the haunted soul of a magician who died while submerged inside it! Others say it still contains his chained skeleton! But no one will ever know...the trunk has been permanently sealed!! One thing's for certain: placing it on your stage or in your home will add an extra air of mystery!
@@ -271,19 +241,13 @@ I lift my mic beside the golden lights!
    [0EC] 0x38F317EBEDF54ECA: SimTech Industries is proud to offer up the Digi-Arch, the perfect accessory for adding flair to an empty show stage or your traditional home décor. Following years of research, SimTech Engineers found that the most perfect form in nature is the arch. And what better way to compliment that perfect form than to add pulsating neon lights. 
    [0ED] 0xECEC18FC5A9E9602: For the Sim that has everything, the new SimTech Industries Sim-Bot is something else to blow Simoleons on. While it provides none of the useful services of traditional robots, it looks great and uses less electricity than ten toasters. As a low-maintenance companion at home or a low-maintenance, motionless backup dancer on-stage, the Sim-bot is one of a kind (unless you buy more).
    [0EE] 0x35857F1A6ED66A59: According to legend, the evil pirate Greenbeard found an old lamp containing a genie and, with his second wish, asked for a giant onyx gem (the first wish being WooHoo related (it was a long sea voyage), the third wish being "three more wishes"). Thus was created the Black Plumbob of lore. This replica reminds you to be careful what you wish for... 
-   [0EF] 0x9356BAA3BBE26550: Round head so shiny
-sadly so disposable
-a pawn in their game
+   [0EF] 0x9356BAA3BBE26550: Round head so shiny\nsadly so disposable\na pawn in their game.
    [0F0] 0xE7BEE62BA3569C88: This Decor8 sculpture, symbolizing all three planets in the known Sims universe - Boonitz, Dipthong and Earth -  is both attractive and functional, as simply by virtue of owning it, it may make you seem smarter. Decorate your space...with Space!
    [0F1] 0xCEF8714F7E385A8C: It’s a beam of light! It’s a teleporter! No, wait it’s an interstellar dimensional transponding device! Keep your audience guessing with a ray of light so advanced the smarties at SimTech couldn’t figure out what it was. Or place it in your home and dazzle your visitors and make them question if you truly did move in from outer space. Either way the WhatIzIt?!? is guaranteed to confuse onlookers, or your Simoleons back!
-   [0F2] 0x246F373E7AF45714: Quick and deadly queen
-watchful warrior sees all
-best and greatest hope
+   [0F2] 0x246F373E7AF45714: Quick and deadly queen\nwatchful warrior sees all\nbest and greatest hope.
    [0F3] 0x73714CCD9161FC5F: Without beginning or end, the Ring Tower is both finite and infinite. Whatever the rings represent for you - eternity, commitment, circuses, dirty bathtubs - this exquisite sculpture will be an eternal reminder.
    [0F4] 0x85FA681B9655076E: Decor8 invites you to relive the excitement and romance of the Cold War Era with this new Rocketship sculpture! The whimsical design, inspired by early Nuclear Warhead schematics, features sassy striping and colorful accents. As a stage prop, a conversation piece, or something to hang your clothes on, the Decor8 Rocketship will have you blasting off for fun!
-   [0F5] 0x812350A3B1539335: Strong, steady fortress
-upholds the future, unmoved
-protects ancient kings
+   [0F5] 0x812350A3B1539335: Strong, steady fortress\nupholds the future, unmoved\nprotects ancient kings.
    [0F6] 0x14037731F071A644: This vintage prop was once owned by Jacques Serrat, the infamous illusionist. Those who saw him perform say his Saw Box trick was incredibly realistic. This prop can no longer be used without a Certificate of Sanity, but makes an exciting conversation piece or stage prop.
    [0F7] 0x25663322C9D6756E: Have you ever dreamed of living under the sea, riding the wild currents on your trusty seahorse? No? Well, regardless, with the Mer-Made Seahorse Sculpture, Sims can get all the enjoyment of owning a seahorse without the hassle of being underwater.
    [0F8] 0x9A69A3943CFAD469: Those who've never seen the Social Bunny may think it's just another fictional rabbit. Not so! While it is true that it appears to only the loneliest of Sims, the fact that there's a statue of it proves that it's real! 
@@ -304,15 +268,11 @@ protects ancient kings
    [107] 0x96D61C8D6E82C0DE: Nothing will jazz up your joint like this neon sign by The Light Fantastic. The classic trumpet design – harkening back to a romantic era of speakeasies, fedoras and virtuosos with names like Armstrong, Davis and Charlie “Bird” Parker – hits all the right notes.
    [108] 0x8BB33BA5113685D0: 
    [109] 0x040BCCE2CAF7A118: Benches on the show floor, used during shows.
-
    [10A] 0x3C45E4DF9A97B415: Show Floor Bench Placement Jig description placeholder
-
    [10B] 0xBFA75A05C6378ACF: Floor where the audience gathers for shows. Place benches on floor to allow for seated crowds.
    [10C] 0x2E72B21414872481: Floor where the audience gathers for shows. Place tables on floor to allow for seated crowds.
    [10D] 0x32307984D2D04C7B: Show Stage for performances (6x7)
-
    [10E] 0x32457D84D2E2AF15: Show Stage for performances (8x7)
-
    [10F] 0x98FD086200F9D766: The shell that goes around the show stage in performances at the Concert Hall.
    [110] 0xB97A418129230774: Stage rig used on the stage at the Park.
    [111] 0x341F88A8CA5EE955: The shell that goes around the show stage in performances at the Stadium.
@@ -322,7 +282,6 @@ protects ancient kings
    [115] 0x9696B60BB34C1261: An LED sign for your town.
    [116] 0x0261AE2BA2004D74: A stadium sign for your town.
    [117] 0xAF6E62106DC15D8B: SingAGram FX Pack description placeholder
-
    [118] 0xF853D4A2EDCD8B0E: Sing a Gram FX Pack Jig Description Placeholder
    [119] 0xC2550660179BBB48: singer_playForTips_jig description placeholder
    [11A] 0x4D96222EF09D31FC: Despite having the word “skee”, this game is in fact played without skis. It does involve a ball, and most Sims agree that it’s a super fun game. Roll the ball down the lane and get it into the hole to score points. Easy enough for a Child Sim to play, but difficult for even an Elder Sim to master!
@@ -354,7 +313,6 @@ protects ancient kings
    [134] 0x7D207DF9F3BAE641: The designers at SimTech Industries thought, “Why not make our next mass-storage decoration look like a simple box with rubber safety corners?” And so they did. Years of painstaking research went into the development of the Bio-Cube to find a way for Sims to safely place this powerful device on their show stages without risk of radiation poisoning, then they realized that it makes a very nice end table as well. 
    [135] 0x8AE3F53E4E9CEDB9: Don’t be fooled by the simplicity of the Sopha Soft ottoman. This four-in-one powerhouse does it all: set a drink on it, put up your feet (no dirty shoes, please!), seat an entire family or, in a pinch, brace a door in case of a zombie attack!
    [136] 0x0ACBEB413A6C7C31: TempShell
-
    [137] 0x6B24E4B74EECC665: Light up your nights with a little help from these wonderfully whimsical fireflies - that you've caught all by yourself!  Entertaining and educational, the House of Fireflies provides scientific fun for all ages. Bring a little magic to your life.
    [138] 0x44B8AB7FB8323277: The city's Concert Hall, where the stars come out to shine! 
    [139] 0xD8600D218F6230F1: Traffic lights for your city.
@@ -381,9 +339,7 @@ protects ancient kings
    [14E] 0xAE34F952D0046ADF: Super Spender Kiosk Triangle #3
    [14F] 0xD186C16895B72084: Captain Starplanet Arcade Table
    [150] 0x15662A1AAF560500: Robots vs. Monsters Arcade Table
-
    [151] 0xA10D826B99564201: Exploding Tank Man Arcade Table
-
    [152] 0x3D33BE9D0D38A640: Area Light Ceiling Stage
    [153] 0x8072D7F2AA8C3AE9: Area Light Ceiling Stage Spot1
    [154] 0x41DE8FF435B1B65B: ExtraordinAIRe-Inator
@@ -414,11 +370,8 @@ protects ancient kings
    [16D] 0xF986BFCC09326696: Fizztastic Billboard
    [16E] 0x0B8FB003D06B82A6: Serenity Bookstore & Spa
    [16F] 0x8BE0479BD365410E: Snack Bowl
-
    [170] 0xF04E41F4611B0255: Box of Danger
-
    [171] 0x17CE24F649EDC1CB: Box of Mystery
-
    [172] 0x771EF5CE31CF46F1: Broad Street Business Tower & Grill
    [173] 0xBE93683D0D29F221: Electrol 3X
    [174] 0x6246811502D53C5A: Suite Dreams Retro Chair
@@ -446,25 +399,16 @@ protects ancient kings
    [18A] 0xEF17F35D498302F4: Rare Breed Counter Island
    [18B] 0xF51BA5DFAE6CDF1A: C-Ment Shoe Factory
    [18C] 0xC87B2FAF5E639ED0: @@ CrowdMonsterHighResA
-
    [18D] 0xC87B2FAF5E639ED3: @@ CrowdMonsterHighResB
-
    [18E] 0xC87B2FAF5E639ED2: @@ CrowdMonsterHighResC
-
    [18F] 0x05971D888876B687: @@ CrowdMonsterLowRes
-
    [190] 0x4E97F36D4BFE6E2E: Big Show Crowd
    [191] 0x45EB63A80FF81CE6: Crowd Monster Place Jig
-
    [192] 0x52F8E633FD702F76: CrowdMonsterPlaceJigSitting
    [193] 0xFC0D3D95AE8FFFC2: @@ CrowdMonsterSittingHighResA
-
    [194] 0xFC0D3D95AE8FFFC1: @@ CrowdMonsterSittingHighResB
-
    [195] 0xFC0D3D95AE8FFFC0: @@ CrowdMonsterSittingHighResC
-
    [196] 0x0B79CCBE1AF66E05: @@ CrowdMonsterSittingLowRes
-
    [197] 0xB5873AAA8F067ADB: Flying V's Coffeehouse
    [198] 0x75B90E347C2A390B: Distant Terrain
    [199] 0x1DA150184CD010BC: Dizzy DJ Booth
@@ -483,7 +427,6 @@ protects ancient kings
    [1A6] 0x6BFE4F30010B4666: Slice of Life Golf Driving Range
    [1A7] 0x502885AC3CD96802: PlasmaPunch Gyroscopic Conductor
    [1A8] 0x38710A0B14B22DAC: Stellar Show FX Pod
-
    [1A9] 0x4A24B1E9FC9EAC9F: Fibonacci Fence
    [1AA] 0x22828BE2455C864A: Simply Stylish Gate
    [1AB] 0x3BA5A5ADD28A640D: Simply Stylish Wall
@@ -492,9 +435,7 @@ protects ancient kings
    [1AE] 0x54657363830CBBD1: Crimson Fire Hydrant
    [1AF] 0x8DE5B92F9AC5E027: Simply Stylish Tub o' Fire
    [1B0] 0xBEED17E362B115AD: Fish Starfish Bat
-
    [1B1] 0xEC1475A84084169B: Fish Starfish Bat Mounted
-
    [1B2] 0x807D3407CA39A1E5: Linckia Starfish
    [1B3] 0xEC2417AB90B2F813: Linckia Starfish Mounted
    [1B4] 0xB4DD556EBD01FD40: Ninja Starfish
@@ -503,7 +444,6 @@ protects ancient kings
    [1B7] 0xC9C1DE87DDDE55BC: Glass Act Fountain Sculpture
    [1B8] 0x06D3BB05FEBEC28E: Spanish Courtyard Tower Fountain
    [1B9] 0x3867E7621A18BA59: OmniAstonishing MultiFX Tower
-
    [1BA] 0x673E0AA06E832C72: Genie Lamp
    [1BB] 0x55F65466BC9E854C: The Market Basket
    [1BC] 0x9A5954983BB03FBC: ExtraordinAIRe-Inator
@@ -520,17 +460,12 @@ protects ancient kings
    [1C7] 0x7107C08160DC5DC7: BassBoom Jukebox of the Future
    [1C8] 0x56B7962BDA95F928: Karaoke Explosion Machine from Landgraab Industries
    [1C9] 0x5F275AA7E2CDDCD5: Front Stage Kit
-
-   [1CA] 0x5D4A74D87F25CABA:  kitFrontStage_Sing_Jig
+   [1CA] 0x5D4A74D87F25CABA: kitFrontStage_Sing_Jig
    [1CB] 0xAA94AB0BEFC8DB46: Performer Kit
-
    [1CC] 0x83DD26C491D353D1: Performer Solicit Jig
    [1CD] 0x6BE7398D67DFCD74: Kit Performer Jig
-
    [1CE] 0xD75F71937C8E5BEA: Sleight of Hand Kit
-
    [1CF] 0xE9CF657F05C54D9E: Levitate Self Jig
-
    [1D0] 0xB935363F4523DF29: Fluted Glass Light Fixture
    [1D1] 0x2597851FA4A1449E: Oval Light Stacker
    [1D2] 0x14E5C7AFD3D8DFCF: Let Down Your Golden Light
@@ -551,7 +486,6 @@ protects ancient kings
    [1E1] 0xA8EA0294DB8C6539: Jimmy Lemmon Memorial Mausoleum
    [1E2] 0x9B96C39BCAA45FAF: Buck & Chuck Bronco
    [1E3] 0x5EFD6716FCD2EC38: Meditate Jig
-
    [1E4] 0xBC04A56D1590C6ED: Anti-Frantic Mirror
    [1E5] 0x813F57A9F54A59D5: The Fairest Mirror
    [1E6] 0xE99F47347BBDCA89: Portably Portable Music Player by Muze Inc.
@@ -577,7 +511,6 @@ protects ancient kings
    [1FA] 0x04AE3E4E94DA31F6: Square Flower Planter
    [1FB] 0x85283E379B4A0423: Pool Cue
    [1FC] 0x806404BCA25CFFA2: Side Pocket Pool Table
-
    [1FD] 0xE185774D8845F14D: Luxtacular Ultra Deluxe Pool
    [1FE] 0x9B7AFDF3A20CA128: Los Sueños Private Club
    [1FF] 0xCC7B70DED60608FA: privateclubEP6_doors
@@ -674,13 +607,10 @@ protects ancient kings
    [25A] 0xF74B7F95C21796D1: Shell Door Metal Glass
    [25B] 0x31EA167A9E364517: Show Floor Bench
    [25C] 0xAC37EDD69EE7EA42: Show Floor Bench Placement Jig
-
    [25D] 0x50532AC47A44F0E4: Show Floor for Benches
    [25E] 0x1D2AA85FCD0B4CD4: Show Floor for Tables
    [25F] 0x525CD2BD903FF070: Show Stage 6x7
-
    [260] 0x5263CEBD9046081E: Show Stage 8x7
-
    [261] 0xB00000E561BF48AB: Concert Show Stage Rig
    [262] 0x7C196EEA311EF633: Park Stage Rig
    [263] 0x5B8905B6666217D0: Stadium Show Stage Rig 
@@ -691,7 +621,6 @@ protects ancient kings
    [268] 0x441D0CA513704F4E: LED Sign
    [269] 0x64992EEBF2F2680F: Stadium LED Sign
    [26A] 0x658E674EAB80B152: SingAGram FX Pack
-
    [26B] 0x7D7BC053996B7E17: Sing a Gram FX Pack Jig
    [26C] 0x1FE772D7C80CE3EB: singer_playForTips_jig
    [26D] 0x0CC2A43F9B2C0F2D: Super Skee Ball
@@ -724,7 +653,6 @@ protects ancient kings
    [288] 0x49A4F96C7BB272FA: SimTech Bio-Cube
    [289] 0x2BEB6FE17B1EF5EC: Sopha Soft Ottoman
    [28A] 0xF33421A93AADA268: TempShell
-
    [28B] 0xFA970A2A38B46CD6: The House of Firefiles
    [28C] 0xBF7C11D796C109A2: Hoi Polloi Event Center
    [28D] 0x5D3C1F9606378EC0: Traffic Light
@@ -1047,16 +975,14 @@ protects ancient kings
    [3CA] 0x3B9947F010FDEA20: Amber
    [3CB] 0xC455FC3F1015D0E5: Anderson
    [3CC] 0xEE10229CB672BF96: Annabel
-   [3CD] 0x5432AA6CD2B50356: Annabel comes from a wealthy family in Belladonna Cove. She likes to spend her days inside a nice clean house with her jewelry and expensive garments. Her ideal night on the town is dinner at the fanciest restaurant or an invite to the most exclusive party. Annabel has two children that are her life and hopes to raise them to be prim and proper as all good Sims are (not like those Best people next door). 
-
+   [3CD] 0x5432AA6CD2B50356: Annabel comes from a wealthy family in Belladonna Cove. She likes to spend her days inside a nice clean house with her jewelry and expensive garments. Her ideal night on the town is dinner at the fanciest restaurant or an invite to the most exclusive party. Annabel has two children that are her life and hopes to raise them to be prim and proper as all good Sims are (not like those Best people next door).
    [3CE] 0x193901F9E2915CBD: Ariella
    [3CF] 0xB737FFF8F2154981: While at a party, Ariella fell in love with Mithun from the moment he told her he was a professional athlete. After following Mithun out to the city, Ariella's trying to get her own life on track. Never quite sure what she wanted to do in life, she happened upon a political job where she's quickly moving up the ladder.  Now that Ariella’s found something she's good at, she’s starting to think about settling down. She loves Mithun and hopes they'll one day have a family together, but wonders if Mithun will ever grow up and put their relationship before his mooch of a best friend, Ernesto.
    [3D0] 0xCE937EE6DC255C9D: Ashley
    [3D1] 0x054769B28CCDAF34: August
    [3D2] 0x7ECE309E462E1B08: The newest addition to the Woods household, August is outgoing and easily excited by even the most basic of illusion tricks. August has natural art ability, and even if she doesn’t grow up to protect trees, Brandon and Stardust would love to see her be successful as an artist.
    [3D3] 0x628F75B2312AAEFB: Aurora
-   [3D4] 0x4D8AE285AAA6FA94: Aurora is a fun loving, easy going lady who can put up with Wayne’ antics, making her the perfect companion. Never afraid to take risks, she’s toned her adventurous ways down a bit since the arrival of her new baby. She enjoys living in such a trendy city, although now she struggles to keep up with most fashionable Sims in town. 
-
+   [3D4] 0x4D8AE285AAA6FA94: Aurora is a fun loving, easy going lady who can put up with Wayne’ antics, making her the perfect companion. Never afraid to take risks, she’s toned her adventurous ways down a bit since the arrival of her new baby. She enjoys living in such a trendy city, although now she struggles to keep up with most fashionable Sims in town.
    [3D5] 0xB78DF6BD322ED304: Avilla
    [3D6] 0x4659BD0809769501: Barry
    [3D7] 0x9270525CAD747825: Since Barry can remember, he’s always had a guitar in his hand practicing his favorite tunes. He aspires to be a famous guitarist someday – or if that doesn’t work out perhaps a singer. Either way, he’s attracted to the glitz and glamour of being a celebrity. Barry is excited to be right in the heart of an entertainment town, and hopes to use his father’s connections to get his big break (since he has no plans to attend college). A natural flirt, he’s been rather popular amongst the ladies, especially with his ability to serenade with the guitar. 
@@ -1069,7 +995,6 @@ protects ancient kings
    [3DE] 0x9018E202979FB3F5: Bjorkman
    [3DF] 0xFA21C85172CD7935: Brandon
    [3E0] 0x430F3F9E6505D209: As a tree lover in a family of housing developers, Brandon never fit in as a child. He has dedicated his adult life to traveling the country to protest deforestation. While at a forest fundraiser, he met his future wife and soul mate Stardust. Realizing they need an income, Brandon now has a job as a Ballot Counter to help continue his environmental agenda in protest of the giant performance venues being built in town. Though he has the support of longtime residents, he has quickly become enemies of show promoters and the entertainers who wish to perform in these grand venues.
-
    [3E1] 0xF49ECE2E1B155D2F: Brendan
    [3E2] 0xEC7BCF086800DA81: Brian
    [3E3] 0xEC45B10867D318E0: Bryce
@@ -1090,8 +1015,7 @@ protects ancient kings
    [3F2] 0x9DBE76ABD01EFFAB: Clarisse
    [3F3] 0xCAC9EE160CA4253E: Clever
    [3F4] 0x3B318D0EE1B610CA: Conrad
-   [3F5] 0x2F6C33A7335ACD76: Conrad is a kid trapped in an adult’s body. His collection of video games, toys, and books are second to none. Being too busy playing with his toys, he’s never had a girlfriend, or even held hands with a girl. He frequents Addison’s blog site and considers him to be the real local hero - not the rich and glamorous performers. Convinced that aliens do exist, Conrad took a job in the science field in hopes of spreading his alien agenda, and one day hopes to fund his own experiments to prove that Sims are not alone. . 
-
+   [3F5] 0x2F6C33A7335ACD76: Conrad is a kid trapped in an adult’s body. His collection of video games, toys, and books are second to none. Being too busy playing with his toys, he’s never had a girlfriend, or even held hands with a girl. He frequents Addison’s blog site and considers him to be the real local hero - not the rich and glamorous performers. Convinced that aliens do exist, Conrad took a job in the science field in hopes of spreading his alien agenda, and one day hopes to fund his own experiments to prove that Sims are not alone.
    [3F6] 0xBDC0E9D26CAEBD37: Costialla
    [3F7] 0xA061F89560ECA1AC: Courtney
    [3F8] 0x77EE6ACF1D00EFAD: Courtney has lived all over playing for different Minor League teams, but a recent contract brought her out to Starlight Shores. After meeting and falling in love with Bryce, Courtney reluctantly agreed to move in with him, but she lives in fear of being forced to move out of town again for her job. Though she’s used to pitching the curveball, this time life pitched one back as Courtney struggles to choose between her man and her career.
@@ -1102,18 +1026,15 @@ protects ancient kings
    [3FD] 0x1A050ABDF6B5A39E: Danielle is a single mother who had a blossoming career as a performer but quit to spend more time with her children. While she waits for her career as a freelance novelist to take off, she has a part time job at the spa to support the family. Danielle spends most of her days at home working on her writing and spending time with her children. She has never really been great at cooking and will often take her family out to restaurants instead of making a meal. A bit neurotic at times, she can sometimes be overly cautious, but she tries to foster creativity, imagination, and ambition in her children.
    [3FE] 0x8DD735D39A6E4A85: Daphne
    [3FF] 0x7BCD0ED39002EF83: Darren
-   [400] 0x3362E08AC442E6E6: Darren got kicked out of a small time garage band after cheating with the drummer’s girlfriend. With his guitar in one hand and a duffel bag in the other, he hitchhiked across the country to begin a new life and chase the dream of being rich and famous. This time, Darren wants to be a one man show on his rise to fame. Darren hasn’t had any problems finding a date, although he’s had more difficulty in actually keeping a relationship. When he’s not playing the guitar, Darren can often be seen at the local venues scoping out the talent, working on his connections, and flirting with the ladies. 
-
+   [400] 0x3362E08AC442E6E6: Darren got kicked out of a small time garage band after cheating with the drummer’s girlfriend. With his guitar in one hand and a duffel bag in the other, he hitchhiked across the country to begin a new life and chase the dream of being rich and famous. This time, Darren wants to be a one man show on his rise to fame. Darren hasn’t had any problems finding a date, although he’s had more difficulty in actually keeping a relationship. When he’s not playing the guitar, Darren can often be seen at the local venues scoping out the talent, working on his connections, and flirting with the ladies.
    [401] 0x1F6F8ED89E8935AC: Diane
-   [402] 0xAFCC7D929A092F54: Diane and Jamar met while they were both roadies for the same band, and have been inseparable ever since. She is proud of her husband’s accomplishments and is very excited about their new life in such an interesting town. What she did not expect were young musicians going a little too far to catch her husband’s attention, though she trusts her husband completely. A dropped instrument by Diane put an end to her career as a roadie, but after years away from the showbiz life she enjoyed, Diane has re-entered the scene, this time as a Acrobat. 
-
+   [402] 0xAFCC7D929A092F54: Diane and Jamar met while they were both roadies for the same band, and have been inseparable ever since. She is proud of her husband’s accomplishments and is very excited about their new life in such an interesting town. What she did not expect were young musicians going a little too far to catch her husband’s attention, though she trusts her husband completely. A dropped instrument by Diane put an end to her career as a roadie, but after years away from the showbiz life she enjoyed, Diane has re-entered the scene, this time as a Acrobat.
    [403] 0x6FACC8275397C759: Docket
    [404] 0x83E54D6B42945516: Durelli
    [405] 0x6437E6471E26F5EB: Durk
    [406] 0xA3684ACF46396841: Eastin
    [407] 0x7F355FE7B56F9452: Edward
-   [408] 0x53A5D9694431DF3A: Edward can trace his fortune back four generations, to when his great-grandfather built one of the first venues in town. Unfortunately, his estate dropped in value a few decades ago when the property next door was purchased by the Best family, and the two families have been rivals since. Edward was delighted when Paul Best ended his marriage, as he hoped that this might mean that the Best Family would leave the neighborhood. Unfortunately, the opposite happened, and Edward was in for a shock when he drove home one day to see a moving van unloading the furniture of Evan Best’s family… 
-
+   [408] 0x53A5D9694431DF3A: Edward can trace his fortune back four generations, to when his great-grandfather built one of the first venues in town. Unfortunately, his estate dropped in value a few decades ago when the property next door was purchased by the Best family, and the two families have been rivals since. Edward was delighted when Paul Best ended his marriage, as he hoped that this might mean that the Best Family would leave the neighborhood. Unfortunately, the opposite happened, and Edward was in for a shock when he drove home one day to see a moving van unloading the furniture of Evan Best’s family…
    [409] 0x633AE52DBDA48A55: Elenes
    [40A] 0xD7ED44D19D3A6780: Elson
    [40B] 0xC76FB534CFF9B560: Emelie
@@ -1128,7 +1049,6 @@ protects ancient kings
    [414] 0x9B7F544BDBF998F7: Faylene
    [415] 0xB42B5A43E1774D41: Finnegan
    [416] 0xB654BC896C97489A: Finnegan left his upper class home in search of fame when he realized his parents would never support his dreams of stardom. After jumping on a bus in search of a new life, he landed a temporary job that suited his lifestyle – professional pool boy to the Buckshots. Madeline, realizing his raw talent, quickly moved him into the main house. The relationship with Madeline may not be true love, but Finnegan loves the life he’s living in a nice house, with lots of Simoleons, and a singing career that just might take him somewhere.
-
    [417] 0xC7571C30824B1882: Foster
    [418] 0x2BF00F55B15C2303: Gabrial
    [419] 0xD931CFE31607D830: Garcia
@@ -1150,12 +1070,10 @@ protects ancient kings
    [429] 0xDBF3364761895235: Jade
    [42A] 0x47B6804ABC717BBC: Jamar
    [42B] 0xECD0C409ABA3A6E4: A promotion to Music Talent Scout brought Jamar and his family into town to have better access to the talent-rich area. He’s played guitar most of his life, and this will be an advantage to him as he scopes out new musical talent to offer record deals. However, this dream job isn’t without its downsides. Some people will do anything to be discovered, which has put a strain on the wife Jamar loves so much.
-
    [42C] 0x4775744ABC39D011: Jared
    [42D] 0xB0E6C7FDDCB64DAC: Jasper
    [42E] 0x4768544ABC2F0FDD: Javed
-   [42F] 0xB8AA60FA94B8FD40: Javed is an accomplished Acrobat on his way to the top. Since his breakout performance a few years back, word of his skill has spread throughout the city. These days, he is frequently recognized by fans and always gets rave reviews for his performances. An avid reader, Javed enjoys spending his free time in the park or woods with a good book so he can combine two of his favorite past-times. He desires to settle down and have a family, but unfortunately true love has been elusive despite his success. 
-
+   [42F] 0xB8AA60FA94B8FD40: Javed is an accomplished Acrobat on his way to the top. Since his breakout performance a few years back, word of his skill has spread throughout the city. These days, he is frequently recognized by fans and always gets rave reviews for his performances. An avid reader, Javed enjoys spending his free time in the park or woods with a good book so he can combine two of his favorite past-times. He desires to settle down and have a family, but unfortunately true love has been elusive despite his success.
    [430] 0x238CBA4AA7879D93: Jesse
    [431] 0x40AA9DB784A0941C: Jimmy
    [432] 0xF109E14A8B559BCF: JoAnn
@@ -1200,7 +1118,6 @@ protects ancient kings
    [459] 0xA9174F47450B0F30: Luck
    [45A] 0x714295919F262296: Madeline
    [45B] 0x57243FE0550FC15B: Though she was head over heels in love with Charlie when they first met, years with a man who loved fame and fortune as much as his wife took its toll on their marriage. Madeline often attracts men who are more interested in money than her, but she doesn’t mind as she knows this type of men will get under Charlie’s skin. After forcing Charlie to the pool house, she felt compelled to further punish him by letting Finnegan move in. Madeline may be old, but she attempts to hide it with a youthful vibe and a steady stream of plastic surgery.
-
    [45C] 0x2F87AC024B88902F: Mandy is a Sim who loves to party, hang with her friends, and date cute guys. She can often be seen hanging at the local venues to catch the latest act (even the bad ones) – anything to get her out of the house.  Her dad forced Mandy to get a job in his attempt to teach her some responsibilities. In an act of rebellion Mandy chose the one job that would disgust her father – a Mausoleum Clerk.  With her dad disapproving, Mandy thinks she has the perfect job!
    [45D] 0x78251D1418A7B068: Mandy
    [45E] 0x77FC101418849487: Maria
@@ -1209,8 +1126,7 @@ protects ancient kings
    [461] 0x6646DD25A99CE5E2: Martin
    [462] 0x77F93214188298BB: Mason
    [463] 0x9C69FB25C8E3FE14: Matias
-   [464] 0xB440C882A480B937: Matias is a determined Singer who wants to make it big. Unfortunately, things haven’t gone quite his way, and one unfortunate incident after another has impeded his success. His big break nearly came when he was scheduled for his first venue appearance, only to see the venue burn down the morning of his performance. He’s still waiting for another opportunity to come along, but Matias is a hard worker and will persevere to make it big. 
-
+   [464] 0xB440C882A480B937: Matias is a determined Singer who wants to make it big. Unfortunately, things haven’t gone quite his way, and one unfortunate incident after another has impeded his success. His big break nearly came when he was scheduled for his first venue appearance, only to see the venue burn down the morning of his performance. He’s still waiting for another opportunity to come along, but Matias is a hard worker and will persevere to make it big.
    [465] 0xDAE42A7A92B02FE2: May
    [466] 0xDE0EC6E61B96034A: McMurphy
    [467] 0xE283D0439AFB223B: Medina
@@ -1223,11 +1139,9 @@ protects ancient kings
    [46E] 0x9882C2142A5779DD: Mercy
    [46F] 0x3316F013F19C8B1B: Miles
    [470] 0xA1C90447414A8083: Mimi
-   [471] 0x73950DF04BBD8529: Mimi just moved into town following a culinary opportunity that recently popped up and hopes that this will be that new start she’s been looking for. When she’s not creating new delectable dishes at home or at work, she can be found bouncing around town in the newest and most fashionably chic clothing. This girl is not afraid to get all gussied up and strut her stuff! She is always on the hunt for the best performances and shows to attend, so she can often be spotted in the local venues around town. 
-
+   [471] 0x73950DF04BBD8529: Mimi just moved into town following a culinary opportunity that recently popped up and hopes that this will be that new start she’s been looking for. When she’s not creating new delectable dishes at home or at work, she can be found bouncing around town in the newest and most fashionably chic clothing. This girl is not afraid to get all gussied up and strut her stuff! She is always on the hunt for the best performances and shows to attend, so she can often be spotted in the local venues around town.
    [472] 0x3331E613F1B3424A: Mitch
-   [473] 0xA994E8CA8179BDDA: Although he learned various instruments growing up, Mitch never found one that kept his attention for long. With a passion for music, he fits in very well with the entertainment scene. One night Mitch scored an invite to a big party hosted by DJ Krazy Beatz and was intrigued by the skills required to rock the crowd. Thinking he could make a career out of being a freelance DJ, he quit his day job to practice his spinning skills. Though his wife understands his passion, she also has a hard time believing anyone can make a living as a DJ. With pressure from his wife to “get a real job” Mitch is determined to prove to her wrong. 
-
+   [473] 0xA994E8CA8179BDDA: Although he learned various instruments growing up, Mitch never found one that kept his attention for long. With a passion for music, he fits in very well with the entertainment scene. One night Mitch scored an invite to a big party hosted by DJ Krazy Beatz and was intrigued by the skills required to rock the crowd. Thinking he could make a career out of being a freelance DJ, he quit his day job to practice his spinning skills. Though his wife understands his passion, she also has a hard time believing anyone can make a living as a DJ. With pressure from his wife to “get a real job” Mitch is determined to prove to her wrong.
    [474] 0xAEF717EA512ADE3B: Mithun
    [475] 0x5CADB7351725CBE3: When Mithun and Ernesto were growing up, they always said they’d one day play on a professional team together. Though Mithun turned out to be the talented one, Ernesto tagged along in Mithun's rise to fame sharing in the parties and the glory. After meeting Ariella, Mithun started considering a life outside of fame and endless parties. When he was traded to a team in the city, Mithun asked Ariella to move with him. To Ariella's surprise and annoyance, Ernesto came as part of the deal. Mithun feels everything is perfect now that he's living with his two favorite people, though he can't understand why they can't seem to get along.  
    [476] 0xA1C91047414A952F: Miya
@@ -1240,8 +1154,7 @@ protects ancient kings
    [47D] 0xDBAF467BD24612DD: Namani
    [47E] 0x1A1AA62BD5883602: Nancy
    [47F] 0xFFD06B95E923FCCD: Natasha
-   [480] 0xF2D2493D19F74ED7: Although Natasha is supposed to avoid contact with the Best family, she fell in love with Calvin when he first moved in next door. She secretly sneaks out of the house to hang out with him and knows she’ll be in big trouble if they are ever caught by their parents. Natasha isn’t sure if she’s wants a life of wealthy exclusivity with fancy dresses and expensive meals. Even though her parents would be horrified, she feels more at home in a grungy hangout listening to the hottest act. 
-
+   [480] 0xF2D2493D19F74ED7: Although Natasha is supposed to avoid contact with the Best family, she fell in love with Calvin when he first moved in next door. She secretly sneaks out of the house to hang out with him and knows she’ll be in big trouble if they are ever caught by their parents. Natasha isn’t sure if she’s wants a life of wealthy exclusivity with fancy dresses and expensive meals. Even though her parents would be horrified, she feels more at home in a grungy hangout listening to the hottest act.
    [481] 0xDAEE1E7A92B86FD3: Neo
    [482] 0xEFA1B94016419F4B: Newbury
    [483] 0xABBC2E9F0B49E040: Newill
@@ -1263,8 +1176,7 @@ protects ancient kings
    [493] 0xFB44307EFE381AA0: Platt
    [494] 0xE198B67EEFC466C2: Power
    [495] 0x10D3D5AD802927F2: Priscilla
-   [496] 0xF32456B526680B0D: Priscilla loves performing at parties and enjoys being around kids, which is what originally inspired her to become a Magician. She is a very outgoing and good natured person, so making new friends isn’t difficult for her. However, working as an aspiring Magician in their old home town wasn’t bringing in steady enough work. So Priscilla was eager enough to agree to Matias’ suggestion of a fresh start in a new town. Priscilla hopes she can have a large family one day, but they can barely pay the bills as it is, so she is willing to wait until she and Matias can become successes in their respective careers. 
-
+   [496] 0xF32456B526680B0D: Priscilla loves performing at parties and enjoys being around kids, which is what originally inspired her to become a Magician. She is a very outgoing and good natured person, so making new friends isn’t difficult for her. However, working as an aspiring Magician in their old home town wasn’t bringing in steady enough work. So Priscilla was eager enough to agree to Matias’ suggestion of a fresh start in a new town. Priscilla hopes she can have a large family one day, but they can barely pay the bills as it is, so she is willing to wait until she and Matias can become successes in their respective careers.
    [497] 0xC671CA911BF03F77: Ramos
    [498] 0xC648EB911BCD7262: Rayna
    [499] 0x23CB7C478AF387B3: Raza
@@ -1289,8 +1201,7 @@ protects ancient kings
    [4AC] 0x58530A37FDDF25B6: Sawyer
    [4AD] 0xA6C4B985173B6C14: Scott
    [4AE] 0xC3418CA797C0DFBB: Sebastian
-   [4AF] 0xA61E0683CCCC52AD: Sebastian is very smart for his age, and his parents have high hopes for him to attend the most prestigious of universities. He’s been raised to detest the Bests, and so far his parents have done an excellent job. He never asks for a toy that his neighbors are seen playing with, and he especially enjoys dressing up for an expensive night on the town. Unfortunately, the life of a proper Gooder has its drawbacks, and Sebastian often feels very lonely. 
-
+   [4AF] 0xA61E0683CCCC52AD: Sebastian is very smart for his age, and his parents have high hopes for him to attend the most prestigious of universities. He’s been raised to detest the Bests, and so far his parents have done an excellent job. He never asks for a toy that his neighbors are seen playing with, and he especially enjoys dressing up for an expensive night on the town. Unfortunately, the life of a proper Gooder has its drawbacks, and Sebastian often feels very lonely.
    [4B0] 0x18A9474783F1708B: Seth
    [4B1] 0xF54821C929478ECF: After dating Holly online for a few weeks, Seth quit his job and moved to Starlight Shores to start a new life with Holly. However, Seth was never one to think before he acts, and upon arrival he had some doubt about his newfound relationship. Seth has been trying to make money as a DJ, and he’s ecstatic to have the chance to lay down some beats for the local celebrities. Only time will tell if Seth and Holly are truly meant to be together, or if Seth acted with too much haste.
    [4B2] 0x18B36E4783FA07C5: Shah
@@ -1301,23 +1212,19 @@ protects ancient kings
    [4B7] 0xFD6A6E854851532F: Simon
    [4B8] 0x0B0F998B9DBD6A5A: Sonoko
    [4B9] 0x8910A538F001E76A: Sonoko met Mitch at a mutual friend’s house party and was instantly impressed with his extensive knowledge of the music playing on the jukebox . A whirlwind romance quickly led to marriage. Coming from a good middle-class family, Sonoko is accustomed to a certain level of life’s comforts, and is now plagued with worry since Mitch quit his job to freelance as a DJ. She found his hobby charming when he was freelancing at night and working a respectable job during the day, but  Sonoko is convinced that there is no way for Mitch to actually succeed in this wild plan to make it big.
-
    [4BA] 0x18DC3647841CADF7: Stan
    [4BB] 0x50E6B03B4F7310D3: Stardust
    [4BC] 0xB0FDD4A232DF4C73: Stardust is happily married to her soul mate and fellow environmentalist, Brandon. She couldn’t imagine how life could be better until the day she and Brandon decided to make their family complete (and help others at the same time) with the adoption of young August. Now she balances helping the environment with being a great mom – teaching August how to be a fine, upstanding, environmentally conscious citizen. Stardust’s naturally friendly demeanor makes it very difficult for anyone to dislike her, even those who disagree with the Woods’ anti-expansionist agenda.
-
    [4BD] 0x2B43467254D3780F: Staunch
    [4BE] 0x433A33D304358BE1: Steele
    [4BF] 0x5AEB1A857CC5FC2C: Steve
    [4C0] 0x1939B1EB4DB2291E: Steve has performed all over the world in the most extravagant venues as accomplished Illusionist known for an old school approach. He also likes to combine work with pleasure, using his travel as an excuse to get in a little adventuring along the way. Most recently Steve was in Al Simhara in search of rare artifacts in the Great Pyramid where he was attacked by a mummy. With a little bit of luck and a few impressive illusions, Steve made his great escape and cashed in on a very rare Plum Stone. Using his new found fortune, he decided to invest in a venue in hopes of attracting new world class talent to his hometown.
-
    [4C1] 0x92F6B2D331E007AF: Stratz
    [4C2] 0xDB13127A92D777FB: Sun
    [4C3] 0x65DD5085839EF147: Susan
    [4C4] 0xDB01FE7A92C8E20C: Taj
    [4C5] 0x851B345B66AE7043: Talan
    [4C6] 0xA94C3EFA36A2111B: Talan has always known he’s destined to be a famous performer, and with his friendly nature, winning smile, and natural flair, success seems inevitable. However, his father has other plans. Will Talan ever be able to realize his dreams of performing on stage while balancing his father's demand to study hard and get a "real career"?
-
    [4C7] 0xA929AD5B7B81030F: Terry
    [4C8] 0x0713995BB04F0222: Trice
    [4C9] 0xED8295476B8BFD5B: Twit
