@@ -2563,8 +2563,8 @@ Unknown3: 0x00000000
    [09FE] 0xC09C68BF64CB442A: “It is so good to see you again. My word, is that the Ruby of Sakhara? It appears the trip to Egypt wasn’t entirely filled with frustration, was it? I hope this reward adequately expresses my appreciation!”
    [09FF] 0xCAFB8630277D8641: Report Success to {2.String}
    [0A00] 0x461631A69C8953F4: Report Success to {2.String}
-   [0A01] 0xFD6413C71886BB97: “Here is the Ruby of Sakhara as promised. I belive the other gems are in France. Myth states that the Sapphire of the Crescent Moon lies in the tomb of Jean Necteaux’s wife, Isael who is burried near her husband. I suggest you return to France and speak to {2.String}."
-   [0A02] 0xA786FD6490906286: “Here is the Ruby of Sakhara as promised. I belive the other gems are in France. Myth states that the Sapphire of the Crescent Moon lies in the tomb of Jean Necteaux’s wife, Isael who is burried near her husband. I suggest you return to France and speak to {2.String}."
+   [0A01] 0xFD6413C71886BB97: “Here is the Ruby of Sakhara as promised. I believe the other gems are in France. Myth states that the Sapphire of the Crescent Moon lies in the tomb of Jean Necteaux’s wife, Isael who is buried near her husband. I suggest you return to France and speak to {2.String}.”
+   [0A02] 0xA786FD6490906286: “Here is the Ruby of Sakhara as promised. I believe the other gems are in France. Myth states that the Sapphire of the Crescent Moon lies in the tomb of Jean Necteaux’s wife, Isael who is buried near her husband. I suggest you return to France and speak to {2.String}.”
    [0A03] 0x7E110581DBCACE07: Losing the Ruby of Sakhara is an unparalleled disaster. {1.SimFirstName} cannot continue without it!.
    [0A04] 0x9F7DED19DD279E76: Losing the Ruby of Sakhara is an unparalleled disaster. {1.SimFirstName} cannot continue without it!.
    [0A05] 0xF122EA4D1631429C: “Report Success” to {2.String} in Champs Les Sims, France.
