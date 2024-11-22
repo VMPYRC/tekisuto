@@ -95,7 +95,7 @@ Unknown3: 0x00000000
    [05A] 0xBF6398A112001564: Eight-armed wonder of wide salty seas, Pirate Queen Olivia Octopi roams with her crew fighting injustice beneath the waves and keeping perhaps a bit of the plunder for herself and her pals. Though never violent, Olivia is a fearsome foe who can unleash an ink cloud at a moment's notice, confusing her enemies and abetting her getaway. Always at her side are her loyal crew members Cassie the seahorse and Elmo the striped fish.
    [05B] 0xD351D6ECF2651ABB: This is an award for Art Club President.
    [05C] 0x1E7C07FC5AE5DB6B: This is an award for Leads in the Drama Club.
-   [05D] 0x795BBD0CD92F839F: This is a souvenir from attendind a Field Trip to a Graveyard.
+   [05D] 0x795BBD0CD92F839F: This is a souvenir from attending a Field Trip to a Graveyard.
    [05E] 0x8263520104D3AF54: Fuel the overactive imaginations of your little prince or princess by hanging this kiddiefied representation of the middle ages on their wall. They'll spend hours dreaming dashing adventures in medieval times, fighting dragons and tilting at windmills. Cute, but not scary, this is safe, non-nightmare inducing decor for your little ones!
    [05F] 0x79AB099C32A63DDF: Embrace your inner girly-girl by adorning your bedroom wall, school locker, or study room with this ridiculously adorable framed picture. Hang it by its cute bow and rest assured that its incredible femininity will act as a protective shield from the sticky fingers of your nosy little brother.
    [060] 0x415819A37F230218: The is the Age Freeze Potion.
