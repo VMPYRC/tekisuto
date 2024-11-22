@@ -123,7 +123,7 @@ Unknown3: 0x00000000
    [076] 0xB44AFE013EF38E8C: Rainbow Flower Petals 1
    [077] 0xCDDA7F014D4ED43D: Rainbow Flower Petals 2
    [078] 0x0969E26AB8EB58B8: Simply the greatest performance guitar ever constructed. The hollow body keeps it light for onstage theatrics, and touch sensors along the neck give you the world’s fastest fretboard.
-   [079] 0xF066DAFE46DAF891: Ordinary instruments are so primitive: plucking taut strings, blowing air through tubes. The sparkling new Laser Rhythm-a-con is a new approach to the ancient language of music, manipulated through laser controls!
+   [079] 0xF066DAFE46DAF891: Ordinary instruments are so primitive: plucking taut strings, blowing air through tubes. The sparkling new Laser Harp is a new approach to the ancient language of music, manipulated through laser controls!
    [07A] 0x7CDEF465C2AFD09B: Your child deserves to sit and eat in total security. The planet deserves totally nontoxic eco-friendly construction. As always, Wiggin is here to please both parents and their little ones!
    [07B] 0xD038F4FD1A679F28: We all need a friend sometimes; a close and special relationship we don’t have to share with others. Holo Sprites provide warm, instant companionship – but they’ll need tender loving care to keep their mood up!
    [07C] 0x53980FAB017A4624: Living, breathing plants are notoriously needy: always whining for things like water and sunlight. Sidestep such corporeal concerns by “planting” these holographic replacements anywhere you like!
@@ -485,7 +485,7 @@ Unknown3: 0x00000000
    [1E0] 0x316111D9C8232D59: Rainbow Flower Petals 1
    [1E1] 0x161E90D9B85653A8: Rainbow Flower Petals 2
    [1E2] 0xED4DFF4246C26FE3: Apogee Ultra Model SD9 Guitar
-   [1E3] 0xAE9E670FE6B41578: Laser Rhythm-a-con by Arasika Industries
+   [1E3] 0xAE9E670FE6B41578: Laser Harp by Arasika Industries
    [1E4] 0xF2DBE3ABBC3C61EB: harpLaser_jig DO NOT TRANSLATE
    [1E5] 0xE9A6B4903ED79F86: Sky High Chair by Wiggin Youth Architecture
    [1E6] 0x20A39B3DBFE2319B: Bright Sprite Holo Disc by Arasika Industries
@@ -1578,8 +1578,8 @@ Unknown3: 0x00000000
    [625] 0xEFA8ACFD3C3C3FE3: You didn’t have enough Trait Chips to spare.
    [626] 0xA56A61C92B58CD6A: Trait Chips for Others
    [627] 0xB5AE63149D96FC3A: Deliver {1.Number} Trait Chips to {2.SimName}
-   [628] 0x1378F105B3CCF2DE: Although someone else received an award, you stole the show with you epic Laser Rhythm-a-con skills!
-   [629] 0x35F9BE6BC8B43A3A: There’s an Award Ceremony scheduled to honor an important Sim. The organizers are looking for an accomplished Laser Rhythm-a-con player to provide the music! Are you up to the challenge?
+   [628] 0x1378F105B3CCF2DE: Although someone else received an award, you stole the show with you epic Laser Harp skills!
+   [629] 0x35F9BE6BC8B43A3A: There’s an Award Ceremony scheduled to honor an important Sim. The organizers are looking for an accomplished Laser Harp player to provide the music! Are you up to the challenge?
    [62A] 0xBBEC3AB848AAE5FA: Playing at the Award Ceremony just seemed too overwhelming so decided not to play.
    [62B] 0x4F3FCFB0768546C5: Award Ceremony
    [62C] 0x1B857340D26127F5: Play for the Award Ceremony at {OpTarget}.
@@ -1658,31 +1658,31 @@ Unknown3: 0x00000000
    [675] 0x9D162376CEC64888: Wings of Thunder 
    [676] 0x933F92A7B683A744: Used a Jetpack to Show off Flying Skills {0.Number} out of {1.Number} times.
    [677] 0x0250EBB837F08366: You demonstrated the courage to play the big stage and the audience loved the performance.
-   [678] 0xD978D39B827A1272: It’s one thing to play the Laser Rhythm-a-con well; you have the talent to play very well. It’s time for a stage befitting your potential: the local Theater!
+   [678] 0xD978D39B827A1272: It’s one thing to play the Laser Harp well; you have the talent to play very well. It’s time for a stage befitting your potential: the local Theater!
    [679] 0x711BDEE383D417F2: Everyone gets stage jitters, especially with such a complicated instrument. Keep practicing!
    [67A] 0xA6391C85F99F8BED: Laser-Light Symphony
-   [67B] 0x6CF20246E71F978D: Play a Laser Rhythm-a-con show at {OpTarget}.
+   [67B] 0x6CF20246E71F978D: Play a Laser Harp show at {OpTarget}.
    [67C] 0x913074F37AD4E38D: What a great musical show! The diners loved it!
-   [67D] 0x204A33704F5C9363: The Laser Rhythm-a-con is best enjoyed as the accompaniment to a fine meal. Show off your skills by playing a show for the diners at a local restaurant.
-   [67E] 0xFC5CC64937F8BC5B: You decided not to play your Laser Rhythm-a-con for the diners while they eat.
+   [67D] 0x204A33704F5C9363: The Laser Harp is best enjoyed as the accompaniment to a fine meal. Show off your skills by playing a show for the diners at a local restaurant.
+   [67E] 0xFC5CC64937F8BC5B: You decided not to play your Laser Harp for the diners while they eat.
    [67F] 0x8FD64EA2F8B9F6B2: To Aid the Digestion
-   [680] 0x2220023555171C12: Play the Laser Rhythm-a-con for diners at {OpTarget}.
-   [681] 0x9F0355C0E9EE88A8: The crowd and competitors roared in approval over your awesome Laser Rhythm-a-con show!
-   [682] 0x4CBF438D11FCD1FC: Nothing goes with the shrieks of grinding metal like the mind-expanding tones of a Laser Rhythm-a-con! Show off your musical talents at the local Bot Arena.
+   [680] 0x2220023555171C12: Play the Laser Harp for diners at {OpTarget}.
+   [681] 0x9F0355C0E9EE88A8: The crowd and competitors roared in approval over your awesome Laser Harp show!
+   [682] 0x4CBF438D11FCD1FC: Nothing goes with the shrieks of grinding metal like the mind-expanding tones of a Laser Harp! Show off your musical talents at the local Bot Arena.
    [683] 0x35B2347C87841060: You didn’t have the guts to get on stage and perform for the arena crowd.
    [684] 0x90DF009705FF96F3: Arena Accompaniment
-   [685] 0x75FF81C0D84E8DEF: Play a Laser Rhythm-a-con show at {OpTarget}.
+   [685] 0x75FF81C0D84E8DEF: Play a Laser Harp show at {OpTarget}.
    [686] 0x7FBD7E1104F7EF1F: Performing in public is brutal work, but you displayed the emotional fortitude to stick it out!
-   [687] 0xD871443CD56B82ED: What’s the point of a musical gift if you don’t share it? Play your Laser Rhythm-a-con for Sims far and wide! Earn some Simoleons while you’re at it.
+   [687] 0xD871443CD56B82ED: What’s the point of a musical gift if you don’t share it? Play your Laser Harp for Sims far and wide! Earn some Simoleons while you’re at it.
    [688] 0x80F2D16123358421: You decided more practice was needed before gathering up the courage to perform in public.
-   [689] 0x616EDD6D4EA72AA6: Earn {10.Money} in Tips with the Laser Rhythm-a-con.
+   [689] 0x616EDD6D4EA72AA6: Earn {10.Money} in Tips with the Laser Harp.
    [68A] 0x7380326D5918F2F8: Blow Their Minds
-   [68B] 0x4374986388BD0214: Earned {0.Money} of {1.Money} in Tips with the Laser Rhythm-a-con.
+   [68B] 0x4374986388BD0214: Earned {0.Money} of {1.Money} in Tips with the Laser Harp.
    [68C] 0xB3AA3D27B02B10AA: Every song is difficult when playing a four-limbed instrument, but you just learned a new one!
-   [68D] 0x2AE428A08E9EA7DE: Learning any single song on the Laser Rhythm-a-con takes a long time, but virtuosos must learn a wide variety of compositions to win the public’s respect.
-   [68E] 0x88E641B4C8A0FC56: You already knew plenty of songs on the Laser Rhythm-a-con so there was no need to learn another.
+   [68D] 0x2AE428A08E9EA7DE: Learning any single song on the Laser Harp takes a long time, but virtuosos must learn a wide variety of compositions to win the public’s respect.
+   [68E] 0x88E641B4C8A0FC56: You already knew plenty of songs on the Laser Harp so there was no need to learn another.
    [68F] 0x4A15FC6789CF1241: Expand your Chromatic Catalogue
-   [690] 0xB313A8B7B4B8FEC1: Learn a new Laser Rhythm-a-con composition.
+   [690] 0xB313A8B7B4B8FEC1: Learn a new Laser Harp composition.
    [691] 0x309B33AA82BF9175: Magnificent specimens! See the fine articulation in their leg joints? It’s connected to tiny artificial muscles.
    [692] 0x88CB33911755B6BB: Plumbots have a fascinating and surprising history! They didn’t progress from automated vacuum cleaners; instead they evolved almost naturally. Hobbyist Sims built and collected insectoid robots called Nanites, eventually releasing them into the wild. I’ll explain more once you’ve caught some for me.
    [693] 0xF3F65DA9AC062A33: Wow, it looks like you already know all there is to know about Bots!
