@@ -929,17 +929,17 @@ Unknown3: 0x00000000
    [039C] 0xB3ABFE5B437F4AF0: Falafel Portfolio
    [039D] 0x998008B2A558BCA5: Bring a Group Serving of Great Falafel to Work
    [039E] 0x60009260AF47D5C0: Bring a Group Serving of Great Falafel to Work
-   [039F] 0xBCA562D318C921C9: Your crepes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
-   [03A0] 0xC3EADD04A888AE5C: Your crepes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
-   [03A1] 0xCD25DF4764A7E387: The smooth, papery-thin surface of a Crepe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crepes into work to establish your rank among the others. Your'll get a raise for your efforts.
-   [03A2] 0xC2981C61866C02F6: The smooth, papery-thin surface of a Crepe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crepes into work to establish your rank among the others. Your'll get a raise for your efforts.
+   [039F] 0xBCA562D318C921C9: Your crêpes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
+   [03A0] 0xC3EADD04A888AE5C: Your crêpes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
+   [03A1] 0xCD25DF4764A7E387: The smooth, papery-thin surface of a Crêpe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crêpe into work to establish your rank among the others. You’ll get a raise for your efforts.
+   [03A2] 0xC2981C61866C02F6: The smooth, papery-thin surface of a Crêpe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crêpes into work to establish your rank among the others. You’ll get a raise for your efforts.
    [03A3] 0xF2F48310DAA163B7: EP1_CareerCulinary_FrenchFoodFailure
-   [03A4] 0x8DBD3AE585850CCC: Learn the recipe for Crepes, cook a serving, then bring it to work to earn a raise.
-   [03A5] 0x0A14D5C2C1C66CCF: Learn the recipe for Crepes, cook a serving, then bring it to work to earn a raise.
-   [03A6] 0xC0F74FE5A2527F3E: Create-a-Crepe
-   [03A7] 0x4F3E5466E1F85FB5: Create-a-Crepe
-   [03A8] 0xA5F70255E3F2F4EE: Bring a Group Serving of Great Crepes to Work
-   [03A9] 0x67B353DF492DA825: Bring a Group Serving of Great Crepes to Work
+   [03A4] 0x8DBD3AE585850CCC: Learn the recipe for Crêpes, cook a serving, then bring it to work to earn a raise.
+   [03A5] 0x0A14D5C2C1C66CCF: Learn the recipe for Crêpes, cook a serving, then bring it to work to earn a raise.
+   [03A6] 0xC0F74FE5A2527F3E: Create-a-Crêpe
+   [03A7] 0x4F3E5466E1F85FB5: Create-a-Crêpe
+   [03A8] 0xA5F70255E3F2F4EE: Bring a Group Serving of Great Crêpes to Work
+   [03A9] 0x67B353DF492DA825: Bring a Group Serving of Great Crêpes to Work
    [03AA] 0xDAF431DBFEAB90DF: The French locals had amazing tips on balancing flavor and texture in your dishes. Your Cooking skill improved as a result of this knowledge and you got a raise.
    [03AB] 0x96B0391829F5B3AE: The French locals had amazing tips on balancing flavor and texture in your dishes. Your Cooking skill improved as a result of this knowledge and you got a raise.
    [03AC] 0xB88197D1BD872ADF: {1.SimFirstName} has secured a plethora of advice both good and generous. {1.SimFirstName} should head back home and report in on their findings.
@@ -3592,17 +3592,17 @@ Unknown3: 0x00000000
    [0E03] 0x1FA204F20F35A518: Business Negotiation
    [0E04] 0x6DB8FAB8F432181D: Negotiate Deal
    [0E05] 0x7EAC9AA173FE8498: Negotiate Deal
-   [0E06] 0xDEA90695611220E9: The new line cooks had never tasted Crepes so light and delicious. Your Cooking Skill has improved and the Bistro paid you some cash for the extra effort!
-   [0E07] 0x076989D0E87A043C: The new line cooks had never tasted Crepes so light and delicious. Your Cooking Skill has improved and the Bistro paid you some cash for the extra effort!
-   [0E08] 0xDF08431CEF5A1B27: The Bistro is training some new employees and would like to show them what Excellent quality Crepes look and taste like. They’ve asked you to prepare some at home and bring them in to the restaurant.
-   [0E09] 0x9F7BF3DCBB6039D6: The Bistro is training some new employees and would like to show them what Excellent quality Crepes look and taste like. They’ve asked you to prepare some at home and bring them in to the restaurant.
+   [0E06] 0xDEA90695611220E9: The new line cooks had never tasted Crêpes so light and delicious. Your Cooking Skill has improved, and the Bistro paid you some cash for the extra effort!
+   [0E07] 0x076989D0E87A043C: The new line cooks had never tasted Crêpes so light and delicious. Your Cooking Skill has improved, and the Bistro paid you some cash for the extra effort!
+   [0E08] 0xDF08431CEF5A1B27: The Bistro is training some new employees and would like to show them what Excellent quality Crêpes look and taste like. They’ve asked you to prepare some at home and bring them in to the restaurant.
+   [0E09] 0x9F7BF3DCBB6039D6: The Bistro is training some new employees and would like to show them what Excellent quality Crêpes look and taste like. They’ve asked you to prepare some at home and bring them in to the restaurant.
    [0E0A] 0xF56DC7913C445857: EP1_SkillCooking_GetCrepesFailure
-   [0E0B] 0xA62518CCB1A8B5EC: Bring a serving of Excellent Crepes to the Restaurant to receive a payment.
-   [0E0C] 0x8D97352C2E61BC2F: Bring a serving of Excellent Crepes to the Restaurant to receive a payment.
-   [0E0D] 0xDCC62DCCD15B045E: Some fine Crepes
-   [0E0E] 0xD61966BF3EDC9E95: Some fine Crepes
-   [0E0F] 0x26893B4F50FDE10E: Prepare Crepes
-   [0E10] 0x274266495F51D985: Prepare Crepes
+   [0E0B] 0xA62518CCB1A8B5EC: Bring a serving of Excellent Crêpes to the Restaurant to receive a payment.
+   [0E0C] 0x8D97352C2E61BC2F: Bring a serving of Excellent Crêpes to the Restaurant to receive a payment.
+   [0E0D] 0xDCC62DCCD15B045E: Some Fine Crêpes
+   [0E0E] 0xD61966BF3EDC9E95: Some Fine Crêpes
+   [0E0F] 0x26893B4F50FDE10E: Prepare Crêpes
+   [0E10] 0x274266495F51D985: Prepare Crêpes
    [0E11] 0x3D1A1093FDD92390: You delivered the batches of Falafel to a very grateful restaurant owner. You were paid some money for the order and you improved your Cooking Skill at the same time!
    [0E12] 0xB4324D09037031EB: You delivered the batches of Falafel to a very grateful restaurant owner. You were paid some money for the order and you improved your Cooking Skill at the same time!
    [0E13] 0x2D541EB7BFD3F094: Falafel is the latest food craze in town and the Bistro just can’t keep up with the amount of orders that are coming in! The owner is ordering from anyone who can make a good amount of homemade Falafel.
@@ -4265,7 +4265,7 @@ Unknown3: 0x00000000
    [10A4] 0x9ED38584D5064D68: Haggling The Final Details...
    [10A5] 0x9ED38584D5064D6F: Seeking Adventure...
    [10A6] 0x9ED38584D5064D6E: Surviving Vaughan’s Tomb...
-   [10A7] 0x9ED38584D5064D6D: Creating-a-Crepe...
+   [10A7] 0x9ED38584D5064D6D: Creating-a-Crêpe...
    [10A8] 0x9ED38584D5064D6C: Check Out My Awesome Belt...
    [10A9] 0x9ED38584D5064D63: Sim Fu: Jumping Kicks...
    [10AA] 0x9ED38584D5064D62: Beware the spitting dragon...
