@@ -430,7 +430,7 @@ Unknown3: 0x00000000
    [01A9] 0xDF1C8FEA9FA8194F: The coziest of homes for the closest of families. Set on a large lot, the yard is yours for landscaping or outdoor parties.
    [01AA] 0x86013A7336AB7759: The Azalea House
    [01AB] 0x48314FCCC6B8C20D: The Citron House
-   [01AC] 0x80509E35B4327480: Camp Azelea
+   [01AC] 0x80509E35B4327480: Camp Azalea
    [01AD] 0xE31C2D75BC0C2098: Camp Chrysanthemum
    [01AE] 0x0290D017E20CFA79: Camp Lotus
    [01AF] 0x3740446F43E637FD: Camp Orchid
