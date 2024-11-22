@@ -122,7 +122,7 @@ Unknown3: 0x00000000
    [75] 0x80B651150198F4EF: Shelf By Konfection
    [76] 0xA5383DEBA5FE1F73: Slippy Sweet
    [77] 0x5A72160D9D4DE838: Pleasure Boat Sundae Sofa
-   [78] 0xB0288258964A1D47: Mr. Tootles' Swingset
+   [78] 0xB0288258964A1D47: Mr. Tootles' Swing Set
    [79] 0x7A3C4E35ECD6AE6D: Peppermint Plateau
    [7A] 0xDC13217847EB7436: The Sweet Spot
    [7B] 0x43F52EF7B6EB2C63: Sweet Picnic
