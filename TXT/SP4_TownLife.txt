@@ -59,7 +59,7 @@ Unknown3: 0x00000000
    [36] 0x706EE9556DFAABB1: Grandmaster Chess Set
    [37] 0x0C2004C21E68D27B: Geometric Column
    [38] 0x5A83EB7C3FEE3390: FolioBit 791A Laptop
-   [39] 0xB503285F29338714: Prodedural Generation Door
+   [39] 0xB503285F29338714: Procedural Generation Door
    [3A] 0x7AF4CC7ED903B324: Waves of Grain Door
    [3B] 0x37C1B97E214F8A26: Spin 'n Tumble Elite Dryer
    [3C] 0xDB13F8F91CD57A9A: Power Burn Station
