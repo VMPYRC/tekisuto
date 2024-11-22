@@ -2339,7 +2339,7 @@ Unknown3: 0x00000000
    [91E] 0xD5EF57113B66436C: You didn’t bring a painting to work in time.
    [91F] 0x7CF1886D2D287389: Create a Large Street Art Mural and return to Work
    [920] 0x49B7B36D105B6E7F: Skilled Painting
-   [921] 0xC8F50538F9B4875B: Paint a Large painting worth at least 1000 Simoleons, and then bring it back to work.
+   [921] 0xC8F50538F9B4875B: Paint a Large painting worth at least §1000, and then bring it back to work.
    [922] 0x774A406D7B23E393: The delivery went very well and you even received a tip for your effort.
    [923] 0x35C53531A9517E29: A large order has come in for {OpTarget} and needs to be delivered promptly. Completing this task promptly will certainly increase your standing with your manager.
    [924] 0x56ACD07DBD154FC5: You didn’t deliver the paintings in time so the client went with someone else.

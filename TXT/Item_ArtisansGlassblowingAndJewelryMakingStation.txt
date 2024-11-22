@@ -66,7 +66,7 @@ Unknown3: 0x00000000
    [3D] 0x5170BDE1859FEC7E: Braided Bracelet
    [3E] 0x8BC113C3816E68DD: Double Braid Necklace
    [3F] 0x36267D7C4B0AA966: Ancient Artifact Necklace
-   [40] 0x6D667EC3D58A455E: Well done! {0.SimFirstName} just made a {2.String} quality item worth {1.Number} Simoleons! 
+   [40] 0x6D667EC3D58A455E: Well done! {0.SimFirstName} just made a {2.String} quality item worth §{1.Number} !
    [41] 0xE9CD0A274DB5864C: Masterpiece
    [42] 0x3611C532974FBAAD: Brilliant
    [43] 0xFC64CE8A13080529: Low 

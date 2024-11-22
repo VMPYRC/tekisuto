@@ -549,16 +549,16 @@ Unknown3: 0x00000000
    [220] 0xDD98904DAE167C78: Attend Ceremony at {OpTarget}
    [221] 0xCB513D4DA3772852: After School Reward Ceremony
    [222] 0xA5E3F2C01AEC34B2: Attend Ceremony at {OpTarget}
-   [223] 0x2283568F7F4E140B: The potion is ready! Report to {OpTarget} with 4500 Simoleons and we'll deliver the goods!
+   [223] 0x2283568F7F4E140B: The potion is ready! Report to {OpTarget} with §4500 and we'll deliver the goods!
    [224] 0xCE1E1D0C5B366D11: We here at your local science lab have taken notice of {OpOwner}'s tendencies to interact with an invisible being. Our readings have confirmed a unique energy source that we would like to bring to life. We need {OpOwner} to send a Rainbow Gem to {OpTarget} so we can concoct a potion. 
    [225] 0x93E64BBF30A0F68A: Collect a Rainbow Gem and send it to {OpTarget} from your Sim's inventory
    [226] 0x618578BF148BE524: When Dreams Come True
    [227] 0x36EC35C003703B10: Collect a Rainbow Gem and send it to {OpTarget}
    [228] 0xA7CDB0B0BCBFB622: Offer the potion to your Imaginary Friend to complete the process! With your help, we should be able to prove that Imaginary Friends do exist and, most importantly, can be a part of any Sim's life! Should you have more Imaginary Friends that need to be turned real, please don't hesitate to visit your local science facility!
    [229] 0x050C832D1AC72AE6: We here at your local science lab have taken notice of {OpOwner}'s tendencies to interact with an invisible being. Our readings have confirmed a unique energy source that we would like to bring to life. We need {OpOwner} to send us a Rainbow Gem for us to concoct a potion. 
-   [22A] 0xCA68AB9485BC06FB: Report to {OpTarget} with 4500 Simoleons
+   [22A] 0xCA68AB9485BC06FB: Report to {OpTarget} with §4500
    [22B] 0xFFF99E94A486E859: When Dreams Come True
-   [22C] 0x21784A4FFB14CFA9: Report to {OpTarget} with 4500 Simoleons
+   [22C] 0x21784A4FFB14CFA9: Report to {OpTarget} with §4500
    [22D] 0x2C99CC262245B5E4: Excellent work! Gems and metals are scattered all over the world, just waiting to be gathered into a home collection!
    [22E] 0x2252973EEF980930: In an attempt to get kids excited about geology, the Rockhounding Club at {OpTarget} has sponsored a scavenger hunt to retrieve various gems and metals from around town. They're offering a cash prize to any kid who manages to collect them and bring them to the lab.
    [22F] 0x403F6EAD7A787409: Collect the required items and turn them in at {OpTarget}

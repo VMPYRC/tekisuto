@@ -841,15 +841,15 @@ Unknown3: 0x00000000
    [0344] 0x1332634BD20C0B58: EP1_CareerBusiness_GetNectarProgress
    [0345] 0x193E00208748B749: You somehow managed to get the expensive Relic through customs unnoticed! It was a crazy feat and you won the bet!
    [0346] 0x92E67B5C90D092DC: You somehow managed to get the expensive Relic through customs unnoticed! It was a crazy feat and you won the bet!
-   [0347] 0xA40EA9DA2772EC07: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of simoleans that you can’t pull it off.
-   [0348] 0xC00AABC138954876: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of simoleans that you can’t pull it off.
+   [0347] 0xA40EA9DA2772EC07: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of Simoleons that you can’t pull it off.
+   [0348] 0xC00AABC138954876: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of Simoleons that you can’t pull it off.
    [0349] 0xDEE707B1CD222437: EP1_CareerBusiness_GetRelicFailure
-   [034A] 0xD97756D66A0D4E4C:  Bring a Relic worth at least 750 Simoleons to work with you.
-   [034B] 0xE0FDA0558491754F: Bring a Relic worth at least 750 Simoleons to work with you.
+   [034A] 0xD97756D66A0D4E4C:  Bring a Relic worth at least §750 to work with you.
+   [034B] 0xE0FDA0558491754F: Bring a Relic worth at least §750 to work with you.
    [034C] 0x0CB16BD686DAC0BE: A Priceless Bet
    [034D] 0x26271EF9A4C36835: A Priceless Bet
-   [034E] 0x13CEDFD1F4BA0E6E: Bring a Relic worth at least 750 Simoleons home from abroad
-   [034F] 0xA132A4F07AEB78A5: Bring a Relic worth at least 750 Simoleons home from abroad
+   [034E] 0x13CEDFD1F4BA0E6E: Bring a Relic worth at least §750 home from abroad
+   [034F] 0xA132A4F07AEB78A5: Bring a Relic worth at least §750 home from abroad
    [0350] 0x0BCF1BCC23B13DCC: It took a lot of smooth talking but you managed to get the heavy package to its destination. The Al-Shang-Sim network agreed to pay an additional chunk of your salary!
    [0351] 0x155B2CB9B4C657CF: It took a lot of smooth talking but you managed to get the heavy package to its destination. The Al-Shang-Sim network agreed to pay an additional chunk of your salary!
    [0352] 0x05B4B887DD48C028: You have the honor of being a guest runner for the Al-Shang-Sim criminal network. There’s a heavy item in your inventory for delivery to a local contact in Shang Simla. Complete the delivery and report back to work to increase your job performance and earn a raise.
@@ -2403,8 +2403,8 @@ Unknown3: 0x00000000
    [095E] 0x8BA0E3775E3CD55E: Take a Photo of a Mummy and deliver it to {2.String} to earn Simoleons, Ancient Coins, and Visa Points.
    [095F] 0xF7D7CCBE0F2A5CC5: Proof of Mummification
    [0960] 0x587A839F120A9DF5: Photograph a Mummy
-   [0961] 0xA4B7A3E943A33B16: "For those Cursed by a Mummy, hope is not lost! I, {2.String}, know of a cure! If you would cure yourself of this vile befoulment, come before me. Please bring a trinket or some kind that I might know your interest in the matter. A Relic worth at least 150 Simoleons would be fine."
-   [0962] 0xB3BF66C71FAE84AB: Deliver a Relic worth 150 Simoleons to {2.String} to learn how to cure the curse.
+   [0961] 0xA4B7A3E943A33B16: "For those Cursed by a Mummy, hope is not lost! I, {2.String}, know of a cure! If you would cure yourself of this vile befoulment, come before me. Please bring a trinket or some kind that I might know your interest in the matter. A Relic worth at least §150 would be fine."
+   [0962] 0xB3BF66C71FAE84AB: Deliver a Relic worth §150 to {2.String} to learn how to cure the curse.
    [0963] 0xEA2959C73F315729: Cursed!
    [0964] 0xD3F33AA07998037C: Cursed!
    [0965] 0x508A324D3F31BD19: Deliver Relic to {2.String}
@@ -2556,9 +2556,9 @@ Unknown3: 0x00000000
    [09F7] 0x59A5BD8DB41ECD3A: “Deliver” {9.Number} pieces of Titanium to {2.SimName} to receive Simoleons.
    [09F8] 0x71A50275928BA081: More Materials Needed
    [09F9] 0xA84063A7179CD601: Deliver Metal
-   [09FA] 0x9E12CEC1DCC8D3C0: “I was able to locate the Ruby while you were gone. Seeing as how the Ruby didn't come cheap, if you could bring me one more Relic worth at least 500 Simoleons I would greatful. I may have a few for sale right here in my store if you wanted to purchase it, Ha Ha Ha!"
-   [09FB] 0x1D3D8646E71F4CD9: Purchase or obtain a Relic worth 500 Simoleons from {2.String}, then “Deliver” Relic to {2.String} to receive the Ruby of Sakhara.
-   [09FC] 0x8C508FFF8F1B462C: Purchase or obtain a Relic worth 500 Simoleons from {2.String}, then “Deliver” Relic to {2.String} to receive the Ruby of Sakhara.
+   [09FA] 0x9E12CEC1DCC8D3C0: “I was able to locate the Ruby while you were gone. Seeing as how the Ruby didn't come cheap, if you could bring me one more Relic worth at least §500 I would greatful. I may have a few for sale right here in my store if you wanted to purchase it, Ha Ha Ha!"
+   [09FB] 0x1D3D8646E71F4CD9: Purchase or obtain a Relic worth §500 from {2.String}, then “Deliver” Relic to {2.String} to receive the Ruby of Sakhara.
+   [09FC] 0x8C508FFF8F1B462C: Purchase or obtain a Relic worth §500 from {2.String}, then “Deliver” Relic to {2.String} to receive the Ruby of Sakhara.
    [09FD] 0xE7767146C826A1AF: A Little Too Sleazy
    [09FE] 0xC09C68BF64CB442A: “It is so good to see you again. My word, is that the Ruby of Sakhara? It appears the trip to Egypt wasn’t entirely filled with frustration, was it? I hope this reward adequately expresses my appreciation!”
    [09FF] 0xCAFB8630277D8641: Report Success to {2.String}
@@ -2704,9 +2704,9 @@ Unknown3: 0x00000000
    [0A8B] 0x873310A7BA2C9FB2: The Black Market
    [0A8C] 0x3F3F3E7A1824D512: “Seek Assistance” from {2.String}
    [0A8D] 0xAEA7480520857181: “Seek Assistance” from {2.String}
-   [0A8E] 0xEC63F748E8B564FC: "The legendary gems of the Pharaoh Anak-Rus’ crown! The legends speak of a sapphire more blue than the sky on the clearest day, a ruby a deeper red than fresh blood, and an emerald more piercing green than the eye of a cobra. I will help you find them. They would be truly great treasures to own. As luck will have it, I believe I know where the Ruby of Sakhara is.\n\nBefore I dispense this information, I require a simple donation to my private holdings of a {9.Number} Relics worth at least 200 Simoleons. That is reasonable, yes?”
-   [0A8F] 0x76CE6F9BBD8C8FF5: Deliver {9.Number} Relics worth at least 200 Simoleons to {2.String}.
-   [0A90] 0x81D8812CCDB17610: Deliver {9.Number} Relics worth at least 200 Simoleons to {2.String}.
+   [0A8E] 0xEC63F748E8B564FC: "The legendary gems of the Pharaoh Anak-Rus’ crown! The legends speak of a sapphire more blue than the sky on the clearest day, a ruby a deeper red than fresh blood, and an emerald more piercing green than the eye of a cobra. I will help you find them. They would be truly great treasures to own. As luck will have it, I believe I know where the Ruby of Sakhara is.\n\nBefore I dispense this information, I require a simple donation to my private holdings of a {9.Number} Relics worth at least §200. That is reasonable, yes?”
+   [0A8F] 0x76CE6F9BBD8C8FF5: Deliver {9.Number} Relics worth at least §200 to {2.String}.
+   [0A90] 0x81D8812CCDB17610: Deliver {9.Number} Relics worth at least §200 to {2.String}.
    [0A91] 0x883BC29BC7723FF3: The Sleazy Merchant
    [0A92] 0xE9306B175B36A6DA: The Sleazy Merchant
    [0A93] 0xAE568FB489A4A4B0: “These plants are beautiful! I’ll put them on the wall as soon as I select a frame for them. You’re my hero for the day! Here is the money I promised.”
