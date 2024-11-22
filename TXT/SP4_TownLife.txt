@@ -117,7 +117,7 @@ Unknown3: 0x00000000
    [70] 0xD03ACB38E8A6CCC4: Adjusting Incline
    [71] 0xD03ACB38E8A6CCC5: Waxing Slide Surface
    [72] 0xD03ACB38E8A6CCC2: Sizing Shirt Collars
-   [73] 0xD03ACB38E8A6CCC3: Curling Dumbells
+   [73] 0xD03ACB38E8A6CCC3: Curling Dumbbells
    [74] 0xD03ACB38E8A6CCC0: Alphabetizing Books
    [75] 0xD03ACB38E8A6CCC1: Assembling Playground
    [76] 0xD03ACB38E8A6CCCE: Burning Calories
