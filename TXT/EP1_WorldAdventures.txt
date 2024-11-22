@@ -841,8 +841,8 @@ Unknown3: 0x00000000
    [0344] 0x1332634BD20C0B58: EP1_CareerBusiness_GetNectarProgress
    [0345] 0x193E00208748B749: You somehow managed to get the expensive Relic through customs unnoticed! It was a crazy feat and you won the bet!
    [0346] 0x92E67B5C90D092DC: You somehow managed to get the expensive Relic through customs unnoticed! It was a crazy feat and you won the bet!
-   [0347] 0xA40EA9DA2772EC07: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of simoleans that you can’t pull it off.
-   [0348] 0xC00AABC138954876: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of simoleans that you can’t pull it off.
+   [0347] 0xA40EA9DA2772EC07: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of Simoleons that you can’t pull it off.
+   [0348] 0xC00AABC138954876: One of your thrill-seeking co-workers has dared you to smuggle a near priceless artifact from abroad back home. The bet is a big pot of Simoleons that you can’t pull it off.
    [0349] 0xDEE707B1CD222437: EP1_CareerBusiness_GetRelicFailure
    [034A] 0xD97756D66A0D4E4C:  Bring a Relic worth at least 750 Simoleons to work with you.
    [034B] 0xE0FDA0558491754F: Bring a Relic worth at least 750 Simoleons to work with you.
