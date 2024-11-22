@@ -1296,7 +1296,7 @@ Unknown3: 0x00000000
    [50B] 0x961C29A610D65F8D: Order a Drink.
    [50C] 0x9AC2058D4328370A: "Wow…this painting is magnificent! I simply must have it for my collection. The other collectors will be quite jealous of this find."
    [50D] 0x4276DA4B63E57FBE: "This must be the {OpOwner} I've been hearing about. I'm {OpTarget} and I've heard quite a bit about you in the art collecting community. I would be honored if you brought me a sample of your work. If it's good, I might be able to turn your talent into fame."
-   [50E] 0xB416FD1994EBD233: "Deliver" a painting worth at least {OpItemWorth} Simoleons.
+   [50E] 0xB416FD1994EBD233: "Deliver" a painting worth at least §{OpItemWorth}.
    [50F] 0xE751D019B1BA87A1: Popular Painter
    [510] 0x8F08A0F11298BF21: Deliver Painting.
    [511] 0xE973C362C6BD210D: "{OpOwner}, it's your agent. I have a job that might interest you. The owner of that restaurant, {OpTarget}, really wants you to talk up the restaurant around town. I have no idea if the food is any good, though. Maybe you should go try it first."
@@ -1612,11 +1612,11 @@ Unknown3: 0x00000000
    [647] 0x8080724084DAC617: Easy Theater Job
    [648] 0xC0A7D56C26DF8783: "Work at Event" at {OpTarget}.
    [649] 0x54F14349E46D6395: {OpOwner} did it! {MA.He}{FA.She} was the first one here and won the grand prize! Keep up the good work.
-   [64A] 0xB4FBAC7137EE925B: The local Mixologists' Chapter is trying to get people out and working the trade. To drum up interest, they're running a contest to see who can be the first to make {OpNumEventsGoal} Simoleons while moonlighting. Perhaps {OpOwner} should get in on this competition. Check in at {OpTarget} after reaching the required amount.
+   [64A] 0xB4FBAC7137EE925B: The local Mixologists' Chapter is trying to get people out and working the trade. To drum up interest, they're running a contest to see who can be the first to make §{OpNumEventsGoal} while moonlighting. Perhaps {OpOwner} should get in on this competition. Check in at {OpTarget} after reaching the required amount.
    [64B] 0x5690F3C74EB86DD3: {OpOwner} didn't quite make it. The organizers contacted the participants to let them know all the prizes have been collected. So sorry!
-   [64C] 0x7D84124734F0B130: Make {OpNumEventsGoal} Simoleons while moonlighting as a mixologist and turn it in at {OpTarget} for a prize!
+   [64C] 0x7D84124734F0B130: Make §{OpNumEventsGoal} while moonlighting as a mixologist and turn it in at {OpTarget} for a prize!
    [64D] 0x6B72BF472A7EECBA: The Top Tip
-   [64E] 0xC882AB95213BFFEA: {OpNumEventsCurrent} / {OpNumEventsGoal} Simoleons raised moonlighting.
+   [64E] 0xC882AB95213BFFEA: §{OpNumEventsCurrent} / §{OpNumEventsGoal} raised moonlighting.
    [64F] 0xE1D2F1236BCA0A8D: Sims can sleep easier tonight knowing that {OpOwner} played the bass for peace. 
    [650] 0x198A38E6BFEDD863: The military has developed an even bigger and more ungainly version of the bass. When the right notes are played, scientists can make contact with aliens. They need {OpOwner} to come by so they can negotiate peace. The sooner {MA.he}{FA.she} could come by, the better.
    [651] 0x40D86B99C0AC315B: What could have turned out to be a catastrophe was saved not by {OpOwner}, but by a scientist who happened to play the cello. Although the scientist didn't play the all the right notes, the series of notes he did play negotiated a potluck between the scientists and the aliens.
@@ -1729,7 +1729,7 @@ Unknown3: 0x00000000
    [6BC] 0xEA413BC33414D79C: {0.Money} / {1.Money} in Tips.
    [6BD] 0x36B8C4271D60EEB1: The comedians couldn't thank {OpOwner} enough. The audience was rolling on the floor thanks to perfectly timed jokes and perfectly timed rimshots!
    [6BE] 0xDA1C0AA63436DE9F: The International Slap Stick Convention is coming to town for the next few days and need a drummer to help with the delivery of the jokes. They've requested {OpOwner} play for some of the sessions because {MA.he}{FA.she} plays the funniest rimshots. Ba-doom-CHING!
-   [6BF] 0x8B65A99D49699EAF: What a disaster! Tomatoes and rubber chickens were being thrown at the stage as the comedians ran off. Without {OpOwner}'s drum skills, comedians claimed the audience was twenty-five percent of the act! The theater is demanding 100 Simoleons to help clean up the venue.
+   [6BF] 0x8B65A99D49699EAF: What a disaster! Tomatoes and rubber chickens were being thrown at the stage as the comedians ran off. Without {OpOwner}'s drum skills, comedians claimed the audience was twenty-five percent of the act! The theater is demanding §100 to help clean up the venue.
    [6C0] 0x993C60366017E624: "Play Rimshots" at {OpTarget}.
    [6C1] 0xCC4055367CB79346: Ba-doom-CHING!
    [6C2] 0xFB5B99304F219E86: "Play Rimshots".
