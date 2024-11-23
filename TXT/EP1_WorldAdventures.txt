@@ -880,8 +880,8 @@ Unknown3: 0x00000000
    [036B] 0x21EAB114D444A75A: The delivery went smoothly and you were commended for your discretion and professionalism. Its not easy to be a smooth criminal; you received a raise for a job well done.
    [036C] 0xDEC87F570618FF89: You’ve been given a thin paper package to deliver to a contact in Champs Les Sims, France. You suspect that it contains the names of all the major crime bosses on the continent. Pass on this crucial document and report back to work to receive a raise.
    [036D] 0x1FEB777CBCBA411C: You’ve been given a thin paper package to deliver to a contact in Champs Les Sims, France. You suspect that it contains the names of all the major crime bosses on the continent. Pass on this crucial document and report back to work to receive a raise.
-   [036E] 0x866AC95A6C5A0525: You misplaced the package with the sensitive information proving yourself a most incompetent criminal. Maybe next time you'll be more carefull!
-   [036F] 0x1CA406263C59DB40: You misplaced the package with the sensitive information proving yourself a most incompetent criminal. Maybe next time you'll be more carefull!
+   [036E] 0x866AC95A6C5A0525: You misplaced the package with the sensitive information proving yourself a most incompetent criminal. Maybe next time you'll be more careful!
+   [036F] 0x1CA406263C59DB40: You misplaced the package with the sensitive information proving yourself a most incompetent criminal. Maybe next time you'll be more careful!
    [0370] 0x9DAFDBFDD1E88442: Go to France and deliver the thin package in your inventory to a local contact to earn a raise.
    [0371] 0xFD86DEE08F454E71: Go to France and deliver the thin package in your inventory to a local contact to earn a raise.
    [0372] 0x6744E8FDB263FEAC: French Delivery
