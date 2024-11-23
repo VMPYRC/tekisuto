@@ -1917,7 +1917,7 @@ Unknown3: 0x00000000
    [0778] 0x41A48722B2D79F7B: A More Romantic Tower
    [0779] 0x6D5BF9E9395CF3E7: Photograph the Eiffel Tower at Night
    [077A] 0x4823D4EDB2245275: “Holy moley! I am shocked you actually found a bottle this excellent I’m a bit tempted to sample the Nectar as it must be fantastic, but that would be foolish and short-sighted. I must think of the exhibit, which is almost complete!”
-   [077B] 0xEAB638BA9F89A9BB: “The history of Champs Les Sims is intertwined with Nectar. Without Nectar, Champs Les Sims would not exist! Please find an old and high quality bottle of Nectar. I think an oustanding bottle is good enough. I the cellar under the Nectary stretches on for miles, and you can find some very old and tasty bottles there!”
+   [077B] 0xEAB638BA9F89A9BB: “The history of Champs Les Sims is intertwined with Nectar. Without Nectar, Champs Les Sims would not exist! Please find an old and high quality bottle of Nectar. I think an outstanding bottle is good enough. I the cellar under the Nectary stretches on for miles, and you can find some very old and tasty bottles there!”
    [077C] 0x79B9082889AE5A10: Find an outstanding bottle of Nectar and “Deliver Nectar” to {2.String} to receive some Simoleons.
    [077D] 0x6B0DB528821FBE9A: Historic Nectar
    [077E] 0xE1674585EDA9B24E: “Magnifique! You single-handedly, with my direction of course, built this Champs Les Sims cultural exhibit from nothing to…something incredible. I believe this exhibit will be a huge success, bringing many visitors to Champs Les Sims. Thank you a thousand times! I hope this more than compensates you for your time.”
