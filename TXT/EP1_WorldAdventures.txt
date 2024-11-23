@@ -783,8 +783,8 @@ Unknown3: 0x00000000
    [030A] 0xDCF599C199DDE56A: The Focused Athlete
    [030B] 0x8FE46C553D08751F: Learn Martial Arts
    [030C] 0x96CFF3CE12953FEE: Learn Martial Arts
-   [030D] 0x4A0F7ABF38DF596F: There was a scholarly air about you when you returned. Everybody in the office liked you just a bit more and your job performace was increased!
-   [030E] 0x88784840DC69BAFE: There was a scholarly air about you when you returned. Everybody in the office liked you just a bit more and your job performace was increased!
+   [030D] 0x4A0F7ABF38DF596F: There was a scholarly air about you when you returned. Everybody in the office liked you just a bit more and your job performance was increased!
+   [030E] 0x88784840DC69BAFE: There was a scholarly air about you when you returned. Everybody in the office liked you just a bit more and your job performance was increased!
    [030F] 0xB7A701EDA384F7AF: {1.SimFirstName} can feel the inner peace building with every second. Well, we don't want too much inner peace do we? {1.SimFirstName} can head home whenever he wishes.
    [0310] 0x5C04E50DCB0C8A1D: A pilgrimage to a sedentary spot could bring greater inner peace and focus making you a more valuable Athlete. Visit a Scholar’s Garden and spend some time taking in the air. Your co-workers will be impressed with the new you.
    [0311] 0xE647519268620A98: A pilgrimage to a sedentary spot could bring greater inner peace and focus making you a more valuable Athlete. Visit a Scholar’s Garden and spend some time taking in the air. Your co-workers will be impressed with the new you.
