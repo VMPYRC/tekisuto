@@ -25,7 +25,7 @@ Unknown3: 0x00000000
    [014] 0xE4E48C633CD419B5: Enjoy these two new advertisements from DJ Glowstick's Dance Club and Verroom's Sporty Sport Cars.
    [015] 0xE4E48C633CD419B4: This two-sided billboard is currently featuring advertisements from Zeus--The Cloudwalker Shoe and The Suit and Tie Guys.
    [016] 0xE4E48C633CD419B7: Distract motorists with the two advertisements featured on this billboard: Blake's World Of Healthy Pies and The Dazzler's Dazzilling Magic Shop.
-   [017] 0x1E2BEFA6CF2DBAA8: We have all the magic tricks that you can imigine and even some that will blow your mind! Shop for a new trick and even pick up some rabbit food at The Dazzler's Dazzilling Magic Shop.
+   [017] 0x1E2BEFA6CF2DBAA8: We have all the magic tricks that you can imagine and even some that will blow your mind! Shop for a new trick and even pick up some rabbit food at The Dazzler's Dazzilling Magic Shop.
    [018] 0x7262E0720AB42B49: Another mega cool album from The Suit and Tie Guys!! Make sure to pick up your very own copy of "We are R.A.D," featuring the number 1 hit "I, Her, Them, and Me Again."
    [019] 0x7262E0720AB42B4A: Have you heard about Destiny Grove yet? If not you must be living under a rock. Destiny Grove offers incredible floor plans that will suit your family's needs. Buy a house this week and recieve a free eraser!
    [01A] 0x7262E0720AB42B4B: In town for an extended run, Jojo Hotness and her Hotness Crew will excite you like no other. This is one hot show so you better catch it before it skips town.
