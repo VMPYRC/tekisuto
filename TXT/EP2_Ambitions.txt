@@ -115,7 +115,7 @@ Unknown3: 0x00000000
    [06E] 0xFFFFBB5419016A84: The perfect space in which to capture and catalog your finest aesthetic achievements! Potential clients will be inspired by this visual collection of your work.
    [06F] 0xFDCFD92768BA3A6F: Stylist's Portfolio
    [070] 0x29682F58A4BE6C13: Place this register on a Consignment Store Community Lot to create a new consignment store.
-   [071] 0xB8F558DAB3DD0BE4: These ruins have been left alone and abandoned where its history and importance have also been left forgottened.
+   [071] 0xB8F558DAB3DD0BE4: These ruins have been left alone and abandoned where its history and importance have also been left forgotten.
    [072] 0xF4BB10228287FFB2: use base game text [Placeholder]
    [073] 0x8474176BCD9705AA: use base game text [Placeholder]
    [074] 0x8C7652AE9ACA2B0A: a pile of Scrap
