@@ -60,7 +60,7 @@ Unknown3: 0x00000000
    [037] 0x28BA748D1776A392: These pipes are used to delivery liquids into and out of factories.
    [038] 0x0BFEF1675C4FD5BA: fence federal post description needs text -(DNT) See Alan if you see this text
    [039] 0x8B7F1F25C48E8E93: Classically carved wood provides an elegant façade to this fireplace. The Shelby Mantle is just like a lady: elegant on the outside and fiery on the inside.
-   [03A] 0xD5686E5C2AC2C600: With a design featuring timeless columns and a smooth marble mantle, this fireplace is a shining example of classical craftmanship.
+   [03A] 0xD5686E5C2AC2C600: With a design featuring timeless columns and a smooth marble mantle, this fireplace is a shining example of classical craftsmanship.
    [03B] 0xD3B607E861A67BE9: In situations where you just don't have time to take the stairs, sliding down a pole may be the quickest option! Just don't try to save time by going back up the same way.
    [03C] 0x140F69DB16B41731: Place this invisible object to spawn spooky fog.
    [03D] 0xB68DC4DE0501222E: The rustic appearance is only one of the benefits of this fountain! The sound of trickling water has been sonically altered to not induce sudden bathroom breaks.
