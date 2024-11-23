@@ -987,8 +987,8 @@ Unknown3: 0x00000000
    [03D6] 0x1874C9732D49BE0C: Historical Interview
    [03D7] 0xDA216F51BA1356C9: Interview {2.String}
    [03D8] 0xB0286A96317E055C: Interview {2.String}
-   [03D9] 0xBB31C997DB4F2C3D: You handled the interviews with great sensitivity and insight. The newpaper paid a stipend for your travels and you got a nice raise as well!
-   [03DA] 0x8126233D9A865678: You handled the interviews with great sensitivity and insight. The newpaper paid a stipend for your travels and you got a nice raise as well!
+   [03D9] 0xBB31C997DB4F2C3D: You handled the interviews with great sensitivity and insight. The newspaper paid a stipend for your travels and you got a nice raise as well!
+   [03DA] 0x8126233D9A865678: You handled the interviews with great sensitivity and insight. The newspaper paid a stipend for your travels and you got a nice raise as well!
    [03DB] 0x64C5CA09A7882B95: The responses have been varied and full of good anecdotes. Time to head back to work and compile these notes.
    [03DC] 0x064FE99707990D33: The editor of the paper wants to cover current lifestyles in foreign locations. You will need to travel to France and conduct some interviews to present a day in the life view of French cultures. Your job performance will improve if you can do a good job.
    [03DD] 0x7715149B8FB2271A: The editor of the paper wants to cover current lifestyles in foreign locations. You will need to travel to France and conduct some interviews to present a day in the life view of French culture. Your job performance will improve if you can do a good job.
