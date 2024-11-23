@@ -576,7 +576,7 @@ Unknown3: 0x00000000
    [23B] 0x6CBE7AC5E805633E: Collect the required items and turn them in at {OpTarget}
    [23C] 0x7F06CFC5F2A66DE0: Scavenger Hunt: Beetle Quest
    [23D] 0x8DBE444C181A6F38: Those ingredients look perfect! You have an eye for great produce! 
-   [23E] 0xFDFA3CB9110D122C: The head chef at {OpTarget} is looking to nuture young culinary fans by asking kids find some ingredients around town. Any child that finishes this scavenger hunt will receive a reward!
+   [23E] 0xFDFA3CB9110D122C: The head chef at {OpTarget} is looking to nurture young culinary fans by asking kids find some ingredients around town. Any child that finishes this scavenger hunt will receive a reward!
    [23F] 0xC3F2C8B795DFE0E5: Collect the required items and turn them in at {OpTarget}
    [240] 0xD63A1BB7A07F3403: Scavenger Hunt: Plump Plantables
    [241] 0xC26808BE372C6CFB: Attend Art-a-thon
