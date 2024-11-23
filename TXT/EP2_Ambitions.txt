@@ -35,7 +35,7 @@ Unknown3: 0x00000000
    [01E] 0xD61EA2136626704A: use base game text [Placeholder]
    [01F] 0xE99C33F4878BF7CA: A stacks of boxes are always useful in any situation.
    [020] 0x2690D1535E697221: This super strong bridge has been tested to support the weight of hundreds of cars without creating a crack.
-   [021] 0xC3219753D6CB3595: This bridge has seen its uses and has been left years without maintanence. It is no longer safe to cross it.
+   [021] 0xC3219753D6CB3595: This bridge has seen its uses and has been left years without maintenance. It is no longer safe to cross it.
    [022] 0x48FADF078CCD8E80: use base game text [Placeholder]
    [023] 0x5CAD00C4B6606535: After years of cavorting about in trucks with wimpy sirens, fire chiefs everywhere clamored for a more awesome engine of fire fighting supremacy. Coupled with a bigger engine, louder siren, and longer ladder The Woo Woo 4000 is sure to please!
    [024] 0x7232027E43909C69: This unsalvageable piece of metal is no longer able to be of any use of its previous owner. Now it sits and await its doom.
