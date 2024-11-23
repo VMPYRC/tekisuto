@@ -533,7 +533,7 @@ Unknown3: 0x00000000
    [0210] 0x64A73FBA2EC57F45: 9 Marketview Place
    [0211] 0x64A73FBA2EC57F44: 11 Marketview Place
    [0212] 0x64A73FBA2EC57F43: 9 Quarry View Place
-   [0213] 0x7F83CC875098D8FB: 5 Marketiew Place
+   [0213] 0x7F83CC875098D8FB: 5 Marketview Place
    [0214] 0x45CD84EDF3B8B2B3: 13 Marketview Place
    [0215] 0x45CD84EDF3B8B2B2: 40 West Riverview Place
    [0216] 0xE5951DC89B965B6C: 1 Quarry View Place
