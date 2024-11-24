@@ -567,7 +567,7 @@ Unknown3: 0x00000000
    [232] 0x3CA86582AB54D32F: The local geologists at {OpTarget} need some help from the community and are posing a challenge to all neighborhood children. They've identified some especially rare gems and metals that they'd like to study and have started a scavenger hunt to find them. Anyone who shows up with the requested items will collect a generous cash prize!
    [233] 0x04C1F8E1F3E47774: Collect the required items and turn them in at {OpTarget}
    [234] 0x36ECEDE20FCC3376: Scavenger Hunt: Rare Elements
-   [235] 0x4F97A914381C679A: Such beautiful specimens! Who knew that there were so many different kinds of butterflies?
+   [235] 0x4F97A914381C679A: Such beautiful specimens! Who knew that there were so many kinds of butterflies?
    [236] 0xA7B50A844FCCC8AE: It's Insect Appreciation Week at {OpTarget} and the head of the science department has decided to hold a butterfly scavenger hunt for the students. Any child that can find all the required species and bring them to the school will get a cash reward!
    [237] 0x5E6A42A886B31C23: Collect the required items and turn them in at {OpTarget}
    [238] 0x90CB55A8A2C89AB1: Scavenger Hunt: Butterfly Bonanza
