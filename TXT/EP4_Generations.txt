@@ -209,7 +209,7 @@ Unknown3: 0x00000000
    [0CC] 0x81208057653910E3: Hand made and cool to the touch, this robust end table has been crafted by the nimble hands of the monks who dwell in the monasteries of the Simpathian Mountains. The rock is quarried in a secret location and smoothed by the waters of hidden mountain springs. Each end table is personally blessed by the High Monk before being transported to the base camp by loyal Sherpa.
    [0CD] 0x8FF8BFC813F9DB34: Constructed of fine particle board, overlaid with imitation veneer, and delicately assembled using screw fasteners and fitted dowels, the Bedside Hideaway is an attractive and affordable solution to bedside storage. It's small enough to fit neatly beside any bed, yet large enough to hide away that embarrassing stuffed llama from your childhood and the gnome statue that stares at you while you sleep.
    [0CE] 0x7BB50DA926F51518: Many say that Judson H. was the best skater in Twinbrook. Some say he was the best in the Tri-city area. Judson, well, he says he was the best in the world. But we'll never know for sure because he retired at the tender age of seventeen and turned his eccentricities away from the double darkslide and towards...end tables.
-   [0CF] 0x904CA24EB0152568: More than just a box for storing play things, the Chateau Toy Box is the perfect backdrop for games of play and pretend! It can be a castle, a fort, a manor house, anything your little one can imagine. Tots love toys and toys love the spacious interior of this toy box! So for happy kids—and happy toys—pick up the Chateau Toy Box.
+   [0CF] 0x904CA24EB0152568: More than just a box for storing play things, the Château Toy Box is the perfect backdrop for games of play and pretend! It can be a castle, a fort, a manor house, anything your little one can imagine. Tots love toys and toys love the spacious interior of this toy box! So for happy kids—and happy toys—pick up the Château Toy Box.
    [0D0] 0x6FCE750F79EDB015: This toy medieval oven will allow your little ones to envision that they are serving up a buffet to the Round Table. They'll spend hours imagining they are cooking a king-sized feast of gruel, massive legs of mutton, and peasant's pie!
    [0D1] 0x29E88CE8DAABB851: Reduce the size of your waste with The ComPRESSOR! Do not fear the name of this product. It's a monster that will eat your waste and not you. Note: use this product at your own risk. 
    [0D2] 0xC7E9D3D977FA5A5F: Live your own charming medieval tale with just a touch of imagination and your very own cobbled together castle in the sky. Preach to your loyal subjects below as you survey your domain from on high. Proclaim who may be allowed within the royal hall as you rule with an iron fist. The world is yours for the taking; are you fit to ascend to the throne? Chamber pot not included (or recommended)!
@@ -241,7 +241,7 @@ Unknown3: 0x00000000
    [0EC] 0xD62E1E735E327FA9: I'm Sleeping in a Boat Bed
    [0ED] 0x16BD8472F184804B: Hibernation Station
    [0EE] 0x42378E989ACC98F7: Sweet Treasures Bookshelf
-   [0EF] 0x68C6DF8187D1600A: Chateau Bookshelf
+   [0EF] 0x68C6DF8187D1600A: Château Bookshelf
    [0F0] 0xD113DF81E34A65EE: Imaginarium Kubo Book Shelving Units
    [0F1] 0xF23B8132370063DE: The Sophomore Bookshelf
    [0F2] 0x803F8E4289444F99: X, Z-Cam 360
@@ -427,7 +427,7 @@ Unknown3: 0x00000000
    [1A6] 0xBFD0CF5F73FDBD65: Bedside Hideaway
    [1A7] 0x18D523B5DA66BDBB: Judson's End Table
    [1A8] 0xCC0A7E6AC3D25CFC: Tell Tale Jig
-   [1A9] 0xC8CDE2E5307D4301: Chateau Toy Box
+   [1A9] 0xC8CDE2E5307D4301: Château Toy Box
    [1AA] 0xC18450DEDF3E4FB8: Stone-Walled Toy Oven
    [1AB] 0x9CAA94B2B10368DC: Toy Periscope
    [1AC] 0xDEDE289CDBB8A644: The ComPRESSOR

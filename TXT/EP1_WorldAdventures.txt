@@ -345,7 +345,7 @@ Unknown3: 0x00000000
    [0154] 0xE06F0D26EDF94FAB: Signet of King's Burial Ground
    [0155] 0xE06F0D26EDF94FA4: Signet of the Maze of the High Ruler
    [0156] 0xE06F0D26EDF94FA5: Signet of Smuggler's Cavern
-   [0157] 0xE06F0D26EDF94FA0: Signet of Le Chateau du Landgraab
+   [0157] 0xE06F0D26EDF94FA0: Signet of Le Château du Landgraab
    [0158] 0x9207FFAB61FB647E: upper river piece
    [0159] 0x03EDB461DE56FE00: Garden Window
    [015A] 0x012D47BE76283A45: King Qing’s Window
@@ -704,7 +704,7 @@ Unknown3: 0x00000000
    [02BB] 0x92C81C575C244025: The Ginkgo House
    [02BC] 0x2F08401A0EE81403: Champs Les Sims Base Camp
    [02BD] 0x001AF0D8FE311E39: Champs Les Sims Nectary
-   [02BE] 0xD329E607B2B73C3D: Chateau du Landgraab
+   [02BE] 0xD329E607B2B73C3D: Château du Landgraab
    [02BF] 0xC279B3901C44FC21: The Oak House
    [02C0] 0xDE46C47A9BCACCFB: The Little Woods
    [02C1] 0xDE46C47A9BCACCF8: The Little Island
@@ -1817,10 +1817,10 @@ Unknown3: 0x00000000
    [0714] 0xE551EC1C74A6F328: “Hmmm, this dish tastes…good…with your Nectar choice. Thanks for your help."
    [0715] 0x5E9FEF29A5D376FA: At last, {1.SimFirstName} was able to find the keystone that should open the Dragon Cave in Shang Simla, China. {2.SimName} in China will know precisely what to do with the key.
    [0716] 0x4D8D7D562B3DF669: At last, {1.SimFirstName} was able to find the keystone that should open the Dragon Cave in Shang Simla, China. {2.SimName} in China will know precisely what to do with the key.
-   [0717] 0x976D11753578558E: “Oui! Look how it shines and glimmers. I have not yet decided what I shall do with the Opal, but that is not your concern. Now, you seek the keystone. The hidden vault is now unlocked for you at the Landgraab Chateau. Go there to find the keystone of James Vaughan.
+   [0717] 0x976D11753578558E: “Oui! Look how it shines and glimmers. I have not yet decided what I shall do with the Opal, but that is not your concern. Now, you seek the keystone. The hidden vault is now unlocked for you at the Landgraab Château. Go there to find the keystone of James Vaughan.
    [0718] 0x1DA6471FCC40E006: Why'd you destroy the keystone? Hopefully, you can find another one later.
-   [0719] 0x430558EB9EFD3483: Find the keystone underneath the Chateau Landgraab.
-   [071A] 0x78CC6BEBBDF5DC11: Deep Within Landgraab Chateau
+   [0719] 0x430558EB9EFD3483: Find the keystone underneath the Landgraab Château.
+   [071A] 0x78CC6BEBBDF5DC11: Deep Within Landgraab Château
    [071B] 0x4C9CAD8D0B7DADB1: Locate the Keystone
    [071C] 0x2E6EABFFE1A69E9D: Now that {1.SimFirstName} has the keystone, they should probably check with {16.SimName} before trying anything dangerous. {1.SimFirstName} should head back to China at their first opportunity.
    [071D] 0xB8D08CF2BB5B3196: Go to China.
@@ -1891,10 +1891,10 @@ Unknown3: 0x00000000
    [075E] 0xE796B381F3F72140: Quid Pro Keystone
    [075F] 0x748A14F386E9634C: Deliver Opal
    [0760] 0x9A391E52FA91C292: EP1_Quest_France9Completion
-   [0761] 0xB7AF8DD2D11694F6: “Oui! Look how it shines and glimmers. I have not yet decided what I shall do with the Opal, but that is not your concern. Now, you seek the keystone. The hidden vault is now unlocked for you at the Landgraab Chateau. Go there to find the keystone of James Vaughan.
+   [0761] 0xB7AF8DD2D11694F6: “Oui! Look how it shines and glimmers. I have not yet decided what I shall do with the Opal, but that is not your concern. Now, you seek the keystone. The hidden vault is now unlocked for you at the Landgraab Château. Go there to find the keystone of James Vaughan.”
    [0762] 0x167F60C300D651CE: EP1_Quest_France9Failure
-   [0763] 0xB9014A75E77FFC0B: Explore the vault underneath the Chateau Landgraab to find the keystone.
-   [0764] 0xEC063D7604215889: Deep Within Landgraab Chateau
+   [0763] 0xB9014A75E77FFC0B: Explore the vault underneath the Landgraab Château to find the keystone.
+   [0764] 0xEC063D7604215889: Deep Within Landgraab Château
    [0765] 0xA426F2105A4C2379: Explore the Vault
    [0766] 0x2D330221E09B7CC9: “The tower is quite beautiful. As I look at this picture you took, I realize that I need to take a little more time out of my day to appreciate Champs Les Sims. This exhibit will be a hit! Here’s payment for the photo.”
    [0767] 0xE0269224EF188487: “Greetings! I am trying to put together a cultural exhibit about, what else, Champs Les Sims. The first thing I need for the exhibit is a photograph of the Eiffel Tower. Do you think you could take this picture for me? I will pay you for the work, of course.”
@@ -2035,9 +2035,9 @@ Unknown3: 0x00000000
    [07EE] 0x018F61D26B48E3C1: Losing that journal wasn't a very good idea. Now {2.String} can't figure out what happened to Anastasia!
    [07EF] 0x537C5146FEB55074: Losing that journal wasn't a very good idea. Now {2.String} can't figure out what happened to Anastasia!
    [07F0] 0xE0DCA8E101A6CC34: Deliver Journal
-   [07F1] 0xEB6E1CF3511929BE: “The former groundskeeper of the Landgraab estate, Willard Leroo, kept a journal that I believe may contain first-hand information about the disappearance of Anastasia Necteaux. Please journey to the shack, located on the grounds of the Landgraab Chateau, and recover his journal for me.”
-   [07F2] 0x539E79AFF9C5F033: Find the Groundskeeper’s Journal within the groundskeeper’s shack at Landgraab Chateau, then “Deliver Journal” to {2.String} to receive some Ancient Coins.
-   [07F3] 0x87F1FD6DA74E581A: Find the Groundskeeper’s Journal within the groundskeeper’s shack at Landgraab Chateau, then “Deliver Journal” to {2.String} to receive some Ancient Coins.
+   [07F1] 0xEB6E1CF3511929BE: “The former groundskeeper of the Landgraab estate, Willard Leroo, kept a journal that I believe may contain first-hand information about the disappearance of Anastasia Necteaux. Please journey to the shack, located on the grounds of the Landgraab Château, and recover his journal for me.”
+   [07F2] 0x539E79AFF9C5F033: Find the Groundskeeper’s Journal within the groundskeeper’s shack at Landgraab Château, then “Deliver Journal” to {2.String} to receive some Ancient Coins.
+   [07F3] 0x87F1FD6DA74E581A: Find the Groundskeeper’s Journal within the groundskeeper’s shack at Landgraab Château, then “Deliver Journal” to {2.String} to receive some Ancient Coins.
    [07F4] 0x86D94CB01694A5A1: The Groundskeeper’s Journal
    [07F5] 0xBA41BB6C962BBD21: Find Journal
    [07F6] 0x3CCD8164951CFBCD: “Blast! The journal is locked. It appears this won’t be as easy as first thought. Willard’s daughter, {2.String}, lives in Champs Les Sims. I’m confident she has a key to this journal. Speak to her to obtain the key. Telling her it will aid the town may convince her to help us.”
@@ -2064,12 +2064,12 @@ Unknown3: 0x00000000
    [080B] 0x364214383BE10BB0: Losing those documents was inadvisable. Now {2.String} can't figure out what happened to Anastasia!
    [080C] 0xF940CE2259783878: Deliver Documents to {2.String}
    [080D] 0x77EF3975DF307F33: Deliver Documents to {2.String}
-   [080E] 0xD94AEF3A57A8C131: "Excellent, I can finally open this journal. Let me see here…fascinating! It seems there was quite the ruckus many years ago. At one point some shady looking men dragged someone into the chateau. The famous James Vaughan went in to save the person who…yes, turned out to be Anastasia Necteaux.\n\nI found this key to the estate attached to one of the pages. Landgraab was the meticulous sort, which leads me to believe he kept notes on this incident. Head to the estate and see if you can find those notes. Be careful – Landgraab was paranoid. His whole house is filled with traps and security measures.”
+   [080E] 0xD94AEF3A57A8C131: “Excellent, I can finally open this journal. Let me see here…fascinating! It seems there was quite the ruckus many years ago. At one point some shady looking men dragged someone into the château. The famous James Vaughan went in to save the person who…yes, turned out to be Anastasia Necteaux.\n\nI found this key to the estate attached to one of the pages. Landgraab was the meticulous sort, which leads me to believe he kept notes on this incident. Head to the estate and see if you can find those notes. Be careful – Landgraab was paranoid. His whole house is filled with traps and security measures.”
    [080F] 0x17A51E4184E0FF6D: How careless!. Without the keystone, {1.SimFirstName} has no way to get into parts of the Landgraab estate!
    [0810] 0x51255D53C6FE6AE8: How careless!. Without the keystone, {1.SimFirstName} has no way to get into parts of the Landgraab estate!
-   [0811] 0xE84275D959C2BC2A: Enter the Landgraab’s Chateau, find his Documents, and “Deliver Documents” to {2.String}.
-   [0812] 0x775345180BBBC119: Enter the Landgraab’s Chateau, find his Documents, and “Deliver Documents” to {2.String}.
-   [0813] 0xB5E1A2D93DADAAC4: Chateau Crawl
+   [0811] 0xE84275D959C2BC2A: Enter the Landgraab Château, find his Documents, and “Deliver Documents” to {2.String}.
+   [0812] 0x775345180BBBC119: Enter the Landgraab Château, find his Documents, and “Deliver Documents” to {2.String}.
+   [0813] 0xB5E1A2D93DADAAC4: Château Crawl
    [0814] 0xB2954E29018B8CB0: Find Documents
    [0815] 0xCEB153D07795C345: It seems Landgraab kidnapped Anastasia to obtain the location to Jean Necteaux’s tomb. The information she gave was not only false, but led to a trap that ultimately led to the demise of Landgraab’s henchmen. {2.String} should know of these facts!
    [0816] 0x66774CC46E41973A: Explore Tomb
@@ -2503,8 +2503,8 @@ Unknown3: 0x00000000
    [09C2] 0x87F7C485E268D504: "Your interviews revealed that Admiral Landgraab was also studying the history of Nectar nearly 60 years ago and that he may have notes about what he learned. Unfortunately, Landgraab was a rampant conspiracy theorist and worrywart and his home is shut up tighter than Napoleon’s tomb. Take this key to his library and try to find the papers. It should be near the front of his home. Please be careful!”
    [09C3] 0x94560B7828F65E48: Losing that keystone was inadvisable. Now {1.SimFirstName} can't get into the Library. Perhaps {1.SimFirstName} should be more careful next time!
    [09C4] 0x7B7F14F26C33CA83: Losing that keystone was inadvisable. Now {1.SimFirstName} can't get into the Library. Perhaps {1.SimFirstName} should be more careful next time!
-   [09C5] 0x259C89B090376EDD: Enter the Library near the front of Admiral Landgraab’s Chateau, locate the Nectar Papers hidden within, and deliver them to {2.String} for some Ancient Coins.
-   [09C6] 0x2F64FD51A1265958: Enter the Library near the front of Admiral Landgraab’s Chateau, locate the Nectar Papers hidden within, and deliver them to {2.String} for some Ancient Coins.
+   [09C5] 0x259C89B090376EDD: Enter the Library near the front of Admiral Landgraab’s Château, locate the Nectar Papers hidden within, and deliver them to {2.String} for some Ancient Coins.
+   [09C6] 0x2F64FD51A1265958: Enter the Library near the front of Admiral Landgraab’s Château, locate the Nectar Papers hidden within, and deliver them to {2.String} for some Ancient Coins.
    [09C7] 0x37ADDCB09AA9336B: The Lost Library of Landgraab
    [09C8] 0x3F3448EA4BD82E77: Enter Library
    [09C9] 0xE0012EE2DF03D137: “Hmmm, yes, Landgraab’s code is a bit tricky, but not too difficult. Unfortunately the old man lacked ingenuity. Perhaps his enthusiasm and vigilance sapped that part of his brain? Nevertheless, I have cracked the code.”
