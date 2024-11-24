@@ -900,7 +900,7 @@ Unknown3: 0x00000000
    [37F] 0xC219224AD5A6875A: Juan's Pick 'n Pull
    [380] 0x5CA42309CF52CF6E: Whistlestop Day Spa
    [381] 0xD6968A8AD9B9E5CE: Riverside Professional Sports Complex
-   [382] 0x97412FFF495C9EFD: Twinbrook Theatre for the Perfoming Arts
+   [382] 0x97412FFF495C9EFD: Twinbrook Theatre for the Performing Arts
    [383] 0x8C9ADAAF628CBA20: Twinbrook Town Center
    [384] 0xEA3DE7B0FE9FB227: Twinbrook Industrial Train Center
    [385] 0x73B4B8D0740D10EE: Vacant Lot
