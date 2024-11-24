@@ -348,7 +348,7 @@ Unknown3: 0x00000000
    [157] 0x1FD7F8140081C2C6: Did you know that Cottonwoods can be either male or female? It is the fluffy white seeds produced by the females during early summer that give the tree its name.
    [158] 0xB2BC5D09E3828776: The Yellow Cottonwood is a lot like a regular cottonwood. Only different. And our differences are what make us special.
    [159] 0x3F48A5F50FF15C68: The slippery elm is a favorite of the Mayor of Sunset Valley, who is also rumored to enjoy eating slippery eels. Fortunately for the trees, they make for poor sushi.
-   [15A] 0x1427ACD2380B8B93: The Eucalyptus is known to be the favorite food of the koala! Unfortunatly there are no koalas in Sunset Valley...
+   [15A] 0x1427ACD2380B8B93: The Eucalyptus is known to be the favorite food of the koala! Unfortunately, there are no koalas in Sunset Valley…
    [15B] 0x6E942CCC5949B026: This white fir tree was a favorite of the hill tribes that once roamed the heights above Twinbrook. They carved weapons and ornaments from its boughs, used the leaves to soften their beds, and the bark for medicinal reasons.
    [15C] 0x3078282561798564: What a delightful tree! Gazing upon it brings up happy memories of the Fall season.
    [15D] 0x0203B9D3BFB68478: Purely decorative.
