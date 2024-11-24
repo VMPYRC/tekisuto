@@ -2035,7 +2035,7 @@ Unknown3: 0x00000000
    [07EE] 0x018F61D26B48E3C1: Losing that journal wasn't a very good idea. Now {2.String} can't figure out what happened to Anastasia!
    [07EF] 0x537C5146FEB55074: Losing that journal wasn't a very good idea. Now {2.String} can't figure out what happened to Anastasia!
    [07F0] 0xE0DCA8E101A6CC34: Deliver Journal
-   [07F1] 0xEB6E1CF3511929BE: “The former groundskeeper of the Landgraab estate, Willard Leroo, kept a journal that I believe may contain first-hand information about the disappearance of Anastasia Necteaux. Please journey to the shack, located on the grounds of the Landgrab Chateau, and recover his journal for me.”
+   [07F1] 0xEB6E1CF3511929BE: “The former groundskeeper of the Landgraab estate, Willard Leroo, kept a journal that I believe may contain first-hand information about the disappearance of Anastasia Necteaux. Please journey to the shack, located on the grounds of the Landgraab Chateau, and recover his journal for me.”
    [07F2] 0x539E79AFF9C5F033: Find the Groundskeeper’s Journal within the groundskeeper’s shack at Landgraab Chateau, then “Deliver Journal” to {2.String} to receive some Ancient Coins.
    [07F3] 0x87F1FD6DA74E581A: Find the Groundskeeper’s Journal within the groundskeeper’s shack at Landgraab Chateau, then “Deliver Journal” to {2.String} to receive some Ancient Coins.
    [07F4] 0x86D94CB01694A5A1: The Groundskeeper’s Journal
