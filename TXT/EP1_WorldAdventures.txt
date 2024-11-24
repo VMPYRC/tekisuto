@@ -111,7 +111,7 @@ Unknown3: 0x00000000
    [006A] 0xE2A9BB87B7BD323E: Chinese Bamboo is some of the most sought after bamboo in the world.
    [006B] 0x4C61E534BE3D826F: The great thing about a banana tree is that it doesn't even have to grow bananas to still look like an awesome tree.
    [006C] 0xA79C7F8EB6C8536A: Don't be caught off guard by this tree's bright colors. It's not as domestic as you might think.
-   [006D] 0xE6B2341B2200E279: To no suprise, the harvesting of cinnamon trees happens much more frequently during the holidays.
+   [006D] 0xE6B2341B2200E279: To no surprise, the harvesting of cinnamon trees happens much more frequently during the holidays.
    [006E] 0x6B5BE76B2BEF0C91: From a lone cypress to the Siberian Cypress, different breeds of the cypress can be found across the world!
    [006F] 0x1349720258C72889: The Chinese Elm's broad base is what sets it apart from other Elm trees.
    [0070] 0xAD08C255F0B5DBC0: All maple tree owners know that getting syrup from a maple tree is much harder than it looks on TV.
