@@ -2824,7 +2824,7 @@ Unknown3: 0x00000000
    [B03] 0x57388E4299F3C9C0: We are unable to verify that your disc is a valid copy of The Sims 3 Ambitions. Please contact customer service.
    [B04] 0x7FEFC18DA7437E3C: No game disc found! Please insert The Sims 3 Ambitions game disc before proceeding.
    [B05] 0x1B014CF176504808: You placed a Consignment Store. This location is perfect for putting your Sims handcrafted goods up for sale.
-   [B06] 0xCA5A87824A74315E: You placed a fire station. This is the lot where firemen live while on duty.
+   [B06] 0xCA5A87824A74315E: You placed a Fire Station. This is the lot where firemen live while on duty.
    [B07] 0x5596AC49170EBB20: You placed a Junkyard. This place is perfect for finding Scrap and other treasures Sims do not want anymore.
    [B08] 0x519E8C235893F37C: You placed a Junkyard. This place is perfect for finding Scrap and other treasures that Sims do not want anymore without having to deal with large crowds.
    [B09] 0x24161F78472250A3: You placed a Laundromat. This lot is great for washing the clothes and sheets of Sims who have no washer or dryer at home.

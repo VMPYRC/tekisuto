@@ -1341,10 +1341,10 @@ Unknown3: 0x00000000
    [538] 0xA46A4CAA72EAA10B: You placed a Dog Park. This location is just the spot for dogs to run around, play fetch, and meet other pups!
    [539] 0x9D643067B3AFE0C7: You placed an Equestrian Center. This location is the place to be when you're ready to enter your horse in a competition, breed your horse, or simply buy and sell horses.
    [53A] 0x9C231CC835E98144: You placed an Equestrian Center. This location is the place to be when you're ready to enter your horse in a competition, breed your horse, or simply buy and sell horses.
-   [53B] 0xF475CF79C609F7F9: You placed a fire station. This is the lot where firemen live while on duty.
+   [53B] 0xF475CF79C609F7F9: You placed a Fire Station. This is the lot where firemen live while on duty.
    [53C] 0xAC9E39E7DE570B24: You placed a Horse Ranch. This location is great to visit when you're ready to train your horse in the racing or jumping skills.
    [53D] 0x7196E9D234998425: You placed a Junkyard. This place is perfect for finding Scrap and other treasures Sims do not want anymore.
-   [53E] 0x891C10C101007DFA: You placed a salon. This place is perfect for getting your Sims all dressed up for a night on the town...
+   [53E] 0x891C10C101007DFA: You placed a Salon. This place is perfect for getting your Sims all dressed up for a night on the town...
    [53F] 0x4290EF82EA751846: In Create a Household, to further customize your pets you can select Advance Mode In both shapes and coat sections
    [540] 0x4290EF82EA751845: If your Sim desires a new pet he/she can adopt one via phone or computer for little or no Simoleons.
    [541] 0x4290EF82EA751844: If your Sim is tired of his or her look, take a gamble and go to the hospital to embark on some life changing plastic surgery.
