@@ -1521,7 +1521,7 @@ Unknown3: 0x00000000
    [5EC] 0x4C37751AE92A4FAD: "Play for Variety Show" at {OpTarget}.
    [5ED] 0x5E48C81AF39C145B: Variety Show
    [5EE] 0xDF9C2D5F83DBB3C7: "Play for Variety Show" at {OpTarget}.
-   [5EF] 0x3B3559DA5712FFE4: The class went well and there may be some new folks entering the mixology scene with some delicious drinks in the near future. Well done!
+   [5EF] 0x3B3559DA5712FFE4: The class went well and there may be some new folks entering the mixology scene with some delicious drinks soon. Well done!
    [5F0] 0xC1EE6074A86CC730: The local Mixologists' Chapter is looking for skilled mixologists with some spare time to teach a class at {OpTarget} in the art of drink creation. Perhaps {OpOwner} could show up and give a mixology demonstration to these eager beavers?
    [5F1] 0x74B9D80492800E09: "Teach Class" at {OpTarget} to complete the opportunity.
    [5F2] 0x4180030475B308FF: Learning to Mix
@@ -1649,7 +1649,7 @@ Unknown3: 0x00000000
    [66C] 0x21DF1BD031C701A0: "Play bass for soundtrack" at {OpTarget}.
    [66D] 0x9C2C70025114E1AE: Order has been restored to the bookstore! {OpOwner} showed the spiteful cellists that bassists have a place in the music world. As a reward, {OpOwner} received a new piece of sheet music!
    [66E] 0x658B50711EF0A42A: Angry cellists went into {OpTarget} and wreaked havoc on the bass music, muttering something about bassists ruining pieces originally written for cello. {OpTarget} needs your help reorganizing and will give you sheet music as a reward.
-   [66F] 0xFA8406E202F8302A: The angry cellists got away with musical injustice today! Bassists everywhere and the bookstore were let down today by {OpOwner}'s failure to help out. Don't be surprised if employees at {OpTarget} aren't particularly friendly to {OpOwner} in the near future. 
+   [66F] 0xFA8406E202F8302A: The angry cellists got away with musical injustice today! Bassists everywhere and the bookstore were let down today by {OpOwner}’s failure to help out. Don’t be surprised if employees at {OpTarget} aren’t particularly friendly to {OpOwner} in the coming days.
    [670] 0xB30D85DE34A853BF: "Organize Bass Section" at {OpTarget}.
    [671] 0xA0C650DE2A093295: Sheet Music Mayhem
    [672] 0x60361696ECA9D625: "Organize Bass Section" at {OpTarget}.
