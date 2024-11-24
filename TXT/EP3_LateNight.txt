@@ -551,7 +551,7 @@ Unknown3: 0x00000000
    [222] 0xF2616A00348E76C7: SecuWIN
    [223] 0xC7B6A295E2B26202: Tear-Stained Glass Window
    [224] 0x0F1FA389EAF51117: Windovation
-   [225] 0x911567367D5F9E35: A functional trash receptable doesn't necessarily look very pretty. It's hard to keep something clean that is meant to hold filthy trash!
+   [225] 0x911567367D5F9E35: A functional trash receptacle doesn’t necessarily look very pretty. It’s hard to keep something clean that is meant to hold filthy trash!
    [226] 0x238347A011B03F4E: Unsightly Urban Trash Can
    [227] 0xECAF61B1775A9C2D: 
    [228] 0xECAF61B1775A9C2C: 
