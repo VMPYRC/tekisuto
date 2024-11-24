@@ -1044,8 +1044,8 @@ Unknown3: 0x00000000
    [040F] 0xD2C2BC66269D1AC2: French Seminar
    [0410] 0x9EC2CFC8DEA06347: Attend Siminar in France
    [0411] 0x7443D6FA82EC5DB6: Attend Siminar in France
-   [0412] 0xACA7D96950011A92: It was tricky hiding the Scarab beetles in your suitcase, but you perservered for the good of medical science!
-   [0413] 0x2F35C2076377E601: It was tricky hiding the Scarab beetles in your suitcase, but you perservered for the good of medical science!
+   [0412] 0xACA7D96950011A92: It was tricky hiding the Scarab beetles in your suitcase, but you persevered for the good of medical science!
+   [0413] 0x2F35C2076377E601: It was tricky hiding the Scarab beetles in your suitcase, but you persevered for the good of medical science!
    [0414] 0x792F74C5FD491CF6: The pharmaceutical lab would like to conduct some research on Scarab beetles. Hospital staff travelling to Egypt in the near future have been asked to collect some and bring them in.
    [0415] 0xD75E5E46DD3E47AD: The pharmaceutical lab would like to conduct some research on Scarab beetles. Hospital staff travelling to Egypt in the near future have been asked to collect some and bring them in.
    [0416] 0x08D17A61F94459CE: EP1_CareerMedical_GetScarabsFailure
