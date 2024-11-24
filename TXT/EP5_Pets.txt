@@ -987,7 +987,7 @@ Unknown3: 0x00000000
    [3D6] 0x36D836F0610DEC84: Benni
    [3D7] 0xD4FCC00AA77D1C4C: Benni is a southern transplant, coming to the town of Appaloosa Plains to make new friends and discover new opportunities. This little flirt won't have any trouble attracting attention, but how long will her roommates tolerate it?
    [3D8] 0xC559100F5B500B5B: Bertram
-   [3D9] 0x725E7E9867A5B4FF: Curt and proper, Bertram gets on in the community by ignoring those he chooses to disassociate himself with. In his mind, success in life bestows the privlidge of dictating ones retirement, and he plans to live out his days in whatever manner suits his current whims. He loves the peace of the countryside without realizing or caring that his glib attitude is contributing to the local's distrust of new faces moving into town.
+   [3D9] 0x725E7E9867A5B4FF: Curt and proper, Bertram gets on in the community by ignoring those he chooses to disassociate himself with. In his mind, success in life bestows the privilege of dictating one’s retirement, and he plans to live out his days in whatever manner suits his current whims. He loves the peace of the countryside without realizing or caring that his glib attitude is contributing to the local’s distrust of new faces moving into town.
    [3DA] 0x2DE3AEDE6B610ABD: Bird
    [3DB] 0x406B5791D88031EA: Blackburn
    [3DC] 0x9F15B5B0685205C5: Blanco
