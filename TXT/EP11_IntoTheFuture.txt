@@ -1943,7 +1943,7 @@ Unknown3: 0x00000000
    [792] 0x4040063106D7D8F7: Stop Using Jetpack
    [793] 0xB55F62D286776E7A: Wearing Jetpack
    [794] 0x4E5C8ABFFB0961BF: There is no Plumbot Competition Arena to compete in
-   [795] 0x0D95206793A0AB11: {0.SimFirstName} found this Nanite too challenging to sucessfully reverse engineer.
+   [795] 0x0D95206793A0AB11: {0.SimFirstName} found this Nanite too challenging to successfully reverse engineer.
    [796] 0x5AB2B5F7A40FA3C8: You have successfully reverse engineered a {0.String} Nanite.
    [797] 0x4069801EC3437097: You have successfully reverse engineered {0.String} Nanite and received {1.String}.
    [798] 0xDF0C16B8BB0D19E9: You have successfully reverse engineered a {0.String} Nanite and received the following: {1.String}.
