@@ -868,8 +868,8 @@ Unknown3: 0x00000000
    [035F] 0x1C22850A2E043529: Thank you for the package, you can tell your employers that it has safely arrived and you are to be commended.
    [0360] 0x3A0AF1FD3473BFCC: You've found yourself in the middle of a international smuggling ring. Travel to Al Simhara and deliver a secret package to a local contact. Your job performance depends on this and there’ll be a nice raise once you complete the delivery.
    [0361] 0xEA4E17E5BFCF8DCF: You've found yourself in the middle of a international smuggling ring. Travel to Al Simhara and deliver a secret package to a local contact. Your job performance depends on this and there’ll be a nice raise once you complete the delivery.
-   [0362] 0x9D4248E4BD822970: How could you lose the package?! The smuggling ring wll think twice about selecting you for a operation of this size next time.
-   [0363] 0x1589F5ACF572860B: How could you lose the package?! The smuggling ring wll think twice about selecting you for a operation of this size next time.
+   [0362] 0x9D4248E4BD822970: How could you lose the package?! The smuggling ring will think twice about selecting you for a operation of this size next time.
+   [0363] 0x1589F5ACF572860B: How could you lose the package?! The smuggling ring will think twice about selecting you for a operation of this size next time.
    [0364] 0xD6629AC59C7ED505: Go to Egypt and deliver the package in your inventory to a local contact to increase your job performance and earn a raise.
    [0365] 0x95343F6CA095ABE0: Go to Egypt and deliver the package in your inventory to a local contact to increase your job performance and earn a raise.
    [0366] 0xE8A9EDC5A71E2923: Egyptian Delivery
