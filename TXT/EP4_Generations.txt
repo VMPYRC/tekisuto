@@ -488,7 +488,7 @@ Unknown3: 0x00000000
    [1E3] 0x64FEFEC29323D5D0: Attend Recital at {OpTarget}
    [1E4] 0x52EDABC288B2115A: Ballet Recital
    [1E5] 0x8B83022D7D36E38A: Attend Recital at {OpTarget}
-   [1E6] 0x86776537E8261B91: With {OpOwner}'s impeccable reasoning, team members had no choice but to elect {MA.him}{FA.her} the club president! A big congrats! They have bestowed {OpOwner} with a really cool gavel sculpture! It's an exact replica of the one used at {OpTarget} when arguments get a little heated.
+   [1E6] 0x86776537E8261B91: With {OpOwner}’s impeccable reasoning, team members had no choice but to elect {MA.him}{FA.her} the club president! A big congrats! They have bestowed {OpOwner} with a really cool gavel sculpture! It’s a replica of the one used at {OpTarget} when arguments get a little heated.
    [1E7] 0xD682091F994039FF: The Debate Team needs a president, someone who can represent them well in any upcoming debate tournaments Does {OpOwner} want to debate for this position? Make sure {MA.he}{FA.she} shows up with strong logic skills and in a good mood!
    [1E8] 0x0348AB5C2DE4570F: It's too bad {OpOwner} missed out. Team members were really looking forward to hearing from {MA.him}{FA.her}.
    [1E9] 0x2E6A9557D8F0A004: Debate for Presidency at {OpTarget}
