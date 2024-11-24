@@ -657,7 +657,7 @@ Unknown3: 0x00000000
    [28C] 0xAE9481302007CF44: Named when they had an ocean view, these apartments are moderately priced and convenient to downtown, the civic center and the stadium, but there are no ocean views.
    [28D] 0x9677F7285333262A: For some reason single male Sims seem especially attracted to this building. Perhaps it is the partially covered sports-car parking?
    [28E] 0xF38880559C3C1A78: Spared from demolition during the construction of the new stadium, Bridgeport Arms still boasts large apartments and partial views in a quiet neighborhood…except for when there is a game.
-   [28F] 0xF43FFAC01BF9D4E4: This Egyptian Deco building is adjacent to downtown nightlife and boasts some odd shaped landscaping. Perhaps a Sim who has travelled to Egypt would have the answer?
+   [28F] 0xF43FFAC01BF9D4E4: This Egyptian Deco building is adjacent to downtown nightlife and boasts some odd shaped landscaping. Perhaps a Sim who has traveled to Egypt would have the answer?
    [290] 0x075C505A49958931: Just a bit too far out of the city to ever be really in style, Glenview manor caters to a reliable middle class city dweller who just can’t seem to give up and move to the suburbs.
    [291] 0x69C974E3FFE7DCE6: Built by the Zodiac Group to provide luxury housing to Bridgeport, One Leo Center is considered a premier location in the city.
    [292] 0xD3813D02D905CD02: Built at Founders Square, “the Keep” has one of the longest waiting lists of any building. This is surprising since it’s not that nice and its identical neighbor is not at all popular.
@@ -1096,7 +1096,7 @@ Unknown3: 0x00000000
    [443] 0xD425AEFE82325B6C: Sun
    [444] 0x4DA8590D56D36E2D: Suzuki
    [445] 0xAE63D2773B916C91: Suzy
-   [446] 0xE7BB82F01E7E1A32: Suzy travelled a great distance to live in the city and immerse herself in its world renown indie rock music scene. She is a self proclaimed "music snob." Will her experiences in the city match her expectations?
+   [446] 0xE7BB82F01E7E1A32: Suzy traveled a great distance to live in the city and immerse herself in its world renown indie rock music scene. She is a self proclaimed “music snob.” Will her experiences in the city match her expectations?
    [447] 0x39E11764BC6B179C: Swizzle
    [448] 0x28764849F1D0581A: Takala
    [449] 0x67D3F9C38DD44653: Talia
