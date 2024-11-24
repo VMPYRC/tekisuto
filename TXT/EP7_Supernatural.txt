@@ -283,7 +283,7 @@ Unknown3: 0x00000000
    [116] 0x3249D52C548C1D62: FX_EP7_fogGroundSwamp
    [117] 0xEE29DF7C826A46B7: Gem Spawner - Alchemy
    [118] 0x3D41469BEF1BC5E3: Gem-U-Cut Machine
-   [119] 0xCF9EAA693C954AE3: Gypsy Wagon
+   [119] 0xCF9EAA693C954AE3: Nomadic Caravan
    [11A] 0x0F51E67BF920624E: Glauer Tree
    [11B] 0x1DC87F9216DAABF2: Old Log
    [11C] 0x81229C536E843EF7: Old Tree Stump
@@ -517,7 +517,7 @@ Unknown3: 0x00000000
    [200] 0x313A1DB361C846BB: Think you’ve seen a ghost? You certainly will at this cemetery!
    [201] 0xD5EBA5E10F97BB4B: Going to the grocery store on an empty stomach is never a good idea, so why not stop by the diner before you shop.
    [202] 0x798548262C46FFA5: Why drink an elixir to lose the fat when you can feel the burn and lose weight like a real Sim?
-   [203] 0x87EF872FD17BA9F6: For reasons unknown, gypsy wagons are mysteriously drawn to this park. Might as well get your fortune read while you’re here!
+   [203] 0x87EF872FD17BA9F6: For reasons unknown, nomadic caravans are mysteriously drawn to this park. Might as well get your fortune read while you're here!
    [204] 0x1C2F432479C09270: In addition to providing full medical services, the Bloom Institute is a scientific research facility conducting a variety of studies on some of Moonlight Falls’ most interesting elements.
    [205] 0xF4F62EB9507E737D: As self-appointed town guardians of lore and knowledge, the Van Gould family constructed the Vault of Antiquity as an indestructible and sun-proof repository for ancient relics and texts.
    [206] 0x9711C5B226483A48: Take a tour through the town’s history, complete with local artwork, antiques, and displays of locally-discovered gems and other oddities. 
@@ -573,7 +573,7 @@ Unknown3: 0x00000000
    [238] 0x9C44D90C505B6A05: Hallowed Grounds Cemetery
    [239] 0xFB221B3F170C5355: Sam’s Market Diner
    [23A] 0x271B3698B43649B3: Bell’s Barbell House
-   [23B] 0x1F057E2DCF71F18C: Gypsy’s Landing
+   [23B] 0x1F057E2DCF71F18C: Wanderer’s Retreat
    [23C] 0x6A420D7F542E886A: Bloom Institute of Wellness
    [23D] 0xBF48C04C60DD3243: Library of Lore & Vault of Antiquity
    [23E] 0x4656E27AE2377E5A: Moonlight Falls Historical Society & Museum
@@ -1057,7 +1057,7 @@ Unknown3: 0x00000000
    [41C] 0xDE6F0120B4C10691: No game disc found! Please insert The Sims™ 3 Supernatural disc before proceeding.
    [41D] 0xF069928D19067695: No game disc found! Please insert The Sims™ 3 Supernatural disc before proceeding.
    [41E] 0x32E08276FDE86860: You placed the Fae Ray Gardens. This is a great place to meet other fairies living in town.
-   [41F] 0x36D8A197E23FB98F: You placed the Gypsy’s Landing. Go here to have your fortune read!
+   [41F] 0x36D8A197E23FB98F: You placed the Wanderer’s Retreat. Go here to have your fortune read!
    [420] 0x38292118C4C6D4CD: You placed the Hallowed Grounds Cemetery. Come here to hang out with some ghosts.
    [421] 0x84111DAA40809BEE: You placed Aleister’s Elixirs and Sundries. Buy and sell your favorite elixirs and ingredients!
    [422] 0xF0D0D92058183F1A: You placed the Library of Lore & Vault of Antiquity. Go here to learn all about Supernatural lore.
