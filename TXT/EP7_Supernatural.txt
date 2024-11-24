@@ -223,7 +223,7 @@ Unknown3: 0x00000000
    [0DA] 0x9083B73A2C3652DB: Brittany’s Tiny Garden Planter Bowl
    [0DB] 0xE7C8E6F7AEAFADA7: Clay Tiny Garden Planter Bowl
    [0DC] 0x903B944F50D66756: Gothic Tiny Garden Planter Bowl
-   [0DD] 0x25AFA5CB3A3A014C: Van Gould Merchant House & Cafe
+   [0DD] 0x25AFA5CB3A3A014C: Van Gould Merchant House & Café
    [0DE] 0x12F43D3725B47EE4: Destroyed Cabin
    [0DF] 0xB2CA314EC1E33617: castSpell_jig DO NOT TRANSLATE
    [0E0] 0x6616AB7E1702B701: castSpellDuel_jig DO NOT TRANSLATE
@@ -566,7 +566,7 @@ Unknown3: 0x00000000
    [231] 0xB47423D808E1FBC2: Fae Ray Gardens
    [232] 0x3A18E1C5799FB14F: La Shove Beach
    [233] 0x782EE8C742CFA7F0: Eerie Park
-   [234] 0x6831B82303A2E929: Van Gould Merchant House & Cafe
+   [234] 0x6831B82303A2E929: Van Gould Merchant House & Café
    [235] 0xB5C66CA2322B021E: Mind-Body Connection Bookstore & Spa
    [236] 0x89802E88F793A0D2: Zoomsweeper Test Track
    [237] 0xF4ACA9377A4727D9: Commonwealth Court

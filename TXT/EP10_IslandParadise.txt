@@ -785,7 +785,7 @@ Unknown3: 0x00000000
    [30C] 0x51EF54E3225B847B: Cementerio Antiguo
    [30D] 0x51EF54E3225B847A: The Palms Gym
    [30E] 0x51EF54E3225B847D: Sweet Water Pool
-   [30F] 0x51EF54E3225B847C: Rebecca's Cafe
+   [30F] 0x51EF54E3225B847C: Rebecca's Café
    [310] 0x51EF54E3225B847F: Crystal Waters Beach
    [311] 0x51EF54E3225B847E: Bella Vista Beach
    [312] 0x51EF54E3225B8471: Sparkling Sands Beach

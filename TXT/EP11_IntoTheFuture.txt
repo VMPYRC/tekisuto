@@ -35,7 +35,7 @@ Unknown3: 0x00000000
    [01E] 0xC8C15AEF8C1A346D: Smooth, attractive construction and whisper-quiet hinges make Geminisi the overhead storage system of discerning kitchens. Mounts effortlessly and looks great on any type of wall.
    [01F] 0x728A4A15BF7427CF: Space-age materials and ultra-modern design have teamed up for history’s most advanced kitchen cabinets. They feature door seams so sleek and thin, you might struggle opening them.
    [020] 0x805E04931F87B63E: What could make your kitchen more enticingly exotic than an island complete with cabinets? Everyone loves islands, and what the Canisterita lacks in tropical warmth it redeems with storage space.
-   [021] 0x83B1219EE0CAD6BB: Cafe Awning
+   [021] 0x83B1219EE0CAD6BB: Café Awning
    [022] 0x3DC3B773A8BFF0EB: Glide over the thickest ice and deepest potholes in this gloriously sporty machine! Mind-bending curves and screaming jet engines put the Corto at the top of its class.
    [023] 0x388C38F40E832FC3: A Sim concerned with vehicular safety need look no further than the trusty little Sebastino. You’ve never heard of it, but trust us: someday every Sim will have one.
    [024] 0xE3D29614207AA0CD: Perfect aerodynamic construction makes the DeLorraine a fast and sleek car! Engine limiters have been installed for safety reasons; this vehicle may not exceed 87 miles per hour.
@@ -368,7 +368,7 @@ Unknown3: 0x00000000
    [16B] 0xA468415E7BF6FC84: Geminisi Overhead Cabinet by Van Allen Décor
    [16C] 0xFBB7A208FBFE6D40: Canistera Cabinet by Van Allen Décor
    [16D] 0xDCB8BD92311F7895: Canisterita Cabinet Island by Van Allen Décor (Double Sided)
-   [16E] 0xBB00574EA882BF94: Cafe Awning
+   [16E] 0xBB00574EA882BF94: Café Awning
    [16F] 0xEB853496032530F0: Corto Speedster by Arasika Technologies
    [170] 0x415264E0F6115198: Sebastino Family Aircar by Arasika Technologies
    [171] 0x4954B3284B8D8580: Repoman Hover Truck

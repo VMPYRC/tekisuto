@@ -75,7 +75,7 @@ Unknown3: 0x00000000
    [046] 0x1BD46ABD9BDDE475: This dog glitters!
    [047] 0xB36F83853ACB3DB7: A solid section of a broken statue. In the light it sparkles.
    [048] 0xB36F83853ACB3DB6: Shimmering fragments of something grand!
-   [049] 0xEA294C83CAC0191F: Bangers, sausages... if it's a hot link you're after, Darris Teeter's Grocery or The Koffi Cafe has you covered. Take one home or have it served fresh and piping hot, the choice is yours!
+   [049] 0xEA294C83CAC0191F: Bangers, sausages… if it’s a hot link you’re after, Darris Teeter’s Grocery or The Koffi Café has you covered. Take one home or have it served fresh and piping hot, the choice is yours!
    [04A] 0x6A1AC41C6C099C66: Legs from an ancient dinosaur.
    [04B] 0xEF15691C25DC7E3F: Ribs from an ancient dinosaur.
    [04C] 0xE1BEB49426093B8C: A collection of dinosaur bones.
@@ -428,7 +428,7 @@ Unknown3: 0x00000000
    [1A7] 0xED0E3F1971305808: Diamond Dog
    [1A8] 0x8160C76B506A55AE: Diamond Dog Flank
    [1A9] 0x8160C76B506A55AF: Diamond Dog Debris
-   [1AA] 0x67E1AA87FE7E0D44: Darris Teeter Grocery & The Koffi Cafe
+   [1AA] 0x67E1AA87FE7E0D44: Darris Teeter's Grocery & The Koffi Café
    [1AB] 0x9BC62D435E58E7A9: Dinosaur Legs
    [1AC] 0x648A330604D1B2EC: Dinosaur Ribs
    [1AD] 0x9C5FB935FBA24C5D: Dinosaur Bones
@@ -868,7 +868,7 @@ Unknown3: 0x00000000
    [35F] 0xDA0226884E4ED525: Verona County Fire Department
    [360] 0xEB182999A6275035: Cinnamon Crest Falls
    [361] 0xEB182999A627503A: Appaloosa County Water Treatment
-   [362] 0x6A1E3B1987810C1B: Darris Teeter Grocery & The Koffi Cafe
+   [362] 0x6A1E3B1987810C1B: Darris Teeter's Grocery & The Koffi Café
    [363] 0x4AD2A1A214F2B0BD: Swole On Fitness
    [364] 0xAC4B1FF96250592B: Pump It Up Pony Training Grounds
    [365] 0x9D092A8E6502BFB2: Equestrian Regional Training Grounds
