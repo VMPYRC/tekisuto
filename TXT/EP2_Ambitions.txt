@@ -99,7 +99,7 @@ Unknown3: 0x00000000
    [05E] 0xB16D65B88F57F200: The Miner is a powerful machine for drilling deep into the ground to find valuable resources.
    [05F] 0x17405A5EB76E4724: The Fancy Federal Mirror offers buyers a style somewhere between minimalist and fancy, making it a great gift for acquaintances, friends, and enemies.
    [060] 0x2868B2B0164D6681: When The Beast goes to a holiday party, it doesn't wear a name tag. At picnics, it doesn't compliment the chef. During birthday parties, The Beast always gets its cake first. You don't ride The Beast -- you beg it to share the road.
-   [061] 0x2002D485ADD42112: Where could this antique have come from? Perhaps a wily globe-trotting gnome was trapped within by an evil scorceress? Or maybe it's a cheap knock-off? Either way, it's a beautiful music box.
+   [061] 0x2002D485ADD42112: Where could this antique have come from? Perhaps a wily globe-trotting gnome was trapped within by an evil sorceress? Or maybe it’s a cheap knock-off? Either way, it’s a beautiful music box.
    [062] 0x619F35555C00DE9B: Where could this antique have come from? Perhaps from the depths of an ancient tom under the sands of Al Simhara? Or maybe it's a just cheap knock-off? Either way, it's a beautiful music box.
    [063] 0x56FCBC3D63A12A1E: Where could this antique have come from? Perhaps from the depths of an ancient Shang Simla tomb? Or maybe it's a cheap knock-off? Either way, it's a beautiful music box.
    [064] 0xC28B8F9F918AC151: This beautiful music box from exclusive designer OMG-IRL will delight anyone ... anyone who isn't a curmudgeon, anyway. It's sure to brighten any room and bring its delightful lilting tones to children young and old.
