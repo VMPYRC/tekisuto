@@ -848,7 +848,7 @@ Unknown3: 0x00000000
    [34B] 0x7C5D6A0AE9E595B0: Baird
    [34C] 0xB360D5CB8C9FDB2A: Barrington
    [34D] 0x7C08540AE99D300A: Barry
-   [34E] 0x7E424351838AF6A6: Barry has dreams of making it big in the restaurant scene downtown. He's got the skill, but will his slacker roomates hold him back?
+   [34E] 0x7E424351838AF6A6: Barry has dreams of making it big in the restaurant scene downtown. He's got the skill, but will his slacker roommates hold him back?
    [34F] 0x1A0B1376E73B3647: Bart
    [350] 0x7C05490AE99AE787: Basil
    [351] 0x1A193C76E747B94F: Beau
@@ -936,7 +936,7 @@ Unknown3: 0x00000000
    [3A3] 0x4B057A4AC89F7F74: Hannah
    [3A4] 0xBEC2AEC689379030: Hannah decided to move from the country to the big city with the intentions of following in her aunt's footsteps in the business of celebrities. Despite her interests in business she believes that her true calling is for television acting.
    [3A5] 0xE786085F82D79EB4: Harry
-   [3A6] 0x6A14C68B0E24FB8C: Harry is the youngster out of his roomates - a well-dressed ambitious student who enjoys studying art with Asian influences.
+   [3A6] 0x6A14C68B0E24FB8C: Harry is the youngster out of his roommates - a well-dressed ambitious student who enjoys studying art with Asian influences.
    [3A7] 0x918F9D00478C0E09: Hartley
    [3A8] 0x4051D24B5457F195: Harvey
    [3A9] 0xFA6D2F832FA6D663: Heimrich
