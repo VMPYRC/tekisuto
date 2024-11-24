@@ -7,7 +7,7 @@ Unknown3: 0x00000000
    [02] 0x9AA592535FFF4EF6: The Sims™ 3 Outdoor Living Stuff Installer
    [03] 0xD6B4F99806ECFD09: Print
    [04] 0x16C129E926EA56C7: Do you want to completely remove the selected application and all of its features?
-   [05] 0x26B2C937BCED550D: Enjoy every moment of outdoor cooking with the Original Griller Entertainment Series Barbeque. The hybrid ionized cooker and smoker guarantees a perfectly cooked slab of meat every time. Savor the ultimate in smoky flavor thanks to the patented Infuserizer grill bars!
+   [05] 0x26B2C937BCED550D: Enjoy every moment of outdoor cooking with the Original Griller Entertainment Series Barbecue. The hybrid ionized cooker and smoker guarantees a perfectly cooked slab of meat every time. Savor the ultimate in smoky flavor thanks to the patented Infuserizer grill bars!
    [06] 0x377055ED74989232: Specially designed for open air entertaining, the Outdoorsy Life Bar is a great spot to serve mixed juice drinks at your next block party. After the party cools down, you won't have to fear the mess of post-party clean up either! Thanks to the EZ-Wipe countertop, you'll wipe away juice spills and bird droppings easily. It won't feel like work at all.
    [07] 0x2E38E5750240EACB: Do your daily affairs involve balancing a country's economy? Ruling a vast empire? If so, your bar should exude the style, class and elegance that your job title commands. Demand nothing less than the Throne d'Elegance, your Excellence.
    [08] 0x308BB4383EA1E307: Couches are comfy, loveseats are lovely, and futons are funny. But when it comes to dining chairs, they have a deliciously dapper definition as a chair defined to dine. Is it a crime that this chair is so fine? Don't whine, this chair is divine!
@@ -52,7 +52,7 @@ Unknown3: 0x00000000
    [2F] 0x2369DEC3CF09C86E: This classic design has been used for centuries by Llama trainers throughout the world in circuses, carnivals, and zoos. Strong enough to support the weight of a Llama, yet beautifully crafted for use in public appearances, this end table is a great fit for your outdoor bonanza!
    [30] 0x4E8E1C29F26DC59B: At the turn of the first millennium, Morrigan Hemlock fought for the inclusion of astrology into the scientific realm, but could never convince the authorities of its scientific legitimacy. After nearly a 45 year battle, Morrigan turned to astronomy as a scientific endeavor. This telescope, first coined as a “star gazer” is what Morrigan used to wow the crowd of scientific experts, and thus forever lost her love of astrology. 
    [31] 0x628541EE69C1EA40: Designed for queens, emperors, and today’s wealthy elite, the Imperial Viewing Screen has been delicately handcrafted to the strictest standards available to today’s LCD handcrafters. The screen boasts futuristic 2160p resolution, hi-fi sound, and a huge footprint that is sure to make an impression on any viewers.
-   [32] 0x61F67C1A90FD9F54: The Original Griller Entertainment Series Barbeque
+   [32] 0x61F67C1A90FD9F54: The Original Griller Entertainment Series Barbecue
    [33] 0x6000B9F3F9F5DBD3: Outdoorsy Life Bar
    [34] 0x94D81AD7E7230BE8: Throne d'Elegance
    [35] 0x19031355480DF5EE: The Poet’s Respite
@@ -102,7 +102,7 @@ Unknown3: 0x00000000
    [61] 0x43C991B868EDA8B3: No game disc found! Please insert The Sims 3 Outdoor Living Stuff game disc before proceeding.
    [62] 0x9178CA76EEB2E6C1: ©2011 Electronic Arts Inc.
    [63] 0xB421D72D7458F29A: Disguising Outdoor Stereos...
-   [64] 0x6E733C3CB3243B9E: Firing Up the Barbeque...
+   [64] 0x6E733C3CB3243B9E: Firing Up the Barbecue…
    [65] 0x6E733C3CB3243B9F: Applying Sunscreen...
    [66] 0xB421D72D7458F299: Squeezing Lemons...
    [67] 0xB421D72D7458F298: Nurturing Terrariums...
