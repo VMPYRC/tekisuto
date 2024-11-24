@@ -1046,8 +1046,8 @@ Unknown3: 0x00000000
    [0411] 0x7443D6FA82EC5DB6: Attend Siminar in France
    [0412] 0xACA7D96950011A92: It was tricky hiding the Scarab beetles in your suitcase, but you persevered for the good of medical science!
    [0413] 0x2F35C2076377E601: It was tricky hiding the Scarab beetles in your suitcase, but you persevered for the good of medical science!
-   [0414] 0x792F74C5FD491CF6: The pharmaceutical lab would like to conduct some research on Scarab beetles. Hospital staff traveling to Egypt in the near future have been asked to collect some and bring them in.
-   [0415] 0xD75E5E46DD3E47AD: The pharmaceutical lab would like to conduct some research on Scarab beetles. Hospital staff traveling to Egypt in the near future have been asked to collect some and bring them in.
+   [0414] 0x792F74C5FD491CF6: The pharmaceutical lab would like to conduct some research on Scarab beetles. Hospital staff traveling to Egypt soon have been asked to collect some and bring them in.
+   [0415] 0xD75E5E46DD3E47AD: The pharmaceutical lab would like to conduct some research on Scarab beetles. Hospital staff traveling to Egypt soon have been asked to collect some and bring them in.
    [0416] 0x08D17A61F94459CE: EP1_CareerMedical_GetScarabsFailure
    [0417] 0xFC17E108392A140B: Bring {9.Number} Scarab beetles to the Hospital to earn a cash reward.
    [0418] 0xBC4FB0319783C432: Bring {9.Number} Scarab beetles to the Hospital to earn a cash reward.
