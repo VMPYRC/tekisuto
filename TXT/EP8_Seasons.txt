@@ -210,7 +210,7 @@ Unknown3: 0x00000000
    [0CD] 0x3173005064497794: Of the many signs of spring, few are as pleasing to sight and smell as the bloom of wildflowers. Almost anywhere there is a free patch of ground, you can find these multicolored beauties reaching up toward the sun. There are many varieties. Can you collect them all?
    [0CE] 0x418CF325BEDF0C9C: This remarkable window allows so much natural light to cascade into your room, you’ll feel like you’re standing in the middle of an enchanted meadow as the sun comes fully over the horizon. Some will see the sun rising to its zenith in the window’s design, and others will see the full moon. Either is fine. Both day and night will look dazzling through this window’s panes.
    [0CF] 0x2F29E9A5B23CBC78: The world looks too beautiful through the Classic Arch to leave its windows shut all day. If the season’s right, then go ahead! Crack it open and feel the breeze whisper by. Each window uses our hidden hinge system to preserve the beautiful architecture of the frame. You’ll want one on every wall in the house! Purchase the Classic Arch window, and let the world in!
-   [0D0] 0x76E16860D34EA86A: This frozen body of water is just big enough to skate on! Be sure to get out there and slide around. Miss this opportuninty and you'll have to wait another year!
+   [0D0] 0x76E16860D34EA86A: This frozen body of water is just big enough to skate on! Be sure to get out there and slide around. Miss this opportunity and you’ll have to wait another year!
    [0D1] 0x1FFDD6F245A60F5E: Snow Ball
    [0D2] 0x07471531EFF1A402: Water Balloon
    [0D3] 0x5288CB4EC7562ABF: Anniversary Llama
