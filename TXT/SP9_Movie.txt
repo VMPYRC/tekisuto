@@ -6,7 +6,7 @@ Unknown3: 0x00000000
    [01] 0xC511514E6A366973: The Sims™ 3 Movie Stuff Install
    [02] 0x37769DFFEDA44524: The Sims™ 3 Movie Stuff Installer
    [03] 0xA16C72B1DA89B8D7: The All-in-One Bathroom has been reinvented for life in the unauthentic Old West! All the bathroom hijinks you've come to know and love, but now with a rustic finish.
-   [04] 0x57182CF1C29F0F2C: Simantha "Saloon Sal" Simmons was made famous by such films as "Where's Bella?" and "The Good, The Bad, and The Social Bunny." This bar is an exact replica of the one used in "The Llama Whisperer," which many consider to be the high point of Sal's career.
+   [04] 0x57182CF1C29F0F2C: Simantha “Saloon Sal” Simmons was made famous by such films as “Where’s Bella?” and “The Good, The Bad, and The Social Bunny.” This bar is a replica of the one used in “The Llama Whisperer”, which many consider to be the high point of Sal’s career.
    [05] 0x4088A0C43FB7C668: Saloon Sal liked to lounge on set between takes, and this bar stool was her favorite seat during the production of "A Fistful of Simoleons."
    [06] 0x8793A005762EB1EB: The stars are out, the sun has set, and you've worn yourself out with a day spent riding the range…enjoy a good night's rest with the Sweet Sleep Cowgirl Bed.
    [07] 0xDA7C9909E276672E: Eternity lasts forever, so make sure you spend your days sleeping comfortably on a slab of solid rock.
