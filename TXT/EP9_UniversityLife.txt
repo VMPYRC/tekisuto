@@ -2001,7 +2001,7 @@ Unknown3: 0x00000000
    [7CC] 0x95EBCE7992FDDF6D: While everyone else was partying, you had your own private party.
    [7CD] 0xBDC942380F5BACC3: Part of a great rush party is getting your groove on and making connections with other Sims. Make some WooHoo and show off your party spirit.
    [7CE] 0x983CBC68EF8119BB: Everyone was having too much fun at the party to WooHoo.
-   [7CF] 0x31D1DED661325FB8: Find a sim to WooHoo with.
+   [7CF] 0x31D1DED661325FB8: Find a Sim to WooHoo with.
    [7D0] 0x1F8A8BD656930B92: WooHoo!
    [7D1] 0xF1A9672C400940F2: WooHoo with another Sim.
    [7D2] 0x6C3FBFBF815F7B91: You completed the dare!
@@ -2212,9 +2212,9 @@ Unknown3: 0x00000000
    [89F] 0x8A0C5085FA37982E: Your memory is a little fuzzy from donating plasma, but now you have a pocketful of Simoleons!
    [8A0] 0xBBAC502984ECBFAA: Seeking volunteer to donate plasma for a Sim who has a plasma deficiency. Must have healthy eating habits and willing to lose a few hours of your life. Donators will be well compensated.
    [8A1] 0xDF2EFAD252EE53AA: Donating plasma sounded great until you realized needles were involved…
-   [8A2] 0xBEA85545CA34BE3F: Visit the {OpTarget} and Offer to Donate Plasma for the deficient sim.
+   [8A2] 0xBEA85545CA34BE3F: Visit the {OpTarget} and Offer to Donate Plasma for the deficient Sim.
    [8A3] 0xAC612045BF959D15: Get Paid for Your Excess Plasma
-   [8A4] 0xE4D617EECBE828A5: Visit the {OpTarget} and offer to donate plasma for the deficient Sim.
+   [8A4] 0xE4D617EECBE828A5: Visit the {OpTarget} and Offer to Donate Plasma for the deficient Sim.
    [8A5] 0x0B30D27EDB5BB470: You just enrolled in University! Enrolling in University also earned your household some extra Simoleons to help pay for tuition!
    [8A6] 0xEE68235DF89DADF4: All Sims deserve a leg toward their future careers. Enroll in University and earn a degree that will help benefit your future career with extra pay, faster career advancement and improved performance.
    [8A7] 0x5D506FFDE4DF6738: You waited too long to enroll in University, but the phone and computer are always available to enroll if you change your mind!
@@ -2479,7 +2479,7 @@ Unknown3: 0x00000000
    [9AA] 0xBD2FA5E89E90721C: You just powered up your standing within the Nerd group!
    [9AB] 0x8947EF1BCB306DD8: Few games offer a mix of logic and strategy like chess, so it’s no wonder Nerds love to play it so much. Head to a chess table and show the Nerds you’re one of them.
    [9AC] 0x28486767E7471434: {0.SimName} has failed to complete the task in time.
-   [9AD] 0x2C838A3EF9E67191: Win a game of chess against another sim
+   [9AD] 0x2C838A3EF9E67191: Win a game of chess against another Sim
    [9AE] 0xF619953EDA639C77: Chess Nerd
    [9AF] 0xF1A5C64C483A01E3: Win 3 games of chess against other Sims.
    [9B0] 0xAABD001B5C3F3F21: EP9_SocialGroup_Nerd_VideoGameTourCompletionntCompletion Placeholder DO NOT TRANSLATE

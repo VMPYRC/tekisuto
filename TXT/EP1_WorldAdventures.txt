@@ -1511,7 +1511,7 @@ Unknown3: 0x00000000
    [05E2] 0x21525AE0F1CFB561: EP1_Quest_BuildingATelescope4Completion
    [05E3] 0x85618B5CE98AF52F: "Thanks for your help. But, I’m so disappointed! The new telescope lens got slightly damaged in the mail and will no longer fit into the lens socket! What shall I do? Wait! I have a friend who maybe able to fix it without having to send it back in the mail. You, {1.SimFirstName}, have proven to be a big help in my endeavor; can I request your services once again? I need you to deliver the telescope parts to {2.SimName} to be fixed."
    [05E4] 0x35264EC4D3F182BE: "Thanks for your help. But, I’m so disappointed! The new telescope lens got slightly damaged in the mail and will no longer fit into the lens socket! What shall I do? Wait! I have a friend who maybe able to fix it without having to send it back in the mail. You, {1.SimFirstName}, have proven to be a big help in my endeavor; can I request your services once again? I need you to deliver the telescope parts to {2.SimName} to be fixed."
-   [05E5] 0x2C4E488F871C47FF: You destroyed the parts! Hopefully, the sim can get some more later.
+   [05E5] 0x2C4E488F871C47FF: You destroyed the parts! Hopefully, the Sim can get some more later.
    [05E6] 0xFC30B4E88C437D74: Deliver the telescope parts to {2.SimName} so that they can be properly repaired.
    [05E7] 0x081956422D4F7077: Deliver the telescope parts to {2.SimName} so that they can be properly repaired.
    [05E8] 0x2E5BA9E8A82B3976: Busted Parts
@@ -1519,7 +1519,7 @@ Unknown3: 0x00000000
    [05EA] 0x92DA1342EC2272FC: EP1_Quest_BuildingATelescope5Completion
    [05EB] 0xC228D1C6D27EE038: “I’ve repaired the lens! Now that it’s complete, please take it back so that {0.SimName} can begin studying the Dragon Cave from home. {0.SimFirstName} told me you’d be paid with some Simoleons and Ancient Coins for your help.”
    [05EC] 0x92F57E640EC0FEF3: “I’ve repaired the lens! Now that it’s complete, please take it back so that {0.SimName} can begin studying the Dragon Cave from home. {0.SimFirstName} told me you’d be paid with some Simoleons and Ancient Coins for your help.”
-   [05ED] 0xAEB5A81C5EE31E94: You destroyed the parts! Hopefully, the sim can get some more later.
+   [05ED] 0xAEB5A81C5EE31E94: You destroyed the parts! Hopefully, the Sim can get some more later.
    [05EE] 0x3B5C70E2F865EF71: Return the repaired telescope lens to {0.SimName} for a reward of Simoleons and Ancient Coins.
    [05EF] 0xE39982754152AE24: Return the repaired telescope lens to {0.SimName} for a reward of Simoleons and Ancient Coins.
    [05F0] 0x08577BE2DBC48F57: Repair Retrieval
@@ -4322,7 +4322,7 @@ Unknown3: 0x00000000
    [10DD] 0xF67EA799C50FF2F1: Reward
    [10DE] 0xD721EB0E0E1B7ECF: Visa Level
    [10DF] 0xF8AB1A7795BBC2B8: Travel Time
-   [10E0] 0x5AC254FB85A75A35: At least one sim must remain in household while on a trip
+   [10E0] 0x5AC254FB85A75A35: At least one Sim must remain in household while on a trip.
    [10E1] 0xC678A8A7E00A9BC1: World Adventures
    [10E2] 0xA2040C86B35CB573: Music
    [10E3] 0xDAF77C3FCB80C0FA: The Sims™ 3 World Adventures Team
