@@ -2005,7 +2005,7 @@ Unknown3: 0x00000000
    [7D0] 0xE120E0B43779820D: "Ask About Missing Sim" at Diner
    [7D1] 0xEFCC33B43F081DBB: The Mystery of the Missing Mate
    [7D2] 0x2257E6198916A127: Investigate Diner
-   [7D3] 0x4F5CF947614A3C77: Our missing sim does work at the diner…most days. According to the manager, the sim has been calling sick in order to attend auditions at the theater. It appears the missing Sim may just be a hopeful actor…which may be worse. I should search the theater.
+   [7D3] 0x4F5CF947614A3C77: Our missing Sim does work at the diner…most days. According to the manager, the Sim has been calling sick in order to attend auditions at the theater. It appears the missing Sim may just be a hopeful actor…which may be worse. I should search the theater.
    [7D4] 0x38114AA5E51A62FC: "Look for Missing Sim" at theater
    [7D5] 0x6A721FA6012F77CE: The Mystery of the Missing Mate
    [7D6] 0x6C30689A9A2BEB5E: Search Theater
