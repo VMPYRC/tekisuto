@@ -1467,7 +1467,7 @@ Unknown3: 0x00000000
    [5B6] 0x2DC6B0007F7F059A: Read a Book
    [5B7] 0xA8817EE8E1DB91CA: Find a good book, sit down and read it cover-to-cover.
    [5B8] 0x1EE1D6DEA54FDCF0: That extra credit might come in handy at the end of the term!
-   [5B9] 0x585B1222227E7F74:  Public protest is one of Simkind’s most powerful expressive tools. Harness it for yourself! When your civic-minded professor hears of your courage, your surely be rewarded with extra credit.
+   [5B9] 0x585B1222227E7F74: Public protest is one of Simkind’s most powerful expressive tools. Harness it for yourself! When your civic-minded professor hears of your courage, you’ll surely be rewarded with extra credit.
    [5BA] 0xAB2B2EFFF8A1E0B8: You didn’t receive extra credit.
    [5BB] 0xF24C2EFAA5C521CD: Find a protest and participate in it.
    [5BC] 0x045D81FAB036E67B: Participate in a Protest
