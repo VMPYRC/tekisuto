@@ -1336,14 +1336,14 @@ Unknown3: 0x00000000
    [533] 0x1AFD3B6C04E279AB: We are unable to verify that your disc is a valid copy of The Sims™ 3 Pets. Please contact customer service.
    [534] 0xD3470C4E6B734D1F: No game disc found! Please insert The Sims™ 3 Pets game disc before proceeding
    [535] 0x3C56F45B5E15FF7A: You placed a Cat Jungle. This location is perfect for cats to safely play outdoors and make new friends!
-   [536] 0x17A3400FF5D824A1: You placed a consignment store. This location is perfect for putting your sims handcrafted goods up for sale.
+   [536] 0x17A3400FF5D824A1: You placed a Consignment Store. This location is perfect for putting your Sims handcrafted goods up for sale.
    [537] 0xD3E18F270936E22F: You placed a Dive Bar. This location is wonderful for relaxing after a long day, casually enjoying the local night life, or simply getting your juice on.
    [538] 0xA46A4CAA72EAA10B: You placed a Dog Park. This location is just the spot for dogs to run around, play fetch, and meet other pups!
    [539] 0x9D643067B3AFE0C7: You placed an Equestrian Center. This location is the place to be when you're ready to enter your horse in a competition, breed your horse, or simply buy and sell horses.
    [53A] 0x9C231CC835E98144: You placed an Equestrian Center. This location is the place to be when you're ready to enter your horse in a competition, breed your horse, or simply buy and sell horses.
    [53B] 0xF475CF79C609F7F9: You placed a fire station. This is the lot where firemen live while on duty.
    [53C] 0xAC9E39E7DE570B24: You placed a Horse Ranch. This location is great to visit when you're ready to train your horse in the racing or jumping skills.
-   [53D] 0x7196E9D234998425: You placed a junkyard. This place is perfect for finding Scrap and other treasures sims do not want anymore.
+   [53D] 0x7196E9D234998425: You placed a Junkyard. This place is perfect for finding Scrap and other treasures Sims do not want anymore.
    [53E] 0x891C10C101007DFA: You placed a salon. This place is perfect for getting your Sims all dressed up for a night on the town...
    [53F] 0x4290EF82EA751846: In Create a Household, to further customize your pets you can select Advance Mode In both shapes and coat sections
    [540] 0x4290EF82EA751845: If your Sim desires a new pet he/she can adopt one via phone or computer for little or no Simoleons.

@@ -2544,9 +2544,9 @@ Unknown3: 0x00000000
    [9EB] 0x0D23F60A3131D13C: Your rebellious behavior improved your standing with the Rebels.
    [9EC] 0x4801EC57DED07D78: The {OpTarget} is feeling too relaxed and sleepy… Unleash some rebellious behavior with a boisterous outburst of the megaphone. It’s just long overdue.
    [9ED] 0x2E2EC31F28BE2CD4: {1.SimName} has failed to complete the task in time.
-   [9EE] 0xCCE936B9D73685B1: Scare 3 sims at the {OpTarget} with a Megaphone
+   [9EE] 0xCCE936B9D73685B1: Scare 3 Sims at the {OpTarget} with a Megaphone
    [9EF] 0x99E541B9BA96D897: Public Scare
-   [9F0] 0x72923EB0887C0203: Scare 3 Sims at the {OpTarget} with a megaphone.
+   [9F0] 0x72923EB0887C0203: Scare 3 Sims at the {OpTarget} with a Megaphone.
    [9F1] 0x2A898489AA6EB491: Your rebellious behavior improved your standing with the Rebels.
    [9F2] 0xE9E6410CBA9C34FF: There hasn’t been enough change recently, and enough is enough! Show the Rebels you can protest with the best of them by staging a protest at the {OpTarget}. 
    [9F3] 0x671D09E5A3EA220F: {1.SimName} has failed to complete the task in time.
