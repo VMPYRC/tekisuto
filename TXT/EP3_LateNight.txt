@@ -1170,7 +1170,7 @@ Unknown3: 0x00000000
    [48D] 0xF9D1FEE5F723F30B: Read "Dealing With Divas" and return to work.
    [48E] 0x2CD6F1E613C54F89: Keeping the Talent Happy
    [48F] 0x7C677AF1C28F0A79: Read Film Book.
-   [490] 0x51A037F8D1547D19: Who knew there were so many different kinds of fires on set? Electrical fires, chemical fires, grease-paint fires...luckily, you've picked up a tips on how to deal with all of them! The only thing that should be on fire on a movie set is the performances.
+   [490] 0x51A037F8D1547D19: Who knew there were so many kinds of fires on set? Electrical fires, chemical fires, grease-paint fires… luckily, you’ve picked up a tip on how to deal with all of them! The only thing that should be on fire on a movie set is the performances.
    [491] 0xA6A68DF90A14D9F7: A Production Assistant has to make sure that the set runs perfectly, even under the craziest circumstances. Your boss wants you to read "What To Do When Your Set Catches Fire" to brush up on the fundamentals.
    [492] 0xB9CEEABB99CCF37C: Read "What To Do When Your Set Catches Fire" and return to work.
    [493] 0xEC2FBFBBB5E2084E: Assistant to the Production
