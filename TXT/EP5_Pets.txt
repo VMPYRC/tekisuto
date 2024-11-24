@@ -255,7 +255,7 @@ Unknown3: 0x00000000
    [0FA] 0xF28E4D92E3F673A6: The only thing worse than ordinary weeds are dry weeds, yuck!
    [0FB] 0x9FCEF98A408D6A60: SimKing's advanced kitchen technology and design brings you this southwestern-style ice box. Live life in the country without sacrificing the conveniences of modern technology. "Rough it, but don't" is their motto.
    [0FC] 0x6E1FD4ED4665E0E9: Register used for purchasing items for pets.
-   [0FD] 0xB5C794AEA782B379: A great gathering once occured in the shade of this rock.
+   [0FD] 0xB5C794AEA782B379: A great gathering once occurred in the shade of this rock.
    [0FE] 0xB5C494AEA7807D40: Named after the great explorer!
    [0FF] 0xB5C494AEA7807D42: This rock was once used to mark the border between a ranch and a highway.
    [100] 0x45FFDD94DAA5B052: The riddle has been forgotten, so sad!
