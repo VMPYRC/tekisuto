@@ -1470,8 +1470,8 @@ Unknown3: 0x00000000
    [05B9] 0x501D1835423EF335: Find {2.SimName} and Convince Sim to go with you to talk with {16.SimFirstName} to complete this adventure.
    [05BA] 0x8B7E41F3605CDC60: A Convincing Story
    [05BB] 0x712C85BA5769996C: Convince Sim
-   [05BC] 0x383744D17A594AB0: “I am so glad {16.SimName} is going to reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one can not learn on their own! Thank you so much for your assistance.”
-   [05BD] 0x2A1AC253D085F64B: “I am so glad {16.SimName} is going to reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one can not learn on their own! Thank you so much for your assistance.”
+   [05BC] 0x383744D17A594AB0: “I am so glad {16.SimName} is going to reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one cannot learn on their own! Thank you so much for your assistance.”
+   [05BD] 0x2A1AC253D085F64B: “I am so glad {16.SimName} is going to reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one cannot learn on their own! Thank you so much for your assistance.”
    [05BE] 0xAD5D968F10B36834: “So there’s more than meet’s the eye to that old Clan of the Resolute Fist, huh? I always thought there might be something that they’ve kept secret in their organization all these years. I guess if they can’t help me with my Martial Arts skill, it would still be interesting to learn more about the organization. Will you tell {2.String} I will come by soon so we can talk more about my membership to the club?"
    [05BF] 0xEE3DCCF8A545A737: “So there’s more than meet’s the eye to that old Clan of the Resolute Fist, huh? I always thought there might be something that they’ve kept secret in their organization all these years. I guess if they can’t teach help me with my Martial Arts skill, it would still be interesting to learn more about the organization. Will you tell {2.String} I will come by soon so we can talk more about my membership to the club?"
    [05C0] 0xB7B7794C66B65F78: EP1_Quest_BringMonkBack4Failure
