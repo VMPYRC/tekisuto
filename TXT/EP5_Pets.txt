@@ -822,7 +822,7 @@ Unknown3: 0x00000000
    [331] 0x3D138B37335EACC7: 19444 Bob-o-Link Drive
    [332] 0xE533AA4C61CB6AA0: Set somewhat apart from its neighbors, this once elegant Victorian graces the river's edge with a haunting reminder of days gone by. If you plan to restore this home, beware of feline vengeance - and musk!
    [333] 0xACB293BBB1A14CB5: An open floor plan and a large fenced in yard make this house a veritable pooch palace. No misbehaving will be tolerated though so one wonders - should you beware of the dog, or should the dog beware of the owner?
-   [334] 0xA01A7769E924A0AD: Built from locally sourced materials to reflect a contemporary aesthetic, this sturdy house invites comments at the same time as its monolithic facade discourages uninvited guests. Heavy fieldstone walls keep the world, and any snooping paparazzi, at bay.
+   [334] 0xA01A7769E924A0AD: Built from locally sourced materials to reflect a contemporary aesthetic, this sturdy house invites comments at the same time as its monolithic façade discourages uninvited guests. Heavy fieldstone walls keep the world, and any snooping paparazzi, at bay.
    [335] 0x2502E338409614E8: An open floor plan and a generous number of bedrooms make this newer ranch home a good choice for a larger family, or potentially a group of friends. Entertaining in this house is made easier with its large deck and light filled sunroom.
    [336] 0x795575710247EC76: Homesteaded many years ago by the ancestor of the current residents, this was once the finest house in town. Of course it was also the only house in town. Downsides include a somewhat distressed building, and the land it sits on is significantly diminished in acreage from its original size. However, if you can resist political pressure to rezone for commercial construction, and you don't mind the bustling downtown noise, you'll have quite the hot property for quick access to everything the town has to offer.
    [337] 0x4487D152358E0375: Modestly priced but full of charm, this small Victorian house is just waiting to be shown some love. It's a simple starter home, but close to town and full of untapped potential.
@@ -832,7 +832,7 @@ Unknown3: 0x00000000
    [33B] 0x1A7A9D660CB8EFA2: A modest house in a forgotten corner of a nice neighborhood could be a diamond in the rough for the right investor. Why not take a chance on this one?
    [33C] 0xBD24BB261B3141AA: Constructed of high grade wood and local stonework, this three bedroom house includes a spacious den overlooking the meticulously landscaped front yard. Perfect for any family, the dining room will accommodate large dinner parties with ease - and flair. A separate car port is sure to keep your vehicle secure.
    [33D] 0xCFF8BD33869E5808: A very spacious five bedroom home complete with fireplace in the living room, a den, dining room with access to a large deck, and separate en suite bedroom upstairs for the master of the house. Great for a large family or even someone with lots of pets. The property also features a large backyard bordering into the hills.
-   [33E] 0x9F9FD7F1BB01F21F: This modern two bedroom includes a barn for potential horse owners, a beautiful stone fireplace, Mission style kitchen cabinetry, and a spacious dining room. It's the perfect house for any new home owner. Glass facades enhance the feeling of an open floor plan. A lap pool with spacious stone deck make evening barbeque parties a great event.
+   [33E] 0x9F9FD7F1BB01F21F: This modern two bedroom home includes a barn for potential horse owners, a beautiful stone fireplace, Mission style kitchen cabinetry, and a spacious dining room. It’s the perfect house for any new home owner. Glass façades enhance the feeling of an open floor plan. A lap pool with spacious stone deck make evening barbeque parties a great event.
    [33F] 0x49758E101A9270B3: Large rooms make this house exceptionally spacious for a one bedroom home, and the bathroom is equally roomy. Someone would have to accumulate quite a lot to make this place look cluttered - hoarders forewarned.
    [340] 0xF6D4DD786246CAC5: More spacious than expected for a one bedroom home, this house is caught mid-renovation. Although currently boasting an updated kitchen and a large new deck, the bathroom is charitably described as "charmingly original" and the landscape remains "full of potential".
    [341] 0xFBD7DF79FE29422F: For the decadent gardener, this home has a large atrium within the house and a roomy greenhouse in the back yard. Hardwood floors throughout and a Ranch Style kitchen add to its unique flair. The interior is spacious enough to include two living room areas, one casual and the other for formal occasions.
@@ -1099,7 +1099,7 @@ Unknown3: 0x00000000
    [446] 0x5EBADBD60D613CE8: HipHop
    [447] 0x23AFB0C8C97BA532: Hobble
    [448] 0x89CF522620611A11: Honey
-   [449] 0xFE2D130053D5A6A5: Honey is a veritable superstar in the world of country music. It isn't just a facade, she truly lives the life. Her southern drawl has entranced many a man, and she doesn't lack in southern hospitality either. She decided to give midwest living a try to break the writer’s block that developed while attempting to record her next album.
+   [449] 0xFE2D130053D5A6A5: Honey is a veritable superstar in the world of country music. It isn’t just a façade, she truly lives the life. Her southern drawl has entranced many a man, and she doesn’t lack in southern hospitality either. She decided to give midwest living a try to break the writer’s block that developed while attempting to record her next album.
    [44A] 0x9DFCF5C90F0BE016: Hopper
    [44B] 0xED486F04FCA4A285: 
    [44C] 0xC93EC6C927885009: Howlet
@@ -1131,7 +1131,7 @@ Unknown3: 0x00000000
    [466] 0xF91FC63DC0F25242: Kanoa
    [467] 0xB810DE2EC4CE65BC: If people really got to know Kanoa, they probably wouldn't like what they found. As a Hawaiian transplant, people chalk up his flamboyant personality as a regional disconnect. Too many business trips and too many nights in hotel rooms have all shaped him into a skilled schmoozer - quick to strike up a conversation at a bar, and even quicker if a pretty lady catches his eye.
    [468] 0xD584FD3DAC822711: Kenji
-   [469] 0x04FD3CADBB3FE090: Kenji is a practical one, content to pool his resources with his roommates while devoting his time to his true passion, archeology. He was drawn to the town of Appaloosa by the large dig site that's long been something locals boast about. Beyond the tourist trap facade lie layers of dinosaur bones and traces of a ritualistic monument. What secrets await buried in the hillside?
+   [469] 0x04FD3CADBB3FE090: Kenji is practical and content to pool his resources with his roommates while devoting his time to his true passion, archeology. He was drawn to the town of Appaloosa by the large dig site that’s long been something locals boast about. Beyond the tourist trap façade lie layers of dinosaur bones and traces of a ritualistic monument. What secrets await buried in the hillside?
    [46A] 0x54CB35AD562624F7: Kicker
    [46B] 0x297E6BAD3D9FB8A9: Kiffle
    [46C] 0x70F282C6D6913AE1: Kim
