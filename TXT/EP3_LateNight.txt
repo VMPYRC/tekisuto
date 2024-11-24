@@ -263,7 +263,7 @@ Unknown3: 0x00000000
    [102] 0x9F4A935698163458: Unrestricted access is a thing of the past. With the Small Barrier Rope, you can limit the access of a room or building to only allow your favorite Sims. Use with small doors or arches only.
    [103] 0x9F4D995698187443: Unrestricted access is a thing of the past. With the Large Barrier Rope, you can limit the access of a room or building to only allow your favorite Sims. Use with large doors and arches only.
    [104] 0xC89A73CB9DF22638: Bridge Ramp Retaining Wall
-   [105] 0x6D3466DC6C3F1711: Built by the late Ebenezer Alto at the turn of the century, these buildings still retain a sense of his commitment to hardwork and old fashioned values.
+   [105] 0x6D3466DC6C3F1711: Built by the late Ebenezer Alto at the turn of the century, these buildings still retain a sense of his commitment to hard work and old fashioned values.
    [106] 0x01424D01DA415C33: High rise living will never be the same when you install the Drop Look Chute! You'll enjoy the convenience of easy trash disposal combined with a sleek industrial design. Take a peek down the chute and enjoy watching gravity in action as your trash falls to the bottom.
    [107] 0xE2A36239291721EF: Before unveiling his creations to the world, famed window designer Xavier X. Xylander always shows his latest window designs to his brother Xander, a world-renowned surfer. When Xander saw his brother's latest creation, he exclaimed, "Dude, that window is so awesome…it's sawesome!"
    [108] 0x011E865AC0F92667: Enjoy all the beauty nature has to offer with the Window to the World! You can practically smell the fresh air as you take in a panoramic view of outdoors while sitting on your couch. Note: Creatures of the night will loathe this window.
