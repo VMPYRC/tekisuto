@@ -28,7 +28,7 @@ Unknown3: 0x00000000
    [017] 0xB7D53FEFE9DB7579: Simple Paneling with Crown and Baseboard Moulding - Right Edge
    [018] 0xBB0D813011513BBE: The Sims™ 3 Ambitions
    [019] 0x1673DB0E300E807E: The best alarms are those that are not only reliable, but so loud you can hear them one block away! The Fireman's Friend is guaranteed to wake-up sleeping neighbors, annoy dogs, and alert an entire fire station to danger, all within mere seconds of sounding.
-   [01A] 0xA6DC8490804CCAA2: This woodern barn is a perfect housing for storage or use as a covered workplace.
+   [01A] 0xA6DC8490804CCAA2: This wooden barn is a perfect housing for storage or use as a covered workplace.
    [01B] 0x9FB4E56761A24FF8: A good chair can be underrated. Alter the setting of someone's office chair and their world is turned upside down. Make things right in your office by purchasing The Drafter's Companion.
    [01C] 0x0EEB25D7711FBDD7: While the sound of the ocean waves may lull some to sleep, the sound of creaking springs works for others. As an extra, the Signs-of-Springs bed is pre-rusted for your sleeping pleasure.
    [01D] 0x65F2B7439D14BF80: This old boat has been abandoned for a long period of time. Its remaining uses are almost non-existent.
