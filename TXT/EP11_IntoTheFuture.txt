@@ -1985,7 +1985,7 @@ Unknown3: 0x00000000
    [7BC] 0xA36A17D7EF49AB6A: Automating Plumbots...
    [7BD] 0xA36A17D7EF49AB6B: Measuring Singularity...
    [7BE] 0xC5AD86FE6669EF93: There can only be one lot assigned as a Community Living Center. Please change the existing Community Living Center's lot type before continuing.
-   [7BF] 0xF52A3BC1714C3026: You cannot change active household when travelling through time.
+   [7BF] 0xF52A3BC1714C3026: You cannot change active household when traveling through time.
    [7C0] 0x7DE49DFE42BCC0EB: There is currently no Community Living Center. One must be created before returning to game.
    [7C1] 0x25E75CD05241E8FC: No game disc found! Please insert The Sims™ 3 Into the Future disc before proceeding.
    [7C2] 0x2D76800CB4CAE7D8: No game disc found! Please insert The Sims™ 3 Into the Future disc before proceeding.
