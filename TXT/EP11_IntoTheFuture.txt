@@ -91,7 +91,7 @@ Unknown3: 0x00000000
    [056] 0xD77C059D5B54BD6E: This indestructible fencing protects your property while also allowing those excluded to view its splendor! Be wary of judgment: you know what they say about Sims with glass fences.
    [057] 0x16F015B82235785F: You’d like to build a forbidding fence around your property to keep out the riff-raff, but that would be rude. Hedge fences accomplish the same thing in classier fashion.
    [058] 0x4D8CFCA74F1F999F: This picturesque hedge fence is only waist-high, but it makes a huge impression in the neighborhood! Border your yard with natural splendor for a reasonable cost with no maintenance required.
-   [059] 0xE8EDA75FE5E90FAF: Perfect for barbeques and other outdoor celebrations, this no-frills fire pit casts warmth and light across your garden. Snuggle up with family members for hot drinks and ghost stories!
+   [059] 0xE8EDA75FE5E90FAF: Perfect for barbecues and other outdoor celebrations, this no-frills fire pit casts warmth and light across your garden. Snuggle up with family members for hot drinks and ghost stories!
    [05A] 0xE732C33926E2877B: A brilliant new shift to the tired old fireplace paradigm. High-tech ventilation removes the need for a traditional brick hearth, allowing a flame open on every side.
    [05B] 0x6B4BB7CB81C6CA4B: In a time with fewer flammable materials, open fireplaces are all the rage! The SootStack cozies up your family room while projecting a very “industrial” look.
    [05C] 0xE5053605350BB831: Three Eyed Fish
