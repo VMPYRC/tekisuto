@@ -436,7 +436,7 @@ Unknown3: 0x00000000
    [1AF] 0x5F923A658DBE6585: Hanging Store Sign
    [1B0] 0x9465FA07C24EDDC8: The Medinator
    [1B1] 0x856035EB8B2E97E2: The Mini Miner
-   [1B2] 0xE2CBDED142A535AC: Mon Petite Chateau
+   [1B2] 0xE2CBDED142A535AC: Mon Petite Château
    [1B3] 0x05D2D933C84235BD: Skeletal Endowment
    [1B4] 0x0C47390D814BD1DB: Golden Fire Hydrant
    [1B5] 0xBF563716300D54FB: Paranormal Memento
