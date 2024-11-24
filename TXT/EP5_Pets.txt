@@ -174,7 +174,7 @@ Unknown3: 0x00000000
    [0A9] 0xBC2A200DCABA9C4D: An old mill.
    [0AA] 0x4BD36034F4C9DB4B: A dark and gloomy mine...
    [0AB] 0x11AA2FAEA24E24A2: These bones are aged and brittle.
-   [0AC] 0x5399F23A654E38DF: Museum quailty!
+   [0AC] 0x5399F23A654E38DF: Museum quality!
    [0AD] 0x11AA2FAEA24E24A1: What funny looking bones!
    [0AE] 0x11AA2FAEA24E24A0: These bones are large, but light weight.
    [0AF] 0x829B7AEB4E412DB1: This is a Bird spawner.
