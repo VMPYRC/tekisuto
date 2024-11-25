@@ -51,7 +51,7 @@ Unknown3: 0x00000000
    [02E] 0xE9D6EF8F4FFCB67B: use base game text [Placeholder]
    [02F] 0xD99174D9FB2B9BB3: If clothes made the man, well you can bet it was a desk that made his millions. Whether you’re a scheming financier, a creative entrepreneur, or a captain of industry, sitting behind a desk that makes you look important is key to furthering your enterprises.
    [030] 0x20D1C2E735D8F886: use base game text [Placeholder]
-   [031] 0xCDA10E1A869E845C: Nothing says “I’m a hardworking professional” like a finely crafted door with a frosted window that hides the fact that you’re really asleep at your desk.
+   [031] 0xCDA10E1A869E845C: Nothing says “I’m a hardworking professional” like a finely crafted door with a frosted window, cleverly concealing the truth that you’re actually asleep at your desk.
    [032] 0xC3D9C77E813971E7: This office door provides the privacy you need in any office building. Its sturdy frame and frosted glass window provides a secure environment with the visibility of knowing if someone is in the room.
    [033] 0x0EBDE138288F9B29: Ornate doors? Overrated! Simple Doors? Simply wonderful! 
    [034] 0x412DC21A7470E2F8: With frosted and reinforced glass, this sturdy door lets in light without letting outsiders ogle the goods you have inside. A perfect balance of utilitarian form and subtle styling, this is a door on which opportunity can't wait to knock.
@@ -1731,7 +1731,7 @@ Unknown3: 0x00000000
    [6BE] 0x86A996C37297591F: "Research Sleepwalking" at local Hospital
    [6BF] 0x746161C367F685F5: The Case of the Footsore Floater
    [6C0] 0xE70120B65BBB1C85: Research Sleepwalking
-   [6C1] 0x724F5EA18762C6B3: {OpTarget} wasn’t surprised to hear about kicking the gnome while sleepwalking. Doesn’t change the fact that I was surprised by it all. The gnome will be padded to preserve {OpTargetFirstName}’s toes. I’m going to take my fee and look for my next case.
+   [6C1] 0x724F5EA18762C6B3: {OpTarget} wasn’t surprised to hear about kicking the gnome while sleepwalking. Doesn’t change the reality that I was surprised by it all. The gnome will be padded to preserve {OpTargetFirstName}’s toes. I’m going to take my fee and look for my next case.
    [6C2] 0x94054A0DDD375AC9: According to the docs the sleepwalking theory makes a lot of sense. It seems {OpTarget} has consulted with the hospital before for sleepwalking. I should tell {OpTarget} that I solved the case.
    [6C3] 0xB034A6A61CA2DF82: "Report In" to {OpTarget}
    [6C4] 0x7D30B3A6000336EC: The Case of the Footsore Floater
