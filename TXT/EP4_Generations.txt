@@ -89,14 +89,14 @@ Unknown3: 0x00000000
    [054] 0x6BC1547F4854EC7A: This clever piece features an adorable bunny caught in a sudden rain storm. The brilliant red umbrella draws the viewer's attention to the bunny's plight. Though smiling, one must theorize that he is cold and wet and possibly lonely. It makes one ponder the questions who is this bunny? Where is he? Why is he alone? What does a wet bunny smell like?
    [055] 0x21D3488FF96A1032: Don't be ashamed to display this family photo prominently in your home! Sure, guests may speak in hushed whispers, nervously shifting their eyes, attempting to contain a sarcastic snicker, but no one will overtly question your family's proud pose, lest their own awkward relatives be exposed. No, you will lead the way by boldly showing your family as they truly are, throwing caution to the wind in a sign of true love!
    [056] 0x18E91839ADB20E28: Adorn the walls of your teenager's small bedroom prison with inspiring sights of the outside world. Gentle waves and sunsets will encourage them to complete their homework and endure their grounding with grace so they can once again join the world outside!
-   [057] 0x7244A8CD475DCB0B: A staple of teen bedroom decor, the Incomparable Idol Poster lets your youngster inexpensively display their latest object of idolatry in their own private hideaway. Constructed from biodegradable lettuce-based material, so no harm will come to the environment once your teen moves on to the next idol and throws the poster away!
+   [057] 0x7244A8CD475DCB0B: A staple of teen bedroom décor, the Incomparable Idol Poster lets your youngster inexpensively display their latest object of idolatry in their own private hideaway. Constructed from biodegradable lettuce-based material, so no harm will come to the environment once your teen moves on to the next idol and throws the poster away!
    [058] 0x105F5BE6C554C66F: From the Grandpappy's Greatest Images collection comes the historic Planes of the Past series of photography. History buffs will love to hang these pictures of vintage planes on their wall. This collection includes the likeness of the famous "Lofty Llama," which is legendary for making the first transcontinental llama transportation flight.
    [059] 0x27B827626256E899: Hang this romantic painting and fuel your mythical dreams of prancing with magical creatures in a distant fantasy land. Like a sprinkle of fairy dust on your wall, your wildest visions will come to life right before your eyes!
    [05A] 0xBF6398A112001564: Eight-armed wonder of wide salty seas, Pirate Queen Olivia Octopi roams with her crew fighting injustice beneath the waves and keeping perhaps a bit of the plunder for herself and her pals. Though never violent, Olivia is a fearsome foe who can unleash an ink cloud at a moment's notice, confusing her enemies and abetting her getaway. Always at her side are her loyal crew members Cassie the seahorse and Elmo the striped fish.
    [05B] 0xD351D6ECF2651ABB: This is an award for Art Club President.
    [05C] 0x1E7C07FC5AE5DB6B: This is an award for Leads in the Drama Club.
    [05D] 0x795BBD0CD92F839F: This is a souvenir from attending a Field Trip to a Graveyard.
-   [05E] 0x8263520104D3AF54: Fuel the overactive imaginations of your little prince or princess by hanging this kiddiefied representation of the middle ages on their wall. They'll spend hours dreaming dashing adventures in medieval times, fighting dragons and tilting at windmills. Cute, but not scary, this is safe, non-nightmare inducing decor for your little ones!
+   [05E] 0x8263520104D3AF54: Fuel the overactive imaginations of your little prince or princess by hanging this kiddiefied representation of the Middle Ages on their wall. They’ll spend hours dreaming dashing adventures in medieval times, fighting dragons and tilting at windmills. Cute, but not scary, this is safe, non-nightmare inducing décor for your little ones!
    [05F] 0x79AB099C32A63DDF: Embrace your inner girly-girl by adorning your bedroom wall, school locker, or study room with this ridiculously adorable framed picture. Hang it by its cute bow and rest assured that its incredible femininity will act as a protective shield from the sticky fingers of your nosy little brother.
    [060] 0x415819A37F230218: The is the Age Freeze Potion.
    [061] 0xF98DB0F3B011E8D2: This is the Bladder Flow Potion.
@@ -111,7 +111,7 @@ Unknown3: 0x00000000
    [06A] 0x6B029FEDDFBC5BA1: This is the Stink Juice Potion.
    [06B] 0x01EEF10A123D3438: This is the Young Again Potion.
    [06C] 0xC4256F576BA950B9: Those who live in glass houses should get a glass refrigerator to match. Keep your food and beverages frosty cold with this frosted-glass front fridge!
-   [06D] 0xCC25902B553CB998: Unfurl the Flower Power Rug in any room to add a lively splash of color to the decor. You'll be delighted when you brighten and infuse the space with the energy of flowers.
+   [06D] 0xCC25902B553CB998: Unfurl the Flower Power Rug in any room to add a lively splash of color to the décor. You’ll be delighted when you brighten and infuse the space with the energy of flowers.
    [06E] 0x34B8542AA01D68AD: The Heart of Rugness presents a plush landscape of fibers to bushwhack through with your feet like jungle undergrowth. Your toes will explore mysteries and wonders like a journey into the deepest unexplored jungle. Who knows what lint and dried morsels of food will be discovered with your toes?
    [06F] 0xA9306BA0DB94771B: A classic counting game that has been popular with generations of Sims, Hopscotch is best played alone or in groups of two, three, or four! Just toss the marker, skip the spot that it lands on, and hop your way from start to finish. Those who complete the circuit perfectly earn victory! Those who stumble find only shame.
    [070] 0x2E139A1EB9917F24: A space age variation on the classic hopscotch court, this fun field of asteroids nurtures the astronomical imagination! Show off your superior hopscotch skills by hopping from asteroid to asteroid. Just be careful not to stumble…in space you may just float away.
@@ -377,7 +377,7 @@ Unknown3: 0x00000000
    [174] 0xA8784E3B9CACBB96: Perennial Evergreens Vase
    [175] 0x80A679DF858D2B6F: Zachary Zombo Pencil Holder
    [176] 0xE86E089A9CC2186D: No-man’s-land’s Periscope
-   [177] 0x650C9287C57D9833: Spyglass Decor
+   [177] 0x650C9287C57D9833: Spyglass Décor
    [178] 0x7FF6206A44598B37: Young Noble Bed Canopy Set
    [179] 0xD4FE211BEC92647A: Tree Wall Decal
    [17A] 0x45B6EF9B45BE9CA3: High School Diploma

@@ -118,7 +118,7 @@ Unknown3: 0x00000000
    [071] 0xE991CA49780B924C: This the hot tub basin. It is the bottom of the Hot Tub.
    [072] 0xB7B128411946FB24: Celebrate the humble light bulb by planting this funky light on your ceiling. As time goes by, your affection for this unassuming lamp will continue to grow.
    [073] 0x03C14F980477C010: Got an obscenely expensive piece of artwork that you want to show off? Shine the Super Spotlight on that posh piece of eye candy and ensure that all eyes are drawn to your extravagance!
-   [074] 0x981D06E5A61A3B3A: Serve up your light on a platter with this designer overhead light. This dinnerware-inspired creation adds an unconventional touch to any decor.
+   [074] 0x981D06E5A61A3B3A: Serve up your light on a platter with this designer overhead light. This dinnerware-inspired creation adds an unconventional touch to any décor.
    [075] 0x788716582263A9CF: Unleash a canopy of light when you hang the Beautiful Bevels Hanging Light from your ceiling. The handsome simulated stained glass is guaranteed to enhance the look of game rooms, dining rooms, and more!
    [076] 0xAE88FEC995CD57BD: The Two-Toned Pendant, designed by Ginter Luminous, is a graceful dangling light that sets the right ambiance for any décor. Its two-toned design provides subtle lighting with a unique glow.
    [077] 0xDC2A3C9D44209EA3: Light Catcher by Ice Lighting is a one-of-a-kind ceiling decoration that is both modern and elegant for the materialistic heart. Its unique design mimics the design of ice crystals, catching and diffusing light throughout the whole room. Ice out your ceilings with the Light Catcher by Ice Lighting!
@@ -129,7 +129,7 @@ Unknown3: 0x00000000
    [07C] 0x91DE0CBFF63583D8: It’s time to kick this rave up a notch! This is either the start of an awesome party or the newest way to torture your Sim with 1.21 gigawatts of pure pulsing power.
    [07D] 0x1DE2320D32DA11B6: Black lights were the result of misguided research at Landgraab Industries in an attempt to harness the power of black holes on a small scale. Each fluorescent tube actually traps a small scientific anomaly that swallows all nearby light and emits an eerie glow. Fortunately there has yet to be a recorded incident of a light breaking; the result would be catastrophic.
    [07E] 0xA600BFA39B0A4455: Like a strange light in the night sky, the U.F. Light shines brightly without the need for electrical connections. Don't be surprised if some of your Sim guests are mysteriously drawn to the glowing beacon!
-   [07F] 0x508405D29FBC7114: This modern, light-weight lamp is easy to install and even easier to use. Providing Sims with minimal warmth and an abundance of light the Haute Heat Lamp is a must for any outdoors gathering or soiree. The mere presence of this stylish light source adds a touch of sophisticated ambience to even the most derelict of abodes.
+   [07F] 0x508405D29FBC7114: This modern, lightweight lamp is easy to install and even easier to use. Providing Sims with minimal warmth and plenty of light the Haute Heat Lamp is a must for any outdoors gathering or soirée. The mere presence of this stylish light source adds a touch of sophisticated ambience to even the most derelict of abodes.
    [080] 0xA88B15E562BD935F: Black lights were the result of misguided research at Landgraab Industries in an attempt to harness the power of black holes on a small scale. Each fluorescent tube actually traps a small scientific anomaly that swallows all nearby light and emits an eerie glow. Fortunately there has yet to be a recorded incident of a light breaking; the result would be catastrophic.
    [081] 0xEF395903005CED8E: When Bridgeport was founded, the first Mayor instituted these lights throughout the city. Now throughout the world, Bridgeport is known for its lights.
    [082] 0x392584712D079F50: Create a romantic ambience in any setting with the Fiery Glow Light. You'll love watching the mock flame dance across the face of that special Sim. Enjoy the beautifying effects of soft lighting as you gaze into your loved one's eyes!
@@ -233,7 +233,7 @@ Unknown3: 0x00000000
    [0E4] 0x366D65D8383837B7: signUrbanBillboardVar04 needs description
    [0E5] 0x36E3D1C4D71B345E: signUrbanBillboardVar03 needs description
    [0E6] 0x7CCD1E7EAFD6FE53: Place this sign outside the stadium to make sure nobody misses it while driving by. Bask in 1000 kilowatts of electronic glow!
-   [0E7] 0x65A09BFCF7666706: Add a touch of industrial design to your decor by installing the Industrial Sink. Its simple, unadorned design will make it look like you ripped your sink out of an industrial kitchen.
+   [0E7] 0x65A09BFCF7666706: Add a touch of industrial design to your décor by installing the Industrial Sink. Its simple, unadorned design will make it look like you ripped your sink out of an industrial kitchen.
    [0E8] 0x80CA387201DF7EBD: Old-fashioned sinks got you down? Upgrade now to the New Loew's Sink and double your sink power! Note: any reports of excessive flooding and pipe leakage from previous Loew's models are unsubstantiated.
    [0E9] 0xBEB1FC5E3919D6EB: Sometimes an ordinary sink just won't do. Kick it up a notch with the Brash Bowl and show the world just how XTREME sinks can be! Warning: those Sims with a fear of porcelain should avoid all contact with the Brash Bowl.
    [0EA] 0x7491F9E2324C5199: [placeholder]

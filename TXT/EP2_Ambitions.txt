@@ -74,7 +74,7 @@ Unknown3: 0x00000000
    [045] 0xEC178160B77A8FA2: Hygienator [Placeholder]
    [046] 0x59475B8554B09AC9: Spawns random junk to pick up at the junk yard.
    [047] 0x39645331880EBE0B: For those who aren't afraid to stand up to bold scrutiny, this shade-less hanging light says "Take a look!" With no accoutrements or accessories to distract you from its real purpose, the Bare Bulb Spartan Lighting fixture is pure shine. Because, after all, isn't that what light is all about?
-   [048] 0xB1891ED323A84270: The beautiful Violetta constructed this sturdy drum of willow branches and lined it with hand spun cotton. She soon realized that a cotton lined drum doesn't make for very pleasant listening. Unperturbed, she cut a hole, added a lamp, and hung it from the rafters, fashioning a very pleasing addition to ceiling decor.
+   [048] 0xB1891ED323A84270: The beautiful Violetta constructed this sturdy drum of willow branches and lined it with hand spun cotton. She soon realized that a cotton lined drum doesn’t make for pleasant listening. Unperturbed, she cut a hole, added a lamp, and hung it from the rafters, fashioning a pleasing addition to ceiling décor.
    [049] 0x6F05AAE1A311EF5F: Shining just a bit more brightly, and hanging just a little bit more haughtily, this simply elegant ceiling lamp is destined to be your new favorite. Sit and bask in its warm glow. It’s so lovely that you’ll never want to turn it off.
    [04A] 0x1C052A70330B249D: The Sistine Lampel draws inspiration from one of the most ceiling-centric works of art. A truly beautiful masterpiece. Accept no imitations.
    [04B] 0xECB5C23A6CB5F3A3: Drawing inspiration from a bat, The Bat Light hangs upside down. Unlike a real bat, this lamp is guaranteed not to bite.
