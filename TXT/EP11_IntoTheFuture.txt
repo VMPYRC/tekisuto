@@ -670,7 +670,7 @@ Unknown3: 0x00000000
    [299] 0x9230B9D7E3AC8BB9: Gaia’s Terrace Sculpture by Hill Gulch Furnishings
    [29A] 0xBFAD52B58B7CCB68: PodPeas Table Sculpture by Wiggin Youth Architecture
    [29B] 0x25F351C18F44CF03: Pinwheel Novae Table Sculpture by Wiggin Youth Architecture
-   [29C] 0xF4A3E571771706F5: Conhedo-Supo-Centric Geode Sculpture by Van Allen Decor
+   [29C] 0xF4A3E571771706F5: Conhedo-Supo-Centric Geode Sculpture by Van Allen Décor
    [29D] 0x6939F0E888D784A4: Artesia Table Sculpture by Modern Arcology
    [29E] 0xD196EE5B0E47F911: Llama TRN-115
    [29F] 0xD196EE5B0E47F912: Llama GRX-965
