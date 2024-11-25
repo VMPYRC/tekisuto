@@ -1,8 +1,16 @@
 # tekisuto
 
-- Text Changes for The Sims 3
-- English (US) Only
-- Steam Version
+- The Sims 3. Steam Version.
+- Text Changes for:
+  - Grammar
+  - Spelling
+  - Punctuation
+  - Word Choice
+  - Redundancy
+  - Wordiness
+  - etc.
+- Language
+  - en-US (English-USA)
 
 ## Instructions
 
