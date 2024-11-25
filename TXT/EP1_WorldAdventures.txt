@@ -4214,7 +4214,7 @@ Unknown3: 0x00000000
    [1071] 0x4E35AB6858686C17: I'd be doing much better if the Temple of Heaven were restored. The Brotherhood should never have left that incredible place.
    [1072] 0x4E35AB6858686C10: Hey, do you have UFO sightings in your country? Just the other day a spaceship swooped by and sucked up a tree and small shrub. I wonder if they are going to plant those on some other planet?
    [1073] 0xE57C188B883D0E3B: I was at a 4 star restaurant the other day and esteemed food critic Larimore Pearson was there. After his meal he exclaimed, "This is exactly what great food is! I shall kiss the cook!" I don't think he did though.
-   [1074] 0xE57C188B883D0E38: Catsup is for poseurs my friend. Use anything besides catsup please. Soy sauce, mayonaisse, hoisin, just for the love of great food avoid the catsup! And using a microwave is fairly low quality as well.
+   [1074] 0xE57C188B883D0E38: Ketchup is for posers my friend. Use anything besides ketchup please. Soy sauce, mayonnaise, hoisin, just for the love of great food avoid the ketchup! And using a microwave is fairly low quality as well.
    [1075] 0xE57C188B883D0E39: What makes great food you say? The great cook Lyndsay Mazza always said salt helps, but if you add fat and oil to anything, it will be better.
    [1076] 0xE57C188B883D0E3E: The great chef Raymundo once told my grandfather that you must make sure to maintain a delicate and unique blend of flavor and nutrition. Butter helps a lot too.
    [1077] 0x5FD274EEEEBA7E72: Ask About Breathing Techniques
