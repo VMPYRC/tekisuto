@@ -27,7 +27,7 @@ Unknown3: 0x00000000
    [16] 0xBE1ABBD2AD93D0D1: Enjoy the clever juxtaposition of organic vs. steel with the JuxtaPlant. Marvel as the living flora struggles up from its cold, industrial prison. You can tell all of your friends it’s an allegory for something and they will totally believe you.
    [17] 0xA1105FFC90C86806: Kids and adults love Lightsplosion! Using the newest breakthrough technology, Fiber Optics, the Lightsplosion! can fill any space with a million tiny lights. It’s the same tech they use on the space shuttle! Part light, part sculpture, all future – Lightsplosion!
    [18] 0x053432946897900E: The perfect complement to our famous “The Dance Floor,” this electric wall sculpture will bombard your party pad with all the light and color you could ever need. Show your friends that the party doesn’t end with the floor – it’s all around them! The Dance Wall: It’s a little bit of dance floor… for your wall.
-   [19] 0xDD38D0D8D52E8936: There’s no simple way to capture the look and style of an entire decade, unless you’re talking about the 80’s in which case it’s random colors and shapes mashed together. If you want the 80’s on your wall, this is definitely the most direct route. Not 80’s enough for you? Now with NEON!
+   [19] 0xDD38D0D8D52E8936: There’s no simple way to capture the look and style of an entire decade, unless you’re talking about the 80s in which case its random colors and shapes mashed together. If you want the 80s on your wall, this is definitely the most direct route. Not 80s enough for you? Now with NEON!
    [1A] 0x4EC6F1F62FB8F4FB: Inspired by a chocolate bar he dropped on the ground once, Hermann Von Lohffseet designed the ChocoSofa to suggest delectable blocks of chocolate. Also, it’s a sectional sofa, and chocolate bars can be broken up into sections. Von Lohffseet is a food-loving genius – that’s all we’re saying.
    [1B] 0x4ED439EF8DEC2DB3: What ChocoSofa could be complete without the ChocoSpacer? Hermann Von Lohffseet designed this ottoman to suggest delectable blocks of chocolate. This ottoman can serve to break the ChocoSofa into sections.
    [1C] 0x0663FBB227663946: Has your box got all the boom you could possibly need? It will once you invest in the Boomin’ Box, the Hi-est, Fi-est mega stereo ever assembled. It’s got the bass, it’s got the watts, it’s got noise cancellation out the wazoo! It’s got 32 different types of woofer! It’s got more dials and switches than you’ll ever know what to do with. What are you waiting for??
@@ -59,7 +59,7 @@ Unknown3: 0x00000000
    [36] 0xFC963C81FE793830: JuxtaPlant
    [37] 0x51C175CAA5578E73: Lightsplosion!
    [38] 0xC6E187A2EC7EA1B5: The Dance Wall
-   [39] 0x2CAA80DE5D89E4EF: So Very 80’s
+   [39] 0x2CAA80DE5D89E4EF: So Very 80s
    [3A] 0x9C038827E133FAE0: ChocoSofa
    [3B] 0x157D691E65885AE4: ChocoSpacer
    [3C] 0xCEA4A688B5ABC2B1: Boomin’ Box

@@ -123,7 +123,7 @@ Unknown3: 0x00000000
    [076] 0xAE88FEC995CD57BD: The Two-Toned Pendant, designed by Ginter Luminous, is a graceful dangling light that sets the right ambiance for any décor. Its two-toned design provides subtle lighting with a unique glow.
    [077] 0xDC2A3C9D44209EA3: Light Catcher by Ice Lighting is a one-of-a-kind ceiling decoration that is both modern and elegant for the materialistic heart. Its unique design mimics the design of ice crystals, catching and diffusing light throughout the whole room. Ice out your ceilings with the Light Catcher by Ice Lighting!
    [078] 0xFDE177920ABAA1E0: Elliptical Luminosity is uniquely engineered to light a room without adding negative pressure to your corneas. Enjoy great lighting without costing your sight with Elliptical Luminosity!
-   [079] 0x0DCD3EF1ED0A2230: Nothing says nostalgia like the Z Light by Ice Lighting. Its design alone can make anyone stop and say, "What was going on in the 60s that this embodied elegant design?" If you want a ceiling light that doubles as a conversation piece, then the Z Light is the one for you.
+   [079] 0x0DCD3EF1ED0A2230: Nothing says nostalgia like the Z Light by Ice Lighting. Its design alone can make anyone stop and say, “What was going on in the 1960s that this embodied elegant design?” If you want a ceiling light that doubles as a conversation piece, then the Z Light is the one for you.
    [07A] 0x5F9B1E0359D5DC37: The Stem Chandelier by Ice Lighting has a clean design that evokes the elegance of wind catchers. Its tasteful simplicity adds serenity to any décor. Let it chime its way into your home!
    [07B] 0x6F9F09CC1A2B22A0: Got an obscenely expensive piece of artwork that you want to show off? Shine the Super Spotlight on that posh piece of eye candy and ensure that all eyes are drawn to your extravagance!
    [07C] 0x91DE0CBFF63583D8: It’s time to kick this rave up a notch! This is either the start of an awesome party or the newest way to torture your Sim with 1.21 gigawatts of pure pulsing power.
@@ -187,7 +187,7 @@ Unknown3: 0x00000000
    [0B6] 0x2B61D6BBA99549C6: A diverse, international panel of your film industry peers have chosen to recognize your emerging talent. You have received this handsome award as a symbol of your contributions to the film industry.
    [0B7] 0x98C2D2C92915EF35: Your work has been recognized as the top in the field by the most distinguished members of the film industry. You've earned the most prestigious industry award in recognition that you are at the height of your career!
    [0B8] 0xCA78E4A219979F7F: The Sims on the street have spoken and have chosen you as their favorite personality in the film industry! You've been given this tasteful award as a symbol of your widespread popularity.
-   [0B9] 0x0C324DD68E713D9E: Ben Hueber launched a new craze in the 1970s by importing cheap sculptures, scraping off the “Made in Shang Simla” imprint, and selling them at a massive markup. The bottom fell out of the market once people discovered their true origin and tossed them in the trash. Ironically, the originals are so rare in number now that they’ve once again skyrocketed in value, resulting in indiscernible knockoffs from exactly the same source.
+   [0B9] 0x0C324DD68E713D9E: Ben Hueber launched a new craze in the 1970s by importing cheap sculptures, scraping off the “Made in Shang Simla” imprint, and selling them at a massive markup. The bottom fell out of the market once people discovered their true origin and tossed them in the trash. Ironically, the originals are so rare now that they’ve once again skyrocketed in value, resulting in indiscernible knockoffs from the same source.
    [0BA] 0x0BD5D08961499291: Renowned florist Chelle created this vibrant arrangement to symbolize an abstract representation of a lady’s hair after a night on the town. She didn’t hold back, and the striking colors will be the focal point of any elegant room. Bold and beautiful in its design, make a statement with the Belle of the Ball.
    [0BB] 0x8B8DAF81246312CA: Well isn't this the most adorable soap pump ever! It's just about the cutesy-wootsiest thing I've ever seen. What a good little soap pump! Aren't you just precious?
    [0BC] 0xDF99EB326E9237E8: It's the little touches that show your guests how much you care. Pamper visitors with a stack of these simple, yet elegant, towels. Make your bathroom an oasis and enjoy the fine luxury of 100% Tambenian cotton.
@@ -1335,7 +1335,7 @@ Unknown3: 0x00000000
    [532] 0x530712218F8D86CD: Jam for {OpEventTimeCurrent} / {OpEventTimeGoal} hours at {OpTarget}
    [533] 0x28EDCF57D1AEBD3C: {OpTarget} was glad to hear all about the great musicians' stage moves! In fact, {MB.he}{FB.she} hopes to try out "The Kick Drum" tonight!
    [534] 0xFCEA2B3F93158178: {OpTarget} found an old book in their guitar case. It showcases the Sweet Moves and stage presence of some of the greatest musicians of all time. {MB.He}{FB.She}'d like {OpOwner} to read it, pick out the good stuff, and report back on it. 
-   [535] 0xB42787E54544F0D4: Oh no! {OpOwner} destroyed the book {MA.he}{FA.she} was supposed to read for {OpTarget}. It's such a shame considering that book is no longer in print.
+   [535] 0xB42787E54544F0D4: Oh, no! {OpOwner} destroyed the book {MA.he}{FA.she} was supposed to read for {OpTarget}. It’s such a shame considering that book is no longer in print.
    [536] 0x3E8AA6E89DFAD1B1: Read "From the Flying Goose to the Flaming Piano: A Synopsis of the Greatest Moves to Grace the Stage" and report back in.
    [537] 0x0B86B1E8815B2497: Stage Presence
    [538] 0x9F0C9B53017B0E03: Read "From the Flying Goose to the Flaming Piano: A Synopsis of the Greatest Moves to Grace the Stage" and report back in.
@@ -1655,7 +1655,7 @@ Unknown3: 0x00000000
    [672] 0x60361696ECA9D625: "Organize Bass Section" at {OpTarget}.
    [673] 0x2B83D345A1343F6F: The party was amazing! {OpTarget} and all of {MB.his}{FB.her} friends kept raving about how hip the bass playing was. It was a huge success and {OpOwner} should be excited at the fame {MA.his}{FA.her} bass playing could bring {MA.him}{FA.her}.
    [674] 0xC99D5171134F5C1D: {OpTarget} is planning a big celebrity party and needs some big entertainment, literally! {MB.He}{FB.She}'d like {OpOwner} to play the bass and impress {MB.his}{FB.her} guests. 
-   [675] 0x16FFA3B13EAE5BD1: Oh no! {OpOwner} didn't make it to one of the biggest parties of the year! {OpTarget} and {MB.his}{FB.her} friends were disappointed with the party and with {OpOwner}. {OpTarget} is a very influential Sim to lose relationship with.
+   [675] 0x16FFA3B13EAE5BD1: Oh, no! {OpOwner} didn’t make it to one of the biggest parties of the year! {OpTarget} and {MB.his}{FB.her} friends were disappointed with the party and with {OpOwner}. {OpTarget} is a very influential Sim to lose relationship with.
    [676] 0xFCDD1A5AB9322216: Play Bass at {OpTargetFirstName}'s house.
    [677] 0x0EEE6F5AC3A3EA48: Basses and Balloons
    [678] 0x61952262F7C65604: Play Bass at {OpTargetFirstName}'s house.
@@ -1707,7 +1707,7 @@ Unknown3: 0x00000000
    [6A6] 0x5AB997E5DEEB392A: "Accompany the Basses and Baritones" at {OpTarget}.
    [6A7] 0xC1AF11A0F8B5C394: {OpOwner} played awesomely! Even if the sitcom doesn't last, the theme song will live on as a classic forever!
    [6A8] 0xC18F8CA7DC024C00: They're taping the theme song for a TV Sitcom down at {OpTarget}. It features the slap bass and a hurdy gurdy. The sound producer has requested that {OpOwner} play the bass for the song.
-   [6A9] 0xBB6CE65F01E89C7C: Oh no! {OpOwner} didn’t show up for the taping! With such short notice, they had to go with a piccolo.
+   [6A9] 0xBB6CE65F01E89C7C: Oh, no! {OpOwner} didn’t show up for the taping! With such short notice, they had to go with a piccolo.
    [6AA] 0x9B6D9234AFF10A19: "Attend Recording" at {OpTarget}.
    [6AB] 0x690C7D3493DB88EF: Slapstick Humor
    [6AC] 0x065F7EB953BE7F2B: "Attend Recording" at {OpTarget}.
@@ -1768,7 +1768,7 @@ Unknown3: 0x00000000
    [6E3] 0x4DEA97C384336152: "Play Drums for TV Show".
    [6E4] 0x39414FBFF784E05F: The troops were kept in line and {OpOwner} drummed quite loudly, making this a successful endeavor!
    [6E5] 0x0AB42E1795DDD22D: Military enthusiasts are doing a re-enactment of the Great Whiz Bang Pow War. They need a drummer to keep the troops in order and add to the overall loudness. The usual drummer sprained her wrist in a gnome tossing contest, so they would really appreciate it if {OpOwner} filled in.
-   [6E6] 0xF36F610372CB9561: Oh no! {OpOwner} didn't show up, so the re-enactment was a total mess. Troops were falling all over the place and weren't at all in their formations. The audience was totally bummed that event was such a failure.
+   [6E6] 0xF36F610372CB9561: Oh, no! {OpOwner} didn’t show up, so the re-enactment was a total mess. Troops were falling all over the place and weren't at all in their formations. The audience was totally bummed that event was such a failure.
    [6E7] 0x3163CFC1F7CE36E6: "Drum for the Military" at {OpTarget} at the appropriate hours.
    [6E8] 0x437524C2023FFE38: The Drumline
    [6E9] 0x6880E0DA8EFE0E54: "Drum for the Military" at {OpTarget}.
@@ -1876,7 +1876,7 @@ Unknown3: 0x00000000
    [74F] 0xFAF3F32F650C2686: "Play Piano for Kids" at {OpTarget}.
    [750] 0x59D279A39AF88BFC: All the books are neat and orderly again, thanks to {OpOwner}. As a reward, the bookstore has given {OpOwner} new sheet music!
    [751] 0xB057C80FE84B5B38: An eccentric conductor ran through {OpTarget}, pulling books off the shelf while looking for the score of "Ode to Fish Kid." As a result, the bookstore's music section is in complete disarray! The owners need {OpOwner}'s help to get things back in order.
-   [752] 0xD469E1553C916994: Oh no! {OpOwner} didn't make it to {OpTarget} on time. Musicians all over town will get lost in the bookstore for years searching for misplaced scores!
+   [752] 0xD469E1553C916994: Oh, no! {OpOwner} didn’t make it to {OpTarget} on time. Musicians all over town will get lost in the bookstore for years searching for misplaced scores!
    [753] 0xC9D03A0014F4D071: "Organize Music" at {OpTarget}.
    [754] 0x96CB44FFF8537057: Pathetique Organizational Skills
    [755] 0xB8F18762D2B15CC3: "Organize Music" at {OpTarget}.
@@ -1950,7 +1950,7 @@ Unknown3: 0x00000000
    [799] 0xDA2623E58DFD43F5: "Play Organ" at {OpTarget} .
    [79A] 0xE44ED92AB1B4D1D6: Congrats to {OpOwner} on doing a really great job! As a reward, the PR rep let you into the VIP Fish Boy viewing room. {OpOwner} is forever changed.
    [79B] 0x0DBC180B02498182: The Sim Star Tabloid is holding their annual weeklong marketing event at {OpTarget}. They would be honored if {OpOwner} would consider playing for some part of it.
-   [79C] 0xDBD3CD154F83DF02: Oh no! {OpOwner} didn’t make it on time! Instead of enjoying {MA.his}{FA.her} playing, the press had to endure the singing of their tone-deaf CEO.
+   [79C] 0xDBD3CD154F83DF02: Oh, no! {OpOwner} didn’t make it on time! Instead of enjoying {MA.his}{FA.her} playing, the press had to endure the singing of their tone-deaf CEO.
    [79D] 0x70438DB3AC0DD017: "Play for Marketing Event" at {OpTarget} during the appropriate hours.
    [79E] 0x619918B3A480AE5D: Tabloid Marketing Event
    [79F] 0x88BEAEFDBF6B42DD: "Play for Marketing Event" at {OpTarget}.

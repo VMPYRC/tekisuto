@@ -753,7 +753,7 @@ Unknown3: 0x00000000
    [2EC] 0x41CF3043EB81D4C1: Triple-decker roofing overlooks the welcoming front porch. A chimney runs up the side like the spine of a mighty giant! And inside, three stories of spacious luxury await.
    [2ED] 0x41CF3043EB81D4C2: A modest two-story colonial, with front and back porches for entertaining guests. Steep roofs offer a nice style while the enclosed yard shelters Sims of all ages.
    [2EE] 0x41CF3043EB81D4C3: Sumptuous Victorian style garlands this three-story bower. A wealth of rooms provides a plethora of possibilities, illuminated by bright bay windows. Sunrooms are equipped with chimneys for all-weather luxury.
-   [2EF] 0x41CF3043EB81D4CC: Palatial three-story design gives every level an aerial view of the neighborhood. Bay windows and a spacious back yard lend a sense of grandeur. What’s not to like?
+   [2EF] 0x41CF3043EB81D4CC: Palatial three-story design gives every level an aerial view of the neighborhood. Bay windows, and a spacious backyard lend a sense of grandeur. What’s not to like?
    [2F0] 0x41CF3043EB81D4CD: Ideal for big families or the lovelorn brides of lost sailors, this three-story house is a cozy dream! Also includes a “widow’s walk” to pace while awaiting your beloved’s return.
    [2F1] 0x41CF3143EB81D697: Growing families will love this colonial home’s wide-open first floor, along with its plethora of bedrooms. A garage adds storage room while a small yard is cozy and manageable.
    [2F2] 0x41CF3143EB81D696: Good fences make good neighbors, but those fences also enclose a big lawn! Massive open spaces give your home—and your family—ample room to grow.

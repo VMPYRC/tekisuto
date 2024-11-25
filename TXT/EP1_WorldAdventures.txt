@@ -2045,7 +2045,7 @@ Unknown3: 0x00000000
    [07F8] 0x59BE82BACDDD3158: The Key, Please
    [07F9] 0xF38E0296B8D9F574: Ask {2.String} for key
    [07FA] 0x348024324BF74908: “This metal is of excellent quality. You really do want this key, don’t you? Just one more favor and you’ll have it.”
-   [07FB] 0x5BE43B680C9694DC: “By giving you the key, I’ll help the town? Of course I'll help you. Oh no! I’m not one to miss an opportunity either. I will need a favor, first. My current collection of jewelry has gotten old. I need something new, something fresh! Go find {9.Number} pieces of Gold and bring them to me. Hurry along now if you want the key!”
+   [07FB] 0x5BE43B680C9694DC: “By giving you the key, I’ll help the town? Of course, I’ll help you. Oh, no! I’m not one to miss an opportunity either. I will need a favor, first. My current collection of jewelry has gotten old. I require something new, something fresh! Go find {9.Number} pieces of Gold and bring them to me. Hurry along now if you want the key!”
    [07FC] 0x6915FDE473C14E55: Find {9.Number} pieces of Gold and “Deliver Metal” to {2.String}.
    [07FD] 0x7A8450E47DA8B153: A New Ring
    [07FE] 0x0506433B85FD09ED: “I absolutely love new jewelry! I think these gems will be perfect."
