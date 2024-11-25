@@ -141,7 +141,7 @@ Unknown3: 0x00000000
    [088] 0x0542DB6A01E2054A: Nothing screams University like an old fashioned lamp and a decorative banner proudly sporting the University’s logo. Place one today and don’t let others forget which campus they’re one!
    [089] 0x64EBEC71053835F0: Introduce your workspace to the wonders of flexible lighting! The tentacular specialists at Wells Lighting outdid themselves: the Mini-Nozzle is the first commercial lamp you can actually tie in knots.
    [08A] 0x1830BAD56D8AEA0B: Late night. Hunched over a desk. Coffee pot’s empty. Only one thing can keep you awake: searing bright light. The Darn Wright lamp stands alone, vigilant against the darkness.
-   [08B] 0xE382D08F106C258F: Is it a noble waterfowl? A table lamp? A delightful nugget of mid-century kitsch? Hand-crafted by noted former municipal employee Rich Swardson, the Quacklit lamp is all of the above.
+   [08B] 0xE382D08F106C258F: Is it a noble waterfowl? A table lamp? A delightful nugget of mid-century kitsch? Handcrafted by noted former municipal employee Rich Swardson, the Quacklit lamp combines all these elements.
    [08C] 0x88965AF0D6F2C6E5: Let your team spirit shine with the Blaze of Glory table lamp! The Lampgineers at GoTeamGo have left ample room beneath the shade for the beverage of your choice.
    [08D] 0x0D0B598E7FA5FE4A: Children need nightlights to ward off monsters. Adults need to keep the kids quiet. Old folks need to survive their nightly bathroom trips. Why do YOU need a nightlight?
    [08E] 0x2CC3E67E0A47C5EA: This beautiful lamp hangs from the wall like a gilded floral arrangement. Light and luxury pour from every bulb in such bounty you’ll have to squint entering the room.

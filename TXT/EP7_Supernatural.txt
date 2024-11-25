@@ -779,7 +779,7 @@ Unknown3: 0x00000000
    [306] 0x8328E6B622DAD04E: Grimm
    [307] 0x4DB0282409DAC8FA: Hai
    [308] 0x7C28EB3826420E81: Haley
-   [309] 0xA34270D6D402714A: The only thing Haley is missing in her quest to become a fairy are her wings and a Fairy King to spend her life with. For years she’s been making regular visits to the Arboretum to find fairies, but still comes up empty handed. Until that magical day comes when Haley can become a fairy, she does everything possible to uphold the values of the fairy short of playing tricks or bestowing enchantments. Luckily her current roommates understand this desire, since Haley’s old roommates thought she was crazy! Haley has been working a long time on her book “Broken Wings”, and hopes that it will attract the attention of a Fairy King.
+   [309] 0xA34270D6D402714A: The only thing Haley is missing in her quest to become a fairy are her wings, and a Fairy King to spend her life with. For years, she’s been making regular visits to the Arboretum to find fairies, but still comes up empty-handed. Until that magical day comes when Haley can become a fairy, she does everything possible to uphold the values of the fairy short of playing tricks or bestowing enchantments. Luckily her current roommates understand this desire, since Haley’s old roommates thought she was crazy! Haley has been working a long time on her book “Broken Wings,” and hopes that it will attract the attention of a Fairy King.
    [30A] 0xDD1D343CBEC38921: Hall
    [30B] 0xDD1D323CBEC3858C: Hank
    [30C] 0x378E77686EEABD3D: Harris
@@ -825,7 +825,7 @@ Unknown3: 0x00000000
    [334] 0xB3DAA563046F0FAE: Marco
    [335] 0xB3DA9B63046EFEA2: Maria
    [336] 0x5A8797AC6D08FB6B: Marigold
-   [337] 0x3F6F27647245C9A7: Marigold’s only other known relative, Uncle Terry, recently died in a freak bug-zapper accident. She, like all the Maldanos before her, is considered either “quirky” or “insane”, depending on who you ask. Marigold has a happy, sunny disposition, but she’s been unlucky in love. Her latest attempt at love was with Gladsten Farmwell, but he broke things off after she tried to make dinner and burned his salmon.
+   [337] 0x3F6F27647245C9A7: Marigold’s only other known relative, Uncle Terry, recently died in a freak bug-zapper accident. She, like all the Maldanos before her, is considered either “quirky” or “insane,” depending on who you ask. Marigold has a happy, sunny disposition, but she’s been unlucky in love. Her latest attempt at love was with Gladsten Farmwell, but he broke things off after she tried to make dinner and burned his salmon.
    [338] 0x0B63B740888C4E19: Martin
    [339] 0xA1F54F62FA228157: McCoy
    [33A] 0x8FADE362EF8302B0: Megan
