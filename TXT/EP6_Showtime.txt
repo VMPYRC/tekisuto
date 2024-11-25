@@ -1344,7 +1344,7 @@ Unknown3: 0x00000000
    [53B] 0xB5A6107EA44C6377: Find the Big Boss at the Criminal Warehouse.
    [53C] 0xA3949B7E99DA64BD: Birthday Bash
    [53D] 0xB6EE9C7897BBEE3D: DNT
-   [53E] 0xB145A382F0E2BDDF: Your singing was so impressive you got a free meal ...and dessert!
+   [53E] 0xB145A382F0E2BDDF: Your singing was so impressive you got a free meal… and dessert!
    [53F] 0x57EC0265505D32AD: The owner of the Coffeehouse is a retired musician who likes to help out aspiring singers. Stop by with a big appetite and get a free meal for a song.
    [540] 0xA80A2F5942670066: Go to the Coffeehouse and sing for your supper.
    [541] 0xBA1B84594CD8C7B8: Sing for Your Supper
