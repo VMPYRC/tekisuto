@@ -1571,7 +1571,7 @@ Unknown3: 0x00000000
    [61E] 0xCDA01BE01B9089BE: Help a Time Traveler Out 
    [61F] 0x60F2C19D4C4CE76E: Find and collect the Power Cells on your lot.
    [620] 0x84CEBCC6E0747472: Thanks to you, the Time Traveler can return home to Oasis Landing. Why don't you follow him and see where the Time Portal leads?
-   [621] 0x33F13D44FB23F756: Huzzah! You’re a real life saver! Return those Power Cells to me and I’ll fix the Time Portal. Now I can finally return back to my future home in Oasis Landing!
+   [621] 0x33F13D44FB23F756: Huzzah! You’re a real lifesaver! Return those Power Cells to me, and I’ll fix the Time Portal. Now I can finally return to my future home in Oasis Landing!
    [622] 0x7F551EA8F0A57259: Return the Power Cells to the Time Traveler.
    [623] 0xB92B5F4B8ED1F045: The Trait Chips were delivered safely.
    [624] 0x7BE86BDAD24734EB: Someone in town is in desperate need of Trait Chips to help their Plumbot be more useful. Go deliver some Trait Chips to make this Sim’s day!
