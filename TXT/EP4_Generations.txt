@@ -115,7 +115,7 @@ Unknown3: 0x00000000
    [06E] 0x34B8542AA01D68AD: The Heart of Rugness presents a plush landscape of fibers to bushwhack through with your feet like jungle undergrowth. Your toes will explore mysteries and wonders like a journey into the deepest unexplored jungle. Who knows what lint and dried morsels of food will be discovered with your toes?
    [06F] 0xA9306BA0DB94771B: A classic counting game that has been popular with generations of Sims, Hopscotch is best played alone or in groups of two, three, or four! Just toss the marker, skip the spot that it lands on, and hop your way from start to finish. Those who complete the circuit perfectly earn victory! Those who stumble find only shame.
    [070] 0x2E139A1EB9917F24: A space age variation on the classic hopscotch court, this fun field of asteroids nurtures the astronomical imagination! Show off your superior hopscotch skills by hopping from asteroid to asteroid. Just be careful not to stumble…in space you may just float away.
-   [071] 0x12EADE13B587304E: Kids!! Tell your parents today! Your favorite four-legged Terrapin from TV can now come home to your very own back yard! And with sand to boot! Don't build another sand castle until Turtee is by your side!
+   [071] 0x12EADE13B587304E: Kids!! Tell your parents today! Your favorite four-legged Terrapin from TV can now come home to your very own backyard! And with sand to boot! Don’t build another sand castle until Turtee is by your side!
    [072] 0x12E4D213B582B05E: The Box of Beach from Landgraab Industries is a technologically advanced product that has been designed to simulate all of the best parts of the beach for your little ones. Except for the ocean and the sharks of course. That would be bad.
    [073] 0xB8419E076CDF4B83: This Scanner is no longer in working condition, but you and your kids can stare at it as long as you want! Decorate your place with this fantastic decorative piece. Oh and don't worry! The aliens won't come looking.
    [074] 0x5249FD4BF773E4D6: This is an award for lead ballet dancers.
@@ -484,7 +484,7 @@ Unknown3: 0x00000000
    [1DF] 0x1BE798E304EBE13E: {OpOwner} danced really well, but it was obvious to the judges that {MA.he}{FA.she} was not in a very good mood! They want someone that genuinely looks happy to dance.
    [1E0] 0xCAA91DCD9D9FF635: It was a wonderful recital! {OpOwner} got a great trophy to display proudly that will remind {MA.him}{FA.her} of how great {MA.he}{FA.she} danced!
    [1E1] 0xE6FA645366EFA57B: It's time for {OpOwner} to show off their graceful dance moves in the ballet recital! {MA.He}{FA.She} has practiced hard and it's a great time for the family to enjoy the hard work! Just head on over to the {OpTarget} at the appropriate time.
-   [1E2] 0x4F4893E136E5C5F3: Oh no! {OpOwner} missed the recital. It's too bad {MA.he}{FA.she} wasn't able to perform but a participation trophy will be given when {OpOwner} becomes a teenager.
+   [1E2] 0x4F4893E136E5C5F3: Oh, no! {OpOwner} missed the recital. It’s too bad {MA.he}{FA.she} wasn’t able to perform, but a participation trophy will be given when {OpOwner} becomes a teenager.
    [1E3] 0x64FEFEC29323D5D0: Attend Recital at {OpTarget}
    [1E4] 0x52EDABC288B2115A: Ballet Recital
    [1E5] 0x8B83022D7D36E38A: Attend Recital at {OpTarget}
@@ -522,10 +522,10 @@ Unknown3: 0x00000000
    [205] 0x81AB5AB0ED1FEB57: Go to Scouting Event at {OpTarget}
    [206] 0x6F99E5B0E2ADEC9D: Old Ladies Crossing
    [207] 0x6F64FB348BB8131D: Go to Scouting Event at {OpTarget}
-   [208] 0xF73AAB8AA464D91C: Oh no! {OpOwner} didn't show up in a very good mood. As a result, many disgruntled old ladies were shaking their canes at {MA.him}{FA.her} instead of handing out butterscotch and hugs.
+   [208] 0xF73AAB8AA464D91C: Oh, no! {OpOwner} didn’t show up in a very good mood. As a result, many disgruntled old ladies were shaking their canes at {MA.him}{FA.her} instead of handing out butterscotch and hugs.
    [209] 0xB797A4B21F9450FF: What a proud moment for {OpOwner}! {MA.He}{FA.She} will take all that {MA.he}{FA.she} has learned into {MA.his}{FA.her} teen years and will hopefully display the participation trophy as a reminder.
    [20A] 0x1952AFE37BED0D4D: It's time for {OpOwner} and {MA.his}{FA.her} loved ones to celebrate the hard work and good deeds {MA.he}{FA.she} has been doing. Enjoy the ceremony and be proud!
-   [20B] 0x580919D73B99E481: Oh no! {OpOwner} missed the badging ceremony. It's too bad {MA.he}{FA.she} wasn't able to partake, but a participation trophy will be given when {OpOwner} becomes a teenager.
+   [20B] 0x580919D73B99E481: Oh, no! {OpOwner} missed the badging ceremony. It’s too bad {MA.he}{FA.she} wasn’t able to partake, but a participation trophy will be given when {OpOwner} becomes a teenager.
    [20C] 0xA0BBF30A37369586: Attend Ceremony at {OpTarget}
    [20D] 0xB2CD480A41A85DD8: Badging Ceremony
    [20E] 0xDD6ABBA3BA1C29F4: Attend Ceremony at {OpTarget}
@@ -545,7 +545,7 @@ Unknown3: 0x00000000
    [21C] 0xE15C9639689F89EF: Things were going really well until {OpOwner} missed a penalty shot! If only {MA.he}{FA.she} had practiced a little more and was in a better mood, things could have turned out better.
    [21D] 0xBC95FA04C6F94F2D: {OpOwner} should be proud of all {MA.he}{FA.she} has accomplished! Afterschool activities have helped {OpOwner} improve at many skills and have given {MA.him}{FA.her} a boost in future successes!
    [21E] 0xAC556582DA896F83: An award ceremony is being held at the {OpTarget}! It's a great opportunity for Sims to get together and celebrate all of {OpOwner}'s extracurricular activities. Trophies will be handed out, so be sure to attend.
-   [21F] 0x689A4F51727AD77B: Oh no! {OpOwner} missed the ceremony. It's too bad {MA.he}{FA.she} wasn't able to partake in the festivities, but all appropriate participation trophies will appear when {OpOwner} becomes a young adult.
+   [21F] 0x689A4F51727AD77B: Oh, no! {OpOwner} missed the ceremony. It’s too bad {MA.he}{FA.she} wasn’t able to partake in the festivities, but all appropriate participation trophies will appear when {OpOwner} becomes a young adult.
    [220] 0xDD98904DAE167C78: Attend Ceremony at {OpTarget}
    [221] 0xCB513D4DA3772852: After School Reward Ceremony
    [222] 0xA5E3F2C01AEC34B2: Attend Ceremony at {OpTarget}

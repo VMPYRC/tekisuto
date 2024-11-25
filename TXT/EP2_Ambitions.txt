@@ -762,7 +762,7 @@ Unknown3: 0x00000000
    [2F5] 0xCE6E04D0B956C148: 7BR / 6 Bath - Although this might look like an apartment block, this single family house merges stately architecture with small town charm. Several generations can live in relative comfort in this house, or at least avoid each other for days at a time.
    [2F6] 0xC5182AF22E4E228A: 6BR / 3 Bath - Classic and elegant, this stately home is perfect for a large family with a total of 6 spacious bedrooms. The main living floor features a very large formal living room and duel flanking sunrooms.
    [2F7] 0x8DEAF50A541F44D6: 1BR / 2 Bath - This stately old summer palace has recently been remodeled to include a large pool and a modern floor plan suitable for the bachelor who likes to entertain in style. Some of the houses features are best left to be discovered on your own.
-   [2F8] 0xDDFBC598537D8135: 3BR / 3 Bath - The perfect house to film a 1950’s sitcom in, this practical and spacious home is ideal for a nuclear family…or at least a family of the nuclear age.
+   [2F8] 0xDDFBC598537D8135: 3BR / 3 Bath - The perfect house to film a 50s sitcom in, this practical and spacious home is ideal for a nuclear family…or at least a family of the nuclear age.
    [2F9] 0x60BC8049586D3DDB: 2BR / 2 Bath - This elegant older home is now made environmentally friendly with dual porches for cooling, vegetable garden, integrated recycling, and no room for a car. We’re sure it can nurture both a family and the planet.
    [2FA] 0xF04536793811741B: 2BR / 2 Bath - This ranch style house has been updated to include a large airy great room perfect for a family, or a single Sim on the prowl.
    [2FB] 0x450B946AA722AAC7: 1BR / 2 Bath - This quaint cottage on a well maintained garden lot represents a blend of craftsman and neo-classical architecture. Built on a solid foundation, we feel it can last an eternity…and then some.
@@ -2142,7 +2142,7 @@ Unknown3: 0x00000000
    [859] 0x0A57C61E1D01E485: "Confirm Criminal's Presence" at local science lab while {OpSource} is at work
    [85A] 0x1C9F191E27A138A3: The Great Clap Trap of an Art Heist
    [85B] 0xCB7DF153D9FB31FF: Confirm Criminal's Presence
-   [85C] 0x617715ACB870325F: Oh no! The criminals just hit the art gallery, all before I was able to swipe a donut from the chief's desk. I should head to the local art gallery and dust for prints. You know, to solve this thing so I can get back to my donut.
+   [85C] 0x617715ACB870325F: Oh, no! The criminals just hit the art gallery, all before I was able to swipe a donut from the chief’s desk. I should head to the local art gallery and dust for prints. You know, to solve this thing, so I can get back to my donut.
    [85D] 0x244F21F8A92D73E4: "Dust for Print" at local Art Gallery
    [85E] 0x575316F8C5CD2006: The Great Clap Trap of an Art Heist
    [85F] 0xF62E306A17D24846: Dust for Prints
