@@ -1815,8 +1815,8 @@ Unknown3: 0x00000000
    [0712] 0x2B24C704DA0912B1: Deliver Food to {2.String}
    [0713] 0xFBF5D49BA4CB4E64: Deliver Food to {2.String}
    [0714] 0xE551EC1C74A6F328: “Hmmm, this dish tastes…good…with your Nectar choice. Thanks for your help."
-   [0715] 0x5E9FEF29A5D376FA: At last, {1.SimFirstName} was able to find the keystone that should open the Dragon Cave in Shang Simla, China. {2.SimName} in China will know precisely what to do with the key.
-   [0716] 0x4D8D7D562B3DF669: At last, {1.SimFirstName} was able to find the keystone that should open the Dragon Cave in Shang Simla, China. {2.SimName} in China will know precisely what to do with the key.
+   [0715] 0x5E9FEF29A5D376FA: At last, {1.SimFirstName} found the keystone that should open the Dragon Cave in Shang Simla, China. {2.SimName} in China will know precisely what to do with the key.
+   [0716] 0x4D8D7D562B3DF669: At last, {1.SimFirstName} found the keystone that should open the Dragon Cave in Shang Simla, China. {2.SimName} in China will know precisely what to do with the key.
    [0717] 0x976D11753578558E: “Oui! Look how it shines and glimmers. I have not yet decided what I shall do with the Opal, but that is not your concern. Now, you seek the keystone. The hidden vault is now unlocked for you at the Landgraab Château. Go there to find the keystone of James Vaughan.
    [0718] 0x1DA6471FCC40E006: Why'd you destroy the keystone? Hopefully, you can find another one later.
    [0719] 0x430558EB9EFD3483: Find the keystone underneath the Landgraab Château.
@@ -2556,7 +2556,7 @@ Unknown3: 0x00000000
    [09F7] 0x59A5BD8DB41ECD3A: “Deliver” {9.Number} pieces of Titanium to {2.SimName} to receive Simoleons.
    [09F8] 0x71A50275928BA081: More Materials Needed
    [09F9] 0xA84063A7179CD601: Deliver Metal
-   [09FA] 0x9E12CEC1DCC8D3C0: “I was able to locate the Ruby while you were gone. Seeing as how the Ruby didn't come cheap, if you could bring me one more Relic worth at least §500 I would greatful. I may have a few for sale right here in my store if you wanted to purchase it, Ha Ha Ha!"
+   [09FA] 0x9E12CEC1DCC8D3C0: “I located the Ruby while you were gone. Seeing as how the Ruby didn’t come cheap, if you could bring me one more Relic worth at least §500 I would be grateful. I may have a few for sale right here in my store if you wanted to purchase it, Ha Ha Ha!”
    [09FB] 0x1D3D8646E71F4CD9: Purchase or obtain a Relic worth §500 from {2.String}, then “Deliver” Relic to {2.String} to receive the Ruby of Sakhara.
    [09FC] 0x8C508FFF8F1B462C: Purchase or obtain a Relic worth §500 from {2.String}, then “Deliver” Relic to {2.String} to receive the Ruby of Sakhara.
    [09FD] 0xE7767146C826A1AF: A Little Too Sleazy

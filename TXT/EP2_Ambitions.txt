@@ -1425,7 +1425,7 @@ Unknown3: 0x00000000
    [58C] 0xB86AFF2B84C9BB7C: The helpful warehouse manager at the medical equipment company says City Hall hasn't approved the equipment for use in this neighborhood yet. The paper work is completely jammed into the bureaucratic machine! {OpOwner} should convince {OpTarget} to move the paper work through the approval process a bit more quickly. 
    [58D] 0xF481A9BCDDF71B75: "Discuss Certification Process" with {OpTargetFirstName}. Be sure to be on a solid relationship standing first.
    [58E] 0xE220DB8317A74A6F: Discuss Certification Process with {OpTarget}
-   [58F] 0xC282B3A1F92192F5: {OpSourceFirstName} wanted to help, but wasn't able to push the approval through. {OpSourceFirstName} was able to point {OpOwner} to the City Hall records department room containing some crucial files. The solution to the problem can be found somewhere in those records!
+   [58F] 0xC282B3A1F92192F5: {OpSourceFirstName} wanted to help, but wasn’t able to push the approval through. However, {OpSourceFirstName} pointed {OpOwner} to the City Hall records department room containing some crucial files. The solution to the problem can be found somewhere in those records!
    [590] 0x9BE35DE81AFA7D0E: "Check Public Records" at City Hall to find out more about the problem.
    [591] 0x4C34B17C576E17FC: Check Public Records at City Hall
    [592] 0x41A4AE8D337D0E0A: The administrator is quite dissatisfied with the status of this equipment issue, but feels this isn't the right moment to enter the political forum to fight a battle. The administrator will think about a possible solution and how {OpOwner} can help!
@@ -1758,7 +1758,7 @@ Unknown3: 0x00000000
    [6D9] 0x2BCBD2053EC25333: The Case of the Hacked Off Client
    [6DA] 0xC90DED7C12E2312F: Hack Computer
    [6DB] 0xC533020F8C690BB7: {OpTarget} didn't exactly take the news as I explained. "Good, I can go shopping now," said {OpTargetFirstName}. I wanted to explain the benefits and virtues of a good, honest credit score. But that's not my line of work. I accepted payment and said goodbye.
-   [6DC] 0xDC560814F5BABDB5: I was able to hack into the creditor's database and swap a few 1s with a few 0s. Nothing I did was too illegal, but my tracks are clear. They are always clear. I should report back to {OpTarget}.
+   [6DC] 0xDC560814F5BABDB5: I hacked into the creditor’s database and swapped a few 1s with a few 0s. Nothing I did was too illegal, but my tracks are clear. They are always clear. I should report back to {OpTarget}.
    [6DD] 0x1A332AD55141A0CE: "Report In" to {OpTarget}
    [6DE] 0x2C7A7FD55BE0F790: The Case of the Hacked Off Client
    [6DF] 0x92C1301D7A6F89BC: Report In
@@ -1792,7 +1792,7 @@ Unknown3: 0x00000000
    [6FB] 0x61F083405A0733BF: The Case of the Missing Billfold
    [6FC] 0x11C604B64FEE139B: Convince {OpTarget}
    [6FD] 0xF4BF9686C070CB63: {OpTarget} couldn't have been happier to see the recovered wallet. Turns out there was quite a bit of money in the wallet that, remarkably, nobody took. The case of the missing billfold is closed.
-   [6FE] 0x3B3B9720B31210D9: I was able to convince {OpSource} to hand over the wallet. {OpSourceFirstName} claimed to have found it on the ground. As usual, I heard the defense "I was going to return it!" Right. I should return the wallet to {OpTarget}.
+   [6FE] 0x3B3B9720B31210D9: I convinced {OpSource} to hand over the wallet. {OpSourceFirstName} claimed to have found it on the ground. As usual, I heard the defense “I was going to return it!” Right. I should return the wallet to {OpTarget}.
    [6FF] 0x544E241618C51252: "Return Wallet" to {OpTarget}
    [700] 0x22233115FCDD591C: The Case of the Missing Billfold
    [701] 0x9C7D39DBA8284F58: Return Wallet
@@ -1893,7 +1893,7 @@ Unknown3: 0x00000000
    [760] 0xE5B82F5F24122FED: "Blow Whistle" at local Supermarket
    [761] 0xF7C9825F2E83F39B: The Case of the Price Gouged Produce
    [762] 0x97D004C2BE3FEF07: Blow Whistle
-   [763] 0xF74E68181CE0B111: {OpTarget} was incredibly pleased that I was able to solve the case. But, the question remains: What is going on with the mutant produce? Something is afoot and I intend to find out just what it is. This case is far from over.
+   [763] 0xF74E68181CE0B111: {OpTarget} was incredibly pleased that I solved the case. But, the question remains: What is going on with the mutant produce? Something is afoot, and I intend to find out just what it is. This case is far from over.
    [764] 0x4E716C19324C427F: The supermarket was aghast at what they were selling and the produce was immediately pulled off the shelves. They won't be stocking through that supplier any longer. I was told prices were raised because customers seemed so happy with the produce, but with the return of the old produce comes the return of old prices. I should tell {OpTarget} about this development.
    [765] 0xA3AA9F724D8BE184: "Report In" to {OpTarget}
    [766] 0xD6AE94726A2B8EA6: The Case of the Price Gouged Produce
@@ -2031,7 +2031,7 @@ Unknown3: 0x00000000
    [7EA] 0xBCE6901B7C2852A1: The Case of the Aloof Academic
    [7EB] 0x757CD58A62DCBA21: Search Science Facility
    [7EC] 0x7AD1CEC8F4652DD1: I thought {OpTarget} was going to strangle me out of frustration when I told my story. This Aquatic Biology grade has apparently been a sore spot for some time. I'll just take my pay and swim away to safer waters.
-   [7ED] 0x733B0A477B0DE83F: I was able to find the missing Sim knee deep in a de-fanged pirhana pen running experiments on their toothless life expectancy. Apparently, the Sim believes this latest thesis will make up for that bad grade. I should tell {OpTarget} where this underwater wiz can be found.
+   [7ED] 0x733B0A477B0DE83F: I found the missing Sim knee-deep in a de-fanged piranha pen running experiments on their toothless life expectancy. Apparently, the Sim believes this latest thesis will make up for that bad grade. I should tell {OpTarget} where this underwater wiz can be found.
    [7EE] 0x89B768EB7BEDDD44: "Report In" to {OpTarget}
    [7EF] 0xC0225DEB9B726666: The Case of the Aloof Academic
    [7F0] 0x76C242F39A5795A6: Report In
@@ -2142,7 +2142,7 @@ Unknown3: 0x00000000
    [859] 0x0A57C61E1D01E485: "Confirm Criminal's Presence" at local science lab while {OpSource} is at work
    [85A] 0x1C9F191E27A138A3: The Great Clap Trap of an Art Heist
    [85B] 0xCB7DF153D9FB31FF: Confirm Criminal's Presence
-   [85C] 0x617715ACB870325F: Oh, no! The criminals just hit the art gallery, all before I was able to swipe a donut from the chief’s desk. I should head to the local art gallery and dust for prints. You know, to solve this thing, so I can get back to my donut.
+   [85C] 0x617715ACB870325F: Oh, no! The criminals just hit the art gallery, all before I could swipe a donut from the chief’s desk. I should head to the local art gallery and dust for prints. You know, to solve this thing, so I can get back to my donut.
    [85D] 0x244F21F8A92D73E4: "Dust for Print" at local Art Gallery
    [85E] 0x575316F8C5CD2006: The Great Clap Trap of an Art Heist
    [85F] 0xF62E306A17D24846: Dust for Prints
@@ -2191,7 +2191,7 @@ Unknown3: 0x00000000
    [88A] 0xD926070B9341FA54: "Search for Clues" at the Park
    [88B] 0x0EB5FC0BB20B2C56: The Case of the Cop Gone Rogue
    [88C] 0x933D2F11B433D636: Search for Clues
-   [88D] 0xA1D8364B0227308C: I was able to find some footprints, which may help me narrow down the culprits. I should show these prints to {OpTarget}, who may know how best to use these clues.
+   [88D] 0xA1D8364B0227308C: I found some footprints, which may help me narrow down the culprits. I should show these prints to {OpTarget}, who may know how best to use these clues.
    [88E] 0xEEDAD6DC4D3D05C5: "Discuss Footprints" to {OpTarget}
    [88F] 0x012329DC57DE0CE3: The Case of the Cop Gone Rogue
    [890] 0x3920594AC5E2DF3F: Speak to {OpTarget}
@@ -2211,7 +2211,7 @@ Unknown3: 0x00000000
    [89E] 0xAEED98C3D02749C1: "Inspect Mail" on {OpTarget}'s Mailbox
    [89F] 0x7CC2A3C3B43F8DC7: The Case of the Cop Gone Rogue
    [8A0] 0x3C8D17A1D5755693: Inspect Mail
-   [8A1] 0xC1401B5D3BA63491: I found the piece that's been missing from this case -- the decisive piece. I was able to uncover a letter from a well known mob boss addressed to {OpSource}, the politician. I should report my findings to {OpTarget}. This is the break the case needed.
+   [8A1] 0xC1401B5D3BA63491: The decisive piece I’ve been searching for has been found – a letter from a well-known mob boss addressed to {OpSource}, the politician. This discovery is a crucial breakthrough in the case. Reporting my findings to {OpTarget} is the next step. It’s the break the case desperately needed.
    [8A2] 0x57EF2AD2227A250A: "Report Findings" to {OpTarget}
    [8A3] 0x258E57D2066513A4: The Case of the Cop Gone Rogue
    [8A4] 0xB2F6F4AC1E199190: Report Findings
@@ -2407,7 +2407,7 @@ Unknown3: 0x00000000
    [962] 0x4111803523B131B7: The Case of the Tattooed Thief
    [963] 0x6D11A927F0363423: Confront {OpTarget}
    [964] 0x45DC3A8D706A89BB: {OpTarget} is delighted to see the items returned, though there was a bit of awkwardness when I wouldn't reveal the name of the thief. No matter. I took my payment and left. Case closed.
-   [965] 0x237C87659F45EB61: The culprit is amazed I was able to follow the threadbare trail of clues to solve the case. Frankly, I am too. I convinced the criminal to return the property in exchange for not calling the cops. I'm feeling merciful today. I should report back to my client.
+   [965] 0x237C87659F45EB61: The culprit is amazed that I managed to follow the threadbare trail of clues to crack the case. Frankly, I’m surprised myself. I managed to convince the criminal to return the property in exchange for not involving the authorities. I’m feeling merciful today. Now, I should report back to my client.
    [966] 0x778741055FC87D9A: "Report In" to {OpTarget}
    [967] 0x40E62E05401632D4: The Case of the Tattooed Thief
    [968] 0x806C28D7C2735060: Report In
@@ -2640,7 +2640,7 @@ Unknown3: 0x00000000
    [A4B] 0xCD6F88C570DC76CD: Build {OpNumItemsGoal} Crafted Toys and deliver them to the School for a mood boost, an inventing skill boost, and relationship boost with the Sims at School.
    [A4C] 0xDF80DBC57B4E3B7B: Tons of Toys
    [A4D] 0x26DFAE4A2B1B4FE7: {OpNumItemsCurrent}/{OpNumItemsGoal} Crafted Toys
-   [A4E] 0xAA9C3B4EA12D5E94: The widgets were exactly what the business wanted. The executives are already fighting over who gets what widget! {OpOwner} was able to hang out with the chief technology officer and learned some Inventing tips!
+   [A4E] 0xAA9C3B4EA12D5E94: The widgets were exactly what the business wanted. The executives are already fighting over who gets what widget! {OpOwner} hung out with the Chief Technology Officer and learned some Inventing tips!
    [A4F] 0x04285EBD1F3EAD00: One of the up and coming businesses at {OpTarget} is interested in improving their looks and tech savviness. They would like {OpOwner} to build them a bunch of cool looking Widgets that they can strategically place throughout their offices to bolster their image. {OpOwner} will be paid well for the work and may even be shown some trade secrets.
    [A50] 0x6469E5CD7FBD7D19: Build {OpNumItemsGoal} Widgets and deliver them to the Business Office for a cash reward, an inventing skill boost, and relationship boost with the Business associates.
    [A51] 0x3208D0CD63A7FBEF: Intelligence Through Environment
@@ -2655,7 +2655,7 @@ Unknown3: 0x00000000
    [A5A] 0x0738E16B9FA03765: "Help Clean Up" at the Bookstore for a cash reward, some Scrap, and relationship boost with the Bookstore workers.
    [A5B] 0x1980346BAA3F8A83: Scrap Cleanup
    [A5C] 0xAABC7AD9539FCBDF: Help Clean Up at the Bookstore
-   [A5D] 0x119FAEC5F3A76227: It is a good thing {OpOwner} was able to save the day! The device wouldn't have stopped at just llamas - it would've atomized all four-legged mammals! Luckily, {OpOwner} arrived in time to put an end to Professor Malevolent's scheme and there was much rejoicing to be had. {OpOwner} even got to keep some of the parts from the now dismantled experiment.
+   [A5D] 0x119FAEC5F3A76227: {OpOwner} saved the day! The device wouldn’t have stopped at just llamas – it would’ve atomized all four-legged mammals! Luckily, {OpOwner} arrived in time to put an end to Professor Malevolent’s scheme and there was much rejoicing to be had. {OpOwner} even got to keep some parts from the now dismantled experiment.
    [A5E] 0xF8D3960CAADE25C5: Professor Malevolent is stepping up to the plate with another crackpot threat to instantly vaporize all llamas from the face of the planet. The bad news is that all of the local Mad Scientists are busy stopping Mr. Doom Handler and his moon exploding experiment. {OpSource} understands that {OpOwner} is a master Inventor and can possibly end this threat. Will {OpOwner} help save the llamas and, thereby, the world?
    [A5F] 0x8353E3917F2BDC79: {OpOwner} didn't make it to Warehouse and Professor Malevolent was successful! Luckily for the world, the device seemed to target an alternate dimension and both Malevolent and the device were sucked into the now llama-less alternate world. Hopefully, {OpOwner} won't think too much about that poor other dimension.
    [A60] 0x176730C5363B5A5E: Go to the Warehouse before time runs out to "Stop Professor Malevolent" to receive a cash reward and some Scrap.

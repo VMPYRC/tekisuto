@@ -1891,7 +1891,7 @@ Unknown3: 0x00000000
    [75E] 0xD3ED8C90E4B1A122: Great llamas! This data confirms that my goopy Dew has the potential to unleash the inner whimsical side of Sims! Happy Sims will lead to a happy Future, right? First we need a test subject… Since I need to operate the scanner, let’s choose…. You! Don’t be scared, it’s for science!
    [75F] 0x62706E86643E0E7D: Dewing a Trial Run
    [760] 0x1DA2BF178BEC89FD: Use Dew on yourself.
-   [761] 0xC050BB7DA19D8B1B: Your Dewing spree created such emotional resonance that I was able to detect it even in here!
+   [761] 0xC050BB7DA19D8B1B: Your Dewing spree created such emotional resonance that I detected it even in here!
    [762] 0x6B2E900BC5AD8D41: It works! Your readings were off the chart! Your quarks have acquired a distinctly whimsical spin, with only a small, colorful side effect! Just one Sim isn’t enough to make a difference – we need more! Take my whole stock of Dew and splash your fellow Sims with it.
    [763] 0x94A1F79273C621FA: Use Dew {1.Number} times on other Sims.
    [764] 0x6167E49256F8B234: Spreading Good Cheer
