@@ -1783,7 +1783,7 @@ Unknown3: 0x00000000
    [6F2] 0xD859F4D89193FEF1: Failing to show up for a performance is generally a bad thing. {OpTarget} is less than pleased.
    [6F3] 0x1FD6DE5D531228B6: Play Drums at {OpTarget}'s party to earn some money.
    [6F4] 0x31E8335D5D83F0E8: Percussion Party
-   [6F5] 0xBEAB63741661CDA4: Play Drums at {OpTarget}'s party .
+   [6F5] 0xBEAB63741661CDA4: Play Drums at {OpTarget}'s party.
    [6F6] 0xF63BA7C189830906: The beatnik crowd really dug your playing. In fact, they've made a pact to knit their berets to look like cymbals in honor of {OpOwner}.
    [6F7] 0x849CFFCC394B3392: {OpTarget} is holding a beatnik poetry reading session. The usual attendants are really tired of snapping their fingers, so they’re asking {OpOwner} to play a little bit of brushed cymbal à la beatnik. As a reward, the bookstore will give you a new composition.
    [6F8] 0xF6A9B3EF97AE0112: What a tragedy! Beatniks were forced to snap their own fingers during the poetry reading, leading to many blisters. The only benefit to {OpOwner}'s failure to perform is that bandage sales are up.
@@ -1947,7 +1947,7 @@ Unknown3: 0x00000000
    [796] 0x274A7E3730F859FA: There were riots in the stands after the game. The fans had too much pent up energy that only organ-induced chants could have alleviated. 
    [797] 0x7A36BA8C7AC38C0F: "Play Organ" at {OpTarget} between the appropriate hours.
    [798] 0x68C9458C70DDA2C5: Charge!
-   [799] 0xDA2623E58DFD43F5: "Play Organ" at {OpTarget} .
+   [799] 0xDA2623E58DFD43F5: “Play Organ” at {OpTarget}.
    [79A] 0xE44ED92AB1B4D1D6: Congrats to {OpOwner} on doing a really great job! As a reward, the PR rep let you into the VIP Fish Boy viewing room. {OpOwner} is forever changed.
    [79B] 0x0DBC180B02498182: The Sim Star Tabloid is holding their annual weeklong marketing event at {OpTarget}. They would be honored if {OpOwner} would consider playing for some part of it.
    [79C] 0xDBD3CD154F83DF02: Oh, no! {OpOwner} didn’t make it on time! Instead of enjoying {MA.his}{FA.her} playing, the press had to endure the singing of their tone-deaf CEO.

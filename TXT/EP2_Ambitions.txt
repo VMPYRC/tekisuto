@@ -102,7 +102,7 @@ Unknown3: 0x00000000
    [061] 0x2002D485ADD42112: Where could this antique have come from? Perhaps a wily globe-trotting gnome was trapped within by an evil sorceress? Or maybe it’s a cheap knock-off? Either way, it’s a beautiful music box.
    [062] 0x619F35555C00DE9B: Where could this antique have come from? Perhaps from the depths of an ancient tom under the sands of Al Simhara? Or maybe it's a just cheap knock-off? Either way, it's a beautiful music box.
    [063] 0x56FCBC3D63A12A1E: Where could this antique have come from? Perhaps from the depths of an ancient Shang Simla tomb? Or maybe it's a cheap knock-off? Either way, it's a beautiful music box.
-   [064] 0xC28B8F9F918AC151: This beautiful music box from exclusive designer OMG-IRL will delight anyone ... anyone who isn't a curmudgeon, anyway. It's sure to brighten any room and bring its delightful lilting tones to children young and old.
+   [064] 0xC28B8F9F918AC151: This beautiful music box from exclusive designer OMG-IRL will delight anyone… anyone who isn't a curmudgeon, anyway. It’s sure to brighten any room and bring its delightful lilting tones to children young and old.
    [065] 0xCBEE3EF5087FF5F1: A drum full of oil.
    [066] 0x1EBE0FE3E09F70DA: This digital photo frame allows you to view all your pictures without ever having the need to develop them.
    [067] 0xC476918C6FAFAF30: This white Hydrangea is also commonly used to decorate gardens and other lush locations. It blends easily with other flowers and bushes to deliver that natural look.
