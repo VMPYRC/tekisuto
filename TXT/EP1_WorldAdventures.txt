@@ -2431,8 +2431,8 @@ Unknown3: 0x00000000
    [097A] 0xA026C24327B3CC43: Trouble at the Museum
    [097B] 0x2275FCB602A6409F: Offer Assistance to {2.String}
    [097C] 0x06E5DA24CC01566E: Offer Assistance to {2.String}
-   [097D] 0xC381A7F982DC6D9B: “Excellent, I’m glad you were able to complete the rounds. It’s so hard to find good help here in Champs Les Sims. Here is the fee for your help.”
-   [097E] 0x7338EA89F6B71282: “Excellent, I’m glad you were able to complete the rounds. It’s so hard to find good help here in Champs Les Sims. Here is the fee for your help.”
+   [097D] 0xC381A7F982DC6D9B: “Excellent, I’m glad you completed the rounds. It’s so hard to find good help here in Champs Les Sims. Here is the fee for your help.”
+   [097E] 0x7338EA89F6B71282: “Excellent, I’m glad you completed the rounds. It’s so hard to find good help here in Champs Les Sims. Here is the fee for your help.”
    [097F] 0x1632E68B83886CC1: “Oh thank goodness there is somebody else in Champs Les Sims who cares remotely for the museum’s well-being! For some inexplicable reason the security guards keep quitting. They just up and leave and they will not tell me why! Something is going on here and I intend to get to the bottom of it. In the meantime, I’d like you to patrol the museum. Investigate the Egyptian gallery and see if you can find anything.”
    [0980] 0xBAC6273CEEB0187A: Investigate the Egyptian gallery in the museum, then “Report” to {2.String} to receive some Simoleons.
    [0981] 0x51B9B38D18F71EE9: Investigate the Egyptian gallery in the museum, then “Report” to {2.String} to receive some Simoleons.
