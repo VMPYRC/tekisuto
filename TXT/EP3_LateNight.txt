@@ -1195,7 +1195,7 @@ Unknown3: 0x00000000
    [4A6] 0x14CA26AC51D086F3: Read "Fade to Black and Other Overused Devices" and return to work.
    [4A7] 0x4B6AF9AC71826561: Reading, Then Writing
    [4A8] 0xBBC185EFEAB0CAE1: Read Film Book.
-   [4A9] 0x41450EA98B008877: The director was ecstatic that you were able to convince the celeb to do the cameo. It helped that you didn't mention that it was the scene where the llama sneezed all over {MB.him}{FB.her}.
+   [4A9] 0x41450EA98B008877: The director was ecstatic you convinced the celeb to do the cameo. It helped that you didn’t mention that it was the scene where the llama sneezed all over {MB.him}{FB.her}.
    [4AA] 0xAECF7CD219488A75: The director of your current project wants local celebrity {OpTarget} to do a cameo in the film, preferably in the most embarrassing scene possible. It's going to be a tough sell, so your boss wants you to find {OpTargetFirstName} and convince {MB.him}{FB.her} to do the scene.
    [4AB] 0xD2AFD81FECE83B8E: "Convince" {OpTarget} to do a cameo in the film.
    [4AC] 0xE4F82D1FF7894650: Celebrity Cameo
@@ -1817,7 +1817,7 @@ Unknown3: 0x00000000
    [714] 0xB07675EC15BEB8EC: "Drum for Quality Assurance" at {OpTarget}.
    [715] 0xE7178AEC3571075E: Rhythm Robot
    [716] 0x6AD53D27CAA9940E: "Drum for Quality Assurance" at {OpTarget}
-   [717] 0xE607862941DE1AB9: This event was a huge success thanks to {OpOwner}! Sims were so in sync that with their mind power combined, and they were able to summon a giant llama spirit. All was well until it started shedding!
+   [717] 0xE607862941DE1AB9: This event was a huge success thanks to {OpOwner}! Sims were so in sync with their mind power combined that they summoned a giant llama spirit. All was well until it started shedding!
    [718] 0x074B34C59072EA17: {OpTarget} is holding a giant meditative dance event to promote the wellness of mind and body. They would love {OpOwner} to play drums during some of the sessions.
    [719] 0x536FF92FE7855487: What a tragedy! Without the steady beating of a drum, Sims toppled all over one another, forming a giant pile of sweaty Sims. Eventually the authorities had to be called in to clean up the mess.
    [71A] 0xED8C295A2BAED61C: "Play for Spaaaah Marathon" at {OpTarget} during the appropriate hours.
@@ -1868,7 +1868,7 @@ Unknown3: 0x00000000
    [747] 0x1C679BCF03EB37A3: "Give a Master Class" at {OpTarget}.
    [748] 0x4EC8AECF2000B631: The Student Becomes the Master
    [749] 0xFD6181CCA0F1D4D1: "Give a Master Class" at {OpTarget}.
-   [74A] 0xFC1A8A45A688B6B1: The hospital and the kids are very thankful that {OpOwner} performed for them. For a few hours, the kids were able to keep their minds off their ailments and focus on being a kid.
+   [74A] 0xFC1A8A45A688B6B1: The hospital and the kids are very thankful that {OpOwner} performed for them. For a few hours, the kids kept their minds off their ailments and focused on being a kid.
    [74B] 0x6707B08942CFB69F: {OpTarget} regularly asks musicians to come play for their pediatric patients. This is a great chance for {OpOwner} to help kids feel better by playing their favorite songs. At the very least, it will ease their fear of the balloon clown they hired!
    [74C] 0x4E48F9450240F6AF: The kids at the hospital were so sad that they had to endure the annoying laugh of the balloon clown, as were the nurses and doctors. {OpOwner} should think twice about not showing up for commitments. As a result of {MA.his}{FA.her} carelessness, {OpOwner} has lost relationship with the hospital employees.
    [74D] 0xBCA4437262BDEE24: "Play Piano for Kids" at {OpTarget}.
