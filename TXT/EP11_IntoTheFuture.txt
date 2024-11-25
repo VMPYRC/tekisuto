@@ -287,7 +287,7 @@ Unknown3: 0x00000000
    [11A] 0x8228EB6FAF131097: Legacy Statue
    [11B] 0x3A99642032D43DEB: Explore the cosmos and unlock the greatest mysteries of the universe. Fun for Sims of all ages!
    [11C] 0xB786517D54B69D83: Fill any room, home or mountain range with thunderous sound from the Oryx stereo! Circular speakers broadcast at high volume while vibrating like the prongs of a tuning fork.
-   [11D] 0x5DAA0C2149851155: Venus is both a beautiful goddess and a scalding wasteland of a planet.  This stove’s gorgeousness recalls the former, and its insanely powerful oven resembles the latter.
+   [11D] 0x5DAA0C2149851155: Venus is both a beautiful goddess and a scalding wasteland of a planet. This stove’s gorgeousness recalls the former, and its insanely powerful oven resembles the latter.
    [11E] 0xD8DBAD3E7FDD6BA8: Swing sets are a classic part of growing up. The fun doesn’t fade with time, technology or age. If your rear fits on the seat, go for it! 
    [11F] 0x45309874C9686D87: Set down snacks and drinks on this table’s clear surface. Admire the verdant greenery sealed into its base. TerraFormation: it’s like a picnic, without all the messy nature.
    [120] 0x833C875BED56FC7F: Evoking the engines of some advanced starship, this dining table rises majestically from a narrow base to a broad glass face. Eat your meals at warp speed!
