@@ -1873,7 +1873,7 @@ Unknown3: 0x00000000
    [74C] 0xE63732EB087CAB80: The League of Concerned Doomsayers
    [74D] 0x54D20B774F078C8C: Attend a Doomsayers Meeting at City Hall.
    [74E] 0xE306CE54F33737D2: Great work! After you talked to the community, I’ve been hearing meteor talk on every street corner.
-   [74F] 0x79963EC0EA4FBA36: Great wooly llamas! They really think the world is going to end? This is better than expected! I’m not sure there were enough people at the meeting to really start a movement. Go around town and spread the word that the Sky is Falling. Let’s get everyone thinking the end is near! 
+   [74F] 0x79963EC0EA4FBA36: Great wooly llamas! They really think the world will end? This is better than expected! I’m not sure whether there were enough people at the meeting to really start a movement. Go around town and spread the word that the Sky is Falling. Let’s get everyone thinking the end is near!
    [750] 0x5DB7C9E3E122BC4B: Convince {1.Number} Sims that The Sky is Falling.
    [751] 0x90BBBCE3FDC265C9: Fire in the Skies
    [752] 0x28074868A6D2C4B9: Successfully convinced {0.Number} of {1.Number} Sims that The Sky is Falling.

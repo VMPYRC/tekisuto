@@ -1731,7 +1731,7 @@ Unknown3: 0x00000000
    [6BE] 0x86A996C37297591F: "Research Sleepwalking" at local Hospital
    [6BF] 0x746161C367F685F5: The Case of the Footsore Floater
    [6C0] 0xE70120B65BBB1C85: Research Sleepwalking
-   [6C1] 0x724F5EA18762C6B3: {OpTarget} wasn't surprised to hear about kicking the gnome while sleepwalking. Doesn't change the fact that I was surprised by it all. The gnome is going to be padded to preserve {OpTargetFirstName}'s toes. I'm going to take my fee and look for my next case.
+   [6C1] 0x724F5EA18762C6B3: {OpTarget} wasn’t surprised to hear about kicking the gnome while sleepwalking. Doesn’t change the fact that I was surprised by it all. The gnome will be padded to preserve {OpTargetFirstName}’s toes. I’m going to take my fee and look for my next case.
    [6C2] 0x94054A0DDD375AC9: According to the docs the sleepwalking theory makes a lot of sense. It seems {OpTarget} has consulted with the hospital before for sleepwalking. I should tell {OpTarget} that I solved the case.
    [6C3] 0xB034A6A61CA2DF82: "Report In" to {OpTarget}
    [6C4] 0x7D30B3A6000336EC: The Case of the Footsore Floater
