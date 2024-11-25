@@ -1440,7 +1440,7 @@ Unknown3: 0x00000000
    [059B] 0x3C45CAE4ECD0EF3F: Use the provided fruits to create Nice or better quality Nectar by smashing the fruits and creating the Nectar. Bring the bottle to {2.String} when finished.
    [059C] 0xCCC8F8ACC95DEB4E: Use the provided fruits to create Nice or better quality Nectar by smashing the fruits and creating the Nectar. Bring the bottle to {2.String} when finished.
    [059D] 0x29FE95E4E231CE15: A Little Experimentation
-   [059E] 0xEE246D04EAB32055: “This is simply superb! There is no more for me to teach you at this time. You know what I know. Why, I believe you could take Nectar making to a golden age, the likes of which has never been seen! Take this bottle of Nectar and these Simoleons. You have helped me a great deal, {1.SimFirstName}.”
+   [059E] 0xEE246D04EAB32055: “This is simply superb! There’s nothing more for me to teach you. You know what I know. Why, I believe you could take Nectar making to a golden age, the likes of which has never been seen! Take this bottle of Nectar and these Simoleons. You have helped me a great deal, {1.SimFirstName}.”
    [059F] 0x95E3F582C8A3661B: “You are well on your way to being a renowned creator of Nectars! Now I want you to create a Nectar that is at least Nice or better and bring it to me. I shall reward you with some Nectar.”
    [05A0] 0xB7CBC6D53146A802: “You are well on your way to being a renowned creator of Nectars! Now I want you to create a Nectar that is at least Nice or better and bring it to me. I shall reward you with some Nectar.”
    [05A1] 0x107DFB014EBE95F0: Create a bottle of Nectar that is Nice or better and deliver it to {2.String}.
