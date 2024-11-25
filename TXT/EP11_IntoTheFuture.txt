@@ -1992,7 +1992,7 @@ Unknown3: 0x00000000
    [7C3] 0xB6B786920903D587: Earn enough Lifetime Happiness and purchase the Time Remote! This will allow you to instantly change the future to whichever of the three alternate timelines you’d like.
    [7C4] 0x7DAF31255183D455: The Bot Shop is the place to buy and sell Plumbots. A higher quality Plumbot will fetch more Simoleons when being sold!
    [7C5] 0xB6B786920903D584: Time Sickness can be fatal, so be sure to head over to the Hospital for a cure. A higher Advanced Technology skill will reduce the chance of getting Time Sickness.
-   [7C6] 0xB6B786920903D585: Be careful when syphoning power with a Plumbot! There’s a chance it could break your appliance!
+   [7C6] 0xB6B786920903D585: Be careful when siphoning power with a Plumbot! There’s a chance it could break your appliance!
    [7C7] 0xB6B786920903D582: Want a place of your own to live in while at Oasis Landing? Use the Real Estate services on your phone to purchase a home.
    [7C8] 0xB6B786920903D583: Is your Sim having a bad dream while using the Dream Pod? Choose Influence Dream while they’re dreaming and their nightmare could turn into a pleasant dream!
    [7C9] 0xB6B786920903D580: Sims with low Advanced Technology skill aren’t familiar with the exotic future technology and will experience more failures. Gaining a higher Advanced Technology skill will reduce the amount of failures.
