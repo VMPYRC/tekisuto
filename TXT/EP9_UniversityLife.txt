@@ -1914,13 +1914,13 @@ Unknown3: 0x00000000
    [775] 0x709BCB784549532D: Pick a spot in town and create Street Art.
    [776] 0x9C8BE1C56DA81CDC: You earned Simoleons for completing the Day Job! CUT
    [777] 0x04F3BDEB03C01398: The campus has been covered with a plethora of street art. In an effort to clean up the campus before graduation, the University is paying students to clean up street art across campus. CUT
-   [778] 0xB491511F885302F4: You failed to complete the Day Job in time. CUT
+   [778] 0xB491511F885302F4: You didn’t complete the Day Job in time. CUT
    [779] 0x7D00B14BB63BE251: Find a street art mural and clean it up CUT
    [77A] 0x49FCBC4B999C3537: Street Art Cleaner CUT
    [77B] 0xB764A94E0A652FA3: Find a street art mural or tag and clean it up. CUT
    [77C] 0xB7B77FEAE6BE4B63: What was once art is now not thanks to you. CUT
    [77D] 0xD3FD2C4DC8C290D9: Everyone loves some quality street art, except for the University Administration. In an attempt to get ahead of the next term’s cleaning schedule, the University has asked for students to help clean up stray street art from the campus. CUT
-   [77E] 0x0CC7DC5540A77A35: You failed to complete the task in time. CUT
+   [77E] 0x0CC7DC5540A77A35: You didn’t complete the task in time. CUT
    [77F] 0x81A7F1813D7E9252: Find and clean up some street art. CUT
    [780] 0x4F7CFE812196D91C: Campus Cleanliness CUT
    [781] 0x8C862DEB2F39CF58: Find and clean up street art tags or murals. CUT
@@ -1932,13 +1932,13 @@ Unknown3: 0x00000000
    [787] 0x297BD21855A2F108: Visit the {OpTarget} and Record Anti-cheating Video.
    [788] 0xC79BEE13880EBD21: You cleared your name!
    [789] 0x855AAC49DF7829EF: Now that your name is tarnished, the only way to clear your name is to offer your services as a human test subject for an upcoming science project on human behavior.
-   [78A] 0x052FBF8C790085BF: You failed to complete the task in time.
+   [78A] 0x052FBF8C790085BF: You didn’t complete the task in time.
    [78B] 0xF6774C41D5790B34: Visit the {OpTarget} and become a Behavioral Subject.
    [78C] 0x2C084141F443F036: Clear Your Name!
    [78D] 0x9B0D21FB78DA6616: Visit the {OpTarget} and become a Behavioral Subject.
    [78E] 0x9580FD826E7D6A5A: Everyone loves your Street Art and you scored some Simoleons for your work!
    [78F] 0x2E9186480F33CF6E: One Day Only! Your abilities as a Street Artist have caught the attention of the community craving some Street Art! Go find a spot in town and create some Street Art for valuable Simoleons. 
-   [790] 0x4B0860C92E69D5E6: You failed to complete the Day Job in time.
+   [790] 0x4B0860C92E69D5E6: You didn’t complete the Day Job in time.
    [791] 0x87DF207C9CD37BE3: Create a Street Art Mural at the {OpTarget}.
    [792] 0xBDA6337CBBCC2371: Street Mural
    [793] 0x9A994A8105E1C411: Create Street Art anywhere in town.
@@ -2024,7 +2024,7 @@ Unknown3: 0x00000000
    [7E3] 0xC56504721FEB5C96: Spice up a bonfire.
    [7E4] 0xC91DD763624C590D: You completed the dare!
    [7E5] 0xA01DF7969F593BE3: A dare has been issued! It takes a real talent to cheat on an exam and not get caught. Cheat without getting caught and show everyone who knows how to cheat!
-   [7E6] 0x89DC753C33E11CDB: You failed to complete the dare.
+   [7E6] 0x89DC753C33E11CDB: You didn’t complete the dare.
    [7E7] 0x14DFC0B7DCB54358: Cheat without getting caught
    [7E8] 0x05FE6DB7D4F91832: Dare to Cheat
    [7E9] 0x7A76C91760F31592: Cheat on an exam without getting caught.
@@ -2131,19 +2131,19 @@ Unknown3: 0x00000000
    [84E] 0xB5D786E3B0157327: Show another Sim a gross video.
    [84F] 0x966389DD3498594A: You earned Simoleons for completing the Day Job!
    [850] 0xEC6008F21B1B52FE: Monkeys have escaped from the College of Science and need to be found before they have a chance to spread their mystery disease around campus. Return them for a reward!
-   [851] 0x83C10A731EF81376: You failed to complete the Day Job in time.
+   [851] 0x83C10A731EF81376: You didn’t complete the Day Job in time.
    [852] 0x0DE74E2A50755473: Visit the {OpTarget} and Search for Monkeys
    [853] 0x4488212A702732E1: Day Job: Find Escaped Monkeys
    [854] 0x9D1EEC75B8733061: Visit the {OpTarget} and search for monkeys.
    [855] 0x15EA885B5E78A36A: You earned Simoleons for completing the Day Job!
    [856] 0x149C3B09EEB5A39E: One Day Only! The professors lounge has run out of coffee beans and are in desperate need of a resupply. Find some coffee beans and return them to the {OpTarget}.
-   [857] 0xCEE8B1E83403F316: You failed to complete the Day Job in time.
+   [857] 0xCEE8B1E83403F316: You didn’t complete the Day Job in time.
    [858] 0x880045F631D67393: Find some 2 bundles of coffee beans and return them to the {OpTarget}
    [859] 0xBB3A18F64EA37601: Day Job: Coffee Bean Runner
    [85A] 0x9D404B5B5566C381: Find 2 bundles of coffee beans and return them to the {OpTarget}.
    [85B] 0xAC7147FB80790026: You earned Simoleons for completing the Day Job!
    [85C] 0x1699FBD85C27B532: One Day Only! Herb collection! The {OpTarget} is seeking a collection of herbs to use for future experiments. Find some and return them for a handful of Simoleons.
-   [85D] 0x764EECE899B057B2: You failed to complete the Day Job in time.
+   [85D] 0x764EECE899B057B2: You didn’t complete the Day Job in time.
    [85E] 0x5DE57A95C9299447: Find and return 3 herbs to the {OpTarget}
    [85F] 0x4BD44595BEB802AD: Day Job: Specimen Collection
    [860] 0x643AF2564D923A4D: Find and return 3 herbs to the {OpTarget}.
@@ -2155,19 +2155,19 @@ Unknown3: 0x00000000
    [866] 0x5ABE579BDFA08A8A: Visit the {OpTarget} and donate an organ.
    [867] 0x354668CA9908DCDD: You earned Simoleons for completing the Day Job!
    [868] 0x98B8E237B0F9AE53: Exemplary students are recommended to apply for an opportunity to be a Professor's Aid for a day. If interested visit the {OpTarget}.
-   [869] 0x76BEE24E10102D4B: You failed to complete the Day Job in time.
+   [869] 0x76BEE24E10102D4B: You didn’t complete the Day Job in time.
    [86A] 0xDE7ED6228B5CDBC8: Visit the {OpTarget} and Grade Tests for a Professor
    [86B] 0xCC37832280BD8782: Day Job: Grade Tests
    [86C] 0xD491732A8B7C5242: Visit the {OpTarget} and grade exams for a professor.
    [86D] 0xF3DEC74E6C4A2155: You earned Simoleons for completing the Day Job!
    [86E] 0xE88C6069FC3A191B: One Day Only! The professors have been receiving an inordinate amount of mail. Students are being asked to help sort through the mail and receive a Simoleon for each letter sorted.
-   [86F] 0x2A4D1C8B904E1493: You failed to complete the Day Job in time.
+   [86F] 0x2A4D1C8B904E1493: You didn’t complete the Day Job in time.
    [870] 0xD720EA0215559EF0: Visit the {OpTarget} and Sort Mail
    [871] 0xC50F97020AE3DA7A: Day Job: Mail Sorter
    [872] 0x82BCA8B574CCCEAA: Visit the {OpTarget} and sort mail.
    [873] 0xB3C6E6175E58AA29: You earned Simoleons for completing the Day Job!
    [874] 0x4567555486D6C067: One Day Only! Student Services is looking to rent your services as a blind date for another Sim on campus. Find {2.String} and take them on a fun date.
-   [875] 0x9BC55DAF965A4B97: You failed to complete the Day Job in time.
+   [875] 0x9BC55DAF965A4B97: You didn’t complete the Day Job in time.
    [876] 0x9317F68E96BB6F2C: Find {2.String} and ask them out on a date
    [877] 0xC6520B8EB388E19E: Day Job: Rent a Date
    [878] 0x90475E09F7264B4E: Find {2.String} and ask them out on a date.
@@ -2179,36 +2179,36 @@ Unknown3: 0x00000000
    [87E] 0xCB25EA16FB54D671: EP9_DayJob_SellTestAnswersProgress Placeholder DO NOT TRANSLATE
    [87F] 0xA9CA67EDCD2654A1: You earned Simoleons for completing the Day Job!
    [880] 0xF1EB3A2D468E986F: One Day Only! Show your political spirit by hosting a protest at the {OpTarget}. Activism in Action!
-   [881] 0xBC1AC74B1F614C3F: You failed to complete the Day Job in time.
+   [881] 0xBC1AC74B1F614C3F: You didn’t complete the Day Job in time.
    [882] 0x194AB0F285E95EB4: Schedule a protest at the {OpTarget}
    [883] 0x4EDBA5F2A4B443B6: Day Job: Host a Protest
    [884] 0xCD31CAF02F4BB196: Schedule a protest at the {OpTarget}.
    [885] 0x20E8AB9364B65575: You earned Simoleons for completing the Day Job!
    [886] 0xD331F4490DA4C2BB: One Day Only! A client is offering Simoleons to help other Sims on campus study to improve their academic performance. Find {2.String} and start studying!
-   [887] 0xEB6A7402031A7633: You failed to complete the Day Job in time.
+   [887] 0xEB6A7402031A7633: You didn’t complete the Day Job in time.
    [888] 0x129021DF21A87510: Find {2.String} and study together.
    [889] 0x03E4CEDF1A19D99A: Day Job: Study Group
    [88A] 0x1D8919CE0B3DA5CA: Find {2.String} and study together.
    [88B] 0x47C5D072E01EA712: You earned Simoleons for completing the Day Job!
    [88C] 0x2AA6BA05DF7EDA76: {OpTarget} is hosting a student film festival and is seeking additional help to corral everyone to their seats and keep silence golden. Helping them out will earn you some Simoleons.
-   [88D] 0x8020E8C67032FF4E: You failed to complete the Day Job in time.
+   [88D] 0x8020E8C67032FF4E: You didn’t complete the Day Job in time.
    [88E] 0x4C67920BF9B8048B: Visit the {OpTarget} and Usher for an Event.
    [88F] 0x7F6C850C16596109: Day Job: The Usher Husher
    [890] 0x7E4E8FE694C6F3F9: Visit the theater and usher for an event.
    [891] 0x1BD8A21B149102AD: You earned Simoleons for completing the Day Job!
    [892] 0x224C8368B34F7203: A local game developer is seeking Sims to test their game. Visit {OpTarget}, play some video games and get paid!
-   [893] 0xFA43635B13ABF1FB: You failed to complete the Day Job in time.
+   [893] 0xFA43635B13ABF1FB: You didn’t complete the Day Job in time.
    [894] 0x9092FBB3B2E7CBF8: Play Video Games at the {OpTarget}
    [895] 0x7E4BA8B3A84877D2: Day Job: Get Paid to Play Video Games
    [896] 0x594B7F1D015C3C32: Play videogames at {OpTarget}.
    [897] 0x6EB7A6A8ED7E4A4F: You earned Simoleons for completing the Day Job!
    [898] 0xB67D366997278D7D: The {OpTarget} is looking for applicants to test an upcoming drug treatment made from a special plant found on campus. Participants can earn a lot of Simoleons in a short amount of time.
-   [899] 0x15B829C534FA0D31: You failed to complete the Day Job in time.
+   [899] 0x15B829C534FA0D31: You didn’t complete the Day Job in time.
    [89A] 0x97DCB4069E285CF6: Sign up for the Advanced Science Experiment project at the {OpTarget}.
    [89B] 0xA9EE0906A89A2428: Day Job: Botanical Test Subject
    [89C] 0x68535EBF1CC092E4: Sign up for the Advanced Science Experiment project at the {OpTarget}.
    [89D] 0x945D47494AD64FBE: You earned Simoleons for completing the Day Job!
-   [89E] 0x544DD3B5AFC8B75A: You failed to complete the Day Job in time.
+   [89E] 0x544DD3B5AFC8B75A: You didn’t complete the Day Job in time.
    [89F] 0x8A0C5085FA37982E: Your memory is a little fuzzy from donating plasma, but now you have a pocketful of Simoleons!
    [8A0] 0xBBAC502984ECBFAA: Seeking volunteer to donate plasma for a Sim who has a plasma deficiency. Must have healthy eating habits and willing to lose a few hours of your life. Donators will be well compensated.
    [8A1] 0xDF2EFAD252EE53AA: Donating plasma sounded great until you realized needles were involved…
@@ -2229,13 +2229,13 @@ Unknown3: 0x00000000
    [8B0] 0x027DC5FB9B008026: You didn’t receive extra credit.
    [8B1] 0x68653D9CD688686E: You found a new advertising partner and received a bonus for your efforts.
    [8B2] 0xA5137DE9B26312EA: Finding local advertising partners is a great way to help fund the next game and make some extra Simoleons on the side. Visit a local business and try to drum up some advertising dollars.
-   [8B3] 0x8560FD12D1E624EA: You failed to visit a potential advertising partner’s business establishment.
+   [8B3] 0x8560FD12D1E624EA: You didn’t visit a potential advertising partner’s business establishment.
    [8B4] 0x9640AB353C662D7F: Visit the {OpTarget} and Make Advertising Deal
    [8B5] 0x83F8763531C55955: The Advertising Partner
    [8B6] 0x8E3B809B967310E5: Visit {OpTarget} and make an advertising deal.
    [8B7] 0x7E9830DA558E5914: All the new games and technology makes your current game seem obsolete… Time for a rewrite!
    [8B8] 0x9A451B20A0085480: The town is hosting the Excessive Entertainment and Games Expo, a convention for video game developers and entertainers. Attend and gain some foresight into where the industry is heading over the next few years.
-   [8B9] 0x8283A6B7EB745CFC: You failed to attend the conference.
+   [8B9] 0x8283A6B7EB745CFC: You didn’t attend the conference.
    [8BA] 0x29C55539FD9A4B99: Attend the Video Game Conference at the {OpTarget}
    [8BB] 0xF7644039E184CA6F: Excessive Entertainment and Games Expo
    [8BC] 0xDDC8D5CE2C3698AB: Attend a video game conference at the {OpTarget}
@@ -2247,7 +2247,7 @@ Unknown3: 0x00000000
    [8C2] 0x20D628586E936820: Dance in a Mo-Cap Suit.
    [8C3] 0xF5E0E878152C4B94: Researching and mastering the competitor’s game will surely help make your game even getter.
    [8C4] 0xE8C79C2D396B6400: To stay on top of your game, you should probably research the competitor’s product. Go play some arcade games, console games, and VR Goggle games to see what the competition is doing.
-   [8C5] 0x3B7CC08E25AC347C: You failed to get research on the competition done in time.
+   [8C5] 0x3B7CC08E25AC347C: You didn’t get research on the competition done in time.
    [8C6] 0xCCB60A6C065BD219: Play 1 console game, 1 computer game and 1 arcade game.
    [8C7] 0x9A54F56BEA4650EF: Game Research
    [8C8] 0x64E73CD31919C72B: Play 1 console game, 1 computer game and 1 arcade game.
@@ -2277,7 +2277,7 @@ Unknown3: 0x00000000
    [8E0] 0xAD8DCEDCCF4C76C5: Attend the game shipping party at the {OpTarget}.
    [8E1] 0x0EE4431DE0F8B474: You collected a nice library of photos to be used for texture reference on the next game.
    [8E2] 0x84F80E3856AF9860: The upcoming game is in need of some photo reference. Travel around town and take photos of various landscapes and subjects. Return the photos to the office for inspiration to finish the game.
-   [8E3] 0x8F228B3962AB71DC: You failed to collect enough reference photos in time.
+   [8E3] 0x8F228B3962AB71DC: You didn’t collect enough reference photos in time.
    [8E4] 0xCC4B20F0E076C0F9: Take 5 reference photos and return them to Work
    [8E5] 0x96840BF0C17E15CF: The Reference Library
    [8E6] 0x8375FDCBBBEBE80B: Take 5 reference photos and return them to work.

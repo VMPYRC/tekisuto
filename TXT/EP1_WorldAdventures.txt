@@ -1651,14 +1651,14 @@ Unknown3: 0x00000000
    [066E] 0x7647A1BBEE3190B6: The Concern of Illegible Handwriting
    [066F] 0xDB45F0B9C4D04E96: Discuss Note
    [0670] 0xF2E77DFEEB987366: EP1_Quest_DongHuoTreasure3BCompletion
-   [0671] 0x514361BEC8D6E272: “Hmmm, yes, I can see why you failed to decipher this note. It is written in the ancient code of Dong Huo’s army, known only by his lieutenants. And, of course, myself. I have deciphered the note explaining the location of Dong Huo’s treasure! You will need to first find the key, which is at a location I’ll detail for you on your map. That key should unlock the chambers holding the treasure. Good luck finding the key!”
+   [0671] 0x514361BEC8D6E272: “Hmmm, yes, I can see why you could not decipher this note. It is written in the ancient code of Dong Huo’s army, known only by his lieutenants. And, of course, myself. I have deciphered the note explaining the location of Dong Huo’s treasure! You will need to first find the key, which is at a location I’ll detail for you on your map. That key should unlock the chambers holding the treasure. Good luck finding the key!”
    [0672] 0xF8FDAE22FE0BE7F2: Why'd you destroy the keystone? Hopefully, you can find another one later.
    [0673] 0x8F650AFD8D956387: Deliver the Key of Dong Huo’s Treasure Trove to {2.SimName} to receive Ancient Coins.
    [0674] 0x971BD009DC9882F6: Deliver the Key of Dong Huo’s Treasure Trove to {2.SimName} to receive Ancient Coins.
    [0675] 0x80B9D5FD8606FBED: Deep Within the Forbidden City
    [0676] 0x89752B2393F6078D: Deliver Key
    [0677] 0x8974FD67125CBB3C: EP1_Quest_DongHuoTreasure3Completion
-   [0678] 0xB09B6F2A7ABC1B78: “Hmmm, yes, I can see why you failed to decipher this note. It is written in the ancient code of Dong Huo’s army, known only by his lieutenants. And, of course, myself. I have deciphered the note explaining the location of Dong Huo’s treasure! You will need to first find the key, which is at a location I’ll detail for you on your map. That key should unlock the chambers holding the treasure. Good luck finding the key!”
+   [0678] 0xB09B6F2A7ABC1B78: “Hmmm, yes, I can see why you couldn’t decipher this note. It is written in the ancient code of Dong Huo’s army, known only by his lieutenants. And, of course, myself. I have deciphered the note explaining the location of Dong Huo’s treasure! You will need to first find the key, which is at a location I’ll detail for you on your map. That key should unlock the chambers holding the treasure. Good luck finding the key!”
    [0679] 0x7C8327E31F36EAD4: EP1_Quest_DongHuoTreasure3Failure
    [067A] 0xD66668B15388BFB1: Deliver the Key of Dong Huo’s Treasure Trove to {2.SimName} to receive Ancient Coins.
    [067B] 0x68466ACAE7EE4D64: Deliver the Key of Dong Huo’s Treasure Trove to {2.SimName} to receive Ancient Coins.
