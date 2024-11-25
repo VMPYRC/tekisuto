@@ -93,7 +93,7 @@ Unknown3: 0x00000000
    [0058] 0xFB4B1C3CE96EFC19: ruins wall china broken description needs text
    [0059] 0xC21AC165FC35F719: Even if its great performance and high fuel efficiency doesn’t sell you on it, The Kenspa’s classic looks and edgy flair certainly add much more buying appeal.
    [005A] 0x8B07CD2C93626F86: Use this accent to give your roof the custom look you’ve always wanted, but never been able to afford!
-   [005B] 0x68FEECAA66ABD0AC: Some say it's the head, some say it's the tail, some say it's both. Either way, this ferocious dragon head/tail is going to town on this piece of roof artwork. Look out!
+   [005B] 0x68FEECAA66ABD0AC: Some say it’s the head, some say it’s the tail, some say it’s both. Either way, this ferocious dragon’s head/tail is ravaging this piece of roof artwork. Look out!
    [005C] 0xB4999844FB6F733F: What's better than a real umbrella? A sculpture of an umbrella! It gives it class...
    [005D] 0xB1E9DA5005E55061: This vase so resembles a fountain gushing with flowers that it inspired film director M. Wohlert to include a CG rendering of a heroic flower fountain in his latest Sci-Fi epic.
    [005E] 0xCF9A2B8DEEB72CC3: cobra description
@@ -1470,8 +1470,8 @@ Unknown3: 0x00000000
    [05B9] 0x501D1835423EF335: Find {2.SimName} and Convince Sim to go with you to talk with {16.SimFirstName} to complete this adventure.
    [05BA] 0x8B7E41F3605CDC60: A Convincing Story
    [05BB] 0x712C85BA5769996C: Convince Sim
-   [05BC] 0x383744D17A594AB0: “I am so glad {16.SimName} is going to reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one cannot learn on their own! Thank you so much for your assistance.”
-   [05BD] 0x2A1AC253D085F64B: “I am so glad {16.SimName} is going to reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one cannot learn on their own! Thank you so much for your assistance.”
+   [05BC] 0x383744D17A594AB0: “I am so glad {16.SimName} will reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one cannot learn on their own! Thank you so much for your assistance.”
+   [05BD] 0x2A1AC253D085F64B: “I am so glad {16.SimName} will reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one cannot learn on their own! Thank you so much for your assistance.”
    [05BE] 0xAD5D968F10B36834: “So there’s more than meet’s the eye to that old Clan of the Resolute Fist, huh? I always thought there might be something that they’ve kept secret in their organization all these years. I guess if they can’t help me with my Martial Arts skill, it would still be interesting to learn more about the organization. Will you tell {2.String} I will come by soon so we can talk more about my membership to the club?"
    [05BF] 0xEE3DCCF8A545A737: “So there’s more than meet’s the eye to that old Clan of the Resolute Fist, huh? I always thought there might be something that they’ve kept secret in their organization all these years. I guess if they can’t teach help me with my Martial Arts skill, it would still be interesting to learn more about the organization. Will you tell {2.String} I will come by soon so we can talk more about my membership to the club?"
    [05C0] 0xB7B7794C66B65F78: EP1_Quest_BringMonkBack4Failure
