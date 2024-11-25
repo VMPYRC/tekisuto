@@ -79,7 +79,7 @@ Unknown3: 0x00000000
    [04A] 0x8D80F3B7EABFAC98: Sleek double doors slide shut to form an unbreakable airtight seal. Inside, barometric pressure is reduced to zero; your clothes are perfectly preserved in a deep-space vacuum!
    [04B] 0x5D0C0094D22601C2: Delightfully Oversized Flower
    [04C] 0xD5B2B13FA8F5D3B9: Traditional easels are a pain. Who wants to handle toxic paints and store stacks of old canvas? Holo-Easels are all-digital, taking your artwork into a dazzling new age!
-   [04D] 0x3A71472751FA6876: Elevators are terribly crude if you think about it. Moving a whole room from one floor to another? Barbaric! It’s much more efficient to move single Sims with anti-gravity tech.
+   [04D] 0x3A71472751FA6876: Elevators are terribly crude if you think about it. Moving a whole room from one floor to another? Barbaric! It’s much more efficient to move single Sims with antigravity tech.
    [04E] 0x027351CC65356518: Hide unsightly grass and dirt with this high tech concrete. Guaranteed to never crack or chip!
    [04F] 0x40AC2CE6806A4C57: Real dirt is so passé. Enjoy the look and feel of dirt without the mess using the latest in simulation technology.
    [050] 0xDED38698E18D67FF: Enjoy the look of fresh grass without the effort! This great looking grass never needs mowing.
@@ -145,7 +145,7 @@ Unknown3: 0x00000000
    [08C] 0xCDEFD8EE5DE17626: Named for the proud and majestic water buffalo, the Bubalus HoverVan is perfect for transporting lots of Sims. Six seats and spacious interior should keep your children from bickering.
    [08D] 0xF198813758CEE0E1: Spawns nanites for the Bot Workshop
    [08E] 0x47ADB6C926D4BFE7: Launch yourself skyward for thrilling adventures with this personal jetpack! Patented gyroscopes ensure your basic safety, and it’s got enough juice to take other Sims on tandem rides.
-   [08F] 0x12FFD571616A609D: With anti-gravity being so prevalent now-a-days, it’s sometimes nice to experience it in all its glory! The SkySwoop Slide will bring your children the utmost adoration, at least until they learn about video games.
+   [08F] 0x12FFD571616A609D: With antigravity being so prevalent nowadays, it’s sometimes nice to experience it in all its glory! The SkySwoop Slide will bring your children the utmost adoration, at least until they learn about video games.
    [090] 0x3CC2DA4D64ECF19E: Did you know that only 30% of Sims can locate their local Library? Well, that statistic can only be looked up…in the Library! Use this glowing sign to find it.
    [091] 0x4C3502B15B074AF3: Powered by glowing fiber-optic cables, these delicate ceiling lights illuminate your home like a cityscape on a rainy night. Bright walls and dramatic shadows are sure to leave lasting memories.
    [092] 0x6C6F5296072EF4C3: Cast any living space in a cool postmodern glow! This freestanding floor lamp mimics the distinctive soundwave signature of whale song. If only whales still existed…
@@ -292,7 +292,7 @@ Unknown3: 0x00000000
    [11F] 0x45309874C9686D87: Set down snacks and drinks on this table’s clear surface. Admire the verdant greenery sealed into its base. TerraFormation: it’s like a picnic, without all the messy nature.
    [120] 0x833C875BED56FC7F: Evoking the engines of some advanced starship, this dining table rises majestically from a narrow base to a broad glass face. Eat your meals at warp speed!
    [121] 0x25154CADF358DEC7: Simply the most striking table made this century—or the last, or the next. Struts spiral up from a planter base, suspending your meals like a city in the clouds.
-   [122] 0xE371CE1CFE6FC296: In a world paved over with concrete and steel, Sims should seek out nature at every opportunity! PlanterPod is a simple, easy splash of green in your life.
+   [122] 0xE371CE1CFE6FC296: In a world paved with concrete and steel, Sims should seek nature at every opportunity! PlanterPod is a simple, easy splash of green in your life.
    [123] 0x0CECEF88167EB35C: A wide, sturdy base stabilizes the stars while you peer through this fine telescope. Equipped with a precision tuning handle, Perseus picks out the tiniest specks from the firmament.
    [124] 0xDCB596A4A7DA6A33: Nanite Terrarium DNT
    [125] 0xB20261C0CF7E36DB: Enjoy the latest and greatest films remade in HoloVision! You’ll never look at movies the same again.

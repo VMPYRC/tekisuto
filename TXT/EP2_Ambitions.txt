@@ -221,10 +221,10 @@ Unknown3: 0x00000000
    [0D8] 0x67CF2C4AFA48C72F: For Sims who are brave (or maybe just foolish?) The Ink-in-Comfort 3000 is the classic approach to getting inked! Needles, an artist, and a steel will all combine for a memorable tattoo experience.
    [0D9] 0xDE6A263F53E7ADC7: The Time Machine is a unique, dimension and time bending device that provides a never before experienced adventure for any Sim!
    [0DA] 0xCD2EB86FB1830B6A: use base game text [Placeholder]
-   [0DB] 0xBF159C53AA68DBD7: This Cow is an excellent hand-crafted toy for children!
-   [0DC] 0xBF0ABC53AA5F0A1C: This Dog is an excellent hand-crafted toy for children!
-   [0DD] 0xC0ABFCC42652155E: This Robot is an excellent hand-crafted toy for children!
-   [0DE] 0xA004F0ACB281C9C1: This Whale is an excellent hand-crafted toy for children!
+   [0DB] 0xBF159C53AA68DBD7: This Cow is an excellent handcrafted toy for children!
+   [0DC] 0xBF0ABC53AA5F0A1C: This Dog is an excellent handcrafted toy for children!
+   [0DD] 0xC0ABFCC42652155E: This Robot is an excellent handcrafted toy for children!
+   [0DE] 0xA004F0ACB281C9C1: This Whale is an excellent handcrafted toy for children!
    [0DF] 0xF652A2233848A647: Jumpstart your day on a trampoline created by No-Liability Industries. Sure to provide hours of invigorating, at-your-own-risk fun for you and a friend. Great for kids too! Best used on an empty stomach.
    [0E0] 0x326A825C4192435E: Is it a fig? Is it a tree? It's both! Marvel at nature's efficiency with the best bang-for-your-buck tree around.
    [0E1] 0x43BECE47DBD704B7: Nothing delivers classic charm quite like a blooming Birch tree. Make a statement to your neighbors of your regal elegance with this simple addition to any yard.
