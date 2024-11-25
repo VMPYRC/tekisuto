@@ -1994,7 +1994,7 @@ Unknown3: 0x00000000
    [07C5] 0xC8D78AA1F39CD672: Report Success to {2.String}
    [07C6] 0x779F83F52EA4DF05: “My store has not been doing well lately. It seems I am not selling what people need. However, you look like a persuasive Sim. Could you convince {10.Number} locals to shop at my store? I’ll pay you well for your efforts.”
    [07C7] 0xFE5BA386195439E0: “My store has not been doing well lately. It seems I am not selling what people need. However, you look like a persuasive Sim. Could you convince {10.Number} locals to shop at my store? I’ll pay you well for your efforts.”
-   [07C8] 0xDFAADE5BECD5529E: Speak to {1.Number} Sims and “Convince to Visit Store", then return to {2.String} to receive some Simoleons.
+   [07C8] 0xDFAADE5BECD5529E: Speak to {1.Number} Sims and “Convince to Visit Store,” then return to {2.String} to receive some Simoleons.
    [07C9] 0xF1F2335BF774AA40: Verbal Advertisement
    [07CA] 0x7788C7030E9FFC4C: Convinced {0.Number}/{1.Number} Sims to Visit Store
    [07CB] 0x8EEC62C36CD2B867: “Getting out to find my own jade is so time consuming and tedious. Money is good, so I’d just rather pay those like you for the help. You have my thanks.”

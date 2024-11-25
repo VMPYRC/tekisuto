@@ -1624,7 +1624,7 @@ Unknown3: 0x00000000
    [653] 0x05A41DBCA50AB792: Read {OpTarget}'s Journal
    [654] 0xD0142ABC8641895C: Someone's Fishy
    [655] 0xDC8D5F8DB09E0398: Read {OpTarget}'s Journal
-   [656] 0x2A7E4049E6A8DE30: This is unbelieveable. The lab technician had been doing research on goldfish… trying to turn them into real gold. Then, on "Take You Child To Work Day", their kid ran in front of the FishAlchemy ray to try to save the goldfish. Poor kid… the ray transformed him into something... inhuman. He disappeared one day leaving only a pile of apple cores on the kitchen table... Wait... what's this? Says the kid became obsessed with water. Maybe I should check out the pool.
+   [656] 0x2A7E4049E6A8DE30: This is unbelievable. The lab technician had been doing research on goldfish… trying to turn them into real gold. Then, on “Take Your Child To Work Day,” their kid ran in front of the FishAlchemy ray to try to save the goldfish. Poor kid… the ray transformed him into something… inhuman. He disappeared one day leaving only a pile of apple cores on the kitchen table… Wait… what’s this? Says the kid became obsessed with water. Maybe I should check out the pool.
    [657] 0xF1EA4995B27A8309: "Snoop for Clues" at the pool
    [658] 0xBEB0749595AD7DFF: Someone's Fishy
    [659] 0x41DBD646F6114EDB: Snoop for Clues
@@ -2472,7 +2472,7 @@ Unknown3: 0x00000000
    [9A3] 0x26E4C123F29802D3: Read "Designing the Perfect Syllabus" to improve your job performance and increase your relationship with your boss.
    [9A4] 0x5A1F94240F66B841: Designing the Perfect Syllabus
    [9A5] 0xBF1ED6C41B8604C1: Read Education book.
-   [9A6] 0x821DB5AB7D43519F: "Princi-Pal", because the "Principal" is your "Pal". Got it! You're one step closer to becoming the boss.
+   [9A6] 0x821DB5AB7D43519F: “Princi-Pal,” because the “Principal” is your “Pal”. Got it! You’re one step closer to becoming the boss.
    [9A7] 0x2D523FB73D83E26D: You've worked hard and become an assistant principal but you still need some help if you're going to move up. Your boss wants you to read "The Principles of Principals". You'll gain job performance and the respect of your boss.
    [9A8] 0x50DD91069D01A126: Read "The Principles of Principals" to improve your job performance and increase your relationship with your boss.
    [9A9] 0x62EEE606A7736978: The Priciples of Principals
