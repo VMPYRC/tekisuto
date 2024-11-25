@@ -1843,7 +1843,7 @@ Unknown3: 0x00000000
    [72E] 0x6121FAFF13ACD64C: "Inspect Mail" on {OpNumEventsGoal} Sims' Mailboxes
    [72F] 0x945C0FFF307A48BE: The Case of the Snail Mail Jam
    [730] 0x2DC6AD2257F6166E: Inspect {OpNumEventsCurrent}/{OpNumEventsGoal} Mailboxes
-   [731] 0xD834A95E9DAD9A02: {OpTarget} is riled up like only a politician can be. I feel sorry for the local city council members about to get an ear full of filibuster. Hopefully the end result is less junk mail. Case closed.
+   [731] 0xD834A95E9DAD9A02: {OpTarget} is riled up like only a politician can be. I feel sorry for the local city council members about to get an ear full of filibuster. Hopefully the result is less junk mail. Case closed.
    [732] 0x33BBE9975CD41646: All three mailboxes contained junk mail from the local bookstore. Used books? I don't think I care much for used books and apparently neither do the locals. I should report back to {OpTarget} so that the bookstore can be told to stop spamming folks.
    [733] 0x21B388EC748A9EDB: "Report In" to {OpTarget}
    [734] 0x57447BEC93558039: The Case of the Snail Mail Jam
@@ -2129,7 +2129,7 @@ Unknown3: 0x00000000
    [84C] 0x431D3C14BE67E6B2: "Snoop for Clues" at local Art Gallery
    [84D] 0x10F24914A2802E7C: The Great Clap Trap of an Art Heist
    [84E] 0xE1C07C1E403CC8B8: Snoop for Clues
-   [84F] 0xBE9343E1B7BDF87A: I've been around a workshop or two, but I've never seen a piece of Scrap metal like this before. It's a very unique piece of metal. I need to speak to an expert inventor about it…like {OpTarget}.
+   [84F] 0xBE9343E1B7BDF87A: I’ve been around a workshop or two, but I’ve never seen a piece of Scrap metal like this before. It’s a unique piece of metal. I need to speak to an expert inventor about it…like {OpTarget}.
    [850] 0xF0E62C30DBCDDD4F: "Discuss Suspicious Scraps" with {OpTarget}
    [851] 0xDF77B730D1E64005: The Great Clap Trap of an Art Heist
    [852] 0xBD6B1EDC730ABA35: Speak to {OpTarget}
