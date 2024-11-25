@@ -105,7 +105,7 @@ Unknown3: 0x00000000
    [064] 0xC28B8F9F918AC151: This beautiful music box from exclusive designer OMG-IRL will delight anyone ... anyone who isn't a curmudgeon, anyway. It's sure to brighten any room and bring its delightful lilting tones to children young and old.
    [065] 0xCBEE3EF5087FF5F1: A drum full of oil.
    [066] 0x1EBE0FE3E09F70DA: This digital photo frame allows you to view all your pictures without ever having the need to develop them.
-   [067] 0xC476918C6FAFAF30: This white version of the Hydrangea is also commonly used to decorate gardens and other lush locations. It is able to blend easily with other flowers and bushes to deliver that natural look.
+   [067] 0xC476918C6FAFAF30: This white Hydrangea is also commonly used to decorate gardens and other lush locations. It blends easily with other flowers and bushes to deliver that natural look.
    [068] 0xE6C9C1E1E29A7BB4: These cattails are often found in the wetlands habitats, in particular the swamp.
    [069] 0x981B8ADA93A3AB4A: Travelers beware, for who knows what may lie in wait in the thickly tangled blades of grass. Treasure, fortune, or the physical embodiment of your greatest fears? As they say, it came from beneath the swamp…grass!
    [06A] 0x3588E7D870CDB44C: This large overgrown piles of brown grass is abundant in leaves that can make any child lost within them.

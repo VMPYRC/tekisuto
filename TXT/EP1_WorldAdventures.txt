@@ -2397,8 +2397,8 @@ Unknown3: 0x00000000
    [0958] 0x4E025ED6C3FDE36A: Proof of Mummification
    [0959] 0xF2A37372DD40723A: Photograph a Mummy
    [095A] 0x2BFCA1E41592D8DE: “That government grant is as good as ours! With this proof the government simply has to finance our protective mummy expedition gear. You’ve done more for the Historical Society than I can tell you!”
-   [095B] 0xA3A5484BEBFA0C3A: “The Al Simhara Historical Society needs proof of the existence of mummies in order to win a grant from the government. We are willing to pay in a variety of coinage to any Sim who is able to provide a clear photo of a mummy. Please deliver to {2.String}.”
-   [095C] 0xC1A1C99861561FA9: “The Al Simhara Historical Society needs proof of the existence of mummies in order to win a grant from the government. We are willing to pay in a variety of coinage to any Sim who is able to provide a clear photo of a mummy. Please deliver to {2.String}.”
+   [095B] 0xA3A5484BEBFA0C3A: “The Al Simhara Historical Society needs proof of the existence of mummies to win a grant from the government. We are willing to pay in a variety of coinage to any Sim who provides a clear photo of a mummy. Please deliver to {2.String}.”
+   [095C] 0xC1A1C99861561FA9: “The Al Simhara Historical Society needs proof of the existence of mummies to win a grant from the government. We are willing to pay in a variety of coinage to any Sim who provides a clear photo of a mummy. Please deliver to {2.String}.”
    [095D] 0x094541BE1910460F: Take a Photo of a Mummy and deliver it to {2.String} to earn Simoleons, Ancient Coins, and Visa Points.
    [095E] 0x8BA0E3775E3CD55E: Take a Photo of a Mummy and deliver it to {2.String} to earn Simoleons, Ancient Coins, and Visa Points.
    [095F] 0xF7D7CCBE0F2A5CC5: Proof of Mummification
@@ -2452,7 +2452,7 @@ Unknown3: 0x00000000
    [098F] 0x50723B2B08453E84: Investigate the hidden area and find the source of the noises.
    [0990] 0x8376302B24E4EBA6: Strange Sounds
    [0991] 0x378F7F1D8DCA23E6: Find the Source of the Sounds
-   [0992] 0x86D7F54AC946BDDD: By placing the tombstone inside the mausoleum, the unfortunate former curator is able to peacefully depart the world and lay in rest forever. It seems the haunting at the museum is at an end.
+   [0992] 0x86D7F54AC946BDDD: By placing the tombstone inside the mausoleum, the unfortunate former curator can peacefully depart the world and lay in rest forever. It seems the haunting at the museum is at an end.
    [0993] 0x98B958D48F55D04B: How awful! Without the remains {1.SimFirstName} cannot lay the curator to rest. He will never be at peace!
    [0994] 0x4A1061BBEC58E972: How awful! Without the remains {1.SimFirstName} cannot lay the curator to rest. He will never be at peace!
    [0995] 0xD6CBD9B4CED04B42: Place Tombstone at Cemetary
