@@ -873,7 +873,7 @@ Unknown3: 0x00000000
    [364] 0xD5427C90A7349061: Salty is evil. He loves sharks.
    [365] 0xBCC1FAFCCD3B35B1: Sean loves to cook, clean, and play guitar.
    [366] 0x5D48D597CE28BB23: Tariq's real passion is the sea and all things about it…swimming, fishing, scuba, he loves them all.
-   [367] 0x48D218D0533BA437: Teodor is too trusting, which is why Alfonso was able to take advantage of him.
+   [367] 0x48D218D0533BA437: Teodor’s overtrusting nature allowed Alfonso to take advantage of him.
    [368] 0x9350C675D8D5F806: Formerly known as "Fish Kid"
    [369] 0xE1F936681F4E6892: Valerie yearns for romance, but feels too busy to find love.
    [36A] 0x62375ED6D9DCBB50: Some people mistake Yelena's pride for snobbery.
