@@ -17,11 +17,11 @@ Unknown3: 0x00000000
    [0C] 0x69E4EF341D31ACE8: Play for Tips
    [0D] 0x2BC2AE585101029A: Tip
    [0E] 0x150731164FC2720F: It is said that the violin is one of the hardest instruments to learn how to play, so {0.SimFirstName} has {MA.his}{FA.her} work cut out for {MA.him}{FA.her}. However, as the old saying goes, "Practice makes perfect!"
-   [0F] 0x7EDD767E08F58FDB: Percent of Compositions Known: {0.Number}%
-   [10] 0xC0D7744B13A59268: Tips Earned: {0.Number} 
-   [11] 0xF015FB5877A809A0: Total Watchers: {0.Number}
-   [12] 0xF7DD6A6186FB968F: Total Played Compositions: {0.Number} 
-   [13] 0xFA6D5CF575C43193: Total Played Medieval Compositions: {0.Number}
+   [0F] 0x7EDD767E08F58FDB: {0.Number}% known
+   [10] 0xC0D7744B13A59268: §{0.Number} earned
+   [11] 0xF015FB5877A809A0: {0.Number} viewers
+   [12] 0xF7DD6A6186FB968F: {0.Number} performances
+   [13] 0xFA6D5CF575C43193: {0.Number} performances (Medieval)
    [14] 0x389EBE14A53C9A0A: Summer of Sage
    [15] 0x8C3BC4F2C3A03411: You’re still here?
    [16] 0x359EFDF93AC4B700: Savage Charles
