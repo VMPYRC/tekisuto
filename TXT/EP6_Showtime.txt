@@ -32,7 +32,7 @@ Unknown3: 0x00000000
    [01B] 0x7262E0720AB42B4C: Howard's House of Hats is the number one millinery in town! Cover up that bad haircut with a fantastic hat that will be sure to turn heads.
    [01C] 0x7262E0720AB42B4D: Eat at Blake's World Of Healthy Pies- now serving organic, vegan, and tasteless pies.
    [01D] 0x7262E0720AB42B4E: At Desire Furniture we have just the right piece of furniture for your family. "Desire Furniture might be expensive, but there is a saying in the furniture work that you get what you pay for, and you do you really want to sit on something sub-ordinary?"
-   [01E] 0x7262E0720AB42B4F: Now at the museum: the world famous exhibit "Collection of Hipness." Is it art or is it not? Judge for yourself while the collection is in town. 
+   [01E] 0x7262E0720AB42B4F: Now at the museum: the world-famous exhibit “Collection of Hipness.” Is it art or is it not? Judge for yourself while the collection is in town!
    [01F] 0x7262E0720AB42B40: Move into your dream home today! Call, email, fax, or just stop by Destiny Grove. Destiny Grove-- you'll love your new home here!
    [020] 0x7262E0720AB42B41: Lose over 20% of your weight with NuFast, the Nu-est diet craze that might or might not be safe.
    [021] 0x9CAB020B2F843C1F: These two women love their soda, and so should you! Grab a can of Fizztastic today!

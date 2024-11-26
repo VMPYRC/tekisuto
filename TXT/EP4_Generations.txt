@@ -496,7 +496,7 @@ Unknown3: 0x00000000
    [1EB] 0x6EB14DF9C9F65D66: Debate for Presidency at {OpTarget}
    [1EC] 0x735CF2BBC4AC1245: The Debate Team presidency went to another classmate. The students felt that {OpOwner} needed a little more logic or needed to be in a better mood. Feel free to debate the situation at the next club meeting.
    [1ED] 0x5C0D13717DDE8AD7: Olivia Street only had great things to say to {OpOwner} about {MA.his}{FA.her} performance! She enthusiastically gave {OpOwner} the signed movie poster.
-   [1EE] 0x9BD3C2E365687355: Lights, camera, action! The world famous actress Olivia Street will be visiting the {OpTarget} this week! She'll be holding a master class for all drama club students. The student who gives the best monologue will win a movie poster signed by hers truly! Does {OpOwner} want to participate?
+   [1EE] 0x9BD3C2E365687355: Lights, camera, action! The world-famous actress Olivia Street will be visiting the {OpTarget} this week! She’ll be holding a master class for all drama club students. The student who gives the best monologue will win a movie poster signed by hers truly! Does {OpOwner} want to participate?
    [1EF] 0xAC6F8E3130A89189: It's a real shame to miss opportunities like this. Who knows what doors could have been opened by meeting Miss Street!
    [1F0] 0x0EFC5AFB416237EE: Give Monologue at {OpTarget}
    [1F1] 0x2143AFFB4C018EB0: Lots of Drama

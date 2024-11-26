@@ -2727,8 +2727,8 @@ Unknown3: 0x00000000
    [0AA2] 0xDFC13E6983BC30D3: Deliver Photo
    [0AA3] 0xA72DBDECEDEAACEA: “I look beautiful, don’t I? I’m pretty sure these photos will complete my portfolio and soon, very soon, everyone will know about {2.SimName}. I can barely wait!”
    [0AA4] 0x98F94D5E9D222CD9: “I look beautiful, don’t I? I’m pretty sure these photos will complete my portfolio and soon, very soon, everyone will know about {2.SimName}. I can barely wait!”
-   [0AA5] 0x5BD9C160AD7BC81E: “I would like to become a model, but I do not own a camera. Unfortunately, this means I do not have any headshots for my portfolio. I am willing to pay for the photograph. In addition, you’ll also have the satisfaction of making {2.SimName} a world famous name!”
-   [0AA6] 0xEB38D05D55CF3A55: “I would like to become a model, but I do not own a camera. Unfortunately, this means I do not have any headshots for my portfolio. I am willing to pay for the photograph. In addition, you’ll also have the satisfaction of making {2.SimName} a world famous name!”
+   [0AA5] 0x5BD9C160AD7BC81E: “I would like to become a model, but I do not own a camera. Unfortunately, this means I do not have any headshots for my portfolio. I am willing to pay for the photograph. Also, you’ll also have the satisfaction of making {2.SimName} a world-famous name!”
+   [0AA6] 0xEB38D05D55CF3A55: “I would like to become a model, but I do not own a camera. Unfortunately, this means I do not have any headshots for my portfolio. I am willing to pay for the photograph. Also, you’ll also have the satisfaction of making {2.SimName} a world-famous name!”
    [0AA7] 0xF7BDD28486CC0F96: EP1_Quest_PhotoHeadShotFailure
    [0AA8] 0x22218EC76F84C913: Take a headshot photo of {2.SimName}, then “Deliver Photo” to {2.SimName} to receive Simoleons.
    [0AA9] 0xE2EF478360EB963A: Take a headshot photo of {2.SimName}, then “Deliver Photo” to {2.SimName} to receive Simoleons.
