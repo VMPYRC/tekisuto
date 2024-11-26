@@ -80,7 +80,7 @@ Unknown3: 0x00000000
    [04B] 0x5D0C0094D22601C2: Delightfully Oversized Flower
    [04C] 0xD5B2B13FA8F5D3B9: Traditional easels are a pain. Who wants to handle toxic paints and store stacks of old canvas? Holo-Easels are all-digital, taking your artwork into a dazzling new age!
    [04D] 0x3A71472751FA6876: Elevators are terribly crude if you think about it. Moving a whole room from one floor to another? Barbaric! It’s much more efficient to move single Sims with antigravity tech.
-   [04E] 0x027351CC65356518: Hide unsightly grass and dirt with this high tech concrete. Guaranteed to never crack or chip!
+   [04E] 0x027351CC65356518: Hide unsightly grass and dirt with this high-tech concrete. Guaranteed to never crack or chip!
    [04F] 0x40AC2CE6806A4C57: Real dirt is so passé. Enjoy the look and feel of dirt without the mess using the latest in simulation technology.
    [050] 0xDED38698E18D67FF: Enjoy the look of fresh grass without the effort! This great looking grass never needs mowing.
    [051] 0x75BE4784BA13F2FD: Offers all the same benefits of the great looking Dark Rural Grass, but in a lighter color.
@@ -871,7 +871,7 @@ Unknown3: 0x00000000
    [362] 0xD44A178D6B1FEC82: Once used by early settlers of Oasis Landing, this fishing hole has been forgotten, except by the local neighbors.
    [363] 0xD2ACC1B62EE8019B: Nothing says future like being in The Erutuf! Oasis Landing’s downtown lounge is the place to be.
    [364] 0xD2ACC1B62EE80198: Gorgeous plants and a low key atmosphere draw in Sims from all over. When you gotta take a chill, Loel’s got your back!
-   [365] 0xD2ACC1B62EE80199: Relax the old fashioned way without the high tech contraptions that complicate life.
+   [365] 0xD2ACC1B62EE80199: Relax the old fashioned way without the high-tech contraptions that complicate life.
    [366] 0xBAB38A1F48BA9914: Shop till you drop! We offer the latest and most exotic of imported products on display and ready to sell!
    [367] 0x470ED34FD3A56192: The final destination when a Sim moves on… Keep your voice down and respect the resting!
    [368] 0x88839DE788A04278: Suffering from Time Sickness or in need of scientific research? We’ll serve you with a smile and guarantee our work.
