@@ -71,15 +71,15 @@ Unknown3: 0x00000000
    [42] 0x3611C532974FBAAD: Brilliant
    [43] 0xFC64CE8A13080529: Low 
    [44] 0x44488F05F4FB4385: Normal
-   [45] 0xC0359EC7C6AB76BA: Metal Smelted: {0.Number}
-   [46] 0x19BE0635696E721A: Value of All Smelted Metal: {0.Number}
-   [47] 0x2A297AF06BC16A1E: Low Quality Creations: {0.Number}
-   [48] 0x510765944347FBD9: Masterpiece Quality Creations: {0.Number}
-   [49] 0xEA965A1F416E50DA: Brilliant Quality Creations: {0.Number}
-   [4A] 0x3D0230DA320756C2: Normal Quality Creations: {0.Number}
-   [4B] 0xDFC8051498F3339E: Total Creations: {0.Number}
+   [45] 0xC0359EC7C6AB76BA: {0.Number} metals smelted
+   [46] 0x19BE0635696E721A: §{0.Number} metals smelted
+   [47] 0x2A297AF06BC16A1E: {0.Number} low quality creations
+   [48] 0x510765944347FBD9: {0.Number} masterpiece quality creations
+   [49] 0xEA965A1F416E50DA: {0.Number} brilliant quality creations
+   [4A] 0x3D0230DA320756C2: {0.Number} normal quality creations
+   [4B] 0xDFC8051498F3339E: {0.Number} creations
    [4C] 0x466F8D45A428D7C4: {1.SimFirstName} created {0.String} in the Artisan's Glassblowing and Jewelry Making Station.
-   [4D] 0x80B98475B42BD127: Value of All Creations: {0.Number}
+   [4D] 0x80B98475B42BD127: §{0.Number} creations
    [4E] 0x72B806518CA0F28B: This accessory is for Sims of the opposite gender.
    [4F] 0x29670808C513B334: Plan Outfit
 ---

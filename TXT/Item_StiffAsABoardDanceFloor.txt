@@ -13,22 +13,22 @@ Unknown3: 0x00000000
    [08] 0xEE5024676053316A: No partners available
    [09] 0x751995AC5CBEE0B7: Watch
    [0A] 0x191336B9B52A9D56: Join
-   [0B] 0x5BCCE1978BB9A759: Basic Dancing Skill: Unskilled
-   [0C] 0x5BCCE1978BB9A758: Basic Dancing Skill: Beginner
-   [0D] 0x5BCCE1978BB9A75B: Basic Dancing Skill: Intermediate
-   [0E] 0x5BCCE1978BB9A75A: Basic Dancing Skill: Advanced
-   [0F] 0x1F8AE4A62EFBEEE8: Club Dance Skill: Unskilled
-   [10] 0x1F8AE4A62EFBEEE9: Club Dance Skill: Beginner
-   [11] 0x1F8AE4A62EFBEEEA: Club Dance Skill: Intermediate
-   [12] 0x1F8AE4A62EFBEEEB: Club Dance Skill: Advanced
-   [13] 0x8B137401A1DE7F14: Childhood Ballet Ability: Unskilled
-   [14] 0x8B137401A1DE7F15: Childhood Ballet Ability: Beginner
-   [15] 0x8B137401A1DE7F16: Childhood Ballet Ability: Intermediate
-   [16] 0x8B137401A1DE7F17: Childhood Ballet Ability: Advanced
-   [17] 0xACCAB4EF0D222D35: Smustles Danced: {0.Number}
-   [18] 0x12F710149FCC4A75: Chicken Dances: {0.Number}
-   [19] 0x34C5383D692E4BE1: Mascot Dances: {0.Number}
-   [1A] 0xDCA3218FB2418585: Dance Barre Time: {0.Minutes}
+   [0B] 0x5BCCE1978BB9A759: Unskilled Dancing Skill
+   [0C] 0x5BCCE1978BB9A758: Beginner Dancing Skill
+   [0D] 0x5BCCE1978BB9A75B: Intermediate Dancing Skill
+   [0E] 0x5BCCE1978BB9A75A: Advanced Dancing Skill
+   [0F] 0x1F8AE4A62EFBEEE8: Unskilled Club Dancing Skill
+   [10] 0x1F8AE4A62EFBEEE9: Beginner Club Dancing Skill
+   [11] 0x1F8AE4A62EFBEEEA: Intermediate Club Dancing Skill
+   [12] 0x1F8AE4A62EFBEEEB: Advanced Club Dancing Skill
+   [13] 0x8B137401A1DE7F14: Unskilled Childhood Ballet Ability
+   [14] 0x8B137401A1DE7F15: Beginner Childhood Ballet Ability
+   [15] 0x8B137401A1DE7F16: Intermediate Childhood Ballet Ability
+   [16] 0x8B137401A1DE7F17: Advanced Childhood Ballet Ability
+   [17] 0xACCAB4EF0D222D35: {0.Number} smustle dances
+   [18] 0x12F710149FCC4A75: {0.Number} chicken dances
+   [19] 0x34C5383D692E4BE1: {0.Number} mascot dances
+   [1A] 0xDCA3218FB2418585: {0.Minutes} spent on dance barre
    [1B] 0xDEA7CEA864B87FFD: Dancing
    [1C] 0x60706085149EDAA9: So many dances, so little time. Whether you're performing a ballet or dancing the The Smustle, {0.SimFirstName} will be dazzling on the dance floor before you know it!
 ---
