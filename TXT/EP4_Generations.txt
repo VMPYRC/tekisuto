@@ -516,7 +516,7 @@ Unknown3: 0x00000000
    [1FF] 0x2DEDC524899F1CA0: The Gossip Column
    [200] 0x4F73F00224F601AC: Write Articles at {OpTarget}
    [201] 0x64472F8587832B5B: Even though {OpOwner} wrote a few articles, they seemed to have a sad undertone to them; enough to depress the students while they read the paper during first period. Perhaps being in a better mood or a little more writing skill would have made things better. The Newspaper Club thanks {OpOwner} for {MA.his}{FA.her} efforts though.
-   [202] 0xAD6E55F12A27F016: Today was epic! Never have so many old ladies held the current generation so highly! Now when {OpOwner} walks around town, {MA.he}{FA.she} might hear, "Kids these days....are the greatest!"
+   [202] 0xAD6E55F12A27F016: Today was epic! Never have so many old ladies held the current generation so highly! Now when {OpOwner} walks around town, {MA.he}{FA.she} might hear, “Kids these days…are the greatest!”
    [203] 0xD26B988DD568B2C2: A special event is being held at the {OpTarget}! The scout who can help the most old ladies across the obstacle course will earn a unique badge signifying {MA.his}{FA.her} aid to the elderly community! Does {OpOwner} want to participate?
    [204] 0xC0C316111E6D4042: It's too bad {OpOwner} wasn't able to make it! Little old ladies were left in the gym with no one to help them.
    [205] 0x81AB5AB0ED1FEB57: Go to Scouting Event at {OpTarget}
