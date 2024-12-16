@@ -94,7 +94,7 @@ Unknown3: 0x00000000
    [0059] 0xC21AC165FC35F719: Even if its great performance and high fuel efficiency doesn’t sell you on it, The Kenspa’s classic looks and edgy flair certainly add much more buying appeal.
    [005A] 0x8B07CD2C93626F86: Use this accent to give your roof the custom look you’ve always wanted, but never been able to afford!
    [005B] 0x68FEECAA66ABD0AC: Some say it’s the head, some say it’s the tail, some say it’s both. Either way, this ferocious dragon’s head/tail is ravaging this piece of roof artwork. Look out!
-   [005C] 0xB4999844FB6F733F: What's better than a real umbrella? A sculpture of an umbrella! It gives it class...
+   [005C] 0xB4999844FB6F733F: What’s better than a real umbrella? A sculpture of an umbrella! It gives it class…
    [005D] 0xB1E9DA5005E55061: This vase so resembles a fountain gushing with flowers that it inspired film director M. Wohlert to include a CG rendering of a heroic flower fountain in his latest Sci-Fi epic.
    [005E] 0xCF9A2B8DEEB72CC3: cobra description
    [005F] 0xF133C87A4B98B233: Garter snake description
@@ -610,7 +610,7 @@ Unknown3: 0x00000000
    [025D] 0xA603862CD695C319: With the perfect little fountain that mimics the town center, this little housing compound will give you lots of joy.
    [025E] 0xADC01830A07A8517: This beautiful home lets you have a great view and access to the river while keeping you close to the road for easier access into town!
    [025F] 0xB2E58A90DD976FA3: Welcome home! The epitome of tradition, the highlight of this residence is sure to be the enchanting flooring, surrounded by distinctive architectural details scattered throughout each room.
-   [0260] 0xB5CAF3C8BE94AD87: This home oozes appeal from every angle. Fortunately nothing else is oozing from it...
+   [0260] 0xB5CAF3C8BE94AD87: This home oozes appeal from every angle. Fortunately nothing else is oozing from it…
    [0261] 0x921E9099DE5759E2: This old nectary has a lot of history. It's the perfect place to start up your own trade!
    [0262] 0x9173D2393F30F259: If you’re looking for downtown living at its finest, don’t pass up this large residence. The amount of space available here is usually unheard of in most town centers.
    [0263] 0x0D4E5BC0F8C9F022: If you’re looking for unsurpassed character with superior dramatic settings (and many more commonly used real estate phrases) this home is for you.
@@ -999,8 +999,8 @@ Unknown3: 0x00000000
    [03E2] 0x468F669F9CC41451: Exotic Living
    [03E3] 0xA65D334301929CA2: Interview {1.Number} Locals
    [03E4] 0xE330AF94289C0711: Interview {1.Number} Locals
-   [03E5] 0xFD1D310E1B83E593: Your talent for photojournalism is the talk of the office... Co-workers are flocking around to admire the photographs you've taken! Your boss has decided to increase your job performance and give you a raise to encourage you to keep improving your skill!
-   [03E6] 0xAB336B58C709F7BA: Your talent for photojournalism is the talk of the office... Co-workers are flocking around to admire the photographs you've taken! Your boss has decided to increase your job performance and give you a raise to encourage you to keep improving your skill!
+   [03E5] 0xFD1D310E1B83E593: Your talent for photojournalism is the talk of the office… Co-workers are flocking around to admire the photographs you’ve taken! Your boss has decided to increase your job performance and give you a raise to encourage you to keep improving your skill!
+   [03E6] 0xAB336B58C709F7BA: Your talent for photojournalism is the talk of the office… Co-workers are flocking around to admire the photographs you’ve taken! Your boss has decided to increase your job performance and give you a raise to encourage you to keep improving your skill!
    [03E7] 0xFB3616222C74E429: A picture is worth a thousand words. Grab a friend’s camera or buy your own in the French market to learn the Photography Skill. Once you start snapping away, you’ll pick up the skill in no time!
    [03E8] 0x6587E355130BA27C: A picture is worth a thousand words. Grab a friend’s camera or buy your own in the French market to learn the Photography Skill. Once you start snapping away, you’ll pick up the skill in no time!
    [03E9] 0xBB596B8C2E4D55C5: EP1_CareerJournalism_LearnPhotographyFailure
@@ -1436,7 +1436,7 @@ Unknown3: 0x00000000
    [0597] 0xC593B2DDCFAEF3AC: “Place” the grapes into the Nectar Maker, “Squish” them, use the Nectar Maker, then collect them from it. Speak to {2.String} when finished.
    [0598] 0xF8CDC7DDEC7C661E: Creating Nectar
    [0599] 0xD49456209DE4812E: “Delicious! This Nectar tastes far better than the type and quality of the fruits within it might imply."
-   [059A] 0x0DB6D5EDA3BCAAAA: “Take this set of fruits, smash them in the Nectar Maker and make more Nectar. I guarantee you will be surprised by what emerges. Each unique combination of fruits has its own charm, and some will taste much better than you might expect...others, not so much. Go, make Nice or better quality Nectar and bring it back to me.”
+   [059A] 0x0DB6D5EDA3BCAAAA: “Take this set of fruits, smash them in the Nectar Maker and make more Nectar. I guarantee you will be surprised by what emerges. Each unique combination of fruits has its own charm, and some will taste much better than you might expect…others, not so much. Go, make Nice or better quality Nectar and bring it back to me.”
    [059B] 0x3C45CAE4ECD0EF3F: Use the provided fruits to create Nice or better quality Nectar by smashing the fruits and creating the Nectar. Bring the bottle to {2.String} when finished.
    [059C] 0xCCC8F8ACC95DEB4E: Use the provided fruits to create Nice or better quality Nectar by smashing the fruits and creating the Nectar. Bring the bottle to {2.String} when finished.
    [059D] 0x29FE95E4E231CE15: A Little Experimentation
@@ -1850,8 +1850,8 @@ Unknown3: 0x00000000
    [0735] 0xA46261468735C1D7: Forget Me Not
    [0736] 0x8FBC8483D43B8643: Deliver the Potion
    [0737] 0x04BA5E3240662A2B: EP1_Quest_France4Completion
-   [0738] 0xEFCB369F5C3F87B1: “Yuck! I hate the taste of this foul potion. If I could only remember things I would not need to drink it so often... Ah, my head! I remember now! James Vaughan had an assistant named Sin Pah who kept a journal of Vaughan’s adventures. Sin Pah died mysteriously at a young age, but his descendant, {2.SimName}, still has the journal. You will need to convince {2.String} to let you have it.”
-   [0739] 0x7302AC81245B6564: “Yuck! I hate the taste of this foul potion. If I could only remember things I would not need to drink it so often... Ah, my head! I remember now! James Vaughan had an assistant named Sin Pah who kept a journal of Vaughan’s adventures. Sin Pah died mysteriously at a young age, but his descendant, {2.SimName}, still has the journal. You will need to convince {2.String} to let you have it.”
+   [0738] 0xEFCB369F5C3F87B1: “Yuck! I hate the taste of this foul potion. If I could only remember things I would not need to drink it so often… Ah, my head! I remember now! James Vaughan had an assistant named Sin Pah who kept a journal of Vaughan’s adventures. Sin Pah died mysteriously at a young age, but his descendant, {2.SimName}, still has the journal. You will need to convince {2.String} to let you have it.”
+   [0739] 0x7302AC81245B6564: “Yuck! I hate the taste of this foul potion. If I could only remember things I would not need to drink it so often… Ah, my head! I remember now! James Vaughan had an assistant named Sin Pah who kept a journal of Vaughan’s adventures. Sin Pah died mysteriously at a young age, but his descendant, {2.SimName}, still has the journal. You will need to convince {2.String} to let you have it.”
    [073A] 0x58617E3DD6489DED: EP1_Quest_France4Failure
    [073B] 0x01B6865E1D6797AA: “Ask for Journal” from {2.SimName} to receive Sin Pah’s journal.
    [073C] 0x8DD38C7D10528799: “Ask for Journal” from {2.SimName} to receive Sin Pah’s journal.
@@ -2698,7 +2698,7 @@ Unknown3: 0x00000000
    [0A85] 0x8D2A9EAD7527DFA9: Entymology
    [0A86] 0x08E19B075512848D: “Ah yes, the legendary gems of the Pharaoh Anak-Rus! The legends lists a sapphire more blue than the desert sky, a ruby redder than blood, and an emerald more green than the eyes of the cobra. Yes, we have much to discuss.”
    [0A87] 0xBFEEE72C26152663: “Ah, I see you’ve come prepared, thank you for your help.\n\nHistory tells us that centuries ago, Jean Necteaux lived in Al Simhara, Egypt for some time before running back to France with the Pharaoh’s daughter whom he fell in love with. According to myth, when they left they stole three mystical gems that were going to be used to make a new crown for the Pharaoh. Perhaps these are the gems of your riddle.\n\nGo speak with the Al Simhara Relic Merchant {2.String} who follows the less than…wholesome markets on these things and may know something.”
-   [0A88] 0x01C344C88924AACA: “Ah, I see you’ve come prepared, thank you for your help.\n\nHistory tells us that centuries ago, Jean Necteaux lived in Al Simhara, Egypt for some time before running back to France with the Pharaoh’s daughter whom he fell in love with. According to myth, when they left they stole three mystical gems that were going to be used to make a new crown for the Pharaoh. Perhaps these are the gems of your riddle.\n\nGo speak with the Al Simhara Relic Merchant {2.String} who follows the less than... wholesome markets on these things and may know something.”
+   [0A88] 0x01C344C88924AACA: “Ah, I see you’ve come prepared, thank you for your help.\n\nHistory tells us that centuries ago, Jean Necteaux lived in Al Simhara, Egypt for some time before running back to France with the Pharaoh’s daughter whom he fell in love with. According to myth, when they left they stole three mystical gems that were going to be used to make a new crown for the Pharaoh. Perhaps these are the gems of your riddle.\n\nGo speak with the Al Simhara Relic Merchant {2.String} who follows the less than… wholesome markets on these things and may know something.”
    [0A89] 0x961463A7C1E8CAD8: “Seek Assistance” from {2.String}.
    [0A8A] 0x6B29B348A99632D3: “Seek Assistance” from {2.String}.
    [0A8B] 0x873310A7BA2C9FB2: The Black Market
@@ -2954,8 +2954,8 @@ Unknown3: 0x00000000
    [0B85] 0xFEA7D00D2807231E: {1.SimFirstName} has picked up the Relic of Life. Now would be a good time to head out before MorcuCorp gets here.
    [0B86] 0x0E5001177CAC1355: {1.SimFirstName} has picked up the Relic of Life. Now would be a good time to head out before MorcuCorp gets here.
    [0B87] 0x133666F140598935: Find the Relic of Life
-   [0B88] 0xFF8908058B556D39: “Incredible how you secured the second relic... simply incredible! Meanwhile I've been tracking down the final one with both the book and the data. I believe the town’s Relic Merchant, {2.String}, knows the location of the third relic. The merchant is an odd fellow though and a shrewd trader so it’s doubtful the information will be easy to get. Pay the merchant a visit and try to obtain the information.”
-   [0B89] 0x255330A4A2373ACC: “Incredible how you secured the second relic... simply incredible! Meanwhile I've been tracking down the final one with both the book and the data. I believe the town’s Relic Merchant, {2.String}, knows the location of the third relic. The merchant is an odd fellow though and a shrewd trader so it’s doubtful the information will be easy to get. Pay the merchant a visit and try to obtain the information.”
+   [0B88] 0xFF8908058B556D39: “Incredible how you secured the second relic… simply incredible! Meanwhile, I’ve been tracking down the final one with both the book and the data. I believe the town’s Relic Merchant, {2.String}, knows the location of the third relic. The merchant is an odd fellow though and a shrewd trader so it’s doubtful the information will be easy to get. Pay the merchant a visit and try to obtain the information.”
+   [0B89] 0x255330A4A2373ACC: “Incredible how you secured the second relic… simply incredible! Meanwhile, I’ve been tracking down the final one with both the book and the data. I believe the town’s Relic Merchant, {2.String}, knows the location of the third relic. The merchant is an odd fellow though and a shrewd trader so it’s doubtful the information will be easy to get. Pay the merchant a visit and try to obtain the information.”
    [0B8A] 0x9AA8ECAC0B2A7532: “Discuss Relic” with {2.String} to determine the location of the third and final relic for some Visa Points.
    [0B8B] 0xF26EA67AA92BA561: “Discuss Relic” with {2.String} to determine the location of the third and final relic for some Visa Points.
    [0B8C] 0x687DF9ABEF42BCFC: Trading Shawarma for Information
@@ -2970,7 +2970,7 @@ Unknown3: 0x00000000
    [0B95] 0x722477F8307D2B3A: Deliver Shawarma to {2.String}
    [0B96] 0x83C63B9C36886911: The relic that {1.SimFirstName} just picked up is clearly the Relic of Eternity. {2.String} will be pleased when this gets delivered.
    [0B97] 0xCFE01534B04CCF84: The relic that {1.SimFirstName} just picked up is clearly the Relic of Eternity. {2.String} will be pleased when this gets delivered.
-   [0B98] 0xA5C5D590CA49EA7F: That meal was quite scrumptious! You've earned the information you seek! You must go to the Great Pyramid to find the Relic of Eternity. You may want to pack extra food and supplies...”
+   [0B98] 0xA5C5D590CA49EA7F: “That meal was quite scrumptious! You’ve earned the information you seek! You must go to the Great Pyramid to find the Relic of Eternity. Furthermore, you may want to pack extra food and supplies…”
    [0B99] 0xD230205860315984: Enter the Pyramid of the Wind, find the Relic of Eternity, and return it to {2.String} to earn Visa Points and Simoleons.
    [0B9A] 0x2F01E3CEB5693547: Enter the Pyramid of the Wind, find the Relic of Eternity, and return it to {2.String} to earn Visa Points and Simoleons.
    [0B9B] 0x053415587CD106A6: The Third Relic
@@ -3827,8 +3827,8 @@ Unknown3: 0x00000000
    [0EEE] 0x618C1FC031045D51: The data was extremely useful and they were impressed with your strength and endurance. Your Martial Arts Skill improved over the course of the study and you received some cash for participating.
    [0EEF] 0xE2A2B25C2C8E5CA6: The Science Facility is interested in conducting some research on your Martial Arts skills for science. You’ll be given a power meter to carry in your inventory while training on the board-breaker. Return the meter to the Lab after training to receive compensation.
    [0EF0] 0xDF04A90857DBEC9D: The Science Facility is interested in conducting some research on your Martial Arts skills for science. You’ll be given a power meter to carry in your inventory while training on the board-breaker. Return the meter to the Lab after training to receive compensation.
-   [0EF1] 0x201031EEE26CE5BE: You accidentally crushed the power meter while training one day... or at least that's what you told the members of the Science Facility! Since you "damaged" the equipment and contributed nothing to the study, your received nothing.
-   [0EF2] 0xE0563A175C230F35: You accidentally crushed the power meter while training one day... or at least that's what you told the members of the Science Facility! Since you "damaged" the equipment and contributed nothing to the study, your received nothing.
+   [0EF1] 0x201031EEE26CE5BE: You accidentally crushed the power meter while training one day… or at least that’s what you told the members of the Science Facility! Since you “damaged” the equipment and contributed nothing to the study, you received nothing.
+   [0EF2] 0xE0563A175C230F35: You accidentally crushed the power meter while training one day… or at least that’s what you told the members of the Science Facility! Since you “damaged” the equipment and contributed nothing to the study, you received nothing.
    [0EF3] 0xB8FB5919C3A303BB: Train on the board breaker for {10.Number} hours with the power meter in your inventory, then report back to the Science Facility to increase your Martial Arts Skill and collect your compensation.
    [0EF4] 0xD1AD285725D85DE2: Train on the board breaker for {10.Number} hours with the power meter in your inventory, then report back to the Science Facility to increase your Martial Arts Skill and collect your compensation.
    [0EF5] 0xEB254C19DF890919: Power Measure
@@ -4003,8 +4003,8 @@ Unknown3: 0x00000000
    [0F9E] 0x5D7BAE865F38D215: Deliver a Painting to France
    [0F9F] 0x7D680870A07C7B8E: Deliver a Painting to France
    [0FA0] 0x8437923A12DD0505: Deliver a Painting to France
-   [0FA1] 0xB68E030E257D964E: You were paid for the photograph! It hung in the women’s dressing room until someone knocked down the frame and damaged the print. Oh well... 
-   [0FA2] 0xCF0253053AC1CDC5: You were paid for the photograph! It hung in the women’s dressing room until someone knocked down the frame and damaged the print. Oh well... 
+   [0FA1] 0xB68E030E257D964E: You were paid for the photograph! It hung in the women’s dressing room until someone knocked down the frame and damaged the print. Oh, well…
+   [0FA2] 0xCF0253053AC1CDC5: You were paid for the photograph! It hung in the women’s dressing room until someone knocked down the frame and damaged the print. Oh, well… 
    [0FA3] 0xB9E6A0CDD3FEC84A: The Day Spa wants you to take a nice picture of the Temple of Abu Simbel to put in the dressing rooms or maybe in one of the treatment rooms. The management promises you'll be paid nicely for your services.
    [0FA4] 0x165E0E31F809CDF9: The Day Spa wants you to take a nice picture of the Temple of Abu Simbel to put in the dressing rooms or maybe in one of the treatment rooms. The management promises you'll be paid nicely for your services.
    [0FA5] 0x31B7973122E5754A: EP1_SkillPhotography_AbuSimbelPictureFailure
@@ -4259,16 +4259,16 @@ Unknown3: 0x00000000
    [109E] 0x79920837CB7AFC22: Z
    [109F] 0xFCFD44635F6F34EC: Zoom Out
    [10A0] 0x49D5823D87F40E11: X
-   [10A1] 0x9ED38584D5064D6A: Stomping Grapes...
-   [10A2] 0xE7B94AB5F9B58B2E: Trading Shawarma for Information...
-   [10A3] 0x9ED38584D5064D69: Finding Mummitomium...
-   [10A4] 0x9ED38584D5064D68: Haggling The Final Details...
-   [10A5] 0x9ED38584D5064D6F: Seeking Adventure...
-   [10A6] 0x9ED38584D5064D6E: Surviving Vaughan’s Tomb...
-   [10A7] 0x9ED38584D5064D6D: Creating-a-Crêpe...
-   [10A8] 0x9ED38584D5064D6C: Check Out My Awesome Belt...
-   [10A9] 0x9ED38584D5064D63: Sim Fu: Jumping Kicks...
-   [10AA] 0x9ED38584D5064D62: Beware the spitting dragon...
+   [10A1] 0x9ED38584D5064D6A: Stomping Grapes…
+   [10A2] 0xE7B94AB5F9B58B2E: Trading Shawarma for Information…
+   [10A3] 0x9ED38584D5064D69: Finding Mummitomium…
+   [10A4] 0x9ED38584D5064D68: Haggling The Final Details…
+   [10A5] 0x9ED38584D5064D6F: Seeking Adventure…
+   [10A6] 0x9ED38584D5064D6E: Surviving Vaughan’s Tomb…
+   [10A7] 0x9ED38584D5064D6D: Creating-a-Crêpe…
+   [10A8] 0x9ED38584D5064D6C: Check Out My Awesome Belt…
+   [10A9] 0x9ED38584D5064D63: Sim Fu: Jumping Kicks…
+   [10AA] 0x9ED38584D5064D62: Beware the spitting dragon…
    [10AB] 0x4B892F4B842CCE2B: There can only be one lot assigned as Base Camp. Please change the existing Base Camp's lot type before continuing.
    [10AC] 0x2A96394B889E712C: You cannot change active household when not in the active location.
    [10AD] 0x04E547D986445AAD: You cannot change active household while on vacation.
