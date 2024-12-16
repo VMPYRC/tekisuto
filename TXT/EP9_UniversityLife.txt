@@ -101,7 +101,7 @@ Unknown3: 0x00000000
    [060] 0x7FB4D78BA5C8ABC7: For the late nights working, writing or reading, choose Standard Issue. This desk is a workaholic’s dream, featuring ultra-hard surface lamination to head off wasteful napping.
    [061] 0x1D39C7963A8E7065: Everything a desk demands, nothing more. Flat, wide surface? Done. Space for a chair? Check. O.C. even threw in a drawer. Don’t say we never did anything for you.
    [062] 0xA0DDAB1BA90676C5: The Titan Desk’s heavy construction and broad profile pushes less-worthy souls to an appropriate distance. It’s more than a collection of drawers—it’s an institution.
-   [063] 0x0246BE01B441683E: Drawers can be dangerous: body parts pinched, toes stubbed... The Pointdexter cuts down the hazards, complementing sturdy shelves with a manageable pair of drawers.
+   [063] 0x0246BE01B441683E: Drawers can be dangerous: body parts pinched, toes stubbed… The Poindexter cuts down the hazards, complementing sturdy shelves with a manageable pair of drawers.
    [064] 0x0617330900CB5E41: Artists don’t need desks; they need altars of creation! The Pollack art desk eschews such bourgeois features as drawers, stripping the concept of Desk down to its rawest expression.
    [065] 0xE3DF644EB614674E: A halo of windows surrounds this handcrafted door, beaming welcoming light through your home. Beware of wild parties; a crazed reveler might try to walk through the glass.
    [066] 0x94C18BF5FBECB842: Based on E.A.’s popular line of luxury doors, this archway eases the home-entry process by skipping the middleman. As a wise Sim once said: more doors, more problems.
