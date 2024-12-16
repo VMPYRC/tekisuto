@@ -79,10 +79,10 @@ Unknown3: 0x00000000
    [04A] 0xD32EB293FB7BB21A: Ho young traveler! It's dangerous to travel forth into a dimly lit abode. The benevolent King Launergan wishes to bestow his royal sconce unto you, to light your path and fortify your walls. Rest in comfort knowing what evils may lurk beyond these walls will most assuredly be kept at bay.
    [04B] 0xFC119E97B5191B4F: Thrash your way to comfort on this gnarly bench from Dudez Boardz. The same company you trust your life with on the slopes now asks you to trust them with your lumbar support. 
    [04C] 0x01E735EB386EEA01: Glancing hesitantly at the loveseat, you wonder if it's proper to sit on or if instead it's a relic of times past—an object to be appreciated but not used. Perhaps it's the lack of a plastic cover that has you on edge, or the snowflake white doilies perched delicately on the cushions, precariously positioned with nary a smudge of dirt; they dare you to be seated while mocking your discomfort.
-   [04D] 0xDEDD9A2A470B41DE: This is an Elder Magic Gnome. You sometimes feel like he is watching you...
+   [04D] 0xDEDD9A2A470B41DE: This is an Elder Magic Gnome. You sometimes feel like he is watching you…
    [04E] 0xB19FD7192FF3D5EC: This is a memorial to a dearly departed gnome.
-   [04F] 0x126EF7D30ACCBEDA: This is a Teen Magic Gnome. You sometimes feel like he is watching you...
-   [050] 0xF07F4E45BA917F42: This is a Toddler Magic Gnome. You sometimes feel like he is watching you...
+   [04F] 0x126EF7D30ACCBEDA: This is a Teen Magic Gnome. You sometimes feel like he is watching you…
+   [050] 0xF07F4E45BA917F42: This is a Toddler Magic Gnome. You sometimes feel like he is watching you…
    [051] 0x7EAC63489B29852D: A mere footnote in kitchen history, the Sonarange line of ovens were meant to rival microwave technology through the means of propelling sound waves rapidly through food—hence the tagline, "Cooking at the speed of sound!" Noise complaints from neighbors led to a short lived presence in the market, and the company was forced to build microwaves to avoid bankruptcy.
    [052] 0x59702F76507EE3BA: This is a souvenir from visiting a Theatre on a Field Trip.
    [053] 0xB7C855D76C56B183: The Memories Mirror is more than just a mirror, it doubles as a scrapbook of those special mementos from your life. Tuck pictures of your friends from the photo booth, the ticket stub from the Screaming Llamas concert, and that important party invitation into the edges of the mirror. When you look at your reflection, you'll not only reflect upon your image, you'll also reflect upon the significant moments of your life.
@@ -114,7 +114,7 @@ Unknown3: 0x00000000
    [06D] 0xCC25902B553CB998: Unfurl the Flower Power Rug in any room to add a lively splash of color to the décor. You’ll be delighted when you brighten and infuse the space with the energy of flowers.
    [06E] 0x34B8542AA01D68AD: The Heart of Rugness presents a plush landscape of fibers to bushwhack through with your feet like jungle undergrowth. Your toes will explore mysteries and wonders like a journey into the deepest unexplored jungle. Who knows what lint and dried morsels of food will be discovered with your toes?
    [06F] 0xA9306BA0DB94771B: A classic counting game that has been popular with generations of Sims, Hopscotch is best played alone or in groups of two, three, or four! Just toss the marker, skip the spot that it lands on, and hop your way from start to finish. Those who complete the circuit perfectly earn victory! Those who stumble find only shame.
-   [070] 0x2E139A1EB9917F24: A space age variation on the classic hopscotch court, this fun field of asteroids nurtures the astronomical imagination! Show off your superior hopscotch skills by hopping from asteroid to asteroid. Just be careful not to stumble…in space you may just float away.
+   [070] 0x2E139A1EB9917F24: A space age variation on the classic hopscotch court, this fun field of asteroids nurtures the astronomical imagination! Show off your superior hopscotch skills by hopping from asteroid to asteroid. Just be careful not to stumble… in space you may just float away.
    [071] 0x12EADE13B587304E: Kids!! Tell your parents today! Your favorite four-legged Terrapin from TV can now come home to your very own backyard! And with sand to boot! Don’t build another sand castle until Turtee is by your side!
    [072] 0x12E4D213B582B05E: The Box of Beach from Landgraab Industries is a technologically advanced product that has been designed to simulate all of the best parts of the beach for your little ones. Except for the ocean and the sharks of course. That would be bad.
    [073] 0xB8419E076CDF4B83: This Scanner is no longer in working condition, but you and your kids can stare at it as long as you want! Decorate your place with this fantastic decorative piece. Oh and don't worry! The aliens won't come looking.
@@ -129,7 +129,7 @@ Unknown3: 0x00000000
    [07C] 0xA7CD7542F8741E9C: Place the Pillows of Poshness +1 in any room to give it a pretty, plush addition. With +1 softness and extra squeezability, lying on these pillows is like a fluffy cloud dream of puppies, kittens, and cupcakes.
    [07D] 0x61A9170DDB21CE32: Keep your carpet clean and your shoe collection organized with the Veronica Shoe Rack. Buy one or buy ten, they're guaranteed to house your entire shoe collection and fit every piece of footwear you can think of, from skinny heels to platform wedges, from open back flats to lace-up rain boots!
    [07E] 0x48650394F059E479: Does your washroom lack cabinet space? Fix the issue in a jiffy with the Ultimate Powder Room Organizer. Not only does it hold the necessary essentials for a cozy and well-equipped bathroom, but it also has plenty of room for tchotchkes!
-   [07F] 0x4BD7DD1C57E1B544: When viewing this piece, one can imagine the thrill of a spacecraft lifting off! The countdown, the roar of the engines, the excitement of the crew... Are they going to the moon? Or perhaps to a far off planet? Or maybe they are going to land in your own backyard? The sky is the limit when imagination combines with the complexities of this gorgeous decorative piece.
+   [07F] 0x4BD7DD1C57E1B544: When viewing this piece, one can imagine the thrill of a spacecraft lifting off! The countdown, the roar of the engines, the excitement of the crew… Are they going to the moon? Or perhaps to a far off planet? Or maybe they are going to land in your own backyard? The sky is the limit when imagination combines with the complexities of this gorgeous decorative piece.
    [080] 0x6F037DACB7B5F1CF: Snuggle out your preteen angst towards your family and peers on the leather and lace Gothic Girl Doll. Adults may find her creepy, but you'll love her because you know that she is the only one who truly understands your inner pain!
    [081] 0xDA5496E8A1A1E89A: Say goodbye to your florist and hello to happy days with this decorative vase that is sure to brighten your home. Comes with a living arrangement, treated with the patented "Eternal Green" self-contained nutrient system, designed to survive for decades without a drop of water. 
    [082] 0x6EB61C1FEE9411C9: This little buddy is waiting to be brought home so he can be your constant companion and new best friend. Give him a squeeze and scare away all the bullies with his menacing roar. The Little Rawr is the sweetest scaly friend a child could ask for!
@@ -199,7 +199,7 @@ Unknown3: 0x00000000
    [0C2] 0x9752EB29DED7605D: It may not look like much, but this stroller has got staying power! Designed and manufactured in the quirky town of Twinbrook, every Twinbrook Roller has been built to withstand whatever pothole, swamp mud, or bayou vegetation you can throw at it!
    [0C3] 0x64107055AE16A739: The finest in strolling luxury, each Strol-Air is handcrafted to the exacting standards that privileged toddlers worldwide have come to expect. With the LX model, riders and their handlers will appreciate the ultrasonic dampeners built within the titanium frame that work tirelessly to ensure the ride feels like nothing else than a cloud of air.
    [0C4] 0x19C0AE4B31D32A1B: Swing high, swing low, swing till your feet almost touch the sky on the Unlimited FunTimes Swing Set. The rust prevention chain coating means you won't be left with brown palms after spending an afternoon swinging towards the clouds. Look for the rest of the Unlimited FunTimes playground set wherever toys are sold!
-   [0C5] 0xEB8763C87432BC9F: Chemistry is the scientific art of mixing one substance with another to transform those substances into something miraculous! With the Catalyst Chemistry Lab Station, aspiring chemists of all ages can stir solutions and manufacture matter of all types. Craft potions that will induce happiness, increase stinkiness, and even turn a total klutz into a mechanical genius…for a few hours at least. Be sure to wear protective eyewear and keep the fire extinguisher handy!
+   [0C5] 0xEB8763C87432BC9F: Chemistry is the scientific art of mixing one substance with another to transform those substances into something miraculous! With the Catalyst Chemistry Lab Station, aspiring chemists of all ages can stir solutions and manufacture matter of all types. Craft potions that will induce happiness, increase stinkiness, and even turn a total klutz into a mechanical genius… for a few hours at least. Be sure to wear protective eyewear and keep the fire extinguisher handy!
    [0C6] 0xEBA0845A9BAE2740: This family friendly coffee table features plush padded sides for kid-safety. Place it in the middle of your living room and rest easy knowing that your child can scamper by with no danger of harming themselves on dangerous table edges.
    [0C7] 0x7AABD34AC94744B0: Hang Ten in your living room with this bodacious coffee table. All the Bras will be envious of this sweet purchase!
    [0C8] 0xE5D935DB2DD07C36: Enjoy the visual appeal of drawers without the convenience of actual storage space with the Illusionary Coffee Table. Designed by master prankster Mastroni for his House of Hilarity, the purely decorative drawers are glued shut and conceal a hollow interior. You'll never tire of asking your guests to retrieve something from the table and giggling in amusement as they unsuccessfully pull on the handles.
@@ -208,13 +208,13 @@ Unknown3: 0x00000000
    [0CB] 0x941BFC75AAA1B54D: This stylish and affordable table will make any room feel warm and cozy. Its beautiful filet crochet will make your place feel just like Grandma’s house!
    [0CC] 0x81208057653910E3: Hand made and cool to the touch, this robust end table has been crafted by the nimble hands of the monks who dwell in the monasteries of the Simpathian Mountains. The rock is quarried in a secret location and smoothed by the waters of hidden mountain springs. Each end table is personally blessed by the High Monk before being transported to the base camp by loyal Sherpa.
    [0CD] 0x8FF8BFC813F9DB34: Constructed of fine particle board, overlaid with imitation veneer, and delicately assembled using screw fasteners and fitted dowels, the Bedside Hideaway is an attractive and affordable solution to bedside storage. It's small enough to fit neatly beside any bed, yet large enough to hide away that embarrassing stuffed llama from your childhood and the gnome statue that stares at you while you sleep.
-   [0CE] 0x7BB50DA926F51518: Many say that Judson H. was the best skater in Twinbrook. Some say he was the best in the Tri-city area. Judson, well, he says he was the best in the world. But we'll never know for sure because he retired at the tender age of seventeen and turned his eccentricities away from the double darkslide and towards...end tables.
+   [0CE] 0x7BB50DA926F51518: Many say that Judson H. was the best skater in Twinbrook. Some say he was the best in the Tri-city area. Judson, well, he says he was the best in the world. But we’ll never know for sure because he retired at the tender age of seventeen and turned his eccentricities away from the double darkslide and towards… end tables.
    [0CF] 0x904CA24EB0152568: More than just a box for storing play things, the Château Toy Box is the perfect backdrop for games of play and pretend! It can be a castle, a fort, a manor house, anything your little one can imagine. Tots love toys and toys love the spacious interior of this toy box! So for happy kids—and happy toys—pick up the Château Toy Box.
    [0D0] 0x6FCE750F79EDB015: This toy medieval oven will allow your little ones to envision that they are serving up a buffet to the Round Table. They'll spend hours imagining they are cooking a king-sized feast of gruel, massive legs of mutton, and peasant's pie!
    [0D1] 0x29E88CE8DAABB851: Reduce the size of your waste with The ComPRESSOR! Do not fear the name of this product. It's a monster that will eat your waste and not you. Note: use this product at your own risk. 
    [0D2] 0xC7E9D3D977FA5A5F: Live your own charming medieval tale with just a touch of imagination and your very own cobbled together castle in the sky. Preach to your loyal subjects below as you survey your domain from on high. Proclaim who may be allowed within the royal hall as you rule with an iron fist. The world is yours for the taking; are you fit to ascend to the throne? Chamber pot not included (or recommended)!
    [0D3] 0x04AE3E4A51135523: What this treehouse lacks in style, it more than makes up for in homemade charm. While it's held together by scrounged scrap material and a bucket of nails, it does provide a few amenities such as running electricity and a lookout tower that'll provide the best view around! With a little imagination and a lot of love, kids will get hours of use out of their new home away from home–just watch out for splinters!
-   [0D4] 0xDCABFB64FBEAA590: Charge the Tesla coils! Divert main power to the front shields! BATTLE STATIONS! Whew…it was only a drill–this time. There’s no doubt you’ll be prepared for the imminent alien invasion with your Sci-Fi Hideaway. Scan the night skies for signs of intelligent life and rest safely in the knowledge that you’re doing your part for humanity. It will take diligence to track the other worldly menace, but you didn’t sign up for this duty–you were born for it.
+   [0D4] 0xDCABFB64FBEAA590: Charge the Tesla coils! Divert main power to the front shields! BATTLE STATIONS! Whew… it was only a drill–this time. There’s no doubt you’ll be prepared for the imminent alien invasion with your Sci-Fi Hideaway. Scan the night skies for signs of intelligent life and rest safely in the knowledge that you’re doing your part for humanity. It will take diligence to track the other worldly menace, but you didn’t sign up for this duty–you were born for it.
    [0D5] 0xA2E23FCF1242E0D2: This is an award for Sports Club members.
    [0D6] 0xE6077E8FCF26E432: Enjoy the look of an old-fashioned television with the convenience of modern technology when you purchase the Retro-tastic TV. The shell of a classic TV has been retrofitted to eliminate the need to replace vacuum tubes and decrease the risk of electrical fire!
    [0D7] 0x6C46680DE695CF56: To increase the number of peers for the smallest realm in the home, one is recommended to award a baronetcy to tiny children who love crisp, high-definition visuals and awe inducing sounds much like the trumpets harkening the start of a joust. Sit back in your throne, tiny Baronet, and enjoy the finest television the Kingdom cares to offer!
@@ -224,7 +224,7 @@ Unknown3: 0x00000000
    [0DB] 0x3685712745B75982: Start your new beginning under this wedding arch and you'll always remember the moment you made your everlasting commitment. Filled with the freshest picked leaves and flowers, this wedding arch will make your wedding the most romantic wedding ever.
    [0DC] 0x27C428C52012304A: Don't let that special day be a drab affair! Create the dream wedding atmosphere with the Perfect Couple Wedding Arch. As you pass under the archway, get ready for a walk down the aisle that you'll never forget.
    [0DD] 0x397E665F1E3F442E: Tradition may demand that couples tie the knot underneath a wedding arch, but few wedding arches are as untraditional as this one! The vines you see adorning the arch are not plants at all, but fine silk woven by the artist monks of Shang SimLa. Each leaf and stem are individually mounted on the faux wood frame and the massive amounts of adhesive is used to ensure that nary a leaf will wave in the wind during the ceremony.
-   [0DE] 0x07D337210C24DA85: There are many dimensions in this world. 2-D. 3-D. Space-time. Wondrous worlds just out of reach... This window will help you peer into other dimensions...or, at least, into your backyard.
+   [0DE] 0x07D337210C24DA85: There are many dimensions in this world. 2-D. 3-D. Space-time. Wondrous worlds just out of reach… This window will help you peer into other dimensions… or, at least, into your backyard.
    [0DF] 0x1671C4D0AF592871: Cheap Data Disc
    [0E0] 0x226866BA9D39C4EF: Hi-Fi Data Disc
    [0E1] 0xEC8AEDA8FB405391: King Launergan's Royal Bunk Bedding
@@ -450,7 +450,7 @@ Unknown3: 0x00000000
    [1BD] 0xDDDFEB0334E60845: Just as cute as a button, this home features a full wrap around Victorian porch and is ready for a growing family. An unfinished attic leaves plenty of room to expand; it even comes with an adorable matching doll house!
    [1BE] 0xCFDA29EA7C8F8769: Basically, it's a family style house, basically. This ranch style home would fit in any subdivision or even in the country. It's a great starter house for a small family, basically.
    [1BF] 0x548A8B0F685227BE: Available for either a lifetime of bliss or an afternoon of ceremony, this charming cottage promises a little slice of heaven, or at least cake.
-   [1C0] 0xA4480FD085700493: If a Sim's home is their castle, than this is suitable for a small queen or king. Although this is a pleasant enough house, anyone should be worried about letting their teenage prince or princess sleep on the ground floor with their own entrance... and exit.
+   [1C0] 0xA4480FD085700493: If a Sim’s home is their castle, than this is suitable for a small queen or king. Although this is a pleasant enough house, anyone should be worried about letting their teenage prince or princess sleep on the ground floor with their own entrance… and exit.
    [1C1] 0xC3D5493F67004301: Built at a time when houses had names, Elderstone is just the type of house for the grandkids to come and spend a night, perhaps in their mom's old room. It's just a little cluttered and the kitchen needs updating, but it could work for a young family as well.
    [1C2] 0xCF136E72147BAB86: It's not clear that the ideal place for your in-laws is over the garage, but it probably beats them living in the next bedroom! Stately and ever so appropriate, this home is perfect for the family who has too much and wants more.
    [1C3] 0xA0FF9EA3C19B3B23: Once you get the cornflakes out of the carpet and the crayon off the walls, this house could be a real suburban dream. As is, the calm exterior hides the riot inside.
@@ -516,7 +516,7 @@ Unknown3: 0x00000000
    [1FF] 0x2DEDC524899F1CA0: The Gossip Column
    [200] 0x4F73F00224F601AC: Write Articles at {OpTarget}
    [201] 0x64472F8587832B5B: Even though {OpOwner} wrote a few articles, they seemed to have a sad undertone to them; enough to depress the students while they read the paper during first period. Perhaps being in a better mood or a little more writing skill would have made things better. The Newspaper Club thanks {OpOwner} for {MA.his}{FA.her} efforts though.
-   [202] 0xAD6E55F12A27F016: Today was epic! Never have so many old ladies held the current generation so highly! Now when {OpOwner} walks around town, {MA.he}{FA.she} might hear, “Kids these days…are the greatest!”
+   [202] 0xAD6E55F12A27F016: Today was epic! Never have so many old ladies held the current generation so highly! Now when {OpOwner} walks around town, {MA.he}{FA.she} might hear, “Kids these days… are the greatest!”
    [203] 0xD26B988DD568B2C2: A special event is being held at the {OpTarget}! The scout who can help the most old ladies across the obstacle course will earn a unique badge signifying {MA.his}{FA.her} aid to the elderly community! Does {OpOwner} want to participate?
    [204] 0xC0C316111E6D4042: It's too bad {OpOwner} wasn't able to make it! Little old ladies were left in the gym with no one to help them.
    [205] 0x81AB5AB0ED1FEB57: Go to Scouting Event at {OpTarget}
@@ -563,7 +563,7 @@ Unknown3: 0x00000000
    [22E] 0x2252973EEF980930: In an attempt to get kids excited about geology, the Rockhounding Club at {OpTarget} has sponsored a scavenger hunt to retrieve various gems and metals from around town. They're offering a cash prize to any kid who manages to collect them and bring them to the lab.
    [22F] 0x403F6EAD7A787409: Collect the required items and turn them in at {OpTarget}
    [230] 0x0D0599AD5DAB6EFF: Scavenger Hunt: Precious Materials
-   [231] 0xE210CD8CE0035F61: The scientists were very impressed that you found those materials so quickly! Maybe you have a future in science... or at least rock collecting.
+   [231] 0xE210CD8CE0035F61: The scientists were very impressed that you found those materials so quickly! Maybe you have a future in science… or at least rock collecting.
    [232] 0x3CA86582AB54D32F: The local geologists at {OpTarget} need some help from the community and are posing a challenge to all neighborhood children. They've identified some especially rare gems and metals that they'd like to study and have started a scavenger hunt to find them. Anyone who shows up with the requested items will collect a generous cash prize!
    [233] 0x04C1F8E1F3E47774: Collect the required items and turn them in at {OpTarget}
    [234] 0x36ECEDE20FCC3376: Scavenger Hunt: Rare Elements
@@ -605,23 +605,23 @@ Unknown3: 0x00000000
    [258] 0x6B7FE155A46A16FB: D
    [259] 0x084C82BCDA917813: C
    [25A] 0xC93B3E65D683BB81: Start/Stop Recording
-   [25B] 0x3FC7B28B994B7889: Planning Dinosaur Rampage...
-   [25C] 0xABCCEC357B3DD0FB: Unrolling Sleeping Bags...
-   [25D] 0xABCCEC357B3DD0FA: Stacking Bunk Beds...
-   [25E] 0xABCCEC357B3DD0F9: Timing Mood Swings...
-   [25F] 0x3FC7B28B994B788A: Concocting Ghost Stories...
-   [260] 0x3FC7B28B994B788B: Balancing Seesaws...
-   [261] 0x3FC7B28B994B788C: Whittling Canes...
-   [262] 0x3FC7B28B994B788D: Catalyzing Chemicals...
-   [263] 0x3FC7B28B994B788E: Besmirching Reputations...
-   [264] 0x3FC7B28B994B788F: Remembering the Good Old Days...
-   [265] 0x3FC7B28B994B7880: Capturing Family Moments...
-   [266] 0x3FC7B28B994B7881: Sparking Imaginations...
+   [25B] 0x3FC7B28B994B7889: Planning Dinosaur Rampage…
+   [25C] 0xABCCEC357B3DD0FB: Unrolling Sleeping Bags…
+   [25D] 0xABCCEC357B3DD0FA: Stacking Bunk Beds…
+   [25E] 0xABCCEC357B3DD0F9: Timing Mood Swings…
+   [25F] 0x3FC7B28B994B788A: Concocting Ghost Stories…
+   [260] 0x3FC7B28B994B788B: Balancing Seesaws…
+   [261] 0x3FC7B28B994B788C: Whittling Canes…
+   [262] 0x3FC7B28B994B788D: Catalyzing Chemicals…
+   [263] 0x3FC7B28B994B788E: Besmirching Reputations…
+   [264] 0x3FC7B28B994B788F: Remembering the Good Old Days…
+   [265] 0x3FC7B28B994B7880: Capturing Family Moments…
+   [266] 0x3FC7B28B994B7881: Sparking Imaginations…
    [267] 0x384FFA55800BC996: We are unable to verify that your disc is a valid copy of The Sims 3 Generations. Please contact customer service.
    [268] 0x634D5F52DE108BAA: No game disc found! Please insert The Sims 3 Generations game disc before proceeding.
    [269] 0x6A60CF9972514BAD: A Midlife Crisis might seem like a bad thing, but fulfilling your Sim's Midlife Crisis wishes grants extra lifetime happiness points!
    [26A] 0x13CC6EBD402396C7: Rebellious Children and Teens have a better chance of not being caught by the police when out after curfew or when pranking neighbors around town!
-   [26B] 0x13CC6EBD402396C6: When you get engaged, don't forget to throw yourself a bachelor or bachelorette party! You never know what your Sims' friends might do when they let loose...or who they will invite!
+   [26B] 0x13CC6EBD402396C6: When you get engaged, don’t forget to throw yourself a bachelor or bachelorette party! You never know what your Sims’ friends might do when they let loose… or who they will invite!
    [26C] 0x13CC6EBD402396C5: You can share your Sims' memories online, so your friends can see what kind of mischief your Sims are up to!
    [26D] 0x13CC6EBD402396C4: Teens can pull Crank Calls on their friends right from their cell phones.
    [26E] 0x13CC6EBD402396C3: Sims around town take notice of your love life, and any romantic interactions done in public are fair game in the local gossip circle. Be discrete about any questionable relationships!
@@ -636,8 +636,8 @@ Unknown3: 0x00000000
    [277] 0x13CC6FBD40239898: Got a bunch of kids and not a whole lot of room for them? Try investing in a bunk bed to save space!
    [278] 0x6A60CF9972514BAF: Read a skill book to sleepy Child Sims and they'll learn something while they fall asleep.
    [279] 0x6A60CF9972514BA8: The Motive Mobile lifetime reward is a great way to travel around town and keep your Sim's motives high in the process!
-   [27A] 0x6A60CF9972514BA9: A sleeping Child or Teen has many dreams... Use the Dream About interaction on them when they are sleeping to select what topic they dream about. Hopefully their good dreams won't turn into nightmares!
-   [27B] 0x6A60CF9972514BAA: Teenage Sims can throw Teen Parties while their parents are out of town! Just make sure to keep things on the down-low... you wouldn't want a pesky neighbor to call the cops!
+   [27A] 0x6A60CF9972514BA9: A sleeping Child or Teen has many dreams… Use the Dream About interaction on them when they are sleeping to select what topic they dream about. Hopefully their good dreams won’t turn into nightmares!
+   [27B] 0x6A60CF9972514BAA: Teenage Sims can throw Teen Parties while their parents are out of town! Just make sure to keep things on the down-low… you wouldn't want a pesky neighbor to call the cops!
    [27C] 0x6A60CF9972514BAB: Sims with lots of friends have a better chance of becoming the Prom King or Queen.
    [27D] 0x6A60CF9972514BA4: A regular waxing down at the local Day Spa is highly recommended for any Sims covered in body hair.
    [27E] 0x6A60CF9972514BA5: Movie Maker Mode can be accessed with debug cheats enabled. This will give you a whole suite of powerful new controls for making movies inside of The Sims 3!
