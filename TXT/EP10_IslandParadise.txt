@@ -236,7 +236,7 @@ Unknown3: 0x00000000
    [0E7] 0xFEF7600853D4BF66: Mangrove trees are tropical trees with roots that dig deep, deep into the earth.
    [0E8] 0x02436445578D6A52: Many mysteries await the Sim who dares to enter the Deep Sea Cave. What treasures will you find? Perhaps a hidden pathway? But beware the monster that lurks within the dark crevices. Who knows what will happen if you startle it!
    [0E9] 0xA4B5C9200B19E765: Many mysteries await the Sim who dares to enter the Deep Sea Cave. What treasures will you find? Perhaps a hidden pathway? But beware the monster that lurks within the dark crevices. Who knows what will happen if you startle it!
-   [0EA] 0xA3874B7A15F12AFE: "I heard warning of caves such as these and now I'm not so sure I should have entered. It's so dark in here! But what is that bright light? It's so pretty…. Wait… is that teeth?" - from a former explorer
+   [0EA] 0xA3874B7A15F12AFE: “I heard warning of caves such as these, and now I’m not so sure I should have entered. It’s so dark in here! But what is that bright light? It’s so pretty… Wait… is that teeth?” - from a former explorer
    [0EB] 0x430B0995B43C9462: A retaining wall from a tropical locale.
    [0EC] 0xE6A2152A431938DD: Renew your vows or confess your love to one another in paradise. The Island Wedding Arch is the perfect centerpiece for your special day.
    [0ED] 0x8E74D906227CB5FA: No window outranks The Generalissimo. Each pane of glass is a medal of bravery pinned to its noble chest. Each curve and line like the taut musculature of a leader. Looking for the window that will take command of your house? Look no further than The Generalissimo.

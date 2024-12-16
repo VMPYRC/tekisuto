@@ -2614,7 +2614,7 @@ Unknown3: 0x00000000
    [A31] 0xAA068F4344CDB49D: "Deliver" {OpNumItemsGoal} pieces of Scrap Science Lab
    [A32] 0xB8B1E2434C5C502B: Master Invention
    [A33] 0x9234DCC3124AFB37: {OpNumItemsCurrent}/{OpNumItemsGoal} pieces of Scrap
-   [A34] 0x901F6D49F8C91151: It’s…. ALIVE!! A fully simulated robotic life form! {OpOwner} has dubbed it “SimBot”. Now that {OpOwner} has discovered the secret to artificial life, {MA.he}{FA.she} can create more of these creatures. Check the Skill Journal for more info!
+   [A34] 0x901F6D49F8C91151: It’s… ALIVE!! A fully simulated robotic life form! {OpOwner} has dubbed it “SimBot”. Now that {OpOwner} has discovered the secret to artificial life, {MA.he}{FA.she} can create more of these creatures. Check the Skill Journal for more info!
    [A35] 0x0A02DF81F0C97ABF: This is the last piece they need. Finally, it is complete: the Life Core. Now, {OpOwner} can create {MA.his}{FA.her} masterpiece. Take the core to the inventor's workbench and create the Mystery Invention! 
    [A36] 0x1A6E72F4081D46CF: Why did you destroy the core? Hopefully, the scientists will be able to create another one…
    [A37] 0xE87F9D1F5B6CDCC4: "Create Mystery Invention" on the inventor's workbench
