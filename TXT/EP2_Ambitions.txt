@@ -754,7 +754,7 @@ Unknown3: 0x00000000
    [2ED] 0x6CE294E0C002800B: 3BR / 3 Bath - The elegance of days gone by is reflected in this gem of a house. One can imagine evenings on the porch sipping lemonade as the day cools into night.
    [2EE] 0xEC9E682D27E2A0BB: 2BR / 3 Bath - The old time charm of this traditional house is accentuated by two levels of verandas affording lake views. Don’t be fooled by its antique façade though, this house is completely up to date.
    [2EF] 0x95B1CF714C5A8B5B: 2BR / 1 Bath - A large classic porch sets the tone for this simple but elegant first home. Clean and spacious, few would ask for more in a first home.
-   [2F0] 0x599B5A2E0E0A062B: 3BR / 2.5 Bath - With its wide inviting deck, regal charm, and huge chef’s kitchen, this large family house invites the owner to live well. When you consider the pool, two car garage, and large bedrooms, your kids may never leave…seriously, maybe never.
+   [2F0] 0x599B5A2E0E0A062B: 3BR / 2.5 Bath - With its wide inviting deck, regal charm, and huge chef’s kitchen, this large family house invites the owner to live well. When you consider the pool, two-car garage, and large bedrooms, your kids may never leave… seriously, maybe never.
    [2F1] 0x8A4A131DD70C5A30: 2BR / 2 Bath - This pretty white house with pink accents has a pool perfect for a music video. In fact, this two bedroom mansion has everything a young heiress needs, including plenty of mirrors and a practice runway.
    [2F2] 0xC123B685F8C2800A: 3BR / 2.5 Bath - This classically luxurious abode is the perfect house for raising a family or throwing an awesome party. The owners have even been know to host weddings here!
    [2F3] 0x42722402851CDF72: 2BR / 4 Bath - This prime piece of real estate once featured a modest modernist house by a noted architect. However, after being purchased from the local historical society, it was replaced with this faux colonial. It comes complete with party barn and industrial catering kitchen, suitable for building any culinary empire.
@@ -1394,7 +1394,7 @@ Unknown3: 0x00000000
    [56D] 0xD53DD6FB054E1803: "I was planning on doing some work that night, but ended up having a conversation with the security guard and I decided to go home instead. The guard can verify that I never left the lobby."
    [56E] 0xD1DEF319855BDFF8: Question {OpTarget}
    [56F] 0xA4CF9E2DEB033975: Question {OpTarget}
-   [570] 0xD18046C59148057B: “I wasn’t there that night, so I’m not sure what you are talking about. Wait a minute, I lost my security badge! That’s weird…the only place I could’ve left it was the Bistro! I hope I’m not in trouble!”\n\nLooks like it’s time to go check with the Bistro to see if the lost security card can be found.
+   [570] 0xD18046C59148057B: “I wasn’t there that night, so I’m not sure what you are talking about. Wait a minute, I lost my security badge! That’s weird… the only place I could’ve left it was the Bistro! I hope I’m not in trouble!”\n\nLooks like it’s time to go check with the Bistro to see if the lost security card can be found.
    [571] 0x0079D31F172AF5D0: "Search for Card" at the Bistro to see if {OpOwner} can track down the missing security card.
    [572] 0x0543F5C320C0038A: Investigate on {OpTarget}
    [573] 0x1EB3CA857F468118: "Alright, alright. I stole the card and used it. I just couldn't believe that the hospital would charge me so much money for a 5 minute operation. I was so angry and it just seemed like a good idea at the time to smash the equipment in revenge. I will go turn myself in and accept whatever punishment is necessary."
@@ -1477,7 +1477,7 @@ Unknown3: 0x00000000
    [5C0] 0x171E25B9B974F8BA: "Search Through Garbage" at {OpTarget}'s Home
    [5C1] 0xE3E312B99CA5D6F4: The Bad Call
    [5C2] 0x8BBBAA7F81114280: Search Through Garbage
-   [5C3] 0x6864FA1526DA0EB8: I found a rather cryptic note crumpled up in the trash. It said something about a meet up at the park…soon. I better get there quickly and conduct a stakeout!
+   [5C3] 0x6864FA1526DA0EB8: I found a rather cryptic note crumpled up in the trash. It said something about a meet up at the park… soon. I better get there quickly and conduct a stakeout!
    [5C4] 0x171259E99CE082F1: "Conduct Stakeout" at Park
    [5C5] 0xE40D64E9803F22D7: The Bad Call
    [5C6] 0x8623003CDAC77743: Conduct Stakeout
@@ -1607,7 +1607,7 @@ Unknown3: 0x00000000
    [642] 0x7C38BA43F45E9CAF: "Ask About {OpTarget}" to {OpNumEventsGoal} Sims
    [643] 0x6ACA4543EA770065: The Case of the Fishermen's Local 105
    [644] 0x22E981CBD2DFB195: Question {OpNumEventsCurrent}/{OpNumEventsGoal} Sims
-   [645] 0x8E2A17A5D15FDCB1: According to the locals, {OpTarget} clearly has an obsession with sharks and hasn't been doing well at work. That's a recipe for…well, something. I should confront {OpTarget} about this odd behavior.
+   [645] 0x8E2A17A5D15FDCB1: According to the locals, {OpTarget} clearly has an obsession with sharks and hasn’t been doing well at work. That’s a recipe for… well, something. I should confront {OpTarget} about this odd behavior.
    [646] 0xAAE3A400D7F026AA: "Discuss Shark Costume" to {OpTarget}
    [647] 0x7882D100BBDB1544: The Case of the Fishermen's Local 105
    [648] 0x164F285EDFFADF30: Speak to {OpTarget}
@@ -1689,7 +1689,7 @@ Unknown3: 0x00000000
    [694] 0x495EE5999EEDC8FF: "Analyze Saliva" at police station
    [695] 0x3716B099944CF4D5: The Case of the Enthusiastic Fans
    [696] 0x90D51C232CF42465: Analyze Saliva
-   [697] 0x5D9D107C74860E6B: Strangely enough, the saliva on the food matches the saliva on the pick. Even stranger, the saliva comes from none other than {OpTarget}! Could {OpTargetFirstName} be…self-stalking? I should hack {OpTargetFirstName}'s website to see if I can find some clues.
+   [697] 0x5D9D107C74860E6B: Strangely enough, the saliva on the food matches the saliva on the pick. Even stranger, the saliva comes from none other than {OpTarget}! Could {OpTargetFirstName} be… self-stalking? I should hack {OpTargetFirstName}’s website to see if I can find some clues.
    [698] 0x4C63B169BE089580: Use a computer to "Hack" {OpTarget}'s computer
    [699] 0x3A525E69B396D1EA: The Case of the Enthusiastic Fans
    [69A] 0x77918C69428588BA: Hack Computer
@@ -1881,7 +1881,7 @@ Unknown3: 0x00000000
    [754] 0x35CA4568CFAFBC18: "Discuss Tomato Properties" with {OpTarget}
    [755] 0x2381F268C50EB5F2: The Case of the Price Gouged Produce
    [756] 0xB3BDBEBEBA9DCE52: Speak to {OpTarget}
-   [757] 0x9F8B67C217E14F22: {OpSource} is impressed, but being the skeptical type, concern was expressed as well. Doc {OpSourceFirstName} claims that nothing works that well. Too bad I feel great, eh? I should snoop for clues at the local super market…see if something turns up.
+   [757] 0x9F8B67C217E14F22: {OpSource} is impressed, but being the skeptical type, concern was expressed as well. Doc {OpSourceFirstName} claims that nothing works that well. Too bad I feel great, eh? I should snoop for clues at the local supermarket… see if something turns up.
    [758] 0xCD439354F7A37637: "Snoop for Clues" at local Supermarket
    [759] 0xBB321E54ED31787D: The Case of the Price Gouged Produce
    [75A] 0xBF0A6FA6D1A393FD: Snoop for Clues

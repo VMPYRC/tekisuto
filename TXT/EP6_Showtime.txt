@@ -242,7 +242,7 @@ Unknown3: 0x00000000
    [0ED] 0xECEC18FC5A9E9602: For the Sim that has everything, the new SimTech Industries Sim-Bot is something else to blow Simoleons on. While it provides none of the useful services of traditional robots, it looks great and uses less electricity than ten toasters. As a low-maintenance companion at home or a low-maintenance, motionless backup dancer on-stage, the Sim-bot is one of a kind (unless you buy more).
    [0EE] 0x35857F1A6ED66A59: According to legend, the evil pirate Greenbeard found an old lamp containing a genie and, with his second wish, asked for a giant onyx gem (the first wish being WooHoo related (it was a long sea voyage), the third wish being “three more wishes”). Thus was created the Black Plumbob of lore. This replica reminds you to be careful what you wish for…
    [0EF] 0x9356BAA3BBE26550: Round head so shiny\nsadly so disposable\na pawn in their game.
-   [0F0] 0xE7BEE62BA3569C88: This Decor8 sculpture, symbolizing all three planets in the known Sims universe — Boonitz, Dipthong and Earth — is both attractive and functional, as simply by virtue of owning it, it may make you seem smarter. Decorate your space…with Space!
+   [0F0] 0xE7BEE62BA3569C88: This Decor8 sculpture, symbolizing all three planets in the known Sims universe — Boonitz, Dipthong and Earth — is both attractive and functional, as simply by virtue of owning it, it may make you seem smarter. Decorate your space… with Space!
    [0F1] 0xCEF8714F7E385A8C: It’s a beam of light! It’s a teleporter! No, wait it’s an interstellar dimensional transponding device! Keep your audience guessing with a ray of light so advanced the smarties at SimTech couldn’t figure out what it was. Or place it in your home and dazzle your visitors and make them question if you truly did move in from outer space. Either way the WhatIzIt?!? is guaranteed to confuse onlookers, or your Simoleons back!
    [0F2] 0x246F373E7AF45714: Quick and deadly queen\nwatchful warrior sees all\nbest and greatest hope.
    [0F3] 0x73714CCD9161FC5F: Without beginning or end, the Ring Tower is both finite and infinite. Whatever the rings represent for you - eternity, commitment, circuses, dirty bathtubs - this exquisite sculpture will be an eternal reminder.
@@ -783,7 +783,7 @@ Unknown3: 0x00000000
    [30A] 0x550B57BE23F70C8B: Work on your tan while pumping iron or bending an elbow at the beachside lounge.
    [30B] 0xDCFC18E9D2AF7842: Only in the In Crowd gets to crowd into this private club.
    [30C] 0xD853361C197641CD: A great place to go fishing. Like shooting fish in a barrel!
-   [30D] 0x7F25B4B86656620F: Climb, jump, slide and swing…the best place to get your kids’ wiggles out.
+   [30D] 0x7F25B4B86656620F: Climb, jump, slide and swing… the best place to get your kids’ wiggles out.
    [30E] 0xBF2DAF7151B989D9: A great place to just get away.
    [30F] 0xAAC1EFD72BC16139: Bunker down in this spacious bungalow and make your Sims at home. With its large gathering places and a spacious porch, this house makes living comfortable and easy. The second floor ensures near panoramic views of your street! This Historic yet rustic feeling house is perfect for a family with high class. Impress your friends with this one of a kind find!
    [310] 0x243EFA24591ECA2C: 
@@ -1364,7 +1364,7 @@ Unknown3: 0x00000000
    [54F] 0xAA195B0C7E629EAB: Graduation waits for no Sim… not even the star singer!
    [550] 0xD4BDDF140D6B5FD0: The world was watching as you nailed the Sims National Anthem! You’re a superstar!
    [551] 0x5C66AB2CBE2116D4: You've been invited to sing the Sim National Anthem at the big game! You'll get to perform in a packed stadium and a TV audience of millions!
-   [552] 0xDE869E227CD98F18: Ah…you missed the big game and a chance to sing in front of billions! (OK, maybe it was just millions.)
+   [552] 0xDE869E227CD98F18: Ah… you missed the big game and a chance to sing in front of billions! (OK, maybe it was just millions.)
    [553] 0x2DBF73DD2C5B52AD: Go to the Stadium to complete this opportunity.
    [554] 0x3FD0C6DD36CD175B: All the World’s Your Stage
    [555] 0x73109AE72FD266C7: DNT
@@ -1464,7 +1464,7 @@ Unknown3: 0x00000000
    [5B3] 0x4474378CF044B356: ESP for Fun and Profit
    [5B4] 0xE2D93A3B24ED4D36: DNT
    [5B5] 0x4BA88BBB1446B848: Apparently, your mental powers do not include memory.
-   [5B6] 0x9F373116BDE6DCF7: Your magic show at the hospital was a big success…until the doves got loose and they had to quarantine the area.
+   [5B6] 0x9F373116BDE6DCF7: Your magic show at the hospital was a big success… until the doves got loose and they had to quarantine the area.
    [5B7] 0x37947C5F96AA1FF5: Bring the magical healing power of magic to the sick patients at the Hospital. You won’t make any Simoleons, but you’ll feel like a million.
    [5B8] 0xB7035BC2DEC5340E: Go to the Hospital and perform for sick Sims.
    [5B9] 0x27A2006699E3B048: This opportunity is no longer available.
@@ -1482,7 +1482,7 @@ Unknown3: 0x00000000
    [5C5] 0xEF6488AF9F31C209: Red Carpet Magic
    [5C6] 0x1F37C5681391E4F9: DNT
    [5C7] 0xBBD549FF65CDA832: Sadly, your opportunity to perform at the “Vanishing Llama” movie premiere has also vanished.
-   [5C8] 0x890A4A2194DA695A: The Police Chief was so pleased with your pickpocket prevention training, he made you an unofficial deputy…whether you like it or not.
+   [5C8] 0x890A4A2194DA695A: The Police Chief was so pleased with your pickpocket prevention training, he made you an unofficial deputy… whether you like it or not.
    [5C9] 0x5DDDB8B63F391C6E: Law Enforcement is deeply concerned by the recent rise in pickpocketing incidents. The Police Chief would like you to teach his officers how to spot pickpockets and bring these petty criminals to justice!
    [5CA] 0x7A73D5E65DD072E3: Go to City Hall to complete this opportunity.
    [5CB] 0xB03AE8E67CC91A71: Pickpocket Prevention 101
@@ -1536,7 +1536,7 @@ Unknown3: 0x00000000
    [5FB] 0x08B9BD17FB179E07: Use SimPort to invite a Visiting Sim to perform at a Private Venue.
    [5FC] 0xFA0E8817F389366D: By Invitation Only
    [5FD] 0xA6619025BFB091C7: Use SimPort to invite a Visiting Sim to perform at a Private Venue.
-   [5FE] 0x14F99EC04436A816: Sims in the other town were keenly anticipating your Magician’s arrival…though some came to the show with pitchforks.
+   [5FE] 0x14F99EC04436A816: Sims in the other town were keenly anticipating your Magician’s arrival… though some came to the show with pitchforks.
    [5FF] 0xD2D050771C6B5AC2: Bring the magic of magic to a town near you by sending your Magician off for a special one-night performance. Fame and fortune awaits!
    [600] 0x6A4E928CDD396842: This opportunity is no longer available.
    [601] 0x936B6896FB646357: Use SimPort to send your Magician on tour.
@@ -1590,14 +1590,14 @@ Unknown3: 0x00000000
    [631] 0xDDE11E577B85DC2E: Use SimPort to send your Singer on tour.
    [632] 0xECC2735783420AF0: One Night Only
    [633] 0x236A0C1146774D84: Use SimPort to send your Singer on tour.
-   [634] 0x6CF97E729799F2D9: Visitors to the Art Museum were enthralled by your performance. You were like a beautiful statue…that moved around and did cool stuff.
+   [634] 0x6CF97E729799F2D9: Visitors to the Art Museum were enthralled by your performance. You were like a beautiful statue… that moved around and did cool stuff.
    [635] 0xC7E42A539CB637B7: Hey, Performance Art is art, too! Who wants to stare at boring paintings and sculptures when they can stare at you and your amazing physical feats? And while they can’t hang you on a wall, they can give you tips.
    [636] 0x9E595A0B75166227: This opportunity is no longer available.
    [637] 0xD6A36D3D2626023C: Go to the Art Museum and perform for tips.
    [638] 0x0C6B423D451FF30E: Art Performance Art
    [639] 0xE3579FDDEF4A469E: Go to the Art Museum and perform for tips.
    [63A] 0x868718AB0BD71F56: You missed the Seminar, and now the other mimes won’t talk to you. As usual.
-   [63B] 0xAC89331B48813BCA: The Miming Seminar was great…until you all realized you were trapped in an invisible box. Luckily, there was an invisible rope to pull you out.
+   [63B] 0xAC89331B48813BCA: The Miming Seminar was great… until you all realized you were trapped in an invisible box. Luckily, there was an invisible rope to pull you out.
    [63C] 0x77411D6DEFD4327E: The first rule of Miming: Don’t talk! Unless, of course, you’re a Mime instructor. Learn how to become a better mime by attending a Miming seminar. Ah, the irony. 
    [63D] 0xF4E4EE6863594AF3: Go to the Business Tower to attend the Miming Seminar.
    [63E] 0x2B85C168830B2961: Talking Mimes
@@ -1638,7 +1638,7 @@ Unknown3: 0x00000000
    [661] 0x40F2312B601B59D6: Get and complete a gig at any of the Private Venues.
    [662] 0x4F9D862B67A9F808: Showtime Exclusive
    [663] 0xDD32BB51D9DC0EC4: Get and complete a gig at any of the Private Venues.
-   [664] 0x9CD1EF15E4474CFD: The Big Boss was very impressed with your invisible box routine…until he realized you weren’t actually in a box. Using your methods, his henchman can only escape from imaginary jail cells.
+   [664] 0x9CD1EF15E4474CFD: The Big Boss was very impressed with your invisible box routine… until he realized you weren’t actually in a box. Using your methods, his henchman can only escape from imaginary jail cells.
    [665] 0x1752570BF6187A7B: Refusing the Big Boss can prove detrimental to one’s career and possibly one's legs. He may not be so forgiving if you don’t show up next time.
    [666] 0xAD593C992B8AE1F3: The Big Boss has lost some of his best employees to the State Penal System. After seeing your “Mime in the Box” act, and then your contortion skills, he thinks you might be able to give him and his boys a few pointers on how to escape out of box-shaped spaces. You’ll accept his offer if you know what’s good for you.
    [667] 0x69DB9C05D5DDB0E8: Find the Big Boss at the Criminal Warehouse.

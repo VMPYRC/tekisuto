@@ -54,7 +54,7 @@ Unknown3: 0x00000000
    [031] 0x8F35C514D3F4C292: Skill Trait Chip
    [032] 0x574F2F88147EC226: Social Trait Chip
    [033] 0xE9F665B0B2A4A50A: We’re standing by and ready to serve the denizens of Oasis Landing. Swing by and say hello!
-   [034] 0x27D1A0DFF902E67F: Beyond its simple construction and edgily inverted design, the Oryx column pumps water in an infinite fountain. Try not to look at it for too long, lest you feel certain…urges.
+   [034] 0x27D1A0DFF902E67F: Beyond its simple construction and edgily inverted design, the Oryx column pumps water in an infinite fountain. Try not to look at it for too long, lest you feel certain… urges.
    [035] 0x16A557E384E3D008: Spawns common nanites.
    [036] 0x16A557E384E3D00B: Spawns common nanites.
    [037] 0x16A557E384E3D00A: Spawns common nanites.

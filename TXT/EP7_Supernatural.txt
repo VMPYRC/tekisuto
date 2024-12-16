@@ -521,7 +521,7 @@ Unknown3: 0x00000000
    [204] 0x1C2F432479C09270: In addition to providing full medical services, the Bloom Institute is a scientific research facility conducting a variety of studies on some of Moonlight Falls’ most interesting elements.
    [205] 0xF4F62EB9507E737D: As self-appointed town guardians of lore and knowledge, the Van Gould family constructed the Vault of Antiquity as an indestructible and sun-proof repository for ancient relics and texts.
    [206] 0x9711C5B226483A48: Take a tour through the town’s history, complete with local artwork, antiques, and displays of locally-discovered gems and other oddities. 
-   [207] 0x4254F8DCF2DECED6: Enjoy swimming, diving and chicken-fighting year-round in this traditional natatorium…unless, of course, you’re hydrophobic.
+   [207] 0x4254F8DCF2DECED6: Enjoy swimming, diving and chicken-fighting year-round in this traditional natatorium… unless, of course, you’re hydrophobic.
    [208] 0xF6D06BBA904A2B9D: It’s said that Aleister Krummly created the very first Moonlight Falls elixirs on this very spot. The building may be new, but the elixirs sold inside are as traditional and potent as magic itself.
    [209] 0x2AC78EDC36C997B1: Here, local children learn the “three R’s”: reading, ‘riting and ‘rithmetic, but also “three S’s”: spellcraft, shape-shifting and supernatural studies. The adjoining Coliseum hosts all sorts of community events.
    [20A] 0x884340A942350D23: Specializing in second-run movies and classic cinema, this is a perfect place for local teenagers to take their dates (and, for the local criminals who own it, to launder their money).
@@ -639,7 +639,7 @@ Unknown3: 0x00000000
    [27A] 0x5028F68FDE44F5C1: Maldano
    [27B] 0xD9FE9F6C8B05F9FD: Marigold only recently realized that she’s descended from a family of powerful fairies. She was raised by her late grandmother and recently inherited the family home, where she lives alone. Strange things seem to happen wherever she goes. Is she a magnet for supernatural events or is she just crazy?
    [27C] 0x1AFFC14CA9984916: Nix
-   [27D] 0xEB9CF63F28DD5DFC: The Nix family may be the most “normal” family in Moonlight Falls…which makes them one of the most unusual families in Moonlight Falls! Mike and Annie met at a high school dance, dated through college, and then got married when Mike graduated from medical school. Mara was born a year later. Will the Nixes be able to find some friends or are they just too normal for a place like Moonlight Falls?
+   [27D] 0xEB9CF63F28DD5DFC: The Nix family may be the most “normal” family in Moonlight Falls… which makes them one of the most unusual families in Moonlight Falls! Mike and Annie met at a high school dance, dated through college, and then got married when Mike graduated from medical school. Mara was born a year later. Will the Nixes be able to find some friends or are they just too normal for a place like Moonlight Falls?
    [27E] 0xA23997D3B8F3235D: Pappy
    [27F] 0x22E7DF049AA68D89: Pappy is the patriarch of the Wolff clan and was raised with the dogged belief that the Wolffs were the original settlers of Moonlight Falls… a claim hotly disputed by the Van Gould family. Pappy lives alone on the opposite end of town from all those “undead deadbeats”. Will the Wolffs and Van Goulds continue their feud? Or can Pappy be the bigger Wolff and make peace?
    [280] 0x1B65A34CA9EEC9CD: Pok

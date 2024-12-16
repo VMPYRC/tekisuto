@@ -135,7 +135,7 @@ Unknown3: 0x00000000
    [082] 0x05D6E549DA04C421: LibraryEP09_Doors desc DO NOT TRANSLATE
    [083] 0x926C0E8F34FD4BD2: Lamps are so last season, always casting the same light. Accelerate your life with Bolt track lighting! Four prehensile bulbs draw eyes to the highlights in any room.
    [084] 0x904F8CDAFA9A665E: “Is that an alien invasion on your ceiling, or are you just the coolest person I’ve ever met?” Wow friends and family with this three-piece UFO-inspired appliance.
-   [085] 0x8A61176395D27806: Open your mind and prepare it to receive…The Nozzle. Four prehensile stalks emerge from the floor and blossom out like a glowing alien plant. Unlike a plant, it needs electricity.
+   [085] 0x8A61176395D27806: Open your mind and prepare it to receive… The Nozzle. Four prehensile stalks emerge from the floor and blossom out like a glowing alien plant. Unlike a plant, it needs electricity.
    [086] 0x70290F57E7B0EAD2: Light is crucial to art, so Secret Bohemia brings you the fourth-brightest lamp ever built. With this halogen monster, that poseur DaVinci might have actually amounted to something.
    [087] 0xD680FCE68DA99E80: Old-world craftsmanship and warm, soft lighting add up to the classiest lamp on the market. A rotating stem lends the Sowerberry versatility, whether reading or trying to find your change.
    [088] 0x0542DB6A01E2054A: Nothing screams University like an old fashioned lamp and a decorative banner proudly sporting the University’s logo. Place one today and don’t let others forget which campus they’re one!
@@ -218,7 +218,7 @@ Unknown3: 0x00000000
    [0D5] 0x5E2B0F13DF7A7716: Looking for a sign to draw eyes and attention to your business? Look no further than this attractive sign. You’ll gush over this sign’s good looks, and love your increased profits even more!
    [0D6] 0x5A93A876ECEF91FA: The center of this magnificent wall installment glares like an evil eye. Behold those poor fools who’ve never even entered your store! Call them in like moths to a flame.
    [0D7] 0xA200448D0215B94C: A multi-colored neon display and our patented Super-Legible light-up lettering let your business stand out from the crowd. Even when the crowd is also using bright neon signs!
-   [0D8] 0x431CFC0F47E78155: Stare into my sign. Closer. Closer, and breathe slowly…that’s it. You see the beauty of the circles. You will do whatever I command. Now go forth and BUY MY MERCHANDISE!
+   [0D8] 0x431CFC0F47E78155: Stare into my sign. Closer. Closer, and breathe slowly… that’s it. You see the beauty of the circles. You will do whatever I command. Now go forth and BUY MY MERCHANDISE!
    [0D9] 0x5A1BC614923B6206: For stores and booths on narrow streets, Sanjiten presents this ultra-thin neon sign. Soothe your neighbors’ territorial feelings as you beat the snot out of them in sales.
    [0DA] 0x28F1C608ACA2D926: Art is a retreat from life’s messy realities. Fill any room with beauty: portraits, Impressionist landscapes, hand-drawn maps or avant-garde watercolors. Tasteful nudes available upon request.
    [0DB] 0xB06EF9121EEEDEF3: Jazz up your den or dorm room with the Brash Banner, the first product GoTeamGo ever made. It’s a classic the world over, printed for forty-eight sports in fifty-five countries.

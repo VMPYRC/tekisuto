@@ -132,10 +132,10 @@ Unknown3: 0x00000000
    [07F] 0xB2E9D0070DD275E8: This is a large rock.
    [080] 0xB2E9D0070DD275E9: This is a large rock.
    [081] 0xBAB8BC45BA4D7B60: Low to the ground, this flat rock makes for great decoration on its own or as a complimentary piece in a rock garden. So smooth and peaceful, you'd almost want to sleep on it!
-   [082] 0xBAB8BC45BA4D7B63: Can you see the pensive lion in the stone's structure? No? Hmm…well maybe if you squint just right you can see a playful squirrel instead.
+   [082] 0xBAB8BC45BA4D7B63: Can you see the pensive lion in the stone's structure? No? Hmm… well maybe if you squint just right you can see a playful squirrel instead.
    [083] 0xBAB8BC45BA4D7B62: Someone stacked two stones on top of each other in perfect balance, but don't worry. That boulder isn't going anywhere!
    [084] 0x9048CEE0E3196EFC: Low to the ground, this flat rock makes for great decoration on its own or as a complimentary piece in a rock garden. So smooth and peaceful, you'd almost want to sleep on it!
-   [085] 0x9048CEE0E3196EFF: Can you see the pensive lion in the stone's structure? No? Hmm…well maybe if you squint just right you can see a playful squirrel instead.
+   [085] 0x9048CEE0E3196EFF: Can you see the pensive lion in the stone's structure? No? Hmm… well maybe if you squint just right you can see a playful squirrel instead.
    [086] 0x9048CEE0E3196EFE: Someone stacked two stones on top of each other in perfect balance, but don't worry. That boulder isn't going anywhere!
    [087] 0x5BCE660A4A1C7FB6: This is a large rock.
    [088] 0xE9A481E744A771CC: “Buy, buy, buy this boat. You should buy this boat! Verily, verily, verily, verily, boat boat boat buy-our-boat!” Look, we’re sorry; our poetry guy is on vacation right now.
@@ -150,7 +150,7 @@ Unknown3: 0x00000000
    [091] 0x8C09771A6AAD5709: Nelly was the best anchor that ever graced the bottom of the seven seas… Imagine her surprise when the sailors cut the rope and left her on the ocean floor! Not one to complain about her plight, Nelly quickly befriended the local sea life, especially the barnacles.
    [092] 0x62076FD448CEC575: Thanks to catastrophic earthquake damage and severe negligence while purchasing insurance, Hector’s Pristine Arches is now forced to sell off its entire inventory as Hector’s Faux Ruins! Save big on beautiful, handcrafted arches that were basically decimated. Imagine what you’d get after throwing a blueberry muffin into a rotating fan – that’s pretty much what we’re dealing with here.
    [093] 0xD9C40A9FDF0CD614: These canopies add a flair to the outdoor pavilions of resorts. Perfect for enjoying the sun while being in the shade.
-   [094] 0x25BCDBB9194954AB: All sorts of garbage ends up cluttering our sparkling oceans…these bottles are no exception. Help keep our oceans clean by recycling, and depositing trash in the proper receptacles!
+   [094] 0x25BCDBB9194954AB: All sorts of garbage ends up cluttering our sparkling oceans… these bottles are no exception. Help keep our oceans clean by recycling, and depositing trash in the proper receptacles!
    [095] 0xB6FF1E262ABAE3D9: Although not really made of brain, I hear if you tickle it at just the right spot, you can get the ocean to sneeze!
    [096] 0x2CE103A2154F4972: While attempting to move his inventory of broken arches, Hector accidentally drove his truck into a pottery factory and was forced to purchase their entire stock of smashed pots. Introducing: Hector’s Shattered Pots, the perfect companion piece to Hector’s Faux Ruins.
    [097] 0x45367F9029A2280A: The most traditional of corals, the Candelabrum adds a classic touch to your deep sea décor.
@@ -174,7 +174,7 @@ Unknown3: 0x00000000
    [0A9] 0xF53049B1EB96CB51: Mermaid lore hints at an ancient kingdom that once ruled the sea and shore. Are these stairs a remnant of that lost place, or something far older and more mysterious?
    [0AA] 0x9BAD258856B907C6: Sailors say that a perfectly symmetrical starfish is a rare sight indeed. If you see one you’ll have three days of good luck, but if you take one from the sea you’ll have three years of bad luck. Better leave this one alone…
    [0AB] 0x64A79CE45E7E2253: This cute starfish is happiest when kept in warm ocean water with lots of friends. The Sand Dollar Starfish is the most social of all starfish and hates to be alone.
-   [0AC] 0x39E1E890743A7113: What's better than one starfish? Three starfish! That's right, this starfish trio is available to liven up the ocean floor, the beach, your living room…the possibilities are endless!
+   [0AC] 0x39E1E890743A7113: What’s better than one starfish? Three starfish! That’s right, this starfish trio is available to liven up the ocean floor, the beach, your living room… the possibilities are endless!
    [0AD] 0x43F8AB4D69DA1456: The underwater version of a blooming flower, each layer reveals a new layer within. 
    [0AE] 0x3C8F744D6602E00B: Both seemingly functional and decorative, many a designer has found inspiration examining the formations of table corals.
    [0AF] 0xBE5E2DC2969C4C95: When you want to create a welcoming atmosphere, just reach for the world’s friendliest plant, the Traveler’s Palm! Install one of these and it looks like the whole room is waving to you!
@@ -872,7 +872,7 @@ Unknown3: 0x00000000
    [363] 0x48B7484685A4EBF0: Rubisel is an expert scuba diver who once saw a mermaid…
    [364] 0xD5427C90A7349061: Salty is evil. He loves sharks.
    [365] 0xBCC1FAFCCD3B35B1: Sean loves to cook, clean, and play guitar.
-   [366] 0x5D48D597CE28BB23: Tariq's real passion is the sea and all things about it…swimming, fishing, scuba, he loves them all.
+   [366] 0x5D48D597CE28BB23: Tariq’s real passion is the sea and all things about it… swimming, fishing, scuba, he loves them all.
    [367] 0x48D218D0533BA437: Teodor’s overtrusting nature allowed Alfonso to take advantage of him.
    [368] 0x9350C675D8D5F806: Formerly known as "Fish Kid"
    [369] 0xE1F936681F4E6892: Valerie yearns for romance, but feels too busy to find love.
@@ -914,7 +914,7 @@ Unknown3: 0x00000000
    [38D] 0xEAE4EDEB556A14BB: The Loner
    [38E] 0x44A421313A662767: Madness runs in the family, or so Matthew has been told. Only he can't remember where his family is, so he lives alone on a desert isle with his collection of not-so-rare tropical plants and driftwood.
    [38F] 0xC7EA7ABE5EABF1F7: Medina
-   [390] 0xC50C4F28F85C48C3: Teodor lost his resort plans and his lover, Florita, to Alfonso Alto. Now he struggles as single dad with no reliable income…will Teodor be able to turn his life around and win Florita back, or is it time to look for someone new?
+   [390] 0xC50C4F28F85C48C3: Teodor lost his resort plans and his lover, Florita, to Alfonso Alto. Now he struggles as single dad with no reliable income… will Teodor be able to turn his life around and win Florita back, or is it time to look for someone new?
    [391] 0xC1F684CE500530B4: Mermaid
    [392] 0x94352FEB244BCA46: Moose
    [393] 0x06C59418F0C46B27: Neiman

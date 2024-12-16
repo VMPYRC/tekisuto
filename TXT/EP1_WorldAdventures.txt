@@ -1834,8 +1834,8 @@ Unknown3: 0x00000000
    [0725] 0x21F7552AE93E10A1: Ask About Dragon Cave
    [0726] 0xD08C92FCB592F3E1: “Ha! That silly {16.SimName} couldn’t remember the name of Al Simhara if you asked. Here is the potion. It should jump start the memories in {16.SimName}’s head.”
    [0727] 0xC2F78019868A90D4: “Ha! That silly {16.SimName} couldn’t remember the name of Al Simhara if you asked. Here is the potion. It should jump start the memories in {16.SimName}’s head.”
-   [0728] 0x088D628A8E4E28AF: “Ah yes, the Dragon Cave. I remember parts of the story. A great adventurer named James Vaughan fixed the Dragon Cave almost a century ago, but apparently failed to do so entirely. I…seem to have forgotten the rest. {2.SimName} sells a Potion of Remembrance, but I cannot afford it. Deliver {9.Number} pieces of Platinum to {2.String} in exchange for the potion.”
-   [0729] 0xC7E3A727D9AD913E: “Ah yes, the Dragon Cave. I remember parts of the story. A great adventurer named James Vaughan fixed the Dragon Cave almost a century ago, but apparently failed to do so entirely. I…seem to have forgotten the rest. {2.SimName} sells a Potion of Remembrance, but I cannot afford it. Deliver {9.Number} pieces of Platinum to {2.String} in exchange for the potion.”
+   [0728] 0x088D628A8E4E28AF: “Ah yes, the Dragon Cave. I remember parts of the story. A great adventurer named James Vaughan fixed the Dragon Cave almost a century ago, but apparently failed to do so entirely. I… seem to have forgotten the rest. {2.SimName} sells a Potion of Remembrance, but I cannot afford it. Deliver {9.Number} pieces of Platinum to {2.String} in exchange for the potion.”
+   [0729] 0xC7E3A727D9AD913E: “Ah yes, the Dragon Cave. I remember parts of the story. A great adventurer named James Vaughan fixed the Dragon Cave almost a century ago, but apparently failed to do so entirely. I… seem to have forgotten the rest. {2.SimName} sells a Potion of Remembrance, but I cannot afford it. Deliver {9.Number} pieces of Platinum to {2.String} in exchange for the potion.”
    [072A] 0x7C8F5E2BED54037F: EP1_Quest_France2Failure
    [072B] 0x983B9A4C37B4AFF4: “Deliver” {9.Number} pieces of Platinum to {2.SimName} to receive the Potion of Remembrance.
    [072C] 0x8B452D6FD212A3F7: “Deliver” {9.Number} pieces of Platinum to {2.SimName} to receive the Potion of Remembrance.
@@ -1920,7 +1920,7 @@ Unknown3: 0x00000000
    [077B] 0xEAB638BA9F89A9BB: “The history of Champs Les Sims is intertwined with Nectar. Without Nectar, Champs Les Sims would not exist! Please find an old and high quality bottle of Nectar. I think an outstanding bottle is good enough. I the cellar under the Nectary stretches on for miles, and you can find some very old and tasty bottles there!”
    [077C] 0x79B9082889AE5A10: Find an outstanding bottle of Nectar and “Deliver Nectar” to {2.String} to receive some Simoleons.
    [077D] 0x6B0DB528821FBE9A: Historic Nectar
-   [077E] 0xE1674585EDA9B24E: “Magnifique! You single-handedly, with my direction of course, built this Champs Les Sims cultural exhibit from nothing to…something incredible. I believe this exhibit will be a huge success, bringing many visitors to Champs Les Sims. Thank you a thousand times! I hope this more than compensates you for your time.”
+   [077E] 0xE1674585EDA9B24E: “Magnifique! You single-handedly, with my direction of course, built this Champs Les Sims cultural exhibit from nothing to… something incredible. I believe this exhibit will be a huge success, bringing many visitors to Champs Les Sims. Thank you a thousand times! I hope this more than compensates you for your time.”
    [077F] 0xB52E9256F6F25C4A: “There is only one piece missing from the exhibit – some old French Relics. It is important for people to see evidence of Champs Les Sims’ past in order to appreciate the present. Please, find {9.Number} French Relics at least 3000 years old and bring them to me. I think this will complete the exhibit.”
    [0780] 0x4EFCD8110FC1125F: Find {9.Number} French Relics at least 3000 years old and “Deliver Relics” to {2.String} to receive some Simoleons.
    [0781] 0x401BA31108051A35: French Relics
@@ -2254,7 +2254,7 @@ Unknown3: 0x00000000
    [08C9] 0x69D3CCE28F6C0E58: Why'd you destroy the keystone? Hopefully, you can find another one later.
    [08CA] 0x0F7966AA668484ED: “Deliver Keystone” to {2.SimName} to receive Ancient Coins.
    [08CB] 0xCB46862979E49F68: “Deliver Keystone” to {2.SimName} to receive Ancient Coins.
-   [08CC] 0x218AB9AA70F6489B: Why…That’s the Keystone!
+   [08CC] 0x218AB9AA70F6489B: Why… That’s the Keystone!
    [08CD] 0xC4716D68F06E1407: Why'd you destroy the keystone? Hopefully, you can find another one later.
    [08CE] 0x122611CA17604E93: EP1_Quest_MainChinaC2Completion
    [08CF] 0x95B4F58F23FB4F29: “I have grim news of what lies before you. Dong Huo, the cursed warlord of centuries past, is that which the Dragon Cave was built to contain. He was trapped previously, but now he wakes. He must be defeated by a master of the way of the Resolute Fist. You are that master. Train to the highest level of Martial Arts and break a Space Rock and you will be one step closer to fulfilling your destiny.”
@@ -2640,8 +2640,8 @@ Unknown3: 0x00000000
    [0A4B] 0x2E1B79C4EB7B3E19: Place the Emerald in the final hole to enter the tomb, find the Ancient Nectar Recipe and return it to {2.String}.
    [0A4C] 0x70FA272ABAB831C4: Opening the Tomb of Necteaux
    [0A4D] 0x428CBCAC82A603B0: Take the Emerald and use the hole outside the tomb.
-   [0A4E] 0x61363682EEF71F93: “Will you look at that! It is the Ancient Nectar Recipe of Jean Necteaux. The flavor combinations on this…well, it’s clear the man was a genius! You have my eternal gratitude and friendship, and that of the entire town's. I am not sure I could ever pay you enough, but perhaps my only bottle of original Necteaux Nectar would be a start?”
-   [0A4F] 0x3641ED10FE3095BA: “Will you look at that! It is the Ancient Nectar Recipe of Jean Necteaux. The flavor combinations on this…well, it’s clear the man was a genius! You have my eternal gratitude and friendship, and that of the entire town's. I am not sure I could ever pay you enough, but perhaps my only bottle of original Necteaux Nectar would be a start?”
+   [0A4E] 0x61363682EEF71F93: “Will you look at that! It is the Ancient Nectar Recipe of Jean Necteaux. The flavor combinations on this… well, it’s clear the man was a genius! You have my eternal gratitude and friendship, and that of the entire town’s. I am not sure I could ever pay you enough, but perhaps my only bottle of original Necteaux Nectar would be a start?”
+   [0A4F] 0x3641ED10FE3095BA: “Will you look at that! It is the Ancient Nectar Recipe of Jean Necteaux. The flavor combinations on this… well, it’s clear the man was a genius! You have my eternal gratitude and friendship, and that of the entire town’s. I am not sure I could ever pay you enough, but perhaps my only bottle of original Necteaux Nectar would be a start?”
    [0A50] 0xBC1BE675DF5F03C5: How could {1.SimFirstName} have lost the recipe to the greatest Nectar of all time? This is truly a loss to the entire world.
    [0A51] 0xB765C1AFFD3E16A0: How could {1.SimFirstName} have lost the recipe to the greatest Nectar of all time? This is truly a loss to the entire world.
    [0A52] 0x95327124654AF7A8: Enter the true Tomb of Necteaux
@@ -2697,7 +2697,7 @@ Unknown3: 0x00000000
    [0A84] 0x35397059B3977792: Bring {9.Number} Cerambyx Beetles to {2.String} in Egypt. Cerambyx beetles are mostly found in France.
    [0A85] 0x8D2A9EAD7527DFA9: Entymology
    [0A86] 0x08E19B075512848D: “Ah yes, the legendary gems of the Pharaoh Anak-Rus! The legends lists a sapphire more blue than the desert sky, a ruby redder than blood, and an emerald more green than the eyes of the cobra. Yes, we have much to discuss.”
-   [0A87] 0xBFEEE72C26152663: “Ah, I see you’ve come prepared, thank you for your help.\n\nHistory tells us that centuries ago, Jean Necteaux lived in Al Simhara, Egypt for some time before running back to France with the Pharaoh’s daughter whom he fell in love with. According to myth, when they left they stole three mystical gems that were going to be used to make a new crown for the Pharaoh. Perhaps these are the gems of your riddle.\n\nGo speak with the Al Simhara Relic Merchant {2.String} who follows the less than…wholesome markets on these things and may know something.”
+   [0A87] 0xBFEEE72C26152663: “Ah, I see you’ve come prepared, thank you for your help.\n\nHistory tells us that centuries ago, Jean Necteaux lived in Al Simhara, Egypt for some time before running back to France with the Pharaoh’s daughter whom he fell in love with. According to myth, when they left they stole three mystical gems that were going to be used to make a new crown for the Pharaoh. Perhaps these are the gems of your riddle.\n\nGo speak with the Al Simhara Relic Merchant {2.String} who follows the less than… wholesome markets on these things and may know something.”
    [0A88] 0x01C344C88924AACA: “Ah, I see you’ve come prepared, thank you for your help.\n\nHistory tells us that centuries ago, Jean Necteaux lived in Al Simhara, Egypt for some time before running back to France with the Pharaoh’s daughter whom he fell in love with. According to myth, when they left they stole three mystical gems that were going to be used to make a new crown for the Pharaoh. Perhaps these are the gems of your riddle.\n\nGo speak with the Al Simhara Relic Merchant {2.String} who follows the less than… wholesome markets on these things and may know something.”
    [0A89] 0x961463A7C1E8CAD8: “Seek Assistance” from {2.String}.
    [0A8A] 0x6B29B348A99632D3: “Seek Assistance” from {2.String}.
@@ -2719,7 +2719,7 @@ Unknown3: 0x00000000
    [0A9A] 0x78F4679948F3173B: Floral Photo
    [0A9B] 0x5DF347935DE7F2A7: Deliver Photo
    [0A9C] 0x03C4622B74CCA86C: “This is different. I like what you’ve done here. You’re eye for photography is quite good – you may have a gift. Here is the money I promised you.”
-   [0A9D] 0x2233E378A4B04F48: “I’m preparing a pamphlet of photographs taken in France. I’m looking for something new…something I haven’t seen before. Bring me a photo of France and I’ll pay you some Simoleons.”
+   [0A9D] 0x2233E378A4B04F48: “I’m preparing a pamphlet of photographs taken in France. I’m looking for something new… something I haven’t seen before. Bring me a photo of France and I’ll pay you some Simoleons.”
    [0A9E] 0xAAB9B251242AA7A4: EP1_Quest_PhotographTownFailure
    [0A9F] 0x1A626F5858CF2601: Take a photo of a subject in France and “Deliver Photo” to {2.SimName} to receive Simoleons.
    [0AA0] 0x31CA29B35E90D6B4: Take a photo of a subject in France and “Deliver Photo” to {2.SimName} to receive Simoleons.
@@ -2928,7 +2928,7 @@ Unknown3: 0x00000000
    [0B6B] 0x312E209A2577C33C: Collect {9.Number} pieces of Mummitomium and deliver them to {2.String} to earn Simoleons, Visa Points, and some Ancient Coins.
    [0B6C] 0x378AA9B5C5D6DAFF: Collect {9.Number} pieces of Mummitomium and deliver them to {2.String} to earn Simoleons, Visa Points, and some Ancient Coins.
    [0B6D] 0x66F5F59A4471B40E: Preparing the Bribe
-   [0B6E] 0x5971BB7B03080646: “I’ve arranged for the Mummitomium to be deposited in a chest in the local MorcuCorp Headquarters. There shouldn’t be anyone around to bother you. Problem is, the security systems will most likely be online…this could get hairy. Take this package of Mummitomium, deposit it, and watch your back.”
+   [0B6E] 0x5971BB7B03080646: “I’ve arranged for the Mummitomium to be deposited in a chest in the local MorcuCorp Headquarters. There shouldn’t be anyone around to bother you. Problem is, the security systems will most likely be online… this could get hairy. Take this package of Mummitomium, deposit it, and watch your back.”
    [0B6F] 0xD2ED6A952D785F5E: Discarding the package was a bad move, now {2.String} will need to find it and prepare for the bribe all over again!
    [0B70] 0x005C05B3219F7795: Discarding the package was a bad move, now {2.String} will need to find it and prepare for the bribe all over again!
    [0B71] 0xF068D0820DD16EDB: Infiltrate the MorcuCorp HQ and deposit the bribe into the chest in the computer room to receive some Visa Points.
@@ -3014,13 +3014,13 @@ Unknown3: 0x00000000
    [0BC1] 0xDFEF73ACEA70EDC9: Report to Sim
    [0BC2] 0x806FD22FCC6C325C: Report to Sim
    [0BC3] 0x3AC685F428A52157: EP1_Quest_QinShanHuWritings5Completion
-   [0BC4] 0xD787D6EB94DA2ED5: “I hope this past lesson was not too painful. No…you seem to have escaped any bruising from the instruction. My dear pupil, the time has come for you to learn the finer points of meditation. Travel to the Scholar's Garden and meditate for {RelativeTime}. I hope you find what you are seeking.”
+   [0BC4] 0xD787D6EB94DA2ED5: “I hope this past lesson was not too painful. No… you seem to have escaped any bruising from the instruction. My dear pupil, the time has come for you to learn the finer points of meditation. Travel to the Scholar’s Garden and meditate for {RelativeTime}. I hope you find what you are seeking.”
    [0BC5] 0x42611ED1340A5509: EP1_Quest_QinShanHuWritings5Failure
    [0BC6] 0xD9C088B7FCB1826E: Meditate at the Scholar's Garden for {RelativeTime} Hours, then report back.
    [0BC7] 0xEC07DDB80750D930: Meditation is the Key
    [0BC8] 0xDD72F45D6C73DB5C: Meditate at the Garden
    [0BC9] 0xDCC63D82891635E1: EP1_Quest_QinShanHuWritings7BCompletion
-   [0BCA] 0x51CC23F0F6574EAF: “You have had a most startling and unexpected vision. I knew you would see something. I did not know that you would see…this. It is the keystone to the Ancient Monk Retreat. Use this key to enter the tomb and retrieve an ancient Relic, one that contains the ancient writings of Qin Shan Hu. Bring this to me and I will reward you with Ancient Coins.”
+   [0BCA] 0x51CC23F0F6574EAF: “You have had a most startling and unexpected vision. I knew you would see something. I did not know that you would see… this. It is the keystone to the Ancient Monk Retreat. Use this key to enter the tomb and retrieve an ancient Relic, one that contains the ancient writings of Qin Shan Hu. Bring this to me and I will reward you with Ancient Coins.”
    [0BCB] 0x828CCF699EF5C97F: EP1_Quest_QinShanHuWritings7BFailure
    [0BCC] 0xE8D6EE5F11E201F4: Find the writings of Qin Shan Hu and “Deliver” them to {2.SimName} to earn Ancient Coins.
    [0BCD] 0xD483EED63A1BC9F7: Find the writings of Qin Shan Hu and “Deliver” them to {2.SimName} to earn Ancient Coins.
@@ -3028,14 +3028,14 @@ Unknown3: 0x00000000
    [0BCF] 0x37C0B496F6F008D6: Find the writings of Qin Shan Hu
    [0BD0] 0x4E4DF5E48368F37C: “Your journey is complete. Once I was the teacher, but I feel you, {1.SimName}, are now the master. I have no more to teach you. Please, return any time as my equal and friend.”
    [0BD1] 0x1A4F2202AD3F543F: “Your journey is complete. Once I was the teacher, but I feel you, {1.SimName}, are now the master. I have no more to teach you. Please, return any time as my equal and friend.”
-   [0BD2] 0x8E936A5ADF4B39B8: “You have had a most startling and unexpected vision. I knew you would see something. I did not know that you would see…this. It is the keystone to the Ancient Monk Retreat. Use this key to enter the tomb and retrieve an ancient Relic, one that contains the ancient writings of Qin Shan Hu. Bring this to me and I will reward you with Ancient Coins.”
+   [0BD2] 0x8E936A5ADF4B39B8: “You have had a most startling and unexpected vision. I knew you would see something. I did not know that you would see… this. It is the keystone to the Ancient Monk Retreat. Use this key to enter the tomb and retrieve an ancient Relic, one that contains the ancient writings of Qin Shan Hu. Bring this to me and I will reward you with Ancient Coins.”
    [0BD3] 0x04F42EF676BCA014: Why'd you destroy the writings? Hopefully, you can find them again later.
    [0BD4] 0x2802AA597E0473F1: Find the writings of Qin Shan Hu and “Deliver” them to {2.SimName} to earn Ancient Coins.
    [0BD5] 0xB0041B094E1F07A4: Find the writings of Qin Shan Hu and “Deliver” them to {2.SimName} to earn Ancient Coins.
    [0BD6] 0xF4FDB559616313D7: The Writings of Qin Shan Hu
    [0BD7] 0xC1430B849AA1E619: EP1_Quest_QinShanHuWritings7Completion
    [0BD8] 0x5F29F058AA1EF843: Deliver the writings of Qin Shan Hu
-   [0BD9] 0xA5BD0480189E44F7: “You have had a most startling and unexpected vision. I knew you would see something. I did not know that you would see…this. It is the keystone to the Ancient Monk Retreat. Use this key to enter the tomb and retrieve an ancient Relic, one that contains the ancient writings of Qin Shan Hu. Bring this to me and I will reward you with Ancient Coins.”
+   [0BD9] 0xA5BD0480189E44F7: “You have had a most startling and unexpected vision. I knew you would see something. I did not know that you would see… this. It is the keystone to the Ancient Monk Retreat. Use this key to enter the tomb and retrieve an ancient Relic, one that contains the ancient writings of Qin Shan Hu. Bring this to me and I will reward you with Ancient Coins.”
    [0BDA] 0x42ED0B9867FF0667: Why'd you destroy the keystone? Hopefully, you can find another one later.
    [0BDB] 0xD05F04CA330DA47C: Find the writings of Qin Shan Hu and “Deliver” them to {2.SimName} to earn Ancient Coins.
    [0BDC] 0xD2D49553EB54BF3F: Find the writings of Qin Shan Hu and “Deliver” them to {2.SimName} to earn Ancient Coins.

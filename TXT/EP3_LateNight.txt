@@ -1156,7 +1156,7 @@ Unknown3: 0x00000000
    [47F] 0x4779480390058C12: Background Acting
    [480] 0xBFA692D97AC20972: Read Film Book.
    [481] 0x4D2C555115DF43B0: "Best Boys are responsible for the daily running of the lighting department." Mystery solved! Your boss was impressed as well and is definitely going to be keeping an eye on you.
-   [482] 0xCFC19F6455598334: The Best Boy…what does that crew member do? Seriously, does anybody know? Your boss wants you to read "Film's Most Mysterious Crew Member" and report back with the answer.
+   [482] 0xCFC19F6455598334: The Best Boy… what does that crew member do? Seriously, does anybody know? Your boss wants you to read “Film’s Most Mysterious Crew Member” and report back with the answer.
    [483] 0x62DE80C9EC2C128D: Read "Film's Most Mysterious Crew Member" and return to work.
    [484] 0x7189D3C9F3BAAE3B: Best of the Best
    [485] 0x8B2C6C9AEED879A7: Read Film Book.
@@ -1255,7 +1255,7 @@ Unknown3: 0x00000000
    [4E2] 0x80F10135E41CF61D: Authorized Biography
    [4E3] 0x07D023C5DE16749D: Attend Book Signing.
    [4E4] 0x38E20103F6CE088D: The director was very grateful for your help. Wait 'till your fans see your hilarious cameo as the door-to-door gnome salesman!
-   [4E5] 0x0C203372F7B67263: "Hey, superstar! It's your agent. A director just called me asking if you'd be willing to cameo in his new movie, 'Llamas Vs. Gnomes.' Don't worry, I told him you don't do cameos…without getting paid! Am I right? Head down to {OpTarget}."
+   [4E5] 0x0C203372F7B67263: “Hey, superstar! It’s your agent. A director just called me asking if you’d be willing to cameo in his new movie, ‘Llamas Vs. Gnomes.’ Don't worry, I told him you don’t do cameos… without getting paid! Am I right? Head down to {OpTarget}.”
    [4E6] 0x4CFE8A892EA06ED8: "Cameo in Film" at {OpTarget}.
    [4E7] 0x3E1D378926E443B2: Surprise Cameo
    [4E8] 0x858B231C7C98B912: Cameo in Film.
@@ -1285,16 +1285,16 @@ Unknown3: 0x00000000
    [500] 0xA85678F72150C1D2: Business Model
    [501] 0x80F829C9F7662632: Record Commercial.
    [502] 0xD423E5FDAC044395: The kids were really excited to have a star of your caliber show up in person. Judging by the number of camera flashes, it seems the paparazzi was excited as well.
-   [503] 0x6EE623ED5D4D325B: "Hey, {OpOwner}. This is your agent calling. I've got a job for you…well, more of a charity gig. {OpTarget} just called me asking if you'd come down there and entertain the sick kids. You wouldn't get paid, but it would definitely make for some good PR."
+   [503] 0x6EE623ED5D4D325B: “Hey, {OpOwner}. This is your agent calling. I’ve got a job for you… well, more of a charity gig. {OpTarget} just called me asking if you’d come down there and entertain the sick kids. You wouldn’t get paid, but it would definitely make for some good PR.”
    [504] 0xE8B0FCE3A83E9130: "Entertain Sick Kids" at {OpTarget}.
    [505] 0xD69FA9E39DCCCCBA: Make-A-Dream
    [506] 0x474D7B3F00D7DFEA: Entertain Sick Kids.
    [507] 0x7568EF60898E8B66: Mmm… cool and refreshing. One of the many perks of being famous… people will pay YOU to drink!
-   [508] 0x094F0A9E3201AA72: "Hey {OpOwner}! Your agent here. So, the owner of {OpTarget} has heard about how famous you are…took 'em long enough, am I right? Anyway, she'd love it if you could come down and order a drink at her bar. She thinks it'd really help her business. Oh, and she is willing to pay you for your time."
+   [508] 0x094F0A9E3201AA72: “Hey {OpOwner}! Your agent here. So, the owner of {OpTarget} has heard about how famous you are… took ‘em long enough, am I right? Anyway, she’d love it if you could come down and order a drink at her bar. She thinks it’d really help her business. Oh, and she is willing to pay you for your time.”
    [509] 0xF2AD75AB51FC3B87: Order a Drink at {OpTarget}.
    [50A] 0xE40240AB4A6DD3ED: Drink Promotion
    [50B] 0x961C29A610D65F8D: Order a Drink.
-   [50C] 0x9AC2058D4328370A: "Wow…this painting is magnificent! I simply must have it for my collection. The other collectors will be quite jealous of this find."
+   [50C] 0x9AC2058D4328370A: “Wow… this painting is magnificent! I simply must have it for my collection. The other collectors will be quite jealous of this find.”
    [50D] 0x4276DA4B63E57FBE: "This must be the {OpOwner} I've been hearing about. I'm {OpTarget} and I've heard quite a bit about you in the art collecting community. I would be honored if you brought me a sample of your work. If it's good, I might be able to turn your talent into fame."
    [50E] 0xB416FD1994EBD233: "Deliver" a painting worth at least §{OpItemWorth}.
    [50F] 0xE751D019B1BA87A1: Popular Painter
