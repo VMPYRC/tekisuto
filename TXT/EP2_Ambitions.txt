@@ -130,7 +130,7 @@ Unknown3: 0x00000000
    [07D] 0xFA130042EAD22650: Wabaam! When normal Cleanesque Brand detergent just isn't enough, hit those tough stains with the power of the Cleanesque Detergent Bottle! Its bottle shape provides quadruple the cleaning power in an upright, easy to pour shape.
    [07E] 0xD4B2D156FDB31E66: Wabaam! The highly anticipated Cleanesque Brand dryer sheets are here! Throw one in your next dryer load and watch as it obliterates static from your favorite static infused clothes.
    [07F] 0x1A66CF1CF27E0C5D: Here's an exquisite collectors edition to commemorate the final year that the Dalmatian 26 Company drove this open back wagon through the streets of Riverview.
-   [080] 0xE2E1F8692E4C6529: There are so many expressions that involve the term ‘head’...like ‘don’t let it go to your head’ or ‘your head is in the clouds today.’ Well, this head can be clear of that misty realm for it sits directly on terra firma, keeping your sculpture completely down to earth.
+   [080] 0xE2E1F8692E4C6529: There are so many expressions that involve the term ‘head’… like ‘don’t let it go to your head’ or ‘your head is in the clouds today.’ Well, this head can be clear of that misty realm for it sits directly on terra firma, keeping your sculpture completely down to earth.
    [081] 0x212B844DDB621D7E: With our simple design comes a simple rule: Use Thor's Drawer when a tool box just isn't enough!
    [082] 0x4BCD4AD0BD8A2DC7: A distinguished home for your best china. The dishware will glow with attention from adoring guests as they pour over the casing, the details, and peer through the crystal windows. It's best to take out an insurance policy on a piece like this. Someone just might walk out with it.
    [083] 0x7C3244238A480CEA: With interesting colors and textures clothing is, in fact, art. Pre-selected clothing in a lovely assortment acts as a beautiful bouquet to any setting.
@@ -1040,7 +1040,7 @@ Unknown3: 0x00000000
    [40B] 0x5DA5D8E7EE7F629C: Blaise and Alma may be new housemates, but they’ve been close friends for quite a while. Alma is enjoying her career in education, but Blaise is looking to join the local fire department. Will living together strain their friendship, or take it to places they never expected?
    [40C] 0x26572B05BCC4FB5D: Pattina never imagined that her artistic abilities would take her so far in life. She never imagined she might own a party barn either, but she does. The question is, will she be able to manage her illustrious career as well as the family she never thought she’d have?
    [40D] 0xBC3D0E1CBAD3E2E5: Clark and Penny are all about the Simoleons. Despite their dwindling day jobs, it’s no secret that Clark is always trying to make it big… he’s always selling and buying things from people, trying to turn a profit. The question is, will Penny stay with him long enough for him to strike it rich?
-   [40E] 0xE319EE1E79C45AB0: From the day Dilly was born, Milly hoped her daughter would grow up to be just like her. Little did she know how much like her she would actually be! This crazily eccentric mother-daughter combo has been though a lot together... But can their relationship survive any new romantic interests in town?
+   [40E] 0xE319EE1E79C45AB0: From the day Dilly was born, Milly hoped her daughter would grow up to be just like her. Little did Milly know how much like her Dilly would actually be! This crazily eccentric mother-daughter combo has been though a lot together… But can their relationship survive any new romantic interests in town?
    [40F] 0x26B6BE31706389DD: When he was younger, this single father had an exciting career in Law Enforcement… but when his two children came along, and he became their only provider, lots of things changed. Will he be able to raise healthy children and support his family on a teacher’s wage?
    [410] 0x5E467C5C29A3A4F7: Are personality disorders inherited? Dennis slipped up and gave an inch. The old man took a mile. Now the corrupt old frauds just take, fake and foil. "Walking defect" Bill skims off the top while the teens beg for attention in neglected obscurity. How long can the sanity assault continue? Will Silver's hijacked years and stolen looks ever know the bitter-sweet taste of revenge? Little Lolly may be this line's only hope of redemption.
    [411] 0x60AAE3DD167913FB: Murder… Mystery… Suspense! Anna-Liza is a master of these classic literary devices… But how did she get so good at writing such ominous fiction? The well-liked Ms. Riddle has a taste for all things mortal, morbid, and morose… but these are just thoughts in her head.
@@ -1394,7 +1394,7 @@ Unknown3: 0x00000000
    [56D] 0xD53DD6FB054E1803: "I was planning on doing some work that night, but ended up having a conversation with the security guard and I decided to go home instead. The guard can verify that I never left the lobby."
    [56E] 0xD1DEF319855BDFF8: Question {OpTarget}
    [56F] 0xA4CF9E2DEB033975: Question {OpTarget}
-   [570] 0xD18046C59148057B: "I wasn't there that night, so I'm not sure what you are talking about. Wait a minute, I lost my security badge! That's weird...the only place I could've left it was the Bistro! I hope I'm not in trouble!" Looks like its time to go check with the Bistro to see if the lost security card can be found.
+   [570] 0xD18046C59148057B: “I wasn’t there that night, so I’m not sure what you are talking about. Wait a minute, I lost my security badge! That’s weird…the only place I could’ve left it was the Bistro! I hope I’m not in trouble!”\n\nLooks like it’s time to go check with the Bistro to see if the lost security card can be found.
    [571] 0x0079D31F172AF5D0: "Search for Card" at the Bistro to see if {OpOwner} can track down the missing security card.
    [572] 0x0543F5C320C0038A: Investigate on {OpTarget}
    [573] 0x1EB3CA857F468118: "Alright, alright. I stole the card and used it. I just couldn't believe that the hospital would charge me so much money for a 5 minute operation. I was so angry and it just seemed like a good idea at the time to smash the equipment in revenge. I will go turn myself in and accept whatever punishment is necessary."
@@ -2097,7 +2097,7 @@ Unknown3: 0x00000000
    [82C] 0x9C6D15FCE37D13F0: "Bribe" {OpTarget} for Information
    [82D] 0x8A5BC2FCD90B4F7A: The Case of the Disappearing Auto
    [82E] 0xC53358A26C1213AA: Bribe {OpTarget}
-   [82F] 0xFC473C8FE65514DA: The Sim spilled the beans faster than a chef who cuts open a can of beans and dumps them. The local crime syndicate has a new car theft operation. Cars are stolen, then the parts are sold to local race car drivers. The Sim said a race was about to occur at the local stadium...I should get there.
+   [82F] 0xFC473C8FE65514DA: The Sim spilled the beans faster than a chef who cuts open a can of beans and dumps them. The local crime syndicate has a new car theft operation. Cars are stolen, then the parts are sold to local race car drivers. The Sim said a race was about to occur at the local stadium… I should get there.
    [830] 0x46D88814C3AB502F: "Attend Race" at local Sports Stadium
    [831] 0x356A1314B9C3B3E5: The Case of the Disappearing Auto
    [832] 0xD270B87BBAA35D15: Attend Race
@@ -2158,7 +2158,7 @@ Unknown3: 0x00000000
    [869] 0x63E7B3E02B50F195: "Dust for Prints" at {OpTarget}'s House
    [86A] 0x755606E035385493: The Great Clap Trap of an Art Heist
    [86B] 0x3BD16063A5C5BF8F: Dust for Prints
-   [86C] 0x8C4D13845DFE37CB: They say to never judge a book by its cover. Sure, I get that, but what about the finger prints found on TOP of the cover? Odd. I see {OpTarget}'s prints all over this, as well as...something different. I wonder if there's anything else around here I can use for evidence? The garbage is usually a good place to look.
+   [86C] 0x8C4D13845DFE37CB: They say to never judge a book by its cover. Sure, I get that, but what about the fingerprints found on TOP of the cover? Odd. I see {OpTarget}’s prints all over this, as well as… something different. I wonder if there’s anything else around here I can use for evidence? The garbage is usually a good place to look.
    [86D] 0xCA01E9EA74A5D860: Search {OpTarget}'s Garbage Can for Clues
    [86E] 0xB7F096EA6A3413CA: The Great Clap Trap of an Art Heist
    [86F] 0xABA9228617D1C59A: Search Garbage Can
@@ -2219,7 +2219,7 @@ Unknown3: 0x00000000
    [8A6] 0x00447846A44BFE67: "Interview" {OpTarget}
    [8A7] 0xEE33434699DA6CCD: The Case of the Crush
    [8A8] 0x0789C332BA76E46D: Interview {OpTarget}
-   [8A9] 0xEEF5135519C2FA3D: Yep, {OpSource} has it bad for a local named {OpTarget}. {OpSourceFirstName} is willing to pay me to ask around town to see if {OpTargetFirstName} has a crush. I hate playing cupid... not.
+   [8A9] 0xEEF5135519C2FA3D: Yep, {OpSource} has it bad for a local named {OpTarget}. {OpSourceFirstName} is willing to pay me to ask around town to see if {OpTargetFirstName} has a crush. I hate playing cupid… not.
    [8AA] 0xAFF6DE084EB318B6: "Ask About {OpTargetFirstName}'s Crush" to {OpNumEventsGoal} Sims
    [8AB] 0xC20833085924E0E8: The Case of the Crush
    [8AC] 0x9DC26D087CC9BDA4: Question {OpNumEventsCurrent}/{OpNumEventsGoal} Sims
@@ -2510,7 +2510,7 @@ Unknown3: 0x00000000
    [9C9] 0x393DFCEF2D342B04: Tutor {OpTarget} to earn job performance
    [9CA] 0x6C41F1EF49D3D826: Falling Behind
    [9CB] 0xDAA5973FE54C1866: Tutor Student
-   [9CC] 0x4F1EA98427BE6ED1: Phew! Next time you should probably suggest some... lighter... reading.
+   [9CC] 0x4F1EA98427BE6ED1: Phew! Next time you should probably suggest some… lighter… reading.
    [9CD] 0x8B13B65FBBB75B3F: It seems that requiring the students to read a 2000 page book may have backfired a little. It'll take forever to read all these book reports! You could take them home and get some work done there. It would definitely boost your job performance.
    [9CE] 0xC205CEAF015F5F4F: You really shouldn't have thrown out those reports. Now you'll have to give all the students a pass. That's no way to teach a class!
    [9CF] 0xCE38C59A24592644: Read your students' book reports to improve your job performance and increase your relationship with your boss.
@@ -2725,7 +2725,7 @@ Unknown3: 0x00000000
    [AA0] 0x42AE931D6D021DE1: Oh Scrap!
    [AA1] 0x7F8F250C5C064B61: Build a Metal Sculpture
    [AA2] 0x96187FB6F50EA2FD: {OpTargetFirstName} was fascinated seeing such a familiar face on the sculpture. {OpTargetFirstName} went over every detail of it with {OpOwner} to make sure everything was perfect. As expected, not a single piece of the sculpture was found wanting. 
-   [AA3] 0x0796FE48AE4203F3: {OpTarget} has become philosophical recently, as well as a bit narcissistic. {OpTarget} desires something to remind friends and family of their own humanity, which means...an ice sculpture! {OpTargetFirstName} would like a personal ice sculpture made by {OpOwner}.
+   [AA3] 0x0796FE48AE4203F3: {OpTarget} has become philosophical recently, as well as a bit narcissistic. {OpTarget} desires something to remind friends and family of their own humanity, which means… an ice sculpture! {OpTargetFirstName} would like a personal ice sculpture made by {OpOwner}.
    [AA4] 0x049CC1B7FD0FB6E8: Create a Sim Sculpture of {OpTarget} and deliver it for a cash reward, a sculpting skill boost, and relationship boost with {MB.him}{FB.her}.
    [AA5] 0xF2546EB7F26EAFA2: Personal Sculpting
    [AA6] 0x76761AEFBB102662: Create a Sim Sculpture of {OpTarget}
@@ -2766,7 +2766,7 @@ Unknown3: 0x00000000
    [AC9] 0x829FD8FEB77C12EA: {OpTarget} hasn't had many big stories at the paper lately. Things aren't going so well!
    [ACA] 0xC0AAD59A2CDB6D2B: Oh that scientist? Yeah, I've seen that character sneaking around town lately.
    [ACB] 0xC0AAD59A2CDB6D28: I've seen the lab tech around town, but I don't know anything else. Sorry!
-   [ACC] 0xC0AAD59A2CDB6D29: I don't trust that lab rat... Always creeping around after dark…
+   [ACC] 0xC0AAD59A2CDB6D29: I don’t trust that lab rat… Always creeping around after dark…
    [ACD] 0xCB5ED991EE9CC2C9: I don't know anything about a wallet. I cannot even find MY wallet!
    [ACE] 0xCB5ED991EE9CC2CA: Wallets are for chumps…and people with money. Unfortunately, I'm neither.
    [ACF] 0xCB5ED991EE9CC2CB: Yeah, I may know something about a missing wallet, but I'm not talking about it. Not to you.
@@ -2813,7 +2813,7 @@ Unknown3: 0x00000000
    [AF8] 0xDDF405B6597F4FFC: Do you want to completely remove the selected application and all of its features?
    [AF9] 0x0F3FB67D74074EB3: Subduing Washing Machines…
    [AFA] 0xF091CA2C286ABA19: Scrapping Inventions…
-   [AFB] 0x0F3FB67D74074EB0: Intercepting Meteorites...
+   [AFB] 0x0F3FB67D74074EB0: Intercepting Meteorites…
    [AFC] 0x0F3FB67D74074EB1: Vaccinating Sims…
    [AFD] 0x0F3FB67D74074EB6: Resolving Temporal Paradoxes…
    [AFE] 0x0F3FB67D74074EB7: Decapitating Topiaries…
@@ -2828,7 +2828,7 @@ Unknown3: 0x00000000
    [B07] 0x5596AC49170EBB20: You placed a Junkyard. This place is perfect for finding Scrap and other treasures Sims do not want anymore.
    [B08] 0x519E8C235893F37C: You placed a Junkyard. This place is perfect for finding Scrap and other treasures that Sims do not want anymore without having to deal with large crowds.
    [B09] 0x24161F78472250A3: You placed a Laundromat. This lot is great for washing the clothes and sheets of Sims who have no washer or dryer at home.
-   [B0A] 0x3B0BE1D6BC11160D: You placed a Salon. This place is perfect for getting your Sims all dressed up for a night on the town...
+   [B0A] 0x3B0BE1D6BC11160D: You placed a Salon. This place is perfect for getting your Sims all dressed up for a night on the town…
    [B0B] 0xC382FBC31E51E28B: Firefighters need to spend their work hours at the local fire station in case there’s an emergency…
    [B0C] 0x8974578C8523F201: Firefighters can tackle infernos more quickly with an Upgraded Fire Extinguisher!
    [B0D] 0x8974578C8523F200: The local Hangout is a great place to socialize with other Sims and kick back for a fun time. 
