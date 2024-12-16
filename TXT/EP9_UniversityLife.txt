@@ -392,7 +392,7 @@ Unknown3: 0x00000000
    [183] 0x0EFB46CB8AF9B28A: Grindstone Cowboy Desk by Standard Issue
    [184] 0x91CB0BB90FA03E6C: Sit Down and Hush Desk by Optimal Construction
    [185] 0x5FEC65A41B6B8358: Titan Desk by Weighty Concepts
-   [186] 0xFD4C0CD9C8B12B51: The Pointdexter Upright Desk
+   [186] 0xFD4C0CD9C8B12B51: The Poindexter Upright Desk
    [187] 0xC25DDBA73D09B89E: Pollack Art Desk by Secret Bohemia
    [188] 0xEAB0AFD848589F1D: Alpha Omega Door by Elegance Asserted
    [189] 0xA933B94449B5DC25: Archa Omega Archway by Elegance Asserted
