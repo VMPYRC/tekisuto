@@ -32,7 +32,7 @@ Unknown3: 0x00000000
    [1B] 0x3063993138CCC68A: Artisan
    [1C] 0x8447EF8F3FD1D680: Are you a true artisan? Build your Artisan skill by trying to make glass gnomes, jewelry, statues, stained glass windows and more with the Artisan's Glassblowing and Jewelry Making Station. {0.SimFirstName} can unlock new glass objects and accessories as {MA.his}{FA.her} skill increases. Even if the blowtorch explodes in your face, don't give up!
    [1D] 0x276375836FEF7A84: Bliss Perfume
-   [1E] 0xEEC6CFCC59570442: I just feel...happy.
+   [1E] 0xEEC6CFCC59570442: I just feel…happy.
    [1F] 0x16C78CF081C0723A: WooHoo Panther Perfume
    [20] 0xD3D9345D6BA32BD0: I don't feel so well. Maybe that is why this perfume is illegal in nine countries.
    [21] 0x2511AADB60A66516: Fan-glasstic!
@@ -40,7 +40,7 @@ Unknown3: 0x00000000
    [23] 0x26F4564709F2BF5A: Once Forgotten Perfume
    [24] 0x85A901CFEE8DC270: Sometimes it’s good to forget, particularly if it’s a loved one’s passing.
    [25] 0x67D8DCAFB06A7CEE: Vanity Perfume
-   [26] 0xA06CD4F6653BBBE4: Enough about me... what do YOU think about me?
+   [26] 0xA06CD4F6653BBBE4: Enough about me… what do YOU think about me?
    [27] 0x0EAFA59F01249351: Pain in the Glass! 
    [28] 0x7E42BD58C1108C2D: Does anyone else smell burning hair?
    [29] 0xDBB6AB58F4FD1D17: Glass Chess Table

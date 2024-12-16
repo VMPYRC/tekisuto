@@ -1151,7 +1151,7 @@ Unknown3: 0x00000000
    [47A] 0x097EBC111005053A: Teaching the Kids
    [47B] 0xF57F737CAEADE06A: Teach Acting Class.
    [47C] 0x61EFDDBB655F7BED: Well, the book was pretty basic and mostly common sense, but everybody's got to start somewhere. You've picked up some new tricks on how to blend into the trees. Your job performance has improved as a result!
-   [47D] 0xCA4BAF108B389A43: The key to being an extra is to not take the spotlight from the…ahem…real stars. Your boss recommends reading "How to Get Noticed by Not Being Seen" to pick on some tips on how to blend into the backdrop better.
+   [47D] 0xCA4BAF108B389A43: The key to being an extra is to not take the spotlight from the… ahem… real stars. Your boss recommends reading “How to Get Noticed by Not Being Seen” to pick on some tips on how to blend into the backdrop better.
    [47E] 0x59C09B039AA4E038: Read "How to Get Noticed by Not Being Seen" and return to work.
    [47F] 0x4779480390058C12: Background Acting
    [480] 0xBFA692D97AC20972: Read Film Book.
@@ -1161,7 +1161,7 @@ Unknown3: 0x00000000
    [484] 0x7189D3C9F3BAAE3B: Best of the Best
    [485] 0x8B2C6C9AEED879A7: Read Film Book.
    [486] 0x7268EC95DE0FD8DF: Wow, being the Key Grip is a big responsibility, but, armed with new knowledge, you're bound to succeed! Your boss is also quite pleased with your progress.
-   [487] 0xB3FC2D8E540213AD: Now that you're the Key Grip, you'll be in charge of…all the other grips. Your boss wants you to brush up by reading "The Key to Being a Key Grip." Finish the book to get a better grip on the situation!
+   [487] 0xB3FC2D8E540213AD: Now that you’re the Key Grip, you’ll be in charge of… all the other grips. Your boss wants you to brush up by reading “The Key to Being a Key Grip.” Finish the book to get a better grip on the situation!
    [488] 0xF0D214F48894F366: Read "The Key to Being a Key Grip" and return to work.
    [489] 0x02E369F49306BAB8: A Gripping Read
    [48A] 0xC2BDD548887CD2D4: Read Film Book.
@@ -2064,7 +2064,7 @@ Unknown3: 0x00000000
    [80B] 0x6CD6458210DEAEDF: Feel like making music with other Sims? Consider jamming. It’s a nice way to make friends too.
    [80C] 0x6CD6458210DEAEDE: The key to making your Sim famous is befriending Celebrities. Send them to the hottest spots in town to make some Celebrity connections!
    [80D] 0x6CD6458210DEAED9: There are many perks to becoming a Celebrity, from discounts around town to free products from major businesses!
-   [80E] 0x6CD6458210DEAED8: Celebrity Sims are under greater public scrutiny, so watch your Sim’s actions! They might end up the talk of the town…and not in a good way.
+   [80E] 0x6CD6458210DEAED8: Celebrity Sims are under greater public scrutiny, so watch your Sim’s actions! They might end up the talk of the town… and not in a good way.
    [80F] 0x6CD6458210DEAEDB: Celebrities won’t talk to just anyone. Impress Celebrities by talking to them about subjects they are interested in and maybe they’ll warm up to your Sim.
    [810] 0x6CD6458210DEAEDA: Need some personal info about local Celebrities? Try to pick up some dirt by asking other Sims for Celebrity Gossip.
    [811] 0x6CD6458210DEAED5: Celebrities keep tall gates around their homes to prevent curious fans from visiting them. Your Sims will have to befriend Celebrities around town before being allowed to visit their homes.

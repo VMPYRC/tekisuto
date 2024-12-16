@@ -765,7 +765,7 @@ Unknown3: 0x00000000
    [2F8] 0xDDFBC598537D8135: 3BR / 3 Bath - The perfect house to film a 50s sitcom in, this practical and spacious home is ideal for a nuclear family…or at least a family of the nuclear age.
    [2F9] 0x60BC8049586D3DDB: 2BR / 2 Bath - This elegant older home is now made environmentally friendly with dual porches for cooling, vegetable garden, integrated recycling, and no room for a car. We’re sure it can nurture both a family and the planet.
    [2FA] 0xF04536793811741B: 2BR / 2 Bath - This ranch style house has been updated to include a large airy great room perfect for a family, or a single Sim on the prowl.
-   [2FB] 0x450B946AA722AAC7: 1BR / 2 Bath - This quaint cottage on a well maintained garden lot represents a blend of craftsman and neo-classical architecture. Built on a solid foundation, we feel it can last an eternity…and then some.
+   [2FB] 0x450B946AA722AAC7: 1BR / 2 Bath - This quaint cottage on a well maintained garden lot represents a blend of craftsman and neo-classical architecture. Built on a solid foundation, we feel it can last an eternity… and then some.
    [2FC] 0xE523E01294C7C929: 2BR / 1 Bath - This classically styled single wide home features a large columned porch, perfect for sipping lemonade as you watch neighbors pass by. Included is extra concrete car pads for parking investment vehicles. Plastic triangle flags are prohibited by the neighborhood association.
    [2FD] 0xCF48A87BEA605E26: 2BR/ 1 Bath - Built on extra high foundations, this open concept home beckons even the most dedicated rambler to settle down. The charming formal porch gives way to open concept living, a big deck, and very quiet spacious bedrooms.
    [2FE] 0x26727B525BE0BC5C: Studio / 1 Bath - Inspired by bird’s nests, children’s tree houses, and forest fire watch stations, this unique home sits head and shoulders above the competition. The surprisingly ample living space features great views and a full wrap around deck.
@@ -951,7 +951,7 @@ Unknown3: 0x00000000
    [3B2] 0x79E50229684D8E74: What began as square catalog house grew porches and dormers and finally a cupola. Clearly this is an abode with ambitions.
    [3B3] 0x40756E85F6834E72: With neoclassical proportions and a well designed floor plan, this house is rarely available to the first time homeowner. Although it’s probably what many of us envision for a starter home, only the rare buyer can afford this much charm once in a blue moon.
    [3B4] 0xC17869436AC0FA80: This house harkens back to yesteryear, evoking another era that has blown with the breeze. Grand living can still be found here; with its old growth willows, private pond, and many verandas, tomorrow will always be another day.
-   [3B5] 0xF5165BFF8A27BA6F: Borrowing elements from Mount Versimnon and Montisimno, this stately home could be considered a modern castle…and here, every Sim’s home is his or her castle!
+   [3B5] 0xF5165BFF8A27BA6F: Borrowing elements from Mount Versimnon and Montisimno, this stately home could be considered a modern castle… and here, every Sim’s home is his or her castle!
    [3B6] 0xE4F5D39F7BE75FD4: Yo, check this out! More urban than most other houses around, this house has serious street cred’. Nothin’ sez urban than red brick and matching pilasters.
    [3B7] 0x5EE57A50E195FE1E: We’re certain we‘ve seen this house on the opening credits of a cable mini-series. At any rate, we encourage you to brush up on your croquet and stock up on bloomers and petticoats if you want to spend any significant time here.
    [3B8] 0x038B02C310AAF145: The stolid front of this house defines its equally no-nonsense interior. We’re sure the living rooms of this house have hosted many important local dignitaries in interminable tea parties to which fortunately we have never been invited.
@@ -1575,7 +1575,7 @@ Unknown3: 0x00000000
    [622] 0x665887102AF468AF: Digging for Dirt
    [623] 0x95762B4C7C3AB0EB: Inspect Mail and Search through Garbage
    [624] 0x4131F06B2B3685D3: {OpTarget} squealed with delight when I presented the evidence. I've never seen somebody so happy to witness criminal activity. Some people just don't get enough excitement during their normal day to day. Case closed.
-   [625] 0xA21990527804F969: Ah ha! Based on the notes in this discarded diary, {OpSource} is an aspiring crony in the local crime syndicate. {OpTargetFirstName} is quite the observant local snoop…and probably a creepy neighbor. I should report back to {OpTarget} with this information.
+   [625] 0xA21990527804F969: Ah ha! Based on the notes in this discarded diary, {OpSource} is an aspiring crony in the local crime syndicate. {OpTargetFirstName} is quite the observant local snoop… and probably a creepy neighbor. I should report back to {OpTarget} with this information.
    [626] 0xDBAB29F7CC0600A2: "Report In" to {OpTarget}
    [627] 0xA8A736F7AF66570C: Digging for Dirt
    [628] 0xAA0BACA60DE43AE8: Report In
@@ -1930,7 +1930,7 @@ Unknown3: 0x00000000
    [785] 0xBDE0882B16F56395: "Confront" {OpTarget}
    [786] 0xCF4EDB2B20DCC693: The Case of the Closed Chapter
    [787] 0x3A103B377BA2518F: Confront {OpTarget}
-   [788] 0xF699CC14C814E41F: Got a call from some {MB.gent}{FB.dame} about a missing car. Something about it being special to {MB.him}{FB.her}…a gift from {MB.his}{FB.her} father. I figure I should ask the client about potential suspects.
+   [788] 0xF699CC14C814E41F: Got a call from some {MB.gent}{FB.dame} about a missing car. Something about it being special to {MB.him}{FB.her}… a gift from {MB.his}{FB.her} father. I figure I should ask the client about potential suspects.
    [789] 0xDEF272AA473D2EA4: "Ask About Potential Suspects" to {OpTarget}
    [78A] 0x11F667AA63DCDBC6: The Case of the Wayward Jalopy
    [78B] 0x818ECFA89EFDAF06: Question {OpTarget}
@@ -1989,7 +1989,7 @@ Unknown3: 0x00000000
    [7C0] 0xCC73D16F9054D049: The Case of the Missing Pink Feathers
    [7C1] 0xC3A547313E771739: Snoop for Clues
    [7C2] 0x2AFEB4C67596FC9F: I returned the flamingo to {OpTarget} who was delighted to hear the flamingo was found in an art gallery. "How fitting," said {OpTargetFirstName}. "How deranged," I thought. I accepted my fee and backed away slowly.
-   [7C3] 0x774EBA8B33AF736D: I think I've been had. I found the flamingo at the art gallery, but I'm not sure it belongs here. I think {OpTargetFirstName} is so desperate to convince people the flamingo is art that {OpTargetFirstName} put it there…and forgot about it? Regardless, I should return the flamingo.
+   [7C3] 0x774EBA8B33AF736D: I think I’ve been had. I found the flamingo at the art gallery, but I’m not sure that it belongs here. I think {OpTargetFirstName} is so desperate to convince people the flamingo is art that {OpTargetFirstName} put it there… and forgot about it? Regardless, I should return the flamingo.
    [7C4] 0xEA5AF479200AA426: "Return Flamingo" to {OpTarget}
    [7C5] 0xFC6C49792A7C6C78: The Case of the Missing Pink Feathers
    [7C6] 0x77A1E44356CED394: Return Flamingo
@@ -2365,7 +2365,7 @@ Unknown3: 0x00000000
    [938] 0x2AEB8B4EB89B5B8F: "Inspect Mail" on {OpTarget}'s Mailbox
    [939] 0x197E164EAEB57245: The Mystery of the Mutant Fruits
    [93A] 0x4404D0B8071BCB75: Inspect mail
-   [93B] 0xE563CD5A748D8B7B: Typically, the existence of a check for an unreasonably large sum of money is a clear sign of foul play. It's addressed to the chef, but signed by {OpSource}…a local politician. I smell corruption and it stinks. I should conduct a stakeout around City Hall.
+   [93B] 0xE563CD5A748D8B7B: Typically, the existence of a check for an unreasonably large sum of money is a clear sign of foul play. It’s addressed to the chef, but signed by {OpSource}… a local politician. I smell corruption, and it stinks. I should conduct a stakeout around City Hall.
    [93C] 0x7DD61D61F34B67D0: "Conduct Stakeout" at City Hall
    [93D] 0x6BC4CA61E8D9A35A: The Mystery of the Mutant Fruits
    [93E] 0xA479284D3CD8958A: Conduct Stakeout
@@ -2768,7 +2768,7 @@ Unknown3: 0x00000000
    [ACB] 0xC0AAD59A2CDB6D28: I've seen the lab tech around town, but I don't know anything else. Sorry!
    [ACC] 0xC0AAD59A2CDB6D29: I don’t trust that lab rat… Always creeping around after dark…
    [ACD] 0xCB5ED991EE9CC2C9: I don't know anything about a wallet. I cannot even find MY wallet!
-   [ACE] 0xCB5ED991EE9CC2CA: Wallets are for chumps…and people with money. Unfortunately, I'm neither.
+   [ACE] 0xCB5ED991EE9CC2CA: Wallets are for chumps… and people with money. Unfortunately, I’m neither.
    [ACF] 0xCB5ED991EE9CC2CB: Yeah, I may know something about a missing wallet, but I'm not talking about it. Not to you.
    [AD0] 0xA4D8D6C91D77463C: I love credit cards! Would you like to offer me a card deal?
    [AD1] 0xA4D8D6C91D77463F: I don't know anything about credit cards. I only deal in cash, mostly out of the jar buried in my backyard.

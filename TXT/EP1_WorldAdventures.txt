@@ -635,7 +635,7 @@ Unknown3: 0x00000000
    [0276] 0xBF5D316C72B81816: Once owned by a reputed jewel thief, this hidden gem just might hold a hidden treasure inside its walls. Perfect for someone who loves to remodel and carries a large sledge hammer.
    [0277] 0x7B629EC036240A12: Once voted ‘Best of Champs Les Sims’ by a prestigious panel of anonymous and well-paid judges, this home is constructed of the finest materials available.
    [0278] 0x1F681D44212F7B6D: A fisherman’s paradise. Who could resist the dramatic views while angling from your very own backyard?
-   [0279] 0x84FE08237484E026: This house has all the room you could ask for…and maybe even some you didn’t! Bonus! Move in and start life anew!
+   [0279] 0x84FE08237484E026: This house has all the room you could ask for… and maybe even some you didn’t! Bonus! Move in and start life anew!
    [027A] 0xF0C53617362B0C92: This living space will beckon you in and then keep you warm and comforted. Bonjour!
    [027B] 0x000B83B48E882F79: With large rooms and expansive acreage, there’s plenty of space to grow a family or garden paradise. The charming coach house can be used for extra storage or a place to house loud guests.
    [027C] 0xE4BAAFD81C67B3B2: Look out over the lovely river every day in this quaint little home. It's just close enough to the town center to shop, and far enough away to have that rustic feel.
@@ -1431,7 +1431,7 @@ Unknown3: 0x00000000
    [0592] 0x84CE62C5B8089F4B: Deliver {9.Number} samples of Cherimola Blan Grapes to {2.String}. Cherimola Blan can be found growing around town or purchased from some merchants.
    [0593] 0x29B56B4C081DFE72: Deliver {9.Number} samples of Cherimola Blan Grapes to {2.String}. Cherimola Blan can be found growing around town or purchased from some merchants.
    [0594] 0xB7D255C5D4A848C9: An Endeavor for Flavor
-   [0595] 0x259909B1A18C2AA9: “This is excellent Nectar! Quite tasty. Nectar is a craft…an art even! Higher quality grapes and rarer fruits tend to make better Nectars, but different combinations can yield unforeseen delights and flavors. I shall show you!"
+   [0595] 0x259909B1A18C2AA9: “This is excellent Nectar! Quite tasty. Nectar is a craft… an art even! Higher quality grapes and rarer fruits tend to make better Nectars, but different combinations can yield unforeseen delights and flavors. I shall show you!”
    [0596] 0xE0FA5474B75A19E7: “You cannot just shove grapes into bottles and expect them to become liquid. No, they must first be smashed between your toes. Once you've finished, rev up old Flo, my beloved Nectar maker. She will turn your smashed grapes into delicious nectar. Bring me the bottles when you are done.”
    [0597] 0xC593B2DDCFAEF3AC: “Place” the grapes into the Nectar Maker, “Squish” them, use the Nectar Maker, then collect them from it. Speak to {2.String} when finished.
    [0598] 0xF8CDC7DDEC7C661E: Creating Nectar
@@ -1988,8 +1988,8 @@ Unknown3: 0x00000000
    [07BF] 0x39CFCBAC62080C2E: Jog around Champs Les Sims, France to earn Simoleons.
    [07C0] 0x48B120AC69C43AF0: Fun Run
    [07C1] 0x97E68BCD35CA511C: Go for Jog
-   [07C2] 0xEB0B1C03FA62FDB4: “Your efforts have already increased sales by 0.37%! That’s a bigger increase than I’ve seen in years…and after such a short amount of time. I may keep you on retainer! Here is the money promised to you.”
-   [07C3] 0xBEF120B44F9D8BB7: “Your efforts have already increased sales by 0.37%! That’s a bigger increase than I’ve seen in years…and after such a short amount of time. I may keep you on retainer! Here is the money promised to you.”
+   [07C2] 0xEB0B1C03FA62FDB4: “Your efforts have already increased sales by 0.37%! That’s a bigger increase than I’ve seen in years… and after such a short amount of time. I may keep you on retainer! Here is the money promised to you.”
+   [07C3] 0xBEF120B44F9D8BB7: “Your efforts have already increased sales by 0.37%! That’s a bigger increase than I’ve seen in years… and after such a short amount of time. I may keep you on retainer! Here is the money promised to you.”
    [07C4] 0x9801199C4F40A74B: Report Success to {2.String}
    [07C5] 0xC8D78AA1F39CD672: Report Success to {2.String}
    [07C6] 0x779F83F52EA4DF05: “My store has not been doing well lately. It seems I am not selling what people need. However, you look like a persuasive Sim. Could you convince {10.Number} locals to shop at my store? I’ll pay you well for your efforts.”
@@ -3259,8 +3259,8 @@ Unknown3: 0x00000000
    [0CB6] 0x1CDE954B038CE692: Here? The Entire Time?
    [0CB7] 0x716B08960D624BF2: Discuss Missing Piece
    [0CB8] 0xCBBEF52A46FBE188: “Thank goodness! You have returned the artifact at long last. I must quickly tell the Order. But first, your reward and my most humblest thanks to you.”
-   [0CB9] 0x6039D0C79565B65C: “I knew the Order would one day discover the location of the artifact. My family has had it for so long that we have grown…accustomed to its presence. But, our role fulfilled, we must return the piece to the Order. Please, take this to {2.SimName}.”
-   [0CBA] 0x212154010732235F: “I knew the Order would one day discover the location of the artifact. My family has had it for so long that we have grown…accustomed to its presence. But, our role fulfilled, we must return the piece to the Order. Please, take this to {2.SimName}.”
+   [0CB9] 0x6039D0C79565B65C: “I knew the Order would one day discover the location of the artifact. My family has had it for so long that we have grown… accustomed to its presence. But, our role fulfilled, we must return the piece to the Order. Please, take this to {2.SimName}.”
+   [0CBA] 0x212154010732235F: “I knew the Order would one day discover the location of the artifact. My family has had it for so long that we have grown… accustomed to its presence. But, our role fulfilled, we must return the piece to the Order. Please, take this to {2.SimName}.”
    [0CBB] 0xF3594CD81135F1C0: Why'd you destroy the artifact? Hopefully, you can find another one later.
    [0CBC] 0xB95AF443F1CEAAD5: “Deliver” artifact to {2.SimName} to receive Simoleons and Ancient Coins.
    [0CBD] 0x83F45E62DEECD2B0: “Deliver” artifact to {2.SimName} to receive Simoleons and Ancient Coins.
@@ -3377,7 +3377,7 @@ Unknown3: 0x00000000
    [0D2C] 0x6132B913D26A2436: Veggies…Now
    [0D2D] 0x9B4E925F1EADDA16: Deliver Vegetables
    [0D2E] 0xD357931461BAFC86: EP1_Quest_TheFeast4Completion
-   [0D2F] 0x73015D91A05DF612: “The last feast I prepared went incredibly well, thanks to you. I want to prepare something…a little more special now. Travel to Egypt and obtain {9.Number} Crocodiles that are Neutral quality or better. I’ll pay you some Simoleons for your trip and the Crocodiles.”
+   [0D2F] 0x73015D91A05DF612: “The last feast I prepared went incredibly well, thanks to you. I want to prepare something… a little more special now. Travel to Egypt and obtain {9.Number} Crocodiles that are Neutral quality or better. I’ll pay you some Simoleons for your trip and the Crocodiles.”
    [0D30] 0x1EBE12305BBFDB92: EP1_Quest_TheFeast4Failure
    [0D31] 0xA1E7DC1AD0661BA7: Obtain {9.Number} Crocodiles that are Neutral quality or better and deliver them to {2.SimName} to receive Simoleons.
    [0D32] 0xEB6F25B5028DA756: Obtain {9.Number} Crocodiles that are Neutral quality or better and deliver them to {2.SimName} to receive Simoleons.
@@ -3385,7 +3385,7 @@ Unknown3: 0x00000000
    [0D34] 0x68A7C583970222AD: A Vicious Delicacy
    [0D35] 0xA10CA3B04402746B: “You went to China and back already? You really know how to transport food, don’t you! These Plums smell delicious. I can only imagine how good they taste! Here is the money I promised you. Thanks!”
    [0D36] 0xD56BBCAD4FEC78D2: “You went to China and back already? You really know how to transport food, don’t you! These Plums smell delicious. I can only imagine how good they taste! Here is the money I promised you. Thanks!”
-   [0D37] 0x18112E25FBDCF4F1: “The last feast I prepared went incredibly well, thanks to you. I want to prepare something…a little more special for my next feast. Something that’s fruity, but not local. Travel to China and obtain {9.Number} Plums that are Nice quality or better. I’ll play you some Simoleons for your trip and the Plums.”
+   [0D37] 0x18112E25FBDCF4F1: “The last feast I prepared went incredibly well, thanks to you. I want to prepare something… a little more special for my next feast. Something that’s fruity, but not local. Travel to China and obtain {9.Number} Plums that are Nice quality or better. I’ll play you some Simoleons for your trip and the Plums.”
    [0D38] 0xF09906034C8AA22D: EP1_Quest_TheFeast5Failure
    [0D39] 0x9882B0259C3550EA: Obtain {9.Number} Plums that are Nice quality or better and deliver them to {2.SimName} to receive Simoleons.
    [0D3A] 0xA83CB03E1D8478D9: Obtain {9.Number} Plums that are Nice quality or better and deliver them to {2.SimName} to receive Simoleons.
