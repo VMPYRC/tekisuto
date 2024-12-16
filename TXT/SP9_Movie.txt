@@ -8,7 +8,7 @@ Unknown3: 0x00000000
    [03] 0xA16C72B1DA89B8D7: The All-in-One Bathroom has been reinvented for life in the unauthentic Old West! All the bathroom hijinks you've come to know and love, but now with a rustic finish.
    [04] 0x57182CF1C29F0F2C: Simantha “Saloon Sal” Simmons was made famous by such films as “Where’s Bella?” and “The Good, The Bad, and The Social Bunny.” This bar is a replica of the one used in “The Llama Whisperer,” which many consider to be the high point of Sal’s career.
    [05] 0x4088A0C43FB7C668: Saloon Sal liked to lounge on set between takes, and this bar stool was her favorite seat during the production of "A Fistful of Simoleons."
-   [06] 0x8793A005762EB1EB: The stars are out, the sun has set, and you've worn yourself out with a day spent riding the range…enjoy a good night's rest with the Sweet Sleep Cowgirl Bed.
+   [06] 0x8793A005762EB1EB: The stars are out, the sun has set, and you’ve worn yourself out with a day spent riding the range… enjoy a good night’s rest with the Sweet Sleep Cowgirl Bed.
    [07] 0xDA7C9909E276672E: Eternity lasts forever, so make sure you spend your days sleeping comfortably on a slab of solid rock.
    [08] 0x914ABE79069FBA7F: Crafted with tender loving care by six of Spiderella's eight hands, this not-so-sturdy bookshelf is made of wood from the mountains surrounding Moonlight Falls. Perfect for living rooms, dining rooms, kids' rooms, and crypts, this Spooky Bookshelf is sure to darken any living space.
    [09] 0xBBFD1F334ED26E8C: Whether you are racing towards a crime, or away from one, the Sim-Mobile is the vehicle for stylish, high-tech Sims! Fully equipped and guaranteed to be one of a kind, this custom racer is sure to be the talk of the town!
@@ -28,7 +28,7 @@ Unknown3: 0x00000000
    [17] 0x257BB08838394E5C: This Super Ray is for decoration only! It has a built in light bulb to illuminate your lair. Modifications, obviously, are a must.
    [18] 0x5C3BC15F9BE02E88: The active hero (or villain) needs a trophy case to show off choice pieces. This lovely display is lit, air tight, and made of scratch resistant, diamond infused glass.
    [19] 0x952449D3935975A4: Nothing says cozy abode like a trio of creepy arms holding lights! Nautical, mythical, and all around spooky, this unique fixture is sure to scare and delight your guests!
-   [1A] 0x5495115D3685A588: This loveseat will caress you…literally. The claws look ornamental, but one never knows…
+   [1A] 0x5495115D3685A588: This loveseat will caress you… literally. The claws look ornamental, but one never knows…
    [1B] 0xC606A866ABCBE808: Stylish, sleek, and fast too, this isn't just any motorcycle! With a custom design and a space age engine, the Vigilante Supercycle promises that you will be the first to arrive (or leave!) when danger presents itself.
    [1C] 0x18B3721B2396F708: These scenes from the Old West were painted by the talented D. Dreamer of Lucky Palms.
    [1D] 0xF88CE66B70E58DB6: Set the scene for your next blockbuster with this high quality backdrop. Perfect for films, commercials, plays, and plain make believe, these whimsical images are sure to please.

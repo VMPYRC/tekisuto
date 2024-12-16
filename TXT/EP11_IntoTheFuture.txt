@@ -146,7 +146,7 @@ Unknown3: 0x00000000
    [08D] 0xF198813758CEE0E1: Spawns nanites for the Bot Workshop
    [08E] 0x47ADB6C926D4BFE7: Launch yourself skyward for thrilling adventures with this personal jetpack! Patented gyroscopes ensure your basic safety, and it’s got enough juice to take other Sims on tandem rides.
    [08F] 0x12FFD571616A609D: With antigravity being so prevalent nowadays, it’s sometimes nice to experience it in all its glory! The SkySwoop Slide will bring your children the utmost adoration, at least until they learn about video games.
-   [090] 0x3CC2DA4D64ECF19E: Did you know that only 30% of Sims can locate their local Library? Well, that statistic can only be looked up…in the Library! Use this glowing sign to find it.
+   [090] 0x3CC2DA4D64ECF19E: Did you know that only 30% of Sims can locate their local Library? Well, that statistic can only be looked up… in the Library! Use this glowing sign to find it.
    [091] 0x4C3502B15B074AF3: Powered by glowing fiber-optic cables, these delicate ceiling lights illuminate your home like a cityscape on a rainy night. Bright walls and dramatic shadows are sure to leave lasting memories.
    [092] 0x6C6F5296072EF4C3: Cast any living space in a cool postmodern glow! This freestanding floor lamp mimics the distinctive soundwave signature of whale song. If only whales still existed…
    [093] 0x11BA99388E01F3AF: This radiant floor lamp is modeled after the famous Tannhauser Wormhole Gate linking Simkind to Alpha Centauri. Oh, you haven’t heard of that? Well, it’s a nice lamp.
@@ -217,7 +217,7 @@ Unknown3: 0x00000000
    [0D4] 0xE6CF91043B2BEAA2: Let’s face facts: trends are difficult to keep up with and when they're over, where do they go? This rack is perfect for displaying and admiring some of the more thrifty styles of yesteryear.
    [0D5] 0xE600723C68A22BA6: Turn any public space into a Grand Arcade with high arches and eye-pleasing ivy. Walkways are for common folk; Arcades are way classier.
    [0D6] 0xE8C706BC9E04BA4F: A massive achievement in both engineering and art! Slabs of metal and concrete rise imposingly from the ground, seeding shock and awe in everyone around.
-   [0D7] 0x262C1C5360C06822: We all know the world is full of glittering technology, but those advances only happened because Simkind made peace with their environment. “The Hollow Earth” symbolizes civilization’s mortality…or something like that.
+   [0D7] 0x262C1C5360C06822: We all know the world is full of glittering technology, but those advances only happened because Simkind made peace with their environment. “The Hollow Earth” symbolizes civilization’s mortality… or something like that.
    [0D8] 0x49115F0F55568BB2: Gaze into the placid water; imagine yourself as a smooth grey stone, resting below the surface. It’s so quiet, so still. Buy yourself peace of mind today!
    [0D9] 0xACF11F3B6CFDFB4E: It may be jarring and violent to behold, but the Kilraki Array is considered one of the century’s most important art installations. Just don’t touch it; you may hurt yourself.
    [0DA] 0x4BC2B8BA010FC114: Dense stands of bamboo lend an exotic East Asian flavor to any living space. Though artificial, they may distract ravenous Panda bears long enough for your family to escape.
@@ -1275,7 +1275,7 @@ Unknown3: 0x00000000
    [4F6] 0xC981983609229F5B: Mei
    [4F7] 0x89D501D185D4CCDB: Mela
    [4F8] 0xA6D9D3F5CE8818D9: Melany
-   [4F9] 0xED335B1525D2F415: With her father’s intense focus and her mother’s talent for troublemaking, Melany Mere is sure to make her mark in the world…right after she scrawls it on the kitchen wall.
+   [4F9] 0xED335B1525D2F415: With her father’s intense focus and her mother’s talent for troublemaking, Melany Mere is sure to make her mark in the world… right after she scrawls it on the kitchen wall.
    [4FA] 0x275A90E3BA45F639: Melvin
    [4FB] 0x89D4E3D185D499A5: Mere
    [4FC] 0xCDBB49072FA0490F: Michael
@@ -1702,7 +1702,7 @@ Unknown3: 0x00000000
    [6A1] 0xBF50A404FEA6973F: A Serious Investment
    [6A2] 0x4C21B96934C76F1B: Purchase a Plumbot from a Sales Pedestal.
    [6A3] 0x15AA60DEB136BBC9: Perfect! As you can see, Plumbots are just like organic Sims, only more helpful and less whiny.
-   [6A4] 0x7E3B8CFB66E49187: That’s a fine Plumbot you selected! They function best when calibrated slowly and deliberately. Let’s put it through its paces. Instruct your Bot to Explain its Function, then Instruct it to Entertain You. I’ll keep all my scanners running while you do this…for science!
+   [6A4] 0x7E3B8CFB66E49187: That’s a fine Plumbot you selected! They function best when calibrated slowly and deliberately. Let’s put it through its paces. Instruct your Bot to Explain its Function, then Instruct it to Entertain You. I’ll keep all my scanners running while you do this… for science!
    [6A5] 0xA5B1F210517CE93E: Iterating Introductions
    [6A6] 0xA8FE088A32D0FEEE: Instruct Plumbot to Explain its Function and then to Entertain You.
    [6A7] 0x8437F6271B72B7F2: There’s no feeling quite like being elbow-deep in a Plumbot’s thought center, is there?
@@ -1765,7 +1765,7 @@ Unknown3: 0x00000000
    [6E0] 0x3A5F3D5E546EF694: An Old Hope
    [6E1] 0x28E56B5E09CB1F20: Go to {OpTarget}.
    [6E2] 0x668821009F88ADF8: What a wonderful piece you bought! I’m not one for fashion myself.
-   [6E3] 0x1CE681847B4A13EC: Hey! I’m pleased as punch you came by, but I’m busy with, uhh…something. That I don’t need help with. Just hang around town for a spell. Stop by the local shops and try on some futuristic fashions. And, uhh…keep your eyes open.
+   [6E3] 0x1CE681847B4A13EC: Hey! I’m pleased as punch you came by, but I’m busy with, uhh… something. That I don’t need help with. Just hang around town for a spell. Stop by the local shops and try on some futuristic fashions. And, uhh… keep your eyes open.
    [6E4] 0x5C620456F3632190: You already know your way around Oasis Landing? Great llamas! You really are an explorer!
    [6E5] 0x323F7195AFC8C5C3: Fashion Distraction
    [6E6] 0x8848EA8D2541921F: Buy something from a Clothing Pedestal.

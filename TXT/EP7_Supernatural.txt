@@ -629,7 +629,7 @@ Unknown3: 0x00000000
    [270] 0xB63F9C4450BE819B: Goth
    [271] 0x5A7DFA7597A9ECC7: After having the house to themselves for a while, the Goth Ghosts are now living with a human in their house. Will the Goths be able to get accustomed to living with a human for the first time or will the inquisitive Helen Hall ask too many questions?
    [272] 0xFD030D14F4CD7065: Grimm
-   [273] 0xD45F1BEB39D7F9C1: Chauncey Grimm is a single guy with a passion for storytelling…especially tales of the supernatural. While he can’t prove it, he believes he must be a descendant of the famous Grimm brothers, the writers of many classic fairy tales. Chauncey has come to Moonlight Falls to carry on his family legacy. But will he just write stories or become the main character in his own supernatural story?
+   [273] 0xD45F1BEB39D7F9C1: Chauncey Grimm is a single guy with a passion for storytelling… especially tales of the supernatural. While he can’t prove it, he believes he must be a descendant of the famous Grimm brothers, the writers of many classic fairy tales. Chauncey has come to Moonlight Falls to carry on his family legacy. But will he just write stories or become the main character in his own supernatural story?
    [274] 0x007A3B328A895AA0: Hoppcraft
    [275] 0xFF3D3D11EB8A474E: Back where James Hoppcraft was from, people worked hard, respected one another, and didn’t turn into howling beasts when the moon was full. And that’s the way it should be everywhere. The Hoppcrafts are a traditional family that values traditional family values, period. Can the Hoppcrafts survive in such an outlandish town or will their values get the best of them?
    [276] 0x1B10AA4CA9A695F5: Ivy
@@ -667,7 +667,7 @@ Unknown3: 0x00000000
    [296] 0x12A31FE891CA0898: Alfred
    [297] 0x8F71A58BE76086C7: Alfred is a very charismatic and well behaved little guy whom Miriam and James believe is the envy of all the other parents on the block. He was much like other toddlers until he had a fateful encounter with the elder fairy, Flora Goodfellow, who was practicing some new spells. Flora intended to cast a spell on herself but it backfired and turned Alfred, who happened to be nearby, into a fairy. Too afraid to say anything, Flora kept it to herself but secretly watches from afar to see how the Hoppcrafts will take to their son’s glistening wings once he grows up. 
    [298] 0x45569A85898F83E0: Alice
-   [299] 0xBAAB4023FF811E1C: Alice has always had a reputation for being a bit of a dark mystery and considered too cool for school. Though she has no aspirations to become a supernatural, Alice is still quite fascinated with them and wants to know more about their intriguing lifestyle. Her big secret is that she’s a kleptomaniac, and she’ll pilfer an object or two and study it to gain more insight to the life of a supernatural. Only time will tell if Alice will steal everyone’s hearts…or just their stuff. 
+   [299] 0xBAAB4023FF811E1C: Alice has always had a reputation for being a bit of a dark mystery and considered too cool for school. Though she has no aspirations to become a supernatural, Alice is still quite fascinated with them and wants to know more about their intriguing lifestyle. Her big secret is that she’s a kleptomaniac, and she’ll pilfer an object or two and study it to gain more insight to the life of a supernatural. Only time will tell if Alice will steal everyone’s hearts… or just their stuff.
    [29A] 0x8CB516D7BD8C269B: Anjali
    [29B] 0xD1AB703B77AF79AA: Annalove
    [29C] 0xA4CE947D47BF028E: Annalove met Rainflower while he was on tour performing at environment-saving fund raisers. It was love at first sight for Annalove when she finally met someone who loved the environment as much as she does. Moonlight Falls is the perfect fit for her except for all those fake supernaturals, but Annalove is really into gathering and there are amazing things to be found all over town! There’s too much stuff to be found that maybe there’s an easier, less labor-intensive way to find hidden gems. Even if it comes at a small cost to the environment…
@@ -675,7 +675,7 @@ Unknown3: 0x00000000
    [29E] 0x5D81124AF5D942A2: The proud wife of Mike and mother of Mara, Annie loves her family and her whole life centers around taking care of them. A romantic at heart, it was love at first site when Mike asked her to dance and she knew someday they’d be happily married. Annie loves reading, whether it is for herself or to Mara, and is an especially big fan of the “Ask Joanie” column in the local newspaper, since she is still learning the ropes of being a great parent. There is nothing more rewarding to Annie than even the smallest of Mara’s accomplishments.
    [29F] 0xB1238143E273080F: Anthony
    [2A0] 0xE12C8685E1CD8600: Argus
-   [2A1] 0x018591CC98F3F172: Argus has always enjoyed roughing it in the outdoors and loves camping high up in the mountains. Formerly a tree-hugging, granola-eating human, Argus was out camping when he ran into a brood of vampires. He escaped…right into a pack of crazed werewolves who insisted he join them! Still coming to grips with being a Werewolf, Argus has had to quit working the night shift at the hospital – his howling was keeping the patients awake!
+   [2A1] 0x018591CC98F3F172: Argus has always enjoyed roughing it in the outdoors and loves camping high up in the mountains. Formerly a tree-hugging, granola-eating human, Argus was out camping when he ran into a brood of vampires. He escaped… right into a pack of crazed werewolves who insisted he join them! Still coming to grips with being a Werewolf, Argus has had to quit working the night shift at the hospital – his howling was keeping the patients awake!
    [2A2] 0x0066007280F1AEAA: Ashley
    [2A3] 0x70E2CEA84F899988: Aubrey
    [2A4] 0xA39F7B85BEAE0447: Ayden
@@ -865,7 +865,7 @@ Unknown3: 0x00000000
    [35C] 0xA766DAA04A295185: Rachel
    [35D] 0xBD795D3D3D993212: Rain
    [35E] 0x26D32CA59D000C17: Rainflower
-   [35F] 0x9A58C5F901C3493B: Rainflower believes in protecting the environment and pursued a career in music so that he could use his tunes to soothe and heal. He struggled for many years to get his music career off the ground, and now that he has money, he can finally provide for the family as he’d like and be conscious of his impact on the environment, just like he teaches his kids. Though that new SUV to carry his gear looks quite tempting, Rainflower has resisted the urge to give into temptation…for now…
+   [35F] 0x9A58C5F901C3493B: Rainflower believes in protecting the environment and pursued a career in music so that he could use his tunes to soothe and heal. He struggled for many years to get his music career off the ground, and now that he has money, he can finally provide for the family as he’d like and be conscious of his impact on the environment, just like he teaches his kids. Though that new SUV to carry his gear looks quite tempting, Rainflower has resisted the urge to give into temptation… for now…
    [360] 0x4E0844240A256D97: Raj
    [361] 0xC19AA64BAAD3D95B: Renaldo
    [362] 0xBD5E373D3D822A59: Rick

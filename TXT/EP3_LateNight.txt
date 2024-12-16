@@ -91,7 +91,7 @@ Unknown3: 0x00000000
    [056] 0x044B8DFA7797AFCC: When you choose the Sustainable Ultra-Post-Modern Door, you are showing the world that you prefer function over form AND you care about the environment. Give Mother Earth a hug every time you open the door!
    [057] 0x53BFAA54306B3941: With a name like Tropix Breez you know you’re buying authentic imported doors. It’s a little piece of the Caribbean in your own home, and practical to boot! Open enough to allow a breeze and private enough to maintain an air of intimacy, this door does it all.
    [058] 0x59F76F82D8305DFA: When you're on the A-List, you're constantly bombarded with gifts from up-and-coming designers trying to impress you with their next great piece of clothing. If this statement describes your life, then you need to own Dresser of Holding! Creak open the doors to access a pocket dimension that allows you nearly endless space to throw all those gifts.
-   [059] 0xA706141AFDC28134: You wish you had more cow bell…now you can! The Marvin Beats Drum Kit will let you create great music with the right percussions, drums, and Cow Bell!
+   [059] 0xA706141AFDC28134: You wish you had more cow bell… now you can! The Marvin Beats Drum Kit will let you create great music with the right percussions, drums, and Cow Bell!
    [05A] 0x4F8D593B293442F7: The professional-grade Party FX Machine 5950 is a revolutionary device that lets you unleash a hurricane of special effects in any location. Just press the "Insta-Party" button to turn on the machine and watch the party unfold!
    [05B] 0x9C1CC71DA092C50B: The Deco Elevator was designed with design in mind! Passengers will not only arrive at their destination, but they’ll arrive in style–regardless of any personal stylistic shortcomings.
    [05C] 0xFFAE4E0A6E6B3998: Use an Elevator Shaft to connect multiple floors without the need for an elevator stop. Most often used on the thirteenth floor.
@@ -113,7 +113,7 @@ Unknown3: 0x00000000
    [06C] 0xA21E78A3B64EC510: Zeigler Exclusive, the finest name in kitchen furnishings, brings the secrets of world-class baristas into your own home with the Elitissimo At-Home Barista! The gleaming reservoir heats water to the perfect temperature without the danger of scalding yourself… well, at least until the beverage is in the cup. Finally, a classy way to get your two steamy hot beverages today (as recommended by the International Mug Makers Association).
    [06D] 0xB9145A9C3C48925D: Evoking feelings of tranquility and relaxation, the soothing surroundings will ease worried minds while the aches of the body will vanish mere moments after total immersion into the steamy depths. This tranquil tub is designed for Sims with discerning aesthetic tastes and features a pleasing combination of natural tones accented with real stone. Embrace inner peace with a refreshing dip in The Serenity.
    [06E] 0x4AEC20916B144188: This the hot tub basin. It is the bottom of the Hot Tub.
-   [06F] 0x18FBB0855BC3EF82: Part hot spring, part jungle pool, this hot tub is the ultimate in luxury for discerning Sims the world over. We invite you to experience heightened levels of relaxation brought about by the swirling warm waters. Let the multitudes of bubbles gently massage your skin. Sit back, relax, and listen to the serenade of the waterfall. The Majestic Grotto…it's like nature, only better.
+   [06F] 0x18FBB0855BC3EF82: Part hot spring, part jungle pool, this hot tub is the ultimate in luxury for discerning Sims the world over. We invite you to experience heightened levels of relaxation brought about by the swirling warm waters. Let the multitudes of bubbles gently massage your skin. Sit back, relax, and listen to the serenade of the waterfall. The Majestic Grotto… it’s like nature, only better.
    [070] 0x29224B6D3C28BDB1: Sink slowly into the sizzling depths and encounter relaxation unlike anything you have experienced before. Be soothed by the murmur of the bubbling jets. Discover true bliss as your aches and pains melt away into the watery depths. Enhance romance by inviting that special someone to enjoy a relaxing dip in the whirling waters. The Maelstrom, experience it today.
    [071] 0xE991CA49780B924C: This the hot tub basin. It is the bottom of the Hot Tub.
    [072] 0xB7B128411946FB24: Celebrate the humble light bulb by planting this funky light on your ceiling. As time goes by, your affection for this unassuming lamp will continue to grow.
@@ -156,7 +156,7 @@ Unknown3: 0x00000000
    [097] 0x9A3D0F927BFAADE2: Dubbed the “Sweetheart of ‘42,” servicemen stationed all over the world tucked pictures of Bette in their wallets and painted her visage on the sides of heavy bombers. This blast from the past adds a touch of retro va-va-va-voom to any décor.
    [098] 0xA72B880A9252DE6C: This masterpiece by the artist Christopho has been heralded as the pinnacle of the "Urbanomorphic Abstractionism" movement. The artist describes the piece as "deconstructing the crisis of a man living in the modern world through a representation of the space between a subway platform and the rails."
    [099] 0x82B986B1DB946A7A: Donated to the city by Normal Goode, this butterfly pavilion is worth the cost of admission.
-   [09A] 0xA3F6E5B29637C1FE: This modern pedestal is a feast for the eyes and lends an air of opulence to any room it graces. Stand close, closer…no, closer still! Violate your personal space to truly appreciate the splendor of geometry’s second love, the cube. You could perch an item atop it, but the question is, would you really want to?
+   [09A] 0xA3F6E5B29637C1FE: This modern pedestal is a feast for the eyes and lends an air of opulence to any room it graces. Stand close, closer… no, closer still! Violate your personal space to truly appreciate the splendor of geometry’s second love, the cube. You could perch an item atop it, but the question is, would you really want to?
    [09B] 0x054302B9BA048071: Description pedestalTableCelebOval
    [09C] 0x7BFA0F3F4A843C55: Hammer on those steel string keys! Wow your friends with the most garish instrument you can buy! Sure to impress all those who see it, the Schnadahupfl Virtuoso Grand Piano is an elegant instrument for tickling the ivories.
    [09D] 0x124D9926A24CC762: Can’t afford the Grand Piano? Start with a Prudence Pennypincher's Portable Piano and work your way up. Play at venues and community lots to earn tips.
@@ -265,7 +265,7 @@ Unknown3: 0x00000000
    [104] 0xC89A73CB9DF22638: Bridge Ramp Retaining Wall
    [105] 0x6D3466DC6C3F1711: Built by the late Ebenezer Alto at the turn of the century, these buildings still retain a sense of his commitment to hard work and old fashioned values.
    [106] 0x01424D01DA415C33: High rise living will never be the same when you install the Drop Look Chute! You'll enjoy the convenience of easy trash disposal combined with a sleek industrial design. Take a peek down the chute and enjoy watching gravity in action as your trash falls to the bottom.
-   [107] 0xE2A36239291721EF: Before unveiling his creations to the world, famed window designer Xavier X. Xylander always shows his latest window designs to his brother Xander, a world-renowned surfer. When Xander saw his brother's latest creation, he exclaimed, "Dude, that window is so awesome…it's sawesome!"
+   [107] 0xE2A36239291721EF: Before unveiling his creations to the world, famed window designer Xavier X. Xylander always shows his latest window designs to his brother Xander, a world-renowned surfer. When Xander saw his brother’s latest creation, he exclaimed, “Dude, that window is so awesome… it’s sawesome!”
    [108] 0x011E865AC0F92667: Enjoy all the beauty nature has to offer with the Window to the World! You can practically smell the fresh air as you take in a panoramic view of outdoors while sitting on your couch. Note: Creatures of the night will loathe this window.
    [109] 0x116AE00B564CEC9B: Some windows are just waiting to be shattered in a dramatic fashion. You'll have a tough time deciding your favorite way to destroy the Bustable Window. Throw someone through it in a barroom brawl? Encourage the neighborhood ne'er-do-wells to throw a baseball through it? The possibilities are endless!
    [10A] 0x4191E9552A736A1A: The latest in Delinquent Restriction Management, this controversial window went through a rise and fall in popularity amongst venue owners looking to protect their establishment while filtering in natural light. Now viewed as an antiquated relic of security, support for the SecuWIN has largely been dropped in favor of even stronger measures.
@@ -656,7 +656,7 @@ Unknown3: 0x00000000
    [28B] 0x1B9F44D1A5EADEA8: If you are searching for a five car garage with panoramic views, your search ends here. Perhaps built with more cash than class, the door bell goes “bling.”
    [28C] 0xAE9481302007CF44: Named when they had an ocean view, these apartments are moderately priced and convenient to downtown, the civic center and the stadium, but there are no ocean views.
    [28D] 0x9677F7285333262A: For some reason single male Sims seem especially attracted to this building. Perhaps it is the partially covered sports-car parking?
-   [28E] 0xF38880559C3C1A78: Spared from demolition during the construction of the new stadium, Bridgeport Arms still boasts large apartments and partial views in a quiet neighborhood…except for when there is a game.
+   [28E] 0xF38880559C3C1A78: Spared from demolition during the construction of the new stadium, Bridgeport Arms still boasts large apartments and partial views in a quiet neighborhood… except for when there is a game.
    [28F] 0xF43FFAC01BF9D4E4: This Egyptian Deco building is adjacent to downtown nightlife and boasts some odd shaped landscaping. Perhaps a Sim who has traveled to Egypt would have the answer?
    [290] 0x075C505A49958931: Just a bit too far out of the city to ever be really in style, Glenview manor caters to a reliable middle class city dweller who just can’t seem to give up and move to the suburbs.
    [291] 0x69C974E3FFE7DCE6: Built by the Zodiac Group to provide luxury housing to Bridgeport, One Leo Center is considered a premier location in the city.
@@ -1180,7 +1180,7 @@ Unknown3: 0x00000000
    [497] 0xED0DAE193D71A4C2: Read "Looking Into the Camera: Don't Do It" and return to work.
    [498] 0xB6A2BB191DED1F2C: Starting Out
    [499] 0xA301D84F4DBADF08: Read Film Book.
-   [49A] 0xA3EBF0699AC654A8: Armed with new knowledge, you're ready to impress the best directors in the biz…or at least avoid their wrath.
+   [49A] 0xA3EBF0699AC654A8: Armed with new knowledge, you’re ready to impress the best directors in the biz… or at least avoid their wrath.
    [49B] 0x7BCA103190AC75FC: A storyboard artist needs to be able to translate the director's vision onto paper. This is no small task, especially when you are dealing with a self-proclaimed "visionary." Your boss thinks that reading "Panel by Panel: The Art of Storyboarding" will really help you out.
    [49C] 0xBA5F9BBAE51012F5: Read "Panel by Panel: The Art of Storyboarding" and return to work.
    [49D] 0xCBCCEEBAEEF5C2F3: Storyboards by the Book
@@ -1259,7 +1259,7 @@ Unknown3: 0x00000000
    [4E6] 0x4CFE8A892EA06ED8: "Cameo in Film" at {OpTarget}.
    [4E7] 0x3E1D378926E443B2: Surprise Cameo
    [4E8] 0x858B231C7C98B912: Cameo in Film.
-   [4E9] 0xE335876116B2D474: "That was incredible! There were so many delicate flavors to savor…did I detect a note of apple in there? I am telling all my friends about you. Thanks again!"
+   [4E9] 0xE335876116B2D474: “That was incredible! There were so many delicate flavors to savor… did I detect a note of apple in there? I am telling all my friends about you. Thanks again!”
    [4EA] 0x052F0C6CA1F3F860: "Mmmph… GULP… Oh, excuse me! I was just finishing my meal. This is {OpOwner}, right? I've heard you make some delicious dishes, and, as you can tell, I'm a fan of food. Why don't you bring me a sample of your work? I have a lot of important friends and I'd be happy to spread the word if you're any good. Oh, name's {OpTarget}, by the way."
    [4EB] 0x892301021D01E0F9: "Deliver" a meal of {OpItemQuality} quality or better to {OpTarget}.
    [4EC] 0x535BEC01FE0935CF: Memorable Meals
@@ -1289,7 +1289,7 @@ Unknown3: 0x00000000
    [504] 0xE8B0FCE3A83E9130: "Entertain Sick Kids" at {OpTarget}.
    [505] 0xD69FA9E39DCCCCBA: Make-A-Dream
    [506] 0x474D7B3F00D7DFEA: Entertain Sick Kids.
-   [507] 0x7568EF60898E8B66: Mmm…cool and refreshing. One of the many perks of being famous…people will pay YOU to drink!
+   [507] 0x7568EF60898E8B66: Mmm… cool and refreshing. One of the many perks of being famous… people will pay YOU to drink!
    [508] 0x094F0A9E3201AA72: "Hey {OpOwner}! Your agent here. So, the owner of {OpTarget} has heard about how famous you are…took 'em long enough, am I right? Anyway, she'd love it if you could come down and order a drink at her bar. She thinks it'd really help her business. Oh, and she is willing to pay you for your time."
    [509] 0xF2AD75AB51FC3B87: Order a Drink at {OpTarget}.
    [50A] 0xE40240AB4A6DD3ED: Drink Promotion
@@ -1308,7 +1308,7 @@ Unknown3: 0x00000000
    [517] 0xC2F4A8D8C19A37B7: "Promote Restaurant" to {OpNumEventsGoal} Sims.
    [518] 0xB0E333D8B72839FD: Best Food in Town
    [519] 0x3EFE28B47C012D7D: Promote Restaurant to {OpNumEventsCurrent} / {OpNumEventsGoal} Sims.
-   [51A] 0xA6C9E0DEC133C593: It was quite the event! A star celebrity presenting a giant check to the town's school. However, the students were…well…less than excited about having the Llama Herding program extended.
+   [51A] 0xA6C9E0DEC133C593: It was quite the event! A star celebrity presenting a giant check to the town’s school. However, the students were… well… less than excited about having the Llama Herding program extended.
    [51B] 0xFB84D5ABB64E8429: "Hey, {OpOwner}, it's your agent. I've got a little assignment for you. Your charity recently donated a large sum to {OpTarget} to save the school's Llama Herding program, and the superintendent wants you to present the comically oversized check to the students. Obviously, this isn't a paid gig, but it's a great photo op."
    [51C] 0xD3B9363D61115462: "Present Check" at {OpTarget}.
    [51D] 0xA0B5433D4471AACC: Save the Herding
@@ -1574,12 +1574,12 @@ Unknown3: 0x00000000
    [621] 0x0AA11CE346A79D8D: New Blood, New Drinks
    [622] 0x4345243808422E2D: {OpEventTimeCurrent} / {OpEventTimeGoal} Hours spent working at {OpTarget}.
    [623] 0x3C3454318010A670: {OpSourceFirstName} will be glad to see that {OpOwner} helped out enough to ease the workload. {OpOwner} should go check in with {MC.him}{FC.her}.
-   [624] 0xEC4F85EBD814E3F4: {OpSource} is tight with the management at {OpTarget} and thought that {OpOwner} might be interested in a mixology gig there. This lounge is supposed to be really high class, so the tips and pay should be well worth it…if {OpOwner} has the skill to make some serious drinks.
+   [624] 0xEC4F85EBD814E3F4: {OpSource} is tight with the management at {OpTarget} and thought that {OpOwner} might be interested in a mixology gig there. This lounge is supposed to be really high class, so the tips and pay should be well worth it… if {OpOwner} has the skill to make some serious drinks.
    [625] 0x13CB6FD5AF38374D: Moonlight as a Mixologist at {OpTarget} for {OpEventTimeGoal} Hours, then report to {OpSource} for the reward.
    [626] 0x25DCC2D5B9A9FBFB: Elite Mixology
    [627] 0xDF213BF2B8F15867: {OpEventTimeCurrent} / {OpEventTimeGoal} Hours spent working at {OpTarget}.
    [628] 0x59CE8E3A156A9D08: "Well played. Management was pleased with the overall performance and I got a bit of a finder's fee. Here's a portion as thanks for not making me look bad."
-   [629] 0x337666A35B8E50DC: {OpTarget} is tight with the management at {OpSourceVenue} and thought that {OpOwner} might be interested in a mixology gig there. This lounge is supposed to be really high class, so the tips and pay should be well worth it…if {OpOwner} has the skill to make some serious drinks.
+   [629] 0x337666A35B8E50DC: {OpTarget} is tight with the management at {OpSourceVenue} and thought that {OpOwner} might be interested in a mixology gig there. This lounge is supposed to be really high class, so the tips and pay should be well worth it… if {OpOwner} has the skill to make some serious drinks.
    [62A] 0x248A13B1F86F4255: Moonlight as a Mixologist at {OpSourceVenue} for {OpEventTimeGoal} Hours, then report to {OpTarget} for the reward.
    [62B] 0x35F866B20256A553: Elite Mixology
    [62C] 0x1D3DE544C18D174F: Report to {OpTarget}.

@@ -848,7 +848,7 @@ Unknown3: 0x00000000
    [34B] 0x3069ABC47721D54D: Leandro hates to be idle and is always trying to stay busy.
    [34C] 0x672F4D041FD5210E: Liliana is a difficult child and is bound to grow into a spoiled teenager.
    [34D] 0xCEE0E4F340E19225: Lincoln trained his daughter, Honey, to follow in his footsteps.
-   [34E] 0xA44992554509D0AC: Linda doesn't share her husband's passion for the sea, and quite frankly she's tired of dusting his bits of driftwood and shells that clutter the family houseboat. She yearns for a stable life…on land. 
+   [34E] 0xA44992554509D0AC: Linda doesn’t share her husband’s passion for the sea, and quite frankly she’s tired of dusting his bits of driftwood and shells that clutter the family houseboat. She yearns for a stable life… on land.
    [34F] 0x2A1393D20ED1558F: Lopita loves showing off her wealth and is rumored to have married her husband for his money.
    [350] 0x7F53E6FCAA3654B8: Lora loves reading above all other hobbies.
    [351] 0x37B8BD6CD0EF2776: Margarita has two children who have long since moved away.
@@ -868,7 +868,7 @@ Unknown3: 0x00000000
    [35F] 0x9D3AED8AD068470A: Rajan has a winning personality and a winning body. 
    [360] 0xDA1D7E6C47159900: Rei prefers to stay out of the sun and read a good book.
    [361] 0x082C8CE2F500E109: Rosemarie is dedicated to her family and hopes to have many, many children. 
-   [362] 0xEFE2A58A6E322962: Ruben loves his family, fishing, and the open sea…in that order.
+   [362] 0xEFE2A58A6E322962: Ruben loves his family, fishing, and the open sea… in that order.
    [363] 0x48B7484685A4EBF0: Rubisel is an expert scuba diver who once saw a mermaid…
    [364] 0xD5427C90A7349061: Salty is evil. He loves sharks.
    [365] 0xBCC1FAFCCD3B35B1: Sean loves to cook, clean, and play guitar.
@@ -888,7 +888,7 @@ Unknown3: 0x00000000
    [373] 0xBA502821F912CBDA: Babes on the Beach
    [374] 0x01BC70BD05274BF0: Three young women looking for love and good times on the beach! Hinni, Karlie, and Rei have come to the islands to catch some sun and enjoy some R&R, but Karlie is falling hard for both scuba diving and the islands many bachelors… Vacations are meant to be temporary, but maybe she should stay for good?
    [375] 0x8E391AFFD0398EB1: The Scientist
-   [376] 0xCB90BA2EE984960D: Brilliant, genius, loner…Javiera prefers to live alone from other Sims so that she can pursue her experiments in a controlled environment. She has wide eyes that twinkle (with a touch of madness?) and a passion for experiments of all sorts.
+   [376] 0xCB90BA2EE984960D: Brilliant, genius, loner… Javiera prefers to live alone from other Sims so that she can pursue her experiments in a controlled environment. She has wide eyes that twinkle (with a touch of madness?), and a passion for experiments of all sorts.
    [377] 0x1A3221D46C57B583: Collins
    [378] 0xBA20001E9E80541F: Christopher and Rosemarie are dedicated to their growing family, but three kids and another on the way, oh my!
    [379] 0x907249338B49DB8C: Dregg
@@ -899,7 +899,7 @@ Unknown3: 0x00000000
    [37E] 0x6BAAEE329D83C4F8: Han
    [37F] 0x968FE59CC39743F6: Recent transplants to the islands the Han family have made friends, found jobs, and adjusted to island life… at least the adults have. Phillip and Michael are spoiled, stubborn, and miss their old home, will they ever adjust?
    [380] 0x7DDCABFF7EA9D9C0: Senorita Hernandez
-   [381] 0x9E527DC5B522F2EE: Florita left her lover after he lost everything to the Altos, and she soon started a steamy affair with Alfonso Alto himself…Florita has big dreams of wealth, prestige, and power, but will her wanton ways really net her all she desires?
+   [381] 0x9E527DC5B522F2EE: Florita left her lover after he lost everything to the Altos, and she soon started a steamy affair with Alfonso Alto himself… Florita has big dreams of wealth, prestige, and power, but will her wanton ways really net her all she desires?
    [382] 0x5FCCAC0BF493BBAC: Ichtaca
    [383] 0x81DDFAA90082B8BA: The Ichtaca family are descendants of ancient island royalty and take a great pride in their ancestry.
    [384] 0xA824D477B7E4B0CF: The Romantic
@@ -907,7 +907,7 @@ Unknown3: 0x00000000
    [386] 0xAD054CE603D6FED3: La Rosa
    [387] 0x3B84EE7D462EDA0F: Leandro and Lora worked hard and saved every Simoleon so they could have a fabulous retirement. Moving to the islands was their dream, but life in paradise costs more than they imagined. Will they find a way to make their budget work, or should they look at downsizing to a smaller place?
    [388] 0x2AFE05F252E1B778: Leroy
-   [389] 0x617BA1481025AF76: Antoine quit his high stress job and brought his family for an extended stay on the islands. They love the sun, the sand, and the surf, but their son Francois is afraid of the water…can his parents help him overcome this fear?
+   [389] 0x617BA1481025AF76: Antoine quit his high stress job and brought his family for an extended stay on the islands. They love the sun, the sand, and the surf, but their son Francois is afraid of the water… can his parents help him overcome this fear?
    [38A] 0x4F45A008BD802892: The Lone Artist
    [38B] 0x8444F53E209EA0D8: A successful artist in her youth, Margarita now finds herself alone, adrift in a world of vibrant color… Though her days are waning Margarita will be happy to spend her remaining time painting seascapes and sunrises.
    [38C] 0xFFB1F96F13152736: Lozano

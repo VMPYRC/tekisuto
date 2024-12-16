@@ -107,7 +107,7 @@ Unknown3: 0x00000000
    [066] 0x1EBE0FE3E09F70DA: This digital photo frame allows you to view all your pictures without ever having the need to develop them.
    [067] 0xC476918C6FAFAF30: This white Hydrangea is also commonly used to decorate gardens and other lush locations. It blends easily with other flowers and bushes to deliver that natural look.
    [068] 0xE6C9C1E1E29A7BB4: These cattails are often found in the wetlands habitats, in particular the swamp.
-   [069] 0x981B8ADA93A3AB4A: Travelers beware, for who knows what may lie in wait in the thickly tangled blades of grass. Treasure, fortune, or the physical embodiment of your greatest fears? As they say, it came from beneath the swamp…grass!
+   [069] 0x981B8ADA93A3AB4A: Travelers beware, for who knows what may lie in wait in the thickly tangled blades of grass. Treasure, fortune, or the physical embodiment of your greatest fears? As they say, it came from beneath the swamp… grass!
    [06A] 0x3588E7D870CDB44C: This large overgrown piles of brown grass is abundant in leaves that can make any child lost within them.
    [06B] 0xDAED274BE06928CE: This large overgrown piles of green grass is abundant in leaves that can make any child lost within them.
    [06C] 0x141642B379551B44: does not exist [Placeholder]
@@ -163,7 +163,7 @@ Unknown3: 0x00000000
    [09E] 0x3336616CAEB24829: It has often been said that really little things are really cute, no matter what it is. This miniature house is no exception.
    [09F] 0x5521DEBA7A60FDF4: Vaccinating children, running free health clinics, rushing to aide Sims in times of emergency – Doctors are truly heroes in every sense of the word. A Doctor’s job is never done, so use this Skeletal Endowment to aid the continuation of your work as you strive to better the lives of those in your community.
    [0A0] 0xA9E783C759263258: Only the bravest and most talented members of the fire department are gifted with this Golden Fire Hydrant. When you gaze upon this sculpture think of the Sims you have helped and the lives you have saved. You are truly a hero among heroes.
-   [0A1] 0x92AB976787C96870: It seems like only yesterday you were tracking your first spirit…my, how the time does fly! This special sculpture is only given to those who have demonstrated exemplary service in the field of Ghost Hunting. Thanks to you many restless spirits are now at rest, and the world is just a little bit less scary.
+   [0A1] 0x92AB976787C96870: It seems like only yesterday you were tracking your first spirit… my, how the time does fly! This special sculpture is only given to those who have demonstrated exemplary service in the field of Ghost Hunting. Thanks to you many restless spirits are now at rest, and the world is just a little bit less scary.
    [0A2] 0x959D500ADD3983A7: Exceptional deeds deserve a fantastic reward! Cherish this trophy as a symbol of your achievements.
    [0A3] 0x3F035074E28BC19D: This trophy is a symbol of your staggering achievements. Sims are happier, and your neighborhood is a better place because of you.
    [0A4] 0xA27B9F2182EFB772: You've cut, you've colored, you've demolished, you've refurnished, and you’ve reupholstered numerous times! You are at the height of your career as an Architectural Designer, there is nothing you can’t devour and remake to be better, brighter, more colorful! You’ve been awarded this tasteful sculpture as a symbol of your designing prowess.
@@ -737,7 +737,7 @@ Unknown3: 0x00000000
    [2DC] 0x64A192539391623B: 582 Bayou Gulch Drive
    [2DD] 0x6E23D0632785098B: 574 Bayou Gulch Drive
    [2DE] 0xB084CF482052FDF0: Ivy Hill Graveyard
-   [2DF] 0x94A9FEF4176625D2: Loft / 1 Bath - This open floor plan cottage with large decks and interior can be decorated any way you want…even artsy and eccentric!
+   [2DF] 0x94A9FEF4176625D2: Loft / 1 Bath - This open floor plan cottage with large decks and interior can be decorated any way you want… even artsy and eccentric!
    [2E0] 0x55E8E14EAFC6550F: 1BR / 1 Bath - Completely surrounded by decking that provides substantial outdoor living possibilities, this charming modern cottage has loads of appeal.
    [2E1] 0x6BCB51DFE2365039: 2BR / 3 Bath - A convenient central atrium that leads to a large second floor deck is the feature of this custom built waterside home. Imagine the compositions inspired by the rain on the tin roof!
    [2E2] 0x4CABF80B56DF0A87: 1BR / 1 Bath - With tall inflated ceilings and a separate studio space, this home can surely contain even the most ambitious artist’s work.
@@ -762,7 +762,7 @@ Unknown3: 0x00000000
    [2F5] 0xCE6E04D0B956C148: 7BR / 6 Bath - Although this might look like an apartment block, this single family house merges stately architecture with small town charm. Several generations can live in relative comfort in this house, or at least avoid each other for days at a time.
    [2F6] 0xC5182AF22E4E228A: 6BR / 3 Bath - Classic and elegant, this stately home is perfect for a large family with a total of 6 spacious bedrooms. The main living floor features a very large formal living room and duel flanking sunrooms.
    [2F7] 0x8DEAF50A541F44D6: 1BR / 2 Bath - This stately old summer palace has recently been remodeled to include a large pool and a modern floor plan suitable for the bachelor who likes to entertain in style. Some of the houses features are best left to be discovered on your own.
-   [2F8] 0xDDFBC598537D8135: 3BR / 3 Bath - The perfect house to film a 50s sitcom in, this practical and spacious home is ideal for a nuclear family…or at least a family of the nuclear age.
+   [2F8] 0xDDFBC598537D8135: 3BR / 3 Bath - The perfect house to film a 50s sitcom in, this practical and spacious home is ideal for a nuclear family… or at least a family of the nuclear age.
    [2F9] 0x60BC8049586D3DDB: 2BR / 2 Bath - This elegant older home is now made environmentally friendly with dual porches for cooling, vegetable garden, integrated recycling, and no room for a car. We’re sure it can nurture both a family and the planet.
    [2FA] 0xF04536793811741B: 2BR / 2 Bath - This ranch style house has been updated to include a large airy great room perfect for a family, or a single Sim on the prowl.
    [2FB] 0x450B946AA722AAC7: 1BR / 2 Bath - This quaint cottage on a well maintained garden lot represents a blend of craftsman and neo-classical architecture. Built on a solid foundation, we feel it can last an eternity… and then some.
@@ -1045,7 +1045,7 @@ Unknown3: 0x00000000
    [410] 0x5E467C5C29A3A4F7: Are personality disorders inherited? Dennis slipped up and gave an inch. The old man took a mile. Now the corrupt old frauds just take, fake and foil. "Walking defect" Bill skims off the top while the teens beg for attention in neglected obscurity. How long can the sanity assault continue? Will Silver's hijacked years and stolen looks ever know the bitter-sweet taste of revenge? Little Lolly may be this line's only hope of redemption.
    [411] 0x60AAE3DD167913FB: Murder… Mystery… Suspense! Anna-Liza is a master of these classic literary devices… But how did she get so good at writing such ominous fiction? The well-liked Ms. Riddle has a taste for all things mortal, morbid, and morose… but these are just thoughts in her head.
    [412] 0xA19A61FE4B05E26E: High speed chases, encounters with notorious criminals, and dangerous missions are all in a day’s work for this crime investigating duo. With their combined skills in the military and civilian law enforcement agencies, there is never a dull moment for Bobby and Scout as they combine their knowledge to combat cruel injustices. But will they be enough to save the world?
-   [413] 0x6268034A49196144: The Whelohff’s seem to have it all. A big shiny house, nice car, and great careers…many people in the neighborhood aspire to be just like them. But with Rich’s late nights at the lab and Rosy’s social life to keep up, will anyone be there to raise the cute and charming little Zo?
+   [413] 0x6268034A49196144: The Whelohff’s seem to have it all. A big shiny house, nice car, and great careers… many people in the neighborhood aspire to be just like them. But with Rich’s late nights at the lab and Rosy’s social life to keep up, will anyone be there to raise the cute and charming little Zo?
    [414] 0xDCCB0D9A216AFED1: Many rock stars hit their peak without ever knowing it and continue a downward spiral of a career into their twilight years. DeAndre Wolfe has come a long way since his childhood in the bayou of Simisouri, but is he at his peak? That’s hard to tell. Will his star shine on, or burn out?
    [415] 0x3925070495A8A20D: Abel
    [416] 0x83D9C32416997304: Al
@@ -1444,7 +1444,7 @@ Unknown3: 0x00000000
    [59F] 0x782061207E5D871F: "Question" {OpTarget}
    [5A0] 0x65D82C2073BCB3F5: The Case of the One Bad Apple
    [5A1] 0x8037878B16C32A85: Question {OpTarget}
-   [5A2] 0x1EFDF0356B7CB4C9: You know things are bad when criminals are being had by other criminals. According to this crook there was a hit supposed to go down on the box of fruits…but somebody else got there first. This one's got nothing to offer me, so I should ask around town for information.
+   [5A2] 0x1EFDF0356B7CB4C9: You know things are bad when criminals are being had by other criminals. According to this crook there was a hit supposed to go down on the box of fruits… but somebody else got there first. This one’s got nothing to offer me, so I should ask around town for information.
    [5A3] 0xA1AB710328690D82: "Gather Information" from {OpNumEventsGoal} Sims
    [5A4] 0x6EA77E030BC964EC: The Case of the One Bad Apple
    [5A5] 0x820A0FC1CF1A23C8: Question {OpNumEventsCurrent}/{OpNumEventsGoal} Sims
@@ -1490,7 +1490,7 @@ Unknown3: 0x00000000
    [5CD] 0xC9AB0BCC0824642B: "Report Findings" to {OpTarget}
    [5CE] 0x0014FECC27A736A9: The Bad Call
    [5CF] 0xD126FA47BF975499: Report Findings
-   [5D0] 0xFCE68CDDE000B67D: {OpTarget} thinks there was a bit of fraud during the last election…just enough to keep {OpTargetFirstName} from winning the election. My first stop on this case should be {OpTarget} to ask questions.
+   [5D0] 0xFCE68CDDE000B67D: {OpTarget} thinks there was a bit of fraud during the last election… just enough to keep {OpTargetFirstName} from winning the election. My first stop on this case should be {OpTarget} to ask questions.
    [5D1] 0x80744B638D51A7F6: "Interview" {OpTarget}
    [5D2] 0x9285A06397C36F28: Ballot Buffoonery
    [5D3] 0x7D9C14C36D380DE4: Interview {OpTarget}
@@ -1502,7 +1502,7 @@ Unknown3: 0x00000000
    [5D9] 0x67A591764CA7CAC8: "Check Voter Rolls" at City Hall
    [5DA] 0x555E3E7642087682: Ballot Buffoonery
    [5DB] 0xA944B85B8971B142: Visit City Hall
-   [5DC] 0xBCDE36B41F403568: Odd…I don't recognize most of the names on this list. Of course, all of these mystery names voted for {OpSource}'s opponent…the victor. I have seen one of these names before -- in an obituary. I should snoop for clues at the graveyard.
+   [5DC] 0xBCDE36B41F403568: Odd… I don’t recognize most of the names on this list. Of course, all of these mystery names voted for {OpSource}’s opponent… the victor. I have seen one of these names before -- in an obituary. I should snoop for clues at the graveyard.
    [5DD] 0x56EE3F4B224B0FA1: "Snoop for Clues" at Graveyard
    [5DE] 0x215D4A4B03802AA7: Ballot Buffoonery
    [5DF] 0x0406CC8BABE9D073: Snoop for Clues
@@ -1787,7 +1787,7 @@ Unknown3: 0x00000000
    [6F6] 0xA575AA6BA0D5D5B0: "Ask About Wallet" to {OpNumEventsGoal} Sims
    [6F7] 0x9364576B9664113A: The Case of the Missing Billfold
    [6F8] 0x088D0C261353AC6A: Question {OpNumEventsCurrent}/{OpNumEventsGoal} Sims
-   [6F9] 0x0614001193BF17F0: {OpTarget} claims to know something about the wallet, but won't reveal any information. I've seen this before. I'll either need to befriend {OpTarget} and be convincing enough…or use a bribe.
+   [6F9] 0x0614001193BF17F0: {OpTarget} claims to know something about the wallet, but won’t reveal any information. I’ve seen this before. I’ll either need to befriend {OpTarget} and be convincing enough… or use a bribe.
    [6FA] 0x952B584076D5ECC9: "Convince" {OpTarget} to give up wallet
    [6FB] 0x61F083405A0733BF: The Case of the Missing Billfold
    [6FC] 0x11C604B64FEE139B: Convince {OpTarget}
@@ -1831,7 +1831,7 @@ Unknown3: 0x00000000
    [722] 0xEC3D96CA168D7620: The Case of the Unsure Heart
    [723] 0x2FD24DAF8930B32C: Hack Computer
    [724] 0xDAB4B4399D5C14DA: {OpTarget} took the news in stride, which is something I admire. He plans to keep working on the relationship and bring her over to his point of view. I sure hope this love story has a happy ending.
-   [725] 0xA41B7F8CB38F86EE: This is heart breaking. Thankfully, it's not my heart to break. {OpTargetFirstName}'s gal doesn't even mention him -- no pictures, no emails, no blog posts…it's as if she doesn't care. I should break the news to him so that he doesn't propose like a fool.
+   [725] 0xA41B7F8CB38F86EE: This is heartbreaking. Thankfully, it’s not my heart to break. {OpTargetFirstName}’s gal doesn’t even mention him -- no pictures, no emails, no blog posts… it’s as if she doesn't care. I should break the news to him so that he doesn't propose like a fool.
    [726] 0x222609A7C29B7A63: "Report In" to {OpTarget}
    [727] 0x57ED1CA7E19421F1: The Case of the Unsure Heart
    [728] 0x6ADD0196FB8EEA91: Report In
@@ -2005,7 +2005,7 @@ Unknown3: 0x00000000
    [7D0] 0xE120E0B43779820D: "Ask About Missing Sim" at Diner
    [7D1] 0xEFCC33B43F081DBB: The Mystery of the Missing Mate
    [7D2] 0x2257E6198916A127: Investigate Diner
-   [7D3] 0x4F5CF947614A3C77: Our missing Sim does work at the diner…most days. According to the manager, the Sim has been calling sick in order to attend auditions at the theater. It appears the missing Sim may just be a hopeful actor…which may be worse. I should search the theater.
+   [7D3] 0x4F5CF947614A3C77: Our missing Sim does work at the diner… most days. According to the manager, the Sim has been calling sick in order to attend auditions at the theater. It appears the missing Sim may just be a hopeful actor… which may be worse. I should search the theater.
    [7D4] 0x38114AA5E51A62FC: "Look for Missing Sim" at theater
    [7D5] 0x6A721FA6012F77CE: The Mystery of the Missing Mate
    [7D6] 0x6C30689A9A2BEB5E: Search Theater
@@ -2129,11 +2129,11 @@ Unknown3: 0x00000000
    [84C] 0x431D3C14BE67E6B2: "Snoop for Clues" at local Art Gallery
    [84D] 0x10F24914A2802E7C: The Great Clap Trap of an Art Heist
    [84E] 0xE1C07C1E403CC8B8: Snoop for Clues
-   [84F] 0xBE9343E1B7BDF87A: I’ve been around a workshop or two, but I’ve never seen a piece of Scrap metal like this before. It’s a unique piece of metal. I need to speak to an expert inventor about it…like {OpTarget}.
+   [84F] 0xBE9343E1B7BDF87A: I’ve been around a workshop or two, but I’ve never seen a piece of Scrap metal like this before. It’s a unique piece of metal. I need to speak to an expert inventor about it… like {OpTarget}.
    [850] 0xF0E62C30DBCDDD4F: "Discuss Suspicious Scraps" with {OpTarget}
    [851] 0xDF77B730D1E64005: The Great Clap Trap of an Art Heist
    [852] 0xBD6B1EDC730ABA35: Speak to {OpTarget}
-   [853] 0xCCC13DD4711B143B: It turns out that not only is this metal one-of-a-kind, but the inventor here held this same conversation with {OpSource} not too long ago. All the pieces have come together: the framing, the scientist's past, the robotic metal at the scene…I need to tell the cops about this.
+   [853] 0xCCC13DD4711B143B: It turns out that not only is this metal one-of-a-kind, but the inventor here held this same conversation with {OpSource} not too long ago. All the pieces have come together: the framing, the scientist’s past, the robotic metal at the scene… I need to tell the cops about this.
    [854] 0x96EEBE3F2B9A6190: "Explain Evidence" at the local Police Station
    [855] 0x88436B3F240BC61A: The Great Clap Trap of an Art Heist
    [856] 0x84A4EC0A4D729A4A: Explain Evidence
@@ -2316,7 +2316,7 @@ Unknown3: 0x00000000
    [907] 0x5AC4DD28EC6EA790: A Spook Story
    [908] 0x62F3710FD7F039BC: Confront {OpTarget}
    [909] 0x444F56DA0103ECE8: The grave digger was shocked, but ultimately not too bewildered. It seems folks see a lot of odd things in the grave digging industry. I'm sufficiently creeped out to take my payment and walk away. Case closed.
-   [90A] 0xEFB9A40EDA5B063C: The culprit fell apart like ashes scattered to the wind. Apparently, {OpSource} has been stealing gravestones and urns in hopes of finding a long lost love…in ghost form. {OpSource} agreed to return the stolen property. I should relay this to the grave digger at the mausoleum.
+   [90A] 0xEFB9A40EDA5B063C: The culprit fell apart like ashes scattered to the wind. Apparently, {OpSource} has been stealing gravestones and urns in hopes of finding a long lost love… in ghost form. {OpSource} agreed to return the stolen property. I should relay this to the grave digger at the mausoleum.
    [90B] 0x48A7DC58C568A035: "Report In" at the Mausoleum
    [90C] 0x5A162F58CF500333: A Spook Story
    [90D] 0x99402E6E7062E12F: Report In
@@ -2778,7 +2778,7 @@ Unknown3: 0x00000000
    [AD5] 0x992DA40EBDC08A0B: That book sounds familiar. I think I saw it at the public library. 
    [AD6] 0x992DA40EBDC08A08: No, I don't recall seeing a book by that description. It sounds like a compelling read though!
    [AD7] 0x992DA40EBDC08A09: I thought I read that book at the bookstore not too long ago.
-   [AD8] 0x89779EBCEF52A52C: Flamingo, flamingo, flamingo…no, I don't think I've seen one lately. Personally, I'd check near a body of water if I were you.
+   [AD8] 0x89779EBCEF52A52C: Flamingo, flamingo, flamingo… no, I don’t think I’ve seen one lately. Personally, I’d check near a body of water if I were you.
    [AD9] 0x89779EBCEF52A52F: Oh I just love flamingos! Beautiful birds, bright pink, great legs. What? No, I haven't seen one.
    [ADA] 0x89779EBCEF52A52E: I saw a flamingo at one of the ponds not long ago. One of the remote ponds, if I recall.
    [ADB] 0xFAD0245AC6109F69: Why would I care about a plastic lawn flamingo? Of course I don't know where it is.
@@ -2793,7 +2793,7 @@ Unknown3: 0x00000000
    [AE4] 0x8E397F399E4A7B20: I hate shoes and only wear them because I fear glass more. But {OpTarget} would know.
    [AE5] 0x8E397F399E4A7B21: {OpTarget} is a great stylist -- I'm sure you could get your questions answered there.
    [AE6] 0x38F1BBA2D6428A67: What is this, junior high? I have no clue about {OpTarget}'s love life. 
-   [AE7] 0x38F1BBA2D6428A64: I think {OpTarget} has a crush on anything with a pulse. So to answer your question…maybe?
+   [AE7] 0x38F1BBA2D6428A64: I think {OpTarget} has a crush on anything with a pulse. So to answer your question… maybe?
    [AE8] 0x38F1BBA2D6428A65: {OpTarget} may have a thing for {OpSource}. I've seen {OpTarget} bat eyes a few times, if you get my drift.
    [AE9] 0x9C29405C1DA66F76: I hear {OpTarget} has been looking for love, but don't quote me on that.
    [AEA] 0x9C29405C1DA66F75: A date? For {OpSource}? You must be joking.

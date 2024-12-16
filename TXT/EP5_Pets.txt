@@ -124,7 +124,7 @@ Unknown3: 0x00000000
    [077] 0x06F27967AA36DB2A: These are the remains of a plant that one of your pets ate.
    [078] 0x0443EF2897A70112: “Hay” is for horses. But “Hay” can also be for Sims looking for a little fun…
    [079] 0xCBBCE9BEC2D49D21: Store hay here.
-   [07A] 0x98F2D5B3AD8732C3: It’s a shack…for hay.
+   [07A] 0x98F2D5B3AD8732C3: It’s a shack… for hay.
    [07B] 0x0E389256901EFCA9: Strange creatures reside in the depths of hollow logs…
    [07C] 0xC865F9572E1A9CEC: How do you get a happy horse? Why purchase them a Horse Ball, of course! Horse balls are big and bright and round. Horse ball roll across ground!
    [07D] 0xFAB08A28FB3C52ED: It stinks!
@@ -241,7 +241,7 @@ Unknown3: 0x00000000
    [0EC] 0x48B227C4228C4378: Handcrafted to resemble some of Twinbrook’s finest residential architecture, give your pet the best in multi-level living with the Twinbrook Tandem!
    [0ED] 0xE14F65496571236F: Quick and easy way to clean your pet!
    [0EE] 0x0AB0A2A751E9BEA4: Sir Bricks-a-lot Jr, from the same folks that brought you Sir Bricks-a-lot. What could be more fun than a brick? Nothing! Sir Bricks-a-lot Jr, the cuddly wubbly brick for the whole family. Now with 50% more wubbly!
-   [0EF] 0x86123D0770D54050: Not long ago there lived a fish named Fred. Fred was a happy fish. One day while Fred was leisurely swimming along enjoying a sun bath, he found himself hit in the head by a Gonk Rock. And now Fred is dead, but the rock lives on…it lives on for you.
+   [0EF] 0x86123D0770D54050: Not long ago there lived a fish named Fred. Fred was a happy fish. One day while Fred was leisurely swimming along enjoying a sun bath, he found himself hit in the head by a Gonk Rock. And now Fred is dead, but the rock lives on… it lives on for you.
    [0F0] 0x68E8F98B2FE36428: A shiny ball of foil!
    [0F1] 0xFA31422F0C48F9B0: A discarded piece of paper.
    [0F2] 0xF470CDB7F2DE1606: A plastic cat toy.
@@ -303,7 +303,7 @@ Unknown3: 0x00000000
    [12A] 0x413B8D10189B4E6E: Only naturally growing inside of old gum trees, the Ranch Flower is a rare sight to be seen! Arranged tastefully to symbolize its natural habitat, this flower will surely impress any guests you have in your house.
    [12B] 0x5F21E82275C5B8DC: Sculpted in the likeness of Palomar, the once famous horse who became a member of parliament, this sculpture should serve as a reminder to all people of Simlandonia to never again elect a horse to a government position.
    [12C] 0xEAEC3567289CDBFB: Industrial strength rope powerful enough to stay a stallion, yet flexible enough to finesse a filly.
-   [12D] 0xF5D17898BFB2C98C: A bridle must be individually fitted to each horse’s unique head, and we here at Buntington believe that a comfortable horse is a happy horse! And what’s better than a happy horse? A stylish horse! Yes, our bridles are not only comfortable but attractive too! Bridles by Buntington…happening headgear for headstrong horses! 
+   [12D] 0xF5D17898BFB2C98C: A bridle must be individually fitted to each horse’s unique head, and we here at Buntington believe that a comfortable horse is a happy horse! And what’s better than a happy horse? A stylish horse! Yes, our bridles are not only comfortable but attractive too! Bridles by Buntington… happening headgear for headstrong horses!
    [12E] 0x1DB1D130E4D93194: 2-Shoe is the official symbol of the Bi-Legged Derby, known mostly for its clip-clip-jump style of racing. It has the side benefit of only requiring the horse to wear two shoes. Which, to the joy of many a blacksmith, has been attributed to a dramatic decrease in shoulder injuries.
    [12F] 0xAA8E66C87075A4E0: Gas prices have driven many an economical monstrosity to the top of the scrap heap. Among the heap risers, are the town cars of the great lone star state. Thousands of longhorn ornaments have been rescued from the maw of the crusher. Get yours now, before the bulls come calling!
    [130] 0x0629E4148623257E: Looking to complete that Tack-EE designed look in your house? Look no further than the Pet Plates! Honor your pets with these fine Tack-EE designs, because nothing screams Tack-EE louder than these plates!

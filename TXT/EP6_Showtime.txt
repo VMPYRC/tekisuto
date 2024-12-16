@@ -182,7 +182,7 @@ Unknown3: 0x00000000
    [0B1] 0xF24DE22FB67A9222: Gooder Public School: Giving parents a break for over fifty years!
    [0B2] 0xA9733C8B70E0896F: Vaughn Mazing evokes the age old exploration of evil in its various forms with his sculpture titled Three Evils. Sims worldwide have studied this work of art to try to determine which form is which evil, with no success. Can you tell?
    [0B3] 0x288E38EFDE87E547: Is your bad mood getting you down? Improve your spirits and décor with this ornamental Aloe plant! It sports a lovely rosette of succulent moisture filled leaves! But wait! If you buy one now, we will include, absolutely free of charge, the Aloe Thera sap, rumored to provide instant relief to irritated skin and bowels! (Unfortunately, it is impossible to extract.)
-   [0B4] 0x078155C1A7C1A587: In the same way some Sims are better at holding their juice than others, this cabinet can hold its juice like no other…literally! With a variety of perfectly-spaced shelves, display your bottles of vintage nectar and imported juice with pride.
+   [0B4] 0x078155C1A7C1A587: In the same way some Sims are better at holding their juice than others, this cabinet can hold its juice like no other… literally! With a variety of perfectly-spaced shelves, display your bottles of vintage nectar and imported juice with pride.
    [0B5] 0x6441A8698D9D7904: Have you ever seen ice on a mountain melt unevenly? Have you ever seen a misshapen candle poked full of holes? Have you ever seen musings given form? If not, simply view this masterpiece!
    [0B6] 0xF2A298389C514DAF: The Sansevieria Trifasciata is also commonly known as the Brazilian Snake Plant or La Espada De Santa Barbara. It is a hardy and highly ornamental plant suitable for growing indoors or in warm climates. This one comes in a handsome square bucket to contain its creeping rhizome.
    [0B7] 0x11C2D78A29C5FEE0: Can't decide between buying a Snake or a Plant? Why not get both in the new Brazilian Snake Plant Deluxe, with a stylish and durable planter from Trapezium! It includes specially engineered rhombus lattice that helps the plant absorb the nutrients from the exotic Patagonian soil.
@@ -306,7 +306,7 @@ Unknown3: 0x00000000
    [12D] 0x66A2DB8D0C8E1A90: Learning from previous mistakes, Om Nom Nom Inc. made this eclair scratch-proof, stain-proof, smear-proof, unmeltable, and completely inedible. 
    [12E] 0xA3493EE71C0B8E76: Old West Mercantile uses only the finest quality straw to make their decorative hay bales. But wait! It's also a fully functional coffee table! Crazy? Maybe! But some pigs have been known to construct entire houses out of this stuff!
    [12F] 0xC6CAA1368E77D27D: This table begins with curving legs inspired by famous rockets of Science Fiction, carved from high-quality wood. These legs support a hard glass top which can hold any dish a Sim can bake.
-   [130] 0x941FBCD0556C427C: This dining set by Glass Act is fit for a Viking feast…if Vikings were sophisticated highbrows with modern sensibilities! Perfect for hosting dinner parties, the tempered glass top makes for a clean, light setting while keeping under-the-table hanky-panky and clandestine shin-kicking to a minimum!
+   [130] 0x941FBCD0556C427C: This dining set by Glass Act is fit for a Viking feast… if Vikings were sophisticated highbrows with modern sensibilities! Perfect for hosting dinner parties, the tempered glass top makes for a clean, light setting while keeping under-the-table hanky-panky and clandestine shin-kicking to a minimum!
    [131] 0x0923BFC5D656A666: A cube within a cube with a twist, this table is definitely not for squares. This kookie table is nothing short of functional art. Be sure to pick up a matching chair so you have somewhere to sit while you eyeball its way-out design.
    [132] 0x7C18E7832D15FED9: The detailed construction of this table simply screams royalty. The delicate glass top makes this table the perfect spot to rest slippers, pumpkins, mice, or any other items that might be needed in a hurry. Though meant for a queen-to-be, this table is guaranteed to fit your house like a step-sister's slipper!
    [133] 0x4F88EBA44F99DD4B: Show off your good taste with a Gumdrop table top by Sugar Shack. Covered with a sparkly sugarcoated finish, you can almost feel it sticking to your teeth! No matter what kind of stuff you put on it, this confection-inspired table will look totally sweet in your house or on a stage!
@@ -1272,7 +1272,7 @@ Unknown3: 0x00000000
    [4F3] 0x33E758F5FCFB23EF: Showtime at the Coffeehouse
    [4F4] 0x01343A162B794A2B: Go to the Coffeehouse and audition for the Proprietor. Get a gig and complete it.
    [4F5] 0xA1D65302AE5F4751: Your live performance owned the stage and earned you some avid new fans!
-   [4F6] 0xBA01385E7F073CBF: You’re ready to move from Sing-A-Grams and performing for tips to taking center stage…on an actual stage! Audition at any of the Live Show Venues, and take your career to the next level.
+   [4F6] 0xBA01385E7F073CBF: You’re ready to move from Sing-A-Grams and performing for tips to taking center stage… on an actual stage! Audition at any of the Live Show Venues, and take your career to the next level.
    [4F7] 0x630DCD0AE367E8CF: This opportunity is no longer available.
    [4F8] 0x45CB33287CE4C2C4: Go to any of the Live Show Venues and audition for the Proprietor. Get a gig and complete it.
    [4F9] 0x7C3628289C694BE6: Showtime on Center Stage
@@ -1361,7 +1361,7 @@ Unknown3: 0x00000000
    [54C] 0x8320ABFC3BE5CA09: Go to the Military Base to complete this opportunity.
    [54D] 0x4FE6D6FC1F18C4FF: Salute to Singing
    [54E] 0xF85F945546F885DB: DNT
-   [54F] 0xAA195B0C7E629EAB: Graduation waits for no Sim…not even the star singer!
+   [54F] 0xAA195B0C7E629EAB: Graduation waits for no Sim… not even the star singer!
    [550] 0xD4BDDF140D6B5FD0: The world was watching as you nailed the Sims National Anthem! You’re a superstar!
    [551] 0x5C66AB2CBE2116D4: You've been invited to sing the Sim National Anthem at the big game! You'll get to perform in a packed stadium and a TV audience of millions!
    [552] 0xDE869E227CD98F18: Ah…you missed the big game and a chance to sing in front of billions! (OK, maybe it was just millions.)
@@ -1496,7 +1496,7 @@ Unknown3: 0x00000000
    [5D3] 0xB64CD6A6D2280F34: This opportunity is no longer available.
    [5D4] 0x9B01E131C17E7786: The Mayor got tired of waiting for you and, instead, learned to play the saxophone. Now he’s leading in the polls!
    [5D5] 0x67A8D88BBA56A777: Your mind-control work with the Mayor has really paid off. He lost the election, but now he’s found his true passion… as a Llama Whisperer.
-   [5D6] 0x407E8828889F3775: The Mayor is behind in the polls and needs some help to rally support. He’s so desperate, he’ll try anything…including hiring a magician to teach him mind control techniques. Visit City Hall, where you can use mind control to convince him that you’re worth the money!
+   [5D6] 0x407E8828889F3775: The Mayor is behind in the polls and needs some help to rally support. He’s so desperate, he’ll try anything… including hiring a magician to teach him mind control techniques. Visit City Hall, where you can use mind control to convince him that you’re worth the money!
    [5D7] 0x904F19430FA7528E: Go to City Hall to complete this opportunity.
    [5D8] 0xA2976E431A485D50: Mind Over Masses
    [5D9] 0xF6AFFF310D9D057C: DNT

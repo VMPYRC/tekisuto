@@ -1563,7 +1563,7 @@ Unknown3: 0x00000000
    [616] 0x90512571628BFFA0: Play Guitar
    [617] 0x63298023F8D694AC: Take your guitar to the {OpTarget} and play.
    [618] 0xEFF397CC77EDD6F2: That extra credit might come in handy at the end of the term!
-   [619] 0xBCF3E7C55E6656D6: You’ve gotten good enough with the Guitar…it’s time to command Simoleons as well as respect! Your professor offer extra credit for a good haul of Simoleons.
+   [619] 0xBCF3E7C55E6656D6: You’ve gotten good enough with the Guitar… it’s time to command Simoleons as well as respect! Your professor offers extra credit for a good haul of Simoleons.
    [61A] 0xE819BA2A9495C8AE: You didn’t receive extra credit.
    [61B] 0x0B37BC6A3E15396B: Bust out your guitar and play for tips at the {OpTarget}.
    [61C] 0x3E3BAF6A5AB4E2E9: Play Guitar for Tips

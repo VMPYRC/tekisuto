@@ -1367,7 +1367,7 @@ Unknown3: 0x00000000
    [0552] 0xE26002CEFF715272: The Al Simhara Historical Society has lost the ancient and precious {11.ObjectName} on an expedition in a tomb. The Society will pay a substantial reward to anyone who recovers the item and delivers it to {2.String}.
    [0553] 0xEAD892134085AEA1: The Al Simhara Historical Society has lost the ancient and precious {11.ObjectName} on an expedition in a tomb. The Society will pay a substantial reward to anyone who recovers the item and delivers it to {2.String}.
    [0554] 0x15A52B055A97B387: Enter the marked tomb, find {11.ObjectName}, and deliver it to {2.String} to earn some Simoleons and Ancient Coins.
-   [0555] 0x06F9F60553094BED: The Society’s Lost and…Found?
+   [0555] 0x06F9F60553094BED: The Society’s Lost and… Found?
    [0556] 0x019BC276F505578D: Find the {11.ObjectName}
    [0557] 0x226C2F6E14BC1A48: Find the {11.ObjectName}
    [0558] 0xFD2AB768B1E35B4B: “Oh that’s just swell! I’m so very scatterbrained. I feel that sometimes I’m just not cut out for this adventuring business. Look at me carrying on! Thank you so much for your help – I won’t forget it!”
@@ -1436,7 +1436,7 @@ Unknown3: 0x00000000
    [0597] 0xC593B2DDCFAEF3AC: “Place” the grapes into the Nectar Maker, “Squish” them, use the Nectar Maker, then collect them from it. Speak to {2.String} when finished.
    [0598] 0xF8CDC7DDEC7C661E: Creating Nectar
    [0599] 0xD49456209DE4812E: “Delicious! This Nectar tastes far better than the type and quality of the fruits within it might imply."
-   [059A] 0x0DB6D5EDA3BCAAAA: “Take this set of fruits, smash them in the Nectar Maker and make more Nectar. I guarantee you will be surprised by what emerges. Each unique combination of fruits has its own charm, and some will taste much better than you might expect…others, not so much. Go, make Nice or better quality Nectar and bring it back to me.”
+   [059A] 0x0DB6D5EDA3BCAAAA: “Take this set of fruits, smash them in the Nectar Maker and make more Nectar. I guarantee you will be surprised by what emerges. Each unique combination of fruits has its own charm, and some will taste much better than you might expect… others, not so much. Go, make Nice or better quality Nectar and bring it back to me.”
    [059B] 0x3C45CAE4ECD0EF3F: Use the provided fruits to create Nice or better quality Nectar by smashing the fruits and creating the Nectar. Bring the bottle to {2.String} when finished.
    [059C] 0xCCC8F8ACC95DEB4E: Use the provided fruits to create Nice or better quality Nectar by smashing the fruits and creating the Nectar. Bring the bottle to {2.String} when finished.
    [059D] 0x29FE95E4E231CE15: A Little Experimentation
@@ -1814,7 +1814,7 @@ Unknown3: 0x00000000
    [0711] 0x8EF9ACB55A917111: In Need of Grub
    [0712] 0x2B24C704DA0912B1: Deliver Food to {2.String}
    [0713] 0xFBF5D49BA4CB4E64: Deliver Food to {2.String}
-   [0714] 0xE551EC1C74A6F328: “Hmmm, this dish tastes…good…with your Nectar choice. Thanks for your help."
+   [0714] 0xE551EC1C74A6F328: “Hmmm, this dish tastes… good… with your Nectar choice. Thanks for your help.”
    [0715] 0x5E9FEF29A5D376FA: At last, {1.SimFirstName} found the keystone that should open the Dragon Cave in Shang Simla, China. {2.SimName} in China will know precisely what to do with the key.
    [0716] 0x4D8D7D562B3DF669: At last, {1.SimFirstName} found the keystone that should open the Dragon Cave in Shang Simla, China. {2.SimName} in China will know precisely what to do with the key.
    [0717] 0x976D11753578558E: “Oui! Look how it shines and glimmers. I have not yet decided what I shall do with the Opal, but that is not your concern. Now, you seek the keystone. The hidden vault is now unlocked for you at the Landgraab Château. Go there to find the keystone of James Vaughan.
@@ -2030,7 +2030,7 @@ Unknown3: 0x00000000
    [07E9] 0xF20D1B2589B7622F: “I am conducting research on the disappearance of Anastasia Necteaux. It is my belief that Admiral Landgraab I had something to do with her disappearance. I would like to investigate this further, but require assistance. Please come see me if willing and able to offer assistance!”
    [07EA] 0x7EC789C7740FD474: “Offer Assistance” to {2.String}
    [07EB] 0x74C4E60ACD7BDD77: “Offer Assistance” to {2.String}
-   [07EC] 0xB0F27EC78FF79076: Landgraab I…Kidnapper?
+   [07EC] 0xB0F27EC78FF79076: Landgraab I… Kidnapper?
    [07ED] 0x009DAF03CDFA4356: Offer Assistance
    [07EE] 0x018F61D26B48E3C1: Losing that journal wasn't a very good idea. Now {2.String} can't figure out what happened to Anastasia!
    [07EF] 0x537C5146FEB55074: Losing that journal wasn't a very good idea. Now {2.String} can't figure out what happened to Anastasia!
@@ -2064,7 +2064,7 @@ Unknown3: 0x00000000
    [080B] 0x364214383BE10BB0: Losing those documents was inadvisable. Now {2.String} can't figure out what happened to Anastasia!
    [080C] 0xF940CE2259783878: Deliver Documents to {2.String}
    [080D] 0x77EF3975DF307F33: Deliver Documents to {2.String}
-   [080E] 0xD94AEF3A57A8C131: “Excellent, I can finally open this journal. Let me see here…fascinating! It seems there was quite the ruckus many years ago. At one point some shady looking men dragged someone into the château. The famous James Vaughan went in to save the person who…yes, turned out to be Anastasia Necteaux.\n\nI found this key to the estate attached to one of the pages. Landgraab was the meticulous sort, which leads me to believe he kept notes on this incident. Head to the estate and see if you can find those notes. Be careful – Landgraab was paranoid. His whole house is filled with traps and security measures.”
+   [080E] 0xD94AEF3A57A8C131: “Excellent, I can finally open this journal. Let me see here… fascinating! It seems there was quite the ruckus many years ago. At one point some shady looking men dragged someone into the château. The famous James Vaughan went in to save the person who… yes, turned out to be Anastasia Necteaux.\n\nI found this key to the estate attached to one of the pages. Landgraab was the meticulous sort, which leads me to believe he kept notes on this incident. Head to the estate and see if you can find those notes. Be careful – Landgraab was paranoid. His whole house is filled with traps and security measures.”
    [080F] 0x17A51E4184E0FF6D: How careless!. Without the keystone, {1.SimFirstName} has no way to get into parts of the Landgraab estate!
    [0810] 0x51255D53C6FE6AE8: How careless!. Without the keystone, {1.SimFirstName} has no way to get into parts of the Landgraab estate!
    [0811] 0xE84275D959C2BC2A: Enter the Landgraab Château, find his Documents, and “Deliver Documents” to {2.String}.
@@ -2311,10 +2311,10 @@ Unknown3: 0x00000000
    [0902] 0x9A3352B59816AF55: “Proclaim Victory” to {2.SimName} to receive Ancient Coins and Simoleons.
    [0903] 0xFFEC0B80C0730EC0: The Demise of Dong Huo
    [0904] 0xD0636DE18704E8CC: Proclaim Victory
-   [0905] 0x7936090D36D10E41: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {2.String} is just so handsome…I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
-   [0906] 0x14E9DB36568EABF4: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {2.String} is just so handsome…I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
-   [0907] 0xC7DFA274253B3811: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {16.SimName} is just so handsome…I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
-   [0908] 0xE251189C2E11E484: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {16.SimName} is just so handsome…I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
+   [0905] 0x7936090D36D10E41: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {2.String} is just so handsome… I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
+   [0906] 0x14E9DB36568EABF4: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {2.String} is just so handsome… I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
+   [0907] 0xC7DFA274253B3811: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {16.SimName} is just so handsome… I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
+   [0908] 0xE251189C2E11E484: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {16.SimName} is just so handsome… I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
    [0909] 0x797EF9F6A094C58F: “I’m desperately in need of a date, but I’m too nervous to ask this guy, {2.SimName}, if he’ll go out with me. I'll pay anyone willing to do this for me.”
    [090A] 0xAD47B48A93ACE7DE: “I’m desperately in need of a date, but I’m too nervous to ask this guy, {2.SimName}, if he’ll go out with me. I'll pay anyone willing to do this for me.”
    [090B] 0x07884D12DCCBB19F: “I’m desperately in need of a date, but I’m too nervous to ask this guy, {16.SimName}, if he’ll go out with me. I'll pay anyone willing to do this for me.”
@@ -2324,10 +2324,10 @@ Unknown3: 0x00000000
    [090F] 0xB49BC430CC543FDE: Ask {16.SimName} on a Date for {2.SimName} to receive Simoleons.
    [0910] 0xECDDF8CA17043D56: I Need a Date
    [0911] 0x280A445652C27736: Ask on Date for Sim
-   [0912] 0x3A4D30923D71FE7A: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {2.String} is just so fetching…I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
-   [0913] 0x2929E9B91982E0E9: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {2.String} is just so fetching…I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
-   [0914] 0x8328027E68B3692C: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {16.SimName} is just so fetching…I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
-   [0915] 0x0C08D685434EC16F: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {16.SimName} is just so fetching…I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
+   [0912] 0x3A4D30923D71FE7A: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {2.String} is just so fetching… I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
+   [0913] 0x2929E9B91982E0E9: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {2.String} is just so fetching… I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
+   [0914] 0x8328027E68B3692C: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {16.SimName} is just so fetching… I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
+   [0915] 0x0C08D685434EC16F: “Thank you for having the courage to do what I couldn’t! I’ve been so lonely lately and {16.SimName} is just so fetching… I’m sure we’ll have a good time. Thanks to you, of course! Here’s your reward.”
    [0916] 0x7D5AB62ED7D8940E: “I’m desperately in need of a date, but I’m too nervous to ask this girl, {2.SimName}, if she’ll go out with me. I'll pay anyone willing to do this for me.”
    [0917] 0x5F0EB705AC3EFA85: “I’m desperately in need of a date, but I’m too nervous to ask this girl, {2.SimName}, if she’ll go out with me. I'll pay anyone willing to do this for me.”
    [0918] 0xD9B79F98C50393A8: “I’m desperately in need of a date, but I’m too nervous to ask this girl, {16.SimName}, if she’ll go out with me. I'll pay anyone willing to do this for me.”
@@ -2540,8 +2540,8 @@ Unknown3: 0x00000000
    [09E7] 0xFFE92EDCF50182C9: “Ask for Nectowhiz Chip” to {16.SimName}.
    [09E8] 0x9B783432B345C2D4: One more Component
    [09E9] 0xC4025C65BE23E060: Ask for Nectowhiz Chip
-   [09EA] 0x92BCF1C91C440496: “A nectowhiz…I never thought I’d actually have one. Most Nectar Makers don’t have them. They aren’t required, but they are very useful. This will help me become a top tier Nectar Maker. Thank you again!”
-   [09EB] 0xBB522185A3DFA50D: “A nectowhiz…I never thought I’d actually have one. Most Nectar Makers don’t have them. They aren’t required, but they are very useful. This will help me become a top tier Nectar Maker. Thank you again!”
+   [09EA] 0x92BCF1C91C440496: “A nectowhiz… I never thought I’d actually have one. Most Nectar Makers don’t have them. They aren’t required, but they are very useful. This will help me become a top tier Nectar Maker. Thank you again!”
+   [09EB] 0xBB522185A3DFA50D: “A nectowhiz… I never thought I’d actually have one. Most Nectar Makers don’t have them. They aren’t required, but they are very useful. This will help me become a top tier Nectar Maker. Thank you again!”
    [09EC] 0x9312E87E3B1F8842: “I can begin building my new Nectar machine with these materials immediately. However, it turns out I forgot this one crucial component for my Nectar Maker. Could you speak to {16.SimName} and convince {16.SimName} to give you a Nectowhiz Computer Chip for me? I’d really appreciate it."
    [09ED] 0x87392FA5FE9DBA71: “I can begin building my new Nectar machine with these materials immediately. However, it turns out I forgot this one crucial component for my Nectar Maker. Could you speak to {16.SimName} and convince {16.SimName} to give you a Nectowhiz Computer Chip for me? I’d really appreciate it."
    [09EE] 0x27C92C0CE9B77DC2: EP1_Quest_NectarParts3Failure
@@ -3041,7 +3041,7 @@ Unknown3: 0x00000000
    [0BDC] 0xD2D49553EB54BF3F: Find the writings of Qin Shan Hu and “Deliver” them to {2.SimName} to earn Ancient Coins.
    [0BDD] 0x02BFD9CA4F22B94E: The Writings of Qin Shan Hu
    [0BDE] 0xD73967C6F48E04DE: Enter the Tomb
-   [0BDF] 0x6B742A3720FD01F2: "How odd! Grapes…here…inside a museum? That just doesn’t make sense, even in Champs Les Sims! The local Nectarologist would know more about these grapes and where they come from."
+   [0BDF] 0x6B742A3720FD01F2: “How odd! Grapes… here… inside a museum? That just doesn’t make sense, even in Champs Les Sims! The local Nectarologist would know more about these grapes and where they come from.”
    [0BE0] 0xA797B302A32C67D6: “Help! Some nefarious, uncultured villain of diabolical proportions has removed the precious “Vive Le Bleu” painting from the museum! Please report any information to {16.SimName}! Anyone with information leading to the recovery of the painting will be rewarded handsomely.”
    [0BE1] 0xC46D07FEB3B5BC6B: Visit the museum and gather any evidence, particularly things that seem out of place.
    [0BE2] 0xF770FAFED05565E9: A Cry for Help
@@ -3071,7 +3071,7 @@ Unknown3: 0x00000000
    [0BFA] 0x787E701DE59AE35F: Find the Key to the Abandoned Nectary.
    [0BFB] 0x699D3B1DDDDEEB35: The Key to the Mystery
    [0BFC] 0xEF1750ACBA6939C5: Find the Keystone
-   [0BFD] 0x17D767BA8849DB75: "How…odd. Along with the painting is a note, typed neatly and signed by the criminal. It reads: “No, I’m not incompetent. This was an elaborate test to gauge your abilities and determine your usefulness. Unlike the “professionals,” you passed. We will contact you in the future!”
+   [0BFD] 0x17D767BA8849DB75: “How… odd. Along with the painting is a note, typed neatly and signed by the criminal. It reads: “No, I’m not incompetent. This was an elaborate test to gauge your abilities and determine your usefulness. Unlike the “professionals,” you passed. We will contact you in the future!”
    [0BFE] 0x5CCBA48C0E9BBBCA: Find Painting
    [0BFF] 0x1823E82F895496F0: “You what? Found the painting in the abandoned Nectary? Why, that’s preposterous! Utterly absurd! I fear we must swallow our pride and thank you for your valiant efforts and quality detective work. Please, take this reward and our most humble apologies! On behalf of the people of Champs Les Sims, we thank you.”
    [0C00] 0xE8587E9596868D74: The only thing left to do is contact {2.String} about the painting. Hopefully there is a hefty reward!
@@ -3267,16 +3267,16 @@ Unknown3: 0x00000000
    [0CBE] 0xCAC94743FBB60DD3: Homeward Bound
    [0CBF] 0xC6A83CF0B3D547CF: Deliver Artifact
    [0CC0] 0x5076204480BEDDA0: {1.SimFirstName} smashed the boulder, searched the entirety of the temple, and found {2.SimName}’s artifact. All in all, quite the adventure! Deliver the Relic to {16.SimName} to receive the final reward.
-   [0CC1] 0xFFCD05CA2DE5C344: “I thought this would be incredible but…I wasn’t quite prepared for the reality of the axe. I do not feel comfortable holding it. You should carry it. It took me some time but I narrowed down my most despised boulder. Smash the boulder blocking the entrance to the hot springs. I desire a Relic within the tomb blocked by the boulder. Destroy the boulder, find the Relic, and return it to me.”
-   [0CC2] 0x826D1C6EDCC3FF07: “I thought this would be incredible but…I wasn’t quite prepared for the reality of the axe. I do not feel comfortable holding it. You should carry it. It took me some time but I narrowed down my most despised boulder. Smash the boulder blocking the entrance to the hot springs. I desire a Relic within the tomb blocked by the boulder. Destroy the boulder, find the Relic, and return it to me.”
+   [0CC1] 0xFFCD05CA2DE5C344: “I thought this would be incredible but… I wasn’t quite prepared for the reality of the axe. I do not feel comfortable holding it. You should carry it. It took me some time but I narrowed down my most despised boulder. Smash the boulder blocking the entrance to the hot springs. I desire a Relic within the tomb blocked by the boulder. Destroy the boulder, find the Relic, and return it to me.”
+   [0CC2] 0x826D1C6EDCC3FF07: “I thought this would be incredible but… I wasn’t quite prepared for the reality of the axe. I do not feel comfortable holding it. You should carry it. It took me some time but I narrowed down my most despised boulder. Smash the boulder blocking the entrance to the hot springs. I desire a Relic within the tomb blocked by the boulder. Destroy the boulder, find the Relic, and return it to me.”
    [0CC3] 0xEA13207F35A49688: EP1_Quest_TheAxe10Failure
    [0CC4] 0xAD7FCAA1CC01491D: Destroy the Boulder blocking the Temple of the Hot Springs, find {2.SimName}’s Relic within the temple, and return it to {2.SimName}.
    [0CC5] 0xC1BB50206B6F6F98: Destroy the Boulder blocking the Temple of the Hot Springs, find {2.SimName}’s Relic within the temple, and return it to {2.SimName}.
    [0CC6] 0xBC2B1DA1D38FE4AB: Boulder Smash!
    [0CC7] 0x03D8DE28461017B7: Find Relic
    [0CC8] 0x916E378B1887CBE5: “Haha! That demonic crag of a rock is finally destroyed, smashed to smithoreens, and it is I that stands before it victorious! Well, you did the work, but it was really me pulling the strings in the background. You did me a great service destroying that rock. I hope this reward more than justifies your efforts!”
-   [0CC9] 0x8EFF461C872CE70B: “I thought this would be incredible but…I wasn’t quite prepared for the reality of the axe. I do not feel comfortable holding it. You should carry it. It took me some time but I narrowed down my most despised boulder. Smash the boulder blocking the entrance to the hot springs. I desire a Relic within the tomb blocked by the boulder. Destroy the boulder, find the Relic, and return it to me.”
-   [0CCA] 0xF47FBFA58E044532: “I thought this would be incredible but…I wasn’t quite prepared for the reality of the axe. I do not feel comfortable holding it. You should carry it. It took me some time but I narrowed down my most despised boulder. Smash the boulder blocking the entrance to the hot springs. I desire a Relic within the tomb blocked by the boulder. Destroy the boulder, find the Relic, and return it to me.”
+   [0CC9] 0x8EFF461C872CE70B: “I thought this would be incredible but… I wasn’t quite prepared for the reality of the axe. I do not feel comfortable holding it. You should carry it. It took me some time but I narrowed down my most despised boulder. Smash the boulder blocking the entrance to the hot springs. I desire a Relic within the tomb blocked by the boulder. Destroy the boulder, find the Relic, and return it to me.”
+   [0CCA] 0xF47FBFA58E044532: “I thought this would be incredible but… I wasn’t quite prepared for the reality of the axe. I do not feel comfortable holding it. You should carry it. It took me some time but I narrowed down my most despised boulder. Smash the boulder blocking the entrance to the hot springs. I desire a Relic within the tomb blocked by the boulder. Destroy the boulder, find the Relic, and return it to me.”
    [0CCB] 0x614075F772835E03: Why'd you destroy the relic? Hopefully, you can find another one later.
    [0CCC] 0x2051DEA8E5D8B8A0: “Deliver” the Relic to {2.SimName} to receive Simoleons and Ancient Coins.
    [0CCD] 0xB3EE8869F34A18BB: “Deliver” the Relic to {2.SimName} to receive Simoleons and Ancient Coins.
@@ -3374,7 +3374,7 @@ Unknown3: 0x00000000
    [0D29] 0xC044106EB01D41BF: EP1_Quest_TheFeast3Failure
    [0D2A] 0x2BA1C413B39F3F34: Obtain {9.Number} Very Nice quality vegetables, then deliver them to {2.SimName} to receive Simoleons.
    [0D2B] 0x5D35587EB0649437: Obtain {9.Number} Very Nice quality vegetables, then deliver them to {2.SimName} to receive Simoleons.
-   [0D2C] 0x6132B913D26A2436: Veggies…Now
+   [0D2C] 0x6132B913D26A2436: Veggies… Now
    [0D2D] 0x9B4E925F1EADDA16: Deliver Vegetables
    [0D2E] 0xD357931461BAFC86: EP1_Quest_TheFeast4Completion
    [0D2F] 0x73015D91A05DF612: “The last feast I prepared went incredibly well, thanks to you. I want to prepare something… a little more special now. Travel to Egypt and obtain {9.Number} Crocodiles that are Neutral quality or better. I’ll pay you some Simoleons for your trip and the Crocodiles.”
