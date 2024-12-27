@@ -2641,7 +2641,7 @@ Unknown3: 0x00000000
    [A4C] 0xDF80DBC57B4E3B7B: Tons of Toys
    [A4D] 0x26DFAE4A2B1B4FE7: {OpNumItemsCurrent}/{OpNumItemsGoal} Crafted Toys
    [A4E] 0xAA9C3B4EA12D5E94: The widgets were exactly what the business wanted. The executives are already fighting over who gets what widget! {OpOwner} hung out with the Chief Technology Officer and learned some Inventing tips!
-   [A4F] 0x04285EBD1F3EAD00: One of the up and coming businesses at {OpTarget} is interested in improving their looks and tech savviness. They would like {OpOwner} to build them a bunch of cool looking Widgets that they can strategically place throughout their offices to bolster their image. {OpOwner} will be paid well for the work and may even be shown some trade secrets.
+   [A4F] 0x04285EBD1F3EAD00: One of the up-and-coming businesses at {OpTarget} is interested in improving their looks and tech savviness. They would like {OpOwner} to build them a bunch of cool looking Widgets that they can strategically place throughout their offices to bolster their image. {OpOwner} will be paid well for the work and may even be shown some trade secrets.
    [A50] 0x6469E5CD7FBD7D19: Build {OpNumItemsGoal} Widgets and deliver them to the Business Office for a cash reward, an inventing skill boost, and relationship boost with the Business associates.
    [A51] 0x3208D0CD63A7FBEF: Intelligence Through Environment
    [A52] 0xF8C85CD6F9FFA22B: {OpNumItemsCurrent}/{OpNumItemsGoal} Widgets
