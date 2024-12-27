@@ -1865,11 +1865,11 @@ Unknown3: 0x00000000
    [744] 0xB4F947DAFF7FECC5: "Report In" to {OpTarget}
    [745] 0xC7419ADB0A20F3E3: In the Name of Love
    [746] 0xDB41FDEAB26BB63F: Report In
-   [747] 0xF7760BBAE7615F56: {OpTarget} believes that something shady is going on at the super market. I should go talk to {OpTargetFirstName} and find out exactly what's going on.
+   [747] 0xF7760BBAE7615F56: {OpTarget} believes that something shady is going on at the supermarket. I should go talk to {OpTargetFirstName} and find out exactly what’s going on.
    [748] 0x7F56A950142D7AEB: "Interview" Client
    [749] 0xB25A9C5030CD2469: The Case of the Price Gouged Produce
    [74A] 0xC2FA3128D63DAA59: Interview Client
-   [74B] 0x31D75F56E00E98C1: My client feels the super market is price gouging and wants me to find dirt on the business to use as leverage to get prices lowered. I should purchase {OpNumItemsGoal} tomatoes and take them to the science lab to conduct a few experiments on them.
+   [74B] 0x31D75F56E00E98C1: My client feels the supermarket is price gouging and wants me to find dirt on the business to use as leverage to get prices lowered. I should purchase {OpNumItemsGoal} tomatoes and take them to the science lab to conduct a few experiments on them.
    [74C] 0xCCC8C33DC57C5C7A: Purchase {OpNumItemsGoal} Tomatoes and "Conduct Experiments" at the local Science Facility
    [74D] 0x998EB03DA8AEECB4: The Case of the Price Gouged Produce
    [74E] 0xBB801CA9AA1C3640: Conduct Experiments
@@ -1885,7 +1885,7 @@ Unknown3: 0x00000000
    [758] 0xCD439354F7A37637: "Snoop for Clues" at local Supermarket
    [759] 0xBB321E54ED31787D: The Case of the Price Gouged Produce
    [75A] 0xBF0A6FA6D1A393FD: Snoop for Clues
-   [75B] 0x1FCCE75D996A988D: I found an odd chemical compound around the super market. If my school years serve me right, it's the compound HyroSimoxoNooper. Why would this be in a tomato of all things? I should hack the scientific database and do some research.
+   [75B] 0x1FCCE75D996A988D: I found an odd chemical compound around the supermarket. If my school years serve me right, it’s the compound HyroSimoxoNooper. Why would this be in a tomato of all things? I should hack the scientific database and do some research.
    [75C] 0xD2EABB2EA5A2FCC6: "Hack" Scientific Database on a Computer
    [75D] 0xE196102EAD319B18: The Case of the Price Gouged Produce
    [75E] 0x341D84FE86701834: Hack Scientific Database
