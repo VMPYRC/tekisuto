@@ -6,9 +6,9 @@ Unknown3: 0x00000000
    [001] 0x94EE71D4ECEE1D3D: This Super Spender Kiosk Triangle has three sides of spectacular and stunning ads that will subconsciously put anyone walking by in the mood for a shopping spree. Buy, spend, buy more.
    [002] 0xCF337EA06A61F38D: This Super Spender Kiosk Triangle has three sides of spectacular and stunning ads that will subconsciously put anyone walking by in the mood for a shopping spree. Buy, spend, buy more.
    [003] 0xCF337EA06A61F38E: This Super Spender Kiosk Triangle has three sides of spectacular and stunning ads that will subconsciously put anyone walking by in the mood for a shopping spree. Buy, spend, buy more.
-   [004] 0x887719955A6FEB45: Sit down and expect to be glued to this game for hours and possibly days. "Captain Starplanet: On a Rocket and a Dream" was this year's top rated game.
-   [005] 0x50ED7F37F029E267: Play the old-school favorite, "Robots vs. Monsters!" When robots and monsters collide, it's quite a sight to behold. Battle to the scrapyard against a horde of metal-thirsty beasts trying to steal your robot parts for the purpose of cooking tastier monster entrees!
-   [006] 0x1F484CBDB28EC496: Everyone's favorite tv show is now available as an arcade game! Play as "Exploding Tank Man" to blast and drop explosives from your super tank, protecting the old west from falling into the hands of creatures from the outer world.
+   [004] 0x887719955A6FEB45: Sit down and expect to be glued to this game for hours and possibly days. “Captain Starplanet: On a Rocket and a Dream”was this year’s top rated game.
+   [005] 0x50ED7F37F029E267: Play the old-school favorite, “Robots vs. Monsters!” When robots and monsters collide, it’s quite a sight to behold. Battle to the scrapyard against a horde of metal-thirsty beasts trying to steal your robot parts for cooking tastier monster entrées!
+   [006] 0x1F484CBDB28EC496: Everyone’s favorite TV show is now available as an arcade game! Play as “Exploding Tank Man” to blast and drop explosives from your super tank, protecting the old west from falling into the hands of creatures from the outer world.
    [007] 0x0CB978F9CB7D2A99: Area Light Ceiling Stage
    [008] 0x5C5416A52DF6DD22: areaLightCeilingStageSpot1
    [009] 0xA92A5B01AE13CB79: Performance Ball
@@ -26,12 +26,12 @@ Unknown3: 0x00000000
    [015] 0xE4E48C633CD419B4: This two-sided billboard is currently featuring advertisements from Zeus--The Cloudwalker Shoe and The Suit and Tie Guys.
    [016] 0xE4E48C633CD419B7: Distract motorists with the two advertisements featured on this billboard: Blake's World Of Healthy Pies and The Dazzler's Dazzilling Magic Shop.
    [017] 0x1E2BEFA6CF2DBAA8: We have all the magic tricks that you can imagine and even some that will blow your mind! Shop for a new trick and even pick up some rabbit food at The Dazzler's Dazzilling Magic Shop.
-   [018] 0x7262E0720AB42B49: Another mega cool album from The Suit and Tie Guys!! Make sure to pick up your very own copy of "We are R.A.D," featuring the number 1 hit "I, Her, Them, and Me Again."
+   [018] 0x7262E0720AB42B49: Another mega cool album from The Suit and Tie Guys!! Make sure to pick up your very own copy of “We are R.A.D,” featuring the number 1 hit “I, Her, Them, and Me Again.”
    [019] 0x7262E0720AB42B4A: Have you heard about Destiny Grove yet? If not you must be living under a rock. Destiny Grove offers incredible floor plans that will suit your family's needs. Buy a house this week and receive a free eraser!
    [01A] 0x7262E0720AB42B4B: In town for an extended run, Jojo Hotness and her Hotness Crew will excite you like no other. This is one hot show so you better catch it before it skips town.
    [01B] 0x7262E0720AB42B4C: Howard's House of Hats is the number one millinery in town! Cover up that bad haircut with a fantastic hat that will be sure to turn heads.
    [01C] 0x7262E0720AB42B4D: Eat at Blake's World Of Healthy Pies- now serving organic, vegan, and tasteless pies.
-   [01D] 0x7262E0720AB42B4E: At Desire Furniture we have just the right piece of furniture for your family. "Desire Furniture might be expensive, but there is a saying in the furniture work that you get what you pay for, and you do you really want to sit on something sub-ordinary?"
+   [01D] 0x7262E0720AB42B4E: At Desire Furniture we have just the right piece of furniture for your family. “Desire Furniture might be expensive, but there is a saying in the furniture work that you get what you pay for, and you do you really want to sit on something sub-ordinary?”
    [01E] 0x7262E0720AB42B4F: Now at the museum: the world-famous exhibit “Collection of Hipness.” Is it art or is it not? Judge for yourself while the collection is in town!
    [01F] 0x7262E0720AB42B40: Move into your dream home today! Call, email, fax, or just stop by Destiny Grove. Destiny Grove-- you'll love your new home here!
    [020] 0x7262E0720AB42B41: Lose over 20% of your weight with NuFast, the Nu-est diet craze that might or might not be safe.
@@ -121,7 +121,7 @@ Unknown3: 0x00000000
    [074] 0xACA5A6A07CD31BFC: JarFireFliesLid description placeholder
    [075] 0xE06303B6C56B85F1: Nothing else rocks like a jammin’ jukebox! This vintage MegaVox music machine is packed full of your favorite 45’s and ready to pump out the tunes. No matter where you plug it in, an instant party is just a few button pushes away. Like they used to say: “Turn on the MegaVox and hold on to your sox!”
    [076] 0xBCD370C6680BBC42: The BassBoom Jukebox is loaded with top secret features from three different governments. Brought to you by The Future, the thumping bass and stunning light effects will blow your mind - Boom! 
-   [077] 0xAEADFBB1F8A4A91B: Be the life of the party with the Karaoke Explosion Machine from Landgraab Industries. Sing along to your favorite hits such as "Boo Nitz" and "Vati Sadu". Guaranteed to rock the house even if you can't find a tune in an oversized bucket. 
+   [077] 0xAEADFBB1F8A4A91B: Be the life of the party with the Karaoke Explosion Machine from Landgraab Industries. Sing along to your favorite hits such as “Boo Nitz” and “Vati Sadu”. Guaranteed to rock the house even if you can’t find a tune in an oversized bucket.
    [078] 0x975074F86FEF0130: Front Stage Kit
    [079] 0x09A4D5D9B63063C9: kitFrontStage_Sing_Jig
    [07A] 0xAFA45BFFE53D6FD5: Performer Kit placeholder
@@ -147,22 +147,22 @@ Unknown3: 0x00000000
    [08E] 0x0B916747A8413687: This little gnome summons his mystical powers to take center-stage. A great addition to the living room or stage.
    [08F] 0xA386BF6B701190B8: This little gnome leverages his singing skills to take center-stage. A great addition to the living room or stage.
    [090] 0x599A76CCC35A2D30: This mausoleum is an idyllic resting place for the dearly departed.
-   [091] 0x61107DE904F31D4C: Whoa Nelly!!! This ain't your plain ol' run o' the mill mechanical bull. This bad boy has been tweaked, tuned, refined, revamped, augmented and enhanced to bring you the bumpiest, most buckin' ride you've ever saddled-up to. 8 seconds will seem like an eternity as you white-knuckle that ol' bull rope and hold on for dear life! This one is sure to put you in the spotlight and leave you screamin' "Yee-HAW!" when you're finished.
+   [091] 0x61107DE904F31D4C: Whoa, Nelly!!! This ain’t your plain ol’ run o’ the mill mechanical bull. This bad boy has been tweaked, tuned, refined, revamped, augmented and enhanced to bring you the bumpiest, most buckin’ ride you’ve ever saddled-up to. 8 seconds will seem like an eternity as you white-knuckle that ol’ bull rope and hold on for dear life! This one is sure to put you in the spotlight and leave you screamin’ “Yee-HAW!” when you’re finished.
    [092] 0x8E7CF750D7D1DC44: All hip cats and dolls use the Anti-Frantic Mirror to get ready for a night on the town. Check your threads and your 'do with this cool mirror before your next bash.
    [093] 0x557A9ADBBAB7B63E: Place this mirror on the wall and admire the perfect colors of your skin, hair, and lips. You are, most likely, the fairest person in the room! Although there will always be someone in the world more beautiful than you, take heart in knowing this mirror can never tell you who that person is.
    [094] 0xF2803CE21E75AF1C: Tired of carrying that boombox around on your shoulder? Ever wish you could drown out your significant other's talking with something more pleasant sounding? With a breakthrough in portable electronics, now you can! No longer do you need to be home to rock out to your favorite tunes or tune out unpleasant noises. So put on the headphones, crank up the volume, and be prepared for a new way to listen to music.
    [095] 0xB20DA2844B7975EE: Most know her as superstar Megan McPlum's daughter, but once you listen to Maxi McPlum it is impossible not to recognize she has a voice of her own. Celebrate Maxi's rise to fame with your very own Maxi McPlum Poster. 
    [096] 0xB20DA2844B7975ED: She rocketed to the top of the charts at age 15 with her first song “I’m a Terrific Teenager,” and her smile is sure to light up your life. Put a large poster of Destiny Dreamstar up on your walls for a happier home.
-   [097] 0xB20DA2844B7975EC: This "Heavy Metal Titans of Doom" large poster will raise your blood pressure and make you play your air guitar. These guys are hardcore, and now you can be too!
+   [097] 0xB20DA2844B7975EC: This “Heavy Metal Titans of Doom” large poster will raise your blood pressure and make you play your air guitar. These guys are hardcore, and now you can be too!
    [098] 0xB20DA2844B7975EB: Here today, gone tomorrow? It depends on who you ask. Put a poster up of the latest and most current boy band- The Suit and Tie Guys.
    [099] 0x3B9EA3812FE87393: Get the entire La Ninjas del Toro collection. La Ninjas del Toro really know how to shake it up. It's almost impossible not to tap your foot as you listen to these women's wonderful music. Grab this set including posters, a painting, and program while you can.
    [09A] 0x06E15BE5F6FB85B3: Contains everything you need to be a mega fan of the Heavy Metal Titans of Doom! You can get the full collection of concert gear including a painting, some posters, and a program. All these things will raise your blood pressure and make you play your air guitar. These guys are hardcore, and now you can be too!
    [09B] 0x06E15BE5F6FB85B0: Wow! Really? Your very own collection of Custard posters, playbills and even a painting. Relive the most influential rock band in the world's greatest concert tour ever with your very own Custard Poster. Even if you couldn't get a ticket you can have this collection!
    [09C] 0xF1F7A3EE4DAAE428: You might remember Three Men & a Llama from their previous incarnation as Three Boys & a Baby Llama. After taking a few years' hiatus, this band is back, all grown up, and churning out top-of-the-chart hits once again!
    [09D] 0x3730634821383108: Here today, gone tomorrow? It depends on who you ask. Put a poster up of the latest and most current boy band--The Suit and Tie Guys. Get their poster, and you will be really cool like them.
-   [09E] 0x373063482138310B: This "Heavy Metal Titans of Doom" poster will raise your blood pressure and make you play your air guitar. These guys are hardcore, and now you can be too!
+   [09E] 0x373063482138310B: This “Heavy Metal Titans of Doom” poster will raise your blood pressure and make you play your air guitar. These guys are hardcore, and now you can be too!
    [09F] 0x373063482138310A: La Ninjas del Toro really know how to shake it up. It's almost impossible not to tap your foot as you listen to these women's wonderful music. Grab this poster to shake up your decorations.
-   [0A0] 0x373063482138310D: If you are happy and you know it - listen to this band. The Peace Sign Express have fans of every generation- how could they not with songs like "Smile, Breath, Smile." Put a poster up because you love life.
+   [0A0] 0x373063482138310D: If you are happy, and you know it – listen to this band. The Peace Sign Express have fans of every generation – how could they not with songs like “Smile, Breath, Smile.” Put a poster up because you love life.
    [0A1] 0x373063482138310C: Come on, you know you want to hang up this poster of the Bitter Girls to remind you of their songs about failed relationships. 
    [0A2] 0x373063482138310F: She rocketed to the top of the charts at age 15 with her first song “I’m a Terrific Teenager,” and her smile is sure to light up your life. Put a poster of Destiny Dreamstar up on your walls for a happier home.
    [0A3] 0x373063482138310E: Some call her a bad girl, some call her a role model. Either way, this poster of Rhoda will get people talking.
@@ -173,7 +173,7 @@ Unknown3: 0x00000000
    [0A8] 0xF6D9336882508905: A square planter for your town.
    [0A9] 0x61D80059E9484FD2: Pool Cue
    [0AA] 0x966B2195186787C9: Where else can you find a practical use for Geometry, Physics and English (and just maybe a few rounds of liquid Chemistry)? With the Side Pocket Pool Table you can finally justify those expensive and impractical classes, take what you first learned at University, and school your opponents!
-   [0AB] 0x5B65BA238F463FE0: Make the Luxtacular Ultra Deluxe Pool table the centerpiece of your game room. This is the ultimate pool table, sure to impress you and your friends by blending modern styling with new "eight ball-corner pocket" technology.
+   [0AB] 0x5B65BA238F463FE0: Make the Luxtacular Ultra Deluxe Pool table the centerpiece of your game room. This is the ultimate pool table, sure to impress you and your friends by blending modern styling with new “eight ball-corner pocket” technology.
    [0AC] 0xE8A5CCFF2731A573: Only in the In Crowd gets to crowd into this private club.
    [0AD] 0xA5FBE41FFF7AA7ED: privateclubEP6_doors
    [0AE] 0xC78EB5D717BB754B: proprietorPlacement_ftp description
@@ -364,7 +364,7 @@ Unknown3: 0x00000000
    [167] 0x2D041DBC36842D9F: Howard's House of Hats Billboard
    [168] 0x2D041DBC36842D9E: Blake's World Of Healthy Pies Billboard
    [169] 0x2D041DBC36842D9D: Desire Furniture Billboard
-   [16A] 0x2D041DBC36842D9C: "Collection of Hipness" Billboard
+   [16A] 0x2D041DBC36842D9C: “Collection of Hipness” Billboard
    [16B] 0x2D041DBC36842D93: Destiny Grove Billboard #2
    [16C] 0x2D041DBC36842D92: NuFast Diet Billboard
    [16D] 0xF986BFCC09326696: Fizztastic Billboard
@@ -1224,7 +1224,7 @@ Unknown3: 0x00000000
    [4C3] 0x65DD5085839EF147: Susan
    [4C4] 0xDB01FE7A92C8E20C: Taj
    [4C5] 0x851B345B66AE7043: Talan
-   [4C6] 0xA94C3EFA36A2111B: Talan has always known he’s destined to be a famous performer, and with his friendly nature, winning smile, and natural flair, success seems inevitable. However, his father has other plans. Will Talan ever be able to realize his dreams of performing on stage while balancing his father's demand to study hard and get a "real career"?
+   [4C6] 0xA94C3EFA36A2111B: Talan has always known he’s destined to be a famous performer, and with his friendly nature, winning smile, and natural flair, success seems inevitable. However, his father has other plans. Will Talan ever be able to realize his dreams of performing on stage while balancing his father’s demand to study hard and get a “real career”?
    [4C7] 0xA929AD5B7B81030F: Terry
    [4C8] 0x0713995BB04F0222: Trice
    [4C9] 0xED8295476B8BFD5B: Twit
@@ -1375,7 +1375,7 @@ Unknown3: 0x00000000
    [55A] 0x7E0C332508A04A05: Kumbaya
    [55B] 0xC706D04023C26435: DNT
    [55C] 0x9C2525BF4B6C8432: Now that you’ve sung at the Art Museum, you can truly say you’re an artist. And the extra money didn’t hurt.
-   [55D] 0xD86FC289FC2DDD16: The Art Museum is featuring "Art in Every Sense: Sight, Smell, Sound, Taste and Touch." Show off your sweet sounds to earn tips and gain experience.
+   [55D] 0xD86FC289FC2DDD16: The Art Museum is featuring “Art in Every Sense: Sight, Smell, Sound, Taste and Touch.” Show off your sweet sounds to earn tips and gain experience.
    [55E] 0x71856E8720FADFEE: The Art Show ended. Maybe next year.
    [55F] 0x54C1E63781F30AAB: Go to the Art Museum and perform for tips.
    [560] 0x8B2BD937A175DD29: The Art of Singing
@@ -1477,7 +1477,7 @@ Unknown3: 0x00000000
    [5C0] 0x979366744E54D650: Tricks for Tips
    [5C1] 0xD9077483BE898E7C: Go to a public place and perform for tips.
    [5C2] 0xF19A333404524012: At the movie premiere, you turned the red carpet into a magic carpet. Bravo!
-   [5C3] 0xF2238836632BD576: The producers of a new movie, “The Vanishing Llama," want to hire you to perform at the premiere. Exposure, Simoleons, and the glamour of the Movie Biz – what more could you ask for?
+   [5C3] 0xF2238836632BD576: The producers of a new movie, “The Vanishing Llama,” want to hire you to perform at the premiere. Exposure, Simoleons, and the glamour of the Movie Biz – what more could you ask for?
    [5C4] 0xBC5F95AF8290658B: Go to the Theater to entertain at the film premiere.
    [5C5] 0xEF6488AF9F31C209: Red Carpet Magic
    [5C6] 0x1F37C5681391E4F9: DNT
@@ -1681,7 +1681,7 @@ Unknown3: 0x00000000
    [68C] 0x4D5F0FBDA864141B: DNT
    [68D] 0x1F6097C7AF60B7B4: It’s no longer Italian night at the Coffeehouse. They don’t need a human statue for Meatloaf Surprise Night.
    [68E] 0xE90401CFAEC29442: You burned up the red carpet at the big movie premiere. Everyone loved your performance anyway.
-   [68F] 0x3E25D856EDB98486: The producers of a new Australian Circus documentary, “The Greatest Show on Perth," want to hire you to perform at the premiere. Exposure, Simoleons, and the glamour of the Movie Biz – what more could you ask for?
+   [68F] 0x3E25D856EDB98486: The producers of a new Australian Circus documentary, “The Greatest Show on Perth,” want to hire you to perform at the premiere. Exposure, Simoleons, and the glamour of the Movie Biz – what more could you ask for?
    [690] 0xE868B92935E6D81B: Go to the Theater to entertain at the film premiere.
    [691] 0x1A93AC2951CE9179: Premiere Performance
    [692] 0xC48B9957C61C61C9: DNT
@@ -1707,25 +1707,25 @@ Unknown3: 0x00000000
    [6A6] 0x4B581118A54127B2: After enduring the bitter cold and near frostbitten fingers, you noticed the lamp looked slightly different. More importantly, both you and the genie felt a change in the magic surrounding the lamp and could tell it was time to prepare for the next step in your quest to free the genie.
    [6A7] 0x60992B5DA07FAF96: The genie cannot break the chains of the lamp alone! You must destroy the lamp together, but it will not be an easy process. To weaken the lamp, first you must freeze it in the breath of coldest winter!
    [6A8] 0xAB27E1944222CA6E: This opportunity is no longer available.
-   [6A9] 0x1BA4C49E1868CA2B: Place the genie lamp in the refrigerator to "Freeze the Lamp."
+   [6A9] 0x1BA4C49E1868CA2B: Place the genie lamp in the refrigerator to “Freeze the Lamp.”
    [6AA] 0x520EB79E37EB9CA9: Free the Genie
    [6AB] 0x8AF275A24F3D1A99: Freeze the Lamp
    [6AC] 0x8841EA9AFD7D5EC7: You could feel the blistering heat as you watched the lamp cook like a stuffed turkey, until a slight shift in the atmosphere alerted you and the genie to its unstable state. 
    [6AD] 0x63C25089D4BE1DE5: The genie cannot break the chains of the lamp alone! The lamp is weaker now, but still cannot be overcome. Next, you must burn the lamp in the heat of a thousand fires!
    [6AE] 0xE0281BC79BDDCF99: This opportunity is no longer available.
-   [6AF] 0xB1789B103CFEA4FE: Place the genie lamp in the oven to "Heat the Lamp."
+   [6AF] 0xB1789B103CFEA4FE: Place the genie lamp in the oven to “Heat the Lamp.”
    [6B0] 0xC059F01044BAD2A0: Free the Genie
    [6B1] 0xF50C18D0275017AC: Heat the Lamp
    [6B2] 0x686D16B7EF3A2A52: It's a good thing genies are magical creatures, otherwise you both might not have survived the grueling tasks it took to break the lamp! Your summons have allowed the genie to break its bonds with one last mighty heave and escape to freedom.
    [6B3] 0x2955BEF32351C9B6: Your perseverance has paid off. The bonds are weak! Act now to set your friend free!
    [6B4] 0x9492DE0E7B93538E: This opportunity is no longer available.
-   [6B5] 0x3F0BF2C1717142CB: "Summon Genie" from the lamp to release the genie.
+   [6B5] 0x3F0BF2C1717142CB: “Summon Genie” from the lamp to release the genie.
    [6B6] 0x720FE5C18E10EC49: Free the Genie
    [6B7] 0x98E09951E692F339: Summon the Genie
    [6B8] 0xAF98FBD9C44C3AE3: Monsters, lichen, and bears, oh my! Traveling through the catacombs was a hazardous experience, so it's no wonder the lamp finally gave up under the oppressive pressure of being underground.
    [6B9] 0x9612433040F08759: The genie cannot break the chains of the lamp alone! The lamp is weaker now, but still its hold still will not break. Your final task is to plunge the lamp into the darkness below the earth, where the walking dead lurk!
    [6BA] 0x412F2209FC8B48B5: This opportunity is no longer available.
-   [6BB] 0x5F533BCE92D7FDD2: "Explore Catacombs" with the genie lamp.
+   [6BB] 0x5F533BCE92D7FDD2: “Explore Catacombs” with the genie lamp.
    [6BC] 0x2D2848CE76F0449C: Free the Genie
    [6BD] 0x7BD020067351B2D8: Explore Catacombs with the Lamp
    [6BE] 0xF2C4D6CEB451FF8F: Do a Sing-along
