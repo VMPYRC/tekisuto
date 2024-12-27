@@ -340,7 +340,7 @@ Unknown3: 0x00000000
    [14F] 0xC0962DCB4B1EE897: 88w55 Classic
    [150] 0xC6A9CD4C354DB963: Tardisian All-in-One Bathroom by Corebital Designs
    [151] 0x67556C670D0DB346: “Music Moves” Arcade Console by Korben Computing
-   [152] 0x6CD5F1DD6967EB58: “Shape Skirmish" Arcade Table by Korben Computing
+   [152] 0x6CD5F1DD6967EB58: “Shape Skirmish” Arcade Table by Korben Computing
    [153] 0x1E16E37D5A0A4509: Tyrellian Cube Barstool by Modern Arcology
    [154] 0x2F3EA3F3E01CF941: BactaBath Bathtub by Modern Arcology
    [155] 0x71BF59E76F0B0D46: BiPod Bunk Bed by Wiggin Youth Architecture
@@ -1564,7 +1564,7 @@ Unknown3: 0x00000000
    [617] 0x8811A73B9FCECFBC: Staying on top of the astronomy world takes dedicated reading. Books filled with new discoveries appear every day! You should read “100 Better Constellations” to expand your knowledge.
    [618] 0x605A58AB02553620: You were too busy to read up on your colleagues' work.
    [619] 0x65BCB5C75127D7B3: Infinite Curiosity
-   [61A] 0x884F81727A303DAF: Read "100 Better Constellations."
+   [61A] 0x884F81727A303DAF: Read “100 Better Constellations.”
    [61B] 0x1641277E76387849: You found the Power Cells! Return them to the Time Traveler.
    [61C] 0x802B8E7728D7DF07: Great woolly llamas! I was on my way home to Oasis Landing and my Time Portal experienced a temporal disruption and its Power Cells were thrown all over! Can you help me collect them?
    [61D] 0x988B26D0DEFD6737: The Time Portal mysteriously started working again. Hop in and see where it will take you!

@@ -20,7 +20,7 @@ Unknown3: 0x00000000
    [00F] 0x5690ACE3C076780D: All fear the mighty Slade! Guffaw at Poseidon's paltry influence as you cleave his nugatory waves, Slade evermore your trusty steed! Darn the currents, curse the interminable briny expanse, and meet head-on any who dare impugn Slade's honor! Kids love it too!
    [010] 0xF45BB8939D976FB9: “O CAPTAIN! my Captain! our sailing trip is done;\nThis ship has weather'd every storm, the prize we sought is won!\nExult, O shores, and ring, O bells!\nAnd I, shall sail ahead\nMan that rudder with the skies\nClear and blue O’erhead.” 
    [011] 0x167CEFB683CFB430: It’s fast, it’s fun, and it’s safe enough for the whole family to ride (but one at a time, for Pete’s sake!) Aqua-Sled Watercraft: This time… it’s personal!
-   [012] 0x862DA45761B7BA7B: Half a league, half a league, half a league onward.\nAll in the ocean of fun rode the cool speedboats!\n"Forward, the Speed Brigade! Charge for the waves," we say!\nInto the ocean of fun rode the cool speedboats!
+   [012] 0x862DA45761B7BA7B: Half a league, half a league, half a league onward.\nAll in the ocean of fun rode the cool speedboats!\n“Forward, the Speed Brigade! Charge for the waves,” we say!\nInto the ocean of fun rode the cool speedboats!
    [013] 0xF6F1163E4FBF7FC1: Even boats need to feel dirt beneath their hull now and then! Give them a nice resting place with this sturdy trailer from Aqua Transporter.
    [014] 0x64BA6E33076CAFCA: It’s fast, it’s fun, and it’s safe enough for the whole family to ride (but one at a time, for Pete’s sake!) Aqua-Sled Watercraft: This time… it’s personal!
    [015] 0x8C74FD0974D09D9A: Even if it's a teaser breeze or it's nukin', Laminar Wind Windsurfing Boards will have you ripping in no time. Shaka bra!
@@ -86,7 +86,7 @@ Unknown3: 0x00000000
    [051] 0x58BE8363DA577451: The leaves of the kelp plant reach high to the surfaces of the water, creating pillars of vegetation for fish to hide in.
    [052] 0xE976C879F8C425D8: Mermaids can harvest Kelp to eat from this plant.
    [053] 0xB698DCF019A10AD8: An unknown creature that lives deep within the seas. Rumors have it that this kraken will occasionally surface and attack unknowing boats. Not much is known about this creature and only a few have witness its enormous size.
-   [054] 0xAAC25F52D751F905: This unique "ladder" is actually anything but! Straight from a shoe factory assembly line in Isla Si'meppe, this piece was originally used as a device to assist with eyelet placement on gigantic novelty shoes. When that business venture failed spectacularly, the parts were stripped from the manufacturing plant and repurposed as this functional ladder.
+   [054] 0xAAC25F52D751F905: This unique “ladder” is actually anything but! Straight from a shoe factory assembly line in Isla Si’meppe, this piece was originally used as a device to assist with eyelet placement on gigantic novelty shoes. When that business venture failed spectacularly, the parts were stripped from the manufacturing plant and repurposed as this functional ladder.
    [055] 0x7B4388E764472B7C: The perennial classic returns. The Candelier features an inverted dome ringed with high-quality candles, each secured in its own attractive housing. Their gentle brilliance will fill the entire room. Don’t just light your house up – illuminate it, with The Candelier.
    [056] 0x564C4C0BA74F36EE: With the force of a mighty tempest, these three fixtures will rain down a tremendous storm of pleasing, diffused light upon your house. There will be no escape from their gentle glow, nor the cozy feeling they provide. Install the Conical Lightstorm and bask in furious comfort.
    [057] 0xC854720614F50900: Take other lighting fixtures to school with this whimsical work of functional art. One easy installation, and a whole school of friendly fish will be happy to light the way. And the best part is, you will never have to feed them or flush them, guaranteed!
@@ -231,7 +231,7 @@ Unknown3: 0x00000000
    [0E2] 0x6A8D3F7F57EA3F93: A twist on the normal ‘boring bark, pretty leaves’ paradigm, the beautiful rainbow eucalyptus has some plain leaves but plenty of funk in its trunk.
    [0E3] 0x68BCD0650A01DA5E: Money doesn’t grow on trees (for most)! However, you can use all of your money to buy the trees that we’ve grown, and that’s pretty darn close!
    [0E4] 0x3078ED092C1D0424: Its etymology time! ‘Rhododendron’ is derived from the ancient Greek meaning ‘rose tree.’ Wow. Real original, ancient Greeks.
-   [0E5] 0x6AF66AA74DE17C4A: These pleasant purple "roses" are sure to increase the pretty factor of your yard, garden, or private island.
+   [0E5] 0x6AF66AA74DE17C4A: These pleasant purple “roses” are sure to increase the pretty factor of your yard, garden, or private island.
    [0E6] 0x8A0C6BD97B536864: Yellow is the color of sunshine, sand, and cowards.
    [0E7] 0xFEF7600853D4BF66: Mangrove trees are tropical trees with roots that dig deep, deep into the earth.
    [0E8] 0x02436445578D6A52: Many mysteries await the Sim who dares to enter the Deep Sea Cave. What treasures will you find? Perhaps a hidden pathway? But beware the monster that lurks within the dark crevices. Who knows what will happen if you startle it!
@@ -256,7 +256,7 @@ Unknown3: 0x00000000
    [0FB] 0x83D697393BDAFF9D: Beverage Cup Metal
    [0FC] 0xC8656A557776720C: Beverage Cup Plastic 
    [0FD] 0x6C6DB869FA9A2F3E: Plant of Paradise
-   [0FE] 0x26C3AC6CA3F82A6C: "Slade the Indomitable" Paddleboat
+   [0FE] 0x26C3AC6CA3F82A6C: “Slade the Indomitable” Paddleboat
    [0FF] 0xC7A475F5FA40A1E8: Sailboat by Public Domains
    [100] 0xB33E1614F888E8D5: Aqua-Sled, the Personal Watercraft
    [101] 0x7D2410E2A4955AD8: Speedboat by Public Domains
@@ -383,7 +383,7 @@ Unknown3: 0x00000000
    [17A] 0x70A8EC1767E62A37: Gangway Style
    [17B] 0x1EB882AA3AD0564E: The Guardian
    [17C] 0xE46200C04E8AA138: Cruzita's Groceries and Diner
-   [17D] 0xA825F59349515A77: "Helm" by Helm Street Designs
+   [17D] 0xA825F59349515A77: “Helm” by Helm Street Designs
    [17E] 0xFB02BAD4B8DCA651: El Hospital
    [17F] 0x7A6E8FC4F39AC704: Wet-Side Hot Tub
    [180] 0x16242B009EC685D1: “The Perfect Warm” Hot Tub
@@ -414,7 +414,7 @@ Unknown3: 0x00000000
    [199] 0xE0BFE1D2EBD20E2A: Wall Lighting Solutions Wall Light
    [19A] 0x6191A424A8CC5311: SymmetriLux Wall Light
    [19B] 0xC7B6D841358E289F: TV’s Couch!
-   [19C] 0xAB2893CE363FABA8: "Hand-Made" Loveseat
+   [19C] 0xAB2893CE363FABA8: “Hand-Made” Loveseat
    [19D] 0x97E50242FB2E6BBC: Antique Leather Bench
    [19E] 0x8561353DC11BD207: Wrongways Surf Sofa
    [19F] 0x8B4248BAB803B0D0: Mr. Mariner Gnome
@@ -434,7 +434,7 @@ Unknown3: 0x00000000
    [1AD] 0xDE3156D92FADAA62: Evolution of the Plumbob
    [1AE] 0x2DCADD14313F2641: Ocean Adjacent Painting
    [1AF] 0x777EA3C6D537DC75: The Lantana by Land's Capers
-   [1B0] 0xDB618BA1DB424970: "Liquid Pro Quo" Pool Bar
+   [1B0] 0xDB618BA1DB424970: “Liquid Pro Quo” Pool Bar
    [1B1] 0x1A1DE4BF0F6F56C1: Trinarch Waterfall
    [1B2] 0x064A3099F6D8A8CC: Artificial Waterfall by H2Flow
    [1B3] 0xBB07918BA4CAAF0C: Cateraction Waterfall
@@ -874,7 +874,7 @@ Unknown3: 0x00000000
    [365] 0xBCC1FAFCCD3B35B1: Sean loves to cook, clean, and play guitar.
    [366] 0x5D48D597CE28BB23: Tariq’s real passion is the sea and all things about it… swimming, fishing, scuba, he loves them all.
    [367] 0x48D218D0533BA437: Teodor’s overtrusting nature allowed Alfonso to take advantage of him.
-   [368] 0x9350C675D8D5F806: Formerly known as "Fish Kid"
+   [368] 0x9350C675D8D5F806: Formerly known as “Fish Kid”
    [369] 0xE1F936681F4E6892: Valerie yearns for romance, but feels too busy to find love.
    [36A] 0x62375ED6D9DCBB50: Some people mistake Yelena's pride for snobbery.
    [36B] 0xB4A8CD01C9EEC997: Alto
@@ -1164,7 +1164,7 @@ Unknown3: 0x00000000
    [487] 0x157982B47E2EFF25: Unfortunately, {0.SimFirstName} is not skilled enough to open this chest. {0.SimFirstName} needs to be a Level {1.Number} Scuba Diver to be able to open this chest.
    [488] 0x1717F85B7AAB22DE: {0.SimFirstName} just found the following in the treasure chest: {1.String}
    [489] 0x975D2B1527F90F4C: “Oh, so it’s adventure you want? Well then why are you hanging in the lobby?! You could be out searching for a SECRET ISLAND that only few have glimpsed. If you seek the unknown, talk to {OpTarget}. {OpTarget} will set you on your way.”
-   [48A] 0xE0D65B14269B1B85: "Talk about Refuge Island" with {OpTarget}.
+   [48A] 0xE0D65B14269B1B85: “Talk about Refuge Island” with {OpTarget}.
    [48B] 0xF31DAE14313A6FA3: The Old Sim and the Secret Island
    [48C] 0xB07C2CEE312758FF: Talk to {OpTarget}.
    [48D] 0x291489DDAB4B213B: “Aye, maybe I know about that which you speak, and maybe I don’t. Maybe The Refuge exists, and maybe it doesn’t - are you a true ally to this archipelago? If so, I have an ecologist friend that needs help…”
