@@ -16,7 +16,7 @@ Unknown3: 0x00000000
    [0B] 0x1E3C4C0A35A8C6D3: Violin
    [0C] 0x69E4EF341D31ACE8: Play for Tips
    [0D] 0x2BC2AE585101029A: Tip
-   [0E] 0x150731164FC2720F: It is said that the violin is one of the hardest instruments to learn how to play, so {0.SimFirstName} has {MA.his}{FA.her} work cut out for {MA.him}{FA.her}. However, as the old saying goes, "Practice makes perfect!"
+   [0E] 0x150731164FC2720F: It is said that the violin is one of the hardest instruments to learn how to play, so {0.SimFirstName} has {MA.his}{FA.her} work cut out for {MA.him}{FA.her}. However, as the old saying goes, “Practice makes perfect!”
    [0F] 0x7EDD767E08F58FDB: {0.Number}% known
    [10] 0xC0D7744B13A59268: §{0.Number} earned
    [11] 0xF015FB5877A809A0: {0.Number} viewers
