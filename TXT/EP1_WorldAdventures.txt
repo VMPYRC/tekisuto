@@ -2455,11 +2455,11 @@ Unknown3: 0x00000000
    [0992] 0x86D7F54AC946BDDD: By placing the tombstone inside the mausoleum, the unfortunate former curator can peacefully depart the world and lay in rest forever. It seems the haunting at the museum is at an end.
    [0993] 0x98B958D48F55D04B: How awful! Without the remains {1.SimFirstName} cannot lay the curator to rest. He will never be at peace!
    [0994] 0x4A1061BBEC58E972: How awful! Without the remains {1.SimFirstName} cannot lay the curator to rest. He will never be at peace!
-   [0995] 0xD6CBD9B4CED04B42: Place Tombstone at Cemetary
+   [0995] 0xD6CBD9B4CED04B42: Place Tombstone at Cemetery
    [0996] 0x1C59B311D67EE288: It seems the unfortunate former curator met his demise inside the sarcophagus of his own exhibit. Place his remains inside his family chest located in the cemetery in Champs Les Sims for the curator to finally have peace.
    [0997] 0x638BB72438F59841: Place the remains inside the chest at the Champs Les Sims cemetery.
    [0998] 0x3160C2241D0DDC47: The Curator’s Final Exhibit
-   [0999] 0x61C68E49F475CD13: Place Remains at Cemetary
+   [0999] 0x61C68E49F475CD13: Place Remains at Cemetery
    [099A] 0x8B336C76A8BCF36F: “I’m so relieved to hear this museum haunting business is behind us. I’ll finally be able to hire a reliable full-time staff to guard and take care of the museum. You have my thanks. Please, take this reward!”
    [099B] 0x1D89DF51455078FE: “I’m so relieved to hear this museum haunting business is behind us. I’ll finally be able to hire a reliable full-time staff to guard and take care of the museum. You have my thanks. Please, take this reward!”
    [099C] 0xE9B29FC0E099381D: The haunting is at an end. {2.String} will surely be placed at ease if {1.SimFirstName} tells the entire story.
