@@ -1904,7 +1904,6 @@ Unknown3: 0x00000000
    [76B] 0x4ED061F641C136C1: Question {OpTarget}
    [76C] 0x49EDE2D0E33C2189: {OpSource} is fairly choked up over the missing book -- a bit too choked up if you ask me. It looks like I'll need to hit the streets a bit and ask around to see if anyone else has noticed the missing book. 
    [76D] 0xF763024CD61E8A42: "Ask About Missing Book" to {OpNumEventsGoal} Sims
-
    [76E] 0xC0F80F4CB69A04AC: The Case of the Closed Chapter
    [76F] 0x79BE4A8C43B2DC88: Question {OpNumEventsCurrent}/{OpNumEventsGoal} Sims
    [770] 0x7747CD160B263460: Locals had a few sightings of the book. The best tip I received was that it can be found in a place where people can read for free. I should snoop for clues there.

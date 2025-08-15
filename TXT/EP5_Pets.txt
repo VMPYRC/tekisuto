@@ -422,7 +422,6 @@ Unknown3: 0x00000000
    [1A1] 0x80F3718919D92A0C: Modern Cowboy Counters
    [1A2] 0x9551540E20434CD6: Bluth Model Home
    [1A3] 0x8EC3DDE5DB77E76F: The It's Got Swagger! Drape Set
-
    [1A4] 0x1559D9AAE86E4B42: The Pretentious Desk
    [1A5] 0xAB7E5E1D44CE204E: The Roll-y Poll-y Desk
    [1A6] 0x8160C76B506A55AD: Diamond Dog Torso
@@ -1357,29 +1356,17 @@ Unknown3: 0x00000000
    [547] 0x7CBBDFE8C4180651: ©2011 Electronic Arts Inc.
    [548] 0xC678A8A7E00A9BC5: Pets
    [549] 0x83C0432339DF34F4: Home for Us All
-
    [54A] 0x83C0432339DF34F7: Foundations for the Future
-
    [54B] 0x83C0432339DF34F6: Cul-de-sac of Memories
-
    [54C] 0xA19F97BF5591927C: Something New for You
-
    [54D] 0xA19F97BF5591927F: Lace and Collars
-
    [54E] 0xA19F97BF5591927E: A Ball of Yarn
-
    [54F] 0x256D75B4CF6A194F: Looking for Kitty
-
    [550] 0x256D75B4CF6A194C: Puppy Dog Eyes
-
-   [551] 0x256D75B4CF6A194D: Leashes and Skirts 
-
+   [551] 0x256D75B4CF6A194D: Leashes and Skirts
    [552] 0x8DC927840256B25E: A Nice Place to Dig
-
    [553] 0x8DC927840256B25D: Howl for Night Skies
-
    [554] 0x8DC927840256B25C: Chasing Clouds
-
    [555] 0x8FFEADDC29EECBEE: The Sims™ 3 Pets Team
    [556] 0x83C3ABAD37354E5E: Senior Vice President, COO, EA PLAY Label
    [557] 0xEFA3119930A7B16B: Senior Vice President, EA PLAY Label

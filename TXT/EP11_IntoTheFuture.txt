@@ -1492,15 +1492,13 @@ Unknown3: 0x00000000
    [5CF] 0xD4F99FC9D2E93990: HandiBot
    [5D0] 0xFD2D2F53B822FC3B: Save your wrists the strain of a wrench! This chip lets your house robot repair any machine.\n\n• Handiness Skill is raised to maximum.\n• Enables all home maintenance interactions.\n• Plumbot takes the initiative to repair appliances on its own.
    [5D1] 0xD0496D462B428185: Holo Projector
-   [5D2] 0xD470F9F0EAA5F1EE: Missing your friends from other timelines or distant worlds? Laser Emitted Illusory Anthroprojection technology allows Plumbots to render holographic Sims in incredibly lifelike detail. \n\n• Projects your choice of Sims from other timelines or distant worlds. \n• Socialize and have fun with your best inter-dimensional buddies!
+   [5D2] 0xD470F9F0EAA5F1EE: Missing your friends from other timelines or distant worlds? Laser Emitted Illusory Anthroprojection technology allows Plumbots to render holographic Sims in incredibly lifelike detail.\n\n• Projects your choice of Sims from other timelines or distant worlds.\n• Socialize and have fun with your best inter-dimensional buddies!
    [5D3] 0xE04F4C8E4294D759: Simulated Emotions
    [5D4] 0xCCB3866A2F5D1332: Who couldn’t use a friend? Equip your Plumbot with a full range of human emotions!\n\n• Activates the Social and Mood meters.\n•Grants access to three different Emotional Modes: Happy, Sad, and Angry.\n• Enables interactions to thoroughly express any emotion at any time.
-
    [5D5] 0x9E98D5A2E41F26EC: Sense of Humor
    [5D6] 0xC7CE18B230E0CC47: Brighten up any social event with humor that’s practically scooped from a tin can! This chip transforms your personal Plumbot into a wacky jokester.\n\n• Activates the Social meter.\n• Enables a wide range of joking interactions.\n• Introduces Plumbot to the world of professional Comedy Shows.
    [5D7] 0x3233DBCA24BAC7E2: Mood Adjuster
    [5D8] 0x40F2B45B0ACB575D: Turn all your psychological needs over to modern science! Your Plumbot will dedicate itself to managing the moods of organic Sims.\n\n• Activates the Social meter.\n• Enables various Massage techniques.\n• Equips Plumbot with experimental Mood Beam for direct emotional manipulation.
-
    [5D9] 0x1AD07F20416AF1A4: Musical Machine
    [5DA] 0x2322C5C13F0D7FDF: Turn any robot into a musical prodigy, granting them total mastery of every known instrument.\n\n• Music Skill is raised to maximum for all instruments.\n• Every song in Similization is instantly learned.\n• Plumbot takes the initiative to play music on its own.
    [5DB] 0xB58D09E1F0E45FC6: Office Drone

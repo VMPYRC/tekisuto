@@ -70,7 +70,6 @@ Unknown3: 0x00000000
    [41] 0x8A77B9237BD49A04: Bayside Retreat
    [42] 0x35B7D16279A82A71: Shuttered Isle
    [43] 0x0BEDC65DE030BE81: We are unable to verify that your disc is a valid copy of The Sims 3 Master Suite Stuff. Please contact customer service.
-
    [44] 0x45500689A6F1C54D: No game disc found! Please insert The Sims 3 Master Suite Stuff game disc before proceeding.
    [45] 0x8C13E9E9DE6B80A3: ©2011 Electronic Arts Inc.
    [46] 0x9DF8EA37D53928CC: Fluffing Pillows...
