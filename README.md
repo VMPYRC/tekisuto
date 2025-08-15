@@ -47,14 +47,16 @@
 18. Make your edits
 19. Save
 20. Repeat steps 10 to 16
-21. The loop is steps 17 to 20
+21. Track changes with txt files and through Git. Development must be linear because of the way STBL and package files work.
+22. The loop is steps 17 to 21
 
 ### Folders
 
 - STBL
-  - for package files, each includes a STBL file
+  - for package files
+  - each package includes a STBL and KEY file
 - TXT
-  - used to track text changes because Git cannot read it
+  - used to track text changes because Git cannot read package files
   - mainly for humans to view
 
 ### Originals are from
