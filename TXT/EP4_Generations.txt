@@ -202,7 +202,7 @@ Unknown3: 0x00000000
    [0C5] 0xEB8763C87432BC9F: Chemistry is the scientific art of mixing one substance with another to transform those substances into something miraculous! With the Catalyst Chemistry Lab Station, aspiring chemists of all ages can stir solutions and manufacture matter of all types. Craft potions that will induce happiness, increase stinkiness, and even turn a total klutz into a mechanical genius…for a few hours at least. Be sure to wear protective eyewear and keep the fire extinguisher handy!
    [0C6] 0xEBA0845A9BAE2740: This family friendly coffee table features plush padded sides for kid-safety. Place it in the middle of your living room and rest easy knowing that your child can scamper by with no danger of harming themselves on dangerous table edges.
    [0C7] 0x7AABD34AC94744B0: Hang Ten in your living room with this bodacious coffee table. All the Bras will be envious of this sweet purchase!
-   [0C8] 0xE5D935DB2DD07C36: Enjoy the visual appeal of drawers without the convenience of actual storage space with the Illusionary Coffee Table. Designed by master prankster Mastroni for his House of Hilarity, the purely decorative drawers are glued shut and conceal a hollow interior. You'll never tire of asking your guests to retrieve something from the table and giggling in amusement as they unsuccessfully pull on the handles.  
+   [0C8] 0xE5D935DB2DD07C36: Enjoy the visual appeal of drawers without the convenience of actual storage space with the Illusionary Coffee Table. Designed by master prankster Mastroni for his House of Hilarity, the purely decorative drawers are glued shut and conceal a hollow interior. You'll never tire of asking your guests to retrieve something from the table and giggling in amusement as they unsuccessfully pull on the handles.
    [0C9] 0x39D781E59DCE7D45: Elegance is the word most Sims envision when they think of the splendor of The Endless Acres estate. That elegance is embodied in this lovely replica of the end table from The Endless Acres nursery. Soft to the touch and stain resistant, this lush end table is the perfect accent for your little one's room.
    [0CA] 0x4BBD19B745DD93B4: Painted and polished, this classy end table is especially designed for your bedroom. Great for holding lamps, books, and knick knacks, this end table is functional, but also pleasing in form.
    [0CB] 0x941BFC75AAA1B54D: This stylish and affordable table will make any room feel warm and cozy. Its beautiful filet crochet will make your place feel just like Grandma’s house!
@@ -576,7 +576,7 @@ Unknown3: 0x00000000
    [23B] 0x6CBE7AC5E805633E: Collect the required items and turn them in at {OpTarget}
    [23C] 0x7F06CFC5F2A66DE0: Scavenger Hunt: Beetle Quest
    [23D] 0x8DBE444C181A6F38: Those ingredients look perfect! You have an eye for great produce! 
-   [23E] 0xFDFA3CB9110D122C: The head chef at {OpTarget} is looking to nuture young culinary fans by asking kids find some ingredients around town. Any child that finishes this scavenger hunt will receive a reward!  
+   [23E] 0xFDFA3CB9110D122C: The head chef at {OpTarget} is looking to nuture young culinary fans by asking kids find some ingredients around town. Any child that finishes this scavenger hunt will receive a reward!
    [23F] 0xC3F2C8B795DFE0E5: Collect the required items and turn them in at {OpTarget}
    [240] 0xD63A1BB7A07F3403: Scavenger Hunt: Plump Plantables
    [241] 0xC26808BE372C6CFB: Attend Art-a-thon

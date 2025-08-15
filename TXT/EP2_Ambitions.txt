@@ -64,7 +64,7 @@ Unknown3: 0x00000000
    [03B] 0xD3B607E861A67BE9: In situations where you just don't have time to take the stairs, sliding down a pole may be the quickest option! Just don't try to save time by going back up the same way.
    [03C] 0x140F69DB16B41731: Place this invisible object to spawn spooky fog.
    [03D] 0xB68DC4DE0501222E: The rustic appearance is only one of the benefits of this fountain! The sound of trickling water has been sonically altered to not induce sudden bathroom breaks.
-   [03E] 0x59D98A2F462287DE: Packed full of features like the Dynamic Spirit Processor, the Paranormal Frequency Modulator, and the patent pending Ghost or Spirit Detection System, Landgraab's second iteration on their popular Ghost Positioning System  is no child's toy. Send some ghosts to the afterlife today!
+   [03E] 0x59D98A2F462287DE: Packed full of features like the Dynamic Spirit Processor, the Paranormal Frequency Modulator, and the patent pending Ghost or Spirit Detection System, Landgraab's second iteration on their popular Ghost Positioning System is no child's toy. Send some ghosts to the afterlife today!
    [03F] 0xF72CD7149D7F45FA: The Banshee Banisher packs a punch for any poltergeist in range! Using ultra high-tech, high precision, and high octane specter blasting technology, this item is a must have for any ghost hunting aficionado.
    [040] 0xCC467E55695AF627: Played in ancient times by the hordes of barbarians who invaded Champs Les Sims, the game of Sim Gnubb still survives to this day. Any number can play, taking turns trying to knock over adorable pawns in an effort to crush the mighty King Gnome and win! Safe and fun for all ages. This hierloom-quality hand-made set will last for generations!
    [041] 0x30AE2DC7B78F96D1: use base game text [Placeholder]
@@ -119,7 +119,7 @@ Unknown3: 0x00000000
    [072] 0xF4BB10228287FFB2: use base game text [Placeholder]
    [073] 0x8474176BCD9705AA: use base game text [Placeholder]
    [074] 0x8C7652AE9ACA2B0A: a pile of Scrap
-   [075] 0x0C601BE1C8CE15CE: It may look like the inside of a crate, but this behemoth is taking the art world by storm.  With an easy swivel base and a durable plywood frame,  the station takes care of everything so you can concentrate on being a sculpting savant.
+   [075] 0x0C601BE1C8CE15CE: It may look like the inside of a crate, but this behemoth is taking the art world by storm. With an easy swivel base and a durable plywood frame, the station takes care of everything so you can concentrate on being a sculpting savant.
    [076] 0x1E38CD998BB0296B: This out of this world toy from Mars Encounter comes in peace. Or does it?
    [077] 0xCCC4D8DD95BCEED2: Is there anything more powerful than a chainsaw? I mean c'mon, all these things do is tear and cut their way through anything you point them at! Place one in your home today, and show the world you mean business.
    [078] 0xC51B7B43156DA758: Nothing advertises your dedication to absolute cleanliness like having your favorite cleansers displayed for all to see. Don't hide your commitment to spotless floors, sparkling windows, and dust-free furniture away in a cupboard. Proclaim your passion and let everyone who comes into your house witness your cleaning fervor.
@@ -135,7 +135,7 @@ Unknown3: 0x00000000
    [082] 0x4BCD4AD0BD8A2DC7: A distinguished home for your best china. The dishware will glow with attention from adoring guests as they pour over the casing, the details, and peer through the crystal windows. It's best to take out an insurance policy on a piece like this. Someone just might walk out with it.
    [083] 0x7C3244238A480CEA: With interesting colors and textures clothing is, in fact, art. Pre-selected clothing in a lovely assortment acts as a beautiful bouquet to any setting.
    [084] 0x107D0F256F25EAC0: Artist Xavier Pleniforth explains his sculpture thusly: “While a fish out of water may signify an uncomfortable circumstance, remember that fish frequently jump out of water, at least for a moment. So too should we. In this way, we open ourselves to new discoveries.”
-   [085] 0x3B5B189AC4A52E12: It is unknown when the worshipping of the Dark Emperor began or ended.  This small statue is a pale example of the ancient terrors Sims in the past had to face down on an everyday basis.
+   [085] 0x3B5B189AC4A52E12: It is unknown when the worshipping of the Dark Emperor began or ended. This small statue is a pale example of the ancient terrors Sims in the past had to face down on an everyday basis.
    [086] 0xABFE8C129B5441BD: A magnificent statue that resembles a griffon.
    [087] 0x2C59BFABEDF905B0: This sculpture by little-known artist Manuel Marque celebrates the hand. Manuel was inspired to do this piece after realizing how much of his own work is not only impacted but literally brought into being by the use of his own two hands.
    [088] 0xAC5777F0983F7423: Fiercely proud and majestic in his stance, this unique replica of the famous Simsonian lion has been mass-produced. Made from exquisitely inexpensive materials and quickly molded in an automated process, we had to employ several costly artisans to oversee the manufacturing to even come close to justifying our price.
@@ -253,7 +253,7 @@ Unknown3: 0x00000000
    [0F8] 0x008C79BCD12AFCCE: Nature is always perfect. Inspired by a natural orange slice, so too are our windows.
    [0F9] 0x3042153235C4B49D: Lots-a-Glass Corp. hired a well-known marketing consultant to come up with a slogan for this gorgeous window. After a week of just staring at the window, she declared, "Rectangular Nuggets of Light!"
    [0FA] 0xDC1A051F2D8B4B3D: This four-legged platform of creation by Scuzzmarr Industries is a tour de force for the pencil wielding Architectural Designer or Stylist. It challenges creative professionals to not be constrained by more powerful computing methods and rigid block logic.
-   [0FB] 0xB175A66AF62DDED0: They don't build workbenches quite like they used to but Scraptronic's patented automatic Scrap refill system makes this inventor's workbench almost as good as Grandpa's old garage table.  A broad and sturdy table provides plenty of room for creations of any size and the tackboard will hold all your tools, greasers, nuts and bolts.
+   [0FB] 0xB175A66AF62DDED0: They don't build workbenches quite like they used to but Scraptronic's patented automatic Scrap refill system makes this inventor's workbench almost as good as Grandpa's old garage table. A broad and sturdy table provides plenty of room for creations of any size and the tackboard will hold all your tools, greasers, nuts and bolts.
    [0FC] 0xEFBC4387DD41699F: Brunton's Boxcar
    [0FD] 0x8FCA38AC190BD2DF: Fireman's Friend
    [0FE] 0x15F5186A5E432C79: Wooden Barn
@@ -739,7 +739,7 @@ Unknown3: 0x00000000
    [2DE] 0xB084CF482052FDF0: Ivy Hill Graveyard
    [2DF] 0x94A9FEF4176625D2: Loft / 1 Bath - This open floor plan cottage with large decks and interior can be decorated any way you want…even artsy and eccentric!
    [2E0] 0x55E8E14EAFC6550F: 1BR / 1 Bath - Completely surrounded by decking that provides substantial outdoor living possibilities, this charming modern cottage has loads of appeal.
-   [2E1] 0x6BCB51DFE2365039: 2BR / 3 Bath - A convenient central atrium that leads to a large second floor deck is the feature of this custom built waterside home.  Imagine the compositions inspired by the rain on the tin roof!
+   [2E1] 0x6BCB51DFE2365039: 2BR / 3 Bath - A convenient central atrium that leads to a large second floor deck is the feature of this custom built waterside home. Imagine the compositions inspired by the rain on the tin roof!
    [2E2] 0x4CABF80B56DF0A87: 1BR / 1 Bath - With tall inflated ceilings and a separate studio space, this home can surely contain even the most ambitious artist’s work.
    [2E3] 0x7C3F582608413E9F: 1BR / 2 Bath - This contemporary house is built on traditional lines. A large deck wraps around two sides and a unique floor plan. An additional second story deck adds to its appeal.
    [2E4] 0xA84D0CF557AB5D50: 2BR / 2 Bath - Situated over the water, this house is reached by a short bridge and features two decks, one of which is almost completely private.
@@ -762,15 +762,15 @@ Unknown3: 0x00000000
    [2F5] 0xCE6E04D0B956C148: 7BR / 6 Bath - Although this might look like an apartment block, this single family house merges stately architecture with small town charm. Several generations can live in relative comfort in this house, or at least avoid each other for days at a time.
    [2F6] 0xC5182AF22E4E228A: 6BR / 3 Bath - Classic and elegant, this stately home is perfect for a large family with a total of 6 spacious bedrooms. The main living floor features a very large formal living room and duel flanking sunrooms.
    [2F7] 0x8DEAF50A541F44D6: 1BR / 2 Bath - This stately old summer palace has recently been remodeled to include a large pool and a modern floor plan suitable for the bachelor who likes to entertain in style. Some of the houses features are best left to be discovered on your own.
-   [2F8] 0xDDFBC598537D8135: 3BR / 3 Bath - The perfect house to film a 1950’s sitcom in, this practical and spacious home is ideal for a nuclear family…or at  least a family of the nuclear age.
+   [2F8] 0xDDFBC598537D8135: 3BR / 3 Bath - The perfect house to film a 1950’s sitcom in, this practical and spacious home is ideal for a nuclear family…or at least a family of the nuclear age.
    [2F9] 0x60BC8049586D3DDB: 2BR / 2 Bath - This elegant older home is now made environmentally friendly with dual porches for cooling, vegetable garden, integrated recycling, and no room for a car. We’re sure it can nurture both a family and the planet.
    [2FA] 0xF04536793811741B: 2BR / 2 Bath - This ranch style house has been updated to include a large airy great room perfect for a family, or a single Sim on the prowl.
    [2FB] 0x450B946AA722AAC7: 1BR / 2 Bath - This quaint cottage on a well maintained garden lot represents a blend of craftsman and neo-classical architecture. Built on a solid foundation, we feel it can last an eternity…and then some.
    [2FC] 0xE523E01294C7C929: 2BR / 1 Bath - This classically styled single wide home features a large columned porch, perfect for sipping lemonade as you watch neighbors pass by. Included is extra concrete car pads for parking investment vehicles. Plastic triangle flags are prohibited by the neighborhood association.
    [2FD] 0xCF48A87BEA605E26: 2BR/ 1 Bath - Built on extra high foundations, this open concept home beckons even the most dedicated rambler to settle down. The charming formal porch gives way to open concept living, a big deck, and very quiet spacious bedrooms.
    [2FE] 0x26727B525BE0BC5C: Studio / 1 Bath - Inspired by bird’s nests, children’s tree houses, and forest fire watch stations, this unique home sits head and shoulders above the competition. The surprisingly ample living space features great views and a full wrap around deck.
-   [2FF] 0xCCD33462AF89DD84: 3BR / 3 Bath - Elegance is in the eye of the beholder and this exceptional property can fairly be called a mansion in the eyes of its owners. With a  livable porch, kitchen garage door, and camouflage décor, what more could a family want?
-   [300] 0x486882A9416D7136: 3BR / 3 Bath - This homey shingle style house needs only a family  to make it complete. The laboratory in the basement is only a bonus.
+   [2FF] 0xCCD33462AF89DD84: 3BR / 3 Bath - Elegance is in the eye of the beholder and this exceptional property can fairly be called a mansion in the eyes of its owners. With a livable porch, kitchen garage door, and camouflage décor, what more could a family want?
+   [300] 0x486882A9416D7136: 3BR / 3 Bath - This homey shingle style house needs only a family to make it complete. The laboratory in the basement is only a bonus.
    [301] 0xB2AB7BDD0BF6959A: Loft / 1 Bath - Although the original farmhouse was incinerated a few years ago, the encroaching swamp saved the barn. Undaunted, the eccentric owner has made the barn into a livable if not luxurious space.
    [302] 0x4A9E53B9933B9CB8: 1BR / 1 Bath - Love nests come in many forms, but this tiny house even includes a washer and dryer on the porch! It even features a recently upgraded indoor plumbing!
    [303] 0xA7155DD19F7AE72B: 2BR / 1 Bath - Score outdoor living at its best with this affordably priced home. With its separate bedroom pavilion, and slightly dark and outdated exterior, it’s perfect for the small family on a budget.
@@ -949,14 +949,14 @@ Unknown3: 0x00000000
    [3B0] 0x55A988FEB92F9C24: 
    [3B1] 0x27A48E11A6F90C28: 
    [3B2] 0x79E50229684D8E74: What began as square catalog house grew porches and dormers and finally a cupola. Clearly this is an abode with ambitions.
-   [3B3] 0x40756E85F6834E72: With neoclassical proportions and a well designed floor plan, this house is rarely available to the first time homeowner.  Although it’s probably what many of us envision for a starter home, only the rare buyer can afford this much charm once in a blue moon.
+   [3B3] 0x40756E85F6834E72: With neoclassical proportions and a well designed floor plan, this house is rarely available to the first time homeowner. Although it’s probably what many of us envision for a starter home, only the rare buyer can afford this much charm once in a blue moon.
    [3B4] 0xC17869436AC0FA80: This house harkens back to yesteryear, evoking another era that has blown with the breeze. Grand living can still be found here; with its old growth willows, private pond, and many verandas, tomorrow will always be another day.
    [3B5] 0xF5165BFF8A27BA6F: Borrowing elements from Mount Versimnon and Montisimno, this stately home could be considered a modern castle…and here, every Sim’s home is his or her castle!
    [3B6] 0xE4F5D39F7BE75FD4: Yo, check this out! More urban than most other houses around, this house has serious street cred’. Nothin’ sez urban than red brick and matching pilasters.
-   [3B7] 0x5EE57A50E195FE1E: We’re certain we‘ve seen this house on the opening credits of a cable mini-series.  At any rate, we encourage you to brush up on your croquet and stock up on bloomers and petticoats if you want to spend any significant time here.
-   [3B8] 0x038B02C310AAF145: The stolid front of this house defines its equally no-nonsense interior.  We’re sure the living rooms of this house have hosted many important local dignitaries in interminable tea parties to which fortunately we have never been invited.
+   [3B7] 0x5EE57A50E195FE1E: We’re certain we‘ve seen this house on the opening credits of a cable mini-series. At any rate, we encourage you to brush up on your croquet and stock up on bloomers and petticoats if you want to spend any significant time here.
+   [3B8] 0x038B02C310AAF145: The stolid front of this house defines its equally no-nonsense interior. We’re sure the living rooms of this house have hosted many important local dignitaries in interminable tea parties to which fortunately we have never been invited.
    [3B9] 0xCD6BBE9239C8E686: With ample living space beneath its steep alpine roof, this Summer Cottage has been attracting visitors during the warm months for many years. Perhaps it’s time for less seasonal guests…
-   [3BA] 0xA3DA1FBF3928A1CE: Shootin’ the breeze is easier from a porch and even more fun when drinkin’ your favorite cold beverage.  ‘Course for that you needs a ‘fridgerator.  So when given the chance to build anywhere in the swamp, this place seems like the most logical locale.
+   [3BA] 0xA3DA1FBF3928A1CE: Shootin’ the breeze is easier from a porch and even more fun when drinkin’ your favorite cold beverage. ‘Course for that you needs a ‘fridgerator. So when given the chance to build anywhere in the swamp, this place seems like the most logical locale.
    [3BB] 0xF3C878181CD48453: This sweet home is a sugary confection ideal for the young couple. We’d think the stork would be making a delivery to this house very soon.
    [3BC] 0xD361F7F66C1255CD: Ambitious House - 2 br, 1.5 ba
    [3BD] 0xF6F1A50490463305: Blue Moon Bungalow - 1 br, 1 ba
@@ -1021,7 +1021,7 @@ Unknown3: 0x00000000
    [3F8] 0x39586C3E340E2AC4: Wolfe
    [3F9] 0x535D886ED2CE6E83: Buddy Bailey, more than anything else, is a painter. He loves it with all that he is, but he just can’t seem to get by on an artist’s wage. Gala believes that just because she’s finally done with school, it doesn’t mean the party has to end! Will this couple be able to figure out how to live the lifestyle they love, and be able to pay the mortgage?
    [3FA] 0x74E67C28B51E092E: From the cookhouse of an expensive restaurant to a backyard crawfish cookout, Mary Baker wields the tools of the kitchen with deft culinary skills and technique. So much so that she has made a nice little life for herself and her two sons. Just don’t cross her, unless you want to feel a mother’s wrath!
-   [3FB] 0xAFDDFB9ED1034682: The origins of the Bayless name are a bit hard to track down.  Written records (where legible) even two generations back use the "less," "liss" and even "lies" suffix varietals. Debt prison records from 1788 list one Phillipe Bai l'Est as a catfish-thief and "chronic renegor" but lineage is circumstantial at best, and like little Chase says, "Why y'all cares 'bout 'postrophes?"
+   [3FB] 0xAFDDFB9ED1034682: The origins of the Bayless name are a bit hard to track down. Written records (where legible) even two generations back use the "less," "liss" and even "lies" suffix varietals. Debt prison records from 1788 list one Phillipe Bai l'Est as a catfish-thief and "chronic renegor" but lineage is circumstantial at best, and like little Chase says, "Why y'all cares 'bout 'postrophes?"
    [3FC] 0x0162B7E433441C72: Marc has the smarts to be successful in just about whatever he wants in life, so… he joined the Military. The idea of a desk job just didn’t have the right kind of appeal for him… but we’ll see just how long Marc’s creative side can handle the rigidity of the corps. Maybe a profession with a little more artistic appeal would be better for Marc?
    [3FD] 0x01AC72BEA02C53D0: Don’t be caught wearing last season’s shoes around this superfly fashionista! Amy’s hip to the scene in her neighborhood and knows a thing or two about what’s haute. Working part time hours down at the Day Spa to pay the bills, Amy’s dreams of being a Fashion Phenomenon are what keeps her going. Does she have the styling know how to make it?
    [3FE] 0x0AE7DB581166315C: Lots of folks think young Ms. Carlton isn’t interested in much more than her good looks and trust fund. Not to say that this isn’t true, but deep down Sofia aspires to be much more than her inheritance… as long as it involves her popularity and a lot of partying. Can she prove the tabloids wrong?
@@ -1030,7 +1030,7 @@ Unknown3: 0x00000000
    [401] 0x80FA44C0CB694C00: Molly moved here at a time when she didn’t really know what she was going to do with her life. With few friends and no job, she began volunteering at the Hospital and it just kind of stuck. Now a full-time Medical Intern, Molly is thriving in her new career… but still has few friends. Will she be able to achieve her dream of becoming a World Renowned Surgeon all on her own?
    [402] 0xDAA234F09027ECD5: In line with the Curious family’s inherent longing for the discovery of knowledge (even if it works towards their own detriment), little does Marshall know what his current research at the Science Facility will mean for generations of his family to come. 
    [403] 0x8E49108CC718C1DF: Juan Darer is a man of many mysteries… and talents. After losing his house to a fire, that may or may not have been caused by one of his many inventions, Juan decided to move into the barn next to the remains of his house. If he’s not rummaging through one of the town’s junkyards, you’ll find him here working on his next crazy piece of “art.”
-   [404] 0x82251FC8264A2686: Shamus and Eva are a traditional couple who have come a long way to live here in Twinbrook… and life is a bit different than they expected.  Despite fulfilling a lifelong dream to move here, their new jobs, new neighbors, and new way of life has been a bit overwhelming for them. Will their traditional values and customs keep them from fitting in in Twinbrook?
+   [404] 0x82251FC8264A2686: Shamus and Eva are a traditional couple who have come a long way to live here in Twinbrook… and life is a bit different than they expected. Despite fulfilling a lifelong dream to move here, their new jobs, new neighbors, and new way of life has been a bit overwhelming for them. Will their traditional values and customs keep them from fitting in in Twinbrook?
    [405] 0xCC1D6CD41E2A94DA: "Lil'Dudley Do Goodie" memories of the familial tease-sessions still burn. How many years has he been out? Their laughs have faded but the echoes still ring in the ears. A member of the Racket family behind a badge instead of bars? He walked out of that life early but never got over his fascination with criminal science. Who's the real wise guy now?
    [406] 0x6B38049295DD52AF: The story of how Goodwin and Sinbad ended up as housemates is lost to history, but with such different personalities, the question of why these guys still live together is even more of a mystery. However as fate would have it, Goodwin may find himself in a bit of a pickle in the coming days… one that only Sinbad may be able to help him though.
    [407] 0x5A6932FC402AC289: Since the birth of their first child Jade, Oliver and Holly have tried to raise their family in the greenest and most carbon neutral way possible. From eating sustainably to riding bikes instead of taking cars, Jade and Emerald have looked up to their parent’s ways of doing things. However, the day will come when the kids find themselves being picked on at school for their eco-friendly lifestyle. What will they do then?
@@ -1042,8 +1042,8 @@ Unknown3: 0x00000000
    [40D] 0xBC3D0E1CBAD3E2E5: Clark and Penny are all about the Simoleons. Despite their dwindling day jobs, it’s no secret that Clark is always trying to make it big… he’s always selling and buying things from people, trying to turn a profit. The question is, will Penny stay with him long enough for him to strike it rich?
    [40E] 0xE319EE1E79C45AB0: From the day Dilly was born, Milly hoped her daughter would grow up to be just like her. Little did she know how much like her she would actually be! This crazily eccentric mother-daughter combo has been though a lot together... But can their relationship survive any new romantic interests in town?
    [40F] 0x26B6BE31706389DD: When he was younger, this single father had an exciting career in Law Enforcement… but when his two children came along, and he became their only provider, lots of things changed. Will he be able to raise healthy children and support his family on a teacher’s wage?
-   [410] 0x5E467C5C29A3A4F7: Are personality disorders inherited?  Dennis slipped up and gave an inch. The old man took a mile. Now the corrupt old frauds just take, fake and foil. "Walking defect" Bill skims off the top while the teens beg for attention in neglected obscurity. How long can the sanity assault continue? Will Silver's hijacked years and stolen looks ever know the bitter-sweet taste of revenge? Little Lolly may be this line's only hope of redemption.
-   [411] 0x60AAE3DD167913FB: Murder…  Mystery… Suspense! Anna-Liza is a master of these classic literary devices… But how did she get so good at writing such ominous fiction? The well-liked Ms. Riddle has a taste for all things mortal, morbid, and morose… but these are just thoughts in her head.
+   [410] 0x5E467C5C29A3A4F7: Are personality disorders inherited? Dennis slipped up and gave an inch. The old man took a mile. Now the corrupt old frauds just take, fake and foil. "Walking defect" Bill skims off the top while the teens beg for attention in neglected obscurity. How long can the sanity assault continue? Will Silver's hijacked years and stolen looks ever know the bitter-sweet taste of revenge? Little Lolly may be this line's only hope of redemption.
+   [411] 0x60AAE3DD167913FB: Murder… Mystery… Suspense! Anna-Liza is a master of these classic literary devices… But how did she get so good at writing such ominous fiction? The well-liked Ms. Riddle has a taste for all things mortal, morbid, and morose… but these are just thoughts in her head.
    [412] 0xA19A61FE4B05E26E: High speed chases, encounters with notorious criminals, and dangerous missions are all in a day’s work for this crime investigating duo. With their combined skills in the military and civilian law enforcement agencies, there is never a dull moment for Bobby and Scout as they combine their knowledge to combat cruel injustices. But will they be enough to save the world?
    [413] 0x6268034A49196144: The Whelohff’s seem to have it all. A big shiny house, nice car, and great careers…many people in the neighborhood aspire to be just like them. But with Rich’s late nights at the lab and Rosy’s social life to keep up, will anyone be there to raise the cute and charming little Zo?
    [414] 0xDCCB0D9A216AFED1: Many rock stars hit their peak without ever knowing it and continue a downward spiral of a career into their twilight years. DeAndre Wolfe has come a long way since his childhood in the bayou of Simisouri, but is he at his peak? That’s hard to tell. Will his star shine on, or burn out?
@@ -1161,7 +1161,7 @@ Unknown3: 0x00000000
    [484] 0xD2A4885A69116BDB: Julienne
    [485] 0x25C97DB8B033EA37: Julliene shares her mother's drive and ambition… just not her passion for creativity. Like in most cases, will her mother's passions eventually become her own?
    [486] 0xAC2DDF7E89EC0870: Justin
-   [487] 0xD611EFC544CCF335: Just out of school, Justin more than knows his way around the hi-tech electronic boards of electrical circuits. He's hoping that with his computer know-how and  Inventing skills, he'll never have to work another day in his life.
+   [487] 0xD611EFC544CCF335: Just out of school, Justin more than knows his way around the hi-tech electronic boards of electrical circuits. He's hoping that with his computer know-how and Inventing skills, he'll never have to work another day in his life.
    [488] 0xA465BB5266ADFEA1: Kat
    [489] 0x96F56E354845C8F7: Five years after her divorce, Kat knows exactly what (and who) she wants in life. She's out on the prowl, and she's not letting anyone get in her way. Lookout!
    [48A] 0xA465BB5266ADFEAC: Kay
@@ -1265,7 +1265,7 @@ Unknown3: 0x00000000
    [4EC] 0x5E437367215D0484: Silver
    [4ED] 0xEFEBAFCD9983EA88: When marrying Dennis, Silver had doubts about marrying into the Racket family and its "business." However, when she feel into the family's lap of luxury, any hesitation she had disappeared.
    [4EE] 0x6FCCCD672B5B3BCC: Sinbad
-   [4EF] 0xF38A24EDE135F682: Sinbad is really not that bad of a guy, or at least he doesn't think so. He got caught up  running with a bad crowd, and now he's in too deep to get out. Will he dive in deeper, or look to his friends for help?
+   [4EF] 0xF38A24EDE135F682: Sinbad is really not that bad of a guy, or at least he doesn't think so. He got caught up running with a bad crowd, and now he's in too deep to get out. Will he dive in deeper, or look to his friends for help?
    [4F0] 0x237E6D590F557235: Skeet
    [4F1] 0x87550090B87B881A: Skeet's smarter than your average river lands inhabitant. From the garage door in the kitchen, to spray painting the family truck in camouflage, this guy's a true to life utilitarian. He claims it's just his, "Good ole fashioned survival skills."
    [4F2] 0x0AE7571E0C2DC743: Smattick
@@ -1324,7 +1324,7 @@ Unknown3: 0x00000000
    [527] 0x29793F93AD4A6037: Once a few signatures are gathered from local supporters the clinical study can begin! {OpSourceFirstName} would like {OpOwner} to obtain these signatures while preparations are made at the hospital for the study to begin. Use those charming social skills and obtain those signatures!
    [528] 0x1CB92E695F03A3BC: "Ask for Signature" from {OpNumEventsGoal} Sims to get the trials approved.
    [529] 0x4F37C9D056ECC01E: {OpNumEventsCurrent} / {OpNumEventsGoal} Signatures Obtained
-   [52A] 0x3B1906D686C084D2: That was the last hurdle!  {OpTargetFirstName} can now begin this potentially revolutionary clinical study -- all thanks to {OpOwner}!  Everyone is happy with the news and {OpTargetFirstName} has even rewarded {OpOwner} with a cash reward for the assistance.
+   [52A] 0x3B1906D686C084D2: That was the last hurdle! {OpTargetFirstName} can now begin this potentially revolutionary clinical study -- all thanks to {OpOwner}! Everyone is happy with the news and {OpTargetFirstName} has even rewarded {OpOwner} with a cash reward for the assistance.
    [52B] 0x0B8C3A426E9E714B: "Report In" to {OpTarget} with the good news.
    [52C] 0xF274DF481BD049B9: Report In to {OpTarget}
    [52D] 0xB6C2DC2D7FBF8A03: The previous administrator of the Hospital apparently made some promises to the criminal element in the city to help acquire certain permits. The current administration would like to sever ties with this element without being severed themselves. They've decided to send {OpOwner} to talk it over with the criminals to see about paying this debt once and for all.
@@ -1353,7 +1353,7 @@ Unknown3: 0x00000000
    [544] 0xF8E350E177AC6C93: "Discuss Medical Equipment" at City Hall.
    [545] 0x2C1D23E194796F01: Equipment Arrival
    [546] 0xB20560D99374CC81: Discuss Medical Equipment at {OpTarget}
-   [547] 0x08BE6E927C175249: Your contact at City Hall says that events have changed the stalemate of the equipment certification process.  One of the council members, {OpTarget} voting on the equipment's approval is facing a tough re-election campaign right now and could provide the pivotal and popular supporting vote. {OpOwner} should discuss this with {OpTarget}.
+   [547] 0x08BE6E927C175249: Your contact at City Hall says that events have changed the stalemate of the equipment certification process. One of the council members, {OpTarget} voting on the equipment's approval is facing a tough re-election campaign right now and could provide the pivotal and popular supporting vote. {OpOwner} should discuss this with {OpTarget}.
    [548] 0x720908BAD58B9E02: "Discuss Vote" with {OpTarget} to gain support for issue.
    [549] 0x9ED2DAA32C4BFC48: Discuss Vote with {OpTarget}
    [54A] 0xE3BDFDB6E4BB0F34: That's probably enough votes gained to ease the mind of {OpSourceFirstName}. {OpOwner} should report in to {OpSourceFirstName} with the news.
@@ -1377,7 +1377,7 @@ Unknown3: 0x00000000
    [55C] 0x5CD3A7421392F50C: "Attend Competition" at {OpTarget} for a cash reward, performance boost, and relationship boost with hospital co-workers.
    [55D] 0x900EBC4230621B7E: Medical Knowledge Competition
    [55E] 0x9A24B1FD982F682E: Attend Competition at {OpTarget}
-   [55F] 0x9EB3C88B21137C5D: While {OpOwner} didn't win the competition, victory came really close and was only lost to world renowned surgeon Nigel Balkstein.  The Hospital was hoping for a win, but a close second is fairly decent publicity still.
+   [55F] 0x9EB3C88B21137C5D: While {OpOwner} didn't win the competition, victory came really close and was only lost to world renowned surgeon Nigel Balkstein. The Hospital was hoping for a win, but a close second is fairly decent publicity still.
    [560] 0x099CB0C8739A6D0A: Well done! With doctors like {OpOwner}, and the hospital is sure to maintain a great image with the townsfolk. Ultimately, this means fewer lawsuits!
    [561] 0x123DCFDEB5F741BE: The hospital administrators are starting to worry about the hospital's public image and would like their veteran employees to be a little more aware of the local populace and its opinion of the hospital. They want doctors to go around and meet local Sims in order to put on a good public face.
    [562] 0xFC6B7C46E81FB833: Meet {OpNumEventsGoal} new Sims then return to work for a relationship boost with hospital staff, a cash reward, and a performance boost.
@@ -1641,7 +1641,7 @@ Unknown3: 0x00000000
    [664] 0x48C36C12E188E7C0: Search {OpTarget}'s Garbage Can for Clues
    [665] 0x36B21912D717232A: Someone's Fishy
    [666] 0x85BEAE1553568AFA: Search Garbage Can
-   [667] 0x835A27AFA1EDF8C0: Here's something… I found a bunch of apple cores in {OpSource}'s garbage can. They have some strange bite marks on them… nothing I've ever seen. I should bring a sample to the science lab. Maybe they can make sense of this.  
+   [667] 0x835A27AFA1EDF8C0: Here's something… I found a bunch of apple cores in {OpSource}'s garbage can. They have some strange bite marks on them… nothing I've ever seen. I should bring a sample to the science lab. Maybe they can make sense of this.
    [668] 0x387819E7B7874BD9: "Analyze DNA" at local science facility
    [669] 0x02B104E7988EA0AF: Someone's Fishy
    [66A] 0x46DCE68C69B468EB: Analyze DNA at science lab
@@ -1925,7 +1925,7 @@ Unknown3: 0x00000000
    [780] 0xCAA9915173B7FCF0: The Case of the Closed Chapter
    [781] 0x1231D16DCF7D748B: The Case of the Closed Chapter
    [782] 0xF5D08F3A0553331C: Visit Bookstore
-   [783] 0x328ABF39A91F2F48: Oh cripes! {OpTarget} used me as source material for a new true crime novel. {OpTargetFirstName} got a bad case of writer's block, so a crime was setup and I was hired so that I could be observed in action. I'm  humbled, but this portion of the royalty check will soon soothe my pride.
+   [783] 0x328ABF39A91F2F48: Oh cripes! {OpTarget} used me as source material for a new true crime novel. {OpTargetFirstName} got a bad case of writer's block, so a crime was setup and I was hired so that I could be observed in action. I'm humbled, but this portion of the royalty check will soon soothe my pride.
    [784] 0xD9EE5E9980ACCF1C: The bookstore owner looked at me like an absolute loon. Apparently the notion of book thieves is too hilarious to be remotely plausible. I feel like I'm being had. I should confront {OpTarget} about this supposed book theft.
    [785] 0xBDE0882B16F56395: "Confront" {OpTarget}
    [786] 0xCF4EDB2B20DCC693: The Case of the Closed Chapter
@@ -2039,7 +2039,7 @@ Unknown3: 0x00000000
    [7F2] 0xF3B8F320F65AEABE: "Ask Where {OpSource} was Last Seen" to {OpTarget}
    [7F3] 0x0601482100FBF560: The Case of the Bermuda Triangle Love Triangle
    [7F4] 0xFD1902DD54E2C26C: Question {OpTarget}
-   [7F5] 0x78109A094313815A: I feel like I'm being tugged around like a bull by a matador. {OpSource} doesn't seem to really know {MC.his}{FC.her} "true love" very well at all.  This means I need to ask around and see what other people know about her, considering there's nothing much {MC.he}{FC.she} can tell me.
+   [7F5] 0x78109A094313815A: I feel like I'm being tugged around like a bull by a matador. {OpSource} doesn't seem to really know {MC.his}{FC.her} "true love" very well at all. This means I need to ask around and see what other people know about her, considering there's nothing much {MC.he}{FC.she} can tell me.
    [7F6] 0x8556AB4B95E0FDAF: "Ask About {OpTarget}" to {OpNumEventsGoal} Sims
    [7F7] 0x73E8364B8BF96165: The Case of the Bermuda Triangle Love Triangle
    [7F8] 0x1FF5E64E21F4A295: Question {OpNumEventsCurrent}/{OpNumEventsGoal} Sims
@@ -2195,7 +2195,7 @@ Unknown3: 0x00000000
    [88E] 0xEEDAD6DC4D3D05C5: "Discuss Footprints" to {OpTarget}
    [88F] 0x012329DC57DE0CE3: The Case of the Cop Gone Rogue
    [890] 0x3920594AC5E2DF3F: Speak to {OpTarget}
-   [891] 0xC05BB26F30621305: {OpSource} would typically run these prints past the database at the police station, but the chief would catch wind and shut down our investigation. However, the prints look rather unique. {OpSourceFirstName} suggests I ask {OpNumEventsGoal} Sims around town if they  have seen these shoes.
+   [891] 0xC05BB26F30621305: {OpSource} would typically run these prints past the database at the police station, but the chief would catch wind and shut down our investigation. However, the prints look rather unique. {OpSourceFirstName} suggests I ask {OpNumEventsGoal} Sims around town if they have seen these shoes.
    [892] 0x3E788D1AA2412E9E: "Discuss Shoes" with {OpNumEventsGoal} Sims
    [893] 0x50BFE21AACE08640: The Case of the Cop Gone Rogue
    [894] 0x6FF9797F9247984C: Question {OpNumEventsCurrent}/{OpNumEventsGoal} Sims
@@ -2373,7 +2373,7 @@ Unknown3: 0x00000000
    [940] 0xEDD82540E1CE0EC5: Use a computer to "Hack" {OpTarget}'s computer
    [941] 0x00207840EC6F15E3: The Mystery of the Mutant Fruits
    [942] 0x917B606A4BA4F83F: Hack Computer
-   [943] 0xC4C675BCACD6C605: I'm dumbfounded by what I've just seen. It's a conspiracy implicating  local politicians, pharmaceutical corporations, farmers, and restaurants. This isn't good! This is way bigger than me, which means I need to tell {OpTarget}, a local journalist. 
+   [943] 0xC4C675BCACD6C605: I'm dumbfounded by what I've just seen. It's a conspiracy implicating local politicians, pharmaceutical corporations, farmers, and restaurants. This isn't good! This is way bigger than me, which means I need to tell {OpTarget}, a local journalist.
    [944] 0x3D75DB7F36D2379E: "Blow Whistle" to {OpTarget}
    [945] 0x4FBD307F41718F40: The Mystery of the Mutant Fruits
    [946] 0xC854809F1809B14C: Blow Whistle
@@ -2438,7 +2438,7 @@ Unknown3: 0x00000000
    [981] 0x942B9CDBF86F2C8C: The Case of the Missing Mouthwash
    [982] 0x4A61CB231C2F2868: Return Mouthwash
    [983] 0x7E5DAFD4A84E2D48: Not exactly the most gripping read, but the book definitely had some good advice on rounding up the rascals. It should help you impress your boss and move up at school.
-   [984] 0xE05B35F91D86691C: As a playground monitor, you'll have to keep the kids in line in between classes. Your boss thinks  reading "How to Run Recess" will help you out. Read the book to get some job performance and the respect of your boss.
+   [984] 0xE05B35F91D86691C: As a playground monitor, you'll have to keep the kids in line in between classes. Your boss thinks reading "How to Run Recess" will help you out. Read the book to get some job performance and the respect of your boss.
    [985] 0x61350731C70C5195: Read "How to Run Recess" to improve your job performance and increase your relationship with your boss.
    [986] 0x72A35A31D0F3B493: Running Recess
    [987] 0xAA5EB00555671F8F: Read Education book.
@@ -2448,7 +2448,7 @@ Unknown3: 0x00000000
    [98B] 0xB53DEA3C05EF73CA: Making the Grade
    [98C] 0x1A367227C773259A: Read Education book.
    [98D] 0x833EBFA6174D66CE: Reading that book really gave you respect for substitute teachers. You feel a little bad about pestering them when you were in school.
-   [98E] 0x5A0796FDB81E11CA: Being a substitute teacher is no easy task, which is why your boss wants you to read "Substitutes: There is No Substitute". You'll gain some  job performance and relationship with your boss.
+   [98E] 0x5A0796FDB81E11CA: Being a substitute teacher is no easy task, which is why your boss wants you to read "Substitutes: There is No Substitute". You'll gain some job performance and relationship with your boss.
    [98F] 0xC44A716BF1466ADF: Read "Substitutes: There is No Substitute" to improve your job performance and increase your relationship with your boss.
    [990] 0xB5693C6BE98A72B5: No Substitute
    [991] 0x9B13A47B5B92F945: Read Education book.
@@ -2570,7 +2570,7 @@ Unknown3: 0x00000000
    [A05] 0xDEA45DA6DDC8B9C5: Collect and deliver {OpNumItemsGoal} Scrap to the Warehouse to earn a cash reward and relationship boost with the Warehouse workers.
    [A06] 0xF0ECB0A6E869C0E3: Scrap For Toys?
    [A07] 0x270EEF918133D33F: {OpNumItemsCurrent}/{OpNumItemsGoal} Scrap Collected
-   [A08] 0xC045A7B0B7451916: That's probably enough Sims convinced.  It's time to report to City Hall.
+   [A08] 0xC045A7B0B7451916: That's probably enough Sims convinced. It's time to report to City Hall.
    [A09] 0xF374810A9DF55DC2: The Society for the Conservation of Technological Improvements is worried about mounting criticism of excess technology in town. They'd like {OpOwner} to canvas the neighborhood and make sure Sims know that technology is cool, fun, and mostly safe. It would really help if {OpOwner} could convince {OpNumEventsGoal} citizens to not vote against the Society's tech initiatives. When finished, report to City Hall for a reward!
    [A0A] 0x790BA173D6AE5C57: "Convince Technology is Good" to {OpNumEventsGoal} Sims then report to City Hall for some Cash and a relationship boost with City Hall employees.
    [A0B] 0x66FA2C73CC3C5D9D: Technical Arguments
@@ -2584,7 +2584,7 @@ Unknown3: 0x00000000
    [A13] 0xF23C8418A5EFF688: Teching Up the Spa
    [A14] 0x02F2246A36E73544: {OpNumItemsCurrent}/{OpNumItemsGoal} Hygienators
    [A15] 0xD691357C560E7839: The scientists couldn't wait to inspect all the Widgets and test them on the "SMBA." {OpOwner} watched the first tests and was thoroughly enlightened.
-   [A16] 0xF19D9EF0DEA1CA97: There is an increasing need for tasteful and decorative sculptures that can be used as targets for the Science Facility's new Simdron Multi-Beam Array. The science facility needs {OpOwner} to make and deliver Widgets so they can begin testing  the array immediately. It should be quite rewarding, plus {OpOwner} might get to see some of the "tests."
+   [A16] 0xF19D9EF0DEA1CA97: There is an increasing need for tasteful and decorative sculptures that can be used as targets for the Science Facility's new Simdron Multi-Beam Array. The science facility needs {OpOwner} to make and deliver Widgets so they can begin testing the array immediately. It should be quite rewarding, plus {OpOwner} might get to see some of the "tests."
    [A17] 0x1724B26D9BAE1F9C: Build {OpNumItemsGoal} Widgets and deliver them to the Science Facility for a cash reward, an inventing skill boost, and relationship boost with the scientists.
    [A18] 0x4CEB876DBAA65E6E: Target Practice
    [A19] 0x86313E84776EB6FE: {OpNumItemsCurrent}/{OpNumItemsGoal} Widgets Built
@@ -2672,12 +2672,12 @@ Unknown3: 0x00000000
    [A6B] 0xB09B1C8BC20B31AF: "Attend Convention" at the Stadium before it ends to earn an inventing skill boost and potentially an invention blueprint.
    [A6C] 0x9F2CA78BB8239565: The Great Invention Convention
    [A6D] 0x6A461E4AE80C1695: Attend Convention at the Stadium
-   [A6E] 0x8AE72B2B4AA8EAC6: The piece is a success!  It will look marvelous in the new annex and everyone will know who made it by the sheer quality of the piece.
+   [A6E] 0x8AE72B2B4AA8EAC6: The piece is a success! It will look marvelous in the new annex and everyone will know who made it by the sheer quality of the piece.
    [A6F] 0xA29658601DDE9D52: {OpTarget} is upgrading the lobby at the office and wants a high quality Sculpture to be placed in the annex. {OpTarget} wants {OpOwner} to make a custom Brilliant Sculpture. Upon delivery, {OpOwner} will receive payment.
    [A70] 0x035DBBAD5E063CE7: Create a Brilliant Sculpture and deliver it to the Business Office for a cash reward and relationship boost with the Business Office employees.
    [A71] 0xF14C86AD5394AB4D: High Quality Delivery
    [A72] 0x45D15954A35A4AED: Create a Brilliant Sculpture
-   [A73] 0xB730B1C3EF51DC50: {OpTargetFirstName} was happy to receive the consignment and made many comments regarding the fine quality of {OpOwner}'s craftsmanship.  
+   [A73] 0xB730B1C3EF51DC50: {OpTargetFirstName} was happy to receive the consignment and made many comments regarding the fine quality of {OpOwner}'s craftsmanship.
    [A74] 0x0BFF2C0998C6A454: {OpTarget} wants to dial back the age of the dining room at home by just a bit. {OpTarget} would like to get {OpNumItemsGoal} Dining Chairs sculpted out of Stone to create a nice "Cro Magnon" feel. {OpTarget} is willing to pay {OpOwner} a reasonable fee for the work.
    [A75] 0x861DA7EE5079B32D: Deliver {OpNumItemsGoal} Dining Chair Sculptures made from Stone to {OpTarget} to earn a cash reward, a sculpting skill boost, and relationship boost with {OpTargetFirstName}.
    [A76] 0x982EFAEE5AEB77DB: Sculpt a Dining Set
@@ -2688,7 +2688,7 @@ Unknown3: 0x00000000
    [A7B] 0x0964A65EAFD0CA73: Sculpture for a Friend
    [A7C] 0xECF7142A531EB96F: Make a Sculpture
    [A7D] 0xEC21DAB3DFCC4D23: {OpTargetFirstName} was a bit persnickety about a few of the topiaries delivered, but ultimately {OpOwner}'s work was well received. {OpOwner} learned something about crafting sculptures in the process!
-   [A7E] 0x70C6D021CE095F99: {OpTarget} wants to invest in lawn decorations and has heard that {OpOwner} can make Topiaries.  {OpTargetFirstName} wants to order {OpNumItemsGoal} custom Topiaries for delivery.
+   [A7E] 0x70C6D021CE095F99: {OpTarget} wants to invest in lawn decorations and has heard that {OpOwner} can make Topiaries. {OpTargetFirstName} wants to order {OpNumItemsGoal} custom Topiaries for delivery.
    [A7F] 0xBAAB09B2CE896312: Deliver {OpNumItemsGoal} Topiaries to {OpTarget} to receive a cash reward, a sculpting skill boost, and relationship boost with {OpTargetFirstName}.
    [A80] 0x851B16B2AFC034DC: Delivering the Green
    [A81] 0x68D84D4AB8CF2718: {OpNumItemsCurrent}/{OpNumItemsGoal} Topiaries
@@ -2729,13 +2729,13 @@ Unknown3: 0x00000000
    [AA4] 0x049CC1B7FD0FB6E8: Create a Sim Sculpture of {OpTarget} and deliver it for a cash reward, a sculpting skill boost, and relationship boost with {MB.him}{FB.her}.
    [AA5] 0xF2546EB7F26EAFA2: Personal Sculpting
    [AA6] 0x76761AEFBB102662: Create a Sim Sculpture of {OpTarget}
-   [AA7] 0xCA1BD0F9B93AF15E: {OpOwner} did an excellent job and helped prove the concept of using 3-D sculptures to identify suspects.  The officers are quite happy with this crime fighting improvement!
+   [AA7] 0xCA1BD0F9B93AF15E: {OpOwner} did an excellent job and helped prove the concept of using 3-D sculptures to identify suspects. The officers are quite happy with this crime fighting improvement!
    [AA8] 0xFABACA11029BADBA: The {OpTarget} wants to try a new method of suspect identification. Instead of a sketched drawing, they want {OpOwner} to make a 3-D sculpture based on a witness' description. The {OpTarget} will pay {OpOwner} to come to the Police Station to sculpt the suspect.
    [AA9] 0x1C9BDD3680DD228F: "Sculpt Suspect" at the Police Station to earn a cash reward and relationship boost with the Police Station employees.
    [AAA] 0x0B2E683676F73945: Sculpt a Suspect
    [AAB] 0x410E3288F5818275: Sculpt Suspect at the Police Station
    [AAC] 0xA97E51825BB95A69: While delivering the sculpture, {OpOwner} discovered that famous sculptor Aarden Von Clay was at the station giving a seminar on identifying artists by their handiwork. {OpOwner} sat in on a free lesson before leaving!
-   [AAD] 0x2EB013CAD980CFA7: {OpTarget} would like a sculpture of any Sim delivered for some kind of testing or training. {OpTarget} wasn't too specific with the details!  An additional requirement is that the sculpture is made of ice. They are confident {OpOwner} will find the effort is justified by a cash reward.
+   [AAD] 0x2EB013CAD980CFA7: {OpTarget} would like a sculpture of any Sim delivered for some kind of testing or training. {OpTarget} wasn't too specific with the details! An additional requirement is that the sculpture is made of ice. They are confident {OpOwner} will find the effort is justified by a cash reward.
    [AAE] 0x9776BA5FA9B5BB6C: Deliver an Ice Sculpture of any Sim to the Police Station to earn a cash reward, a sculpting skill boost, and relationship boost with the Police Station employees.
    [AAF] 0xCE17CF5FC96809DE: Sims on Ice
    [AB0] 0xFA49944283E7FE8E: Create an Ice Sculpture of any Sim
@@ -2745,7 +2745,7 @@ Unknown3: 0x00000000
    [AB4] 0x3FBE0D8DA2190487: Larger Than Necessary Doorstop
    [AB5] 0x25E17A123090EC53: Create a Stone Sculpture
    [AB6] 0xF108B0C1CB72D225: A rather dangerous looking and large fellow accepted the sculptures, but was unhappy to discover they weren't hollow. {OpOwner} had to spend some extra time to hollow them out before leaving.
-   [AB7] 0x04738D4B703B4C4B: A sketchy sounding fellow from {OpTarget} contacted {OpOwner}. The Sim would like {OpNumItemsGoal} Wood Sculptures delivered for an "art project."  Someone in the background mentioned Troy and a huge horse, but that's probably not important.
+   [AB7] 0x04738D4B703B4C4B: A sketchy sounding fellow from {OpTarget} contacted {OpOwner}. The Sim would like {OpNumItemsGoal} Wood Sculptures delivered for an "art project." Someone in the background mentioned Troy and a huge horse, but that's probably not important.
    [AB8] 0xC37FD1EA4353FDE0: Deliver {OpNumItemsGoal} Wood Sculptures to the Warehouse to receive a cash reward, a sculpting skill boost, and relationship boost with the Warehouse employees.
    [AB9] 0xB16E7EEA38E2394A: An Old Ruse
    [ABA] 0xFF60DCD8CF7F031A: {OpNumItemsCurrent}/{OpNumItemsGoal} Wood Sculptures
@@ -2823,11 +2823,11 @@ Unknown3: 0x00000000
    [B02] 0x0F3FB67D74074EBB: Sneaking Cookie Dough…
    [B03] 0x57388E4299F3C9C0: We are unable to verify that your disc is a valid copy of The Sims 3 Ambitions. Please contact customer service.
    [B04] 0x7FEFC18DA7437E3C: No game disc found! Please insert The Sims 3 Ambitions game disc before proceeding.
-   [B05] 0x1B014CF176504808: You placed a consignment store.  This location is perfect for putting your sims handcrafted goods up for sale.
-   [B06] 0xCA5A87824A74315E: You placed a fire station.  This is the lot where firemen live while on duty.
-   [B07] 0x5596AC49170EBB20: You placed a junkyard.  This place is perfect for finding Scrap and other treasures sims do not want anymore.
-   [B08] 0x519E8C235893F37C: You placed a junkyard.  This place is perfect for finding Scrap and other treasures sims do not want anymore without having to deal with large crowds.
-   [B09] 0x24161F78472250A3: You placed a laundromat.  This lot is great for washing the clothes and sheets of sims who have no washer or dryer at home.
+   [B05] 0x1B014CF176504808: You placed a consignment store. This location is perfect for putting your sims handcrafted goods up for sale.
+   [B06] 0xCA5A87824A74315E: You placed a fire station. This is the lot where firemen live while on duty.
+   [B07] 0x5596AC49170EBB20: You placed a junkyard. This place is perfect for finding Scrap and other treasures sims do not want anymore.
+   [B08] 0x519E8C235893F37C: You placed a junkyard. This place is perfect for finding Scrap and other treasures sims do not want anymore without having to deal with large crowds.
+   [B09] 0x24161F78472250A3: You placed a laundromat. This lot is great for washing the clothes and sheets of sims who have no washer or dryer at home.
    [B0A] 0x3B0BE1D6BC11160D: You placed a salon. This place is perfect for getting your Sims all dressed up for a night on the town...
    [B0B] 0xC382FBC31E51E28B: Firefighters need to spend their work hours at the local fire station in case there’s an emergency…
    [B0C] 0x8974578C8523F201: Firefighters can tackle infernos more quickly with an Upgraded Fire Extinguisher!

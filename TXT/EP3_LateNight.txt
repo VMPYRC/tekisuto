@@ -55,7 +55,7 @@ Unknown3: 0x00000000
    [032] 0x0A058207E4D9D804: Pull up the Unobtrusive Bar Stool for a long night of Nectar drinking and enjoy a perfectly pleasant platform for parking your posterior. Chances are you'll be too busy exchanging bon mots with an eccentric cast of friends to notice anything particularly interesting about it.
    [033] 0x12CAB36EA0389EAC: Enjoy a superior vantage point over vertically challenged Sims when you perch upon the Arga Stool XR. The ultimate in ergonomic barstool comfort, the Arga Stool XR represents a landmark in barstool design brought to you by famed chair designer Bergren Pehrsson. 
    [034] 0xFFC6691B4CCFDCE9: You'll produce sonorous reverberations when you play the 100% handmade Shibata String Bass. Bow away your friends and fans as your nimble fingers fly smoothly over the four strings of this bass wonder.
-   [035] 0xBCFD15A25D5941FD: Bunk down in the Ultimate Bungalow Bed and enjoy roomy accommodations for you and your significant other or whoever you may be sharing your bed with tonight. Sink deep into the patented Rejuvamatic  foam mattress and enjoy a restful night's sleep without feeling your bedmate kicking and flopping around.
+   [035] 0xBCFD15A25D5941FD: Bunk down in the Ultimate Bungalow Bed and enjoy roomy accommodations for you and your significant other or whoever you may be sharing your bed with tonight. Sink deep into the patented Rejuvamatic foam mattress and enjoy a restful night's sleep without feeling your bedmate kicking and flopping around.
    [036] 0xD34807901BB88D39: They say beggars can’t be choosers, but you can choose to force your Sim sleep on this foul pile of trash. Sleep tight; don’t let the bed bugs bite!
    [037] 0x9A2A708D1E47385D: Termite Spawner
    [038] 0x2873671BDD6E349C: Spider Spawner
@@ -71,7 +71,7 @@ Unknown3: 0x00000000
    [042] 0x5B2CF6F0D5C71082: Landgraab Industries' Caution Barrier is quite a handy upgrade from their standard caution cones...
    [043] 0x87529ABBAEE72963: Add a touch of debonair style to your dining room with the addition of a Classy Dining Chair. Need more style? Then add more chairs! Two! Three! Four! Maybe more? A room can never have too much class, so add these gorgeous chairs en mass!
    [044] 0xC4EADDB3BB44FF03: Ever since the Slab became the new school of furniture design around the world, Yang3D has stayed atop the trend and mastered it in this beautiful living chair. Its statuesque form belongs in a modern art museum and in your home.
-   [045] 0x0389E731CAFBAECC: Decorate your décor with the finest in faux Italian elegance with the Contraffati Extra Grande Club Chair.  The elegant curves and minimum of padding guarantee hours of uncomfortable sitting experience.
+   [045] 0x0389E731CAFBAECC: Decorate your décor with the finest in faux Italian elegance with the Contraffati Extra Grande Club Chair. The elegant curves and minimum of padding guarantee hours of uncomfortable sitting experience.
    [046] 0x68941E31737BF6D2: You'll raise a glass and say "Cheerio!" when you plop yourself down in the welcoming Foxworthy Modern Club Chair. Suave and savvy, the chair is a fixture in fine British taverns everywhere.
    [047] 0xC361AB0766AC1638: Club SoVino patio furniture is just the right dash of wicker and vintage, perfect for evenings by the pool with a glass of Nectar. This lounge chair shouts ‘money’ so you don’t have to say it.
    [048] 0x2EEF54D042A6F438: This fine building contains City Hall, the Military Headquarters, and the Police Department.
@@ -110,7 +110,7 @@ Unknown3: 0x00000000
    [069] 0x7B6A0C134572D2A2: Gobo Light Ceiling 4x4 Placeholder Des.
    [06A] 0x7B641013456E6D82: Sometimes a party just won't get started: Sims are standing against the walls, arms crossed, bored out of their minds. When you feel that twinge of social anxiety because it seems like no one is having a good time, you need the party-hearty assurance brought by Gobo Light Mania. Switch them on and watch a party erupt in any location, from a firehouse to a school to your kitchen!
    [06B] 0x8FAC49DBB0746ACB: Feel the pulse of the audience when you strum on this Iconic Jam Guitar. Modeled after the favorite guitar of legendary guitarist King Llama, the Iconic Jam Guitar is a flashy accessory that any rock star will enjoy.
-   [06C] 0xA21E78A3B64EC510: Zeigler Exclusive, the finest name in kitchen furnishings, brings the  secrets of world-class baristas into your own home with the Elitissimo At-Home Barista! The gleaming reservoir heats water to the perfect temperature without the danger of scalding yourself...well, at least until the beverage is in the cup. Finally, a classy way to get your two steamy hot beverages today (as recommended by the International Mug Makers Association).
+   [06C] 0xA21E78A3B64EC510: Zeigler Exclusive, the finest name in kitchen furnishings, brings the secrets of world-class baristas into your own home with the Elitissimo At-Home Barista! The gleaming reservoir heats water to the perfect temperature without the danger of scalding yourself...well, at least until the beverage is in the cup. Finally, a classy way to get your two steamy hot beverages today (as recommended by the International Mug Makers Association).
    [06D] 0xB9145A9C3C48925D: Evoking feelings of tranquility and relaxation, the soothing surroundings will ease worried minds while the aches of the body will vanish mere moments after total immersion into the steamy depths. This tranquil tub is designed for Sims with discerning aesthetic tastes and features a pleasing combination of natural tones accented with real stone. Embrace inner peace with a refreshing dip in The Serenity.
    [06E] 0x4AEC20916B144188: This the hot tub basin. It is the bottom of the Hot Tub.
    [06F] 0x18FBB0855BC3EF82: Part hot spring, part jungle pool, this hot tub is the ultimate in luxury for discerning Sims the world over. We invite you to experience heightened levels of relaxation brought about by the swirling warm waters. Let the multitudes of bubbles gently massage your skin. Sit back, relax, and listen to the serenade of the waterfall. The Majestic Grotto…it's like nature, only better.
@@ -201,11 +201,11 @@ Unknown3: 0x00000000
    [0C4] 0x0E815E0A261FB520: Encourage good hygiene by installing the Soaporific Cleanliness Device in your bathroom. The generous reservoir stands waiting for you to fill it with nuclear pink soap. Enjoy the best in soap dispensing devices employed by truck stops all over the country!
    [0C5] 0xAE1B243902F82FBA: Give the Endless Towel Roll a pull and wipe your hands on a "fresh" towel that is just barely absorbent enough to get your hands dry. The Endless Towel Roll! It's marginally better than wiping your hands on your pants!
    [0C6] 0x8B1657300FB50AE1: Outside these walls the debate rages on: should toilet paper rolls be loaded over or under? Conventional wisdom states that nearly 70% of the population prefers over, but you’re not one to offend. You prefer the elegant simplicity of perching it on its side—or perhaps it’s just an excuse to touch as little as possible in this bathroom.
-   [0C7] 0xF0D37506CD66386B: An all-purpose, eye-catching, crowd-drawing piece of flourescent signage for any lonely wall or venue.  
+   [0C7] 0xF0D37506CD66386B: An all-purpose, eye-catching, crowd-drawing piece of flourescent signage for any lonely wall or venue.
    [0C8] 0x738BA99E1BB6572A: Rockerville Nation Inc. manufactures these signs for that worthy venue that lives up to its hype and delivers great new live music. Sims across town have been pilfering these iconic signs to hang on their garage walls for years. Now you can get one legitimately and proudly to display your support for the breakout music scene.
-   [0C9] 0x0C72A8823C37D26C: Twinbrook is famous for many things, not least of which is its refreshing ice-brewed Twinbock ginger ale bottled right at the source. Show your love for Twinbock with this vintage tavern sign.  How else will a thirsty traveler know to stop by?
+   [0C9] 0x0C72A8823C37D26C: Twinbrook is famous for many things, not least of which is its refreshing ice-brewed Twinbock ginger ale bottled right at the source. Show your love for Twinbock with this vintage tavern sign. How else will a thirsty traveler know to stop by?
    [0CA] 0x3D8AE7880F94183B: With so many great dance venues these days, distinguish yours with TechnoShark, the universal shark symbol of great electro, trance, and house beats. How will they know this is the place to be? TechnoShark will tell them. Works well on any bare wall or window.
-   [0CB] 0xFB73268EA998F50C: The story behind Blue Cheese Corporation's wolf and moon motif is that famous country song "Owl on the Moon."  The song tells the tale of an Alaskan wolf that sees an owl on the moon and can't sleep all night howling at it. Own this wondrous piece of graphic design today.
+   [0CB] 0xFB73268EA998F50C: The story behind Blue Cheese Corporation's wolf and moon motif is that famous country song "Owl on the Moon." The song tells the tale of an Alaskan wolf that sees an owl on the moon and can't sleep all night howling at it. Own this wondrous piece of graphic design today.
    [0CC] 0xCBC5CC6F21ED140E: Señor Custer, the storied club and lounge entrepreneur of yesteryear, had one concern for his early juice taverns and speakeasies: everyone must have a seat! This modern take on his early sectional seating design guarantees an endless combination of seating arrangements to provide a place to sit for all!
    [0CD] 0x05FBE51C70B2FDF5: This custom made seating comes pre-soaked in Nectar, fried food crumbs, and a dingy musk that will give any establishment that questionable feel.
    [0CE] 0xE1783C9DC9992385: shell building high rise large leo center description needs text
@@ -246,7 +246,7 @@ Unknown3: 0x00000000
    [0F1] 0x67C9A493C92E1A9A: Inspired by puzzle pieces of a childhood past, this playful table invites small talk about said table. The mix of curves and lines are thoughtful and self-aware, as any good conversation piece should be.
    [0F2] 0xA01CC8AC4551CD80: From your friends at Classy Glass comes a chic, modern take on the everyday dining table. Symmetrical elegance paired with modern glass making techniques have led artisans to create a table that is breathtaking to behold. Fingerprint smudges are inevitable, but this luxury table is guaranteed not to break or crack! Remember, it's not just any glass—it's Classy Glass!
    [0F3] 0x6F420BC802B99AD0: Hi-Tech furniture meets hi-tech thinking with the M0nolith 3nd 7able, the culmination of forward thinking design. The fiber optics embedded in stone may pulse a variety of colors, but this table screams green. Solar power at an off-site location is transmitted through a magnetically coupled resonance to give this table its glow, making it a triumph of form and function.
-   [0F4] 0xD0C7F9A35D993015: Paddy's Irish Pub Stand is a perfect platform to place your drink as you enjoy some conversation with a  new friend or a potential lover. While you lean over the oak top to whisper in someone's ear, rest assured that the stand will stay solid as you bond with someone forever... or just for a night.
+   [0F4] 0xD0C7F9A35D993015: Paddy's Irish Pub Stand is a perfect platform to place your drink as you enjoy some conversation with a new friend or a potential lover. While you lean over the oak top to whisper in someone's ear, rest assured that the stand will stay solid as you bond with someone forever... or just for a night.
    [0F5] 0x869750BC8919C439: When famed club and lounge entrepreneur Señor Custer created his original sectional seating design, he was adamant about planning an accompanying table. Guaranteed to fit perfectly in any arrangement of sectional seats, this table gives everyone a place to rest their drink glass.
    [0F6] 0x906C2BEA32239CB8: Created as an accompaniment to the Dive Seating, the varnished-look Plastique tabletop is designed to resist a variety of glass rings and finger food stains!
    [0F7] 0xE5C78BC67AFAF1E7: This industrial-strength marvel is low on style but high on functionality. Constructed of the highest grade porcelain, its gentle curves stand ready to cup the bottoms of thousands of patrons in a single night. 
@@ -641,49 +641,49 @@ Unknown3: 0x00000000
    [27C] 0xAD576402D01F7DA1: 332 Silvertone Way
    [27D] 0x3A3D11944D3ACF6C: 64 Queensbury Road
    [27E] 0xE2468549BD093B91: 2097 Edgewood Road
-   [27F] 0x4A29F245A1AE92D0: Sometimes even the best location can fall out of favor.  Remodeled cheaply many times, Crescent Bay Plaza is again under renovation which for now just means a lot of noise for its hapless residents.
-   [280] 0x35A4FB4D54EA9C63: This historic building was once the meeting place of Bridgeport’s movers and shakers.  However, lately it has fallen out of fashion and is now the denizen of citizens who do much less shaking and not too much moving either.
-   [281] 0x0AF7EA06D3D4DD80: Built on stilts to take advantage of a steep property, this contemporary house features outstanding city views, twin bedrooms, and multiple view decks.  You’ll hardly notice that traffic winds around 3 sides of the house.
-   [282] 0xC575506C08D3F619: An efficient studio apartment is offered in the trendy floodgate section of town.  Live here and be close to industry and the bustle of the upper bay.
+   [27F] 0x4A29F245A1AE92D0: Sometimes even the best location can fall out of favor. Remodeled cheaply many times, Crescent Bay Plaza is again under renovation which for now just means a lot of noise for its hapless residents.
+   [280] 0x35A4FB4D54EA9C63: This historic building was once the meeting place of Bridgeport’s movers and shakers. However, lately it has fallen out of fashion and is now the denizen of citizens who do much less shaking and not too much moving either.
+   [281] 0x0AF7EA06D3D4DD80: Built on stilts to take advantage of a steep property, this contemporary house features outstanding city views, twin bedrooms, and multiple view decks. You’ll hardly notice that traffic winds around 3 sides of the house.
+   [282] 0xC575506C08D3F619: An efficient studio apartment is offered in the trendy floodgate section of town. Live here and be close to industry and the bustle of the upper bay.
    [283] 0x7A4F0C5AC001E8F1: The two story garage addition, with a mother in law apartment above, softened the effect of this hastily constructed house. However most locals still call it "Raised Eyebrows" because the façade resembles an ornery face.
    [284] 0x4BB20C742D4000C7: This chateau was built in the golden era of the Silver Screen when Bridgeport was the center of Film making. If this prohibition era mansion could talk, imagine the stories it could tell. Dual master suites and a speakeasy in the basement are among its many charms.
-   [285] 0x3936998B5F357257: A modest house in the suburbs of Bridgeport can bring a Sim happiness.  This one features an obstructed view from the upstairs bedroom of houses that have unobstructed views.
-   [286] 0xEE47F96D9965131E: Long ago, a row of mansions lined downtown Bridgeport. The Landgraab Brownstone is now the only one to remain.  Although the once opulent residence has been divided into income producing apartments, the historic garden and elegant façade are largely intact.
-   [287] 0x85C55BA026D7D5E6: The distant skyline of Bridgeport beckons from this unimposing house.  Being the first house on the block means you get home from work earlier than your neighbors!
+   [285] 0x3936998B5F357257: A modest house in the suburbs of Bridgeport can bring a Sim happiness. This one features an obstructed view from the upstairs bedroom of houses that have unobstructed views.
+   [286] 0xEE47F96D9965131E: Long ago, a row of mansions lined downtown Bridgeport. The Landgraab Brownstone is now the only one to remain. Although the once opulent residence has been divided into income producing apartments, the historic garden and elegant façade are largely intact.
+   [287] 0x85C55BA026D7D5E6: The distant skyline of Bridgeport beckons from this unimposing house. Being the first house on the block means you get home from work earlier than your neighbors!
    [288] 0x8A7909630470E19C: With a 180 degree unobstructed view of the Ocean, Cliff Cottage is the perfect house for entertaining on a grand scale or just getting away from it all.
-   [289] 0x9ED11ACA1E428FA3: Return to this endearing home from your evening commute.  The serenity of a bedroom community can be yours.
+   [289] 0x9ED11ACA1E428FA3: Return to this endearing home from your evening commute. The serenity of a bedroom community can be yours.
    [28A] 0xB1AC10C2F908B9C7: Owning the best house in a moderate neighborhood is generally considered a poor investment… Unless you are a politician who must live among his constituents.
-   [28B] 0x1B9F44D1A5EADEA8: If you are searching for a five car garage with panoramic views, your search ends here.  Perhaps built with more cash than class, the door bell goes “bling.”
+   [28B] 0x1B9F44D1A5EADEA8: If you are searching for a five car garage with panoramic views, your search ends here. Perhaps built with more cash than class, the door bell goes “bling.”
    [28C] 0xAE9481302007CF44: Named when they had an ocean view, these apartments are moderately priced and convenient to downtown, the civic center and the stadium, but there are no ocean views.
    [28D] 0x9677F7285333262A: For some reason single male Sims seem especially attracted to this building. Perhaps it is the partially covered sports-car parking?
    [28E] 0xF38880559C3C1A78: Spared from demolition during the construction of the new stadium, Bridgeport Arms still boasts large apartments and partial views in a quiet neighborhood…except for when there is a game.
-   [28F] 0xF43FFAC01BF9D4E4: This Egyptian Deco building is adjacent to downtown nightlife and  boasts some odd shaped landscaping.  Perhaps a Sim who has travelled to Egypt would have the answer?
+   [28F] 0xF43FFAC01BF9D4E4: This Egyptian Deco building is adjacent to downtown nightlife and boasts some odd shaped landscaping. Perhaps a Sim who has travelled to Egypt would have the answer?
    [290] 0x075C505A49958931: Just a bit too far out of the city to ever be really in style, Glenview manor caters to a reliable middle class city dweller who just can’t seem to give up and move to the suburbs.
    [291] 0x69C974E3FFE7DCE6: Built by the Zodiac Group to provide luxury housing to Bridgeport, One Leo Center is considered a premier location in the city.
    [292] 0xD3813D02D905CD02: Built at Founders Square, “the Keep” has one of the longest waiting lists of any building. This is surprising since it’s not that nice and its identical neighbor is not at all popular.
-   [293] 0x7F62A12C43E19E5A: For an executive lodging to serve as a home away from home, this is the obvious choice for the discerning Tycoon.  And like the nearby Civil Suites, the management asks few questions as long as you can pay.
+   [293] 0x7F62A12C43E19E5A: For an executive lodging to serve as a home away from home, this is the obvious choice for the discerning Tycoon. And like the nearby Civil Suites, the management asks few questions as long as you can pay.
    [294] 0x7536894870FBD226: City living with available outside space, the Veranda Villas features multiple balconies in most residences and an efficiency size penthouse.
    [295] 0x6340BA4866A1B581: Once the site of the Bridgeport armory, it was decided that next to a bridge was a poor place to store high explosives. Now the Armory caters to nocturnal city dwellers who like the thick walls and small windows.
    [296] 0x4A39D950E5885047: An agreeable tower close to downtown, Sims are often bizarrely confused about what subway stop to take to get to Powell house.
-   [297] 0x90E773875A4C570F: Allegedly built on top of a spring from which all who drank of the waters would find true love, the Simerset has fallen into disrepair.  Optimistic sims still come here searching for their hearts desire…and some still find it.
+   [297] 0x90E773875A4C570F: Allegedly built on top of a spring from which all who drank of the waters would find true love, the Simerset has fallen into disrepair. Optimistic sims still come here searching for their hearts desire…and some still find it.
    [298] 0xE0EA40B687B39642: Built by the prosperous Maloney family, this once fashionable high rise has been eclipsed by newer more fashionable addresses. The Maloney’s themselves seem to have disappeared from society since suffering financial setbacks, but rumors persist of at least one still being a resident.
-   [299] 0x55DF18A5BCE4E225: Once a fashionable resort for Sims seeking curative waters, Beachwood Springs now caters to mature Sims seeking moderately priced housing close to the hospital.  Nevertheless, a caretaker remains in residence and dreams of the faded grandeur of the resort’s glory days.
-   [29A] 0xFD42D1690A84D264: Formerly utilitarian working class housing, The Gentry long fell out of favor.  Recently, however, it has become one of the trendiest addresses in Bridgeport and features a waiting list of residents.
+   [299] 0x55DF18A5BCE4E225: Once a fashionable resort for Sims seeking curative waters, Beachwood Springs now caters to mature Sims seeking moderately priced housing close to the hospital. Nevertheless, a caretaker remains in residence and dreams of the faded grandeur of the resort’s glory days.
+   [29A] 0xFD42D1690A84D264: Formerly utilitarian working class housing, The Gentry long fell out of favor. Recently, however, it has become one of the trendiest addresses in Bridgeport and features a waiting list of residents.
    [29B] 0xBFD9026D549D5234: Built as the twin to its higher class neighbor, Founder’s Peace was quickly eclipsed by the gigantic bridge built right next to it. Its resident’s often wear earplugs to sleep.
    [29C] 0x2397ECA39DEEB5E1: Although it is newer and boasts better views, Two Leo Center is forever the runner up among Bridgeport’s best locations to live.
    [29D] 0xFB952E0F799A6B99: Open loft spaces for the artists in residence, Terpsichore studios offer live/work spaces to the creative Sim in a transitional neighborhood.
-   [29E] 0x32526C5FA31DA235: Seafaring Sims formerly resided in the upper bay of Bridgeport and The Trawler lodge offered accommodations to those hearty souls when they were in port.  We suspect this abode still offers housing to a motley crew.
-   [29F] 0x8A46C1D5958928BB: Slated for demolition during bridge construction, The Off Ramp was spared by a last minute design change.  Since all of the residents had vacated, this building is now especially young and hip.
-   [2A0] 0x04B46770D0048E6C: The oldest luxury apartment building in town, an address in Breach House means money… old money. Once you have an apartment in Breach House you don’t give it up.  They don’t even have a waiting list with anyone still alive on it!
+   [29E] 0x32526C5FA31DA235: Seafaring Sims formerly resided in the upper bay of Bridgeport and The Trawler lodge offered accommodations to those hearty souls when they were in port. We suspect this abode still offers housing to a motley crew.
+   [29F] 0x8A46C1D5958928BB: Slated for demolition during bridge construction, The Off Ramp was spared by a last minute design change. Since all of the residents had vacated, this building is now especially young and hip.
+   [2A0] 0x04B46770D0048E6C: The oldest luxury apartment building in town, an address in Breach House means money… old money. Once you have an apartment in Breach House you don’t give it up. They don’t even have a waiting list with anyone still alive on it!
    [2A1] 0xEBF49A53511839E8: Boasting some of the best views in the city, The Tidewater is popularly featured in almost all postcards from Bridgeport. Although the building is often quiet during the day, it seems to come alive at night.
    [2A2] 0x2901B853DA44F346: In a city that never sleeps, Sanguine Arms seems to come alive at night. Built next to the Goth Gazebo, there have always been rumors of odd happenings here, especially during a full moon.
    [2A3] 0x38FA2CAF9AF7A27E: Centrally located, the Glass Pillar building is a favorite among the fashionable and the trendy. It has some of the cleanest and seldom used kitchens in Bridgeport.
    [2A4] 0x5CE6699C279F6808: When offered a generous amount of Simoleons to sell, the former owner of this unimposing house that once featured excellent bay views and quiet serenity, simply refused. Undaunted, Bridgeport constructed the extension of the Bennett Highway and the resulting bridge nearly over its roof. It now features obstructed bay views and some traffic noise.
    [2A5] 0x6D1D8B9A576ACEF2: Commanding vistas of both the ocean and the city highlight this historically important home. Faced with an excellent property, the architect opted to ignore the city views, placing relatively few windows, thereby forcing the focus of this house to the wide expanse of the ocean.
    [2A6] 0x4BBB6F70A71A87AD: This sparse, modern home with stunning views and a huge pool is perfect for one person. However, it must be one person who likes to live very well and host fabulous parties.
-   [2A7] 0xE61927254866973C: Built with a family in mind, this elegant modern home matches modern architecture with contemporary living.  An easy floor plan, dual master baths, and a large recreation room all add to the appeal of this view home.
+   [2A7] 0xE61927254866973C: Built with a family in mind, this elegant modern home matches modern architecture with contemporary living. An easy floor plan, dual master baths, and a large recreation room all add to the appeal of this view home.
    [2A8] 0x64AFAF7E0DE7A3B9: Modern form and function highlight this understated home which features a large cantilevered wing. Its modest, simple lines keep this large house from looking too imposing, but those with good taste know that still waters run deep.
-   [2A9] 0xAC9332FD63C600FC: Choose the buttercup model house as an excellent starter investment. Close to schools and a short commute to downtown make this suburban house a good choice.  You can barely see the graveyard.
+   [2A9] 0xAC9332FD63C600FC: Choose the buttercup model house as an excellent starter investment. Close to schools and a short commute to downtown make this suburban house a good choice. You can barely see the graveyard.
    [2AA] 0x23B4CC712B8103D9: Banzai Lounge
    [2AB] 0x96BB89FADB4C9C96: Smuggler's Cove
    [2AC] 0xB4E79A7D966DBD32: Bridgeport Acres
@@ -892,7 +892,7 @@ Unknown3: 0x00000000
    [377] 0x3FB245BE253200D0: Collins
    [378] 0x21F65776EB81AE0A: Cook
    [379] 0x548DC338B63BD36C: Cressida
-   [37A] 0xE6DBCF06EB4E272B: Cressida is the Cook family's personal live-in spa specialist.  She's not blind to Jeffrey and Lady Cook's shenanigans.
+   [37A] 0xE6DBCF06EB4E272B: Cressida is the Cook family's personal live-in spa specialist. She's not blind to Jeffrey and Lady Cook's shenanigans.
    [37B] 0x4FE46211AB03082A: Crewe
    [37C] 0xBF0AD5A8CE5C9ADE: Custard
    [37D] 0x9BDED111D57BE1B0: Cyrus
@@ -1407,7 +1407,7 @@ Unknown3: 0x00000000
    [57A] 0x1CF862E698307295: By Popular Demand
    [57B] 0x5ECA7BE263E51625: Perform for {OpEventTimeCurrent} / {OpEventTimeGoal} Hours.
    [57C] 0x09715FA1ED575C77: {OpTarget} was glad {MB.he}{FB.she} could keep the regulars happy! How does {OpBandName} feel to have such loyal fans?
-   [57D] 0x28F112E132D2C675: {OpBandName} is such a hit that regulars at {OpSourceVenue} keep requesting them from the mixologist. {OpTarget} wants to know if  {OpOwner} is interested in signing up the band.
+   [57D] 0x28F112E132D2C675: {OpBandName} is such a hit that regulars at {OpSourceVenue} keep requesting them from the mixologist. {OpTarget} wants to know if {OpOwner} is interested in signing up the band.
    [57E] 0x6D7CE602CD95AF8E: Talk to {OpTarget} to get paid.
    [57F] 0x7FC53B02D836BA50: By Popular Demand
    [580] 0x956D14DDEEEBB27C: Talk to {OpTarget} to get paid.
@@ -1557,7 +1557,7 @@ Unknown3: 0x00000000
    [610] 0xADB2609AD313BE98: Create a New Drink and then attend the Seminar at {OpTarget}.
    [611] 0x9B6A0D9AC872B872: A New Mix
    [612] 0xBE7A411B9C9938D2: Create a New Drink.
-   [613] 0xEF0E7121F354632A: The local representative was quite pleased to see {OpOwner} continue to improve {MA.his}{FA.her} skill. As a result,  {MA.he}{FA.she} received the full scholarship award!
+   [613] 0xEF0E7121F354632A: The local representative was quite pleased to see {OpOwner} continue to improve {MA.his}{FA.her} skill. As a result, {MA.he}{FA.she} received the full scholarship award!
    [614] 0x3F7AFAE0ADD5D75E: The National Mixology Association is having a "scholarship" for Sims just getting started in the wonderful world of Mixology. Any Sims interested in improving their skill in Mixology by one level should speak with the local representative at {OpTarget} for their reward.
    [615] 0x5F62986148A84353: Gain a skill level in Mixology and report to {OpTarget} for a financial reward.
    [616] 0x929D6B616576F8C1: Better Mixology
@@ -1718,7 +1718,7 @@ Unknown3: 0x00000000
    [6B1] 0xC1F7E895E1EA39E0: Buoyant Bass
    [6B2] 0x8FDA7A96E4A58EEC: "Rescue Sims" at Spa.
    [6B3] 0xE45D63052AB26357: The Bass Awareness Association couldn't be more pleased with {OpOwner}'s efforts. The amount of Sims that have started to learn bass have jumped to a grand total of five!
-   [6B4] 0x10237AD2116154D5: The Bass Awareness Association heard that {OpOwner} has recently  taken up the instrument. Their main goal is to make Sims aware of the bass and, once aware, to encourage them not make fun of it. They'd like {OpOwner} to go play the bass in public. Any tips {MA.he}{FA.she} earns are {MA.his}{FA.hers} to keep. Just report back to {OpTarget} when {MA.he}{FA.she}'s done.
+   [6B4] 0x10237AD2116154D5: The Bass Awareness Association heard that {OpOwner} has recently taken up the instrument. Their main goal is to make Sims aware of the bass and, once aware, to encourage them not make fun of it. They'd like {OpOwner} to go play the bass in public. Any tips {MA.he}{FA.she} earns are {MA.his}{FA.hers} to keep. Just report back to {OpTarget} when {MA.he}{FA.she}'s done.
    [6B5] 0x9A47E04649B8D46E: Play Bass for Tips in Public to improve relationship with {OpTarget} and earn some Simoleons!
    [6B6] 0xAC8F354654582B30: Bassists in Public
    [6B7] 0xA411049867D14D5C: Play Bass for Tips.
@@ -1775,13 +1775,13 @@ Unknown3: 0x00000000
    [6EA] 0x076D238FE8A2FC1D: While all Sims' opinions count equally, it doesn't hurt to make a good impression with famous, wealthy Sims. A big congrats to {OpOwner} for a job well done.
    [6EB] 0x7C051B4B56727093: Local celebrity {OpTarget} is planning a big party at {MB.his}{FB.her} place and insists on having only the finest drummer. {MB.He}{FB.She}'s heard great things about {OpOwner} and would really like {MA.him}{FA.her} to be there.
    [6EC] 0x3C868D4FF406048B: Yowzers! Missing out on a celebrity's party can really hurt a Sim in the connections department. {OpOwner} should have thought twice before missing this party.
-   [6ED] 0xA2F45684A0719308: Play Drums at {OpTarget}'s party  to earn some money.
+   [6ED] 0xA2F45684A0719308: Play Drums at {OpTarget}'s party to earn some money.
    [6EE] 0x9413038498B568C2: Celebrity Drum Bash
-   [6EF] 0x73157A4ED800FF82: Play Drums at {OpTarget}'s party  .
+   [6EF] 0x73157A4ED800FF82: Play Drums at {OpTarget}'s party.
    [6F0] 0x5E8DCBD0B28C430F: Fantastic job! {OpOwner} played the craziness out of {MA.his}{FA.her} drums. All party animals would be proud. Don't be surprised if {OpOwner} receives more bookings to play at parties.
    [6F1] 0xB83E68100235AA3D: {OpTarget} would really like to throw an over-the-top party, but a party can't make it over the top unless there are crazy drums! {MB.He}{FB.She}'d like {OpOwner} to be the Sim that helps the party go out with a bang, bash, and a ba-doom.
    [6F2] 0xD859F4D89193FEF1: Failing to show up for a performance is generally a bad thing. {OpTarget} is less than pleased.
-   [6F3] 0x1FD6DE5D531228B6: Play Drums at {OpTarget}'s party  to earn some money.
+   [6F3] 0x1FD6DE5D531228B6: Play Drums at {OpTarget}'s party to earn some money.
    [6F4] 0x31E8335D5D83F0E8: Percussion Party
    [6F5] 0xBEAB63741661CDA4: Play Drums at {OpTarget}'s party .
    [6F6] 0xF63BA7C189830906: The beatnik crowd really dug your playing. In fact, they've made a pact to knit their berets to look like cymbals in honor of {OpOwner}.
@@ -1840,7 +1840,7 @@ Unknown3: 0x00000000
    [72B] 0x35EBBC482825D25B: Underground Protest
    [72C] 0x2731C3E7C36851C7: "Play for the Protest".
    [72D] 0xBBB7F47FAC386018: It was crazy, but {OpOwner} prevailed! Well done.
-   [72E] 0x5251C71DFA544A8C: A crazed composer is holding a multi-day event at {OpTarget}. Her goal is to set a world record by having over 100 pianists play at once for an extended period of time. Won't {OpOwner} join in this cacophony?  
+   [72E] 0x5251C71DFA544A8C: A crazed composer is holding a multi-day event at {OpTarget}. Her goal is to set a world record by having over 100 pianists play at once for an extended period of time. Won't {OpOwner} join in this cacophony?
    [72F] 0xB877FBD81C166A30: Missing this event prevented all the other Sims from setting a world record. Doesn't {OpOwner} want to make a name for {MA.himself}{FA.herself}?
    [730] 0x2344631CE0E673C5: "Play in Piano Ensemble" at {OpTarget}.
    [731] 0x358CB61CEB877AE3: Extreme Digits
@@ -1858,7 +1858,7 @@ Unknown3: 0x00000000
    [73D] 0x745FB37B88663C29: "Attend Recording Session" at {OpTarget}.
    [73E] 0xD302B53FF8549EA4: The fundraiser was a success thanks to {OpOwner}'s playing! Guests were overheard saying, "Something about that pianist's playing made me want to either dance on tables or donate money. I chose to donate money."
    [73F] 0x8FEFC56036198EF0: A fundraiser for the Struggling Waiters But Aspiring Actors Association will be held at {OpTarget} throughout the week. They need a highly skilled pianist to set the right mood: a mood that says "donate money."
-   [740] 0x2087DB1B222BD9AC: Since {OpOwner} decided not  to show up at fundraiser, thousands of waiters won't realize their dreams of becoming the next big star. If {OpOwner} wants to make it in this business, it would be best not to lose relationship with studio employees again by skipping out on your commitments.
+   [740] 0x2087DB1B222BD9AC: Since {OpOwner} decided not to show up at fundraiser, thousands of waiters won't realize their dreams of becoming the next big star. If {OpOwner} wants to make it in this business, it would be best not to lose relationship with studio employees again by skipping out on your commitments.
    [741] 0xBD9E11FCAC0981C9: "Play for Fundraiser" at {OpTarget}.
    [742] 0x8A633CFC8F3AC8BF: What's My Motivation Gala
    [743] 0xBCB66F1E2C91789B: "Play for Fundraiser" at {OpTarget}.
@@ -1929,7 +1929,7 @@ Unknown3: 0x00000000
    [784] 0xD58F364E7376B670: What happened!? Has {OpOwner} considered joining the Party Poopers Union? Movie makers were let down today by the lack of piano at their party!
    [785] 0xBC2A18729CF87C05: "Play for the Release Party" at {OpTarget} during the appropriate hours.
    [786] 0xCE716B72A797D023: Release Party
-   [787] 0x870EB21BC969017F: "Play for the Release Party"  at {OpTarget}.
+   [787] 0x870EB21BC969017F: "Play for the Release Party" at {OpTarget}.
    [788] 0xF64FF7478F7CCBE1: {OpOwner} did a fantastic job! {MA.He}{FA.She} kept the tempo, played the right notes, and, most importantly, made the kids happy.
    [789] 0x1D68CDBAD6A830AF: The students at {OpTarget} are putting on several performances of Once Upon an Education Budget and need a pianist to accompany them. Would {OpOwner} mind playing for one of the shows?
    [78A] 0xC41FBF7231318B7F: {OpOwner} really let the kids down. Without a pianist, they had to sing along to the accompaniment of grumbling parents. Unfortunately, {OpOwner} lost relationship with the school employees.
