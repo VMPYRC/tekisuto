@@ -1,0 +1,40 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x23) ---
+   [00] 0x206141187FED34B9: Fit as a Fiddle Violin
+   [01] 0x35F3370FF1D92578: Need a break from guitars? Take a crack at the Fit as a Fiddle Violin and add some variety to your musical repertoire! Serenade that special someone, play for tips to earn a few extra Simoleons, or choose a variety of compositions including those that harken back to a simpler age.
+   [02] 0x392C3B11903F33A5: Play
+   [03] 0x17911F032F11EAE4: Play Traditional
+   [04] 0xE2BD8338B411EFAC: Play Medieval
+   [05] 0xB0FA507790291114: Perform Composition
+   [06] 0xC37D461B415DB0F1: Play Composition
+   [07] 0x64F076F50230F8D9: Play Medieval Composition
+   [08] 0xF333710C82DC315E: Serenade Sim
+   [09] 0xE961E5D6EBAE63DB: Listen to Serenade
+   [0A] 0x66B98118A234B174: No eligible Sims to serenade
+   [0B] 0x1E3C4C0A35A8C6D3: Violin
+   [0C] 0x69E4EF341D31ACE8: Play for Tips
+   [0D] 0x2BC2AE585101029A: Tip
+   [0E] 0x150731164FC2720F: It is said that the violin is one of the hardest instruments to learn how to play, so {0.SimFirstName} has {MA.his}{FA.her} work cut out for {MA.him}{FA.her}. However, as the old saying goes, "Practice makes perfect!"
+   [0F] 0x7EDD767E08F58FDB: Percent of Compositions Known: {0.Number}%
+   [10] 0xC0D7744B13A59268: Tips Earned: {0.Number} 
+   [11] 0xF015FB5877A809A0: Total Watchers: {0.Number}
+   [12] 0xF7DD6A6186FB968F: Total Played Compositions: {0.Number} 
+   [13] 0xFA6D5CF575C43193: Total Played Medieval Compositions: {0.Number}
+   [14] 0x389EBE14A53C9A0A: Summer of Sage
+   [15] 0x8C3BC4F2C3A03411: You’re still here?
+   [16] 0x359EFDF93AC4B700: Savage Charles
+   [17] 0x73E61666E6F41907: Evil Child of the Well
+   [18] 0x9ECBEA3328175A26: The Reaper Went Down to Georgia
+   [19] 0x3A412B0623B513ED: Ode to the Llama
+   [1A] 0xD8E741EA6928BCDC: Amber Rose
+   [1B] 0x7D3D50F36578E5A3: The Duck Ascending
+   [1C] 0x1393F2F024382DB9: Stairway to Dragon Valley
+   [1D] 0xA25A9CFA7408F808: Don't Wall Me In
+   [1E] 0x6660F2503969E092: Plumbob Bob
+   [1F] 0xBA44FF7BAABAA752: The Tenth Ballad of Henry the Ninth
+   [20] 0xE504E5735C532D02: Armored Armour
+   [21] 0xCA1AC8ACE79B42F1: Jester’s Last Dance
+   [22] 0xB40A9934E55DF3EC: Take a Break from Playing
+---

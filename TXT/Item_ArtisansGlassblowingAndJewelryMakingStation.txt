@@ -1,0 +1,85 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x50) ---
+   [00] 0x3A7DEB8A944201A0: Artisan's Glassblowing and Jewelry Making Station
+   [01] 0x7271687E9A70C2D3: Are you a true artisan? Test yourself by trying to make glass gnomes, jewelry, statues, stained glass windows and much more. This station is hot! No really, it is literally hot, so be careful.
+   [02] 0x7A717CBB6A67EFC4: Give Perfume To
+   [03] 0x9B4D1FADAD9C2144: Glass Dancing Gnome
+   [04] 0xD2068812A06F99BA: Glass Fighting Gnome
+   [05] 0x97081D67C18D8D6E: Glass Relaxing Gnome
+   [06] 0x35568DE597C9F678: Glass Scared Gnome
+   [07] 0xBD1ECADCFDCA797C: Glass Friendly Gnome
+   [08] 0xF9C6F9E7D881FCB7: Make Object
+   [09] 0x40D86FB1162C5B19: Amour Perfume Bottle
+   [0A] 0x747391A5D20E03BA: Bliss Perfume Bottle
+   [0B] 0x309944F062A75EF8: Once Forgotten Perfume Bottle
+   [0C] 0x9D7A711C7FB0DDCC: Vanity Perfume Bottle
+   [0D] 0x32C27A7AD2174490: WooHoo Panther Perfume Bottle
+   [0E] 0xD74FA419B229F2E3: Glass Dragon Egg
+   [0F] 0x5039F2C334054D73: Glass Menus de Vilo
+   [10] 0xBD722BEC652FEEC6: Glass Vases
+   [11] 0xE87E04877B99C295: Glass Utensil Receptacle
+   [12] 0x978BE439D4743CB3: Glass Partition
+   [13] 0xE4943B555692E06D: Jewelry Box
+   [14] 0x05E1B7F7B129DB28: Stained Glass Window
+   [15] 0x21A1C5C15BDD83E0: Stained Glass Arch Window
+   [16] 0x5DE73450E3199640: Put On Jewelry
+   [17] 0x617427F7772F55F6: Smelt Metals
+   [18] 0xC852292DCA962A90: Try On Perfume
+   [19] 0xDB5F2B6AC147A1FF: Amour Perfume
+   [1A] 0x173F8EBDD457B5DB: I will make you love me through persistence!
+   [1B] 0x3063993138CCC68A: Artisan
+   [1C] 0x8447EF8F3FD1D680: Are you a true artisan? Build your Artisan skill by trying to make glass gnomes, jewelry, statues, stained glass windows and more with the Artisan's Glassblowing and Jewelry Making Station. {0.SimFirstName} can unlock new glass objects and accessories as {MA.his}{FA.her} skill increases. Even if the blowtorch explodes in your face, don't give up!
+   [1D] 0x276375836FEF7A84: Bliss Perfume
+   [1E] 0xEEC6CFCC59570442: I just feel...happy.
+   [1F] 0x16C78CF081C0723A: WooHoo Panther Perfume
+   [20] 0xD3D9345D6BA32BD0: I don't feel so well. Maybe that is why this perfume is illegal in nine countries.
+   [21] 0x2511AADB60A66516: Fan-glasstic!
+   [22] 0x99E2C47F41B091FC: {0.SimFirstName} created a glass masterpiece!
+   [23] 0x26F4564709F2BF5A: Once Forgotten Perfume
+   [24] 0x85A901CFEE8DC270: Sometimes it’s good to forget, particularly if it’s a loved one’s passing.
+   [25] 0x67D8DCAFB06A7CEE: Vanity Perfume
+   [26] 0xA06CD4F6653BBBE4: Enough about me... what do YOU think about me?
+   [27] 0x0EAFA59F01249351: Pain in the Glass! 
+   [28] 0x7E42BD58C1108C2D: Does anyone else smell burning hair?
+   [29] 0xDBB6AB58F4FD1D17: Glass Chess Table
+   [2A] 0x6566909C05E73BE4: Smelt Metals
+   [2B] 0x887F4227731DADCF: Metal Type
+   [2C] 0xB18F9FF7B2A10908: Metal Quantity
+   [2D] 0xE159E75105AC1F64: Choose one or more metals to smelt:
+   [2E] 0xD535718446F560D4: Make Accessory
+   [2F] 0x6C77D8B23B09C18E: Make Perfume
+   [30] 0x2406503047E48E5B: Stretched Coin Bracelet
+   [31] 0x19C05AD29F1CDD24: Triple Ring Bracelet
+   [32] 0x5AFF62B2FEAEFAB4: Coin Bracelet
+   [33] 0xED21AA04B8F28087: Sunburst Earrings
+   [34] 0xED21A704B8F27BA5: Spring Bud Earrings
+   [35] 0xC7F0AC45C644D319: Curly Pearl Earrings
+   [36] 0x135D7A4E87EE4629: Turquoise Stone Earrings
+   [37] 0xA442D132E6CD5BB0: Amethyst Necklace
+   [38] 0xAD2E18DB93F2427E: Turquoise Swirl Necklace
+   [39] 0xA3DF4C2719FF8721: Hammered Stone Necklace
+   [3A] 0x6183A9FBEC2E6DC8: More Pearls Necklace
+   [3B] 0xE36B0BFC35C087FB: Red Hot Necklace
+   [3C] 0x32EEAE56D8981A70: Turquoise Stone Necklace
+   [3D] 0x5170BDE1859FEC7E: Braided Bracelet
+   [3E] 0x8BC113C3816E68DD: Double Braid Necklace
+   [3F] 0x36267D7C4B0AA966: Ancient Artifact Necklace
+   [40] 0x6D667EC3D58A455E: Well done! {0.SimFirstName} just made a {2.String} quality item worth {1.Number} Simoleons! 
+   [41] 0xE9CD0A274DB5864C: Masterpiece
+   [42] 0x3611C532974FBAAD: Brilliant
+   [43] 0xFC64CE8A13080529: Low 
+   [44] 0x44488F05F4FB4385: Normal
+   [45] 0xC0359EC7C6AB76BA: Metal Smelted: {0.Number}
+   [46] 0x19BE0635696E721A: Value of All Smelted Metal: {0.Number}
+   [47] 0x2A297AF06BC16A1E: Low Quality Creations: {0.Number}
+   [48] 0x510765944347FBD9: Masterpiece Quality Creations: {0.Number}
+   [49] 0xEA965A1F416E50DA: Brilliant Quality Creations: {0.Number}
+   [4A] 0x3D0230DA320756C2: Normal Quality Creations: {0.Number}
+   [4B] 0xDFC8051498F3339E: Total Creations: {0.Number}
+   [4C] 0x466F8D45A428D7C4: {1.SimFirstName} created {0.String} in the Artisan's Glassblowing and Jewelry Making Station.
+   [4D] 0x80B98475B42BD127: Value of All Creations: {0.Number}
+   [4E] 0x72B806518CA0F28B: This accessory is for Sims of the opposite gender.
+   [4F] 0x29670808C513B334: Plan Outfit
+---

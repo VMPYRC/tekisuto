@@ -1,0 +1,56 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x33) ---
+   [00] 0x3598BB305716C531: The Sims™ 3 Diesel Stuff
+   [01] 0x5C2944D79FF5815D: The Sims™ 3 Diesel Stuff Install
+   [02] 0x41607A34F29E7252: The Sims™ 3 Diesel Stuff Installer
+   [03] 0xDBE30D0B6F158062: When you dream of sampling the freshest beats, make sure to put the needle on the record when you sleep in a Nebula Five Bed. The sturdy platform bed cradles the cushioned headboard and turntable pillows. Cue up the Z's and fade into your favorite dream track. 
+   [04] 0x9A89637FF629312B: Exhibiting the power of a volcanic eruption with the stark beauty of a lava flow, the Rock Chair is a study in contrasts. The rugged cubic exterior encases the silky smooth comfort of the contoured seat. Pair a few of these chairs up with the matching Suspension Rock Ceiling Lamp and you'll blow your mantle.
+   [05] 0x2DB554B1B08347B3: You could spend an entire afternoon daydreaming in the light and airy cushions of a Cloudscape Chair. Excellence in design, stupendous in comfort. When your head is in the clouds, your bottom should be there too. 
+   [06] 0xE1B171151F17AA2E: The Suspension Rock will metamorphosis the home with a study in contrasts. The rough exterior, inspired by volcanic rock, breaks away to reveal the smooth interior filled with iridescent light. Mysterious and brilliant like a stream of lava, but without the annoying eruption of an actual real volcano. 
+   [07] 0xA5DDEDA52AC855A2: The casual, playful style of the Fork Floor Lamp has stitching akin to your favorite pair of jeans. Turn it on and create a patchwork of light reminiscent of the night glow from a canvas tent. Sims will almost feel the warmth of a camp side fire. Not for use with marshmallow roasting. 
+   [08] 0x95862A04F2021E4F: The large duck foot base and butterfly clamps bring life into your home when you light up the DUII Lamp. It's animalistic nature is ready to obey your every command! The DUII lamp is so good, you will want to give it a treat. Need that extra something for your study? Just do, do DUII it!
+   [09] 0xA73E8B04FC27D114: The Fork Table Lamp is the companion to the larger Fork Floor Lamp, displaying the same style and casual appeal on a smaller scale. The jean stitching on the casual shade emits a soft patchwork of light, like dancing shadow puppets on a canvas tent. Come play with the Fork Table Lamp and get away from it all... while staying right at home.
+   [0A] 0xF1FD078646BD7C6E: The Ego Stud Mirror: Relaxed, comfortable, modern and informal. When you have an ego, you understand that the distinctive design of the Ego Stud Mirror is THE perfect wall accessory for any room. Take a look in the mirror and you'll see. With so many studs, it's all you'll ever need. 
+   [0B] 0xDD8F4DE9B0AB5BC8: Sitting on the Nebula Nine Sofa is like sitting on top of the stratosphere. The oversized cushions welcome you in a plume of comfort and envelop you in the calm before any storm. Reach for the sky without leaving the confines of your living room. 
+   [0C] 0x1CA75E766CF6B20B: Miss the days of playing to sold out stadiums? Waiting for your next encore performance? Even if you don't know a thing about touring in a band you can still pretend with a Total Flightcase F35. Inspired by musicians' storage cases, the Total Flightcase comes in 2 models - the F36 and F35. The Total Flightcase has been modified to fit your every need....as long as you need a new coffee table. 
+   [0D] 0x26F6877673452F94: Miss the days of playing to sold out stadiums? Waiting for your next encore performance? Even if you don't know a thing about touring in a band you can still pretend with a Total Flightcase F36. Inspired by musicians' storage cases, the Total Flightcase comes in 2 models - the F36 and F35. The Total Flightcase has been modified to fit your every need....as long as you need a new coffee table. 
+   [0E] 0xB3D5B6C062D0429C: Truly a conversation piece that orchestrates a melding of music, style, science...and one X-ray machine...into a stunning conversation piece for your living room. You may not be able to play actual music on the X-ray of a DJ console but it looks great and makes a handy place to stack a few books too.
+   [0F] 0x045D3CA096FCF345: Dine with the strength of steel, the protection of chainmail and the glamor of an eloquent soiree. The Pylon Chain Glam Table offers all of this and so much more. Polish your knives (don't forget the salad forks!) and prepare to be the Knight of the dinner party with this noble table. 
+   [10] 0xC5CDBC3833D6D22A: The evocative style of the Xraydio 1 Razza Side Table carries a wave of beautiful details on its surface. The stark iconography will leave your head swimming with the fishes when you gaze upon the unique X-ray print of a ray fish. What more could you want from an occasional table? 
+   [11] 0xF1D4DAB60C7C09A1: Nebula Five Platform Bed
+   [12] 0xCEAD0CBBED813A88: Rock Chair
+   [13] 0xFCDA821DC448203C: Cloudscape Chair
+   [14] 0xB2E5DB2CD530D175: Suspension Rock Ceiling Lamp
+   [15] 0x53DBEA02DBA6D881: Fork Floor Lamp
+   [16] 0xC84FE97DE0B6C998: DUII
+   [17] 0xDA31407DEAFF710B: Fork Table Lamp
+   [18] 0x9B675948CE030E65: Ego Stud Mirror
+   [19] 0x1500A67BC913065D: Nebula Nine
+   [1A] 0x2E1AFAA2A0B6615C: Total Flightcase F35
+   [1B] 0x2658D1A29C931B93: Total Flightcase F36
+   [1C] 0x36105AB0298C4259: Xraydio 2 Disc
+   [1D] 0x15DA5EDECF501A38: Pylon Chain Glam Table
+   [1E] 0xCCA40C8674C0CE0F: Xraydio 1 Razza Side Table
+   [1F] 0x3E2B09B8A8C6CB9B: We are unable to verify that your disc is a  valid copy of The Sims™ 3 Diesel Stuff.  Please contact customer service.
+   [20] 0x25187D751AE95FD7: No game disc found! Please insert The Sims™ 3 Diesel Stuff game disc before proceeding.
+   [21] 0x66FC92DF0BE9522E: Stitching Denim
+   [22] 0xE87FBF013D76A41A: Fitting Attitudes
+   [23] 0x66FC92DF0BE9522D: Pioneering New Styles
+   [24] 0x66FC92DF0BE9522C: Redefining Casual
+   [25] 0x66FC92DF0BE9522B: Exploring Self-Expression
+   [26] 0x66FC92DF0BE9522A: Making Statements
+   [27] 0x66FC92DF0BE95229: Embracing Lifestyle
+   [28] 0x66FC92DF0BE95228: Looking Good
+   [29] 0x66FC92DF0BE95227: Taking Dares
+   [2A] 0x66FC92DF0BE95226: Challenging Normal
+   [2B] 0x5C81B71261307A9A: The Sims™ 3 Diesel Stuff
+   [2C] 0xF6A4743BF6D59ACC: Lead Object Modelers
+   [2D] 0x70DE02156B43CB80: Maxis
+   [2E] 0xA6C31C35CC1208FA: Senior Vice President, COO
+   [2F] 0x4027BA60FAFFCF0F: Senior Vice President
+   [30] 0x082EC4723D7EC2C8: Senior Vice President, GM, The Sims
+   [31] 0xC8E7C77467F05187: Technical Artist
+   [32] 0x825491EC9C94E06D: Vice President, COO, The Sims
+---

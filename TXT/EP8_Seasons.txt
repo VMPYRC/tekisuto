@@ -1,0 +1,457 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x1C4) ---
+   [000] 0xE073A1F653E5DE83: Autumn is a season of singular beauty, when the weather cools and the leaves begin to turn and fall from the trees. For those who do not shy from change, celebrate Autumn with this stirring decal.
+   [001] 0xA6BA6B1097B22B8B: Few things say Spring like pink blossoms and blue birds. Keep the season of renewal alive in your home year round with this fanciful decal.
+   [002] 0xC5D8D022164DFF0B: Sunset in the islands -- a special time at a special place. Now you can own that moment forever with this tropical decal. Close your eyes and you can almost hear the pound of the surf!
+   [003] 0xA8D966A53F9CD7CF: The winter may be cold and white, but who can deny the fun of a season that is home to so many holidays? The bright and colorful snowflakes on this exciting decal celebrate the magic and fun of winter.
+   [004] 0xD157CDB19E77C462: {BPrint_RoomTypeBathroom} - {BPrint_RoomStyleMiscCabin} {BPrintDimensions_4_4}
+   [005] 0x5F68FF51B214641A: {BPrint_RoomTypeBedroom} - {BPrint_RoomStyleMiscCabin} {BPrintDimensions_6_6}
+   [006] 0x28250334D2096EF3: {BPrint_RoomTypeDiningRoom} - {BPrint_RoomStyleMiscCabin} {BPrintDimensions_6_6}
+   [007] 0x894E10D40B8A84D0: {BPrint_RoomTypeKitchen} - {BPrint_RoomStyleMiscCabin} {BPrintDimensions_4_6}
+   [008] 0x338999D32CB18E58: {BPrint_RoomTypeLivingRoom} - {BPrint_RoomStyleMiscCabin} {BPrintDimensions_6_8}
+   [009] 0xA638DFE26AFB7E9D: This is a test blueprint
+   [00A] 0x90C79257853A9E04: Season Decal: Fall
+   [00B] 0x157E0A45FBAED8A0: Season Decal: Spring
+   [00C] 0xADBCE3E88BDD7818: Season Decal: Summer
+   [00D] 0x974D7C87D5A1DBF4: Season Decal: Winter
+   [00E] 0xBB0D813011513BB4: The Sims™ 3 Seasons
+   [00F] 0x1D4EE243C48FAFAA: This statue commemorates 7 years of dedicated work.
+   [010] 0xE87C4FF23BD70BDD: This plaque commemorates 3 years of dedicated work.
+   [011] 0x345221A602392150: This watch commemorates 5 years of dedicated work.
+   [012] 0x61E371704F176D92: It’s the most beloved and iconic festival game that no one has ever actually participated in! It’s easy to play. Simply secure your hands behind your back and stick your face in a giant tank of cold water. Your reward? A shiny apple! Fun for all ages!
+   [013] 0x4A790D97C33AFD02: Take family fun time to the next level with the Family Fun Water Arena, and give your family a place to play all year round. When it’s hot out, take your spot on the arena floor and prepare your arsenal of water balloons. And when winter rolls in and the ground is covered in snow? You got it! Snowball fight!! Accommodates up to 4!
+   [014] 0x6492A6B73175A580: It’s summer. That means it’s time to make meat get hot so you can bite it. Heat up meats like the pros with the Summer Meat Master. If you can carve it off an animal, you can char it on this grill. Its even-burn technology will heat every last molecule of food to whatever temperature you want. Create a decidedly non-raw meal for the whole family, and you might start to feel like YOU'RE the Meat Master!
+   [015] 0xFBB6897B05E874D8: The Forest Moon bar takes you on a moonlit journey through dark woods, when the last of the autumn leaves have fallen and the first winter winds begin to sting your cheeks. Our best artists deep etch each forest scene by hand into stunning panes of smoky glass. No bar sets a better mood for an intimate drink with friends.
+   [016] 0x07FEF72A3FC105C9: Whether you’re looking to cool off after a hard day or just chill with friends, the Frost Bar will put all your worries on ice. It’s “snow” secret that this bar will inspire a flurry of activity at any party. We wish we could charge Absolute Zero for it, but we can’t just give it away for freeze! All hail the Frost Bar – the coolest bar you’ll ever own! Ice!!
+   [017] 0x837BCBD8E2CFF35F: Like you, like the drinks you pour, the Gentleman’s Barstool is classy and elegant. If you just wanted to grab a drink and chug it down you’d go to the fridge. This is the bar. Complete it in the style that bar culture demands. Give your bar the Gentleman’s Barstools, and elevate your drinking experience.
+   [018] 0x8672F65BE9E97538: Nothing says “supervillain” quite like furniture carved from solid blocks of ice. Unless you have furniture hewn from volcanic rock. As long as it comes from something very, very cold or very, very hot it will be very impressive. And don’t worry about clean-up – thanks to our proprietary NeverMelt technology (also developed by supervillains) our Pillar of Ice Barstools are guaranteed to stay frosty.
+   [019] 0x59F49D45F4AAF51B: There are times in your life when you should not spare yourself a little comfort, and shower time is certainly one of them. Open our beautifully etched sliding glass doors and step through into a secret forest clearing all of your own. Stand beneath the warm Spring waters and feel your cares wash away. Welcome to Spring Serenity.
+   [01A] 0x2774911B9B3837A7: Elegant, yet simple, the Cape Cod design is rapidly growing in popularity amongst owners of double beds. Unparalleled craftsmanship is something people can appreciate without a lot of fancy foofaraw to show it off. Lay your head upon the dignified Cape Cod double bed, and rest easy.
+   [01B] 0x7D3DF7008EA10250: You’ll dream of gliding over the river and through the woods when you rest your head on the Sleigh Bells double bed. Celebrate the fun of winter with a design inspired by the classic winter sleigh ride. Make a holiday carol your lullaby, and enjoy sugarplum dreams. (Actual sleigh bells not included.)
+   [01C] 0xAE51166639B1AC8C: This is a Cold Beverage.
+   [01D] 0x7C246B78E10BCBD7: This is a Hot Beverage.
+   [01E] 0x268A9EEC5996F009: Don’t you hate it when you store valuables and mementos on a shelf, only to have the whole thing cave in and ruin your precious belongings? It’s like, you had one job to do, shelf! How hard is that? Never worry again with the SolidShelf 9000. It’s carved from one massive piece of petrified wood laced with adamantium. (It was very, very hard to carve.)
+   [01F] 0x39C21D917B783478: Inspired by long summers spent by the beach, this shelf brings a bit of summertime fun to any child’s room. Not only is it the perfect place for storing all those toys and books, but when you stand near it you’ll swear you can hear the ocean waves and smell the salt air.
+   [020] 0x33214431C7393750: We pull so much paper out of the trees, it seems only fair to put some paper back in! Place the Arbor Bookshelf in your child’s room and it is instantly transformed into a forest. Our fanciful design will help your child’s imagination take the first step in whichever journey lies within the next book. (Warning: May cast terrifying shadows.)
+   [021] 0x281FC5ECAD611B2F: It’s the explosion you can hold in your hand! The Sparkler! Behold as you control a continual shower of sparks that flash brilliantly yet don’t burn the skin. Have you ever known power such as this? YOU HAVE NOT! These sparkle in a delightful rainbow of colors.
+   [022] 0x22E5ACD0279A4974: It’s the explosion you can hold in your hand! The Sparkler! Behold as you control a continual shower of sparks that flash brilliantly yet don’t burn the skin. Have you ever known power such as this? YOU HAVE NOT! These sparkle in the classic “blinding white” color.
+   [023] 0xEF41A23C9C34D33C: This candy was earned the old fashioned way: demanding it from strangers. For one, beautiful, sugar-fueled night, there is no stronger currency in the world than this candy.
+   [024] 0x9D8529FD59215D6F: Many vehicles claim to be the car of the future, but ours is the only one that actually traveled back to your time from the future! Featuring technology we’re not allowed to describe because of the impact it would have on the development of your culture, the Galaxa can carry you to any point in space and time almost instantaneously. (Please note that all earthbound models are restricted to low impulse engines only.)
+   [025] 0x1FE3856D39F4E475: With the new Spine Helper chairs from Posturight, perfect posture is no longer a choice! You can’t help but sit up straight as our chair’s extended seat and curved back slowly overcorrect your thoracic vertebrae. So effective, you’ll start to feel like you’re sitting in a Posturight chair, even when you’re standing! From the makers of the Not-So-Easy chair!
+   [026] 0xEB3C02A1F3637205: Nadia Tayporoff brings her signature style of “beauty through simplicity” to each of her high-quality dining chairs. Like Nadia herself, these chairs don’t require a lot of fancy decorations for their elegance to shine through. And of course, each chair’s tapered design and soft padding guarantees that you will never sacrifice comfort for style.
+   [027] 0x7229B6FE11D776EA: The latest triumph in NeverMelt furniture is the Icesplosion dining chair. Each one is formed by flash freezing a baby whale as it breeches the surface of the Arctic Ocean. Its splash is preserved as an Icesplosion and treated with our NeverMelt coating to retain its beautiful shape forever. The whale is de-thawed, fed, scrubbed, and returned to its home. We’re not monsters.
+   [028] 0x60CD97298E7D2EB3: Oh, you thought that waterproof furniture couldn’t be beautiful? Shame on you! Gaze upon The Permachair and see how wrong you were. The sensational beauty of The Permachair cannot be diminished by any force of nature or man, even if you spend all day just standing there and pouring water over it. And we do! Buy The Permachair!!
+   [029] 0xD60F0543D105C5DB: Nadia Tayporoff personally designed this sleek living chair. The elegant suggestion of the lines sends your brain a picture of the relaxed posture you will take before you even sit down. It’s the chair that’s comfortable just to look at! And, as always, the Tayporoff’s simple beauty creates the perfect accent to any room.
+   [02A] 0x9C11289CD56A96FC: Oh, so you think you can’t get comfortable in a waterproof chair? Guess again. Here to wipe that self-satisfied smirk right off your face is The Permalounger. It’s so darned waterproof you’ll swear you’re sitting on a pile of ducks -- only MORE COMFORTABLE! Waterproof ottoman included just to prove the point.
+   [02B] 0xEF20AAEDACB631F8: Ever wanted a career in mad science, but couldn’t meet the intellectual and/or psychological requirements? Well, owning the Cloud-inator 9000 is like having a little mad scientist in your pocket. It gives you nothing less than command of the weather (albeit in an extremely localized fashion). It’s easy to operate: just point, shoot, and laugh in the face of nature.
+   [02C] 0xE291E92063C0B234: From the makers of the Pillar of Ice barstool comes the all new Pillar of Ice pillar of ice! A few of these stately columns turn any home into an incredible ice fortress! An even coating of NeverMelt ensures that each pillar will stand the test of time. Warning: don’t stick your tongue to it!
+   [02D] 0x65B94CC1BE8867B4: The air is crisp, the cold breeze carries with it the smell of burning leaves, and it’s time for some harvest-time snacks. Sweet and spicy is the flavor of the season, and the Fall Fare Concession Stand is here with a variety of treats to satisfy. (Also known as Autumnal Appetizers.)
+   [02E] 0x895E96E5CF6CFF20: Winter has finally thawed and the warm weather is bringing people and their appetites out of the house more often. Swing by the Spring Spread Concession Stand and get what every spring snacker wants: something fruity or covered in sugar! Preferably both!!
+   [02F] 0xB92062CDF77DB4A8: Summertime! All year long you’ve been working on your beach bod, and now you finally get to wreck it with incredible junk food. In summer, the snacks are hot and sticky, and the calories just don’t count. Don’t be shy! Find a food, pour chili all over it, and join the party!
+   [030] 0xA64C4CEED2117AB0: In winter, people want food that makes them feel warm inside. It’s a time for traditional favorites – food and drinks that get people in the spirit of the festival. Remember, most of this stuff will only taste good at this time of year for some reason, so don’t miss your chance!
+   [031] 0xCDBC787C6CA321BE: Border your windows with the Fair Meadow Curtains, and watch as your living room melts away and a serene meadow takes its place. You can practically feel the soft breeze roll by you. Even more so if you leave the window open! Comes in a variety of seasonal styles.
+   [032] 0x9B14E80F39CD132E: Your desk is an important piece of furniture. You don’t want some lame, wobbly table -- you want a desk you could park your car on. The SolidDesk 9000 is that desk. Carved from one massive piece of fossilized wood, laced with mithril, and then encased in carbonate, this is the single most solid desk in the universe. It is so dense, it actually attracts smaller desks. The SolidDesk 9000: That’s A Solid Desk!
+   [033] 0xCD740A7903A5232C: The frozen arch is your gateway to the fantasy of living in an igloo. Don’t pretend like you’ve never fantasized about living in an igloo. We all have. Each arch is assembled block-by-block in a controlled sub-zero environment, then treated with our NeverMelt coating so that you will never get that one drip of freezing water down the back of your neck as you pass underneath.
+   [034] 0xA9C2CD17159A545E: The frozen arch is your gateway to the fantasy of living in an igloo. Don’t pretend like you’ve never fantasized about living in an igloo. We all have. Each arch is assembled block-by-block in a controlled sub-zero environment, then treated with our NeverMelt coating so that you will never get that one drip of freezing water down the back of your neck as you pass underneath.
+   [035] 0x57A0D095B49AD9D6: Alexander Knobbs presents another of his award winning entrance designs with his Knobbs Double Door. According to Knobbs, his great-great-great-great-grandfather was the first man to put knobs on a door, a design choice that is reflected in all Knobbs products to this day. It probably isn’t true, though.
+   [036] 0xED359980A3C45594: Featuring a beautiful, organic design that could only be inspired from nature, this sliding door’s expansive glass panes provide you with an unequaled view of the natural world outside your home. Its understated beauty is sure to complement any landscape, no matter how spectacular. No nature lover should be without one!
+   [037] 0x692CBE73EF3715D5: The clever design of our Ocean’s Memory door recalls a gently rolling wave as the first rays of the sun stretch over the sea. Let its calming influence spread throughout any room in the house. You can almost imagine laying back in the sand in the first days of summer, the sound of the waves lulling you into a contented nap. Special feature: opens AND closes!
+   [038] 0x9FB76E68702F513C: There is art in chaos, and there is art in order. This arch is for people who like order. Firstly, it is not curved like most arches but instead features very smart corners. Secondly, from top to bottom it celebrates the satisfying crispness of the right angle. Bring a little order into your home with the Very Symmetrical Arch. Now that’s an arch you can set your watch to!
+   [039] 0xE68A52E520D47B2B: Looking for a dresser that can bear any load? Want a piece of furniture that will outlast you by centuries? No amount of clothing can ever break The Permadresser. Carved from a massive hunk of Wurtzite boron nitride, dipped in diamond, and isolated in a sensory deprivation chamber for 12 years, this dresser is HARD. When you’re ready to step up, The Permadresser will be waiting.
+   [03A] 0xC049929084A96F86: After years of careful, scientific study, researchers have concluded that the perfect configuration for any dresser is one big, long drawer with three little drawers on top. We’ve incorporated that research into the design of our Perfect Fit dresser. It will hold all of your clothes, like magic, with literally no effort on your part. This dresser will fit your house like a glove, which would fit perfectly in the upper right drawer of this dresser.
+   [03B] 0x5C81D3B12B6616B9: Inspired by the joys of summer, this Vitrine Hutch is the perfect place to display your summertime treasures. The fanciful design on the front evokes memories of butterflies dancing over a meadow, or the pattern on the back of a sand dollar. With the Vitrine Hutch in your home, it’s always summer!
+   [03C] 0xEE032B49F4782BBA: This is a painted egg.
+   [03D] 0x949A7D7E3E0B3F7A: Step right in and let an untrained stranger put pictures on your face! A variety of fanciful designs are available. There might even be a few seasonal treats, depending on the time of year. Fun for children and the young at heart alike! Warning: it is vitally important that you not sneeze while having your face painted.
+   [03E] 0x1808274963822CE5: These decorative eggs are priceless objects of beauty created by talented artists who somehow decided that the egg was their ultimate inspiration. Admired for the intricate details in their design, each egg takes over 37,000 hours to complete, so try not to drop it, okay?
+   [03F] 0xB248160B57983E82: With its solid construction, high-quality materials, and smart design, this is a gate that commands respect. The gentle curves, juxtaposed with its sharp angles, will fascinate visitors so thoroughly that they’ll almost forget to step through it! Your Commander’s Fence isn’t complete until you install the Commander’s Gate.
+   [040] 0xD61FF65AC508BBAE: With its solid construction, high-quality materials, and smart design, this is a fence that commands respect. Its signature mix of points and curves makes a strong statement that begs to be repeated again and again. Why surround yourself with anything less?
+   [041] 0xAE762698744FBE35: There are few traditions in festivals and fairs as time-honored as creating a secondary economy with prize tickets. When you’re rolling with a fat stack of tickets in your hand, you’re King or Queen of the Festival. Earn them playing a variety of festival games, then redeem them for fun prizes! Maybe you can even find the perfect prize for that special someone…
+   [042] 0x223D12C038CA7C00: Fireworks have gotten pretty fancy over the years, but sometimes you just want to take things back to basics, right? The Red Glare gives you exactly what you’re looking for, and nothing more: it shoots up in the air, and then it explodes. Simple and awesome. Warning: not to be used as a shark deterrent, even though that would be AMAZING.
+   [043] 0x194C3742CFD6E838: No firework is more tempting to misuse than the roman candle, and that’s saying a lot! And with the majesty and power of the Holiday Cannon in your control, that temptation will hit stronger than ever. Enjoy a series of timed shots with reports, and remember: only fire them UP. In the air.
+   [044] 0x64680C890B870917: We dare you not to scream “Ninja, vanish!” as you light one of these. The brightly colored smoke makes an excellent distraction for any occasion. Perfect for when you’re surrounded by a rival clan in the forest, escaping from henchmen, or just for those times when caped superheroes foil your bank heist.
+   [045] 0x0D997D86BA54E980: We know. You got all excited when your parents told you they bought you some firecrackers, and then they handed you these. It’s okay! The true fireworks connoisseur values variety, and there is something hypnotic about the way that trail of ash writhes and twists out of its tiny prison. Snakes: the fireworks show has to start off somewhere!
+   [046] 0x4CE71333AC17A207: Fireworks are all about controlling chaos. It’s about bending explosive power to our will for no other purpose than decorative displays. Celebrate the chaos with the Little Maniac. He’s safe… but he looks like he might skip wildly out of control at any second!! We dare you to stare at him through his whole display without covering your face!
+   [047] 0x827A3EE2CB350EA9: Sure, you’ve seen a few fireworks go off for a special occasion, but that’s not what these are for. The Facemelters are for celebrating the entire season! We’re talking about several months out of the year – a special time with its own personality and traditions! Give the season the spectacle it deserves. Facemelter Fireworks: enjoy from a very safe distance!!
+   [048] 0xAD48AF54D8A02A78: Hot Dog Test Description
+   [049] 0xA31711D1020C3505: This is a Hot Dog.
+   [04A] 0x4202ED9322727334: This is a Pie.
+   [04B] 0x077179E450A7C84F: Hey, how about a nice fruit punch?!
+   [04C] 0xE054535780E20BBA: There’s nothing quite as satisfying as seeing the look of anticipation on a loved one’s face right before they dive into a giant pile of brightly wrapped presents. It’s fun to see them light up with joy when they get that one special gift they were really hoping for, and it’s even more fun to see them awkwardly invent ways in which a bad gift might come in handy. Fun for everyone!
+   [04D] 0x03FCF8E2379203E4: This is a Gift Pile.
+   [04E] 0x245C6F568ED901C6: This is a Gift Pile.
+   [04F] 0xF175BED9243F8A4A: This is the place where memories are made. Gather up your friends and family, put on your brightest smiles (or silliest faces), and in a flash you’ll have a memory that will last a lifetime. Whatever the season, Holiday Smiles is ready to show you and your loved ones looking your holiday best. Perfect for family greeting cards!
+   [050] 0x7D580F9F58C65E24: At a certain time of year, Sims may suddenly feel the need to test their bravery against the horrors of the unknown. This urge pulls them to the Scary Shack, said to be haunted by the ghosts of a thousand criminally insane llamas (amongst other things). Enter if you’re brave enough, but beware! The secrets of the Shack are expansive, and finding your way back out again may prove impossible!
+   [051] 0xDB2587D052E4545A: Before the internet, there was throwing things at other things, and horseshoes is the finest example of that sport ever played. It’s the ultimate test of skill that dates back centuries! Many mistakenly refer to it as the “sport of kings” even though the actual sport of kings was massive land wars. Horseshoes: It’s the most fun you can have with a horse’s shoe!
+   [052] 0x20D6C8F82993973E: Here, modern day gladiators assemble to put on a display of strength and fortitude that will inspire their fellows for generations. Poets will write and bards will sing of their epic feats. One has merely to watch these heroes perform their art to witness the moment when a man becomes a legend. It is less a contest than a battle of titans. Hail your champions! For you, they EAT!!
+   [053] 0x83E056CA3A7CDAAF: Your brain has been working overtime all day. Imagine turning it off and sliding down into a warm, bubbling hot tub for a long soak. The only thing that could be more soothing is the sharp angles and geometric symmetry of your hot tub’s design. Just sit back, relax, and know that there are exactly 16 triangles on either side of you. Ahhhhh… That’s Uniformity!
+   [054] 0x9578950D14C7080D: This is an Igloo.
+   [055] 0x60916BE55B88EF95: Get ready for summertime fun with the Hive Climber! Co-designed by kids, the Hive Climber provides the perfect space for your little hive to call their own. Fun to look at, fun to climb in, the Hive climber will keep your kids busy as bees all day long! Buzz buzz!
+   [056] 0xC49576A1C0E68D51: It’s hard to beat the simple fun of the sliding board. The anticipation of climbing the ladder, the rush of slipping down the slide! Our Summertime Fun Slide is quick and easy to assemble, and every unit we sell has passes a rigorous 12-point safety check. So, Mom and Dad can relax while the kids play for hours. Comes in a variety of fun seasonal patterns!
+   [057] 0xF1BFDB107DBFFAFF: It’s the classic attraction for good, clean fun! You get a friendly smooch, and the money goes to a good cause. Kissing booths have long been one of the most popular attractions at any festival or county fair. It should be noted, however, that engaging in this behavior outside of this specific context can be extremely awkward.
+   [058] 0x894BB76C2D456CFB: It’s the classic attraction for good, clean fun! You get a friendly smooch, and the money goes to a good cause. Kissing booths have long been one of the most popular attractions at any festival or county fair. It should be noted, however, that engaging in this behavior outside of this specific context can be extremely awkward.
+   [059] 0x98CF96B7F901A888: It’s the classic attraction for good, clean fun! You get a friendly smooch, and the money goes to a good cause. Kissing booths have long been one of the most popular attractions at any festival or county fair. It should be noted, however, that engaging in this behavior outside of this specific context can be extremely awkward.
+   [05A] 0x37011FD2E356B2A5: Chances are you’re an adult and you’ve realized that you will probably never live inside a giant, enchanted tree. However, that’s no reason to give up the dream! The Enchanted Branch ceiling lights can bring a little bit of enchantment to any mundane home. Until they figure out how to get a wi-fi connection inside a giant sycamore, this is the next best thing.
+   [05B] 0x78FE05AD27D42886: Layer Cake lights are a perfect blend of beauty and function. The satisfying concentric rings give each lamp style, while helping to distribute the light evenly across the room. Easy to install and operate, you’ll practically want to take a bite out of ‘em!
+   [05C] 0x2C35D444C84E1805: “Look out! The ice cave is collapsing!” you’ll want to cry out every time you see the dramatic design of the Mountain Avalamp. It’s the only ceiling lamp we know of that simulates that terrifying moment when dozens of icicles are dislodged from the ceiling and rush toward the floor. Don’t worry! These icicles are frozen in time forever and are perfectly safe.
+   [05D] 0x75AC8DEA47E4A3F5: For nature lovers, here’s a beautiful ceiling lamp that suggests a rare forest flower lit from within by fireflies. It will bathe any room in the house in a soft, almost enchanted glow. To complete the picture, try leaving a window open and listening for the sound of crickets with just a few of these lamps lighting the night.
+   [05E] 0x79E599C1E746AF8B: It is well documented that raging snow beasts prefer to hang their quarry upside down from the ceiling of their ice caves. What is less known is that they prefer to hang ceiling lights the same way, so the light spreads evenly throughout the room. (Ice caves are dark!) Enjoy this style of hanging lights with the Icicle Lights – the first choice of raging snow beasts!
+   [05F] 0xD0A871997BFF7C94: Here’s a fun and unique item to give your home a little natural flair. It looks like this leaf just rolled in on the wind and settled down to light your home. To some, its uncommon design could even suggest a cocoon hiding a mysterious, bioluminescent creature. One thing’s for sure: you will start some conversations with this fascinating lamp.
+   [060] 0x4868B69AF79EC5F7: Thanks to their dignified design, these small towers stand tall and proudly light the way. Weary travelers can follow their light to the comfort and hospitality of your home, no matter how dark the night or hard the weather. You can always rely on Tower Path Lights.
+   [061] 0x1C1921B62E04D53A: The biggest problem with nature is that it’s so hard to see at night. Give nature a hand with these elegant outdoor lamps, and light the way to the nocturnal splendor of the outdoors. It blends in so well with its surroundings, you’ll swear each lamp is a real lumapod -- which it is, because that’s a word we just made up.
+   [062] 0x523617F279668509: These mirthful flowers are sure to bring a smile to your face as they light up your day. We’ve taken the simple joy of freshly-planted flowers and improved their design immeasurably by adding electricity and smiley faces. Imagine: flowers you can plug in! These flowers don’t just look beautiful, they work for you all day and they smile while they do it!
+   [063] 0x70CC5BFC77821EFD: Celebrate Spring with the lamp inspired by the world’s most iconic flower! The graceful lines on our signature lamp look so delicate, you’ll swear the shade is made from real lily petals. It won’t make the room smell better, but it will make you THINK the room smells better and that’s just as good!
+   [064] 0xB88A665946B5E3F8: The renegade design of this table lamp playfully acknowledges your expectations, then shatters them. Glance too quickly and you might dismiss it as your run-of-the-mill lamp. A close examination, however, reveals asymmetrical quirks that create a sense of intrigue. Effective. Appealing. Unexpected.
+   [065] 0xECB34FDB8B30C94D: This fun floral lamp almost seems to sit up and regard you with a curious look. Its stylized shape and fun curves make it a delight to look at. Your child will love its bright personality, and so will you. Who says lamps have to be boring? Not Bloom!
+   [066] 0x608E7C1E524A83AA: Why place a simple lamp on your end table when you could own an artistic expression of nature? New to the Rolling Leaf line of illuminated artworks is the Rolling Leaf Table Lamp. It almost looks alive, like at any second it could slowly unfurl and shine its light in all directions!
+   [067] 0x146197CD9C449EAA: The wave is a shape that occurs over and over throughout all of nature. Even at rest it implies motion, a never-ending ebb and flow. One might see the petals of a flower in the wind, the feathers of a bird in flight, the arms of a fantastic sea creature… Look upon the Everflow Light. What do you see?
+   [068] 0xF061F2CB10C66FFB: We intended to explain how this table lamp was inspired by the petals of exotic flowers found along the shores of deep forest streams, but then we found out that the artist came up with this design right after eating one of those “fried onion” appetizers at a family restaurant.
+   [069] 0x571E65768ADDA84B: Inspired by nature, designed by artists, and crafted from the finest materials, the Enchanted Branch candlesticks look exactly like real tree branches, except that no one in their right mind would light actual tree branches on fire inside their house. That would be a terrible idea. So these aren’t real branches, but they are just as beautiful and WAY safer.
+   [06A] 0xB8CE723CB040487A: This Ammonite Shell lamp is so beautifully detailed, you’ll swear you could put your ear up to it and hear the ocean! Warning: placing your ear against a lamp can cause severe facial burns and/or electrocution. Do not place your ear against the Ammonite Shell lamp.
+   [06B] 0x4118099BAF95F2B7: You won’t believe the brilliant light that shines forth from a wall sconce made of pure ice. Keep your home bright and cool with these breathtaking lights. Even with their intense glow, our NeverMelt lights will stay solid and reliable forever. They won’t even drip on the carpets!
+   [06C] 0x077C9192FBD792BF: It’s hard to believe that at one point in our lives, scouring the beach for seashells could easily fill an entire day. Children love discovering treasure by the ocean. Celebrate that sense of wonder and discovery with the String of Shells light for your child’s room.
+   [06D] 0x8CA6A679F6C2D037: Embracing rustic levels of aesthetic and comfort, it’s the Boardwalk Bench! You take some wood, you nail it to some other wood, throw some rope on there… BOOM, you got a bench. Why get fancy? The Boardwalk Bench: the choice of grizzled old sea captains everywhere.
+   [06E] 0xF4D3FE66105D0EF8: This magnificent throne for two is hand-carved from a single block of pure ice and covered in our patented NeverMelt glaze. Make a dramatic statement in your living room with this remarkable piece of furniture and stay cool all year round. No matter the season outside, you’ll always feel like winter is coming to your home!
+   [06F] 0x04ED84E00B924E9C: Look at you, standing there with that look on your face. The one that says, “Everyone knows you can’t snuggle on waterproof furniture.” Well everyone is WRONG! The Permaloveseat proves it! It is perfectly resistant to inclement weather AND perfectly cuddly. Don’t believe us? We will cuddle with you on this loveseat right now if we have to. Oh, we’ll do it!
+   [070] 0x297225A4D2316BCC: Long thought to be a fabrication intended to frighten naughty children into behaving, it can now be confirmed that the evil Mr. Gnome is real. Woe is the Sim who is burdened with this mischievous ornament, for the antics of the evil Mr. Gnome can be severely obnoxious. For example, he’ll unmake the bed right after you just made it. Seriously, who does that?!
+   [071] 0x1022D3A4C40C5A4D: The name is Cracklin Nackerbell, pint sized witch at your disservice. Don't want me on your property? Mwahaha, I'll hop on my broomstick and skedaddle, see? You'll never catch me! Haunting your houses, tricking your treats... once I pick my victim you're mine for eternity!
+   [072] 0xC3BCEAE46AC03245: This affable chap has a knackering for greens. As a young gnome growing up in an unfamiliar world, he would peer from the bushes as sims challenged each other to scarf down handfuls of hot dogs, a vile meat that Bucktooth dare not consume. As the young lad came into his own, he introduced the tradition to his own people, yanking carrots from the ground and gnawing through them in record time! Now retired from his competitive years, he lives out his days as a rather ineffective scarecrow.
+   [073] 0x4CE0D6FC19E66CDD: After careful consideration, this gnome is taking his talents to South Beach. Yeah, it's going to be real Hollywood down there - and that's just the way Brawn Brawn likes it. If you can't take the heat, get out of his season.
+   [074] 0xE7EDD39176E0310D: Eyes black as a winter night, pale skin like a blizzard whiteout, and three lumps of coal affixed to his chest -- a staunch reminder of each of his bad years growing up in Strangetown. Don't be fooled, Bittertotter's affinity for playing in the snow is an attention starved display of irony for the cheerful life he's convinced was taken from him. Ho-ho-ho? More like ho-ho-horrible!
+   [075] 0x73F276461FDBAE0F: Last autumn, one of our top designers sat beneath a tree in a wide meadow and searched for inspiration. While she rested, she saw a single leaf removed from its branch and carried, looping and twirling on a light breeze, to the surface of a pond. Moving to the pond, she looked down at the leaf and saw her own reflection. She knew she had her design: the Mirror of the Meadow.
+   [076] 0x497E3FEC1A73169D: Like every snowflake, no two Sims are exactly alike! Unless they're twins. Then they are. But if you're not a twin, contemplate your individuality while staring deeply into the Unique Snowflakes Mirror.
+   [077] 0x05AA6B12B0683FC1: When peppermint lipstick is just too subtle, Sims in search of a holiday smooch turn to mistletoe. Simply hang a sprig of this magnificent plant from the ceiling, and then keep finding excuses to wander under it at a party. It’s that simple! Kick start your wintery lip lock with mistletoe: the kissing plant!
+   [078] 0x517B8673F08BE1FB: Usher in the spring season with an awe inspiring tribute to life. Mass-produced yet somewhat original, the Spring Bloom painting can give your room that showroom look without you having to pay showroom prices.
+   [079] 0x8555AF1AC911A1B4: Modeled after the frosted tree branches of winter, Frosty Waves is the perfect wall decoration for Sims who prefer the cold of winter.  Or perhaps you just like the color blue.
+   [07A] 0xC18270F0514EE276: Here is a captivating study of four different types of leaf. Some are curved. Some are pointy. This isn’t necessarily a depiction of every type of leaf – that would be a much larger painting – but it does highlight four common favorites. If you’ve been looking for a way to decorate your home with four different kinds of leaf, then look no further. You’ve found Celebration of Leaves!
+   [07B] 0x23B81C8B1F6C824F: Show the accursed day star who’s boss with the Sun’s Bane Parasol. Take refuge from the sun’s lethal energies beneath its generous shade. While the world burns around you, you and your Sun’s Bane will stand tall in direct defiance of that searing spot in the sky. There’s no way we can avoid incineration, but at least with the Sun’s Bane Parasol we can delay it just one more day…
+   [07C] 0xB142398F2FED88EF: The pie eating contest is another staple of community festivals everywhere. But wait -- anyone can eat a pie, right? Grab a knife and fork, and go to town – what’s the big deal? Well, here’s the trick: when people sign up for the pie eating contest, they don’t get a knife and fork! You wanna eat that pie, you gotta stick your face in some pie. It is seriously the best show you will ever see in your life.
+   [07D] 0x129699154BA48659: This is a Pile of Leaves
+   [07E] 0x938AC4AEB71BFA95: We get it. Sometimes you want to be in the pool, but you just don’t want to mess with all of that water. That’s why the good people at Inflato invented the Aqualounge. Lay out in style above the waves and show everyone that water is beneath you.
+   [07F] 0x8C63FA9541AD815F: It’s everyone’s favorite festive gourd, the pumpkin! It’s delightfully seasonal flavor is used in darn near everything once autumn rolls around. They are carved into frightening or funny jack-o-lanterns and put on display. There are even bizarre cults who wait all night in the most sincere-looking pumpkin patches hoping to catch a glimpse of their pumpkin messiah.
+   [080] 0xC82E7356C3ED0031: It’s tough to beat the classics. Nothing says “spooky autumnal holiday” like a face carved in a pumpkin. Looks great lit up at night!
+   [081] 0xC2CADA35F5510EC7: Another iconic spooky image is the black cat. She can often be carved so as to look like she stands before a bright, full moon. Is this some witch’s familiar on the prowl? Or is it just your standard “unlucky” variety?
+   [082] 0x86117DAFF82A5213: It’s the traditional jack-o-lantern’s evil twin! Some carvers go for fright rather than fun. More trick, less treat.
+   [083] 0xC6359FF0E913B74A: This happy little spirit seems perfectly content to hang out and haunt your pumpkin for you. Try to focus on how the ghost is a fun symbol of the holiday, and less on how it’s the trapped soul of an actual deceased person.
+   [084] 0xD57903B2F1C89276: Catches all the mess involved in pumpkin carving.
+   [085] 0xC3190835F5937E5E: This is a Carved Pumpkin Lid
+   [086] 0x42D68550C4D2D215: The secret to making ice skating look effortless is to give it a ton of effort. It takes real strength and remarkable balance to glide across the ice. Most of us are content to do the tried and true step-n-wobble about 1 inch away from the wall. Don’t miss out on the fun. Grab some friends, strap on some skates, and get out there! This is the large Ice Skating Rink.
+   [087] 0xEE29348753A0828D: The secret to making ice skating look effortless is to give it a ton of effort. It takes real strength and remarkable balance to glide across the ice. Most of us are content to do the tried and true step-n-wobble about 1 inch away from the wall. Don’t miss out on the fun. Grab some friends, strap on some skates, and get out there! This is the small Ice Skating Rink.
+   [088] 0x3B83C7ED62F9FEE8: Just in case you don’t have access to a time machine, you can always step into a pair of roller skates and take a few turns around the rink while groovy music plays. It’s a truly timeless pastime. And yes, greasy pizza and cold soda do taste better after roller skating! This is the large Roller Skating Rink – the more the merrier!
+   [089] 0xB0CA9199D13C8EA0: Just in case you don’t have access to a time machine, you can always step into a pair of roller skates and take a few turns around the rink while groovy music plays. It’s a truly timeless pastime. And yes, greasy pizza and cold soda do taste better after roller skating! This is the small Roller Skating Rink, for a more intimate experience.
+   [08A] 0x7976F770B1BDFDA0: Soft yet durable. Add vibrant colors to any room in the house with this butterfly shaped throw rug. The odd shape makes for some interesting furniture configurations.
+   [08B] 0x9B3B49B3112A84BD: This is a Spring Dance Floor. Get your groove on!
+   [08C] 0x829EDFC2CC6FFB13: This pumpkin-headed fellow has one job to do, and he does it very well: scare all the critters. Just stand him up near any crops you want to protect and he’ll go to work immediately. Actually, some people even think he does his job a little too well. Maybe it’s best not to stand too close…
+   [08D] 0x5B00639A31541731: Nothing says "Keep out!" like bright orange construction cones!\nUse these cones to block off an area under construction.
+   [08E] 0x542C2554FBE68D65: Don't you see that there's work being done here?\nUse this sawhorse to block off an area under construction.
+   [08F] 0xD89820CDE3E5B057: This charming little table has such a natural look and feel to it, you almost expect it to get up and start walking around! It won’t though. Its delicately curved legs are as sturdy as a column of steel, and its glass surface is chemically treated to be resistant to cracks and scratches. A strong and attractive addition to any home!
+   [090] 0xD237E48A764C2C29: Imagine bringing a long, beautiful shell into your home. It’s the largest shell you’ve ever seen, and it stands perfectly on its tip while its wide bell stretches out above. Now, what’s climbing up from the shell? No, not a gigantic crab beast! It’s a beautiful plant, springing from the mouth of the shell and reaching up toward the ceiling.
+   [091] 0xE5D9E4843553BA41: This pretentiously stylish display pedestal reaffirms your spot at the top of the food chain. The shoulder high base ensures maximum visibility of the full size ceramic shark jaw replica. It's every bit as authentic as your shark hunting tales.
+   [092] 0x40BF1E1B5A09D405: A natural leaf formation from the lushest rainforest realized in metal and fabric. Give your home the look and feel of nature without the fuss of dirt and water.
+   [093] 0x4064CAFE86B926C8: The designers drew inspiration from rolling ocean waves when designing the new line of Sea Swell decorative products. The Sea Swell Glass Vase is uniquely crafted from blown glass and features a tall neck line for holding long stem plants and flowers.
+   [094] 0xA0FC42464FA769ED: I dare you. Say MAGnificent Pole three times fast and you'll be calling it the Magnificant Pole too.
+   [095] 0x988C0052AFD8934B: Step behind the Leafy Shade and you can pretend that you are hiding in the tall grass away from prying eyes. Set it up anywhere in the home and instantly create your own little refuge. A private natural preserve where you can concentrate on your own thoughts. Just remember that it is slightly transparent so don’t get too crazy back there.
+   [096] 0x1880CB5FC404AC1B: Don't just say it, shout it! King o' the Dance! King o' the Dance! KING O' THE DANCE!
+   [097] 0xF779910CEAF555A0: Don't just say it, shout it! Queen o' the Dance! Queen o' the Dance! QUEEN O' THE DANCE!
+   [098] 0xC5C14343AF6A798B: Here is a delightful statuette modeled after the mascot of the most infamous fighting force ever to fly through war-torn skies: The Spittin’ Llamas! They were feared across many nations for their ability to appear out of nowhere and spit hot fire from their plane-mounted machine guns. Popular propaganda from the time often depicted an enemy pilot staring at his wrecked plane in dismay while an onlooker comments, “Whoa. You know THAT guy got hit by a Llama.”
+   [099] 0xD119D21B9E6FD28D: You must have been on someone's naughty list to get this. Oh well, at least it is somewhat practical.
+   [09A] 0xD5E2DF43B947B0CA: The Rainbow Light has a unique way of giving your Sim the most awful headaches. Don't stare directly into the light.
+   [09B] 0x6F4D8B1BF8B146DD: It's everyone's least favorite one-eyed plush doll. It's a very economical way to fill your gift list.
+   [09C] 0x52C994E61728163E: Nicknamed after all that are "Missing In Action," it is said that all men that lock eyes with Mia the Mermaid become lost in the sea forever. Place this figure outside, and maybe those lost at sea will follow it home.
+   [09D] 0x5BB757E11D743841: This charming model shows the noble yeti enjoying two of his favorite activities: staring into space and scratching. He would look perfect on any end table, and brings just the tiniest dash of winter into any room. Lovingly realized by Nova Statues, maker of many fine yeti goods.
+   [09E] 0x36B0CBF0FCCD8E50: Don’t stare too long into this decorative mirror, or you may become trapped in its web! One of nature’s most iconic designs comes home in this captivating wall mirror. Hang it high and it will appear to “capture” everything in the room. A must have for nature lovers and spider enthusiasts alike!
+   [09F] 0x3E8A99092900FC8C: This amazing fossil captures in fine detail the glory of the genus Nautilus. Thriving in the ocean to this day, they first appeared hundreds of millions of years before modern cephalopods such as octopi and squids. Of course they were carnivores, relentless scavengers and predators of opportunity. Place one on your wall so people can say “Ooh, pretty shell!!”
+   [0A0] 0xC8EEFB6FF795C940: The sun, it burns us! Yet without its brilliance life couldn’t survive. No wonder civilizations stretching back to the dawn of time have worshipped the sun. Bring a little bit of that brilliance into your home with the Sun Spot wall sculpture. Its rays stream out in all directions from its reflective center, bringing to mind the first light of dawn breaking through the clouds. And unlike some other suns we could mention, this one won’t blind you for staring at it.
+   [0A1] 0x774A2848814D1B33: Who wouldn't want a decorative school of smiling fish on their wall? Sit back and appreciate the fact that you have now made your room feel as if it were under water.
+   [0A2] 0x94928A25707CFC18: Maya the Mermaid became a local legend when beachgoers saw her swimming off the coast five years ago. Skeptics believe she was just a regular, boring "woman riding a dolphin" event, but witnesses swear Maya was a genuine mermaid.
+   [0A3] 0x7E9F50E72ECE2308: Nothing says "I'm adventurous and like to have fun" more than a set of sturdy wooden paddles.
+   [0A4] 0x809E15064D43CFDD: Nature is beautiful, but it’s hard to own. Take leaves, for example. They can be stunning, but as a part of the natural world their life is cyclical and ever-moving. There’s no guarantee that a leaf that is beautiful today will have the same color, shape, or even location tomorrow. Thanks to technology, you can now have the beauty of nature in a refreshing permanent state. Hang the Permanent Leaves sculpture on your wall, and you can say “Gotcha, nature!”
+   [0A5] 0x70277D93F6AF43B3: These Starry Hangers are built for after-school abuse, as coats and backpacks will be hung up on a daily basis. Kids will love its colorful triple stars and snappy design. Really, though, you should just be happy they're hanging up their stuff.
+   [0A6] 0x3CB781E35AC6FA7A: This two-in-one wall shelf not only serves as a shelf for your personal belongings, but it also has a bar to hang up your towels. This ingenious design saves valuable real estate in any room where you have towels. One can only hope we'll see a combination bookcase/lounge chair in the future.
+   [0A7] 0x0B7D26AD7C84AA3D: It kind of looks like the shape of an angel, or at least someone wearing a very large gown. You get bonus points for using a doughnut to stamp a tiny halo over its head after you get up.
+   [0A8] 0xD6A488EB86C77414: It’s the last vehicle you’ll ever need. Once you feel the mountain air rushing past your face no other mode of transportation will suffice. Hew Snowboards feature incredible custom graphics designed by the criminally insane. Pick your favorite and hit the half-pipe in style.
+   [0A9] 0xA92E64FDA84C5576: Learning to snowboard means falling down in the snow… a lot. Luckily, kids love falling in the snow! It’s the perfect time to learn! And if you want your child to fall down in style, you’ve got to pick up a Hew. Featuring designs by young artists who were accidentally given the wrong medication! Hew Snowboards for children: you’re never too young to shred.
+   [0AA] 0x76F8F1A60E71EC4B: This is the place where Sims come to experience the thrill of extreme winter sports. Snap those boots into those bindings, peer over the lip of the pipe, and plan your move. Hit it just right and you will feel like you’re floating through the sky. The cheers of an adoring crowd don’t hurt either! Just remember: every boarder has to eat a pound of snow before they can fly.
+   [0AB] 0xDBA1E2DF536CCD3E: The snow cone – one of the finest examples of a product being more than the sum of its parts. Sure, it might just start as crushed ice with a couple squirts of syrup in it, but when it’s handed to you in that cup it is pure summer magic. Whether you called it a snow cone, snow ball, shaved ice, or any other name, it all meant the same thing: a rainbow of possible colors and flavors in one special treat. This machine is attached to a cart to help spread the joy.
+   [0AC] 0x5D076961175B4718: The snow cone – one of the finest examples of a product being more than the sum of its parts. Sure, it might just start as crushed ice with a couple squirts of syrup in it, but when it’s handed to you in that cup it is pure summer magic. Whether you called it a snow cone, snow ball, shaved ice, or any other name, it all meant the same thing: a rainbow of possible colors and flavors in one special treat.
+   [0AD] 0xFB0D6321CC16ACD8: This is a Snowman.
+   [0AE] 0x4285E23A9AB44125: Step into the most popular sport in the world and catch the fever. This goal is slightly smaller than regulation size, making it the perfect place to practice your skills or enjoy a quick game with a friend. Experience the thrill of defending your goal as your opponent lines up his shot. Where will the ball go, and can you get there in time? And when it’s your shot to take, can you outsmart the keeper? Find out with this Soccer Goal. Or should we say, Soccer Gooooooooaaaaaaaal!!
+   [0AF] 0x45620EC51A6DF5FD: This spectacular sofa is hand-carved from a single block of pure ice and covered in our patented NeverMelt glaze so it will never lose its dramatic shape. The bold statement this masterpiece makes about you is worth a little chill up your spine when you sit down. One look and your friends will know: when it comes to home decorating, you absolutely do not mess around.
+   [0B0] 0x269ABE7F05047DCC: Everyone knows the best part of the sofa is the cushions! It’s the part you sit on! So why do so many sofas hide their cushions under unnecessary design? The Cushions Galore! sofa is simple. We start with the plumpest, softest, most comforting cushions known to the human backside, and then we put just enough sofa under them to keep them off the floor. That’s it! Feel the difference of Cushions Galore!
+   [0B1] 0xF09ACA6E239F8AEF: The crown jewel of Nadia Tayporoff’s collection is her enchanting sofa. Large enough to seat the family comfortably, and yet it seems to take up no room at all! Nadia’s perfect lines almost seem to wish this masterpiece out of existence while accenting its shape at the exact same time. It is a study in contradictions and the pinnacle of Nadia Tayporoff’s “beauty through simplicity” design.
+   [0B2] 0xF641FD336864D355: Boys and girls, come ride the Busy Bee! This buzzing bee bends and bounces for boundless hours of bobbing bliss. Great for brave bambinos!
+   [0B3] 0xD2419758B8B886DB: Just sit like a caterpillar and swing like a cocoon! Then, you'll be soaring through the air like a butterfly! …Cocoons swing, right?
+   [0B4] 0x135D33DCD3C7127A: We’re reasonably sure that when prehistoric man came home from a hard day of hunting saber-toothed mastodons that the first thing he wanted to do was prop his feet up on a big slab of ice. Now you can enjoy this simple pleasure with the Iced Coffee Table. It’s the table that noted frozen furniture enthusiast Paul Wisniewski called “pretty great!”
+   [0B5] 0xDB15FD7536B2F3E1: Each Placid Stream coffee table features a recessed display of tastefully arranged stones; each stone worn smooth by the gentle currents of a river. Gaze down at this table and you can almost hear the dance of fresh water across the stones’ surface. Purchase a Placid Stream coffee table for your home, and own a little piece of tranquility.
+   [0B6] 0x6B89EA2BCA49DFF6: Ergonomically crafted to maximize both air flow and feng shui, don't be surprised if you feel a breeze of fortune with this lucky coffee table.
+   [0B7] 0x1A01358C1B9A2644: A perfectly level surface delicately sits atop two improbable curves. This is Autumn’s Table for Coffee. No mere coffee table, this is a work of art that celebrates balance. Like the season of Autumn itself, it appears to teeter between the force of light (Summer) and darkness (Winter). If you must, you can also put coffee cups and magazines on it.
+   [0B8] 0xC8E019DD61F677BC: A wide, open, and round space makes up the body of this breathtaking and functional work of art. This is a table that represents Spring as the beginning of life. The surface, a clear metaphor for the Earth, is entirely supported by the oval of life, even if the relationship seems precarious. Spring’s Table for Coffee: please refrain from putting your feet up on the metaphor.
+   [0B9] 0x88D3B2CF059D75A5: The surface of our NeverMelt table is a single sheet of thin but strong ice. It has been specially treated to be practically shatter-proof, and, of course, it will never melt. It makes the perfect family gathering spot in any ice cave or supervillain’s fortress. Warning: even though it is cold enough to do so, storing raw meats on a dining table is a terrible idea.
+   [0BA] 0x74A56F559A301584: Each Placid Stream dining table features a recessed display of tastefully arranged stones; each stone worn smooth by the gentle currents of a river. There simply is no better place to gather with family and eat leafy salads or fresh fish. You’ll swear you’re camping out by the stream! Enjoy a measure of serenity with your dinner with the Placid Stream Dining Table.
+   [0BB] 0xF9B310D85728AD31: During a fall catalog meeting, a bolt of lightning cast a shadow of a tree across the conference table. Enchanted Branches - the fastest designed table ever made.
+   [0BC] 0x1A8577559B035A6A: Crafted to fit in any living room and rated to hold small vases, plates, and books, the Boulder Built patio table is the ideal surface for any occasion. But, don't stand on it! It's Boulder Built, not Diamond Built!
+   [0BD] 0xB3B7DD027CDE9FF6: Restore a little order to family meals with the Very Symmetrical Table. They won’t dare cause a ruckus in the presence of so many perfect right angles and rectangles. A support network of backup rectangles runs underneath the surface of the table for extra symmetry. The Very Symmetrical Table: you’ll start using a compass to lay out your silverware!
+   [0BE] 0x398101C7FF433059: Originally created to cure dendrophobia, the Deep Forest Trees end table was designed to acclimate patients to the twisting branches of mature oak trees. The treatment didn't work, but these tables sure are pretty!
+   [0BF] 0x94AE05110159A314: Do you love boats? Do you long for the sea? Do your crave melted butter? Then, the Crab Pot end table is for you! Made from pots from genuine crab boats, you'll have the smell of sea right in your living room.
+   [0C0] 0x3928F451D5E1EE60: There are few straight lines in nature, and there aren’t more than necessary in the Rippled end table. Where straight lines would ordinarily go, we have allowed the edges to curve gently as with a spring breeze or rolling waves. Inspired by nature, made from all-natural materials.
+   [0C1] 0x05FF650F045778B1: We can mark days on the calendar if we want, but there is no strict point of beginning or end for the seasons. One flows into the next, on and on, in a great circle. Consider the legs of the Seasons end table. Its curves do not stop at a predefined edge, rather they gradually cede their territory to one another. Your friends will love it. “Oh, I get it. Because of the nature of seasons!” they’re sure to say.
+   [0C2] 0x950FED46A7BBEF2A: What do you see in the shapes of the Nature’s Flair end table? Tall blades of glass? Leaves in the wind? Rising flames? It can be any and all of these things. The Nature’s Flair was designed with the recurring patterns of nature in mind. Also nice to put lamps on.
+   [0C3] 0xA62AF767EB98CBE2: Who says you can't improve on mother nature? Using old oak stumps, the artisans at Naturlone have handcrafted and precision-polished each of these works of art. These old trees have never looked better!
+   [0C4] 0x88D2E1348DB47EBE: The Boardwalk Picnic Table is designed to withstand the most torrential rain and the heaviest snow. It can carry the heaviest paper plates and the heftiest plastic cups. Boardwalk Tables: If you can make it here, there'll be a seat waiting for you.
+   [0C5] 0xFC567556D0971879: Here is another fine NeverMelt Icesplosion product. The surface of this table is so smooth it is nearly frictionless. The dramatic base is formed by setting off small, controlled explosions just below the surface of arctic pools. Each spout is flash frozen the second it forms and treated with NeverMelt. Yes, setting off explosions in freezing waters is actually someone’s job. He loves his work.
+   [0C6] 0xB951495174CB07E4: Bombarding yourself with UV radiation for a quick, cosmetic tan is dangerous and barbaric. Get a quick, cosmetic tan the natural way by spraying your entire body with Golden Glow’s patented MuchoTan Bodycoat. Your skin will register at least a 97.5 on the Murakami-Grant Pigmentation Scale, and thanks to an infusion of our proprietary Saf-T Chemicals the impact on your health is minimal. The Golden Glow Tanning Booth. Your personality glows… shouldn’t you?
+   [0C7] 0x63F9A6B50045CA07: Snowy the Snow Bear is a friendly-natured soul. With some cute earmuffs and a big red scarf and a nose made out of coal! (Bear does not magically come to life.)
+   [0C8] 0x02D521DB08BF0212: This is a test bathroom blueprint
+   [0C9] 0x9436F29DD43D7B9E: The smooth natural curves of the Naturlone trash can will bring the feel of the outdoors into your home! Dumping trash isn't very eco-friendly, but with the Naturlone, you'll kinda feel like you are!
+   [0CA] 0x178E84E8175709DD: Don’t let the pouring rain soak your clothes, hair, and skin. You are not a stray cat! You are a human being, and therefore greater than anything nature can produce. Keep nature at bay with the Rain Disruptor, a collapsible shield that can be deployed in seconds to deflect those hated drops. And now that it’s waterproof, our Rain Disruptors are 700% more effective!
+   [0CB] 0xEB67EA93D53DAF56: It’s the dream of any self-respecting mad scientist or supervillain: a machine that controls the weather. Now, their dream can be your reality! Whether you want to use it to destroy the world’s crops and cause a global economic collapse, or you just like making the weatherman look dumb, this Climatron Control Unit is the answer.
+   [0CC] 0x73163EC96D93CCA2: Mystical forces that we can never hope to understand have gifted you with the magnificent Weather Stone. If you can find favor with this ancient totem, it will bestow upon you a fantastic gift. The exact nature of this gift depends upon who you are. You cannot hide your true self from The Weather Stone.
+   [0CD] 0x3173005064497794: Of the many signs of spring, few are as pleasing to sight and smell as the bloom of wildflowers. Almost anywhere there is a free patch of ground, you can find these multicolored beauties reaching up toward the sun. There are many varieties. Can you collect them all?
+   [0CE] 0x418CF325BEDF0C9C: This remarkable window allows so much natural light to cascade into your room, you’ll feel like you’re standing in the middle of an enchanted meadow as the sun comes fully over the horizon. Some will see the sun rising to its zenith in the window’s design, and others will see the full moon. Either is fine. Both day and night will look dazzling through this window’s panes.
+   [0CF] 0x2F29E9A5B23CBC78: The world looks too beautiful through the Classic Arch to leave its windows shut all day. If the season’s right, then go ahead! Crack it open and feel the breeze whisper by. Each window uses our hidden hinge system to preserve the beautiful architecture of the frame. You’ll want one on every wall in the house! Purchase the Classic Arch window, and let the world in!
+   [0D0] 0x76E16860D34EA86A: This frozen body of water is just big enough to skate on! Be sure to get out there and slide around. Miss this opportuninty and you'll have to wait another year!
+   [0D1] 0x1FFDD6F245A60F5E: Snow Ball
+   [0D2] 0x07471531EFF1A402: Water Balloon
+   [0D3] 0x5288CB4EC7562ABF: Anniversary Llama
+   [0D4] 0xAC9CB1B12278643C: Anniversary Plaque
+   [0D5] 0xA1B572ACFEEFD7AD: Anniversary Watch
+   [0D6] 0x58F212FED3E75145: Apple Bobbing Tank
+   [0D7] 0x89B48F850BC4A37F: Family Fun Water Arena
+   [0D8] 0xEE4B81974DC5B899: Summer Meat Master
+   [0D9] 0x7B32E10F33FAE78D: Forest Moon Bar
+   [0DA] 0x90F6559795131F0C: The Frost Bar
+   [0DB] 0x472F82C4410E2892: Gentleman’s Barstool
+   [0DC] 0xE7DADB0C65A2ECCF: Pillar of Ice Barstool
+   [0DD] 0x2CD48ABE27BD40FE: Spring Serenity Shower
+   [0DE] 0xB144489346300868: Cape Cod Double Bed
+   [0DF] 0x2DF81F36C46729F9: Sleigh Bells Double Bed
+   [0E0] 0xD257127BC98C5321: Cold Beverage
+   [0E1] 0xC88E63FFB245BD58: Hot Beverage
+   [0E2] 0x32A27E9718DFDA02: SolidShelf 9000
+   [0E3] 0x79276EE0504810EF: Summer By The Sea Shelf
+   [0E4] 0xD9B1B5FBC538A0FF: Arbor Bookshelf
+   [0E5] 0xE1E84769A7AFBB66: Rainbow Sparklers
+   [0E6] 0x8D896AEF7E3A28FF: White Sparklers
+   [0E7] 0xA27D6184C52DC6C9: Spooky Day Candy
+   [0E8] 0x569F009A83B11DE4: The Galaxa Space Car
+   [0E9] 0x66D607E95AF9CB5A: Posturight Spine Helpers
+   [0EA] 0x6A3F1B83348710FC: Tayporoff Dining Chairs
+   [0EB] 0xCBEBF6E2A718A817: Icesplosion Dining Chair
+   [0EC] 0x6D066DA4FD98C530: The Permachair
+   [0ED] 0x96524CD03CA2E8B6: Tayporoff Living Chairs
+   [0EE] 0x2601B3D57F66D243: The Permalounger
+   [0EF] 0x8658E614C7F478C7: The Cloud-inator 9000
+   [0F0] 0x09BB9E60654940A3: Pillar of Ice Pillar
+   [0F1] 0xAD30BA6CD3AF70B5: Fall Fare Concession Stand
+   [0F2] 0x1186F702C92646ED: Spring Spread Concession Stand
+   [0F3] 0x3A05A31B63709A25: Summer Snacks Concession Stand
+   [0F4] 0x7FC9C033AF990C95: Winter Vittles Concession Stand
+   [0F5] 0xFF0AF19034163111: Fair Meadow Curtains
+   [0F6] 0xE34FAA48D643F0A5: SolidDesk 9000
+   [0F7] 0xE6B57A91B87EDA1D: Frozen Arch
+   [0F8] 0x4D8A76698396E8C7: Frozen Arch
+   [0F9] 0xFFC8B6FB46BB297F: Knobbs Double Door
+   [0FA] 0x2859BBC4E54788CF: Nature’s View Sliding Door
+   [0FB] 0xBCA469893D6ACD1A: Ocean’s Memory
+   [0FC] 0x802CD0B14A5E8369: Very Symmetrical Arch
+   [0FD] 0x9086B35DE2D7789E: The Permadresser
+   [0FE] 0x5D2C006A1706D7D5: Perfect Fit Dresser
+   [0FF] 0xA488C7FA6A35470E: Vitrine Hutch
+   [100] 0x78DECC118AF14153: Festival Egg
+   [101] 0x8E64240707D0A22F: Face Painting Booth
+   [102] 0xFB26F606B7E8E742: Fancy Festival Egg
+   [103] 0x9EA7B7D80E07C12B: The Commander’s Gate
+   [104] 0x13C20F3FFB413D65: The Commander’s Fence
+   [105] 0xA02A51151D37E112: Festival Prize Tickets
+   [106] 0xC9184D574A7EE591: Red Glare
+   [107] 0xE235DD4864EC42C7: Holiday Cannon
+   [108] 0x8307DE0FB9D74644: Ninja’s Choice Smoke Bomb
+   [109] 0xEC0EEC2D6ADAA9F3: Parent-Approved Snakes
+   [10A] 0xE2FC7E108F9FD868: The Little Maniac
+   [10B] 0xBEE0D253D5D38122: Facemelter Fireworks
+   [10C] 0x3114EAFF07ECD4D2: Hot Dogs
+   [10D] 0x8FAA80C6971385A9: Pie
+   [10E] 0x048100CB4631FEFE: Fruit Punch
+   [10F] 0x3BF3BDA96F066EB5: Bunch o’ Gifts
+   [110] 0xFAEFFD237FB54D85: Gift Pile
+   [111] 0x94276CE4E8B5F32D: Gift Pile
+   [112] 0x9E6BFD229BD049E1: Holiday Smiles Photo Booth
+   [113] 0xC3D78CFF86B1DEDE: Holiday Smiles Photo Booth (Fall)
+   [114] 0xAC520493157EC96E: Holiday Smiles Photo Booth (Spring)
+   [115] 0xD4D2D0BCC967260E: Holiday Smiles Photo Booth (Summer)
+   [116] 0x7D0347A866E628E2: Holiday Smiles Photo Booth (Winter)
+   [117] 0x5135135AB5C54133: The Scary Shack
+   [118] 0x5508E2A514A57F81: Horseshoe Court
+   [119] 0x2AA57E47C4494295: Hotdog Eating Contest Arena
+   [11A] 0x971F4F3666DF9B84: Uniformity Hot Tub
+   [11B] 0x7B9F76504152B51C: Igloo
+   [11C] 0x284F4AC83831A22E: Hive Climber
+   [11D] 0x948D549274BC0932: Summertime Fun Slide
+   [11E] 0xFD8927A943EB03F8: Muchas Smooches Kissing Booth
+   [11F] 0x3DC759C137986E78: Muchas Smooches Kissing Booth (Female Attendant)
+   [120] 0xFA09EC7B4A8F2687: Muchas Smooches Kissing Booth (Male Attendant)
+   [121] 0x2D2508084E18BF8E: Enchanted Branch Lighting
+   [122] 0xEE9400CC5B625A15: Layer Cake Lighting
+   [123] 0xC098364AFC93B82A: Mountain Avalamp
+   [124] 0x7EFC60B75C00E716: Enchanted Petal Lamp
+   [125] 0xCD09021375109590: Icicle Lighting
+   [126] 0x2BD3657314D4E61D: Rolling Leaf Floor Lamp
+   [127] 0x797DCC520EB0B598: Tower Path Lights
+   [128] 0x24AF20F9C12175D7: Pod Lamp
+   [129] 0xABC036FCA4FE3B58: Lighting Table Happy Flowers
+   [12A] 0xFC491F5D37C458B6: Glowing Lily Lamp
+   [12B] 0xF7EB275FBFB31C0B: Unexpected Table Lamp
+   [12C] 0xB071ACF402A8C59E: Kids Lamp by Bloom!
+   [12D] 0x0A1E2A2CAF07DE5F: Rolling Leaf Table Lamp
+   [12E] 0x323759B3805BCB1D: Everflow Light
+   [12F] 0x5489B95DA937A722: Everpetals Light
+   [130] 0xBFAA20003AD4A29A: Enchanted Branch Candlestick
+   [131] 0x0BD65D7C7D9B35C9: Ammonite Shell Lamp
+   [132] 0x943DA0506E25C50A: NeverMelt Wall Lights
+   [133] 0x714DA3407D883C52: String of Shells Light
+   [134] 0x99ADA32441E7646E: Boardwalk Bench
+   [135] 0xB98DD0A696620F21: Throne of Glaze
+   [136] 0x40CC02C0808B712D: The Permaloveseat
+   [137] 0x637447F5FCE3E3AF: Evil Mr. Gnome
+   [138] 0x5BEC25F5F8F222DA: Cracklin Nackerbell
+   [139] 0xBA25678657547DE2: Bucktooth Butternut
+   [13A] 0xC8D89B6E6D1EE082: Brawn Brawn G'nome
+   [13B] 0xB525EA5123D00276: s-GNOME-man Bittertotter
+   [13C] 0x3EBE8A177E3503F8: Mirror of the Meadow
+   [13D] 0xAEAEF5D8E6898638: Unique Snowflakes Mirror
+   [13E] 0x1579A66ED8CD1210: Mistletoe
+   [13F] 0xDC47506CCAD7D22E: Spring Bloom
+   [140] 0x030BDD12EE6CA2E7: Frosty Waves
+   [141] 0x261B1EACC0104CF7: Celebration of Leaves!
+   [142] 0xCEAEFA07BBDFBEC6: Sun’s Bane Parasol
+   [143] 0x8355AAE5F3E15296: Pie Eating Competition Trough
+   [144] 0xB70D9539251ACB8E: Leaf Pile
+   [145] 0x02DFE1379F2C6994: Inflato Aqualounge
+   [146] 0x00531A623053C7B6: Pumpkin
+   [147] 0x54E58FA8E8FE0876: Jack-o-lantern: Traditional
+   [148] 0x14282D5B29A0CE82: Jack-o-lantern: Cat
+   [149] 0x16F27AE7DB4BD5EC: Jack-o-lantern: Evil Grin
+   [14A] 0x4D38B0E88B19E3B3: Jack-o-lantern: Ghost
+   [14B] 0xA6430680ACA3F6CB: Used Newspaper
+   [14C] 0x4F87254CDFBF2197: Jack-o-lantern: Silly
+   [14D] 0x1470175B29DE5F47: Pumpkin Lid
+   [14E] 0xA7DFCF1E3A0EC1B9: Jack-o-lantern: Traditional
+   [14F] 0xBBBC2110871081A6: Ice Skating Rink (Large)
+   [150] 0x863B154CE8F6D162: Ice Skating Rink (Small)
+   [151] 0x5C6E13A71366BB8D: Roller Skating Rink (Large)
+   [152] 0x91EF236AB1807305: Roller Skating Rink (Small)
+   [153] 0x6118616DE64C8F55: Butterfly Rug
+   [154] 0x34B973CE683E17C6: Spring Dance Floor
+   [155] 0xAFD86129038FBB98: Scarecrow
+   [156] 0x3A896BBE965B5734: Keep Out! Construction Cones
+   [157] 0x45021535D66E4526: Keep Out! Construction Sawhorse
+   [158] 0xB68772F4E10575DC: Natural Coffee Table
+   [159] 0x35CC32B19CAB634C: Shell Planter
+   [15A] 0xDC04E2FB4066F34E: Tower of Teeth
+   [15B] 0x6ACD4A42CDFD1B04: Leaf Shelter
+   [15C] 0xC17F48131A196AFD: Sea Swell Glass Vase
+   [15D] 0x9F26067403053C62: MAGnificent Pole
+   [15E] 0xFB4A8DCA2E57C318: Leafy Shade
+   [15F] 0x7E2645A72100F7B8: King o' the Dance!
+   [160] 0x3F0911D999443A25: Queen o' the Dance
+   [161] 0x9F816B1F4EE718BE: “Spittin’ Llamas” Model
+   [162] 0xD14FA9DF659011AA: Seasonal Coal
+   [163] 0xFFD59BD3E3EBBDDD: Rainbow Light
+   [164] 0x6C8994DFBD49D026: Amphib-clops Plush Doll
+   [165] 0x3CE1484542DC29C7: Mia the Mermaid
+   [166] 0x7CF7A6102D8F2A62: Table Yeti
+   [167] 0x846835027B7C3117: Widow’s Mirror
+   [168] 0x40A626106439DAE5: Nautilus Fossil
+   [169] 0x49035C2A28A6F7B9: Sun Spot
+   [16A] 0x5CE174E8AA48F844: School of Plastic Fish
+   [16B] 0x11B2A32C643F9701: Maya the Mermaid
+   [16C] 0xB0A5D346665E4C4B: Oar Naments
+   [16D] 0x6E972F67F8EB96E4: Permanent Leaves
+   [16E] 0xC8735B9E3312B4D2: Starry Hangers
+   [16F] 0x126E67199618ACD7: Towel Shelf Combo
+   [170] 0x81C3ACC9C28679B6: Snow Angel
+   [171] 0xDFE3BC7CC4515177: Hew Snowboards (Adult)
+   [172] 0x96C6586AF04E0095: Hew Snowboards (Child)
+   [173] 0xAC8BE5CBA6713342: Snowboard Half-Pipe
+   [174] 0x9CC84A5FAA219A2B: Snow Cone Machine Cart
+   [175] 0xD39B6BF00D21A933: Snow Cone Machine
+   [176] 0xA88FABFBEBDAEC81: Snowman
+   [177] 0xBA26E2BBC45DCB6F: Soccer Ball
+   [178] 0x7B249A632B351EBE: Soccer Goal
+   [179] 0x1F138A3FB2D3D2DE: NeverMelt Sofa
+   [17A] 0x5D03E6159347B235: Cushions Galore!
+   [17B] 0x1130F7F0503A944A: Tayporoff Sofa
+   [17C] 0x45FB386D2183EF54: Busy Bee Bouncing Bobble
+   [17D] 0xA5B99CD3E825524A: Metamorphosis Swing Set
+   [17E] 0xFFF4F909DE938EF7: Iced Coffee Table
+   [17F] 0xC78E97C68EF72D64: Placid Stream Coffee Table
+   [180] 0xE842E2F8173680B1: Lucky Breeze Coffee Table
+   [181] 0x3D30319293F3F4F3: Autumn’s Table for Coffee
+   [182] 0x9F1E92751CA13281: Spring’s Table for Coffee
+   [183] 0x6B5482437C74D7C0: NeverMelt Dining Table
+   [184] 0x57DC0AA19CF402FF: Placid Stream Dining Table
+   [185] 0x172CB32F82B59A42: Enchanted Branches Dining Table
+   [186] 0x001B5D29695BD095: Boulder Built Patio Table
+   [187] 0x5A083047BA19DFA9: Very Symmetrical Table
+   [188] 0x8FD2715C7C7CF596: Deep Forest Trees End Table
+   [189] 0x0EDC953F46E8D90D: Crab Pot End Table
+   [18A] 0xCCE5A578AA4A2B81: Rippled End Table
+   [18B] 0xD8B1DE80C94002C2: Seasons End Table
+   [18C] 0xE4993C8388685017: Nature’s Flair
+   [18D] 0xBD00F1204D61498F: Naturlone End Table
+   [18E] 0x0DFEA15683A48C23: Boardwalk Picnic Table
+   [18F] 0xECB23F644E96C8DE: Icesplosion Table
+   [190] 0xBBF95A7D0971839F: Golden Glow Tanning Booth
+   [191] 0x4387B80ED0B67834: Snowy the Snow Bear
+   [192] 0xA034F43AE108CA5D: Test Bathroom Blueprint
+   [193] 0xD93EA790A3614713: {BPrint_Kitchen} {BPrintDimensions_8_10}
+   [194] 0xC9C910A66C289521: Naturlone Trash Can
+   [195] 0xF65924F40C6B8E0E: Rain Disruptor (Waterproof)
+   [196] 0xA9A1C51E128A19E5: Dr. F’s Climatron Control Unit
+   [197] 0x0A2133DA4E73ACE9: The Weather Stone
+   [198] 0xF9D9D2F4ABEB7AFF: Wildflowers
+   [199] 0x96F62F71E5E38BFD: Rising Globe Window
+   [19A] 0xF9CBEB2CD96D9141: Classic Arch Window
+   [19B] 0xFC5DDEB89033B749: World Pond Skating Area
+   [19C] 0x25C420DAAD174F28: 
+   [19D] 0x25C420DAAD174F2B: 
+   [19E] 0x25C420DAAD174F2A: 
+   [19F] 0x25C420DAAD174F25: 
+   [1A0] 0x313B6C1DB09D16DE: Seasons
+   [1A1] 0x41E0EC3072BBC454: The Sims™ 3 Seasons Install
+   [1A2] 0xEE7B3519B0812227: The Sims™ 3 Seasons Installer
+   [1A3] 0x0E96FFF1E1A638FD: Coloring Leaves…
+   [1A4] 0x70CDE5026D72D5D7: Seeding Clouds…
+   [1A5] 0x0E96FFF1E1A638FE: Setting World Thermostat…
+   [1A6] 0x0E96FFF1E1A638FF: Salting Streets…
+   [1A7] 0x0E96FFF1E1A638F8: Planting Wildflowers…
+   [1A8] 0x0E96FFF1E1A638F9: Spreading Holiday Cheer…
+   [1A9] 0x0E96FFF1E1A638FA: Hiding Eggs…
+   [1AA] 0x0E96FFF1E1A638FB: Casting Sun Rays…
+   [1AB] 0x0E96FFF1E1A638F4: Volumizing Fog…
+   [1AC] 0x0E96FFF1E1A638F5: Cutting Out Snowflakes…
+   [1AD] 0xD98C282990976232: No game disc found! Please insert The Sims™ 3 Seasons disc before proceeding.
+   [1AE] 0xEE5347D7C6329F1E: No game disc found! Please insert The Sims™ 3 Seasons disc before proceeding.
+   [1AF] 0xFD1015466D316D20: There is a new festival grounds lot that can be added to your world! It has lots of seasonal activities. It will replace {0.String}. Is that okay?
+   [1B0] 0x81162905A21579BC: Seasonal Festival Grounds have been added to your world. The festival changes with the seasons; you should visit throughout the year to experience fun new activities!
+   [1B1] 0xB06CEBF84418ADA9: In the summer time, wear light clothing or pitch a parasol to keep cool. During winter, wear outdoor clothing or head inside to warm up.
+   [1B2] 0xE1C29FDBB5EF161B: Sims can start to Trick or Treat one day before Spooky Day. Click on residential lots in your neighborhood to initiate the activity.
+   [1B3] 0xE1C29FDBB5EF161A: When placing blueprints adjacent to one another, try lining up the doors with open walls to ensure that the door has a place to go.
+   [1B4] 0xB06CEBF84418ADAA: Check back during each season’s festival to discover new rewards that you can redeem your festival tickets for!
+   [1B5] 0xB06CEBF84418ADAB: Playing in a world with an unusual climate? Check the Seasons options tab to set the weather you want to appear!
+   [1B6] 0xB06CEBF84418ADAC: Add some festive cheer to your neighborhood by turning on Holiday House Lights on your home! Just click your front door.
+   [1B7] 0xB06CEBF84418ADAD: Spending more time dancing at the Spring Festival will increase your chance of being declared the Spring Dance King or Queen.
+   [1B8] 0xB06CEBF84418ADAE: Allergies or germs got your Sim down? Head to the hospital and get a Sim healing shot in the arm.
+   [1B9] 0xB06CEBF84418ADAF: Holidays occur on the last Friday of each Season. If there is no Friday, it will happen on the last day of the season.
+   [1BA] 0xB06CEBF84418ADA0: Sims can start Trick or Treating one day before Spooky Day. Click on houses in your neighborhood to initiate the activity. Bring an adult along to bypass curfew restrictions. 
+   [1BB] 0xB06CEBF84418ADA1: Click on your household Sims and choose “Switch to Costume” before heading out to Trick or Treat.
+   [1BC] 0xC678A8A7E00A9BC8: Seasons
+   [1BD] 0x2010FC7B2C4EB6B5: The Sun Porch Memory
+   [1BE] 0x412C4354E1A3C2E5: Rainy Day Shopping Bliss
+   [1BF] 0xE1EAA55AF3F75C8E: Spring in My Heat
+   [1C0] 0x789BEAE8B26FF047: Drifting into Autumn Leaves
+   [1C1] 0x789BEAE8B26FF044: Solstice of the Ancients
+   [1C2] 0xA2040C86B35CB57A: Music
+   [1C3] 0x96FBBBDA2CE6DFD1: The Sims™ 3 Seasons
+---

@@ -1,0 +1,693 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x2B0) ---
+   [000] 0xFBD941AF6F695E4E: Grim Gothic Tile
+   [001] 0x31E38484F6CA0962: Eco Friendly Terra Tile
+   [002] 0x485C1A17F747BD0D: Dainty Damask
+   [003] 0xE41C5BA6E5BCD784: Mortimer Gothic Paneling
+   [004] 0x5BC1C92ABBDE1E7E: Bella Gothic Paneling
+   [005] 0x0375458A63D82848: Fairytale Castle
+   [006] 0x0375458A63D8284B: Enchanted Castle
+   [007] 0x0375458A63D8284A: Enchanted Castle with Unicorn
+   [008] 0x82BAC66B0FE07E54: Space: The First Frontier
+   [009] 0x82BAC66B0FE07E57: Space: The Second Frontier
+   [00A] 0x82BAC66B0FE07E56: Space: The Third Frontier
+   [00B] 0x2A7324E72AF5DB7D: Wonderful Waves Pool Tile
+   [00C] 0x422B339784C1E5E8: Simply Seashells Pool Tile
+   [00D] 0xBB0D813011513BB8: The Sims™ 3 Generations
+   [00E] 0x35777198F9A3071C: A hay stuffed mattress provides an honest night's sleep–pay no mind to the detractors with their cries of bed bugs; what was considered a luxurious commodity for thousands of years will certainly serve you well. At the crack of dawn, perch high atop the battlements and you'll be prepared for anything the day may throw at you. 
+   [00F] 0xF4BD2EFEE8E258ED: A hay stuffed mattress provides an honest night's sleep—pay no mind to the detractors with their cries of beg bugs; what was considered a luxurious commodity for thousands of years will certainly serve you well. At the crack of dawn, perch high atop the battlements and you'll be prepared for anything the day may throw at you.
+   [010] 0xB9F971490963E782: With the recent closure of a nearby maximum security prison, a number of these sturdy metallic bunk beds have been made available through a government auction. The mattresses are even guaranteed to be refurbished to restore their original comfort and durability. At rock bottom prices these beds are going fast–so act now!
+   [011] 0xA7E10A48FEEBE2AC: After reprimanding the inmates responsible for modifying their furniture, a number of these sturdy metallic loft beds have been made available through a government auction. At rock bottom prices these beds are going fast–so act now!
+   [012] 0xCBB091720B905296: No child shall be left wanting for a finer bed to lay upon after experiencing a night's rest on The Sinuous Sleeper. The lavish frame is one of a kind and crafted to exacting specifications. No child would dream of demanding their own bedroom if it meant leaving the comforting embrace of this elegant bed. Make an investment for peace of mind and for the future with your purchase today.
+   [013] 0xC2B21F6469E8492F: No child shall be left wanting for a finer bed to lay upon after experiencing a night's rest on The Sinuous Sleeper. The lavish frame is one of a kind and crafted to exacting specifications. As an added bonus, dream away your worries—loft beds are a proven solution to the struggles of acrophobia! Make an investment for peace of mind and for the future with your purchase today.
+   [014] 0x54C944E96ADF843B: If the kids have to share a room, at least they'll do it in style. They’ll feel like a true dandy as they lay down nestled between a hand-carved wooden frame. Made from solid oak, the Great Haven will stand the test of time and the abuse of adolescence.
+   [015] 0x1EC6DF3B7CB9DBDE: You'll feel like a true dandy as you lay down nestled between a hand-carved wooden frame in this stylish loft bed. Made from solid oak, the Great Haven will stand the test of time and the abuse of adolescence.
+   [016] 0x841A74E009765AE1: If a good night's sleep is what you long for, then the Forty Winks from Sim-Sleep is just the bed for you! Soft, downy pillows, cotton sheets, and a comfy—not at all springy—mattress make this bed the absolute best Sim-Sleep has ever crafted. The sturdy wood frame is guaranteed to last throughout the generations of your family.
+   [017] 0x076D59588063F744: This futuristic sleeping spot uses patented electro-magnetic current flow to achieve constant flotation.
+   [018] 0x0987FE54F0F3F4E0: Tuck in beneath the castle turrets and fill your dreams with daring sword fights, far-off kingdoms, dragons and unicorns galore. Bedtime has never been so fun! For all your nocturnal needs, turn to the Sovereign Sleeper—the bed of fairytale knights and princesses everywhere.
+   [019] 0x4F3513D53B97B5EA: Sail the seven seas while slumbering in the I'm Sleeping in a Boat Bed. Place this aquatically designed bed in your smallest pirate matey's room and fuel their nighttime dreams of capturing booty and plundering treasure.
+   [01A] 0xEB0B19D593D5E4D4: A state of inactivity; a peaceful respite. An uninterrupted slumber characterized by warmth and longevity. Bears do it. Bats do it. Teenagers do it. For sensational slumber, think Hibernation Station.
+   [01B] 0xF7F0C6081CFE12C4: Accented with precious details sure to inspire your child's imagination, this bookshelf will be a treasured gift for years to come. It's more than a piece of furniture, it's a home for future memories.
+   [01C] 0x8E2F1E60D8D1C07F: From the finest of French estates to the loveliest of Sunset Valley living rooms, this fun bookshelf will delight Sims young and old. Be inspired by the fairy tale design and let your imagination roam free in the pages of the books kept on the cozy shelves. Reading is a journey of the imagination!
+   [01D] 0xDE87B5C107CDCAE3: The youthful and simple design of this bookcase makes it perfect for any child’s room. When bedtime rolls around, you'll reach right for a fairy tale from this shelf. It will be sure to lull the little ones right to sleep after they've spent the day running around, screaming their little lungs out.
+   [01E] 0x07FC2ED6C2D00647: Books, books, and more books! The Sophomore Bookshelf excels at storing books! School books, story books, romance books, science books—this bookshelf does not discriminate! Bring them all, bring every one!
+   [01F] 0x7F545BC79AA4205E: The X, Z-Cam 360 is the successor to the camcorder that shook the foundation of the home-video world. Focus tests indicated that customers appreciated the simplicity of the camera’s name, which reflects the ability to record along the X and Z-axis. However, many felt that appending the number two would indicate an inferior product compared to the more expensive VideoStop Triple. While closer inspection of the video output quality may prove this suspicion true, the 360 moniker circumvents this negative perception amongst the public.
+   [020] 0x01BFD68B2E9FF4A8: Sonyo, the industry leader in innovative electronics, introduces the VideoStop Triple, the third in a line of fine video recording devices designed for home use. This stunning new technology delivers unprecedented audio and visual clarity directly from the camera to your TV. You may need to work extra hours to afford it, but it'll all be worth it as you bask in the luxury of a multimedia extravaganza synthesized from your own home videos.
+   [021] 0x64852BFED19393C5: Designed for those that like to show off a little bling on their daily walks, the Emperor Cane is the preferred walking piece of stylish Sims. Twirl this baby around and you'll get others lookin' at what you got.
+   [022] 0x3C3BA4AACE889CC1: You can't go wrong when you walk around clutching the Llama Cane. This special edition cane walking piece was created to be owned by only a select few. It's an honor for any Sim to carry such a magnificant piece, handcrafted from the finest sustainable materials.
+   [023] 0xFCD0C83C3629391D: For the Sim who needs a little extra pampering, the Motive Magenta 3000 is pure luxury! Lounge in the back of the vehicle and relax as your every need is met. Arrive at your destination relaxed and refreshed!
+   [024] 0x63D0309E2AFB0622: You may not be as young and attractive as you used to be, but when you climb in the door of the Vistoso Speed Machine, you'll become the hottest thing on four wheels. Enjoy the lean, mean driving pleasure with the rear displaced V14 engine and the highly functional spoiler.
+   [025] 0xBD0873187D93B370: You don't have to be a secret agent to enjoy the undercover stylings of the Ernatto Berrati M81 Covert Edition. Enjoy the breeze whipping through your hair in the breeze as you engage the optional rocket engine and leave the rest of the pack in the dust!
+   [026] 0x7FF7DE6E3EFA8825: This van has plenty of room for conveying tots around town.
+   [027] 0x427D986195E4E577: This is a reward certificate to hang on the wall.
+   [028] 0x419D7D2A59878173: Inspired by, or simply dragged kicking and screaming out of the Disco Era, this molded plastic chair makes a statement. It says, "Stick me in a back room and hope guests don't notice me."
+   [029] 0x9C4AB286377FEC09: Perfect for the living room, bedroom, recreation room, or, well, any room, Joe's Bean Bag Chair is not only affordable, it's comfortable too! Filled with the best synthetic beans science can create, this revolutionary design allows for the seat of the chair to conform to the shape of the Sim's backside. This creates a comfort experience unlike no other. Guests will marvel at it, children will delight in it, and kleptos are bound to take it home, so make sure you purchase several so that there are enough for everyone.
+   [02A] 0x9627AE7041EE9890: Envelop those tired bones in the warm caress of cotton and cradle your back with full lumbar support when you take a load off in the Quiet Time Cottage Chair. You'll be lulled into a deep sleep before you even realize it. There's no need to choose value over comfort when you can have both with a chair crafted especially for you.
+   [02B] 0x11F4B38796FFDA64: Dottie loved doilies and this chair was her favorite! Do you love doilies? Then this chair is for you, too! Doilies–they're not just for elders anymore!
+   [02C] 0x64C02EE0C04E2831: Take a seat in the Cup O' Chair and let it cradle your body like a bowl of soup. You'll become as limp as noodles as you relax in this inviting chair. Instead of nursing a bowl of soup when you are sick, now you can let the bowl nurse you!
+   [02D] 0x10BC782CBA27D241: Ticking the days away was never more fun than with this whimsical kettle clock. With easy-to-read jumbo numbers and a simulated kettle whistle that screams every hour, you'll always know what time it is!
+   [02E] 0x9B399D9A4980BFFE: Once deemed fit for only the highest of royalty, this regal banner has been revised for a pauper's budget. Bring a touch of medieval embellishment into your home (or castle) today.
+   [02F] 0xEC83B660F0E7C4B2: There's plenty of life left in these visually arresting curtains! You take these home, add a French pleat here, wrap a swath of cloth there, and suddenly you've got a beautiful set of curtains going.
+   [030] 0x848603FC240751AD: The pinched drape was one of the first types of stylized drape to be developed in the uncivilized world. It is still found in use today because the civilized world likes it too. This variation on the classic form was created by master drapes-woman Pearl Piccolo at her exclusive Sunset Valley studio.
+   [031] 0x6A6A1B30E9280550: In comparison to bulky CD towers of the past, the Data Disc Storage Tower's name is a bit of a misnomer, as its relatively small size will fit in any home theater setup. Don't be fooled by its size though, as this marvel of modern technology holds limitless discs in a modicum of space. It is the ultimate storage solution for any video camera owner; purchase yours today!
+   [032] 0xFC22380F0B490E18: A desk now exists to which rogue teens can be chained to complete waves of homework that drown the spirit and choke rebellion. The Surface of Oppression leaves no question as to its purpose (work!) and gives parents yet another reason to point and say "do as I say, not as I do!"
+   [033] 0x05F7A01DB1312105: Enhance any room in your home with this solid, beautifully built desk. It's equipped with an abundance of desk space to do work or even take a nap. Whoever said studying by osmosis didn’t work?
+   [034] 0x54EC1569FE7B8DF6: Mom's telling you to pick up your dirty clothes and dad wants you to finish your homework. To heck with that! The Lil' Rebel Clothing Chucker dispenses the provocative threads you need to make a statement, and that statement is "I don't have to listen to you!"
+   [035] 0x1947DE0ABD4E7038: Brighten up your bedroom décor with the Hurtado Embelli Dresser. It will keep your clothes safe and protected from the elements and moths. Your favorite outfits will be well-preserved when it's time to dress to the nines!
+   [036] 0x66A1B6CE454716A0: The Walksmith Cane is the most basic and affordable walking stick available on the market. Take this trusty friend along on your walk and it will support your aging leg bones. It also comes in handy for giving those rambunctious youngsters the dressing down they deserve!
+   [037] 0x528988F872366EFF: This is a Flaming Bag prank.
+   [038] 0x7FAE5D20BC18EE87: Lovely Pink Flowers
+   [039] 0x4996E158C4339CCD: Lovely Purple Flowers
+   [03A] 0x507689B1CDD845DC: Lovely Red Flowers
+   [03B] 0xD5379F878ADE2AEA: Lovely White Flowers
+   [03C] 0x907921505B249E0B: Lovely Yellow Flowers
+   [03D] 0xE799FBA999428BB7: Tired of spending tediously long hours on prep time on every meal? The Repeti-Chopper can fix all of that. Save up your Simoleons, buy this slick and versatile processor, and eat your meals in a jiffy!
+   [03E] 0xED3B2EB0B858DA65: Celebrate your wedding ceremony by serving up this triple tiered wedding cake. The gorgeous design make it the perfect centerpiece for any wedding party. Top off your classy wedding by dining on this decadent dessert.
+   [03F] 0xCB2B9C0CDC0B922E: Stuck with that old piston-driven beverage machine? Then it’s time to upgrade! This machine is sleeker, lighter and makes the best beverages in town. The patented Air-o-matic technology will change the way you drink hot beverages forever!
+   [040] 0x01F2DFFAF46E5E64: This high playground hangout gives tiny explorers a platform for engaging in their imaginary adventures. Ascend the tower and take your rightful place as the king or queen of the playground!
+   [041] 0xFC23C86C9FF90E70: Slide your bum down the Unlimited FunTimes HeatSafe Slide all afternoon without fear of burning your exposed skin on a hot surface! The heat repellent plastic construction will ensure that your shorts-clad legs remain safe and cool as you slide. Enjoy this slide as part of the ultra-configurable Unlimited FunTimes series of playground equipment. 
+   [042] 0xAA9501CCE3C1F673: Lamp designer J. T. was inspired to create this unique light by the memory of the pumpkin fields that surrounded her childhood home. Her most recent light collection includes this visually abstract version of everyone's favorite gourd, now available in non-pumpkin colors! Hang one of these in every color of the rainbow to create a multi-colored pumpkin patch on your ceiling.
+   [043] 0xDE14BDD24CBDBBCD: A dual natured novelty item featuring both illumination and decoration, the Glowing Globule Emitter is filled with a wax-like substance that bubbles and blobs from the bottom to the top and back to the bottom in a fashion that will keep you mesmerized for hours.
+   [044] 0x4D53D0376AE90F0B: Hear ye, hear ye! His Majesty the King declares this to be the most splendid castle tower lamp that thine eyes shall lay upon. As a feast for the most fanciful of imaginations, it is truly worthy of imperial approval. Have no doubts that it is as authentic as the royal accent that you’re imagining this recited in.
+   [045] 0x84974D9A37387B81: Warm feelings of the past wash over you as you gaze into this lovingly handcrafted lamp. The glowing colored patterns seem to shift before your eyes as you lose yourself in deep thought. With a start, you shake yourself from your stupor, and then smile with the content realization that you now own an item of unparalleled beauty.
+   [046] 0xF19A20BA49CE714F: Plant the Retro Rocket Lamp in your home and light up any surface with the imitation cold fusion engine. Modeled after the ship from the classic Plumbob Pictures science fiction film "Rocketship from Atlantis," this lamp will blast away your desk and add a touch of retro fun to study time.
+   [047] 0x0BA7EA7C3A956343: Many a teen has phoned their high school crush aside the soft glow of the Late Night Love Lamp. Its welcoming beams encourage even the most nervous of romantically minded teens and lights the way for deft fingers to dial digits in hopes of a classic "no you hang up first" stand-off. 
+   [048] 0x6F6A6277FA8D91C7: Smaller in height and circumference than the traditional model, the Mini Glowing Globule Emitter is no less mesmerizing with its delicate waxy globules and brightly shining lighted base.
+   [049] 0xB0770C409374ED99: With its auto-extend arm, the Read Anywhere Light lets you read from any angle that you choose. From sitting to standing to hanging upside down, you'll enjoy reduced eye strain when your reading is illuminated by 200 watts of natural spectrum lighting. Note: Lamp arm automatically extends when you pull on it.
+   [04A] 0xD32EB293FB7BB21A: Ho young traveler! It's dangerous to travel forth into a dimly lit abode. The benevolent King Launergan wishes to bestow his royal sconce unto you, to light your path and fortify your walls. Rest in comfort knowing what evils may lurk beyond these walls will most assuredly be kept at bay.
+   [04B] 0xFC119E97B5191B4F: Thrash your way to comfort on this gnarly bench from Dudez Boardz. The same company you trust your life with on the slopes now asks you to trust them with your lumbar support. 
+   [04C] 0x01E735EB386EEA01: Glancing hesitantly at the loveseat, you wonder if it's proper to sit on or if instead it's a relic of times past—an object to be appreciated but not used. Perhaps it's the lack of a plastic cover that has you on edge, or the snowflake white doilies perched delicately on the cushions, precariously positioned with nary a smudge of dirt; they dare you to be seated while mocking your discomfort.
+   [04D] 0xDEDD9A2A470B41DE: This is an Elder Magic Gnome. You sometimes feel like he is watching you...
+   [04E] 0xB19FD7192FF3D5EC: This is a memorial to a dearly departed gnome.
+   [04F] 0x126EF7D30ACCBEDA: This is a Teen Magic Gnome. You sometimes feel like he is watching you...
+   [050] 0xF07F4E45BA917F42: This is a Toddler Magic Gnome. You sometimes feel like he is watching you...
+   [051] 0x7EAC63489B29852D: A mere footnote in kitchen history, the Sonarange line of ovens were meant to rival microwave technology through the means of propelling sound waves rapidly through food—hence the tagline, "Cooking at the speed of sound!" Noise complaints from neighbors led to a short lived presence in the market, and the company was forced to build microwaves to avoid bankruptcy.
+   [052] 0x59702F76507EE3BA: This is a souvenir from visiting a Theatre on a Field Trip.
+   [053] 0xB7C855D76C56B183: The Memories Mirror is more than just a mirror, it doubles as a scrapbook of those special mementos from your life. Tuck pictures of your friends from the photo booth, the ticket stub from the Screaming Llamas concert, and that important party invitation into the edges of the mirror. When you look at your reflection, you'll not only reflect upon your image, you'll also reflect upon the significant moments of your life.
+   [054] 0x6BC1547F4854EC7A: This clever piece features an adorable bunny caught in a sudden rain storm. The brilliant red umbrella draws the viewer's attention to the bunny's plight. Though smiling, one must theorize that he is cold and wet and possibly lonely. It makes one ponder the questions who is this bunny? Where is he? Why is he alone? What does a wet bunny smell like?
+   [055] 0x21D3488FF96A1032: Don't be ashamed to display this family photo prominently in your home! Sure, guests may speak in hushed whispers, nervously shifting their eyes, attempting to contain a sarcastic snicker, but no one will overtly question your family's proud pose, lest their own awkward relatives be exposed. No, you will lead the way by boldly showing your family as they truly are, throwing caution to the wind in a sign of true love!
+   [056] 0x18E91839ADB20E28: Adorn the walls of your teenager's small bedroom prison with inspiring sights of the outside world. Gentle waves and sunsets will encourage them to complete their homework and endure their grounding with grace so they can once again join the world outside!
+   [057] 0x7244A8CD475DCB0B: A staple of teen bedroom decor, the Incomparable Idol Poster lets your youngster inexpensively display their latest object of idolatry in their own private hideaway. Constructed from biodegradable lettuce-based material, so no harm will come to the environment once your teen moves on to the next idol and throws the poster away!
+   [058] 0x105F5BE6C554C66F: From the Grandpappy's Greatest Images collection comes the historic Planes of the Past series of photography. History buffs will love to hang these pictures of vintage planes on their wall. This collection includes the likeness of the famous "Lofty Llama," which is legendary for making the first transcontinental llama transportation flight.
+   [059] 0x27B827626256E899: Hang this romantic painting and fuel your mythical dreams of prancing with magical creatures in a distant fantasy land. Like a sprinkle of fairy dust on your wall, your wildest visions will come to life right before your eyes!
+   [05A] 0xBF6398A112001564: Eight-armed wonder of wide salty seas, Pirate Queen Olivia Octopi roams with her crew fighting injustice beneath the waves and keeping perhaps a bit of the plunder for herself and her pals. Though never violent, Olivia is a fearsome foe who can unleash an ink cloud at a moment's notice, confusing her enemies and abetting her getaway. Always at her side are her loyal crew members Cassie the seahorse and Elmo the striped fish.
+   [05B] 0xD351D6ECF2651ABB: This is an award for Art Club President.
+   [05C] 0x1E7C07FC5AE5DB6B: This is an award for Leads in the Drama Club.
+   [05D] 0x795BBD0CD92F839F: This is a souvenir from attendind a Field Trip to a Graveyard.
+   [05E] 0x8263520104D3AF54: Fuel the overactive imaginations of your little prince or princess by hanging this kiddiefied representation of the middle ages on their wall. They'll spend hours dreaming dashing adventures in medieval times, fighting dragons and tilting at windmills. Cute, but not scary, this is safe, non-nightmare inducing decor for your little ones!
+   [05F] 0x79AB099C32A63DDF: Embrace your inner girly-girl by adorning your bedroom wall, school locker, or study room with this ridiculously adorable framed picture. Hang it by its cute bow and rest assured that its incredible femininity will act as a protective shield from the sticky fingers of your nosy little brother.
+   [060] 0x415819A37F230218: The is the Age Freeze Potion.
+   [061] 0xF98DB0F3B011E8D2: This is the Bladder Flow Potion.
+   [062] 0xB8F1DCB2F9827831: This is the Mysterious Potion.
+   [063] 0xC5DDF6B9DA375921: This is the Ghost Potion.
+   [064] 0x4B1E1EF8D881B077: The bond between two friends sometimes causes Sims to go to extreme measure to make them last longer. Give this potion to your Imaginary Friend and turn your dream into reality!
+   [065] 0x6E8B9C52791A0440: This is the Liquid Horror Potion.
+   [066] 0xABD4AC9AD4015529: This is the Mood Enhancer Potion.
+   [067] 0x7B9945B677E6BB9D: This is the Ninja Vanish Potion.
+   [068] 0x493B19A7BCBF9974: This is the Radical Reparum Potion.
+   [069] 0xFA2B86F3A2DC0902: This is the Sleeping Elixir Potion.
+   [06A] 0x6B029FEDDFBC5BA1: This is the Stink Juice Potion.
+   [06B] 0x01EEF10A123D3438: This is the Young Again Potion.
+   [06C] 0xC4256F576BA950B9: Those who live in glass houses should get a glass refrigerator to match. Keep your food and beverages frosty cold with this frosted-glass front fridge!
+   [06D] 0xCC25902B553CB998: Unfurl the Flower Power Rug in any room to add a lively splash of color to the decor. You'll be delighted when you brighten and infuse the space with the energy of flowers.
+   [06E] 0x34B8542AA01D68AD: The Heart of Rugness presents a plush landscape of fibers to bushwhack through with your feet like jungle undergrowth. Your toes will explore mysteries and wonders like a journey into the deepest unexplored jungle. Who knows what lint and dried morsels of food will be discovered with your toes?
+   [06F] 0xA9306BA0DB94771B: A classic counting game that has been popular with generations of Sims, Hopscotch is best played alone or in groups of two, three, or four! Just toss the marker, skip the spot that it lands on, and hop your way from start to finish. Those who complete the circuit perfectly earn victory! Those who stumble find only shame.
+   [070] 0x2E139A1EB9917F24: A space age variation on the classic hopscotch court, this fun field of asteroids nurtures the astronomical imagination! Show off your superior hopscotch skills by hopping from asteroid to asteroid. Just be careful not to stumble…in space you may just float away.
+   [071] 0x12EADE13B587304E: Kids!! Tell your parents today! Your favorite four-legged Terrapin from TV can now come home to your very own back yard! And with sand to boot! Don't build another sand castle until Turtee is by your side!
+   [072] 0x12E4D213B582B05E: The Box of Beach from Landgraab Industries is a technologically advanced product that has been designed to simulate all of the best parts of the beach for your little ones. Except for the ocean and the sharks of course. That would be bad.
+   [073] 0xB8419E076CDF4B83: This Scanner is no longer in working condition, but you and your kids can stare at it as long as you want! Decorate your place with this fantastic decorative piece. Oh and don't worry! The aliens won't come looking.
+   [074] 0x5249FD4BF773E4D6: This is an award for lead ballet dancers.
+   [075] 0xC9BD2FBCF62EA8BF: Own your own tethered air contraption! Retired from professional kite flying, these well-constructed designs are now available for home decoration.
+   [076] 0x3D656499F88DCAA3: Your ceiling will take flight when you hang the Planes Away! model. Just looking at it will recall fond memories of spending time with grandpa lovingly assembling it from a kit. You'll evoke every sensation of those bonding experiences: pappy's loving smile, the rough surface of the unfinished wood, and the headache-inducing smell of model glue and paint.
+   [077] 0x0095F7C82EBE380A: An award received from being voted Prom King.
+   [078] 0x9E0F6CD4212F65BB: An award received from being voted Prom Queen.
+   [079] 0x7332D91EF4A6DE9A: Fuel your children's fondest memories with charmingly old-fashioned chiffarobe. Choose between a variety of delightful hand-painted styles to create the perfect ambience for your littlest darling.
+   [07A] 0xED50128799DD0D0D: When your study materials look this messy, everyone will know you've just been too busy hitting the books to have time to actually organize them. Use care when you dig through the stack to find your homework—you never know what you will pull out: a dirty sock, old slices of pizza, or perhaps even a lost gnome!
+   [07B] 0xC0FAC3BDD3CCAD10: Bored with plying through those endless Chemistry formulas and Algebra equations? Curb the monotony by challenging yourself to see how high you can pile your study books in the Tower of Book-el. This mythically impressive stack leaves the book titles in full view, leaving others in awe when they see your reading list.
+   [07C] 0xA7CD7542F8741E9C: Place the Pillows of Poshness +1 in any room to give it a pretty, plush addition. With +1 softness and extra squeezability, lying on these pillows is like a fluffy cloud dream of puppies, kittens, and cupcakes.
+   [07D] 0x61A9170DDB21CE32: Keep your carpet clean and your shoe collection organized with the Veronica Shoe Rack. Buy one or buy ten, they're guaranteed to house your entire shoe collection and fit every piece of footwear you can think of, from skinny heels to platform wedges, from open back flats to lace-up rain boots!
+   [07E] 0x48650394F059E479: Does your washroom lack cabinet space? Fix the issue in a jiffy with the Ultimate Powder Room Organizer. Not only does it hold the necessary essentials for a cozy and well-equipped bathroom, but it also has plenty of room for tchotchkes!
+   [07F] 0x4BD7DD1C57E1B544: When viewing this piece, one can imagine the thrill of a spacecraft lifting off! The countdown, the roar of the engines, the excitement of the crew... Are they going to the moon? Or perhaps to a far off planet? Or maybe they are going to land in your own backyard? The sky is the limit when imagination combines with the complexities of this gorgeous decorative piece.
+   [080] 0x6F037DACB7B5F1CF: Snuggle out your preteen angst towards your family and peers on the leather and lace Gothic Girl Doll. Adults may find her creepy, but you'll love her because you know that she is the only one who truly understands your inner pain!
+   [081] 0xDA5496E8A1A1E89A: Say goodbye to your florist and hello to happy days with this decorative vase that is sure to brighten your home. Comes with a living arrangement, treated with the patented "Eternal Green" self-contained nutrient system, designed to survive for decades without a drop of water. 
+   [082] 0x6EB61C1FEE9411C9: This little buddy is waiting to be brought home so he can be your constant companion and new best friend. Give him a squeeze and scare away all the bullies with his menacing roar. The Little Rawr is the sweetest scaly friend a child could ask for!
+   [083] 0xC8F9DAFF709C9F60: This robotic blast from the past comes to you straight from the Whiz-Bang Toy Corporation. Famous for gracing the back page of such classic comic books as "Super Freezerbunny" and "Larry Llama's Adventures," this retro toy represents the golden age of mechanical progress. Now your offspring can enjoy this classic reproduction constructed out of child-safe plastic instead of the original sharp-edged tin!
+   [084] 0xDD14B5A901B8A17F: This decorative pair of shoes is named after classic children's story about the little boy Benny who lost his shoes. He asked everyone to help him find them: the caterpillar, the old witch, and the mangy old cat in the ruined mansion. No one can remember the moral of the story, but it likely has something to do with keeping track of things that are important to you!
+   [085] 0xB4AEC5E8C9C87810: This is a souvenir for visiting a Bistro on a Field Trip.
+   [086] 0x759426AE973C6548: This is an award for the Debate Club President.
+   [087] 0x4E0D5A470D219206: This is a souvenir from a Field Trip to the Science Facility.
+   [088] 0x9B47D41CF9692E4F: This is an award for Art Club members.
+   [089] 0x3385B441FE6EEB71: This is an award for accomplished ballet dancers.
+   [08A] 0xEF41FAF6297CDE1A: This is an award for Debate Club members.
+   [08B] 0xFBF1E0AB851734CE: This is an award for Drama Club members.
+   [08C] 0x9B69B563763BF5B6: This is an award for members of the Music Club.
+   [08D] 0x0F005AE6DB67A882: This is an award for Newspaper Club members.
+   [08E] 0x198E6B2E2DB1A9C5: This is an award for accomplished Scouts.
+   [08F] 0xA39AB6A86B4500C1: This is an award for Shop Club members.
+   [090] 0x941C3DD826FF51B8: This is an award for talented Scouts.
+   [091] 0x86D4A09AB8453CAE: This is a souvenir for visiting a Police Station on Field Trip.
+   [092] 0x9D54E196C7270CB4: This is an award for a Music Club President.
+   [093] 0xE743AC39A7606699: This is an award for the Shop Club President.
+   [094] 0x06915AADCBBB4B32: This is an award for the Sports Club President.
+   [095] 0x1E1CD505E14C7334: This table-sized rocket prop is an authentic replica from the sci-fi film "Journey into the Spleen." Just as the rocket was shrunken down to enter the body of Dr. Forrest's ill wife, this rocket is shrunken to fit on top of your household furniture. According to the manufacturer, you can fill it with real rocket fuel if you can locate it, but we wouldn't suggest it!
+   [096] 0x61429656820BB7AA: This miniature model of the famous schooner the Patchwork Dandy will add a classy, sophisticated touch to your den or study. Coordinates well with wood-paneled walls, a stale smoky aroma and a layer of dust!
+   [097] 0xAD7640926FE501FC: Baby's little feet will one day be big and probably stinky, but these booties will never age! Sealed in the finest bronze that Simoleons can buy and mounted firmly on a delightful plaque, these booties are sure to be a treasured family heirloom as the decades pass.
+   [098] 0xF8EDFDADD6ED3BE9: Armchair paleontologists will love decorating their abode with a preserved piece of the past. This fabulous fossil keepsake will punctuate the décor in all your living spaces. Lean in close and you can almost hear the dino's jungle-shaking stomp and roar. 
+   [099] 0x3E1FB49155AF8DF6: This season's hottest vinyl collectible is none other than Bridgeport's dancing sensation DJ Sammi! Carefree and cute, this limited edition vinyl figure is made from really hard plastic and painted with really bright paint! Get yours today, because they're very limited with only 100,000 in circulation!
+   [09A] 0x390699A1859EEF71: For tiny aspiring captains, there is no better nautical toy than this jaunty model ship. Sturdy enough for the kids' room, yet detailed enough to satisfy even the most observant of adult collectors! Your little pirates will love adding a little seaside fun to their playtime.
+   [09B] 0x36ECE5AD2E9B1F57: Mad scientists bent on world destruction have long created deadly animal hybrids to terrorize the unwitting populace. Who could forget the cruel attacks of the fearsome Gorlion, the terrifying Rhinoger, and the massive Elephadillo? As these attacks were inevitably thwarted by a crack special ops team, evil gene researcher Dr. Monroe turned to a different tactic: destroy the world with cuteness. Thus, the OctoCat was born!
+   [09C] 0x661AA9F37F398236: You'll feel good with every penny saved when you deposit your coins into this deliriously happy panda bank. Resist the urge to hug it as it is made of fragile porcelain!
+   [09D] 0x72EB18EB7A44ADEC: This snuggly stuffed friend is ready and willing to accompany the little ones on their daily journey. With one horn and a warm heart, Eunice the Unicorn makes for a non-judgmental child companion. Give her a hug and bring her into your life!
+   [09E] 0xAA68D6EF6FED7FE3: For those who lack the patience or skill to grow plants, bamboo is an easy-to-care-for way to add a touch of greenery to your home. Give some bamboo to your brown-thumbed friends and they'll appreciate this low-effort companion!
+   [09F] 0xDB75E2F61C1BF370: Too long have zombies decimated the Sim population in their desire for brains! Now is the time to fight back by shoving your pencils in a zombie's head cavity. Show those zombies that you refuse to be their brain banks anymore!
+   [0A0] 0xBE34E1C4E681DB04: This persicope will take you to places no Sim has ever been! You'll be so baffled that all you can do is stare at it in disbelief. Don't be fooled by all the gimmicky products out there. Disclaimer: This periscope is just a pretty object to look at.
+   [0A1] 0x83113A24FE982FA4: This spyglass is a simple decorative item for the oceanic lovers. Visitors will be in awe of its beautifully crafted shape and appeal. Refine your rooms with a touch of nautical history.
+   [0A2] 0xC6E4341CD45165A2: No noble of self-respecting stature sleeps beneath the free and open sky. Assuming there’s already a roof over the bed, a second level of cover comes in the flavor of a draped canopy. Be gone sword of Damocles, for there is no room for your pointy oppression amidst the drapes!
+   [0A3] 0x7966101D87D6BA71: Wall decals are all the rage in stylish homes everywhere! Not just for children's rooms, wall decals look great in the living room, bathroom, entry hall, and even in the backyard! Easy to apply and even easier to remove, this festive decal is a must for anyone who loves trees or birds or wall decals.
+   [0A4] 0x36432BB414047310: This is a diploma for Sims who have graduated from High School.
+   [0A5] 0x8AAE2FB5719332E5: This is an award for the Newspaper Club Editor.
+   [0A6] 0x650CC3EB0EFCB603: Tack these animals on the wall and spin your children around. Animals never moved so fast! Their rooms will look as festive as a safari.
+   [0A7] 0x4C6054635C490783: Immortalize baby's tiny fingers and precious toes forever with paint and ceramics. You'll be embarrassing your kids with this memento well into their adult years. Just be careful not to drop it!
+   [0A8] 0x622E63F77B5F3A95: Decorate your next special event with this festive banner! The party won't get started unless there is an appropriate banner reminding the guests of what event they are celebrating!
+   [0A9] 0xC648B00D30C6982C: This must-have bedroom accessory deserves a spot in any adolescent hideout. The Bulleteen Board gives teens a place to post all those most important souvenirs: birthday cards, magazine clippings, and photos of beauhunks. This completely personalizable display can be changed as often as a teenager's crush!
+   [0AA] 0x4360EC36DCDCA569: Don't let your walls be a Plain Jane! Fasten the All Aflutter Flies on your walls and watch them jump to life with the spirit of flight.
+   [0AB] 0x0CF7283598444183: Lightly adorn your walls with the Soft Touch Wall Canopy to subdue them and add warmth to any room. Let them gently cascade down your walls, and enjoy the touchably soft and smooth fabric!
+   [0AC] 0xD738E22C8A6EF876: The Bent Color Spectrum is one of the most spectacular natural light shows known to Sims. Some call it a 'rainbow' but we think 'bent color spectrum' is a more accurate description. Enjoy this three dimensional wall hanging representing this fascinating facet of nature.
+   [0AD] 0x6F288E7D29B62B75: It's crashing through your walls from the Cretaceous! This predator of the past is permanently posed in the attack position and lends the perfect decorative touch to your child's bedroom or rec room. Lead your guests by and paralyze them in fear with its fierce pose!
+   [0AE] 0xC91388F38A82C7F5: Growth charts help plot the growth of your baby, toddler, or older child. Watch as your little one inches ever closer to the trees lofty top. Remember, a healthy child should grow up, not down, and try to keep the side growth to a minimum.
+   [0AF] 0x82996BE6355478A1: This is an award given to High School Valedictorians.
+   [0B0] 0xBB11A23287F3FF0B: These lovely shelves can hold all of child's precious things, from a favorite storytime book and stuffed animals to their collection of shoe string aglets. It's also the perfect place to put that ugly statue of two child-like angels holding hands given to you by Great Aunt Hilde and let it collect dust!
+   [0B1] 0x54B37510A9F311C3: Pair up with your best buds and enjoy the balance and freedom provided to you by the See-Me See-You Seesaw. Featuring commercial grade solid wood design, this durable yet charming playground ride provides the perfect outlet for Sims who seek excitement in their social engagements.
+   [0B2] 0xE13C2E043621FAA3: The ultra-stylish Groovy Shower turns an ordinary bathroom into a hotbed of hip modern design. The stepped sides add an elegant touch and also provide plenty of room to line up all your toiletries, including your shampoo, conditioner, deep conditioner, ultra deep conditioner, clarifier, body wash, and body scrub. Not only do the grooved sides make a visual statement, they also make cleaning time extra fun when you get to scrub each and every groove clean with a toothbrush. 
+   [0B3] 0xACB3BAFC5AF23864: A sleeping bag functions as a bed in situations where a bed is unavailable—or undesirable! It's warm and soft and silky too. The zipper is made of high quality Simunium and is guaranteed never to catch or fail. Whether it is used for an indoors slumber party or placed outside for a night under the stars, the sleeping bag is the number two choice of Sims the world over. The number one choice? A feather bed, of course!
+   [0B4] 0xBC4D805011A72E04: A sleeping bag functions as a bed in situations where a bed is unavailable—or undesirable! It's warm and soft and silky too. The zipper is made of high quality Simunium and is guaranteed never to catch or fail. Whether it is used for an indoors slumber party or placed outside for a night under the stars, the sleeping bag is the number two choice of Sims the world over. The number one choice? A feather bed, of course!
+   [0B5] 0xA72BCC5096F6A415: A sleeping bag functions as a bed in situations where a bed is unavailable—or undesirable! It's warm and soft and silky too. The zipper is made of high quality Simunium and is guaranteed never to catch or fail. Whether it is used for an indoors slumber party or placed outside for a night under the stars, the sleeping bag is the number two choice of Sims the world over. The number one choice? A feather bed, of course!
+   [0B6] 0x6FD510274B3E2AEB: Constructed by Plastico Funco, the Rib-it Rib-it Froggy McFrog Slide is a nearly indestructible addition to your backyard entertainment collection. The entire family will enjoy hours of gliding down a waterlogged sheet of plastic through the hungry mouth of Froggy McFrog! 
+   [0B7] 0xB6F8801C18B84B00: Tired of hopping around the Schuper Schprinkler? Well, here's your chance to take a slippery ride in your very own yard! Keep your kids out of trouble by letting them play for hours on the New Ultimate Backyard Slide. Don't let this fantastic item slip away!
+   [0B8] 0x7227F679B7EDF59E: Fifty years ago, popular thinking agreed that in the near future, Sims would forgo cooked food and consume all nutrition in pill form. This vision of the future inspired forward-thinking furniture designers to design their furniture in pill form as well. Now, you can enjoy this resurrected retro design in your home!
+   [0B9] 0x84692DDE7A9F10F1: Hang on if you can! Aspiring jockeys can now enjoy the thrills of thoroughbred racing within the confines of their neighborhood playground. With authentic sights and sounds from the racetrack, there is little doubt that the Bust R Bronco Spring Rider will satisfy the horse lover in all Sims, large and small.
+   [0BA] 0xDFBD2D6F3920AA8B: Find your sea legs and set sail on the High Seas Hijinks Spring Rider. Everlasting spring technology ensures an authentic feel with every ride. With a little imagination and some balance, aspiring buccanners everywhere will enjoy setting off and exploring uncharted territories or perhaps search for old buried treasure. Ahoy Matey!
+   [0BB] 0x06EF05DDA03BAD26: Children can now blast off into outer space in the safety of the Rockin' Rocket Spring Rider. Rock it as hard as you want as its built-in everlasting spring technology will never fail you. Careful not to fall or you might end up seeing stars in real life!
+   [0BC] 0xEA580258124FCEED: The Roundabout Spiral Staircase is the most basic of spiral staircases. Its simple yet strong frame allows an exceptional reliability that can guarantee you'll never need to replace it from wear and tear.
+   [0BD] 0x9724D2F98096D912: This sleek spiral staircase gives you the ability to be both economical and practical when force to live in a small living space. Its wood frame and metal railing design will impress any house guests you may invite.
+   [0BE] 0xD8C449AD2FC732FC: Created by Super Ultra Mega Adorableness Corporation, the Purr Purr Purr Stereo is the trendiest device among cutephiles everywhere. You'll love docking your portable music device on this sweet little stereo and letting it lull you to sleep with the soft music emitting from the little ball of fur.
+   [0BF] 0xA595CE487C7FD70F: The sleek Slim Digital Stereo by McKible Technologies is the product of years of scientific research, with a price tag to match. "The Slim Digital Stereo is a listening experience that no audiophile should be without," says company founder J. McKible. "Our precisely engineered frequency correction technology gives your music such a realistic sound, you'd swear the musicians were in the same room!"
+   [0C0] 0xF683AAF9DDE4F88A: When it's time to put on some smooth tunes, take out the Easy Listening Stereo, plug in your portable music player, and let the sound turn your stress into serenity. Thanks to the triple buffered speakers, you'll experience no harsh or discordant notes. With the Easy Listening Stereo, you'll enjoy music as uniform as the vacuformed plastic surface!
+   [0C1] 0x03B67ECEFC11238D: Relive the days when quality electronics where measured by both the size of the sound and the size of the speaker cabinet! The giant 20" speakers is sure to blast the beat through the entire house and maybe even the entire neighborhood.
+   [0C2] 0x9752EB29DED7605D: It may not look like much, but this stroller has got staying power! Designed and manufactured in the quirky town of Twinbrook, every Twinbrook Roller has been built to withstand whatever pothole, swamp mud, or bayou vegetation you can throw at it!
+   [0C3] 0x64107055AE16A739: The finest in strolling luxury, each Strol-Air is handcrafted to the exacting standards that privileged toddlers worldwide have come to expect. With the LX model, riders and their handlers will appreciate the ultrasonic dampeners built within the titanium frame that work tirelessly to ensure the ride feels like nothing else than a cloud of air.
+   [0C4] 0x19C0AE4B31D32A1B: Swing high, swing low, swing till your feet almost touch the sky on the Unlimited FunTimes Swing Set. The rust prevention chain coating means you won't be left with brown palms after spending an afternoon swinging towards the clouds. Look for the rest of the Unlimited FunTimes playground set wherever toys are sold!
+   [0C5] 0xEB8763C87432BC9F: Chemistry is the scientific art of mixing one substance with another to transform those substances into something miraculous! With the Catalyst Chemistry Lab Station, aspiring chemists of all ages can stir solutions and manufacture matter of all types. Craft potions that will induce happiness, increase stinkiness, and even turn a total klutz into a mechanical genius…for a few hours at least. Be sure to wear protective eyewear and keep the fire extinguisher handy!
+   [0C6] 0xEBA0845A9BAE2740: This family friendly coffee table features plush padded sides for kid-safety. Place it in the middle of your living room and rest easy knowing that your child can scamper by with no danger of harming themselves on dangerous table edges.
+   [0C7] 0x7AABD34AC94744B0: Hang Ten in your living room with this bodacious coffee table. All the Bras will be envious of this sweet purchase!
+   [0C8] 0xE5D935DB2DD07C36: Enjoy the visual appeal of drawers without the convenience of actual storage space with the Illusionary Coffee Table. Designed by master prankster Mastroni for his House of Hilarity, the purely decorative drawers are glued shut and conceal a hollow interior. You'll never tire of asking your guests to retrieve something from the table and giggling in amusement as they unsuccessfully pull on the handles.  
+   [0C9] 0x39D781E59DCE7D45: Elegance is the word most Sims envision when they think of the splendor of The Endless Acres estate. That elegance is embodied in this lovely replica of the end table from The Endless Acres nursery. Soft to the touch and stain resistant, this lush end table is the perfect accent for your little one's room.
+   [0CA] 0x4BBD19B745DD93B4: Painted and polished, this classy end table is especially designed for your bedroom. Great for holding lamps, books, and knick knacks, this end table is functional, but also pleasing in form.
+   [0CB] 0x941BFC75AAA1B54D: This stylish and affordable table will make any room feel warm and cozy. Its beautiful filet crochet will make your place feel just like Grandma’s house!
+   [0CC] 0x81208057653910E3: Hand made and cool to the touch, this robust end table has been crafted by the nimble hands of the monks who dwell in the monasteries of the Simpathian Mountains. The rock is quarried in a secret location and smoothed by the waters of hidden mountain springs. Each end table is personally blessed by the High Monk before being transported to the base camp by loyal Sherpa.
+   [0CD] 0x8FF8BFC813F9DB34: Constructed of fine particle board, overlaid with imitation veneer, and delicately assembled using screw fasteners and fitted dowels, the Bedside Hideaway is an attractive and affordable solution to bedside storage. It's small enough to fit neatly beside any bed, yet large enough to hide away that embarrassing stuffed llama from your childhood and the gnome statue that stares at you while you sleep.
+   [0CE] 0x7BB50DA926F51518: Many say that Judson H. was the best skater in Twinbrook. Some say he was the best in the Tri-city area. Judson, well, he says he was the best in the world. But we'll never know for sure because he retired at the tender age of seventeen and turned his eccentricities away from the double darkslide and towards...end tables.
+   [0CF] 0x904CA24EB0152568: More than just a box for storing play things, the Chateau Toy Box is the perfect backdrop for games of play and pretend! It can be a castle, a fort, a manor house, anything your little one can imagine. Tots love toys and toys love the spacious interior of this toy box! So for happy kids—and happy toys—pick up the Chateau Toy Box.
+   [0D0] 0x6FCE750F79EDB015: This toy medieval oven will allow your little ones to envision that they are serving up a buffet to the Round Table. They'll spend hours imagining they are cooking a king-sized feast of gruel, massive legs of mutton, and peasant's pie!
+   [0D1] 0x29E88CE8DAABB851: Reduce the size of your waste with The ComPRESSOR! Do not fear the name of this product. It's a monster that will eat your waste and not you. Note: use this product at your own risk. 
+   [0D2] 0xC7E9D3D977FA5A5F: Live your own charming medieval tale with just a touch of imagination and your very own cobbled together castle in the sky. Preach to your loyal subjects below as you survey your domain from on high. Proclaim who may be allowed within the royal hall as you rule with an iron fist. The world is yours for the taking; are you fit to ascend to the throne? Chamber pot not included (or recommended)!
+   [0D3] 0x04AE3E4A51135523: What this treehouse lacks in style, it more than makes up for in homemade charm. While it's held together by scrounged scrap material and a bucket of nails, it does provide a few amenities such as running electricity and a lookout tower that'll provide the best view around! With a little imagination and a lot of love, kids will get hours of use out of their new home away from home–just watch out for splinters!
+   [0D4] 0xDCABFB64FBEAA590: Charge the Tesla coils! Divert main power to the front shields! BATTLE STATIONS! Whew…it was only a drill–this time. There’s no doubt you’ll be prepared for the imminent alien invasion with your Sci-Fi Hideaway. Scan the night skies for signs of intelligent life and rest safely in the knowledge that you’re doing your part for humanity. It will take diligence to track the other worldly menace, but you didn’t sign up for this duty–you were born for it.
+   [0D5] 0xA2E23FCF1242E0D2: This is an award for Sports Club members.
+   [0D6] 0xE6077E8FCF26E432: Enjoy the look of an old-fashioned television with the convenience of modern technology when you purchase the Retro-tastic TV. The shell of a classic TV has been retrofitted to eliminate the need to replace vacuum tubes and decrease the risk of electrical fire!
+   [0D7] 0x6C46680DE695CF56: To increase the number of peers for the smallest realm in the home, one is recommended to award a baronetcy to tiny children who love crisp, high-definition visuals and awe inducing sounds much like the trumpets harkening the start of a joust. Sit back in your throne, tiny Baronet, and enjoy the finest television the Kingdom cares to offer!
+   [0D8] 0x9287F928360133D1: It's common knowledge that only nobility can take advantage of the best televisions available, unless there's magical intervention of course! The Glass SlipperVision Television is precisely the magic one needs, with picture-perfect high definition resolution and a hint of 3D, all viewers will say it's a magic show and everyone is invited!
+   [0D9] 0x97F91FC1A9A9A07E: The ultra modern ExoEdge Gaming System is powered by the latest technology in liquid core processors and ionized water cooling for extreme gaming fun. Enhance your gaming experience with the full line of upcoming peripherals, including a foot-guided racing wheel, taste-enhancement gaming device, and shakable exercise controller. Note that ReliableWare disavows recent reports of liquid core leakage in a large number of units.
+   [0DA] 0x975F86C7B58C405C: The Dreamer's Costume Chest lets any child transform into a character limited only by their imagination. They can frighten passersby with a mighty roar, walk on the moon, or even wave to their royal subjects. Prepare for a possible argument as your child may never want to take off their costume!
+   [0DB] 0x3685712745B75982: Start your new beginning under this wedding arch and you'll always remember the moment you made your everlasting commitment. Filled with the freshest picked leaves and flowers, this wedding arch will make your wedding the most romantic wedding ever.
+   [0DC] 0x27C428C52012304A: Don't let that special day be a drab affair! Create the dream wedding atmosphere with the Perfect Couple Wedding Arch. As you pass under the archway, get ready for a walk down the aisle that you'll never forget.
+   [0DD] 0x397E665F1E3F442E: Tradition may demand that couples tie the knot underneath a wedding arch, but few wedding arches are as untraditional as this one! The vines you see adorning the arch are not plants at all, but fine silk woven by the artist monks of Shang SimLa. Each leaf and stem are individually mounted on the faux wood frame and the massive amounts of adhesive is used to ensure that nary a leaf will wave in the wind during the ceremony.
+   [0DE] 0x07D337210C24DA85: There are many dimensions in this world. 2-D. 3-D. Space-time. Wondrous worlds just out of reach... This window will help you peer into other dimensions...or, at least, into your backyard.
+   [0DF] 0x1671C4D0AF592871: Cheap Data Disc
+   [0E0] 0x226866BA9D39C4EF: Hi-Fi Data Disc
+   [0E1] 0xEC8AEDA8FB405391: King Launergan's Royal Bunk Bedding
+   [0E2] 0xDD56BA23F27EE7A4: King Launergan's Royal Loft Bedding
+   [0E3] 0x9B444D16E666F5D5: Bare Bones Bunk Bed
+   [0E4] 0x162790172C77043F: Bare Bones Loft Bed
+   [0E5] 0xAB6E4F0D641B9349: The Sinuous Sleeper Bunk Bed
+   [0E6] 0xEB4B0B93BC68C59C: The Sinuous Sleeper Loft Bed
+   [0E7] 0xADEFC8DBC14ABCF4: Great Haven Bunk Bed
+   [0E8] 0x2FB51200108B5025: Great Haven Loft Bed
+   [0E9] 0x5EE028018E0EC60A: Forty Winks
+   [0EA] 0xA93805CB29174A03: Hover Bed
+   [0EB] 0xEB221F138AE04537: Sovereign Sleeper
+   [0EC] 0xD62E1E735E327FA9: I'm Sleeping in a Boat Bed
+   [0ED] 0x16BD8472F184804B: Hibernation Station
+   [0EE] 0x42378E989ACC98F7: Sweet Treasures Bookshelf
+   [0EF] 0x68C6DF8187D1600A: Chateau Bookshelf
+   [0F0] 0xD113DF81E34A65EE: Imaginarium Kubo Book Shelving Units
+   [0F1] 0xF23B8132370063DE: The Sophomore Bookshelf
+   [0F2] 0x803F8E4289444F99: X, Z-Cam 360
+   [0F3] 0xBC7137A4212AE3B7: Sonyo VideoStop Triple
+   [0F4] 0xE12B3EF68EB585BE: Emperor Cane
+   [0F5] 0x2DCA35244F86CB7C: Llama Cane
+   [0F6] 0x07C02326B4123CC8: Motive Magenta 3000
+   [0F7] 0x5F3498EDC6B12387: Vistoso Speed Machine
+   [0F8] 0x86207C05A76CF635: Ernatto Berrati M81 Covert Edition
+   [0F9] 0x491D24FB2679E6D0: Daycare Van
+   [0FA] 0x64487CECF4EFB756: Reward Certificate
+   [0FB] 0x8115D07AE1DE3F98: Castleino Classique Chair
+   [0FC] 0x102836375337733E: Joe's Bean Bag Chair
+   [0FD] 0x963A74D25213AF9D: Quiet Time Cottage Chair
+   [0FE] 0x80C7D001CB988B95: Dottie's Favorite Chair
+   [0FF] 0xCBB26C66DA35E8B0: Cup O' Chair
+   [100] 0x28C7714EE7537DD2: Little Steamer Clock
+   [101] 0x9CEABDAAD927DE5B: Ye Olde Curtains
+   [102] 0x51D1A37D66D9B233: Weathered Curtains
+   [103] 0xF71B7B084A14BB4A: Pearl's Pinched Drapes
+   [104] 0x4BC80E45E7765FE5: Data Disc
+   [105] 0x8E1D9FE47019F40D: Data Disc Storage Tower
+   [106] 0x64CD408533D7FC4F: Debug Sound Box
+   [107] 0x4D1665E1B9BF4D4D: The Surface of Oppression
+   [108] 0x4D91A7302A3E7498: Osmosis Work Desk
+   [109] 0xEFD6074A92A1E301: Lil' Rebel Clothing Chucker
+   [10A] 0xE256C29802EDB5CF: Hurtado Embelli Dresser
+   [10B] 0x462BD4E268FB2941: Walksmith Cane
+   [10C] 0x0152740B5D2225D0: Flaming Bag
+   [10D] 0xA0AF0870F4C110EE: Pink Flowers
+   [10E] 0x0D857A7DB8130A24: Purple Flowers
+   [10F] 0x9E8B1DBDC2282C27: Red Flowers
+   [110] 0xA1D56FC6300686D9: White Flowers
+   [111] 0x81CBFB727C848172: Yellow Flowers
+   [112] 0xED63462B9D1A67AC: Repeti-Chopper
+   [113] 0x591C000E9852A178: Forever Wedding Cake
+   [114] 0x27BDEE680459D2AB: Air-o-matic Hot Beverage Machine
+   [115] 0xC5D652A9D73AB10E: Doll
+   [116] 0x4A0C0D66E44F32FD: Unlimited FunTimes Playground Tower
+   [117] 0x689F28AC0C25BCB1: Unlimited FunTimes HeatSafe Slide
+   [118] 0xC62A1EB0D6ABACEC: Pumpkin Light O'Lantern
+   [119] 0xE11A396EFCFF48CA: Glowing Globule Emitter
+   [11A] 0xD95C1360F76716C8: King Launergan's Royal Lamp
+   [11B] 0x5270F3CD5C858110: Fantastical Favrile Lamp
+   [11C] 0x99CA8256188D434C: Retro Rocket Lamp
+   [11D] 0x020C8FE6CC9148A8: Late Night Love Lamp
+   [11E] 0x5276A3051A1E2058: Mini Glowing Globule Emitter
+   [11F] 0xDAF5F6EBACC3F5BE: Read Anywhere Light
+   [120] 0x419BC2D47D67439B: King Launergan's Royal Sconce
+   [121] 0x9868E1504144C5E0: The SSX Comfort Zone
+   [122] 0x9B42FF457DDA0B8A: Forever and Ever Yours Loveseat
+   [123] 0xBCCCE21C67C2E977: Elder Magic Gnome
+   [124] 0xCB1E2FF4928B4D43: Memorial to a Magic Gnome
+   [125] 0xF758A553F630D6C9: Teen Magic Gnome
+   [126] 0x14026F9253C11653: Toddler Magic Gnome
+   [127] 0x9377739E5772D804: Deluxe Sonarange 2000
+   [128] 0x72998AA08B99A839: Theatre Dressing Room Mirror
+   [129] 0x3DAD8E6191C5D076: Memories Mirror
+   [12A] 0x116B6CED259C1759: Bunny in the Rain
+   [12B] 0xD1581130E1E3D87F: The "Natural" Family Portrait
+   [12C] 0x08AF81AC0F5288F1: Beacon of Freedom Poster Set
+   [12D] 0x0BB5CC1BDE67EED8: Incomparable Idol Poster
+   [12E] 0x4A95305F2D8386AE: Planes of the Past
+   [12F] 0x8BDDCD19D9C3396A: Dream of the Windrunner
+   [130] 0x7C9DD535B4F889ED: Olivia Octopi
+   [131] 0x16BC8BADBDD7B930: Sweet Cupcake Painting
+   [132] 0x95D95C7706E7522A: Signed Movie Poster
+   [133] 0xC8A07E835334A9FE: Spooky Graveyard Poster
+   [134] 0x1F82996D01D4AF23: Paintings of Medieval Adventures
+   [135] 0x0FB43DFDCA30EFF2: Frilly Framed Picture
+   [136] 0xC2E5DCF87B21E11D: Age Freeze Potion
+   [137] 0x53DF9D1267B8F3F3: Bladder Flow Potion
+   [138] 0xCE522BE704739830: Mysterious Potion
+   [139] 0xC09A09E023114310: Ghost Potion
+   [13A] 0x3CADE981B4B5AE86: Imaginary Friend Metamorphium
+   [13B] 0xEA6474C0BE1CBC6B: Liquid Horror Potion
+   [13C] 0xC91DAFCEE8C8E01A: Mood Enhancer Potion
+   [13D] 0xED8C9986BA3A9EB4: Ninja Vanish Potion
+   [13E] 0xA600E4F0D86A5F67: Radical Reparum Potion
+   [13F] 0x7D781A22BF949561: Sleeping Elixir Potion
+   [140] 0x99B89C1A4A2A422E: Stink Juice Potion
+   [141] 0xEB43F035A4B6FD83: Young Again Potion
+   [142] 0x367F3ACF2367AA72: Frosty the Fridge
+   [143] 0xEE199F3E94598287: Flower Power Rug
+   [144] 0x5E167E17C7225EDC: Heart of Rugness
+   [145] 0x759843D0ED57E4A6: Hopscotch Court
+   [146] 0x740F4DB5BB9BAD9D: Hopscotch Asteroids
+   [147] 0x038691AB8F19F885: Turtee the Turtle
+   [148] 0x03718DAB8F0795D5: Box of Beach
+   [149] 0x480F633254E3FEC4: Sand Sculpture
+   [14A] 0x390E001B1E87EA3A: Galactic Alien Scanner Sculpture
+   [14B] 0xE07E9FD89A381B0D: Ballet Shoes Sculpture
+   [14C] 0x0DE29E1D787700D8: Marco Ceiling Kite
+   [14D] 0x870B93553E7A1120: Planes Away!
+   [14E] 0x36DE45729665F16B: Charming Beatrix Chiffarobe
+   [14F] 0x411FB603DD7A92A4: Disordered Study Stack
+   [150] 0xDDD7E40D059A8A93: Tower of Book-el
+   [151] 0x126FC0A75D44FA5D: Pillows of Poshness +1
+   [152] 0x979C45B532C9999F: The Veronica Shoe Rack
+   [153] 0xE1FF7E8559EF10BC: The Ultimate Powder Room Organizer
+   [154] 0xBA8CF555ED5CC4D3: Lift Off!
+   [155] 0xFD47377437D98A6C: Gothic Girl Doll
+   [156] 0x8131D23A04F9C771: Eternal Bloomer Decorative Vase
+   [157] 0x5DAAD77864DE3ABC: Little Rawr Plush Dragon
+   [158] 0x64F8D0525E9EADE9: Dr. Tinner's Olde-Fashioned Toy Robot
+   [159] 0x14B8843D26B8BA4A: Benny's Tennies
+   [15A] 0xE2C3F43619A6625F: Bistro Bento Art
+   [15B] 0x4F34503F4C1E5959: Mounted Gavel Sculpture
+   [15C] 0x8A12364D120D2ADD: Molecular Model
+   [15D] 0x3BEAA3E7C7B7C5FC: Art Show Participation Trophy
+   [15E] 0x4C2EEE238C925E2C: Best Ballet Dancer Trophy
+   [15F] 0x3DC7B55760B65BB3: Debate Club Participation Trophy
+   [160] 0x7AE22F038A550CFD: Drama Club Participation Trophy
+   [161] 0xC8F89DC86F513479: Music Club Participation Trophy
+   [162] 0xA62AC2B571C01D29: Newspaper Club Trophy
+   [163] 0x47577C804418452E: Scouting Trophy
+   [164] 0x4D0D31940297465C: Shop Club Participation Trophy
+   [165] 0x9DF7707F8065DDE1: Sports Club Participation Trophy
+   [166] 0x6536BF66CD44F0F7: Framed Scout Badge
+   [167] 0xFBFAF5CEA32559B5: Mounted Police Badge
+   [168] 0x6D70571E874CAB79: Framed LP
+   [169] 0xA6A11E8296B852E6: Gilded Golden Saw
+   [16A] 0x0F3827EC09CE611B: Framed Sports Jersey
+   [16B] 0x3B219CCDD6644FBF: Shrunken Retro Rocket
+   [16C] 0xC5DAC1871C203BED: Model of the Patchwork Dandy
+   [16D] 0xBA1F74148B8AD589: Bronzed Baby Heirloom
+   [16E] 0x94949810C098349A: Stomp Stone
+   [16F] 0x82740B9C6C712D73: DJ Sammi Collectible
+   [170] 0xB3B80F77D21B0C8C: Captain's Toy Ship
+   [171] 0xA7C4BABD24ACF2BC: Monstrously Cute OctoCat
+   [172] 0x2170EF0979D1C27D: Happy Panda Bank
+   [173] 0xEAAABDC5DD972EA3: My Uni-Pal Eunice
+   [174] 0xA8784E3B9CACBB96: Perennial Evergreens Vase
+   [175] 0x80A679DF858D2B6F: Zachary Zombo Pencil Holder
+   [176] 0xE86E089A9CC2186D: No-man’s-land’s Periscope
+   [177] 0x650C9287C57D9833: Spyglass Decor
+   [178] 0x7FF6206A44598B37: Young Noble Bed Canopy Set
+   [179] 0xD4FE211BEC92647A: Tree Wall Decal
+   [17A] 0x45B6EF9B45BE9CA3: High School Diploma
+   [17B] 0xD7885AE2368EFC32: Framed Newspaper
+   [17C] 0xC419AE992BB84F4A: Wall Walking Animals
+   [17D] 0x98D2711B85B58A16: Littlest Keepsake
+   [17E] 0x70D0B9447044D028: Celebrate! Banner
+   [17F] 0x95339B9BD5C85505: Bulleteen Board
+   [180] 0xC5B5FBDCA262618C: All Aflutter Flies
+   [181] 0x27FF6836726CFB4C: Soft Touch Wall Canopy
+   [182] 0x9E007C291863742F: Bent Color Spectrum
+   [183] 0x5FD73E40DF98CA06: Terrifying T-Rex Trophy
+   [184] 0x8BE46A7C57B5D41A: Tree Top Growth Chart
+   [185] 0xE685247E227FAA1A: Valedictorian Ribbon
+   [186] 0x0EDF1FF3B3A5B4D0: Kiddie Kollection Kaddy
+   [187] 0xCEAEE566471E43DA: See-Me See-You Seesaw
+   [188] 0x4B412461BFD786D2: Groovy Shower
+   [189] 0x2B880D95C4EAF5A9: Sleeping Bag
+   [18A] 0x3E42E252D041820B: Sleeping Bag
+   [18B] 0x3ACD8E535FADD2D2: Sleeping Bag
+   [18C] 0xC0A56F254DB3F5DA: Rib-it Rib-it Froggy McFrog Slide
+   [18D] 0xEDB82F25D3C5AEBF: Ultimate Backyard Slide
+   [18E] 0x60B1B7BC0018A12D: Pill-Shaped Pillow-Topped Sofa
+   [18F] 0xF7FFB868E98240CA: Bust R Bronco Spring Rider
+   [190] 0x0F2D93FBB4567006: High Seas Hijinks Spring Rider
+   [191] 0xAC3CB1A7E9C566CD: Rockin' Rocket Spring Rider
+   [192] 0x97C3E3D7583A7F3E: Roundabout Spiral Staircase
+   [193] 0xD71D34C462A7F4DC: Hewnsman Spiral Staircase
+   [194] 0x705868DF0D062601: Purr Purr Purr Stereo
+   [195] 0x62ACC302D3B50C38: Slim Digital Stereo by McKible Technologies
+   [196] 0xC3A8F89DCDCB50C9: Easy Listening Stereo
+   [197] 0xFFB879298952C838: Big Daddy Sound Aire
+   [198] 0x2016F562D2A237EC: The Twinbrook Roller
+   [199] 0x5051AF700A37828E: Air-Strol LX
+   [19A] 0x9FF191C6A1D4E8BF: Unlimited FunTimes Swing Set Center
+   [19B] 0xA026D2591384820A: Unlimited FunTimes Swing Set
+   [19C] 0x5A79BD6A1D322F47: Unlimited FunTimes Swing Set Left
+   [19D] 0xB4BF5B4CD0CCF1A4: Unlimited FunTimes Swing Set Right
+   [19E] 0x6EB4F6E9CFD033B4: Catalyst Chemistry Lab Station
+   [19F] 0xCECDF908E9FC377B: Kid-Safe Coffee Table
+   [1A0] 0xA01EE21E6FF4D2C7: Tow-In Coffee Table
+   [1A1] 0xEBB9B9FBD29E9B7F: Illusionary Coffee Table
+   [1A2] 0xC34CB771EEA6A722: The Endless Acres End Table
+   [1A3] 0x38C79E133C806697: Bedside Bliss
+   [1A4] 0x9A0A7BAF5A884C06: Ethel's Genteel Doily End Table
+   [1A5] 0x3ED58B479C7E3840: Organic End Table
+   [1A6] 0xBFD0CF5F73FDBD65: Bedside Hideaway
+   [1A7] 0x18D523B5DA66BDBB: Judson's End Table
+   [1A8] 0xCC0A7E6AC3D25CFC: Tell Tale Jig
+   [1A9] 0xC8CDE2E5307D4301: Chateau Toy Box
+   [1AA] 0xC18450DEDF3E4FB8: Stone-Walled Toy Oven
+   [1AB] 0x9CAA94B2B10368DC: Toy Periscope
+   [1AC] 0xDEDE289CDBB8A644: The ComPRESSOR
+   [1AD] 0x19D27E755F5CBB4E: The Princess and the Pauper Castle
+   [1AE] 0xEECAC5161BBDBA0E: Kid's Clubhouse
+   [1AF] 0xA647AFF8CECF1241: Sci-Fi Hideaway
+   [1B0] 0x72DF4B8506BF58D1: Retro-tastic TV
+   [1B1] 0x1CB50602DE0C7BED: The Baronet's Fiefdom TV
+   [1B2] 0x16BBCE44E5970366: The Glass SlipperVision Television
+   [1B3] 0xCCD00D89EDB41685: ExoEdge Gaming System by ReliableWare
+   [1B4] 0x1F73516AF7DB25D5: Dreamer's Costume Chest
+   [1B5] 0x65F442968ABC8B37: New Beginnings Wedding Arch
+   [1B6] 0x7C8EE832B2747091: Perfect Couple Wedding Arch
+   [1B7] 0x5F0E659321984A47: Traditional Wedding Arch
+   [1B8] 0xB870B8CF978C4F44: Many Dimensions Window
+   [1B9] 0x2C8954D7A359A50A: 
+   [1BA] 0x2C8954D7A359A50B: 
+   [1BB] 0x2C8954D7A359A508: 
+   [1BC] 0x92218E888DAEE9E2: 
+   [1BD] 0xDDDFEB0334E60845: Just as cute as a button, this home features a full wrap around Victorian porch and is ready for a growing family. An unfinished attic leaves plenty of room to expand; it even comes with an adorable matching doll house!
+   [1BE] 0xCFDA29EA7C8F8769: Basically, it's a family style house, basically. This ranch style home would fit in any subdivision or even in the country. It's a great starter house for a small family, basically.
+   [1BF] 0x548A8B0F685227BE: Available for either a lifetime of bliss or an afternoon of ceremony, this charming cottage promises a little slice of heaven, or at least cake.
+   [1C0] 0xA4480FD085700493: If a Sim's home is their castle, than this is suitable for a small queen or king. Although this is a pleasant enough house, anyone should be worried about letting their teenage prince or princess sleep on the ground floor with their own entrance... and exit.
+   [1C1] 0xC3D5493F67004301: Built at a time when houses had names, Elderstone is just the type of house for the grandkids to come and spend a night, perhaps in their mom's old room. It's just a little cluttered and the kitchen needs updating, but it could work for a young family as well.
+   [1C2] 0xCF136E72147BAB86: It's not clear that the ideal place for your in-laws is over the garage, but it probably beats them living in the next bedroom! Stately and ever so appropriate, this home is perfect for the family who has too much and wants more.
+   [1C3] 0xA0FF9EA3C19B3B23: Once you get the cornflakes out of the carpet and the crayon off the walls, this house could be a real suburban dream. As is, the calm exterior hides the riot inside.
+   [1C4] 0x9C61D64B138A8D0D: Tally Ho! As fine a country cottage as there ever was, Rose Haven is the ideal place for a spot of tea or a game of cricket. If your Sims are lucky, they may just go in for a bit of snoggin' as well.
+   [1C5] 0xAD5FB52CC4EA92BA: Medieval castle living at its finest, the Rookery has eschewed its avian residents in favor of more domesticated dwellers. A turret, a balcony, your own pond and a hidden reading nook are among this habitat's unique features.
+   [1C6] 0xFE23642575CF822A: A Doll's House - 3br, 3ba
+   [1C7] 0xEB6C09BF6A4F5862: Basically a House - 2br, 1ba
+   [1C8] 0x8225C0F1ADAB631D: Betrothal Bungalow - 1br, 2ba
+   [1C9] 0xC0F936B875BE4ADE: Casita - 2br, 2ba
+   [1CA] 0xCCF4F502DA180128: Elderstone - 2br, 1.5ba
+   [1CB] 0x574BAABF6F58CE45: Impeccable Manor - 4br, 6ba
+   [1CC] 0x03428F192EB28754: Kid Friendly, Mother Approved - 4br, 3ba
+   [1CD] 0x07C259AE83948793: Romper Recreation Playground
+   [1CE] 0xF354CA8EA1483C82: Rose Haven - 2br, 2ba
+   [1CF] 0x5691113FFD6C4BBF: The Rookery - 1br, 1ba
+   [1D0] 0xE30F1B3CE7E6A435: The King's Crown
+   [1D1] 0x89EECBADD6F5696E: The Queen's Crown
+   [1D2] 0x85170266739C16B9: Paint flowed from the paintbrush to the canvas with ease. {OpOwner} was channeling the great artists of the past, making {MA.him}{FA.her} the winner of the art-a-thon! Be sure to hang the sweet painting with pride!
+   [1D3] 0x0C9750C116461E17: The Art Club is having an impromptu art-a-thon. It's a friendly competition for students to get together and create pieces in a certain amount of time. Winners get their paintings hung in the {OpTarget} and a really sweet painting by Lilly O’Houllihan. Does {OpOwner} want to participate?
+   [1D4] 0x09DFB4DC448F4887: It's a sad day in the world. {OpOwner} missed the Art-a-thon! Wouldn't it have been nice to have art displayed at {OpTarget}? Who knows what kind of influence it would have on other students.
+   [1D5] 0xB359291B5A3CB21C: Attend Art-a-thon at {OpTarget}
+   [1D6] 0xE91FFE1B7934F0EE: The Art-a-thon
+   [1D7] 0xC6EEFB996E45B17E: Attend Art-a-thon at {OpTarget}
+   [1D8] 0x0AF9742CD8FB454D: {OpOwner} painted a good painting and fought a good fight, but it just wasn't enough. The judges like teenage angst, but perhaps {OpOwner} has a little too much? 
+   [1D9] 0x645EBF822B552ED0: {OpOwner} danced superbly! {MA.He}{FA.She} won the part and a special trophy! Judges were so pleased that they exclaimed "{MA.Bravo}{FA.Brava}" after {OpOwner} danced.
+   [1DA] 0x54930649926BD3D4: Try outs for the lead dancer in the upcoming recital are being held today at the {OpTarget}! The winner will also receive a special trophy! Does {OpOwner} want to participate?
+   [1DB] 0xF8F8610E444AFC18: It's too bad {OpOwner} couldn't make it! {OpOwner} will have to be happy with blending in with the other dancers during the recital.
+   [1DC] 0x662C30493BCB99AD: Attend Audition at {OpTarget}
+   [1DD] 0x783D8349463D5E5B: Quest for the Lead
+   [1DE] 0xD3CBD18B158E9DC7: Attend Audition at {OpTarget}
+   [1DF] 0x1BE798E304EBE13E: {OpOwner} danced really well, but it was obvious to the judges that {MA.he}{FA.she} was not in a very good mood! They want someone that genuinely looks happy to dance.
+   [1E0] 0xCAA91DCD9D9FF635: It was a wonderful recital! {OpOwner} got a great trophy to display proudly that will remind {MA.him}{FA.her} of how great {MA.he}{FA.she} danced!
+   [1E1] 0xE6FA645366EFA57B: It's time for {OpOwner} to show off their graceful dance moves in the ballet recital! {MA.He}{FA.She} has practiced hard and it's a great time for the family to enjoy the hard work! Just head on over to the {OpTarget} at the appropriate time.
+   [1E2] 0x4F4893E136E5C5F3: Oh no! {OpOwner} missed the recital. It's too bad {MA.he}{FA.she} wasn't able to perform but a participation trophy will be given when {OpOwner} becomes a teenager.
+   [1E3] 0x64FEFEC29323D5D0: Attend Recital at {OpTarget}
+   [1E4] 0x52EDABC288B2115A: Ballet Recital
+   [1E5] 0x8B83022D7D36E38A: Attend Recital at {OpTarget}
+   [1E6] 0x86776537E8261B91: With {OpOwner}'s impeccable reasoning, team members had no choice but to elect {MA.him}{FA.her} the club president! A big congrats! They have bestowed {OpOwner} with a really cool gavel sculpture! It's an exact replica of the one used at {OpTarget} when arguments get a little heated.
+   [1E7] 0xD682091F994039FF: The Debate Team needs a president, someone who can represent them well in any upcoming debate tournaments Does {OpOwner} want to debate for this position? Make sure {MA.he}{FA.she} shows up with strong logic skills and in a good mood!
+   [1E8] 0x0348AB5C2DE4570F: It's too bad {OpOwner} missed out. Team members were really looking forward to hearing from {MA.him}{FA.her}.
+   [1E9] 0x2E6A9557D8F0A004: Debate for Presidency at {OpTarget}
+   [1EA] 0x616E8A57F5904D26: Presidential Debates
+   [1EB] 0x6EB14DF9C9F65D66: Debate for Presidency at {OpTarget}
+   [1EC] 0x735CF2BBC4AC1245: The Debate Team presidency went to another classmate. The students felt that {OpOwner} needed a little more logic or needed to be in a better mood. Feel free to debate the situation at the next club meeting.
+   [1ED] 0x5C0D13717DDE8AD7: Olivia Street only had great things to say to {OpOwner} about {MA.his}{FA.her} performance! She enthusiastically gave {OpOwner} the signed movie poster.
+   [1EE] 0x9BD3C2E365687355: Lights, camera, action! The world famous actress Olivia Street will be visiting the {OpTarget} this week! She'll be holding a master class for all drama club students. The student who gives the best monologue will win a movie poster signed by hers truly! Does {OpOwner} want to participate?
+   [1EF] 0xAC6F8E3130A89189: It's a real shame to miss opportunities like this. Who knows what doors could have been opened by meeting Miss Street!
+   [1F0] 0x0EFC5AFB416237EE: Give Monologue at {OpTarget}
+   [1F1] 0x2143AFFB4C018EB0: Lots of Drama
+   [1F2] 0xB236B477AD54A8DC: Give Monologue at {OpTarget}
+   [1F3] 0xC3D81A74F473216B: {OpOwner} did a good job but something was just off. {MA.He}{FA.She} would have taken the cake with a little more charisma or if {MA.he}{FA.she} was in a better mood.
+   [1F4] 0x92D72B49F680E3E7: {OpOwner} played incredibly well! Mr. von Butterfingerz was thrilled with both the technique and musicianship. Well done! Hang the reward up with pride!
+   [1F5] 0xCD39B76F90AF6585: The famous guitarist, Andres von Butterfingerz will be visiting the {OpTarget} for a few hours. He's going to sit in on guitar club and give a master class! The best prepared student will receive a signed record to hang on their wall. Does {OpOwner} want to participate?
+   [1F6] 0xA0D873CE251FCA39: It's a real shame to miss opportunities like this. Who knows what doors could have been opened by meeting Mr. Butterfingerz!
+   [1F7] 0xD8F8268BDAC16E1E: Play for Guitar Club at {OpTarget}
+   [1F8] 0xEB3F7B8BE560C5C0: All Strings Attached
+   [1F9] 0xE6064C00E70D8FCC: Play for Guitar Club at {OpTarget}
+   [1FA] 0x31DEB02BE989F0FB: {OpOwner} played really well, but something was off. The winner of this event went to a student who practiced a lot and was in a good mood.
+   [1FB] 0x9E54B0D28F8DD8C7: Student Gossip Weekly is proud to have {OpOwner} as a writer! The juicy articles {MA.he}{FA.she} wrote are sure to stir up things in the "popular" group. Enjoy this framed paper to show off all of {OpOwner}'s hard work.
+   [1FC] 0xF62320F706BD6BE5: Newspaper Club doesn't have enough articles for the first issue of Student Gossip Weekly! Would {OpOwner} like to show up for a few hours to write some articles? The student that writes the best articles will get a framed copy of the first issue.
+   [1FD] 0xDF3D47D2E7C73D99: The {OpTarget}'s juicy secrets remain a secret tonight without {OpOwner}'s presence. The Student Gossip Weekly will be a measly little pamphlet highlighting lunch specials and bathroom graffiti.
+   [1FE] 0x1F0C702481E2EEFE: Write Articles at {OpTarget}
+   [1FF] 0x2DEDC524899F1CA0: The Gossip Column
+   [200] 0x4F73F00224F601AC: Write Articles at {OpTarget}
+   [201] 0x64472F8587832B5B: Even though {OpOwner} wrote a few articles, they seemed to have a sad undertone to them; enough to depress the students while they read the paper during first period. Perhaps being in a better mood or a little more writing skill would have made things better. The Newspaper Club thanks {OpOwner} for {MA.his}{FA.her} efforts though.
+   [202] 0xAD6E55F12A27F016: Today was epic! Never have so many old ladies held the current generation so highly! Now when {OpOwner} walks around town, {MA.he}{FA.she} might hear, "Kids these days....are the greatest!"
+   [203] 0xD26B988DD568B2C2: A special event is being held at the {OpTarget}! The scout who can help the most old ladies across the obstacle course will earn a unique badge signifying {MA.his}{FA.her} aid to the elderly community! Does {OpOwner} want to participate?
+   [204] 0xC0C316111E6D4042: It's too bad {OpOwner} wasn't able to make it! Little old ladies were left in the gym with no one to help them.
+   [205] 0x81AB5AB0ED1FEB57: Go to Scouting Event at {OpTarget}
+   [206] 0x6F99E5B0E2ADEC9D: Old Ladies Crossing
+   [207] 0x6F64FB348BB8131D: Go to Scouting Event at {OpTarget}
+   [208] 0xF73AAB8AA464D91C: Oh no! {OpOwner} didn't show up in a very good mood. As a result, many disgruntled old ladies were shaking their canes at {MA.him}{FA.her} instead of handing out butterscotch and hugs.
+   [209] 0xB797A4B21F9450FF: What a proud moment for {OpOwner}! {MA.He}{FA.She} will take all that {MA.he}{FA.she} has learned into {MA.his}{FA.her} teen years and will hopefully display the participation trophy as a reminder.
+   [20A] 0x1952AFE37BED0D4D: It's time for {OpOwner} and {MA.his}{FA.her} loved ones to celebrate the hard work and good deeds {MA.he}{FA.she} has been doing. Enjoy the ceremony and be proud!
+   [20B] 0x580919D73B99E481: Oh no! {OpOwner} missed the badging ceremony. It's too bad {MA.he}{FA.she} wasn't able to partake, but a participation trophy will be given when {OpOwner} becomes a teenager.
+   [20C] 0xA0BBF30A37369586: Attend Ceremony at {OpTarget}
+   [20D] 0xB2CD480A41A85DD8: Badging Ceremony
+   [20E] 0xDD6ABBA3BA1C29F4: Attend Ceremony at {OpTarget}
+   [20F] 0xEA1D54CCA9FF0C8C: {OpOwner} built a really awesome bridge and convinced other Sims that {MA.he}{FA.she} can carry the weight as Shop Captain. {OpOwner} was awarded a really cool reward sculpture!
+   [210] 0x4CFA8FB5230238E8: The Shop Club needs a captain, someone who can represent them well in any upcoming bridge building tournaments. Does {OpOwner} want to try out for this spot by building an awesome bridge? There will also be an additional reward sculpture. Make sure {MA.he}{FA.she} shows up with strong handiness skills and in a good mood!
+   [211] 0xD6C159C143C73844: {OpOwner} didn't make it to the try outs! Let's just hope the team nor the bridge will collapse under pressure with their new captain. 
+   [212] 0x49CDF229A8A9B221: Build Bridge at {OpTarget}
+   [213] 0x143CFD2989DECD27: Captain Bandsaw
+   [214] 0x9E6F3771EB59DAF3: Build Bridge at {OpTarget}
+   [215] 0x949ED440DE788D12: The Shop Club captain went to another classmate. Team members felt that {OpOwner} needed more handiness and needed to be in a better mood. 
+   [216] 0xF897F34C1E488403: The signed jersey was rewarded to {OpOwner} after {MA.he}{FA.she} outscored {MA.his}{FA.her} opponent in the penalty shot competition! {OpOwner} should hang the jersey with pride!
+   [217] 0x19A97AD3FB1A9EF9: The Sports Club is holding an event to promote health and fitness. Sims that compete should be fit and in good spirits! The winner gets a signed jersey once belonging to The Rocket Fuel's striker, Fernando Morales. Does {OpOwner} want to participate?
+   [218] 0x0D43514F1A2C6455: It's too bad {OpOwner} couldn’t make it to the sporting event! {OpOwner}'s wall is less interesting tonight without that framed jersey!
+   [219] 0x7888A84111279BF2: Attend Sporting Event at {OpTarget}
+   [21A] 0x42F7B540F25CB9BC: The Muscle Hustle
+   [21B] 0x39A845503C1C6BF8: Attend Sporting Event at {OpTarget}
+   [21C] 0xE15C9639689F89EF: Things were going really well until {OpOwner} missed a penalty shot! If only {MA.he}{FA.she} had practiced a little more and was in a better mood, things could have turned out better.
+   [21D] 0xBC95FA04C6F94F2D: {OpOwner} should be proud of all {MA.he}{FA.she} has accomplished! Afterschool activities have helped {OpOwner} improve at many skills and have given {MA.him}{FA.her} a boost in future successes!
+   [21E] 0xAC556582DA896F83: An award ceremony is being held at the {OpTarget}! It's a great opportunity for Sims to get together and celebrate all of {OpOwner}'s extracurricular activities. Trophies will be handed out, so be sure to attend.
+   [21F] 0x689A4F51727AD77B: Oh no! {OpOwner} missed the ceremony. It's too bad {MA.he}{FA.she} wasn't able to partake in the festivities, but all appropriate participation trophies will appear when {OpOwner} becomes a young adult.
+   [220] 0xDD98904DAE167C78: Attend Ceremony at {OpTarget}
+   [221] 0xCB513D4DA3772852: After School Reward Ceremony
+   [222] 0xA5E3F2C01AEC34B2: Attend Ceremony at {OpTarget}
+   [223] 0x2283568F7F4E140B: The potion is ready! Report to {OpTarget} with 4500 Simoleons and we'll deliver the goods!
+   [224] 0xCE1E1D0C5B366D11: We here at your local science lab have taken notice of {OpOwner}'s tendencies to interact with an invisible being. Our readings have confirmed a unique energy source that we would like to bring to life. We need {OpOwner} to send a Rainbow Gem to {OpTarget} so we can concoct a potion. 
+   [225] 0x93E64BBF30A0F68A: Collect a Rainbow Gem and send it to {OpTarget} from your Sim's inventory
+   [226] 0x618578BF148BE524: When Dreams Come True
+   [227] 0x36EC35C003703B10: Collect a Rainbow Gem and send it to {OpTarget}
+   [228] 0xA7CDB0B0BCBFB622: Offer the potion to your Imaginary Friend to complete the process! With your help, we should be able to prove that Imaginary Friends do exist and, most importantly, can be a part of any Sim's life! Should you have more Imaginary Friends that need to be turned real, please don't hesitate to visit your local science facility!
+   [229] 0x050C832D1AC72AE6: We here at your local science lab have taken notice of {OpOwner}'s tendencies to interact with an invisible being. Our readings have confirmed a unique energy source that we would like to bring to life. We need {OpOwner} to send us a Rainbow Gem for us to concoct a potion. 
+   [22A] 0xCA68AB9485BC06FB: Report to {OpTarget} with 4500 Simoleons
+   [22B] 0xFFF99E94A486E859: When Dreams Come True
+   [22C] 0x21784A4FFB14CFA9: Report to {OpTarget} with 4500 Simoleons
+   [22D] 0x2C99CC262245B5E4: Excellent work! Gems and metals are scattered all over the world, just waiting to be gathered into a home collection!
+   [22E] 0x2252973EEF980930: In an attempt to get kids excited about geology, the Rockhounding Club at {OpTarget} has sponsored a scavenger hunt to retrieve various gems and metals from around town. They're offering a cash prize to any kid who manages to collect them and bring them to the lab.
+   [22F] 0x403F6EAD7A787409: Collect the required items and turn them in at {OpTarget}
+   [230] 0x0D0599AD5DAB6EFF: Scavenger Hunt: Precious Materials
+   [231] 0xE210CD8CE0035F61: The scientists were very impressed that you found those materials so quickly! Maybe you have a future in science... or at least rock collecting.
+   [232] 0x3CA86582AB54D32F: The local geologists at {OpTarget} need some help from the community and are posing a challenge to all neighborhood children. They've identified some especially rare gems and metals that they'd like to study and have started a scavenger hunt to find them. Anyone who shows up with the requested items will collect a generous cash prize!
+   [233] 0x04C1F8E1F3E47774: Collect the required items and turn them in at {OpTarget}
+   [234] 0x36ECEDE20FCC3376: Scavenger Hunt: Rare Elements
+   [235] 0x4F97A914381C679A: Such beautiful specimens! Who knew that there were so many different kinds of butterflies?
+   [236] 0xA7B50A844FCCC8AE: It's Insect Appreciation Week at {OpTarget} and the head of the science department has decided to hold a butterfly scavenger hunt for the students. Any child that can find all the required species and bring them to the school will get a cash reward!
+   [237] 0x5E6A42A886B31C23: Collect the required items and turn them in at {OpTarget}
+   [238] 0x90CB55A8A2C89AB1: Scavenger Hunt: Butterfly Bonanza
+   [239] 0x3D8D3DBBDB687807: Nicely done! Learning about bugs is a lot more fun (and profitable) than expected!
+   [23A] 0x1744B949571FCA25: The hip, young science teacher at {OpTarget} has decided to make learning more fun by holding a scavenger hunt. All students are being challenged to find specific beetles from around town and return them to the school. Anyone that completes the challenge will receive a reward!
+   [23B] 0x6CBE7AC5E805633E: Collect the required items and turn them in at {OpTarget}
+   [23C] 0x7F06CFC5F2A66DE0: Scavenger Hunt: Beetle Quest
+   [23D] 0x8DBE444C181A6F38: Those ingredients look perfect! You have an eye for great produce! 
+   [23E] 0xFDFA3CB9110D122C: The head chef at {OpTarget} is looking to nuture young culinary fans by asking kids find some ingredients around town. Any child that finishes this scavenger hunt will receive a reward!  
+   [23F] 0xC3F2C8B795DFE0E5: Collect the required items and turn them in at {OpTarget}
+   [240] 0xD63A1BB7A07F3403: Scavenger Hunt: Plump Plantables
+   [241] 0xC26808BE372C6CFB: Attend Art-a-thon
+   [242] 0x809A1CF84C294A90: Attend Audition
+   [243] 0x82AE9E8D14A34BE7: Attend Ballet Recital
+   [244] 0x23215AEA3472D48F: Debate for Presidency
+   [245] 0xE5A18CFB2F6DBEA1: Give Monologue
+   [246] 0xC5240EF6FB726B0D: Play for Guitar Club
+   [247] 0x4C2D3E3FE1A0FFDD: Write Articles
+   [248] 0x111FFA4D8D993D1E: Go to Scouting Event 
+   [249] 0x7B07249C0B139F01: Attend Badging Ceremony
+   [24A] 0xFA62877F73019E20: Build Bridge
+   [24B] 0x6539EB89FABC06C5: Attend Sporting Event
+   [24C] 0x12B5661C147FB197: Attend After School Reward Ceremony
+   [24D] 0x1BDFCF1076FE4D19: Turn In Items
+   [24E] 0x479A0453CAA1A2D8: The Sims™ 3 Generations Install
+   [24F] 0x2647FD7D9184F813: The Sims™ 3 Generations Installer
+   [250] 0x9B2F0E6E1AE4AA60: Print
+   [251] 0x5599BD8760867EF6: Do you want to completely remove the selected application and all of its features?
+   [252] 0x3F30458679F93337: ESC
+   [253] 0x83D62FB6597443F4: Exit
+   [254] 0x6386753995FA8CA8: S
+   [255] 0x2857B076C3A49702: W
+   [256] 0xCFA2B3CE5D70DBBC: A
+   [257] 0x6225E5C7B3CBA33B: Movement Keys
+   [258] 0x6B7FE155A46A16FB: D
+   [259] 0x084C82BCDA917813: C
+   [25A] 0xC93B3E65D683BB81: Start/Stop Recording
+   [25B] 0x3FC7B28B994B7889: Planning Dinosaur Rampage...
+   [25C] 0xABCCEC357B3DD0FB: Unrolling Sleeping Bags...
+   [25D] 0xABCCEC357B3DD0FA: Stacking Bunk Beds...
+   [25E] 0xABCCEC357B3DD0F9: Timing Mood Swings...
+   [25F] 0x3FC7B28B994B788A: Concocting Ghost Stories...
+   [260] 0x3FC7B28B994B788B: Balancing Seesaws...
+   [261] 0x3FC7B28B994B788C: Whittling Canes...
+   [262] 0x3FC7B28B994B788D: Catalyzing Chemicals...
+   [263] 0x3FC7B28B994B788E: Besmirching Reputations...
+   [264] 0x3FC7B28B994B788F: Remembering the Good Old Days...
+   [265] 0x3FC7B28B994B7880: Capturing Family Moments...
+   [266] 0x3FC7B28B994B7881: Sparking Imaginations...
+   [267] 0x384FFA55800BC996: We are unable to verify that your disc is a valid copy of The Sims 3 Generations. Please contact customer service.
+   [268] 0x634D5F52DE108BAA: No game disc found! Please insert The Sims 3 Generations game disc before proceeding.
+   [269] 0x6A60CF9972514BAD: A Midlife Crisis might seem like a bad thing, but fulfilling your Sim's Midlife Crisis wishes grants extra lifetime happiness points!
+   [26A] 0x13CC6EBD402396C7: Rebellious Children and Teens have a better chance of not being caught by the police when out after curfew or when pranking neighbors around town!
+   [26B] 0x13CC6EBD402396C6: When you get engaged, don't forget to throw yourself a bachelor or bachelorette party! You never know what your Sims' friends might do when they let loose...or who they will invite!
+   [26C] 0x13CC6EBD402396C5: You can share your Sims' memories online, so your friends can see what kind of mischief your Sims are up to!
+   [26D] 0x13CC6EBD402396C4: Teens can pull Crank Calls on their friends right from their cell phones.
+   [26E] 0x13CC6EBD402396C3: Sims around town take notice of your love life, and any romantic interactions done in public are fair game in the local gossip circle. Be discrete about any questionable relationships!
+   [26F] 0x13CC6EBD402396C2: Kids (and kids at heart) can slide down the banister of a spiral staircase for some fun!
+   [270] 0x13CC6EBD402396C1: Teen Sims who dabble with the Chemistry Lab Station can make stink juices for a particularly nasty prank!
+   [271] 0x13CC6EBD402396C0: Sims adept in the Logic Skill can Mix Potions created on the Chemistry Lab Station into an innocent looking drink. This Mysterious Drink looks like a glass of water, but causes any Sim who drinks it to undergo the same effects as the mixed in Potion.
+   [272] 0x13CC6EBD402396CF: Elder Sims love spending hours getting together and reminiscing about times gone by.
+   [273] 0x13CC6EBD402396CE: Doing chores around the house like cleaning dishes, taking out the trash, or even brushing your teeth are sure fire ways for your Child and Teen Sims to show an adult that they're sorry after they've been punished.
+   [274] 0x6A60CF9972514BAE: Elder Sims with grandchildren delight in telling the world how great their grandkids are.
+   [275] 0x13CC6FBD4023989A: Feeling rebellious? Teen Sims can pull pranks around town. Try throwing some eggs at a house!
+   [276] 0x13CC6FBD4023989B: Loft beds are a great way to save space in a small house. You can place a wide variety of objects underneath them!
+   [277] 0x13CC6FBD40239898: Got a bunch of kids and not a whole lot of room for them? Try investing in a bunk bed to save space!
+   [278] 0x6A60CF9972514BAF: Read a skill book to sleepy Child Sims and they'll learn something while they fall asleep.
+   [279] 0x6A60CF9972514BA8: The Motive Mobile lifetime reward is a great way to travel around town and keep your Sim's motives high in the process!
+   [27A] 0x6A60CF9972514BA9: A sleeping Child or Teen has many dreams... Use the Dream About interaction on them when they are sleeping to select what topic they dream about. Hopefully their good dreams won't turn into nightmares!
+   [27B] 0x6A60CF9972514BAA: Teenage Sims can throw Teen Parties while their parents are out of town! Just make sure to keep things on the down-low... you wouldn't want a pesky neighbor to call the cops!
+   [27C] 0x6A60CF9972514BAB: Sims with lots of friends have a better chance of becoming the Prom King or Queen.
+   [27D] 0x6A60CF9972514BA4: A regular waxing down at the local Day Spa is highly recommended for any Sims covered in body hair.
+   [27E] 0x6A60CF9972514BA5: Movie Maker Mode can be accessed with debug cheats enabled. This will give you a whole suite of powerful new controls for making movies inside of The Sims 3!
+   [27F] 0xE90ABE5F4158CE4A: ©2011 Electronic Arts Inc.
+   [280] 0xC678A8A7E00A9BC4: Generations
+   [281] 0x81FC3896B3ED4D7D: The Sims™ 3 Generations Team
+   [282] 0xF5118B376E39E6EC: Recording courtesy of Island Def Jam under license from Universal Music Enterprises
+   [283] 0x869041D2A7077930: Performed by Airborne Toxic Event
+   [284] 0xF3C161A622362FCE: Published by Primary Wave Airborne o/b/o itself and as administrator for The Airborne Toxic Event Publishing Partnership (ASCAP)
+   [285] 0x3016DB2EC680C739: Written by Mikel Jollett
+   [286] 0x19386A8CC418310E: Recording courtesy of Town Records
+   [287] 0xDE3175D3AB033572: Performed by Stevie Q
+   [288] 0x6E0DD52E2EB64D90: Published by Saraspe Publishing
+   [289] 0x7DD22A62BB5A68B7: Written by Stephen Quessenberry
+   [28A] 0x56BD87E1B93FA0A3: Recording courtesy of Island Def Jam under license from Universal Music Enterprises
+   [28B] 0x9525657E10CE13A9: Performed by Black Cards
+   [28C] 0xB060033DFB2F2B07: Published by Sony/ATV Music Publishing, EMI April Music, Inc. o/b/o itself and Mayday Malone (ASCAP), EMI Blackwood Music, Inc. o/b/o itself and Reptillian Music (BMI), Songs Music Publishing LLC d/b/a Mighty Seven Songs Publishing o/b/o Ram Island Songs (ASCAP), Lucky Human Crew Music (ASCAP) and Kiss Me If You Can Music (BMI)
+   [28D] 0x9C8E3C3136D26F10: Written by Pete Wentz, Sam Hollander, Dave Katz, Grant Michaels and Bebe Rexha
+   [28E] 0xC95141570BFD6E9E: Recording courtesy of Atlantic Recording Corp. by arrangement with Warner Music Group Video Game Licensing
+   [28F] 0x7514829CA8CD7642: Performed by Portugal. The Man
+   [290] 0xBDE536260AC74120: Published by Approaching Airballoons, Inc. (ASCAP)
+   [291] 0x9CF568BC33AD23E7: Written by John Baldwin Gourley
+   [292] 0xF330D946C88A9DA9: Recording courtesy of Atlantic Recording Corp. by arrangement with Warner Music Group Video Game Licensing
+   [293] 0x83191D45CC9FA507: Performed by Circa Survive
+   [294] 0x735BAB0D34D0313D: Published by Circa Survive Publishing
+   [295] 0x425600ED71C227D2: Written by Anthony Green, Brendan Ekstrom, Colin Frangicetto, Nick Beard and Steve Clifford
+   [296] 0xD732BFD8DC3736B6: Recording courtesy of Universal Records under license from Universal Music Enterprises
+   [297] 0x227770254B3C598A: Performed by He Is We
+   [298] 0x1496181C40C9A398: Copyright Control
+   [299] 0xAEB033566AF1462F: Written by Rachel Taylor and Trevor Kelly
+   [29A] 0x79E9782138CC748F: Recording courtesy of Caitlin Gorfaine and Jacob Coco
+   [29B] 0x51D894DCCAB45E5D: Performed by Caitlin Hart
+   [29C] 0xB15EE5B146FDBFEB: Copyright Control
+   [29D] 0x16DA01CF5070A14C: Written by Caitlin Gorfaine and Jacob Coco
+   [29E] 0x3C1A36B95FE7F3A1: Recording courtesy of Mercury Records under license from Universal Music Enterprises
+   [29F] 0x99E48D45D63B0F2F: Performed by Parachute
+   [2A0] 0x82147083228F20D5: Published by How It Should Be Music/Warner-Tamerlane (BMI)
+   [2A1] 0x5E6544567E60613A: Written by William Charles Anderson
+   [2A2] 0x5FE682AC495F0368: Recording courtesy of Interscope Records under license from Universal Music Enterprises
+   [2A3] 0xEF8B525F962D5764: Performed by Jimmy Eat World
+   [2A4] 0x8D26818572420AD2: Published by Turkey On Rye Music admin. by Kobalt Music Publishing America, Inc. (ASCAP)
+   [2A5] 0xBB015F4463627387: Simlish vocals recorded by James Atkins using the original recording
+   [2A6] 0xBADD4D2952B7FD85: Written by James Atkins, Richard Burch, Zachary Lind and Thomas Linten
+   [2A7] 0x29074049ECDF53EA: Recording courtesy of Interscope Records under license from Universal Music Enterprises
+   [2A8] 0x1E7AD7B8AE64F4F6: Performed by All Time Low
+   [2A9] 0xC01BDCEAD6E43864: Published by Songs of Universal, Inc./ All Time Low Music (BMI)/EMI April Music Inc./Cletis Jones (ASCAP)/WB Music Corp/Charles Comeau High-Maintenance Music /Pierre Bouvier Wet-Wheelie Music (ASCAP)
+   [2AA] 0xFB08BDFBEECDEA63: Written by Alex Gaskarth, Rian Dawson, Jack Barakat, Zack Merrick, Pierre Bouvier, Charles Comeau and Matt Squire
+   [2AB] 0xB15DA8BE6D3EC9A3: Written and performed by SolidState Deluxe
+   [2AC] 0x619067C5D95E2C84: Performed by Stevie Q
+   [2AD] 0x90F47916FA26C80A: Written by Stephen Quessenberry
+   [2AE] 0xB4AC428B638E18F2: Recording courtesy of Town Records
+   [2AF] 0x12468141B617FCA5: Published by Saraspe Publishing
+---

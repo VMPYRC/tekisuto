@@ -1,0 +1,115 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x6E) ---
+   [00] 0x3598BB305716C53F: The Sims™ 3 Movie Stuff
+   [01] 0xC511514E6A366973: The Sims™ 3 Movie Stuff Install
+   [02] 0x37769DFFEDA44524: The Sims™ 3 Movie Stuff Installer
+   [03] 0xA16C72B1DA89B8D7: The All-in-One Bathroom has been reinvented for life in the unauthentic Old West! All the bathroom hijinks you've come to know and love, but now with a rustic finish.
+   [04] 0x57182CF1C29F0F2C: Simantha "Saloon Sal" Simmons was made famous by such films as "Where's Bella?" and "The Good, The Bad, and The Social Bunny." This bar is an exact replica of the one used in "The Llama Whisperer," which many consider to be the high point of Sal's career.
+   [05] 0x4088A0C43FB7C668: Saloon Sal liked to lounge on set between takes, and this bar stool was her favorite seat during the production of "A Fistful of Simoleons."
+   [06] 0x8793A005762EB1EB: The stars are out, the sun has set, and you've worn yourself out with a day spent riding the range…enjoy a good night's rest with the Sweet Sleep Cowgirl Bed.
+   [07] 0xDA7C9909E276672E: Eternity lasts forever, so make sure you spend your days sleeping comfortably on a slab of solid rock.
+   [08] 0x914ABE79069FBA7F: Crafted with tender loving care by six of Spiderella's eight hands, this not-so-sturdy bookshelf is made of wood from the mountains surrounding Moonlight Falls. Perfect for living rooms, dining rooms, kids' rooms, and crypts, this Spooky Bookshelf is sure to darken any living space.
+   [09] 0xBBFD1F334ED26E8C: Whether you are racing towards a crime, or away from one, the Sim-Mobile is the vehicle for stylish, high tech Sims! Fully equipped and guaranteed to be one of a kind, this custom racer is sure to be the talk of the town!
+   [0A] 0x30617CF50BECA237: Spooky, yet whimsical, this chair looks more comfortable than it is. Style over substance?
+   [0B] 0x5A78EDAB010D34F2: Perfect for your next un-birthday, tea party, or any mad gathering, this marvelous chair provides comfort and quality with a practical design.
+   [0C] 0x19061346BA1E2621: Lord over the city in a throne fit for a hero...or a villain! Perfect for plotting and planning, this chair is sure to inspire confidence in your followers and fear in your foes!
+   [0D] 0x713131BB39882CD5: Slightly uncomfortable, but undeniably antiquated, this rocking chair is designed to bring some old time ambiance to your living room, bed room, or nursery.
+   [0E] 0x20CF895C22FCD14B: Spiderella prides herself on crafting unique, one of kind creations by hand. These curtains are no different. Each one has been lovingly hand woven and then ripped stylishly to shreds.
+   [0F] 0x8943F3C8CB79D896: Looking for a fashionable way to guard your family tomb? Need a new door for that drafty castle? Then look no further! The Crypt Lord's Portal is sturdy, classy, and guaranteed to keep pesky rays of sunlight at bay.
+   [10] 0x00F7A521FB522181: This door evokes the majesty of the spider's web…and the creepy feeling of a spider scuttling along your bare arm.
+   [11] 0xC51DF08401C9D17C: Styled after the saloon doors of old, this authentic replica is hand carved and sanded to perfection.
+   [12] 0x193F2C8B67983E42: It's a laser door! Need I say more? (Lasers! Pew! Pew!)
+   [13] 0x908FC89841D36377: When is a dresser not a dresser? When it is designed for a hero or villain, of course! Fully customizable with a variety of options, you are sure to find the features you need to optimize your superior lifestyle.
+   [14] 0x806128B46FE906D6: The dance halls of the Old West featured well stocked bars with polished mirrors. Western Ways Furniture Inc. has tried to invoke that same feeling with this classic dresser design.
+   [15] 0x211510F385CDE446: Be you a hero or a villain, this wardrobe is designed to be bigger on the inside so that it can hold all of your cloaks, capes, and masks!
+   [16] 0x4E85AD7B49E8C912: Whenever I am near this fireplace I get the feeling that someone is watching me…
+   [17] 0x257BB08838394E5C: This Super Ray is for decoration only! It has a built in light bulb to illuminate your lair. Modifications, obviously, are a must.
+   [18] 0x5C3BC15F9BE02E88: The active hero (or villain) needs a trophy case to show off choice pieces. This lovely display is lit, air tight, and made of scratch resistant, diamond infused glass.
+   [19] 0x952449D3935975A4: Nothing says cozy abode like a trio of creepy arms holding lights! Nautical, mythical, and all around spooky, this unique fixture is sure to scare and delight your guests!
+   [1A] 0x5495115D3685A588: This loveseat will caress you…literally. The claws look ornamental, but one never knows…
+   [1B] 0xC606A866ABCBE808: Stylish, sleek, and fast too, this isn't just any motorcycle! With a custom design and a space age engine, the Vigilante Supercycle promises that you will be the first to arrive (or leave!) when danger presents itself.
+   [1C] 0x18B3721B2396F708: These scenes from the Old West were painted by the talented D. Dreamer of Lucky Palms.
+   [1D] 0xF88CE66B70E58DB6: Set the scene for your next blockbuster with this high quality backdrop. Perfect for films, commercials, plays, and plain make believe, these whimsical images are sure to please.
+   [1E] 0xEBE72D19773AA388: What is in these jars? Maybe I don't want to know…
+   [1F] 0x5447A1F8F48EBD7B: Maxis Man is a master of disguise…and robotics! This advanced metal hand is a key element to his most recent top secret project.
+   [20] 0xDA4A2654C2786711: Every hero or villain needs a place to display proof of their greatest triumphs. Good and evil agree, a vanity wall is a must for the aspiring crusader.
+   [21] 0x46A6E7A0BFDD5689: News in the Old West happened the old fashioned way - on paper! Newspapers, periodicals, and flyers were how folks found out what was going on outside of their own backyards.
+   [22] 0xE2F5D40C1D5B7515: A classy sign designed for an Old West saloon-style establishment.
+   [23] 0xA801090D77A072BB: Get squeaky clean the fun way with this shower designed to look like a phone booth! Your secret identity is safe, and we'll even throw in a towel for free!
+   [24] 0x8E04B4E5D1F16B04: Gloom and doom are the theme of Spiderella's newest creation, a coffee table worthy of a Lord or Lady of Darkness.
+   [25] 0x8884894D0E91474A: When you're busy saving the city it can be hard to find time to eat between raids. This handy crime map will keep you in the loop about what is happening while you snack on grilled cheese sandwiches.
+   [26] 0x8E44FAB399BCBF9F: When gathering the minions for a big speech or celebratory feast, you'll need a table that is both large and imposing. The Plots and Plans Dining Table is perfect for the occasion.
+   [27] 0x71338E879E62EBF0: This lovely little table is perfect for a saloon or a home with a western vibe. Sturdy, stout, and made of real wood, it is sure to be treasured and passed down through the generations.
+   [28] 0x5854E42CB6454EC6: A replica of a table once owned by the great Lady Medusa herself, this hand carved end table features several serpents who seem to gaze at you with very lifelike eyes…
+   [29] 0x857B0375D8B2E452: All-in-One Outhouse
+   [2A] 0xCC8CE095D5E2E68D: Saloon Sal's Bar
+   [2B] 0xF2EC37F436C0E001: Saloon Sal's Bar Stool
+   [2C] 0xB69A1634A1A0EC2E: Sweet Sleep Cowgirl Bed
+   [2D] 0x0BB85B0937D1BEEB: The Final Resting Place
+   [2E] 0xD4073485CB4279C2: Spiderella's Spooky Bookshelf
+   [2F] 0xDEAD0C55C2A28D49: Sim-Mobile
+   [30] 0x95E7A6D896321D08: Curious Curls Dining Chair
+   [31] 0x07887B42B7F23B8D: Marvelous Madness Dining Chair
+   [32] 0xB52E4E5FFE4CB0D6: The Throne of Good (And Evil!)
+   [33] 0x0BAB056765D59856: Rustic Rocker
+   [34] 0x2F6C7124C74A1F2A: Spiderella's Spooky Curtain
+   [35] 0x026DFDD9FE917D9D: Crypt Lord's Portal
+   [36] 0xDD214500F9905FC0: Webbing Way
+   [37] 0xD4493FD485FC610F: Horseshoe Saloon Door
+   [38] 0xC86D506774D26A2D: Laser Door
+   [39] 0x352B1E9D792B6C5A: Superior Dresser Console
+   [3A] 0x5DEB96DE4CF8E1C3: Dance Hall Dresser
+   [3B] 0xB635857D52ECDB39: The Wardrobe of Wonders
+   [3C] 0xAE6E45067E38484F: Watching Me Watching You Fireplace
+   [3D] 0x61A68A143555D091: Super Ray
+   [3E] 0x7483C169421E0115: Super Duper Costume Case
+   [3F] 0x29D3FDA99981DC81: Atypical Trinity
+   [40] 0xB6A460AA7FDB0997: Clever Claws Loveseat
+   [41] 0x2CE2E8963F978871: Vigilante Supercycle
+   [42] 0x2221D8D3461FDB91: Western Ways
+   [43] 0xE6E55BA5498324D1: Movie Backdrop
+   [44] 0xAD774A56A5024EC1: The Doctor's Spare Parts
+   [45] 0xB0FAA3B5DFF6BE42: Maxis Man's Metal Hand
+   [46] 0xF49FB59D06C0EFDC: My First Vanity Wall
+   [47] 0x3FFF14B267748036: Western Weekly
+   [48] 0x21FA542610759996: Saloon Sign
+   [49] 0x8EF0BD8EFB7B52FA: Your Secret is Safe Shower
+   [4A] 0x3278A0BCF5FC24F3: Spiderella's Coffee Table of Gloom
+   [4B] 0x8CD3E26FF7A4AAAD: Crime Map & Table Combo
+   [4C] 0xB6F0DBBFA159CC48: Plots and Plans Dining Table
+   [4D] 0x3AEBA95D460ABDE9: Saloon Sal's Table
+   [4E] 0x9EA9E8EA410FCEB5: Serpent's Kiss End Table
+   [4F] 0xB8C1894FE64D95AD: We are unable to verify that your disc is a  valid copy of The Sims™ 3 Movie Stuff. Please contact customer service.
+   [50] 0x9250478223B53DA1: No game disc found! Please insert The Sims™ 3 Movie Stuff game disc before proceeding.
+   [51] 0x3316AB32390D867B: © 2013 Electronic Arts Inc.
+   [52] 0xC5B7ED7E29B74410: Adjusting Lighting...
+   [53] 0xAECC9D60E268A700: Calibrating Cameras...
+   [54] 0xC5B7ED7E29B74413: Hailing Heroes...
+   [55] 0xC5B7ED7E29B74412: Wandering West...
+   [56] 0xC5B7ED7E29B74415: Spinning Webs...
+   [57] 0xC5B7ED7E29B74414: Reeling Film...
+   [58] 0xC5B7ED7E29B74417: Vilifying Villains...
+   [59] 0xC5B7ED7E29B74416: Spooking Sims...
+   [5A] 0xC5B7ED7E29B74419: Sound Checking Splines…
+   [5B] 0xC5B7ED7E29B74418: Painting Backdrops...
+   [5C] 0x6ED4306C0CD7276C: Additional Music
+   [5D] 0xF9BC1F3F10AA89F5: Localization Testing Project Manager
+   [5E] 0xF8A29A86E46C3B09: Music
+   [5F] 0xC93996AD4E9B4A54: Written and Performed by Aili Chu
+   [60] 0x9EC6DA46651971D9: NATC QA Compliance Project Lead
+   [61] 0xCA0323F4EB3A8655: NATC Sr. QA Compliance Test Lead
+   [62] 0x6C56ED9F4CAB849E: QA Compliance Analysts
+   [63] 0x05B6A7B57191F248: The Sims™ 3 Movie Stuff Team
+   [64] 0x638E02F86B78CAA2: Lead Object Modelers
+   [65] 0x721E21FE0474C2AA: Maxis
+   [66] 0xD317EE12DD1722E3: QA Analyst
+   [67] 0x3B84CF72D7814861: QA Project Manager
+   [68] 0x87197FDD2C9CDF27: Sr. QA Test Lead
+   [69] 0xF60E4F0F6E48E380: Senior Vice President, COO
+   [6A] 0xDECE17B3403B851D: Senior Vice President
+   [6B] 0x67FF0576E2AD6E6E: Senior Vice President, GM, The Sims
+   [6C] 0x4D005152C7A44185: Tech Artist
+   [6D] 0x6F6D132AED42B6A3: Vice President, COO, The Sims
+---

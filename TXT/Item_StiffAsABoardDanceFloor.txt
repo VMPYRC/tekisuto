@@ -1,0 +1,34 @@
+Unknown1: 0x0000
+Unknown2: 0x0000
+Unknown3: 0x00000000
+--- (0x1D) ---
+   [00] 0x55A815F58301EA41: Stiff as a Board Dance Floor
+   [01] 0x50AAF7D4EECDBA96: Tired of dancing on those soft, fluffy dance floors? As its name implies, the Stiff as a Board Dance Floor combines all of your favorite dances with a slick, unforgiving surface for you to fall on. 
+   [02] 0x266A04EB5493DBA0: Smustle Dance
+   [03] 0xA6EAD43611CDC344: Mascot Dance
+   [04] 0xC955ABB47947DAE0: Chicken Dance
+   [05] 0x596720743A751E5B: Wait for next dance
+   [06] 0xB40752714E1CE48E: Dance with a Partner
+   [07] 0xB018F4BCBE9D43A3: Ballet Dance
+   [08] 0xEE5024676053316A: No partners available
+   [09] 0x751995AC5CBEE0B7: Watch
+   [0A] 0x191336B9B52A9D56: Join
+   [0B] 0x5BCCE1978BB9A759: Basic Dancing Skill: Unskilled
+   [0C] 0x5BCCE1978BB9A758: Basic Dancing Skill: Beginner
+   [0D] 0x5BCCE1978BB9A75B: Basic Dancing Skill: Intermediate
+   [0E] 0x5BCCE1978BB9A75A: Basic Dancing Skill: Advanced
+   [0F] 0x1F8AE4A62EFBEEE8: Club Dance Skill: Unskilled
+   [10] 0x1F8AE4A62EFBEEE9: Club Dance Skill: Beginner
+   [11] 0x1F8AE4A62EFBEEEA: Club Dance Skill: Intermediate
+   [12] 0x1F8AE4A62EFBEEEB: Club Dance Skill: Advanced
+   [13] 0x8B137401A1DE7F14: Childhood Ballet Ability: Unskilled
+   [14] 0x8B137401A1DE7F15: Childhood Ballet Ability: Beginner
+   [15] 0x8B137401A1DE7F16: Childhood Ballet Ability: Intermediate
+   [16] 0x8B137401A1DE7F17: Childhood Ballet Ability: Advanced
+   [17] 0xACCAB4EF0D222D35: Smustles Danced: {0.Number}
+   [18] 0x12F710149FCC4A75: Chicken Dances: {0.Number}
+   [19] 0x34C5383D692E4BE1: Mascot Dances: {0.Number}
+   [1A] 0xDCA3218FB2418585: Dance Barre Time: {0.Minutes}
+   [1B] 0xDEA7CEA864B87FFD: Dancing
+   [1C] 0x60706085149EDAA9: So many dances, so little time. Whether you're performing a ballet or dancing the The Smustle, {0.SimFirstName} will be dazzling on the dance floor before you know it!
+---
