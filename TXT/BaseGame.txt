@@ -40523,7 +40523,7 @@ Unknown3: 0x00000000
    [09E46] 0xC9EB3F14C4F9C9A9: There is a note on the wall. In shaky handwriting it says "Please, I am the curator of the museum. I was re-arranging a sarcophagus in this storage area when the door unexpectedly shut behind me. I can't escape, and I don't think I ever will. If you see this, please put my remains in the family chest near the rear of the cemetery so that I can rest alongside my wife."
    [09E47] 0xD03440C1AF5F083C: ~ Inspection Certificate ~ This cellar has been certified safe and structurally stable. Next inspection required: August, 1872.
    [09E48] 0x7062441412E76435: The blue spirit lights will guide you to safety. Follow their beckoning!
-   [09E49] 0xBF202DB8314962C6: A strange breeze blows through the chamber. Barely audible above the sound of the moving air seems to be a voice wispering..."The three, greatest possessions of the Pharaohs. Stolen and never returned. They glimmer and sparkle with the radiance of life."
+   [09E49] 0xBF202DB8314962C6: A strange breeze blows through the chamber. Barely audible above the sound of the moving air seems to be a voice whispering... "The three greatest possessions of the Pharaohs. Stolen and never returned. They glimmer and sparkle with the radiance of life."
    [09E4A] 0xADFA3AD9231D7B47: The violet path is the chosen path when air turns to water. Do not stray into pools of darkness!
    [09E4B] 0xCC90BC7846115F71: Wow... it looks like nobody has set foot here for a millenia!
    [09E4C] 0xCC90BC7846115F72: What a mysterious place... though nobody has been here for centuries, it feels like someone was just here. Eerie!
