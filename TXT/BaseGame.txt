@@ -45185,7 +45185,7 @@ Unknown3: 0x00000000
    [0B07C] 0x7084C4123A44E7C7: Vaccinate
    [0B07D] 0x9E9500ABA09B7473: Whine About Life
    [0B07E] 0x1195620F7C66484A: Doing Laundy
-   [0B07F] 0xEB0D728F785F7715: Enviromentally Conscious
+   [0B07F] 0xEB0D728F785F7715: Environmentally Conscious
    [0B080] 0xDCA2B8735F86997A: Thank For Repair
    [0B081] 0x468E4129F8AF0E8A: Give Experimental Treatment
    [0B082] 0x12021F97BA0DC29F: Give Follow Up
@@ -54875,8 +54875,8 @@ Unknown3: 0x00000000
    [0D656] 0xC9568853815E4C73: Adopt a Pet from Shelter
    [0D657] 0x59446021EF648287: Adopt a Pet from Shelter
    [0D658] 0xB55C68EC251EECB7: Place Pet for Adoption
-   [0D659] 0xD02CE9BCCE994FC8: Check Neigborhood for Pets to Adopt
-   [0D65A] 0x960679E7B6284D55: Check Neigborhood for Pets to Adopt
+   [0D659] 0xD02CE9BCCE994FC8: Check Neighborhood for Pets to Adopt
+   [0D65A] 0x960679E7B6284D55: Check Neighborhood for Pets to Adopt
    [0D65B] 0x259955EA95711FA0: Command to Guard House
    [0D65C] 0xCC9B665D7B40B409: Be Commanded to Guard House
    [0D65D] 0xFFD55486732A93AF: Command to Guard...
@@ -59314,7 +59314,7 @@ Unknown3: 0x00000000
    [0E7AD] 0x3CDB0C552500B914: Let Horse Lick Saltlick
    [0E7AE] 0xA22ED9CF312119D2: Sniff
    [0E7AF] 0xF837E23F2ABE8D25: Adopt a Pet from Shelter
-   [0E7B0] 0x006DB9013FF3BAF6: Check Neigborhood for Pets to Adopt
+   [0E7B0] 0x006DB9013FF3BAF6: Check Neighborhood for Pets to Adopt
    [0E7B1] 0x6D99D69D7059F90C: Place Pet for Adoption
    [0E7B2] 0x77704CE2132FD7E0: Sure, I'll be right over with {0.SimFirstName}
    [0E7B3] 0x8A5AB4CA153CEC89: Sorry, I don't think {0.SimFirstName} is up for coming over right now.
@@ -78030,7 +78030,7 @@ Unknown3: 0x00000000
    [130C9] 0xD2A67A16CB7F426D: The Kraken, a legendary creature from the deep sea, has an appetite for nautical crafts that is unsatiable. Looks like it was hungry for yours!
    [130CA] 0x0BED17CEA4538978: Attacked by the Kraken!
    [130CB] 0x39EC5942F9DB31B4: The Kraken is real! A close call with the legendary Kraken is an encounter {2.SimFirstName} will never forget.
-   [130CC] 0x535BF8F4AA29497F: Rescuing a sim from drowning may be just one of the many responsibilites of a Lifeguard, but it is certainly the most memorable one. 
+   [130CC] 0x535BF8F4AA29497F: Rescuing a Sim from drowning may be just one of the many responsibilities of a Lifeguard, but it is certainly the most memorable one.
    [130CD] 0x74F6491754C3D3A6: Rescued {0.Number} Sims From Drowning
    [130CE] 0x2E5C0001F66B9B46: {2.SimFirstName} has the thanks of the entire community for having rescued {0.Number} Sims in {MA.his}{FA.her} career. {MA.He}{FA.She} will never forget this moment!
    [130CF] 0x2F586419A5BAE624: You're swimming in cash!
