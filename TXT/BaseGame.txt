@@ -5737,7 +5737,7 @@ Unknown3: 0x00000000
    [01664] 0xA1EB6B582AE6B896: Tell {1.SimFirstName} About New Job
    [01665] 0x73009B821AD791CB: Talk About New Job
    [01666] 0x045D2C4C083B6BD1: Tell {1.SimFirstName} About New Job
-   [01667] 0xAE0117F4E2A61AAE: Dating is a delicate dance that can go either way based on unforseen events and unknown moods. Your Sim hopes to have a great date. 
+   [01667] 0xAE0117F4E2A61AAE: Dating is a delicate dance that can go either way based on unforeseen events and unknown moods. Your Sim hopes to have a great date.
    [01668] 0x169CA0D7B1752871: Have a Great Date with {1.SimFirstName}
    [01669] 0x921EAE65340811BA: Have a Great Date
    [0166A] 0xE70B1E1E3421FDAA: Have a Great Date with {1.SimFirstName}
@@ -15214,8 +15214,8 @@ Unknown3: 0x00000000
    [03B69] 0xB22341CE798B9ADE: A Pig Too Far
    [03B6A] 0x02B8794D08C4E1CB: Read Science book.
    [03B6B] 0x0FF4267DD737E1F2: Read Science book.
-   [03B6C] 0x309F9AAC873A8A19: The skills and knowledge you gained from doing your reccomended reading is very apparent to your co-workers. So much that it has brought you and your boss closer together and has also increased your job performance a bit.
-   [03B6D] 0x3102398FD9894D6C: The skills and knowledge you gained from doing your reccomended reading is very apparent to your co-workers. So much that it has brought you and your boss closer together and has also increased your job performance a bit.
+   [03B6C] 0x309F9AAC873A8A19: The skills and knowledge you gained from doing your recommended reading is very apparent to your co-workers. So much that it has brought you and your boss closer together and has also increased your job performance a bit.
+   [03B6D] 0x3102398FD9894D6C: The skills and knowledge you gained from doing your recommended reading is very apparent to your co-workers. So much that it has brought you and your boss closer together and has also increased your job performance a bit.
    [03B6E] 0x78A845571FFCF0F7: Some fish are best left in the water, not just because they can be mean or overly clingy, but because it is “best” if other Sims and fish experience these creatures first hand. Your boss thinks you’ll really benefit from reading “Goldfish, Piranha, and Other Friendly Creatures.” Doing so is sure to improve your job performance and relationship with your boss.
    [03B6F] 0x9CA6412B2EDED9A6: Some fish are best left in the water, not just because they can be mean or overly clingy, but because it is “best” if other Sims and fish experience these creatures first hand. Your boss thinks you’ll really benefit from reading “Goldfish, Piranha, and Other Friendly Creatures.” Doing so is sure to improve your job performance and relationship with your boss.
    [03B70] 0x82B96017728B687C: Read “Goldfish, Piranha, and Other Friendly Creatures” and return to work to increase your job performance and relationship with your boss.
@@ -20998,7 +20998,7 @@ Unknown3: 0x00000000
    [05201] 0xBD5680CB033E484B: Old Standard
    [05202] 0xD7D4E57180A7C3ED: Change Ringtone
    [05203] 0x3E6B4E1B0E0DB1BC: Staccato Beeps
-   [05204] 0x3E6B4E1B0E0DB1BF: Ecclectic Electric
+   [05204] 0x3E6B4E1B0E0DB1BF: Eclectic Electric
    [05205] 0x3E6B4E1B0E0DB1BE: My First Ringtone
    [05206] 0x3E6B4E1B0E0DB1B9: Piccolo Pipes
    [05207] 0x3E6B4E1B0E0DB1B8: Red Alert
@@ -53734,7 +53734,7 @@ Unknown3: 0x00000000
    [0D1E1] 0xA9DE654BCBEF14A2: Let Another Sim Ride...
    [0D1E2] 0xAE3428AEF107C1A6: Ride
    [0D1E3] 0x0B2A77F6972F9AD1: Destroy
-   [0D1E4] 0xA7DFC6C63008AD67: You can not destory a sandcastle while a Sim is working on it.
+   [0D1E4] 0xA7DFC6C63008AD67: You can not destroy a sandcastle while a Sim is working on it.
    [0D1E5] 0xA2123A5E1150168C: Build {0.String}
    [0D1E6] 0x2F4215B468A5F30B: Play in Sand
    [0D1E7] 0x4343306109B3F3E9: Potential Buried Treasures
