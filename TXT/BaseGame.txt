@@ -797,7 +797,7 @@ Unknown3: 0x00000000
    [00318] 0xEFB4671EA6DACCD3: When legendary toy box maker, Roy Rock, isn’t making toy boxes, he’s usually passed out in a corner somewhere. That’s because toy box making is grueling work. Only a few have the necessary stamina, and Roy Rock is one of them. For now, anyway.
    [00319] 0xB75C358CC26F0313: Are your kids always getting into your toys, err... adult collectibles? Give them their own Toy Pirate Chest to store their booty – and keep yours safe!
    [0031A] 0xDB513A34EB8B6C44: Your favorite little baker will love the toy oven from Rip Co. Goodies come out hot and tasty every time. Comes with a variety of plastic bakeware in sizes from cupcake to mega muffin.
-   [0031B] 0x9E7D5A336A561B90: Babies are nothing but cooing simpletons who are often too easily amused. For example, toddlers love the Baby Brainiac Peg Toybox. It’s like state-of-the-art entertainment to them, probably because they’re too naive to know any better.
+   [0031B] 0x9E7D5A336A561B90: Babies are nothing but cooing simpletons who are often too easily amused. For example, toddlers love the Baby Brainiac Peg Toybox. It's like state-of-the-art entertainment to them, probably because they're too naïve to know any better.
    [0031C] 0xE33BF33EBB76BD36: ****ToyPegBoxShapes
    [0031D] 0xD568449AD24B66A4: Every Wugglesworth Schnuggles Bear is loved and hugged by a sweet innocent child to get that unique feel that only a Wugglesworth Schnuggles Bear has. Filled with stuffing to make every hug special, these bears are an instrumental part of every childhood.
    [0031E] 0xEE231747DE496D8B: While children pound out song after song on the colorful Rip Co. Xylophone, they're building a strong creative foundation that will last a lifetime. Rip Co. Toys provides kids with all the building blocks they need, instead of just wooden ones.
@@ -35450,7 +35450,7 @@ Unknown3: 0x00000000
    [08A75] 0x060D21EFADF29621: In ancient mythology, the dresser of dragons was a giant who would dress a dragon’s wounds after battle. This custom made clothes dresser is an ode to that mythology.
    [08A76] 0x729AEE6674BAEFE8: Handcrafted by the famous furniture maker Neezer Gibbons, this luxurious dresser protects your clothing from humidity, moths and the occasional sandstorm.
    [08A77] 0x5F86B4E37F17818F: DriedFoodDescription
-   [08A78] 0x9886331D9857A7E6: The mighty Horus was able to stride the length of a continent, and with his eyes in your possesion, so can you.
+   [08A78] 0x9886331D9857A7E6: The mighty Horus was able to stride the length of a continent, and with his eyes in your possession, so can you.
    [08A79] 0xF47BE496027ACBA1: Want the prestige and honor of owning a camel, but don't have the required wealth to barter for one? The faux Camel is perfect for you!
    [08A7A] 0x377F91CC85E92460: Do the neighbors ever feel like an invading horde? Protect your territory by erecting this easy to install Great Wall strength fence, minus the hundreds of years of fighting and hard labor!
    [08A7B] 0x3854D5464AAB5DB1: A truly great wall will not only keep the wrong people from getting in, but it will let the right people out too. And hey, if any of the wrong people do get in, you’ll need a quick way to get them back out. Install this gate today!
@@ -35510,7 +35510,7 @@ Unknown3: 0x00000000
    [08AB1] 0xF642EC29F13C49EA: Let’s get this straight from the beginning; this loveseat is not meant for swooning, wooing, or spooning. It is a proper chair, to be used only for appropriate courting. Don’t you dare even think about getting fresh on this chair!
    [08AB2] 0x72EB914872DDA85B: Back when belly dancing was the primary form of evening entertainment, the palace royalty preferred to watch from a comfy cushion upon which to rest their royal rears. The Sultan’s Sofa was so comfortable that despite the clinging, clanging, and swirling sounds, the sofa’s occupants quickly fell asleep during the show. Fall into comfort now, despite the distractions of the day, on this luxurious sofa made for a Sultan!
    [08AB3] 0x3C3DFB43F17FFAEB: Magic gnomes are sly, conniving, and sometimes magical little creatures.
-   [08AB4] 0x9F4FDCA109AE28F7: Sims with this coin in their possesion have a knack for finding a lot more Ancient Coins.
+   [08AB4] 0x9F4FDCA109AE28F7: Sims with this coin in their possession have a knack for finding a lot more Ancient Coins.
    [08AB5] 0x48410A8A31B7AB5A: Metal Bar Description
    [08AB6] 0xEB19225B84E84871: An Egyptian mine to beautify your world.
    [08AB7] 0x771E2841763169D4: moon gate china description needs text
@@ -43895,7 +43895,7 @@ Unknown3: 0x00000000
    [0AB72] 0x210AFCAC517A0435: A particularly bossy Sim tried to correct {0.SimFirstName} several times utilizing their amateur web searching ability, but it turns out medical school is better than the Internet sometimes!
    [0AB73] 0x210AFCAC517A0436: During a break {0.SimFirstName} showed how to properly use the Heimlich Maneuver on a poor employee, but everyone was grateful for the demonstration and laughs.
    [0AB74] 0xD849609AFF3DBD01: A doctor's job is to heal people no matter what sometimes, and its {0.SimFirstName}'s turn to attend the secret "Help Thy Naughty Neighbor" program at the warehouse to help all those clumsy lugs with all of their "accidental" injuries.
-   [0AB75] 0x97D2254E477BC403: One particularly ogrish fellow named Thog had some pretty nasty bruises. He fell down some stairs onto a baseball bat (several times) apparently. {0.SimFirstName} was able to patch him up quickly.
+   [0AB75] 0x97D2254E477BC403: One particularly ogreish fellow named Thog had some pretty nasty bruises. He fell down some stairs onto a baseball bat (several times) apparently. {0.SimFirstName} was able to patch him up quickly.
    [0AB76] 0x97D2254E477BC402: {0.SimFirstName} had to patch up a group of embarrassed thugs for tons of scratches and lost hair. Apparently their raid on the local Wilderness Girl troop didn't go as planned.
    [0AB77] 0x97D2254E477BC400: {0.SimFirstName} just helped a particularly attractive cat burglar after a nasty fall from a recent job. Talk about missed connections!
    [0AB78] 0x46B522477D462F12: Things look mostly okay here. {0.SimFirstName} can headout with a clear conscience.
@@ -44074,7 +44074,7 @@ Unknown3: 0x00000000
    [0AC25] 0x2F12CD8FF95598E2: I had some other stylist color my hair and I just don't like the job they did. The color seems uneven and the highlights bleed. Anyway, do a better job. Thanks.
    [0AC26] 0x18D969C30C4CDFF2: {Variation.3}
    [0AC27] 0xD8309BBEE2C7CA5A: I've had the same hairstyle for a while now and I think it's about time for an update.
-   [0AC28] 0xD8309BBEE2C7CA59: I change my hairstlye frequently to stay current with all the latest trends! Using what you know about style, give me a really great haircut. 
+   [0AC28] 0xD8309BBEE2C7CA59: I change my hairstyle frequently to stay current with all the latest trends! Using what you know about style, give me a really great haircut.
    [0AC29] 0xD8309BBEE2C7CA58: I let my best friend cut my hair, but it doesn't look at all like the reference photo I gave her. Can you give me a haircut that looks like it wasn't free?
    [0AC2A] 0xEF369D4E18388DF0: {Variation.2}
    [0AC2B] 0x2A35006D22CA1CCC: I’ve got this party coming up and I cannot wear the same thing I wore to the last party! You have to help me find a great party outfit on such short notice!
@@ -44323,7 +44323,7 @@ Unknown3: 0x00000000
    [0AD1E] 0x33142ECF31E49E33: There were some hard questions in that last round but {0.SimFirstName} managed to get through them well enough.
    [0AD1F] 0x33142ECF31E49E32: A particularly bossy Sim tried to correct {0.SimFirstName} several times utilizing their amateur web searching ability, but it turns out medical school is better than the Internet sometimes!
    [0AD20] 0x33142ECF31E49E31: During a break {0.SimFirstName} showed how to properly use the Heimlich Maneuver on a poor employee, but everyone was grateful for the demonstration and laughs.
-   [0AD21] 0xD873A397308F26F4: One particularly ogrish fellow named Thog had some pretty nasty bruises. He fell down some stairs onto a baseball bat (several times) apparently. {0.SimFirstName} was able to patch him up quickly.
+   [0AD21] 0xD873A397308F26F4: One particularly ogreish fellow named Thog had some pretty nasty bruises. He fell down some stairs onto a baseball bat (several times) apparently. {0.SimFirstName} was able to patch him up quickly.
    [0AD22] 0xD873A397308F26F5: {0.SimFirstName} had to patch up a group of embarrassed thugs for tons of scratches and lost hair. Apparently their raid on the local Wilderness Girl troop didn't go as planned.
    [0AD23] 0xD873A397308F26F6: {0.SimFirstName} had to patch up a group of embarrassed thugs for tons of scratches and lost hair. Apparently their raid on the local Wilderness Girl troop didn't go as planned.
    [0AD24] 0xA8E6A048E4ED32E7: One of the cogitators almost blew up in a scientist's face, but they managed to get it under control before {0.SimFirstName}'s skills were needed.
@@ -45209,7 +45209,7 @@ Unknown3: 0x00000000
    [0B094] 0x9BE9DD20605E044D: A particularly bossy Sim tried to correct {0.SimFirstName} several times utilizing their amateur web searching ability, but it turns out medical school is better than the Internet sometimes!
    [0B095] 0x9BE9DD20605E044E: During a break {0.SimFirstName} showed how to properly use the Heimlich Maneuver on a poor employee, but everyone was grateful for the demonstration and laughs.
    [0B096] 0x59BF112BFDBAA4D9: A doctor's job is to heal people no matter what sometimes, and its {0.SimFirstName}'s turn to attend the secret "Help Thy Naughty Neighbor" program at the warehouse to help all those clumsy lugs with all of their "accidental" injuries.
-   [0B097] 0xF1B15980B2DCF5CB: One particularly ogrish fellow named Thog had some pretty nasty bruises. He fell down some stairs onto a baseball bat (several times) apparently. {0.SimFirstName} was able to patch him up quickly.
+   [0B097] 0xF1B15980B2DCF5CB: One particularly ogreish fellow named Thog had some pretty nasty bruises. He fell down some stairs onto a baseball bat (several times) apparently. {0.SimFirstName} was able to patch him up quickly.
    [0B098] 0xF1B15980B2DCF5CA: {0.SimFirstName} had to patch up a group of embarrassed thugs for tons of scratches and lost hair. Apparently their raid on the local Wilderness Girl troop didn't go as planned.
    [0B099] 0xF1B15980B2DCF5C8: {0.SimFirstName} just helped a particularly attractive cat burglar after a nasty fall from a recent job. Talk about missed connections!
    [0B09A] 0x03F2AC2978986E3A: Things look mostly okay here. {0.SimFirstName} can headout with a clear conscience.
@@ -60486,9 +60486,9 @@ Unknown3: 0x00000000
    [0EC41] 0x34595016F3ABD528: Upgrade the Water Trough
    [0EC42] 0x1834EA7B90802A9F: Water Trough
    [0EC43] 0x90B3C04499F23C58: Cannot Detonate an object containing a pet.
-   [0EC44] 0x16DFF2E1E5B8FE04: Cross-Country Competitions Won: Beginnner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
+   [0EC44] 0x16DFF2E1E5B8FE04: Cross-Country Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
    [0EC45] 0xBC4237069555A0D0: Perfect Jumps: {0.Number}
-   [0EC46] 0x064CCF869A1B050C: Show Jumping Competitions Won: Beginnner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
+   [0EC46] 0x064CCF869A1B050C: Show Jumping Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
    [0EC47] 0xD2CE0435A9FF28A6: Jumps Attempted: {0.Number}
    [0EC48] 0x6CDBF378FC87FC32: Poor Jumps: {0.Number}
    [0EC49] 0xCFD1DEC39E104C34: Comps.
@@ -60512,9 +60512,9 @@ Unknown3: 0x00000000
    [0EC5B] 0x39DCE83E0532E8D1: Tireless Leaper
    [0EC5C] 0xBB68404D837269C6: {0.SimFirstName} will start at Piano Skill Level {1.Number} due to his early childhood Xylophone practice!
    [0EC5D] 0x558CE2F59C31AC7D: {0.SimFirstName} will start at Piano Skill Level {1.Number} due to her early childhood Xylophone practice!
-   [0EC5E] 0x40F41A53C5D18F84: Cross-Country Competitions Won: Beginnner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
+   [0EC5E] 0x40F41A53C5D18F84: Cross-Country Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
    [0EC5F] 0x2D4985B6F89D04C0: Meters Galloped: {0.Number}
-   [0EC60] 0x09F4F64C5944F484: Racing Competitions Won: Beginnner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
+   [0EC60] 0x09F4F64C5944F484: Racing Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
    [0EC61] 0xC4396F04B87B0E22: Time Spent Training for Racing : {0.Number} Hours
    [0EC62] 0x91324EAFA01F9E5F: Congratulations! {0.SimFirstName} has won enough Equestrian Center competitions to earn the title of Champion Racehorse!\n\nCheck {0.SimFirstName}'s Skill Journal for information about the reward.
    [0EC63] 0x40F6FFD5381AA8AE: Champion Racehorses have won more than {0.Number} Advanced or International Racing Competitions at the Equestrian Center. Their racing fame makes them and their offspring far more valuable to horse buyers and breeders.
@@ -60539,7 +60539,7 @@ Unknown3: 0x00000000
    [0EC76] 0xBC66E94D506D7514: Equestrian Center competitions won per category with this Horse.
    [0EC77] 0xA38E8F9B1FEA8173: Horses
    [0EC78] 0x8A2FDEA7C1741312: Racing : {0.Number}\nShow Jumping : {1.Number}\nCross-Country : {2.Number}
-   [0EC79] 0x7A5A35AC5B7ED423: Cross-Country Competitions Won: Beginnner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
+   [0EC79] 0x7A5A35AC5B7ED423: Cross-Country Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
    [0EC7A] 0x39FCC46CC4223B66: Cross-Country Competitions Won
    [0EC7B] 0x2CC2A4DAB4A78730: Congratulations! {0.SimFirstName} has won enough Equestrian Center competitions to earn the title of Equestrian Champion!\n\nCheck {0.SimFirstName}'s Skill Journal for information about the reward.
    [0EC7C] 0x32D7791D13E84753: Equestrian Champions have won at least {0.Number} Equestrian Center competitions at the Advanced or International level. They are so well-known in the riding world that they receive extra prize money from sponorships at every competition they win.
@@ -60550,11 +60550,11 @@ Unknown3: 0x00000000
    [0EC81] 0x976ECB8A2C7478E5: Horse
    [0EC82] 0x045D20F3A79DCA58: Number of Best Friend Horses: {0.Number}
    [0EC83] 0x64A935E43B3524A5: Horses that your Sim has ridden.
-   [0EC84] 0xBE873B4F2F5D8BF7: Show Jumping Competitions Won: Beginnner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
+   [0EC84] 0xBE873B4F2F5D8BF7: Show Jumping Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
    [0EC85] 0xC522B5F2899D81C3: Congratulations! {0.SimFirstName} has adopted enough wild Horses to complete the Mustang Master Skill Challenge!\n\nCheck {0.SimFirstName}'s Skill Journal for information about the reward.
    [0EC86] 0x919644D2517B1C42: Mustang Masters have adopted at least {0.Number} wild Horses, so they know how to bring out the best in a Horse. When a Mustang Master adopts a Wild Horse, {MA.he}{FA.she} can choose some of the Horse's traits.
    [0EC87] 0x1D2D233A525492AE: Mustang Master
-   [0EC88] 0x63F62E3F019EBB87: Racing Competitions Won: Beginnner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
+   [0EC88] 0x63F62E3F019EBB87: Racing Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
    [0EC89] 0x88FCC73D4B713BC5: Congratulations! {0.SimFirstName} has won all three types of Equestrian Center competitions and achieved the Rider of Legends Skill Challenge!\n\nCheck {0.SimFirstName}'s Skill Journal for information about the reward.
    [0EC8A] 0x1A8489FC626151AC: To become a Rider of Legends, a Sim must win all three types of Equestrian Center competitions at the International level. For their dedication to the art of horsemanship, these Sims receive a truly epic equine statue. 
    [0EC8B] 0x271A4D5E6BB2FC5C: Rider of Legends
@@ -63440,7 +63440,7 @@ Unknown3: 0x00000000
    [0F7CB] 0x3487136B6C383786: After being chased by hordes of crazed Vampires, Mummies, Simbots, Imaginary Friends, and Unicorns, {0.SimFirstName} barely managed to escape.
    [0F7CC] 0x3487136B6C383787: {0.SimFirstName} was abducted by aliens. Or, at least, that’s what {MA. he}{FA.she} thinks happened. {0.SimFirstName} ended up on {MA.his}{FA.her} doorstep back home with only vague memories of sterile walls and silvery medical machinery to tell {MA.him}{FA.her} how {MA.he}{FA.she}’d gotten there.
    [0F7CD] 0x3487136B6C383780: Faced with the horror of this alternate reality, {0.SimFirstName} would rather be subjected to nosy neighbors and loud late night dance parties. {0.SimFirstName} decided to give up and take {MA.his}{FA.her} chances at home.
-   [0F7CE] 0x3487136B6C383781: Trapped in an inescapable box with a glass window, {0.SimFirstName} noticed a glowing gem over {MA.his}{FA.her} head. Some unknown force was controling {MA.his}{FA.her} every move. Thankfully {MA.he}{FA.she} was able to escape!
+   [0F7CE] 0x3487136B6C383781: Trapped in an inescapable box with a glass window, {0.SimFirstName} noticed a glowing gem over {MA.his}{FA.her} head. Some unknown force was controlling {MA.his}{FA.her} every move. Thankfully {MA.he}{FA.she} was able to escape!
    [0F7CF] 0x3487146B6C383956: {0.SimFirstName} slipped through the dimensional gate just as it was closing. Hopefully if {MA.he}{FA.she} managed to pick anything up, {MA.he}{FA.she} didn't drop it on the way out.
    [0F7D0] 0x3487146B6C383955: After days of dodging laser beams and intergalactic space pirates, {0.SimFirstName} barely managed to make it back in one piece. With luck {MA.he}{FA.she} might even still have some trinkets in {MA.his}{FA.her} pockets!
    [0F7D1] 0x3487146B6C383954: {0.SimFirstName} never imagined riding on a steam powered airship would be so amazing and frightening at the same time. This is definitely an adventure to tell the kids…someday.
@@ -63461,7 +63461,7 @@ Unknown3: 0x00000000
    [0F7E0] 0xBB4267258209020E: It took a considerable amount of brain power for {0.SimFirstName} to come to the proper conclusion, but in the end the yellow frog kept his word and let {0.SimFirstName} pass.
    [0F7E1] 0xBB426825820903DE: {0.SimFirstName} hefted the great sword with surprising ease. Feeling confident, {MA.he}{FA.she} boldly stepped out into the open and defeated the purple rock spitters with {MA. his}{FA.her} superior weaponry.
    [0F7E2] 0xBB426825820903DD: Uncorking the small bottle, {0.SimFirstName} drank its entire contents. After a few moments of uneasiness, a strange tingling sensation washed over {MA.him}{FA.her} and {MA.he}{FA.she} turned invisible. Now able to move without being seen, {0.SimFirstName} silently crept past the purple rock spitters.
-   [0F7E3] 0xBB42692582090593: Pushing the statue with all {MA.his}{FA.her} might, {0.SimFirstName} just managed to topple it. After digging throuh the pieces {0.SimFirstName} was able to recover the key and escape the cavern just before an alien army arrived.
+   [0F7E3] 0xBB42692582090593: Pushing the statue with all {MA.his}{FA.her} might, {0.SimFirstName} just managed to topple it. After digging through the pieces, {0.SimFirstName} was able to recover the key and escape the cavern just before an alien army arrived.
    [0F7E4] 0xBB42692582090590: Even though the mysterious symbols looked completely foreign, {0.SimFirstName} seemed to have the innate ability to translate them in {MA.his}{FA.her} head. With the final symbol decoded, {0.SimFirstName} recovered the key and managed to escape mostly unscathed.
    [0F7E5] 0x59A51C8C08C338B3: While in the middle of opening the gate to a haunted manor, {0.SimFirstName} suddenly heard the sound of feet dragging on the ground and a muffled growl. {MA.He}{FA.She} sprinted as fast as {MA.he}{FA.she} could and barely managed to escape!
    [0F7E6] 0x59A51C8C08C338B0: Good thing {0.SimFirstName} is so quick on {MA.his}{FA.her} feet! With {0.SimFirstName}'s razor sharp wit, {MA.he}{FA.she} was able to come up with a witty response to all the insults {MA.he}{FA.she} received on the comic roast. Now it’s time to fling a few of {MA.his}{FA.her} own insults and collect the ultimate prize. Arrr!
@@ -79584,7 +79584,7 @@ Unknown3: 0x00000000
    [136DB] 0x7D47F3E8FED1D001: House Of Horror
    [136DC] 0xE2ED7E4FF04C9740: HWY 92
    [136DD] 0x211B046B8776CA7D: Lone Star
-   [136DE] 0x3780C4A2EF311DAC: Naive Melody
+   [136DE] 0x3780C4A2EF311DAC: Naïve Melody
    [136DF] 0xB227980C3B7355C2: Race Of The Hero
    [136E0] 0x7AC9849D11F43748: Return of the Hero
    [136E1] 0xADC86EE8BC2BA969: Spaghetti Rock
