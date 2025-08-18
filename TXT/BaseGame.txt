@@ -459,7 +459,7 @@ Unknown3: 0x00000000
    [001C6] 0xCD00E005C18E0787: In a world of florescent, incandescent, LED, and other bulb options, it’s good to know that fire is still used for basic lighting. Safe, open-flame fire... the kind often found at the end of lit candles. And what cradles your candles better than the Candle Cradler? Nothing.
    [001C7] 0xF8AFC26ABC19A368: Looking for the perfect lighting to give your home that timeless feel? What better way than with a candle sconce!? Candle light has been proven to be a reliable source of light for centuries upon centuries upon centuries. Just keep it away from other natural elements such as wind, water, or earth, and you should be fine!
    [001C8] 0xBBAF5BBC58E86222: Porch lights are the most important lights outside your home. They greet guests, thwart boogiemen, and when flickered properly, can indicate to adolescent lovebirds that their date is over. Thankfully, the Porch Torch fills all these roles and more.
-   [001C9] 0x5C442A8F37F96526: The Wall-eyed Wall Lamp was genetically engineered to mimic the same process in which light is reflected off the eyes of certain animals. Some say its glow can be creepy and that it makes weird purring noises at night, but dont worry about that! Just turn on the light!
+   [001C9] 0x5C442A8F37F96526: The Wall-eyed Wall Lamp was genetically engineered to mimic the same process in which light is reflected off the eyes of certain animals. Some say its glow can be creepy and that it makes weird purring noises at night, but don't worry about that! Just turn on the light!
    [001CA] 0xCE79A724E9CEE806: To the undiscerning eye, all light looks relatively the same. But to those with a more sophisticated optical palette, the Photophile Wall Light offers a unique luminescence that's often described as a dry bouquet with periodic wisps of effervescence.
    [001CB] 0x7596D940585BBB19: When the urge to party hits you – and it will hit you – don’t be caught without a Feisty Fiesta Wall Lantern. This light of the party shines brighter than a big bowl of Pekinese glowing beans. Olé!
    [001CC] 0x0D2ECC26D5DF167C: Turn that frown upside down with a Funshine Wall Light. It’s guaranteed to brighten your day, as well as your wall. And it’s really easy to use too - just flick the switch and let the Funshine in.
@@ -22703,7 +22703,7 @@ Unknown3: 0x00000000
    [058AA] 0xD0005C4831AED902: The Social Worker from the adoption agency will be arriving at your house soon!
    [058AB] 0xB959AD650DC1485D: You are too young to adopt a child
    [058AC] 0x55C86D23DEFE69D8: You are too young to adopt a child
-   [058AD] 0x6B773980C651526B: Adoption is an expensive process, and you dont have enough money right now to support a new child.
+   [058AD] 0x6B773980C651526B: Adoption is an expensive process, and you don't have enough money right now to support a new child.
    [058AE] 0x40AEF4790D5FE0B1: Rescue Child
    [058AF] 0xDAF473F2389A06D4: Route To Car
    [058B0] 0x53A9269645AC3F05: There are no more adults living in the household. The social worker is coming to take care of any remaining children. When you're ready, either load a saved game, or go to Edit Town and choose a new household to play.
@@ -54585,15 +54585,15 @@ Unknown3: 0x00000000
    [0D534] 0x5C18ADFEF08DB1B1: Boast About Grandchildren
    [0D535] 0x869F97693D6BEABA: Give Gift
    [0D536] 0xEF5BC57AC42E85E2: What a lovely gift! Thank you so much.
-   [0D537] 0x8F862DFC6E3C5C93: You dont have any giveable gifts in your inventory.
+   [0D537] 0x8F862DFC6E3C5C93: You don't have any give-able gifts in your inventory.
    [0D538] 0xED848A2A7080E221: There are no Sims on the lot to whom you can give a gift.
    [0D539] 0xD4564B7C927B026B: Object
-   [0D53A] 0xE33B869DB3A573F4: Giveable Objects
+   [0D53A] 0xE33B869DB3A573F4: Give-able Objects
    [0D53B] 0x6B3C6C0702FB7EC0: Possible Gifts
    [0D53C] 0xB91D6639AA78D371: Throw Tantrum
    [0D53D] 0x8A305476C8AED3A1: I really don't know you well enough to accept a gift from you.
    [0D53E] 0x99480B5945FDA5CD: I already have this! I don't want another one.
-   [0D53F] 0x4F757E0CE7104ADE: I dont want this gift! It's not good enough!
+   [0D53F] 0x4F757E0CE7104ADE: I don't want this gift! It's not good enough!
    [0D540] 0x7146830184EAE616: What a beautiful and thoughtful gift. Thank you so much. This means so much to me!
    [0D541] 0x3C4933393F936857: Ask For {MA.Son's}{FA.Daughter's} Hand
    [0D542] 0x21B5987E41103406: Give Graduation Gift
