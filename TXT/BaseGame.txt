@@ -58510,7 +58510,7 @@ Unknown3: 0x00000000
    [0E489] 0x8AFFC5FA8E21A9A6: Skittish Pets have a nervous disposition and are easily startled.
    [0E48A] 0x26F77D90F1685234: SkittishPetShortDescription
    [0E48B] 0xE01E72A3DF13DE90: {0.SimFirstName} is Skittish which means {MA.he}{FA.she} is high strung and very nervous. (Hover over any trait in the Simology Panel to see more benefits.)
-   [0E48C] 0x5FDD8BEDCEC9D75D: • Your Pet will be easily startled by everyday occurances.
+   [0E48C] 0x5FDD8BEDCEC9D75D: • Your Pet will be easily startled by everyday occurrences.
    [0E48D] 0x5FDD8BEDCEC9D75C: • Your Pet is often Nauseous from dealing with stress.
    [0E48E] 0x5FDD8BEDCEC9D75F: • Your Pet is not the bravest of creatures.
    [0E48F] 0x5DAA6CDCCC2A05D8: Steel Bladder for Pets
