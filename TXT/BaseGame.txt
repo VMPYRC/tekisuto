@@ -43029,7 +43029,7 @@ Unknown3: 0x00000000
    [0A810] 0xFF6BD8CCB90C5722: Styling
    [0A811] 0xFF6BD8CCB90C5721: Earnings
    [0A812] 0xFF6BD8CCB90C5720: Build Portfolio
-   [0A813] 0x2D4520A8AFFC18D3: It might be time to hang up your millitary-inspired, faux lined houndstooth coat and become the best dressed retiree in town. Go out in style!
+   [0A813] 0x2D4520A8AFFC18D3: It might be time to hang up your military-inspired, faux lined houndstooth coat and become the best dressed retiree in town. Go out in style!
    [0A814] 0x108C8B299C699505: Assess Style Needs
    [0A815] 0x75003B1260992C1E: Stylist Services
    [0A816] 0xD963BCE9F4E33195: Solicit Styling Services
@@ -55811,7 +55811,7 @@ Unknown3: 0x00000000
    [0D9FE] 0x870E6999D81FA823: Own {0.Number} Jumping Obstacles
    [0D9FF] 0xECC6D51B390F35F4: Own {0.Number} Jumping Obstacles
    [0DA00] 0xA4162CBDA633CA60: Own {0.Number} Jumping Obstacles
-   [0DA01] 0x2392DEC0CBDEDEB8: Cats hate being dirty! Unfortunately, they also hate water. To remedy this situation, cats were made with magical loufah tongues perfect for cleaning! Your cat would like to put its tongue to work and Groom Itself.
+   [0DA01] 0x2392DEC0CBDEDEB8: Cats hate being dirty! Unfortunately, they also hate water. To remedy this situation, cats were made with magical loofah tongues perfect for cleaning! Your cat would like to put its tongue to work and Groom Itself.
    [0DA02] 0x43709EDC28E2E2CB: Groom Self
    [0DA03] 0x9DE672ADB2ACCB4C: Groom Self
    [0DA04] 0x4CC626AD25CBBA88: Groom Self
