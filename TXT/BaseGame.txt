@@ -151,7 +151,7 @@ Unknown3: 0x00000000
    [00092] 0x4CA66EB128715036: Exactly what you imagine for every picturesque neighborhood, The Original Column has never been imitated! The one, the only, the original!
    [00093] 0x53D673C43DC8A3A3: It's time to join the future... or at least the past decade, with this affordable and Sim-friendly PC! Meet new friends via the fabled internets, or enjoy the games the youth have been extolling! Fred's PC Hut: Simple computing for simple Sims.
    [00094] 0x9833E6EFEC3DA3D7: Sleek, stylish and expensive, the oTron 200 Thinking Computer is man's finest companion. Far beyond mere humans and other non-thinking computers, the military has trusted the oTron for years. Shouldn't you?
-   [00095] 0xBDB57B94402AB252: The heartpounding joy of mobile computing has arrived! The XS 4258p Laptop features the revolutionary OmniOcto Onboard AI, 4 nano rams and a hugely small harddrive that guarantees you can finally take it with you. With so much processing power in your pocket, why go home?
+   [00095] 0xBDB57B94402AB252: The heart-pounding joy of mobile computing has arrived! The XS 4258p Laptop features the revolutionary OmniOcto Onboard AI, 4 nano rams and a hugely small hard drive that guarantees you can finally take it with you. With so much processing power in your pocket, why go home?
    [00096] 0x8912BF7FCBB16672: We're committed to bringing your favorite sights and smells to your home in every way. It's time for home furnishings to be fried – country fried! What looks like paint to the untrained eye is really a decorative batter. It's delicious and reasonably priced!
    [00097] 0x55A5BEEE67CB9286: Big corporations have all but killed the creative spirit that drives the countertop industry. But independent studios like Counter Culture have picked up the gauntlet, blazing trails their oafish counterparts couldn’t find even with a focus group.
    [00098] 0x85454B34C48C282F: Locally owned and operated, Counter Culture counters are the trendiest thing in kitchen surfaces. But buyer beware. Their customer service leaves much to be desired, mainly because of this one support guy, Chip. He can be real jerk on the phone.
@@ -270,7 +270,7 @@ Unknown3: 0x00000000
    [00109] 0xDAAF88B6B550ECA4: Baluster Rail Gate*****
    [0010A] 0x3BB30ACF564B8B71: When your fence is lousy with balusters, there's only one gate that'll do: that's right, the Balusters Rail Gate.
    [0010B] 0x02D2AFD4E471356F: When your fence is lousy with balusters, there's only one gate that'll do: that's right, the Balusters Rail Gate.
-   [0010C] 0x040834CF4D7938AD: Some people need a gate of might and substance. A gate that represents a powerful threshhold of symbolic import. A gate that says, "Abandon hope, all ye who enter here." Some people are just neo-classicists; they need gates, too. 
+   [0010C] 0x040834CF4D7938AD: Some people need a gate of might and substance. A gate that represents a powerful threshold of symbolic import. A gate that says, "Abandon hope, all ye who enter here." Some people are just Neo-classicists; they need gates, too.
    [0010D] 0x78E43D767D9E0F57: The dictionary defines balusters as, “those curvy doohickeys that support a balustrade fence.” And the Baluster Rail Fence is lousy with the things. So if vase-like doodads are your thing, then get some Baluster Rail posthaste.
    [0010E] 0xCE4E0B808C696870: We know you've dreamt a long time about making the classic home, complete with picket fence, front porch and beautiful house. With Suburbia Landscaping, property owners can begin to place planks today!
    [0010F] 0x2F72DEA01394C36E: When you have the most boring fence imaginable, only a suitably dull gate will do. Hey, at least you can paint it!
@@ -21125,7 +21125,7 @@ Unknown3: 0x00000000
    [05280] 0xC6E53A884238221C: Compete In Juice Pong Video Game
    [05281] 0x54AB54EC62CE7B0B: Play Video Game
    [05282] 0x5D91F57625EA377C: Play Video Game
-   [05283] 0xF80EFDDB6FE4C717: Smash Colorful Pinatas For Fun And Profit
+   [05283] 0xF80EFDDB6FE4C717: Smash Colorful Piñatas For Fun And Profit
    [05284] 0x845F312D7382F80A: Play Video Game
    [05285] 0x9C8C7619CB169C3E: Check Out Epic Video Game
    [05286] 0xFDD3D3836BE0A4A9: Try Out Life Simulation Video Game
