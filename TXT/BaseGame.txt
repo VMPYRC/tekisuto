@@ -43777,7 +43777,7 @@ Unknown3: 0x00000000
    [0AAFC] 0xEE04D8E2C1A94D6D: You didn’t spend the entire budget. Our snobbish {0.SimFirstName} is a going to think it looks cheap.
    [0AAFD] 0x1C42B3A8376C5B10: You added way too many electronics for my taste. I’m really a Technophobe.
    [0AAFE] 0x7A5172248D0E0A86: I’m afraid {0.SimFirstName} isn’t going to like all of those electronics.
-   [0AAFF] 0x16577B8C43193564: I can already hear the wonderful music that will fill this space. Thank-you.
+   [0AAFF] 0x16577B8C43193564: I can already hear the wonderful music that will fill this space. Thank you.
    [0AB00] 0x55BB520BBD9EB272: {0.SimFirstName} is so musically talented. Thanks for taking that into account.
    [0AB01] 0x379EF736854405E2: Ah, a new desk. I’ll be able to get so much work done now.
    [0AB02] 0x3FDE4342DD721798: {0.SimFirstName} really needed a new desk to work on.
