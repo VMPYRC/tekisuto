@@ -40,11 +40,11 @@ Unknown3: 0x00000000
    [023] 0x5CAD00C4B6606535: After years of cavorting about in trucks with wimpy sirens, fire chiefs everywhere clamored for a more awesome engine of fire fighting supremacy. Coupled with a bigger engine, louder siren, and longer ladder The Woo Woo 4000 is sure to please!
    [024] 0x7232027E43909C69: This unsalvageable piece of metal is no longer able to be of any use of its previous owner. Now it sits and await its doom.
    [025] 0x83A094D94C9803E1: Follow the trail on perplexing puzzles with this sturdy case board. Now with complimentary push pins!
-   [026] 0x05E26C1EEF6060F0: It's the chair that graces governor's mansions and presidential palaces. Guests will feel inclined to make small talk about how surprisingly comfortable it is. One thing is for sure: it will look stately sitting around the Simsonian Federal Dining Table.
+   [026] 0x05E26C1EEF6060F0: It's the chair that graces governor's mansions and presidential palaces. Guests will feel inclined to make small talk about how surprisingly comfortable it is. One thing is for sure: it will look stately sitting around the Simsonian Federal Dining Table.
    [027] 0x3542979C11357002: Nothing screams power and comfort more than The CEO Ergostical Chair. Made from power suit-infused plastic, this chair will last for years and years to come, unlike your pension.
    [028] 0x4A85BC144090F8E0: Sir Bumalot's Chair is the ideal seating solution for those looking for serious slack time. Designed by a man with a significant derriere, comfort is 100% guaranteed.
    [029] 0x740315BE007AD775: This homey chair is fashioned in a classic country style and crafted by hand using premium faux hardwoods. Colored with a non-hazardous, environmentally safe, soy based natural wood stain, The Eco Rustic is a must for any Sim trying to support the green scene, and be stylish too.
-   [02A] 0x01CBD3C92A949D86: Don't forget to remove the cardboard wrapped around the legs of this Wicker Living Chair. While a relaxing sit in this chair will embed wicker textures in the back of your legs, it's still a front porch classic.
+   [02A] 0x01CBD3C92A949D86: Don't forget to remove the cardboard wrapped around the legs of this Wicker Living Chair. While a relaxing sit in this chair will embed wicker textures in the back of your legs, it's still a front porch classic.
    [02B] 0x5A952E59309FA5D6: use base game text [Placeholder]
    [02C] 0x2BF819F13E5E6BD6: This ornate style column is derived from the Corinthian order of the Greek and Roman architecture. Its marvelous design and detailed engravings make this column surpass above all others.
    [02D] 0x581CE44D85AED894: Sometimes 'cozy' is a synonym for cheap. But in this case it means 'cute'. Really.
@@ -87,7 +87,7 @@ Unknown3: 0x00000000
    [052] 0xCBBCA24FD5C821BD: Simple design and mega-function is the key to the Essence of Luminescence Lamp. In fact it's so utilitarian that the fanciest thing about it is its name.
    [053] 0x96070D94C4076BC0: Rodiek Radiance Inc. is proud that this fixture is the most popular among law enforcement light connoisseurs. When placed in sketchy areas, it is also the most literal of our fixtures: The Shady Business Illuminate helps brings shady business to light.
    [054] 0x5DF70A0DCB4E39ED: For centuries scholars questioned the origin of the word "sconce." It wasn't until recently where they unanimously agreed that it was a foreign word meaning "light thingy that hangs on the wall."
-   [055] 0x859C081DBC707AC7: Another Federal Collection classic: this loveseat says you don't have to try because you've got the real thing. It's got good bones and nice detailing on the legs. Designed to last a lifetime and a half, if you don't throw it out first.
+   [055] 0x859C081DBC707AC7: Another Federal Collection classic: this loveseat says you don't have to try because you've got the real thing. It's got good bones and nice detailing on the legs. Designed to last a lifetime and a half, if you don't throw it out first.
    [056] 0x4864F0A4033A0255: This quaint representation of a prehistoric cave dweller is a great conversation starter at parties.
    [057] 0x7E9B62EEDF7F5DBF: This magical gnome was geared out by a talented inventor!
    [058] 0xE1C21709EEE90B3B: You're not quite sure where in time you picked up this cute little gnome, but you do know that he makes a great addition to your living room décor.
@@ -129,10 +129,10 @@ Unknown3: 0x00000000
    [07C] 0x1F963C4EC97EE2A0: Wabaam! With Cleanesque Brand laundry detergent you're getting twice the cleaning power for half the price!! If you add it up, that’s like two-for-one of the other brand! Never forget that with Cleanesque Brand detergent you're getting clean clothes.
    [07D] 0xFA130042EAD22650: Wabaam! When normal Cleanesque Brand detergent just isn't enough, hit those tough stains with the power of the Cleanesque Detergent Bottle! Its bottle shape provides quadruple the cleaning power in an upright, easy to pour shape.
    [07E] 0xD4B2D156FDB31E66: Wabaam! The highly anticipated Cleanesque Brand dryer sheets are here! Throw one in your next dryer load and watch as it obliterates static from your favorite static infused clothes.
-   [07F] 0x1A66CF1CF27E0C5D: Here's an exquisite collectors edition to commemorate the final year that the Dalmatian 26 Company drove this open back wagon through the streets of Riverview.
+   [07F] 0x1A66CF1CF27E0C5D: Here's an exquisite collectors edition to commemorate the final year that the Dalmatian 26 Company drove this open back wagon through the streets of Riverview.
    [080] 0xE2E1F8692E4C6529: There are so many expressions that involve the term ‘head’...like ‘don’t let it go to your head’ or ‘your head is in the clouds today.’ Well, this head can be clear of that misty realm for it sits directly on terra firma, keeping your sculpture completely down to earth.
    [081] 0x212B844DDB621D7E: With our simple design comes a simple rule: Use Thor's Drawer when a tool box just isn't enough!
-   [082] 0x4BCD4AD0BD8A2DC7: A distinguished home for your best china. The dishware will glow with attention from adoring guests as they pour over the casing, the details, and peer through the crystal windows. It's best to take out an insurance policy on a piece like this. Someone just might walk out with it.
+   [082] 0x4BCD4AD0BD8A2DC7: A distinguished home for your best china. The dishware will glow with attention from adoring guests as they pour over the casing, the details, and peer through the crystal windows. It's best to take out an insurance policy on a piece like this. Someone just might walk out with it.
    [083] 0x7C3244238A480CEA: With interesting colors and textures clothing is, in fact, art. Pre-selected clothing in a lovely assortment acts as a beautiful bouquet to any setting.
    [084] 0x107D0F256F25EAC0: Artist Xavier Pleniforth explains his sculpture thusly: “While a fish out of water may signify an uncomfortable circumstance, remember that fish frequently jump out of water, at least for a moment. So too should we. In this way, we open ourselves to new discoveries.”
    [085] 0x3B5B189AC4A52E12: It is unknown when the worshipping of the Dark Emperor began or ended. This small statue is a pale example of the ancient terrors Sims in the past had to face down on an everyday basis.
@@ -305,7 +305,7 @@ Unknown3: 0x00000000
    [12C] 0xCABB9A2E0E5F3DDB: fence federal post name needs text-(DNT) See Alan if you see this text
    [12D] 0xF47D0029F0DBFAC6: Fire Hose
    [12E] 0x624EAE1CDFA71D16: The Shelby Mantle
-   [12F] 0x26D4B289E83D04D7: Federal Column Fireplace 
+   [12F] 0x26D4B289E83D04D7: Federal Column Fireplace
    [130] 0xE33AA0AD104D2C9E: The Speedy Pole
    [131] 0xA8720365F44F82E2: Burnt Rubble Pile
    [132] 0xAEE7A2AA6FC831E6: Fog Emitter

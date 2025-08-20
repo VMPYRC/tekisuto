@@ -18,7 +18,7 @@ Unknown3: 0x00000000
    [0000D] 0x898901C030D94472: Solidly constructed for the comfortable home, Bar de Mish is the perfect focal point for a casual meeting of friends. Call the gang, mix a few trendy juice beverages and start your evening. "The gang" not included.
    [0000E] 0x0984C370BDF83185: Juice bar... Sand bar... That test lawyers have to pass... Face it people, bars are everywhere today and without one you will be bar-none! So join the crowd and bring the Family Time Bar into your home today!
    [0000F] 0x0E68D7D6DB7E6A8D: Yup, it's a barn.
-   [00010] 0xD213586419C0AE6B: Barstools offer the best of both worlds, combining all the height of standing with the comforts of sitting. And Bab’s Towering Barstools stand taller than the rest, but only by a few microns, which can be scientifically notated as 1×10−6 m.
+   [00010] 0xD213586419C0AE6B: Barstools offer the best of both worlds, combining all the height of standing with the comforts of sitting. And Bab's Towering Barstools stand taller than the rest, but only by a few microns, which can be scientifically notated as 1×10−6 m.
    [00011] 0xF6FDDB22B4EA3390: “A bar without barstools is like a turkey without a waddle.” And with those immortal words, Old Sam began whittling his first barstool from an old hickory stump over 300 years ago. It took him half his life to finish, and remains the prototype for today’s model.
    [00012] 0x78E6ADE7FC84C249: Gussy up to the bar in style with this saloon-chic barstool. Made from recycled stagecoaches and cavalry saddles, each Parlor Perch offers all the conveniences of modern barroom seating, but without any post-19th century pretense.
    [00013] 0x5B920C92A04C2D61: An excellent companion for a bar, the Barstool de Mish is a tushy's delight. In fact, several have extolled the virtues of this delightful perch, because incredible things happen when you choose de Mish.
@@ -156,7 +156,7 @@ Unknown3: 0x00000000
    [00097] 0x55A5BEEE67CB9286: Big corporations have all but killed the creative spirit that drives the countertop industry. But independent studios like Counter Culture have picked up the gauntlet, blazing trails their oafish counterparts couldn’t find even with a focus group.
    [00098] 0x85454B34C48C282F: Locally owned and operated, Counter Culture counters are the trendiest thing in kitchen surfaces. But buyer beware. Their customer service leaves much to be desired, mainly because of this one support guy, Chip. He can be real jerk on the phone.
    [00099] 0x0248A15DE21F7D6A: We may not have won the "official" competition, but deep down we know we’re blue ribbon champions! Sure it might have been runner up, but it could be the only counter in your home, which would make it first for you!
-   [0009A] 0x486A85FE9BBC3126: There are fewer missions on an Island, but don't let that dissuade you! Created to withstand intense chopping, this counter is also pleasing when spied from the corner of your eye.  This counter will not self-destruct in three minutes... or three years... or three lifetimes.
+   [0009A] 0x486A85FE9BBC3126: There are fewer missions on an Island, but don't let that dissuade you! Created to withstand intense chopping, this counter is also pleasing when spied from the corner of your eye. This counter will not self-destruct in three minutes... or three years... or three lifetimes.
    [0009B] 0xE21801F3AB35290B: Contrary to popular opinion, the Real Flat Counter Company did not get its name from making the flattest counters in the business. Actually, the company was named after its founders, Jack Real and Jill Flat.
    [0009C] 0xBD2F0ED8BAD72B11: When just a teensy bit of tradition isn't quite enough for you and your lofty standards (or your larger kitchen), the Immemorial Counter Island is the perfect way to meet expectations. Prepare every recipe the right way on the Immemorial Counter!
    [0009D] 0x32D23A78E9CB545D: Your counter, if you choose to accept it, is made of the finest materials. Created to withstand intense chopping, it is also pleasing when spied from the corner of your eye. This counter will not self-destruct in three minutes... or three lifetimes.
@@ -7599,8 +7599,8 @@ Unknown3: 0x00000000
    [01DAA] 0xA4EC099EB7F98C57: The picture quality on this TV blows my mind. I feel like I'm there. Boom!
    [01DAB] 0xEABE9044E3F151C9: Pumped
    [01DAC] 0x83881F53FB49BE5C: Pumped
-   [01DAD] 0xAFD05650B79CA375: If Sims work out long enough, they get Pumped.  Workouts are even more effective while Sims are pumped.
-   [01DAE] 0x850B878B7BF12490: If Sims work out long enough, they get Pumped.  Workouts are even more effective while Sims are pumped.
+   [01DAD] 0xAFD05650B79CA375: If Sims work out long enough, they get Pumped. Workouts are even more effective while Sims are pumped.
+   [01DAE] 0x850B878B7BF12490: If Sims work out long enough, they get Pumped. Workouts are even more effective while Sims are pumped.
    [01DAF] 0x7CFEDE6068086F9F: Read a Masterpiece
    [01DB0] 0x8E24A4DFCE8D8B6E: Read a Masterpiece
    [01DB1] 0xB27CA09F10C69FFB: Turning the last page of a masterpiece is like falling in love... it's a beautiful thing.
@@ -7611,18 +7611,18 @@ Unknown3: 0x00000000
    [01DB6] 0xDCB608001874082B: Please don't talk about waterfalls... I have to pee!
    [01DB7] 0xCAE63E64D07116EA: Rejected by Ex
    [01DB8] 0xF810EC130712DAD9: Rejected by Ex
-   [01DB9] 0xCCE5D56FF15E0660: Sims don't like getting rejected, especially by someone who used to like them.  Sims will have less luck socializing while they stew over a rejection.
-   [01DBA] 0x48E44A82DED9137B: Sims don't like getting rejected, especially by someone who used to like them.  Sims will have less luck socializing while they stew over a rejection.
+   [01DB9] 0xCCE5D56FF15E0660: Sims don't like getting rejected, especially by someone who used to like them. Sims will have less luck socializing while they stew over a rejection.
+   [01DBA] 0x48E44A82DED9137B: Sims don't like getting rejected, especially by someone who used to like them. Sims will have less luck socializing while they stew over a rejection.
    [01DBB] 0x4671AF96975D28D3: My ex won't even acknowledge my existence... 
    [01DBC] 0x46A8D9B1662FF0F2: Rejected First Kiss
    [01DBD] 0x72740E4CA71C4621: Rejected First Kiss
-   [01DBE] 0x6DF68CD8A480A6B8: It's sad when a Sim gets rejected for a first kiss.  Very sad.  A rejected sim needs time to cool off before their social skills will be back on track.
-   [01DBF] 0x46E04D2D469ACE73: It's sad when a Sim gets rejected for a first kiss.  Very sad.  A rejected sim needs time to cool off before their social skills will be back on track.
+   [01DBE] 0x6DF68CD8A480A6B8: It's sad when a Sim gets rejected for a first kiss. Very sad. A rejected Sim needs time to cool off before their social skills will be back on track.
+   [01DBF] 0x46E04D2D469ACE73: It's sad when a Sim gets rejected for a first kiss. Very sad. A rejected Sim needs time to cool off before their social skills will be back on track.
    [01DC0] 0x0C1D95EC14F0933B: I feel completely rejected
    [01DC1] 0xE49E189F212B9780: Rejected Proposal
    [01DC2] 0x58D538FB061DDADB: Rejected Proposal
-   [01DC3] 0x84D5D07AF07FCDAE: It hurts to propose and be rejected.  The good news is that sims can try again as many times as they like.  Of course, each rejection will hurt just as much.
-   [01DC4] 0x5C019A6DD734D8E5: It hurts to propose and be rejected.  The good news is that sims can try again as many times as they like.  Of course, each rejection will hurt just as much.
+   [01DC3] 0x84D5D07AF07FCDAE: It hurts to propose and be rejected. The good news is that Sims can try again as many times as they like. Of course, each rejection will hurt just as much.
+   [01DC4] 0x5C019A6DD734D8E5: It hurts to propose and be rejected. The good news is that Sims can try again as many times as they like. Of course, each rejection will hurt just as much.
    [01DC5] 0x66A8637F70969701: My proposal was completely rejected. I am a complete and utter failure... 
    [01DC6] 0xFA1BB66A3C760EEF: Rejuvenated
    [01DC7] 0x018AE956141115AB: The cost of a body treatment seems to melt away when the relaxing feeling of rejuvenation overwhelms a Sim.
@@ -7633,8 +7633,8 @@ Unknown3: 0x00000000
    [01DCC] 0x50940C823F301DC2: RelaxedFirstPerson
    [01DCD] 0x0E941EDC4ECEC611: Returned Stolen Property
    [01DCE] 0xB68B785ED3C85E84: Returned Stolen Property
-   [01DCF] 0x13D13DC093DD6DED: Kleptos enjoy returning things even more than... ending up with them.  After all, it's more difficult to do the right thing, even when it follows the wrong thing.
-   [01DD0] 0xA85CD3563F15F268: Kleptos enjoy returning things even more than... ending up with them.  After all, it's more difficult to do the right thing, even when it follows the wrong thing.
+   [01DCF] 0x13D13DC093DD6DED: Kleptos enjoy returning things even more than... ending up with them. After all, it's more difficult to do the right thing, even when it follows the wrong thing.
+   [01DD0] 0xA85CD3563F15F268: Kleptos enjoy returning things even more than... ending up with them. After all, it's more difficult to do the right thing, even when it follows the wrong thing.
    [01DD1] 0xC73AA4C83CCF199E: I stole some stuff and then returned it. And now instead of having a million simoleons, I feel like a million simoleons!
    [01DD2] 0x45235268F2F5EFC1: Revitalized
    [01DD3] 0x8B72A9C5E7969474: Revitalized
@@ -7645,8 +7645,8 @@ Unknown3: 0x00000000
    [01DD8] 0xEE27DC62B6F210D8: I got some good romantic advice from a guy on the radio last night
    [01DD9] 0x23DE75DD42D4CAB5: Rude Awakening
    [01DDA] 0x58E6BB3902AFF3D0: Rude Awakening
-   [01DDB] 0xC8571ACBC93B1571: Loud noises and ruckuses will disturb sleeping Sims.  Keep those stereos off and the conversations somewhere else, and don't light the bedroom on fire.
-   [01DDC] 0xFA89E4A312D63024: Loud noises and ruckuses will disturb sleeping Sims.  Keep those stereos off and the conversations somewhere else, and don't light the bedroom on fire.
+   [01DDB] 0xC8571ACBC93B1571: Loud noises and ruckuses will disturb sleeping Sims. Keep those stereos off and the conversations somewhere else, and don't light the bedroom on fire.
+   [01DDC] 0xFA89E4A312D63024: Loud noises and ruckuses will disturb sleeping Sims. Keep those stereos off and the conversations somewhere else, and don't light the bedroom on fire.
    [01DDD] 0xA26EF482BBC0C902: I was awakened rudely and abruptly!
    [01DDE] 0x5F0E0E9871F7085E: Rude Guest
    [01DDF] 0xC7AAA48CEB9C0A95: Rude Guest
@@ -7673,8 +7673,8 @@ Unknown3: 0x00000000
    [01DF4] 0xA56BAF6BA7965BBB: Sims have a special place in their hearts for movies on the silver screen, and a special place in their stomachs for the buttery popcorn.
    [01DF5] 0xA1241808B7515DE0: Saw Great Play
    [01DF6] 0x4E8D66D6724BEDFB: Saw Great Play
-   [01DF7] 0xE9780A77C0A0B08E: Sims love to watch people on stage doing funny and unexpected things right before their eyes.  Sometimes they get the strangest feeling of déjà vu.
-   [01DF8] 0xB799AB4CF4505C05: Sims love to watch people on stage doing funny and unexpected things right before their eyes.  Sometimes they get the strangest feeling of déjà vu.
+   [01DF7] 0xE9780A77C0A0B08E: Sims love to watch people on stage doing funny and unexpected things right before their eyes. Sometimes they get the strangest feeling of déjà vu.
+   [01DF8] 0xB799AB4CF4505C05: Sims love to watch people on stage doing funny and unexpected things right before their eyes. Sometimes they get the strangest feeling of déjà vu.
    [01DF9] 0x5D8F3FE7A2DE3EE1: Did you hear about the new play? I saw it and it's fantastic!
    [01DFA] 0x555B11A0428DDF78: 
    [01DFB] 0x9E453A7F499B4E19: Saw Great Symphony
@@ -7693,8 +7693,8 @@ Unknown3: 0x00000000
    [01E08] 0x3DE68C93504A00EB: Fire burns quickly, but it will burn a Singed Sim even faster, so avoid hot situations.
    [01E09] 0xB2B4CDB57F103865: Singed 
    [01E0A] 0xB26270B2137E7680: Singed 
-   [01E0B] 0x894ED133324691C1: Sims find it unenjoyable to be electrocuted, especially because it may stop their heart.  Until this wears off, Sims should steer clear of further potentially electrifying activities.
-   [01E0C] 0xCCB20F71BC752A74: Sims find it unenjoyable to be electrocuted, especially because it may stop their heart.  Until this wears off, Sims should steer clear of further potentially electrifying activities.
+   [01E0B] 0x894ED133324691C1: Sims find it unenjoyable to be electrocuted, especially because it may stop their heart. Until this wears off, Sims should steer clear of further potentially electrifying activities.
+   [01E0C] 0xCCB20F71BC752A74: Sims find it unenjoyable to be electrocuted, especially because it may stop their heart. Until this wears off, Sims should steer clear of further potentially electrifying activities.
    [01E0D] 0xCCCECCB4BEB30843: I feel a bit singed
    [01E0E] 0x5904ED6FA1F84BF2: Sleepy
    [01E0F] 0xC9DAB80227281F21: Sleepy
@@ -32083,7 +32083,7 @@ Unknown3: 0x00000000
    [07D4E] 0x0E18DA5FEC29CAE6: Zambia
    [07D4F] 0x66E074BA2B98C5ED: Zimbabwe
    [07D50] 0x4EBB5DEA033511F8: The Sims™ 3 Custom Content
-   [07D51] 0xBA068FA40BE6A9AE: Cannot install to %s, because it may cause the system to become unstable.
+   [07D51] 0xBA068FA40BE6A9AE: Cannot install to %s, because it may cause the system to become unstable.
    [07D52] 0xE7485582B9331973: Desktop Shortcut
    [07D53] 0x649C8153841D7229: Start Menu Items
    [07D54] 0x05C16D63254D8714: The folder path is too long. Please use another folder.
@@ -43710,32 +43710,32 @@ Unknown3: 0x00000000
    [0AAB9] 0x7345837438ACE2C7: You also cluttered things quite a bit. I’m not sure how useful this renovation is if I cannot get to my new items.
    [0AABA] 0x8F27187C7823C2D8: {Variation.10}
    [0AABB] 0x511C99BE793042E4: If you are smart you will work on your skills before anyone else suffers through the unfathomable depths of your incompetence!
-   [0AABC] 0x03DC22A7ED01A95C: Why did you do that to my house? What did I ever do to you?
+   [0AABC] 0x03DC22A7ED01A95C: Why did you do that to my house? What did I ever do to you?
    [0AABD] 0x511C99BE793042E7: You really should spend more time talking to your customers, learning about their traits, customizing the house to their needs, and being careful how you arrange furniture.
-   [0AABE] 0x511C99BE793042E6: Do you really think that this makes my house better? Are you just trying to be mean?
+   [0AABE] 0x511C99BE793042E6: Do you really think that this makes my house better? Are you just trying to be mean?
    [0AABF] 0x511C99BE793042E1: I’m sorry that I asked you to work on this. I’m not happy with the results.
-   [0AAC0] 0x511C99BE793042E0: I can’t believe that you did that to my house. I’m almost too embarrassed to invite other people over now.
-   [0AAC1] 0x511C99BE793042E3: This is not at all what I expected. I’m really not happy.
+   [0AAC0] 0x511C99BE793042E0: I can't believe that you did that to my house. I'm almost too embarrassed to invite other people over now.
+   [0AAC1] 0x511C99BE793042E3: This is not at all what I expected. I'm really not happy.
    [0AAC2] 0x511C99BE793042E2: You need to spend more time at home at the drafting table and more time paying attention to the details of your work before you ruin someone else’s home.
-   [0AAC3] 0x511C99BE793042ED: Architectural Design is an art that requires practice and patience. Work on improving both of them.
-   [0AAC4] 0x511C99BE793042EC: I sincerely hope that you were really distracted or confused by this project.  If this is an example of your regular work, then you might want to consider a different career.
+   [0AAC3] 0x511C99BE793042ED: Architectural Design is an art that requires practice and patience. Work on improving both of them.
+   [0AAC4] 0x511C99BE793042EC: I sincerely hope that you were really distracted or confused by this project. If this is an example of your regular work, then you might want to consider a different career.
    [0AAC5] 0x9ED2489477762C8A: {Variation.10}
    [0AAC6] 0x128ED3A1447EE222: I would be really happy to work with you in the future!
    [0AAC7] 0x0793BD07639A3FF6: It’s time like this that I just want to cry. I mean cry in a good way. I mean… you know what I mean. Thanks.
-   [0AAC8] 0x128ED3A1447EE221: Thank-you so much for doing this! You have totally transformed my house. It’s great.
-   [0AAC9] 0x128ED3A1447EE220: I’m so glad that I asked you to come help me. I don’t know what I would have done without you.
+   [0AAC8] 0x128ED3A1447EE221: Thank you so much for doing this! You have totally transformed my house. It's great.
+   [0AAC9] 0x128ED3A1447EE220: I'm so glad that I asked you to come help me. I don't know what I would have done without you.
    [0AACA] 0x128ED3A1447EE227: Thanks so much for applying your special talents to make my house a better place.
-   [0AACB] 0x128ED3A1447EE226: Sometimes someone steps into your life and makes everything better. Thanks for being that special someone.
-   [0AACC] 0x128ED3A1447EE225: I’m so happy with your work, that I’m not sure I’ll ever be able to leave my house again. I’m just so happy here.
+   [0AACB] 0x128ED3A1447EE226: Sometimes someone steps into your life and makes everything better. Thanks for being that special someone.
+   [0AACC] 0x128ED3A1447EE225: I'm so happy with your work, that I'm not sure I'll ever be able to leave my house again. I'm just so happy here.
    [0AACD] 0x128ED3A1447EE224: Several of my friends have been asking about you, and I will be happy to tell them that you did a great job on my house.
    [0AACE] 0x128ED3A1447EE22B: I had my doubts about you, but you really did a fine job. I’m very happy with what you did.
-   [0AACF] 0x128ED3A1447EE22A: Wow. I mean… Wow. Nice work.
+   [0AACF] 0x128ED3A1447EE22A: Wow. I mean... Wow. Nice work.
    [0AAD0] 0xAE5F97CBC284E478: {Variation.5}
    [0AAD1] 0x80F02127C6CEABC4: I wouldn't mind working with you in the future. Thanks!
    [0AAD2] 0x80F02127C6CEABC7: You did okay. Thanks for trying.
-   [0AAD3] 0x80F02127C6CEABC6: It all turned out fine. It’s not amazing, but I can’t complain too much.
-   [0AAD4] 0x80F02127C6CEABC1: You got the job done. Thank-you.
-   [0AAD5] 0x80F02127C6CEABC0: Thanks. I guess you did what I asked.
+   [0AAD3] 0x80F02127C6CEABC6: It all turned out fine. It's not amazing, but I can't complain too much.
+   [0AAD4] 0x80F02127C6CEABC1: You got the job done. Thank you.
+   [0AAD5] 0x80F02127C6CEABC0: Thanks. I guess you did what I asked.
    [0AAD6] 0x488F6F5494DCAB89: Overall, I think you did a terrible job!
    [0AAD7] 0x3BF4B66E41680C9F: Overall, I think you did a great job!
    [0AAD8] 0xF26B11256C24633D: Overall, I think you did a good job.
@@ -46880,7 +46880,7 @@ Unknown3: 0x00000000
    [0B71B] 0x26FD4C752C2CCAD6: 
    [0B71C] 0x3A1AD5B9D89CE1F4: Cylindrical Bolllards
    [0B71D] 0xABA8218B4D6BB431: The Landgraab Industries' Construction Caution Barrier with light will defend your projects, even at night!
-   [0B71E] 0x3C3B7C938D402055: This handmade beauty embodies the essence of dartboard design with no extra frills. When confronted with the Cheapskate fiber backboard, the darts won’t know where to land. Challenge your friends to a game on the Classic Master Darter!
+   [0B71E] 0x3C3B7C938D402055: This handmade beauty embodies the essence of dartboard design with no extra frills. When confronted with the Cheapskate fiber backboard, the darts won't know where to land. Challenge your friends to a game on the Classic Master Darter!
    [0B71F] 0x3B9F0F43A0F4F953: This top-of-the-line dartboard has all the latest upgrades that will make any Sim stop to check it out. The LED display and electronic heckler will make for an unforgettable dartboard experience for you and the audience that will surely form around you. Don't worry about those watching eyes, the GuaranteeStick backboard ensures a very low rate of dart falloff!
    [0B720] 0x4D9689C961D748AE: All maple tree owners know that getting syrup from a maple tree is much harder than it looks on TV.
    [0B721] 0x283C5827110D5633: Eschew those artificial pine-scented products! Plant a Scotch Pine Tree, breathe deep, and enjoy fresh, natural pine-scented air!
@@ -74693,7 +74693,7 @@ Unknown3: 0x00000000
    [123C0] 0xF36F4B1634B5A5E9: Sports Agent Retirement
    [123C1] 0x48204A932FF5891B: Video Game Developer
    [123C2] 0x87585C97D2F7D7B4: Work Research
-   [123C3] 0x0D120FD1CA97A592: Play games to build online and social networking cred. Don’t worry - it’s research!
+   [123C3] 0x0D120FD1CA97A592: Play games to build online and social networking cred. Don't worry — it's research!
    [123C4] 0xCCF7C916BC5F92E5: Art Director
    [123C5] 0x012053C7C9E33FB7: Assistant Concept Artist
    [123C6] 0x26CA19AC91D1D1CB: Character Modeler
@@ -76555,7 +76555,7 @@ Unknown3: 0x00000000
    [12B06] 0xE4AA46A8798C5EE9: {0.SimFirstName}'s Tailgating party is starting soon. A little setup might be in order. DO NOT TRANSLATE
    [12B07] 0x35EEA828C5C07461: {0.SimFirstName}'s Victory Party is starting soon. A little setup might be in order. DO NOT TRANSLATE
    [12B08] 0x0D75227556E911FB: {0.SimName} has a Video Game LAN party is starting soon. Better get the TVs and game consoles set up! DO NOT TRANSLATE
-   [12B09] 0x78AE37B1DD357110: {0.SimFirstName}'s visitors were not able to make it.  Try again later.
+   [12B09] 0x78AE37B1DD357110: {0.SimFirstName}'s visitors were not able to make it. Try again later.
    [12B0A] 0xFFDC02E825FF2C0B: Your visitors have just arrived! Be a good host and greet them before they feel unwelcome.
    [12B0B] 0x72AC55F5D9BD4092: Tech Level 2
    [12B0C] 0x72AC55F5D9BD4093: Tech Level 3
@@ -77878,16 +77878,16 @@ Unknown3: 0x00000000
    [13031] 0x79C61BE03E9E10D5: Ancient Fish Fossil
    [13032] 0x11A92406ABC2A8DE: This Dendorsimius Spiniferi was once known for being as delicious as it was deadly. Now it's known for being extinct.
    [13033] 0x6D1A9F8536B1DF92: Uncommon
-   [13034] 0xCDD4F4C5EED0BE38: Scuba diving can yield bounteous rewards and reveal awe-inspiring wonders to those who brave the depths. For now, though, focus on breathing, and try not to go overboard!
-   [13035] 0x919A2454CCB33918: You’re as comfortable under the water as you are above it. You could find Jacques Cousteau’s lost contact lens at the bottom of the Aleutian trench. You are the Scübamensch!
+   [13034] 0xCDD4F4C5EED0BE38: Scuba diving can yield bounteous rewards and reveal awe-inspiring wonders to those who brave the depths. For now, though, focus on breathing, and try not to go overboard!
+   [13035] 0x919A2454CCB33918: You're as comfortable under the water as you are above it. You could find Jacques Cousteau's lost contact lens at the bottom of the Aleutian trench. You are the Scübamensch!
    [13036] 0xCDD4F4C5EED0BE3B: You’re starting to get your sea legs, in that at this point they should be feeling more like flippers than legs. Keep diving and keep exploring.
    [13037] 0xCDD4F4C5EED0BE3A: Collecting plunders from the sea is getting easier and easier. Remember, the ocean is solvent, but can your business be?
-   [13038] 0xCDD4F4C5EED0BE3D: Deeper and deeper you go. That ocean bed can be a bed of roses or a bed of nails depending on how you handle it. Stay vigilant!
+   [13038] 0xCDD4F4C5EED0BE3D: Deeper and deeper you go. That ocean bed can be a bed of roses, or a bed of nails depending on how you handle it. Stay vigilant!
    [13039] 0xCDD4F4C5EED0BE3C: You are making a respectable living, and becoming quite an authority on the sea. Don’t rise through the ranks too quickly; you wouldn’t want to get the bends!
    [1303A] 0xCDD4F4C5EED0BE3F: As you get better at diving, your knowledge of the ocean increases. You’re the type that can throw around terms like ‘thalassic’ without consulting a thesaurus.
    [1303B] 0xCDD4F4C5EED0BE3E: In this career, you’re only as good as your last nadir. You’ve gone about as low as one can, but there’s still more to find down there!
-   [1303C] 0xCDD4F4C5EED0BE31: You are one of the very best at extracting valuables from the salty deep. In fact, you could use the word ‘swag’ and be taken entirely seriously. Still… don’t.
-   [1303D] 0xCDD4F4C5EED0BE30: Your depth in the diving field is matched only by the depths you can actually descend to. Others can only fathom the fathoms you’ve crossed. 
+   [1303C] 0xCDD4F4C5EED0BE31: You are one of the very best at extracting valuables from the salty deep. In fact, you could use the word 'swag' and be taken entirely seriously. Still... don't.
+   [1303D] 0xCDD4F4C5EED0BE30: Your depth in the diving field is matched only by the depths you can actually descend to. Others can only fathom the fathoms you've crossed.
    [1303E] 0x08A6C2945E198E30: Abysmal Diver
    [1303F] 0xCCEAD21BE56C9BA0: Honorary Mermaid
    [13040] 0x08A6C2945E198E33: Nautical Neophyte

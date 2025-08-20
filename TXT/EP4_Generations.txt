@@ -47,7 +47,7 @@ Unknown3: 0x00000000
    [02A] 0x9627AE7041EE9890: Envelop those tired bones in the warm caress of cotton and cradle your back with full lumbar support when you take a load off in the Quiet Time Cottage Chair. You'll be lulled into a deep sleep before you even realize it. There's no need to choose value over comfort when you can have both with a chair crafted especially for you.
    [02B] 0x11F4B38796FFDA64: Dottie loved doilies and this chair was her favorite! Do you love doilies? Then this chair is for you, too! Doilies–they're not just for elders anymore!
    [02C] 0x64C02EE0C04E2831: Take a seat in the Cup O' Chair and let it cradle your body like a bowl of soup. You'll become as limp as noodles as you relax in this inviting chair. Instead of nursing a bowl of soup when you are sick, now you can let the bowl nurse you!
-   [02D] 0x10BC782CBA27D241: Ticking the days away was never more fun than with this whimsical kettle clock. With easy-to-read jumbo numbers and a simulated kettle whistle that screams every hour, you'll always know what time it is!
+   [02D] 0x10BC782CBA27D241: Ticking the days away was never more fun than with this whimsical kettle clock. With easy-to-read jumbo numbers and a simulated kettle whistle that screams every hour, you'll always know what time it is!
    [02E] 0x9B399D9A4980BFFE: Once deemed fit for only the highest of royalty, this regal banner has been revised for a pauper's budget. Bring a touch of medieval embellishment into your home (or castle) today.
    [02F] 0xEC83B660F0E7C4B2: There's plenty of life left in these visually arresting curtains! You take these home, add a French pleat here, wrap a swath of cloth there, and suddenly you've got a beautiful set of curtains going.
    [030] 0x848603FC240751AD: The pinched drape was one of the first types of stylized drape to be developed in the uncivilized world. It is still found in use today because the civilized world likes it too. This variation on the classic form was created by master drapes-woman Pearl Piccolo at her exclusive Sunset Valley studio.
@@ -131,7 +131,7 @@ Unknown3: 0x00000000
    [07E] 0x48650394F059E479: Does your washroom lack cabinet space? Fix the issue in a jiffy with the Ultimate Powder Room Organizer. Not only does it hold the necessary essentials for a cozy and well-equipped bathroom, but it also has plenty of room for tchotchkes!
    [07F] 0x4BD7DD1C57E1B544: When viewing this piece, one can imagine the thrill of a spacecraft lifting off! The countdown, the roar of the engines, the excitement of the crew... Are they going to the moon? Or perhaps to a far off planet? Or maybe they are going to land in your own backyard? The sky is the limit when imagination combines with the complexities of this gorgeous decorative piece.
    [080] 0x6F037DACB7B5F1CF: Snuggle out your preteen angst towards your family and peers on the leather and lace Gothic Girl Doll. Adults may find her creepy, but you'll love her because you know that she is the only one who truly understands your inner pain!
-   [081] 0xDA5496E8A1A1E89A: Say goodbye to your florist and hello to happy days with this decorative vase that is sure to brighten your home. Comes with a living arrangement, treated with the patented "Eternal Green" self-contained nutrient system, designed to survive for decades without a drop of water. 
+   [081] 0xDA5496E8A1A1E89A: Say goodbye to your florist and hello to happy days with this decorative vase that is sure to brighten your home. Comes with a living arrangement, treated with the patented "Eternal Green" self-contained nutrient system, designed to survive for decades without a drop of water. 
    [082] 0x6EB61C1FEE9411C9: This little buddy is waiting to be brought home so he can be your constant companion and new best friend. Give him a squeeze and scare away all the bullies with his menacing roar. The Little Rawr is the sweetest scaly friend a child could ask for!
    [083] 0xC8F9DAFF709C9F60: This robotic blast from the past comes to you straight from the Whiz-Bang Toy Corporation. Famous for gracing the back page of such classic comic books as "Super Freezerbunny" and "Larry Llama's Adventures," this retro toy represents the golden age of mechanical progress. Now your offspring can enjoy this classic reproduction constructed out of child-safe plastic instead of the original sharp-edged tin!
    [084] 0xDD14B5A901B8A17F: This decorative pair of shoes is named after classic children's story about the little boy Benny who lost his shoes. He asked everyone to help him find them: the caterpillar, the old witch, and the mangy old cat in the ruined mansion. No one can remember the moral of the story, but it likely has something to do with keeping track of things that are important to you!
@@ -187,9 +187,9 @@ Unknown3: 0x00000000
    [0B6] 0x6FD510274B3E2AEB: Constructed by Plastico Funco, the Rib-it Rib-it Froggy McFrog Slide is a nearly indestructible addition to your backyard entertainment collection. The entire family will enjoy hours of gliding down a waterlogged sheet of plastic through the hungry mouth of Froggy McFrog! 
    [0B7] 0xB6F8801C18B84B00: Tired of hopping around the Schuper Schprinkler? Well, here's your chance to take a slippery ride in your very own yard! Keep your kids out of trouble by letting them play for hours on the New Ultimate Backyard Slide. Don't let this fantastic item slip away!
    [0B8] 0x7227F679B7EDF59E: Fifty years ago, popular thinking agreed that in the near future, Sims would forgo cooked food and consume all nutrition in pill form. This vision of the future inspired forward-thinking furniture designers to design their furniture in pill form as well. Now, you can enjoy this resurrected retro design in your home!
-   [0B9] 0x84692DDE7A9F10F1: Hang on if you can! Aspiring jockeys can now enjoy the thrills of thoroughbred racing within the confines of their neighborhood playground. With authentic sights and sounds from the racetrack, there is little doubt that the Bust R Bronco Spring Rider will satisfy the horse lover in all Sims, large and small.
+   [0B9] 0x84692DDE7A9F10F1: Hang on if you can! Aspiring jockeys can now enjoy the thrills of thoroughbred racing within the confines of their neighborhood playground. With authentic sights and sounds from the racetrack, there is little doubt that the Bust R Bronco Spring Rider will satisfy the horse lover in all Sims, large and small.
    [0BA] 0xDFBD2D6F3920AA8B: Find your sea legs and set sail on the High Seas Hijinks Spring Rider. Everlasting spring technology ensures an authentic feel with every ride. With a little imagination and some balance, aspiring buccanners everywhere will enjoy setting off and exploring uncharted territories or perhaps search for old buried treasure. Ahoy Matey!
-   [0BB] 0x06EF05DDA03BAD26: Children can now blast off into outer space in the safety of the Rockin' Rocket Spring Rider. Rock it as hard as you want as its built-in everlasting spring technology will never fail you. Careful not to fall or you might end up seeing stars in real life!
+   [0BB] 0x06EF05DDA03BAD26: Children can now blast off into outer space in the safety of the Rockin' Rocket Spring Rider. Rock it as hard as you want as its built-in everlasting spring technology will never fail you. Careful not to fall or you might end up seeing stars in real life!
    [0BC] 0xEA580258124FCEED: The Roundabout Spiral Staircase is the most basic of spiral staircases. Its simple yet strong frame allows an exceptional reliability that can guarantee you'll never need to replace it from wear and tear.
    [0BD] 0x9724D2F98096D912: This sleek spiral staircase gives you the ability to be both economical and practical when force to live in a small living space. Its wood frame and metal railing design will impress any house guests you may invite.
    [0BE] 0xD8C449AD2FC732FC: Created by Super Ultra Mega Adorableness Corporation, the Purr Purr Purr Stereo is the trendiest device among cutephiles everywhere. You'll love docking your portable music device on this sweet little stereo and letting it lull you to sleep with the soft music emitting from the little ball of fur.
@@ -291,17 +291,17 @@ Unknown3: 0x00000000
    [11E] 0x5276A3051A1E2058: Mini Glowing Globule Emitter
    [11F] 0xDAF5F6EBACC3F5BE: Read Anywhere Light
    [120] 0x419BC2D47D67439B: King Launergan's Royal Sconce
-   [121] 0x9868E1504144C5E0: The SSX Comfort Zone
+   [121] 0x9868E1504144C5E0: The SSX Comfort Zone
    [122] 0x9B42FF457DDA0B8A: Forever and Ever Yours Loveseat
    [123] 0xBCCCE21C67C2E977: Elder Magic Gnome
    [124] 0xCB1E2FF4928B4D43: Memorial to a Magic Gnome
    [125] 0xF758A553F630D6C9: Teen Magic Gnome
    [126] 0x14026F9253C11653: Toddler Magic Gnome
-   [127] 0x9377739E5772D804: Deluxe Sonarange 2000
+   [127] 0x9377739E5772D804: Deluxe Sonarange 2000
    [128] 0x72998AA08B99A839: Theatre Dressing Room Mirror
    [129] 0x3DAD8E6191C5D076: Memories Mirror
    [12A] 0x116B6CED259C1759: Bunny in the Rain
-   [12B] 0xD1581130E1E3D87F: The "Natural" Family Portrait
+   [12B] 0xD1581130E1E3D87F: The "Natural" Family Portrait
    [12C] 0x08AF81AC0F5288F1: Beacon of Freedom Poster Set
    [12D] 0x0BB5CC1BDE67EED8: Incomparable Idol Poster
    [12E] 0x4A95305F2D8386AE: Planes of the Past

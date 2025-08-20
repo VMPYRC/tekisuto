@@ -1164,23 +1164,23 @@ Unknown3: 0x00000000
    [487] 0x157982B47E2EFF25: Unfortunately, {0.SimFirstName} is not skilled enough to open this chest. {0.SimFirstName} needs to be a Level {1.Number} Scuba Diver to be able to open this chest.
    [488] 0x1717F85B7AAB22DE: {0.SimFirstName} just found the following in the treasure chest: {1.String}
    [489] 0x975D2B1527F90F4C: “Oh, so it’s adventure you want? Well then why are you hanging in the lobby?! You could be out searching for a SECRET ISLAND that only few have glimpsed. If you seek the unknown, talk to {OpTarget}. {OpTarget} will set you on your way.”
-   [48A] 0xE0D65B14269B1B85: "Talk about Refuge Island" with {OpTarget}.
+   [48A] 0xE0D65B14269B1B85: "Talk about Refuge Island" with {OpTarget}.
    [48B] 0xF31DAE14313A6FA3: The Old Sim and the Secret Island
    [48C] 0xB07C2CEE312758FF: Talk to {OpTarget}.
-   [48D] 0x291489DDAB4B213B: “Aye, maybe I know about that which you speak, and maybe I don’t. Maybe The Refuge exists, and maybe it doesn’t - are you a true ally to this archipelago? If so, I have an ecologist friend that needs help..."
+   [48D] 0x291489DDAB4B213B: "Aye, maybe I know about that which you speak, and maybe I don't. Maybe The Refuge exists, and maybe it doesn't - are you a true ally to this archipelago? If so, I have an ecologist friend that needs help..."
    [48E] 0x6D6D533535339890: Bring {OpNumItemsGoal} Kelp to {OpTarget}.
    [48F] 0x5EC200352DA4FD1A: Kelp! I need some!
    [490] 0x69A327A4A49EC14A: {OpNumItemsCurrent} / {OpNumItemsGoal} Kelp
-   [491] 0x1AE68FEAF1EE057A: “Thanks for the help. You seem like a fine person, but are you in tune with your island spirit? Perform an act of daring mind-over-matter, and then we’ll talk about the island.”
+   [491] 0x1AE68FEAF1EE057A: "Thanks for the help. You seem like a fine person, but are you in tune with your island spirit? Perform an act of daring mind-over-matter, and then we'll talk about the island."
    [492] 0xC764C126E567144F: “Firewalk” Successfully on the Firewalk Pit.
    [493] 0xB5F64C26DB7F7705: Firewalk with Me
    [494] 0xA2695A76CA36E135: Firewalk
-   [495] 0x742A01368EB092B9: “One more thing - and this is really more a favor: Roving sharks have been interrupting my sea surveys, and it’s quite a bother. As an ecologist, it’s extremely important to me that you punch a shark in the face. That’ll teach ‘em.”
+   [495] 0x742A01368EB092B9: "One more thing - and this is really more a favor: Roving sharks have been interrupting my sea surveys, and it's quite a bother. As an ecologist, it's extremely important to me that you punch a shark in the face. That’ll teach 'em."
    [496] 0x199BD10AC8011DB2: Get in a fight with a shark.
    [497] 0xE770DE0AAC19657C: Shark, a Vagrant
    [498] 0xC6BEB7B89768EFB8: Fight a shark
-   [499] 0x5E97DEF27C9B4904: There it is! The fabled Refuge Island! It should be easy to navigate there now!
-   [49A] 0x2AC17589953DD7D0: “Wow, thanks! OK, I’m convinced! Refuge Island is actually easy to find; there’s an old map at town hall that will point the way. Search the dilapidated cartography section.”
+   [499] 0x5E97DEF27C9B4904: There it is! The fabled Refuge Island! It should be easy to navigate there now!
+   [49A] 0x2AC17589953DD7D0: "Wow, thanks! OK, I'm convinced! Refuge Island is actually easy to find; there's an old map at town hall that will point the way. Search the dilapidated cartography section."
    [49B] 0x0947FCE3D8541229: “Search for Map” at {OpTarget}.
    [49C] 0xD60D27E3BB85591F: Not uncharted, you LOST the chart!
    [49D] 0x2F742E71DFC116FB: Find the Map
