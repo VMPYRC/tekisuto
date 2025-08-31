@@ -1516,7 +1516,7 @@ Unknown3: 0x00000000
    [5E7] 0xFE40021789856DA0: Give a friend’s aspiring performer their big break by getting them a gig at the Coffeehouse.
    [5E8] 0x4AEDF6DC521D791C: This opportunity is no longer available.
    [5E9] 0x752F7F7B1D307D39: Use SimPort to invite a Visiting Sim to perform at the Coffeehouse.
-   [5EA] 0x42CE6A7B011AFB0F: Diner Theatre
+   [5EA] 0x42CE6A7B011AFB0F: Diner Theater
    [5EB] 0x15593849F338ADCD: Use SimPort to invite a Visiting Sim to perform at the Coffeehouse.
    [5EC] 0x472FD78673CB2ADD: You’re like a professional promoter now!
    [5ED] 0xCAAE0B6C69243853: Inviting a friend’s Sim to perform in the Park is a walk in the park. Just book them, then set up the stage and let the show begin.

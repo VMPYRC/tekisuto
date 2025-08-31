@@ -254,7 +254,7 @@ Unknown3: 0x00000000
    [0F9] 0x33751A4FD6861268: Bonehilda Living Quarters
    [0FA] 0x011D4D0E3BCEC6B4: Condemned Home
    [0FB] 0xF5FB360E34CCE2B9: Abandoned Home
-   [0FC] 0xE36912264FA323DF: Deja View Theater
+   [0FC] 0xE36912264FA323DF: Déjà View Theater
    [0FD] 0x6FAF330A858D23F6: Antique Curtains
    [0FE] 0x2948BB9CB14F3E74: Sam’s Market Diner
    [0FF] 0x127280BFEEAA84DD: Aleister’s Antique Alchemy Cabinet
@@ -580,7 +580,7 @@ Unknown3: 0x00000000
    [23F] 0x6165D37AA0F2F464: H Two the O Indoor Pool
    [240] 0x3C2226881F1F66E7: Aleister’s Elixirs and Sundries
    [241] 0xEAE4ABA053D5237F: Everglow Academy & Coliseum
-   [242] 0x9C45F3467D45C125: Deja View Theatre
+   [242] 0x9C45F3467D45C125: Déjà View Theater
    [243] 0xDC91662E4ECCEC4F: Varg's Tavern
    [244] 0x609DE58E1C64F38F: Stone Troll Fishing Hole
    [245] 0xA6ED8AB0C5D44088: The Toadstool

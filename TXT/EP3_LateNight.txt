@@ -704,7 +704,7 @@ Unknown3: 0x00000000
    [2BB] 0xE6A2A4E60A190D02: Landgraab Marine Science Facility
    [2BC] 0xF1FA369E47093192: Wilki’s Fabulous Books and Bath
    [2BD] 0x7DF95F00FE58AA67: LlamaCo Stadium
-   [2BE] 0x1BC00DCBCFAE5BD4: Beckett Theatre
+   [2BE] 0x1BC00DCBCFAE5BD4: Beckett Theater
    [2BF] 0x3B178FF8E1686B3C: Aquarius
    [2C0] 0x61E7AE321735C718: The Brightmore
    [2C1] 0xFE154F2379345E99: Eugi's

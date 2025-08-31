@@ -28,7 +28,7 @@ Unknown3: 0x00000000
    [017] 0xB7D53FEFE9DB7579: Simple Paneling with Crown and Baseboard Moulding - Right Edge
    [018] 0xBB0D813011513BBE: The Sims™ 3 Ambitions
    [019] 0x1673DB0E300E807E: The best alarms are those that are not only reliable, but so loud you can hear them one block away! The Fireman's Friend is guaranteed to wake-up sleeping neighbors, annoy dogs, and alert an entire fire station to danger, all within mere seconds of sounding.
-   [01A] 0xA6DC8490804CCAA2: This woodern barn is a perfect housing for storage or use as a covered workplace.
+   [01A] 0xA6DC8490804CCAA2: This wooden barn is a perfect housing for storage or use as a covered workplace.
    [01B] 0x9FB4E56761A24FF8: A good chair can be underrated. Alter the setting of someone's office chair and their world is turned upside down. Make things right in your office by purchasing The Drafter's Companion.
    [01C] 0x0EEB25D7711FBDD7: While the sound of the ocean waves may lull some to sleep, the sound of creaking springs works for others. As an extra, the Signs-of-Springs bed is pre-rusted for your sleeping pleasure.
    [01D] 0x65F2B7439D14BF80: This old boat has been abandoned for a long period of time. Its remaining uses are almost non-existent.
@@ -634,7 +634,7 @@ Unknown3: 0x00000000
    [275] 0x1E4CB24D2B3579D2: 
    [276] 0x1E4CB24D2B3579D3: 
    [277] 0xD6ABA09EFD0BB328: 
-   [278] 0xDA27060AA359E18A: 1 Amphitheatre Parkway
+   [278] 0xDA27060AA359E18A: 1 Amphitheater Parkway
    [279] 0xC811C40A80713675: 900 Lakefront Drive
    [27A] 0xFA41B82024E781F0: 1500 Ivy Hill Road
    [27B] 0xF8C5B2540B929991: 1 Pickleberry Parkway
@@ -870,7 +870,7 @@ Unknown3: 0x00000000
    [361] 0xED59AA93E686F436: 
    [362] 0xED59A993E686F269: 
    [363] 0xED59A793E686EEDF: 
-   [364] 0x4445FAC8C9EB766B: Willowglen Amphitheatre
+   [364] 0x4445FAC8C9EB766B: Willowglen Amphitheater
    [365] 0x8A7703899FA7CAEF: Bistro Rouge
    [366] 0x862F891CEB5F9E90: Twinbrook Plaza
    [367] 0x5CE9DEA338880AB1: Lakeside Corporate Park
@@ -900,7 +900,7 @@ Unknown3: 0x00000000
    [37F] 0xC219224AD5A6875A: Juan's Pick 'n Pull
    [380] 0x5CA42309CF52CF6E: Whistlestop Day Spa
    [381] 0xD6968A8AD9B9E5CE: Riverside Professional Sports Complex
-   [382] 0x97412FFF495C9EFD: Twinbrook Theatre for the Perfoming Arts
+   [382] 0x97412FFF495C9EFD: Twinbrook Theater for the Performing Arts
    [383] 0x8C9ADAAF628CBA20: Twinbrook Town Center
    [384] 0xEA3DE7B0FE9FB227: Twinbrook Industrial Train Center
    [385] 0x73B4B8D0740D10EE: Vacant Lot
@@ -1624,7 +1624,7 @@ Unknown3: 0x00000000
    [653] 0x05A41DBCA50AB792: Read {OpTarget}'s Journal
    [654] 0xD0142ABC8641895C: Someone's Fishy
    [655] 0xDC8D5F8DB09E0398: Read {OpTarget}'s Journal
-   [656] 0x2A7E4049E6A8DE30: This is unbelieveable. The lab technician had been doing research on goldfish… trying to turn them into real gold. Then, on "Take You Child To Work Day", their kid ran in front of the FishAlchemy ray to try to save the goldfish. Poor kid… the ray transformed him into something... inhuman. He disappeared one day leaving only a pile of apple cores on the kitchen table... Wait... what's this? Says the kid became obsessed with water. Maybe I should check out the pool.
+   [656] 0x2A7E4049E6A8DE30: This is unbelievable. The lab technician had been doing research on goldfish... trying to turn them into real gold. Then, on "Take You Child To Work Day", their kid ran in front of the FishAlchemy ray to try to save the goldfish. Poor kid... the ray transformed him into something... inhuman. He disappeared one day leaving only a pile of apple cores on the kitchen table... Wait... what's this? Says the kid became obsessed with water. Maybe I should check out the pool.
    [657] 0xF1EA4995B27A8309: "Snoop for Clues" at the pool
    [658] 0xBEB0749595AD7DFF: Someone's Fishy
    [659] 0x41DBD646F6114EDB: Snoop for Clues
@@ -1669,11 +1669,11 @@ Unknown3: 0x00000000
    [680] 0x72E9F57C48F94F62: "Report In" to {OpTarget}
    [681] 0x3FE6027C2C59A5CC: The Case of the Enthusiastic Fans
    [682] 0x36CEACB5030658A8: Report In
-   [683] 0xF88B97EF4DBEF17E: {OpSource} is convinced there are stalkers everywhere. I look over my shoulder and don't see anything, but hey, musicians can be dramatic at times. I should conduct a stakeout at the local theatre to see if any unwanted groupies gather.
-   [684] 0xA89335519D5C37F3: "Conduct Stakeout" at local theatre
+   [683] 0xF88B97EF4DBEF17E: {OpSource} is convinced there are stalkers everywhere. I look over my shoulder and don't see anything, but hey, musicians can be dramatic at times. I should conduct a stakeout at the local theater to see if any unwanted groupies gather.
+   [684] 0xA89335519D5C37F3: "Conduct Stakeout" at local theater
    [685] 0xDF340851BD0E1661: The Case of the Enthusiastic Fans
    [686] 0xB8474E6BEFCC0BE1: Conduct Stakeout
-   [687] 0xD6EE1AFFECB344FF: There's nothing going on around the theatre -- perhaps I'm not being subtle enough? I bet these stalkers were clumsy enough to leave behind evidence at the park, which is the site of {OpSource}'s last show. I should snoop for clues in the park.
+   [687] 0xD6EE1AFFECB344FF: There's nothing going on around the theater — perhaps I'm not being subtle enough? I bet these stalkers were clumsy enough to leave behind evidence at the park, which is the site of {OpSource}'s last show. I should snoop for clues in the park.
    [688] 0xA6B0E977F2903104: "Snoop for Clues" at main park
    [689] 0xD9B4DE780F2FDE26: The Case of the Enthusiastic Fans
    [68A] 0x03F7F7B880D37E66: Snoop for Clues
@@ -1865,11 +1865,11 @@ Unknown3: 0x00000000
    [744] 0xB4F947DAFF7FECC5: "Report In" to {OpTarget}
    [745] 0xC7419ADB0A20F3E3: In the Name of Love
    [746] 0xDB41FDEAB26BB63F: Report In
-   [747] 0xF7760BBAE7615F56: {OpTarget} believes that something shady is going on at the super market. I should go talk to {OpTargetFirstName} and find out exactly what's going on.
+   [747] 0xF7760BBAE7615F56: {OpTarget} believes that something shady is going on at the supermarket. I should go talk to {OpTargetFirstName} and find out exactly what's going on.
    [748] 0x7F56A950142D7AEB: "Interview" Client
    [749] 0xB25A9C5030CD2469: The Case of the Price Gouged Produce
    [74A] 0xC2FA3128D63DAA59: Interview Client
-   [74B] 0x31D75F56E00E98C1: My client feels the super market is price gouging and wants me to find dirt on the business to use as leverage to get prices lowered. I should purchase {OpNumItemsGoal} tomatoes and take them to the science lab to conduct a few experiments on them.
+   [74B] 0x31D75F56E00E98C1: My client feels the supermarket is price gouging and wants me to find dirt on the business to use as leverage to get prices lowered. I should purchase {OpNumItemsGoal} tomatoes and take them to the science lab to conduct a few experiments on them.
    [74C] 0xCCC8C33DC57C5C7A: Purchase {OpNumItemsGoal} Tomatoes and "Conduct Experiments" at the local Science Facility
    [74D] 0x998EB03DA8AEECB4: The Case of the Price Gouged Produce
    [74E] 0xBB801CA9AA1C3640: Conduct Experiments
@@ -1881,11 +1881,11 @@ Unknown3: 0x00000000
    [754] 0x35CA4568CFAFBC18: "Discuss Tomato Properties" with {OpTarget}
    [755] 0x2381F268C50EB5F2: The Case of the Price Gouged Produce
    [756] 0xB3BDBEBEBA9DCE52: Speak to {OpTarget}
-   [757] 0x9F8B67C217E14F22: {OpSource} is impressed, but being the skeptical type, concern was expressed as well. Doc {OpSourceFirstName} claims that nothing works that well. Too bad I feel great, eh? I should snoop for clues at the local super market…see if something turns up.
+   [757] 0x9F8B67C217E14F22: {OpSource} is impressed, but being the skeptical type, concern was expressed as well. Doc {OpSourceFirstName} claims that nothing works that well. Too bad I feel great, eh? I should snoop for clues at the local supermarket... see if something turns up.
    [758] 0xCD439354F7A37637: "Snoop for Clues" at local Supermarket
    [759] 0xBB321E54ED31787D: The Case of the Price Gouged Produce
    [75A] 0xBF0A6FA6D1A393FD: Snoop for Clues
-   [75B] 0x1FCCE75D996A988D: I found an odd chemical compound around the super market. If my school years serve me right, it's the compound HyroSimoxoNooper. Why would this be in a tomato of all things? I should hack the scientific database and do some research.
+   [75B] 0x1FCCE75D996A988D: I found an odd chemical compound around the supermarket. If my school years serve me right, it's the compound HyroSimoxoNooper. Why would this be in a tomato of all things? I should hack the scientific database and do some research.
    [75C] 0xD2EABB2EA5A2FCC6: "Hack" Scientific Database on a Computer
    [75D] 0xE196102EAD319B18: The Case of the Price Gouged Produce
    [75E] 0x341D84FE86701834: Hack Scientific Database
@@ -2051,8 +2051,8 @@ Unknown3: 0x00000000
    [7FE] 0xC739E70888CDFB89: "Phone Intelligence Agency" on phone to decipher evidence
    [7FF] 0x940012086C00F67F: The Case of the Bermuda Triangle Love Triangle
    [800] 0xACEC877A9A568F5B: Phone Intelligence Agency
-   [801] 0x803635D22F3EBE99: It turns out my contact at the intelligence agency has run across all of the names before. Each one is an alias of a well-known con-artist, a local musician. I'm going to catch the con backstage at the theatre. Ha ha!
-   [802] 0xDAF3BB2F7B5E3012: "Catch Con-Artist" at the local Theatre
+   [801] 0x803635D22F3EBE99: It turns out my contact at the intelligence agency has run across all of the names before. Each one is an alias of a well-known con-artist, a local musician. I'm going to catch the con backstage at the theater. Ha ha!
+   [802] 0xDAF3BB2F7B5E3012: "Catch Con-Artist" at the local Theater
    [803] 0xA563C82F5C9501DC: The Case of the Bermuda Triangle Love Triangle
    [804] 0x479E10C154E34418: Catch Con-Artist
    [805] 0x4B1306669F74931A: For a split second I watch {OpTarget}'s heart beat so strongly I thought the planet was turning. It was touching, but really it is all for the best. {MB.He}{FB.She} re-allocated funds {MB.he}{FB.she} was going to spend on a romantic vacation to pay me my fee. Case closed.
@@ -2478,9 +2478,9 @@ Unknown3: 0x00000000
    [9A9] 0x62EEE606A7736978: The Priciples of Principals
    [9AA] 0x4F8E384CE1802094: Read Education book.
    [9AB] 0xB66F3C610B4C5040: The dance went off without a hitch. Seems the students didn't want to try any funny business with you around. Your boss was very impressed.
-   [9AC] 0x7FF0F4968AF6E264: The students have a big dance tonight at the theatre and your boss needs another chaperone. If you go to the theatre after work tonight and watch the kids you'll gain some job performance.
+   [9AC] 0x7FF0F4968AF6E264: The students have a big dance tonight at the theater and your boss needs another chaperone. If you go to the theater after work tonight and watch the kids you'll gain some job performance.
    [9AD] 0xC8589EFE482BEDA8: Why didn't you go to the dance? Who knows what kind of trouble those kids got into!
-   [9AE] 0x11448FFB29EA29BD: "Chaperone Dance" at the Theatre tonight
+   [9AE] 0x11448FFB29EA29BD: "Chaperone Dance" at the Theater tonight
    [9AF] 0x2355E2FB345BEE4B: Chaperone the Dance
    [9B0] 0x7B3955D638F65057: Chaperone Dance
    [9B1] 0xADE547D73A011C07: The students had a great time and learned a lot. Your boss was also impressed at your dedication to your students.
@@ -2556,8 +2556,8 @@ Unknown3: 0x00000000
    [9F7] 0xAEB1251B9036E9B7: Best. Haunted. House. Ever.
    [9F8] 0x398E6ADCB3136C23: {OpNumItemsCurrent}/{OpNumItemsGoal} spirits.
    [9F9] 0xC285C017C056203D: The director loved the spirits… truly terrfiying! The audience won't even know what hit them.
-   [9FA] 0x80EFC4E93269A933: The theatre director is trying to put on a horror themed play, but he thinks that the props they have are just not spooky enough. He'd like {OpOwner} to bring in {OpNumItemsGoal} spirits to the Theatre.
-   [9FB] 0xD2DEF90A66638328: "Deliver" {OpNumItemsGoal} spirits to the Theatre.
+   [9FA] 0x80EFC4E93269A933: The theater director is trying to put on a horror themed play, but he thinks that the props they have are just not spooky enough. He'd like {OpOwner} to bring in {OpNumItemsGoal} spirits to the Theater.
+   [9FB] 0xD2DEF90A66638328: "Deliver" {OpNumItemsGoal} spirits to the Theater.
    [9FC] 0xC097A60A5BC42FE2: Spooky Props
    [9FD] 0x2F6E4CF0295470A2: {OpNumItemsCurrent}/{OpNumItemsGoal} spirits.
    [9FE] 0x035CB904F748C612: Those spirits really spooked those criminals. They were running around, hopping on tables and squealing!
@@ -2694,7 +2694,7 @@ Unknown3: 0x00000000
    [A81] 0x68D84D4AB8CF2718: {OpNumItemsCurrent}/{OpNumItemsGoal} Topiaries
    [A82] 0x603E04EBAD4944A6: The Endowment was pleased with {OpOwner}'s progress, but tested {OpOwner} mercilessly to ensure there was skill gain. In the end they were satisfied! {OpOwner} even learned a thing or two from the relentless test process.
    [A83] 0x6BC387F4820C1AB2: The Endowment for the Sim Arts seeks to improve the quality of life for growing artists and help them find more time to focus on their art. Their recent fact-finding has discovered that {OpOwner} is a burgeoning sculptor and could benefit from the Endowments budget. The Endowment will pay once {OpOwner}'s Sculpting Skill is improved.
-   [A84] 0x9BDB17114FBFFCC7: Gain a skill level in Sculpting then report to the Theatre for a cash reward and a sculpting skill boost.
+   [A84] 0x9BDB17114FBFFCC7: Gain a skill level in Sculpting then report to the Theater for a cash reward and a sculpting skill boost.
    [A85] 0x89C9E211454E6B2D: The Importance of Sculpting
    [A86] 0x8FF5F362A0016ACD: Gain a skill level in Sculpting
    [A87] 0xAD640C6E47D3E41E: {OpTargetFirstName} was quite pleased with the sculpture and even threw in a nice bonus for {OpOwner}'s hard work.
