@@ -507,7 +507,7 @@ Unknown3: 0x00000000
    [001F6] 0xEB6CF2BBB95C27CF: Whoever said money doesn't grow on trees was absolutely wrong... but don't think growing a money tree is easy. You might find earning money the old fashion way gives you more bang for Simoleon if gardening is not your forté.
    [001F7] 0x6778C45FC6D5B30C: This seed can be used to plant a Money tree!
    [001F8] 0x0A686164A7D261F4: Having a bad day? Want someone else to have one? This is the device for you. Cures nausea, soreness, and other ailments as well as cause them at the flick of a switch.
-   [001F9] 0x2B0E515D82E739B6: This is the theatre for your town.
+   [001F9] 0x2B0E515D82E739B6: This is the theater for your town.
    [001FA] 0x3C28D239E5C814D5: Those who sacrifice liberty for security deserve the Freedom Fence. Standing at exactly 1776mm tall, or close to it, this patriotic enclosure reminds your neighbors that they can take your yard, but they can never take your Freedom Fence!
    [001FB] 0x8F4E13FEC2A22BD7: This heartwarming portrait of the Giraffe family was completed just days before Mother Giraffe was abducted by a traveling circus for her trapeze talents. Her career may be soaring, but her heart still longs for the family she had to leave behind.
    [001FC] 0x624475BEEC134592: If your inner-child never grew up, then the Saturday Morning Fun Kids! need no introduction. Their weekly animated shenanigans have amused countless children, and nothing is more important than entertaining the uncounted young.
@@ -1610,7 +1610,7 @@ Unknown3: 0x00000000
    [00645] 0x3498B1A493099779: Money Tree Seed
    [00646] 0xE932792785754C67: Moodlet Manager
    [00647] 0x0D6DA3FBDDF5C350: ****Motion Tech Test
-   [00648] 0x5F59A3691FD9F1E3: Wilsonoff Community Theatre
+   [00648] 0x5F59A3691FD9F1E3: Wilsonoff Community Theater
    [00649] 0x169D73CB54F67BBF: Mustard Jar
    [0064A] 0xCBE9138A9DCFE624: *****
    [0064B] 0x114E33117EE76221: nbhBridge
@@ -2915,7 +2915,7 @@ Unknown3: 0x00000000
    [00B5E] 0x569DDB7A09B4E19E: Go to the Gym
    [00B5F] 0xEF4E3B0E446E438E: Go to the Library
    [00B60] 0x43AA3EACBEE3E6E7: Go to the Park
-   [00B61] 0x95F842D541F12586: Go to the Theatre
+   [00B61] 0x95F842D541F12586: Go to the Theater
    [00B62] 0xF310C046177E905B: Idle Chat
    [00B63] 0xDA27031485E95BF1: Be Talked To
    [00B64] 0x08E87876848D225B: Chat
@@ -3381,8 +3381,8 @@ Unknown3: 0x00000000
    [00D30] 0xF69372826EB37B84: {0.SimName} has received her retirement pension of {1.Money}.
    [00D31] 0x78ABDB72D9778647: {0.SimFirstName} has already retired from this career. If accepted, {0.SimFirstName} will lose his retirement pension.
    [00D32] 0x3B73F08D6CAD4EB6: {0.SimFirstName} has already retired from this career. If accepted, {0.SimFirstName} will lose her retirement pension.
-   [00D33] 0x67B9EE78037EF224: {0.SimFirstName} now earns money by performing concerts at the Stadium and Theatre!
-   [00D34] 0x56B9461558BE83A7: {0.SimFirstName} now earns money by performing concerts at the Stadium and Theatre!
+   [00D33] 0x67B9EE78037EF224: {0.SimFirstName} now earns money by performing concerts at the Stadium and Theater!
+   [00D34] 0x56B9461558BE83A7: {0.SimFirstName} now earns money by performing concerts at the Stadium and Theater!
    [00D35] 0xB74DE2A2FA05B024: Would {0.SimName} really like to apply for a transfer?
    [00D36] 0x1DECA43D5FDF0DA7: Would {0.SimName} really like to apply for a transfer?
    [00D37] 0x600E9AC484AA1434: Working
@@ -3830,13 +3830,13 @@ Unknown3: 0x00000000
    [00EF1] 0xEAE28E28EF99684C: Grounds for the Dead
    [00EF2] 0x5BA9D2B8765BAA2F: Hospital
    [00EF3] 0x324AFA602ED7FF8D: Mirabello & Main
-   [00EF4] 0x162CE145DD8409A8: Mirabello Plaza: bookstore, theatre, and grocery store
+   [00EF4] 0x162CE145DD8409A8: Mirabello Plaza: bookstore, theater, and grocery store
    [00EF5] 0xFD12D695D7CC69EB: Community Lot
    [00EF6] 0x00AB85966AC2EA67: Le Petit Shark Pool Center 
    [00EF7] 0x43023E79F03C1040: Restaurant
    [00EF8] 0x9771C471EA147072: Park
    [00EF9] 0x8D2D9671E3CFF1D6: Shop
-   [00EFA] 0x4A2738F810FEF372: Wilsonoff Community Theatre
+   [00EFA] 0x4A2738F810FEF372: Wilsonoff Community Theater
    [00EFB] 0xE3A95662FA418C76: Residental Lot
    [00EFC] 0xF4B6C7FDC447570F: Deliver Newspaper
    [00EFD] 0x145FAB26054A605E: Deliver Newspaper
@@ -4395,7 +4395,7 @@ Unknown3: 0x00000000
    [01126] 0x77A216E2A496F723: Work on Book
    [01127] 0x19A73A9B8D7C857E: Best selling books are the best way to earn huge royalty checks. Highly skilled writers that know the ins and outs of a genre tend to write the most best sellers.
    [01128] 0xA0E1B675117900EA: Write {0.Number} Best Sellers
-   [01129] 0xA03D9B05F61097A1: The best movies are always showing at the theatre. Your Sim hopes to catch a flick soon. Check the theatre to see if there is a movie showing. Don't forget weekend matinees!
+   [01129] 0xA03D9B05F61097A1: The best movies are always showing at the theater. Your Sim hopes to catch a flick soon. Check the theater to see if there is a movie showing. Don't forget weekend matinees!
    [0112A] 0x7E8EE4B8D7D335D1: Watch a Movie
    [0112B] 0x20F77EF97788E9FB: Variety is the spice of life, and going on dates with different Sims can provide that spice!
    [0112C] 0x4274D9899F71A183: Date {0.Number} Different Sims
@@ -5083,7 +5083,7 @@ Unknown3: 0x00000000
    [013D6] 0x1020E20A135311F8: Have Sleepover with {1.SimFirstName}
    [013D7] 0xA00543A95C911117: When it's time to move on, it's time to move on. Your Sim hopes to give notice and quit the current job. Simply quit at the work place, or tell the boss face to face!
    [013D8] 0x7C6A30A242FF103F: Quit Job
-   [013D9] 0x8770575F38702EB4: The symphony is so romantic and wonderful, a buffet of sound for a Sim's ears. Your Sim dreams of seeing a symphony. Check the theatre on weekends to see if there is a symphony!
+   [013D9] 0x8770575F38702EB4: The symphony is so romantic and wonderful, a buffet of sound for a Sim's ears. Your Sim dreams of seeing a symphony. Check the theater on weekends to see if there is a symphony!
    [013DA] 0x10B3EB4A75060F18: See a Symphony
    [013DB] 0xC076EFEE0B29CC0D: Simoleons can be earned in a variety of ways. Send your Sim to the store to sell some of the stuff your Sim is carrying, or delete household items in Buy Mode.
    [013DC] 0x724C52A15A4C9910: Sell {1.ObjectName}
@@ -5129,7 +5129,7 @@ Unknown3: 0x00000000
    [01404] 0xB13DCE16CFA50CC5: Earn {0.Number} Simoleons in Tips
    [01405] 0x0EB15297C4663071: Masterpieces are rare samples of pure creative genius. Your Sim dreams of painting multiple masterpieces, but it'll take dedication, a mastery of the skill, and a lot of luck.
    [01406] 0x4B3BD539F13599C1: Paint {0.Number} Masterpieces
-   [01407] 0x5F9C8AFF56B2F394: Comedies, dramas, and musicals, all on stage. Your Sim wants to see a play. Check the theatre on weekends to see if there is a play showing!
+   [01407] 0x5F9C8AFF56B2F394: Comedies, dramas, and musicals, all on stage. Your Sim wants to see a play. Check the theater on weekends to see if there is a play showing!
    [01408] 0xD46D4BA7CF0A78F8: See a Play
    [01409] 0x54D4AC0E57272E7F: Great neighbors make suburban life bearable. Your Sim wants to be invited over by a neighbor to enjoy neighborhood activities. Become friends with someone and await their invitation!
    [0140A] 0x50FECCE9B7F92232: Be Invited Over by {1.SimFirstName}
@@ -5634,12 +5634,12 @@ Unknown3: 0x00000000
    [015FD] 0x75D69B30D8E1882F: Reach Level {0.Number} of {1.String} Skill
    [015FE] 0xAEDE0B5019F4E9B0: Reach Level {0.Number} of a Skill
    [015FF] 0xEAC3DCB4E033252C: Reach Level {0.Number} of {1.String} Skill
-   [01600] 0x23AE18377E19DE42: The theatre packs a punch of entertainment for Sims. Your Sim really wants to visit the theatre to see what it offers. Send your Sim to the theatre to check things out!
-   [01601] 0x952BA83E57459F3E: Visit Theatre
-   [01602] 0x026E037DEB546E0B: The theatre is perfect when you just want to sit beside your date, hold hands, and watch. Your Sim wants to ask someone on a date to the theatre!
-   [01603] 0x63DB95BF9CD8776E: Ask {1.SimFirstName} on Date to Theatre
-   [01604] 0x4636F0CBD9AEEE33: Ask Someone on a Date to Theatre
-   [01605] 0x0D66F97E6E776729: Ask {1.SimFirstName} on Date to Theatre
+   [01600] 0x23AE18377E19DE42: The theater packs a punch of entertainment for Sims. Your Sim really wants to visit the theater to see what it offers. Send your Sim to the theater to check things out!
+   [01601] 0x952BA83E57459F3E: Visit Theater
+   [01602] 0x026E037DEB546E0B: The theater is perfect when you just want to sit beside your date, hold hands, and watch. Your Sim wants to ask someone on a date to the theater!
+   [01603] 0x63DB95BF9CD8776E: Ask {1.SimFirstName} on Date to Theater
+   [01604] 0x4636F0CBD9AEEE33: Ask Someone on a Date to Theater
+   [01605] 0x0D66F97E6E776729: Ask {1.SimFirstName} on Date to Theater
    [01606] 0x73888B0581B21929: It's true the burglar tried to rob your Sim, but that shouldn't sour the relationship. Your Sim wants to set the burglar free! Hurry – go to the burglar before the police officer heads off to the station.
    [01607] 0xD0C6ABED2587B679: Set the Burglar Free
    [01608] 0xA3A409C673D11F6E: Your Sim wants more seeds to plant and has heard that some can be found in the town. Send your Sim exploring to find some seeds!
@@ -5709,7 +5709,7 @@ Unknown3: 0x00000000
    [01648] 0x8A4D441B4988C6C1: Reach Top of {1.String} Career
    [01649] 0x8B316857E65A61CA: Reach the Top Level of a Career
    [0164A] 0x2C8A6D15DDFF20FA: Reach Top of {1.String} Career
-   [0164B] 0xDDBA05FBEDE9526D: The neighborhood enjoys quite a few good concerts from time to time. Your Sim really wants to see a concert at the theatre. Check the theatre on Fridays and Saturdays to see if there is a concert!
+   [0164B] 0xDDBA05FBEDE9526D: The neighborhood enjoys quite a few good concerts from time to time. Your Sim really wants to see a concert at the theater. Check the theater on Fridays and Saturdays to see if there is a concert!
    [0164C] 0xFDEF093C7670EC9D: See a Concert
    [0164D] 0x9F64817298E770C8: A painting masterpiece is such a rare, beautiful thing that cannot be taken for granted. Your Sim wants to paint a masterpiece. A strong painting skill and luck will bring this about.
    [0164E] 0x7CE4AD839777DF3C: Paint a Masterpiece
@@ -6055,7 +6055,7 @@ Unknown3: 0x00000000
    [017A2] 0xFD8A1BA4739A2071: Your Sim wants to take a Cooking Skill class to learn the skill. Visit the Bistro to enroll in the class.
    [017A3] 0x1CC9C7954A2C4473: Your Sim wants to take a Fishing Skill class to learn the skill. Visit the Supermarket to enroll in the class.
    [017A4] 0xAE420A6FC206F6B0: Your Sim wants to take a Gardening Skill class to learn the skill. Visit the Science Facility to enroll in the class.
-   [017A5] 0x76B1EAAE6A608B59: Your Sim wants to take a Guitar Skill class to learn the skill. Visit the Theatre to enroll in the class.
+   [017A5] 0x76B1EAAE6A608B59: Your Sim wants to take a Guitar Skill class to learn the skill. Visit the Theater to enroll in the class.
    [017A6] 0xCF490B8EA04BDC58: Your Sim wants to take a Handiness Skill class to learn the skill. Visit the Military Base to enroll in the class.
    [017A7] 0xC83D3BEF7AA79517: Your Sim wants to take a Logic Skill class to learn the skill. Visit the Science Facility to enroll in the class.
    [017A8] 0xA2A9A786917DA483: Your Sim wants to take a Painting Skill class to learn the skill. Visit the School to enroll in the class.
@@ -7776,8 +7776,8 @@ Unknown3: 0x00000000
    [01E5B] 0xF5DFF34BA07808AE: Tastes Like Fridge
    [01E5C] 0x99DA81D41BB65EA4: Every bite shouldn't contain flavors from everything else in the fridge. Quality fridges never have this problem!
    [01E5D] 0xA5072EA1CB468CB7: That tasted like a fridge!
-   [01E5E] 0x41C645231C576942: Heard Theatre Music
-   [01E5F] 0x053B9F67C2A611E8: The music pulsing from the inside of the theatre sounds awesome. Perhaps tickets are still available!
+   [01E5E] 0x41C645231C576942: Heard Theater Music
+   [01E5F] 0x053B9F67C2A611E8: The music pulsing from the inside of the Theater sounds awesome. Perhaps tickets are still available!
    [01E60] 0x2CDB26A7F002F1D3: The Life of the Party
    [01E61] 0x81021B37696FA1FA: The Life of the Party
    [01E62] 0xA1C21A3E9EB84B0F: Not only do party animals love to party, but other Sims love to party with them. Woooo!
@@ -8137,8 +8137,8 @@ Unknown3: 0x00000000
    [01FC4] 0xC069257C66130153: (From Science Lab)
    [01FC5] 0xFF54B46C5DBA1D18: (From Show at Stadium)
    [01FC6] 0xE11D49F2D4621813: (From Show at Stadium)
-   [01FC7] 0xC996A6C587D1E74C: (From Show At Theatre)
-   [01FC8] 0x09575FC25C42584F: (From Show At Theatre)
+   [01FC7] 0xC996A6C587D1E74C: (From Show At Theater)
+   [01FC8] 0x09575FC25C42584F: (From Show At Theater)
    [01FC9] 0xC801937C9E1A12B5: (From Shower)
    [01FCA] 0xF467C14D44048BD0: (From Shower)
    [01FCB] 0x93ECDD0F8B9D0522: (From Using Sink)
@@ -8165,8 +8165,8 @@ Unknown3: 0x00000000
    [01FE0] 0x2FEC43D3099D8287: (From Swimming)
    [01FE1] 0x0CEB83D238D90EEA: (From Being Around Children)
    [01FE2] 0x48F0B37A097402D9: (From Being Around Children)
-   [01FE3] 0x8DDAF5DD2CAE1B80: (From Theatre)
-   [01FE4] 0x3AF252D6BB0CC6DB: (From Theatre)
+   [01FE3] 0x8DDAF5DD2CAE1B80: (From Theater)
+   [01FE4] 0x3AF252D6BB0CC6DB: (From Theater)
    [01FE5] 0x47CD2782ED41E9B6: (From Theft or Repossession)
    [01FE6] 0xFBAEBA93B102AE6D: (From Theft or Repossession)
    [01FE7] 0xDCBD71250BA89FA3: (From Trash Pile)
@@ -9980,7 +9980,7 @@ Unknown3: 0x00000000
    [026F7] 0xE5C5FA931F6523B3: Couple Married in Quaint Ceremony
    [026F8] 0x114E01DCDDE8D90A: The National Organization for Aquatic Conservation and Depletion recently named this town the premier fishing spot for the region. "You can catch pretty much anything here," said Earl Weiss, Chairman of NOACD. "Though we're primarily a catch and heave organization, we cannot honestly expect people to pass on such good eatin'." 
    [026F9] 0x114E01DCDDE8D909: In a landmark decision against extreme catch and release fishermen, the practice known as "fish heaving" has been deemed illegal and impractical by the 5th City Court of Decisions. "Caught fish can now look forward to being gently placed in a babbling brook, not tossed like a common football," said Lead Counsel Derek McGill. Fish heavists have said they intend to appeal the ruling. 
-   [026FA] 0x114E01DCDDE8D908: Several moviegoers almost died, or so they thought, while viewing a film about fires on the theatre's new high definition screen yesterday. "The fire was out of control," one resident said. "The flames were so crystal clear, sharp, and vivid." Theatre owners quickly clarified there was no fire. They also said that Sims experiencing pregnancy or motion sickness should think twice before seeing high definition films.
+   [026FA] 0x114E01DCDDE8D908: Several moviegoers almost died, or so they thought, while viewing a film about fires on the theater's new high definition screen yesterday. "The fire was out of control," one resident said. "The flames were so crystal clear, sharp, and vivid." Theater owners quickly clarified there was no fire. They also said that Sims experiencing pregnancy or motion sickness should think twice before seeing high definition films.
    [026FB] 0x114E01DCDDE8D90F: The local hospital boasts it has had its fewest deaths in years in a recent press release. "Due to our top tier nursing staff, cool medical machines, and mostly trained physicians, we can happily say we're saving more than we're killing!" read the press release. To celebrate, the hospital is having a two for one birth deal and several specials in the cafeteria.
    [026FC] 0x114E01DCDDE8D90E: Film director Craig Gulf has opened discussions with City Hall to see if the town will be the scene for his next summer blockbuster. "Here's what I'm thinking," described Gulf. "City Hall explodes, and, wait for it, a car chase that ends in a fight at the beach. All using my trademark camera shakes." City Hall gave the discussions a positive review.
    [026FD] 0x114E01DCDDE8D90D: Scientists convened in town yesterday to celebrate the farm community and soil quality. "Gardeners will be pleased to know they have some of the best soil available, right here, and without the inconvenience of odorous fertilizer!" said soilologist Bob Lane. "So many places must deal with the stench and sewer-like smell." "Here, you can eat tomatoes without holding your nose!"
@@ -10363,18 +10363,18 @@ Unknown3: 0x00000000
    [02876] 0x3C4BA7D5A3940969: Flex and Bend
    [02877] 0xB1F22A299DD8AC2A: Trained for {0.Number} / {1.Number} hours.
    [02878] 0x4462CCA119601119: Trained for {0.Number} / {1.Number} hours.
-   [02879] 0x269606BB80DF14D2: Everyone waited their turn and there was no cutting seen in line, all thanks to your imposing figure near the ticket booth. The Theatre owner thanks you for making everyone’s experience far better. Take this money as a sign of the Theatre’s thanks!
-   [0287A] 0x59356A328560A841: Everyone waited their turn and there was no cutting seen in line, all thanks to your imposing figure near the ticket booth. The Theatre owner thanks you for making everyone’s experience far better. Take this money as a sign of the Theatre’s thanks!
-   [0287B] 0xEDD015039E8C4136: The owner of the local Theatre could use your help in managing the crowds that are expected to surge through for the upcoming events. Get to the Theatre soon to manage the crowds with your muscular abilities and you’ll be paid handsomely.
-   [0287C] 0xB14BCA0FF5E288ED: The owner of the local Theatre could use your help in managing the crowds that are expected to surge through for the upcoming events. Get to the Theatre soon to manage the crowds with your muscular abilities and you’ll be paid handsomely.
-   [0287D] 0x7F6448863F80130E: The Theatre really, really, needed your help, but you were nowhere to be found! Try to bounce on time in the future!
-   [0287E] 0x45707F0F6BB69F85: The Theatre really, really, needed your help, but you were nowhere to be found! Try to bounce on time in the future!
-   [0287F] 0x2556EE13D231814B: “Work as Bouncer” at the Theatre before time runs out to earn some cash on the side.
-   [02880] 0x2B10FBC6387B5472: “Work as Bouncer” at the Theatre before time runs out to earn some cash on the side.
+   [02879] 0x269606BB80DF14D2: Everyone waited their turn and there was no cutting seen in line, all thanks to your imposing figure near the ticket booth. The Theater owner thanks you for making everyone's experience far better. Take this money as a sign of the Theater's thanks!
+   [0287A] 0x59356A328560A841: Everyone waited their turn and there was no cutting seen in line, all thanks to your imposing figure near the ticket booth. The Theater owner thanks you for making everyone's experience far better. Take this money as a sign of the Theater's thanks!
+   [0287B] 0xEDD015039E8C4136: The owner of the local Theater could use your help in managing the crowds that are expected to surge through for the upcoming events. Get to the Theater soon to manage the crowds with your muscular abilities and you'll be paid handsomely.
+   [0287C] 0xB14BCA0FF5E288ED: The owner of the local Theater could use your help in managing the crowds that are expected to surge through for the upcoming events. Get to the Theater soon to manage the crowds with your muscular abilities and you'll be paid handsomely.
+   [0287D] 0x7F6448863F80130E: The Theater really, really, needed your help, but you were nowhere to be found! Try to bounce on time in the future!
+   [0287E] 0x45707F0F6BB69F85: The Theater really, really, needed your help, but you were nowhere to be found! Try to bounce on time in the future!
+   [0287F] 0x2556EE13D231814B: "Work as Bouncer" at the Theater before time runs out to earn some cash on the side.
+   [02880] 0x2B10FBC6387B5472: "Work as Bouncer" at the Theater before time runs out to earn some cash on the side.
    [02881] 0x585AE113EED12AC9: Bounce the Crowd
    [02882] 0x8B8FDB86C3CA615C: Bounce the Crowd
-   [02883] 0x877802D3D1DC59B9: Work as Bouncer at the Theatre.
-   [02884] 0x8E32C3FF13248C4C: Work as Bouncer at the Theatre.
+   [02883] 0x877802D3D1DC59B9: Work as Bouncer at the Theater.
+   [02884] 0x8E32C3FF13248C4C: Work as Bouncer at the Theater.
    [02885] 0x74AD1862FF188011: Having such a wide array of fitness options available to you is reward enough, but hopefully this cash prize won’t offend!
    [02886] 0xDA804FD26B6E7C84: Having such a wide array of fitness options available to you is reward enough, but hopefully this cash prize won’t offend!
    [02887] 0x8E25FB579720FF7F: Your fitness instructor taught you to seek variety while training to give every muscle a chance to flex and flourish. Vary up your routine by working out with a TV or stereo, then going for a jog, and finally by swimming for at least 30 minutes to earn a cash bonus.
@@ -10964,16 +10964,16 @@ Unknown3: 0x00000000
    [02ACF] 0xC8156371E77FF8B9: Smooth, Like Verbal Butter
    [02AD0] 0xC0EA4C38A88DF3DA: Use Smooth Recovery.
    [02AD1] 0x9EA0E81863D92809: Use Smooth Recovery.
-   [02AD2] 0x5F97D2806ECAAD21: You saw how they wowed the crowed and kept the entire theatre entranced. Now, go and try it out yourself! On the way, enjoy your cash bonus and Charisma Skill gain.
-   [02AD3] 0xE0F27DA1E4F31014: You saw how they wowed the crowed and kept the entire theatre entranced. Now, go and try it out yourself! On the way, enjoy your cash bonus and Charisma Skill gain.
-   [02AD4] 0x824FD155F0D0F9EF: Your contact at City Hall thinks you could learn a thing or two about charm by studying the celebrities that frequent the Theatre. Go see a concert or play at the Theatre and you’ll be paid for your effort. Your Charisma Skill will increase too!
-   [02AD5] 0xA65513043747087E: Your contact at City Hall thinks you could learn a thing or two about charm by studying the celebrities that frequent the Theatre. Go see a concert or play at the Theatre and you’ll be paid for your effort. Your Charisma Skill will increase too!
-   [02AD6] 0xAB2F566ECD947B34: See a Play or Concert at the Theatre to earn some cash and improve your Charisma Skill.
-   [02AD7] 0x1BB39CD58466E837: See a Play or Concert at the Theatre to earn some cash and improve your Charisma Skill.
+   [02AD2] 0x5F97D2806ECAAD21: You saw how they wowed the crowed and kept the entire theater entranced. Now, go and try it out yourself! On the way, enjoy your cash bonus and Charisma Skill gain.
+   [02AD3] 0xE0F27DA1E4F31014: You saw how they wowed the crowed and kept the entire theater entranced. Now, go and try it out yourself! On the way, enjoy your cash bonus and Charisma Skill gain.
+   [02AD4] 0x824FD155F0D0F9EF: Your contact at City Hall thinks you could learn a thing or two about charm by studying the celebrities that frequent the Theater. Go see a concert or play at the Theater and you'll be paid for your effort. Your Charisma Skill will increase too!
+   [02AD5] 0xA65513043747087E: Your contact at City Hall thinks you could learn a thing or two about charm by studying the celebrities that frequent the Theater. Go see a concert or play at the Theater and you'll be paid for your effort. Your Charisma Skill will increase too!
+   [02AD6] 0xAB2F566ECD947B34: See a Play or Concert at the Theater to earn some cash and improve your Charisma Skill.
+   [02AD7] 0x1BB39CD58466E837: See a Play or Concert at the Theater to earn some cash and improve your Charisma Skill.
    [02AD8] 0xE0C04B6EEC5F6036: Star Study!
    [02AD9] 0xB133058445EC0DED: Star Study!
-   [02ADA] 0xE58800F656A4D616: See a Play or Concert at the Theatre
-   [02ADB] 0x8B1466302D0DDD8D: See a Play or Concert at the Theatre
+   [02ADA] 0xE58800F656A4D616: See a Play or Concert at the Theater
+   [02ADB] 0x8B1466302D0DDD8D: See a Play or Concert at the Theater
    [02ADC] 0x0E34DF3DF0F0D366: Cooking_ParkHotDogsCompletion
    [02ADD] 0x989E169DE9E120D0: Cooking_ParkHotDogsDescription
    [02ADE] 0x84963306A5C46D45: Cooking_ParkHotDogsHint
@@ -11793,12 +11793,12 @@ Unknown3: 0x00000000
    [02E0C] 0x55E0DD37923A3463: Say Hello to My Little Fish
    [02E0D] 0x4E667FB40D924124: Bring a Black Goldfish to the Police Station.
    [02E0E] 0xF286C49EEB1118A7: Bring a Black Goldfish to the Police Station.
-   [02E0F] 0x59A1177466200C07: The Theatre owner thinks the fish you brought in is marvelous! The new Tragic Clownfish looks great on stage and will soon be cast in the theatre’s next tragedy play. Here’s some money to compensate you for your efforts!
-   [02E10] 0x8DE0A5F03AEFA876: The Theatre owner thinks the fish you brought in is marvelous! The new Tragic Clownfish looks great on stage and will soon be cast in the theatre’s next tragedy play. Here’s some money to compensate you for your efforts!
-   [02E11] 0x8493ADDD0D104625: The owner of the Theatre is dying for a little companionship. He wants a Tragic Clownfish – fittingly enough for a lover of drama! Catch a Tragic Clownfish and bring it to the Theatre for a little cash.
-   [02E12] 0xC710D483CC957640: The owner of the Theatre is dying for a little companionship. He wants a Tragic Clownfish – fittingly enough for a lover of drama! Catch a Tragic Clownfish and bring it to the Theatre for a little cash.
-   [02E13] 0x864E35556A19973E: Catch a Tragic Clownfish and “Sell Clownfish” at the Theatre to earn some money.
-   [02E14] 0xEBFCE498E2F9E7B5: Catch a Tragic Clownfish and “Sell Clownfish” at the Theatre to earn some money.
+   [02E0F] 0x59A1177466200C07: The Theater owner thinks the fish you brought in is marvelous! The new Tragic Clownfish looks great on stage and will soon be cast in the theater's next tragedy play. Here's some money to compensate you for your efforts!
+   [02E10] 0x8DE0A5F03AEFA876: The Theater owner thinks the fish you brought in is marvelous! The new Tragic Clownfish looks great on stage and will soon be cast in the theater's next tragedy play. Here's some money to compensate you for your efforts!
+   [02E11] 0x8493ADDD0D104625: The owner of the Theater is dying for a little companionship. He wants a Tragic Clownfish – fittingly enough for a lover of drama! Catch a Tragic Clownfish and bring it to the Theater for a little cash.
+   [02E12] 0xC710D483CC957640: The owner of the Theater is dying for a little companionship. He wants a Tragic Clownfish – fittingly enough for a lover of drama! Catch a Tragic Clownfish and bring it to the Theater for a little cash.
+   [02E13] 0x864E35556A19973E: Catch a Tragic Clownfish and "Sell Clownfish" at the Theater to earn some money.
+   [02E14] 0xEBFCE498E2F9E7B5: Catch a Tragic Clownfish and "Sell Clownfish" at the Theater to earn some money.
    [02E15] 0x98968A5574BAA1E0: Funny Looking Fish
    [02E16] 0xD2D13623E12119FB: Funny Looking Fish
    [02E17] 0xA2DB6FFFA11076EC: Bring a Tragic Clownfish to the {RabbitHoleName}.
@@ -12191,16 +12191,16 @@ Unknown3: 0x00000000
    [02F9A] 0x44EA1AA377327453: Deliver {9.Number} Very Nice (or better) Watermelons to the restaurant.
    [02F9B] 0xF89DB31067FB9C7F: You rocked, rolled, and stunned the crowd with your amazing fret work. There’s no doubt in anyone’s mind that you’re the town’s pre-eminent musician. Congratulations! Enjoy this cash prize to buy something fun!
    [02F9C] 0x3058E2053E24308E: You rocked, rolled, and stunned the crowd with your amazing fret work. There’s no doubt in anyone’s mind that you’re the town’s pre-eminent musician. Congratulations! Enjoy this cash prize to buy something fun!
-   [02F9D] 0xFDE89A18837257CD: A large group of local musicians have pooled their resources to fund a guitar competition with a behemoth cash prize for the winner! Travel to the Theatre to compete before the competition ends. If you’re in a good enough mood and your guitar abilities are up to snuff, you just might take home that cash prize!
-   [02F9E] 0x06CA70D41F301D88: A large group of local musicians have pooled their resources to fund a guitar competition with a behemoth cash prize for the winner! Travel to the Theatre to compete before the competition ends. If you’re in a good enough mood and your guitar abilities are up to snuff, you just might take home that cash prize!
+   [02F9D] 0xFDE89A18837257CD: A large group of local musicians have pooled their resources to fund a guitar competition with a behemoth cash prize for the winner! Travel to the Theater to compete before the competition ends. If you're in a good enough mood, and your guitar abilities are up to snuff, you just might take home that cash prize!
+   [02F9E] 0x06CA70D41F301D88: A large group of local musicians have pooled their resources to fund a guitar competition with a behemoth cash prize for the winner! Travel to the Theater to compete before the competition ends. If you're in a good enough mood, and your guitar abilities are up to snuff, you just might take home that cash prize!
    [02F9F] 0x69711CD74859C701: It’s scientifically proven to be impossible to win if you don’t show up to the contest at all. You should try making an appearance the next time local musicians throw down!
    [02FA0] 0x552ACBFDB53A91B4: It’s scientifically proven to be impossible to win if you don’t show up to the contest at all. You should try making an appearance the next time local musicians throw down!
-   [02FA1] 0x5D5D267470143D06: “Play in Contest” at the Theatre before time runs out to earn the cash prize.
-   [02FA2] 0x50F944F5709592BD: “Play in Contest” at the Theatre before time runs out to earn the cash prize.
+   [02FA1] 0x5D5D267470143D06: "Play in Contest" at the Theater before time runs out to earn the cash prize.
+   [02FA2] 0x50F944F5709592BD: "Play in Contest" at the Theater before time runs out to earn the cash prize.
    [02FA3] 0x6F6E7B747A860558: Local Musician Showdown
    [02FA4] 0xF3C4F0F549943E53: Local Musician Showdown
-   [02FA5] 0x310A54B9642A0974: Compete in Showdown at the Theatre.
-   [02FA6] 0x905BBC5762613477: Compete in Showdown at the Theatre.
+   [02FA5] 0x310A54B9642A0974: Compete in Showdown at the Theater.
+   [02FA6] 0x905BBC5762613477: Compete in Showdown at the Theater.
    [02FA7] 0xCE7D1CED2ADE2AB3: You fretted and strummed your heart out, but victory was not to be on this day. You left with second place, but at least it came along with a cash prize.
    [02FA8] 0x766CE10C87705274: Your performance with the symphony was so good they just might consider offering you the job full time! Here’s some cash to thank you for your help!
    [02FA9] 0xE46BA46D6263A777: Your performance with the symphony was so good they just might consider offering you the job full time! Here’s some cash to thank you for your help!
@@ -12208,12 +12208,12 @@ Unknown3: 0x00000000
    [02FAB] 0x38004236567C577B: The local symphony’s guitarist is injured with carpal tunnel syndrome and needs to sit out from their upcoming performance. The symphony wants you to come in as back up and they’re willing to pay you for your time.
    [02FAC] 0xF3A4AA67E17A4BDC: Well, this certainly won’t be known as one of the symphony’s best performances, especially with the guitar player completely absent. Way to drop the strings on this one!
    [02FAD] 0x452D4DCFB7F107DF: Well, this certainly won’t be known as one of the symphony’s best performances, especially with the guitar player completely absent. Way to drop the strings on this one!
-   [02FAE] 0x0F35686CDF1B4EF9: “Perform with Symphony” before time runs out at the Theatre to earn some money.
-   [02FAF] 0x5D97B8ABA1D7338C: “Perform with Symphony” before time runs out at the Theatre to earn some money.
+   [02FAE] 0x0F35686CDF1B4EF9: "Perform with Symphony" before time runs out at the Theater to earn some money.
+   [02FAF] 0x5D97B8ABA1D7338C: "Perform with Symphony" before time runs out at the Theater to earn some money.
    [02FB0] 0xD96E536CC022A3CF: I Got Your Back... Up
    [02FB1] 0xC28A491D8F1E061E: I Got Your Back... Up
-   [02FB2] 0x1B6AF9CD3568560B: Perform With Symphony at the Theatre.
-   [02FB3] 0x7828A5D2D8EA3A32: Perform With Symphony at the Theatre.
+   [02FB2] 0x1B6AF9CD3568560B: Perform With Symphony at the Theater.
+   [02FB3] 0x7828A5D2D8EA3A32: Perform With Symphony at the Theater.
    [02FB4] 0x44793B1895C3B126: The party was groundbreaking. Everyone is talking about your performance and there’s a good chance your phone will be ringing with similar opportunities! Your relationship with {0.SimName} has improved and you’ve earned some nice cash.
    [02FB5] 0xC5A3D4353D4C361D: The party was groundbreaking. Everyone is talking about your performance and there’s a good chance your phone will be ringing with similar opportunities! Your relationship with {0.SimName} has improved and you’ve earned some nice cash.
    [02FB6] 0xB6CD16438A127832: {0.SimName} is throwing a really, really big house party. A party this size needs a talented musician to keep things lively! Get to the party on time with your guitar and perform while the guests are living it up. {0.SimName} will pay you for the performance and your relationship will improve.
@@ -12250,10 +12250,10 @@ Unknown3: 0x00000000
    [02FD5] 0x032E891CB1C19A33: Raise the Fun(d)
    [02FD6] 0x9E1A6E793634B094: Perform for Fundraiser at the restaurant.
    [02FD7] 0xDFB2AC789BF3DA57: Perform for Fundraiser at the restaurant.
-   [02FD8] 0x547F590C05291D5A: Your musical abilities are really rocking! The Theatre owner is really impressed by your talent and wants you to have this new composition to see how you perform it!
-   [02FD9] 0xD9BF8DE49920A889: Your musical abilities are really rocking! The Theatre owner is really impressed by your talent and wants you to have this new composition to see how you perform it!
-   [02FDA] 0x647A111314F4F86E: The Theatre owner likes what you’re doing with your guitar abilities, but wants to see you take your talent one step further. Improve your Guitar Skill by one level and the Theatre owner will reward you with a new composition!
-   [02FDB] 0xE81D8CB03F45A6A5: The Theatre owner likes what you’re doing with your guitar abilities, but wants to see you take your talent one step further. Improve your Guitar Skill by one level and the Theatre owner will reward you with a new composition!
+   [02FD8] 0x547F590C05291D5A: Your musical abilities are really rocking! The Theater owner is really impressed by your talent and wants you to have this new composition to see how you perform it!
+   [02FD9] 0xD9BF8DE49920A889: Your musical abilities are really rocking! The Theater owner is really impressed by your talent and wants you to have this new composition to see how you perform it!
+   [02FDA] 0x647A111314F4F86E: The Theater owner likes what you're doing with your guitar abilities, but wants to see you take your talent one step further. Improve your Guitar Skill by one level and the Theater owner will reward you with a new composition!
+   [02FDB] 0xE81D8CB03F45A6A5: The Theater owner likes what you're doing with your guitar abilities, but wants to see you take your talent one step further. Improve your Guitar Skill by one level and the Theater owner will reward you with a new composition!
    [02FDC] 0xA004C8217334C6E3: Improve your Guitar Skill by one level to receive a new composition.
    [02FDD] 0x5CC387BF3E5BF84A: Improve your Guitar Skill by one level to receive a new composition.
    [02FDE] 0xD5CBDB21922D6E71: Guitar Up!
@@ -12644,8 +12644,8 @@ Unknown3: 0x00000000
    [0315F] 0x125B3724EF15ED33: There’s something fishy at the Supermarket, and it isn’t the half-price piranha. Head there to prod the manager for a few quotes and find out what’s going on for the sake of the community... and our paying customers. Take care to get the story, because you could earn a job performance increase, or even a raise.
    [03160] 0x1AEE11864118E27F: It’s accounting season, which means fraud and “misplaced” figures at the Business Office. Your Editor wants you to investigate to make sure everything is business as usual. Head to the Business Office building and get the story. It could earn you a job performance increase or even a raise.
    [03161] 0x23D44F36AF9B128E: It’s accounting season, which means fraud and “misplaced” figures at the Business Office. Your Editor wants you to investigate to make sure everything is business as usual. Head to the Business Office building and get the story. It could earn you a job performance increase or even a raise.
-   [03162] 0x1AEE11864118E27E: Masks have gone missing from the costume closet at the Theatre. Not only that, but they’re the scary masks! The Editor thinks the story can be sold as a horror piece, but only if you get the facts. Head to the Theatre and get the story. It could earn you a performance increase, or even a raise.
-   [03163] 0xFFF0515BAEDD45F5: Masks have gone missing from the costume closet at the Theatre. Not only that, but they’re the scary masks! The Editor thinks the story can be sold as a horror piece, but only if you get the facts. Head to the Theatre and get the story. It could earn you a performance increase, or even a raise.
+   [03162] 0x1AEE11864118E27E: Masks have gone missing from the costume closet at the Theater. Not only that, but they're the scary masks! The Editor thinks the story can be sold as a horror piece, but only if you get the facts. Head to the Theater and get the story. It could earn you a performance increase, or even a raise.
+   [03163] 0xFFF0515BAEDD45F5: Masks have gone missing from the costume closet at the Theater. Not only that, but they're the scary masks! The Editor thinks the story can be sold as a horror piece, but only if you get the facts. Head to the Theater and get the story. It could earn you a performance increase, or even a raise.
    [03164] 0x1AEE11864118E27D: The World Famous Throwey Disk Champion will be at the Stadium for you to interview. Get down to the Stadium to get the scoop. Who knows, it could be quite the exclusive! Hit a grand slam with the story, and it will earn you a job performance increase, or even a raise.
    [03165] 0x5858720ED89303B8: The World Famous Throwey Disk Champion will be at the Stadium for you to interview. Get down to the Stadium to get the scoop. Who knows, it could be quite the exclusive! Hit a grand slam with the story, and it will earn you a job performance increase, or even a raise.
    [03166] 0x1AEE11864118E27C: The local restaurant plans to completely change their menu, and they wouldn’t mind a little press to spotlight the switch. Get down to the restaurant to see what the Chef de Cuisine has in store for the restaurant. Nail the story, and it will earn you a job performance increase and a raise.
@@ -12688,8 +12688,8 @@ Unknown3: 0x00000000
    [0318B] 0xAF26BC28D1ACA070: “Check Lead” at the Supermarket before time runs out to earn a job performance boost and raise.
    [0318C] 0x1D36874FE4432992: “Check Lead” at the Business Office before time runs out to earn a job performance boost and raise.
    [0318D] 0x44B1DB17C548BB01: “Check Lead” at the Business Office before time runs out to earn a job performance boost and raise.
-   [0318E] 0x1D36874FE4432993: “Check Lead” at the Theatre before time runs out to earn a job performance boost and raise.
-   [0318F] 0xB725CE75747123BA: “Check Lead” at the Theatre before time runs out to earn a job performance boost and raise.
+   [0318E] 0x1D36874FE4432993: "Check Lead" at the Theater before time runs out to earn a job performance boost and raise.
+   [0318F] 0xB725CE75747123BA: "Check Lead" at the Theater before time runs out to earn a job performance boost and raise.
    [03190] 0x1D36874FE4432990: “Check Lead” at the Stadium before time runs out to earn a job performance boost and raise.
    [03191] 0x28C1B4130B0F53EB: “Check Lead” at the Stadium before time runs out to earn a job performance boost and raise.
    [03192] 0x1D36874FE4432991: “Check Lead” at the restaurant before time runs out to earn a job performance boost and raise.
@@ -12710,8 +12710,8 @@ Unknown3: 0x00000000
    [031A1] 0xE3D1BD5A242452A6: Supermarket Status
    [031A2] 0x20F6081A56142BF0: Business As Usual?
    [031A3] 0x74844BD0CFE7A98B: Business As Usual?
-   [031A4] 0x20F6081A56142BF1: Theatre Terror
-   [031A5] 0x8B4DBE6BB0816FA4: Theatre Terror
+   [031A4] 0x20F6081A56142BF1: Theater Terror
+   [031A5] 0x8B4DBE6BB0816FA4: Theater Terror
    [031A6] 0x20F6081A56142BF2: Stadium Spectacular
    [031A7] 0xD65294A2B8C0BF21: Stadium Spectacular
    [031A8] 0x20F6081A56142BF3: Restaurant Revelation
@@ -12732,8 +12732,8 @@ Unknown3: 0x00000000
    [031B7] 0x343FF1CF7508E012: Check Lead at the Supermarket.
    [031B8] 0xDFE8452BB17E6EAC: Check Lead at the Office.
    [031B9] 0xF024B98C1BFF75EF: Check Lead at the Office.
-   [031BA] 0xDFE8452BB17E6EAD: Check Lead at the Theatre.
-   [031BB] 0x2A875BD8BFC71A28: Check Lead at the Theatre.
+   [031BA] 0xDFE8452BB17E6EAD: Check Lead at the Theater.
+   [031BB] 0x2A875BD8BFC71A28: Check Lead at the Theater.
    [031BC] 0xDFE8452BB17E6EAE: Check Lead at the Stadium.
    [031BD] 0x75E1D8C3841A93E5: Check Lead at the Stadium.
    [031BE] 0xDFE8452BB17E6EAF: Check Lead at the {0.ObjectName}
@@ -12879,8 +12879,8 @@ Unknown3: 0x00000000
    [0324A] 0x5F68C79230DA4779: The cheese stocker at the supermarket has been stocking for 60 years now! The Editor wants you to get down to the store and interview the stocker for a human interest story in the lifestyle section. Get down to the store before the stocker retires, or even worse, expires, and the Editor will increase your job performance as a reward.
    [0324B] 0xDD47C358BE13ACCD: The suits at the local Business Office have been very generous with their donations lately. The Editor wants you to give them some good press by interviewing the management. Get to the business office to conduct the interview, and the Editor will see about increasing your job performance.
    [0324C] 0xD8559BBCADEDD488: The suits at the local Business Office have been very generous with their donations lately. The Editor wants you to give them some good press by interviewing the management. Get to the business office to conduct the interview, and the Editor will see about increasing your job performance.
-   [0324D] 0xDD47C358BE13ACCC: Theatre goers around town are telling tales about the adventurous thespian that stopped the ticket teller that was selling tickets at high prices. Hurry to the theatre, interview the thespian and get the story! Heroic stories sell papers at a speedy rate, and the Editor will reward you with a job performance boost.
-   [0324E] 0xE92512E703094CCF: Theatre goers around town are telling tales about the adventurous thespian that stopped the ticket teller that was selling tickets at high prices. Hurry to the theatre, interview the thespian and get the story! Heroic stories sell papers at a speedy rate, and the Editor will reward you with a job performance boost.
+   [0324D] 0xDD47C358BE13ACCC: Theater goers around town are telling tales about the adventurous thespian that stopped the ticket teller that was selling tickets at high prices. Hurry to the theater, interview the thespian and get the story! Heroic stories sell papers at a speedy rate, and the Editor will reward you with a job performance boost.
+   [0324E] 0xE92512E703094CCF: Theater goers around town are telling tales about the adventurous thespian that stopped the ticket teller that was selling tickets at high prices. Hurry to the theater, interview the thespian and get the story! Heroic stories sell papers at a speedy rate, and the Editor will reward you with a job performance boost.
    [0324F] 0xDD47C358BE13ACCF: A minor leaguer at the Stadium is raising a stink about the latest tryouts. The Editor smells a story and he wants you to get to the Stadium to interview this unhappy player. Find a story, and the Editor will find a way to boost your job performance.
    [03250] 0xEB7A09D2F0B2B91E: A minor leaguer at the Stadium is raising a stink about the latest tryouts. The Editor smells a story and he wants you to get to the Stadium to interview this unhappy player. Find a story, and the Editor will find a way to boost your job performance.
    [03251] 0xDD47C358BE13ACCE: People around town have been getting sick after eating at {0.ObjectName}. Your Editor thinks you can get a story, especially with a disgruntled bus boy willing to spill the dirt. Get to {0.ObjectName} for the interview pronto, and the Editor will see about getting you a job performance increase.
@@ -12923,8 +12923,8 @@ Unknown3: 0x00000000
    [03276] 0xE31F00E671531B22: “Interview Source” at the Supermarket before time runs out to earn a job performance boost.
    [03277] 0x946E6A8A343F97FC: “Interview Source” at the Business Office before time runs out to earn a job performance boost.
    [03278] 0xEF05AEC71D4F0DBF: “Interview Source” at the Business Office before time runs out to earn a job performance boost.
-   [03279] 0x946E6A8A343F97FD: “Interview Source” at the Theatre before time runs out to earn a job performance boost.
-   [0327A] 0x7F6CD53AB4134838: “Interview Source” at the Theatre before time runs out to earn a job performance boost.
+   [03279] 0x946E6A8A343F97FD: "Interview Source" at the Theater before time runs out to earn a job performance boost.
+   [0327A] 0x7F6CD53AB4134838: "Interview Source" at the Theater before time runs out to earn a job performance boost.
    [0327B] 0x946E6A8A343F97FE: “Interview Source” at the Stadium before time runs out to earn a job performance boost.
    [0327C] 0x2704B4878A5D8A75: “Interview Source” at the Stadium before time runs out to earn a job performance boost.
    [0327D] 0x946E6A8A343F97FF: “Interview Source” at {0.ObjectName} before time runs out to earn a job performance boost.
@@ -12967,8 +12967,8 @@ Unknown3: 0x00000000
    [032A2] 0xDB48452A69C5CE80: Interview Source at the Supermarket.
    [032A3] 0x75CD4B9B29C9C062: Interview Source at the Office.
    [032A4] 0x93DBA42130604DD1: Interview Source at the Office.
-   [032A5] 0x75CD4B9B29C9C063: Interview Source at the Theatre.
-   [032A6] 0x066B775FC8F868CA: Interview Source at the Theatre.
+   [032A5] 0x75CD4B9B29C9C063: Interview Source at the Theater.
+   [032A6] 0x066B775FC8F868CA: Interview Source at the Theater.
    [032A7] 0x75CD4B9B29C9C060: Interview Source at the Stadium.
    [032A8] 0x78BFB068CF95317B: Interview Source at the Stadium.
    [032A9] 0x75CD4B9B29C9C061: Interview Source at {0.ObjectName}.
@@ -13361,18 +13361,18 @@ Unknown3: 0x00000000
    [0342C] 0x4061962FAC6CF7D7: Play the Guitar {0.Number} times at the Park to get an Inspired moodlet.
    [0342D] 0x2E50212FA1FAF91D: Music Appreciation Day
    [0342E] 0xA19DA3A2120A279D: Played Guitar {0.Number} / {1.Number} times.
-   [0342F] 0xA3110BDD8E414ED4: Masterful! You were able to beat Argyle Sinclair’s previous record of a two move victory and defeat him in only a single move. The crowd was stunned – there wasn’t a closed mouth in the Theatre as the audience watched with jaws dropped. You are the chess champion now... and a richer Sim!
-   [03430] 0x5506EB0FEF985A97: Masterful! You were able to beat Argyle Sinclair’s previous record of a two move victory and defeat him in only a single move. The crowd was stunned – there wasn’t a closed mouth in the Theatre as the audience watched with jaws dropped. You are the chess champion now... and a richer Sim!
-   [03431] 0x2B562E572E17D640: Argyle Sinclair has heard much about your deeds as a logical being and challenges you to a chess match at the Theatre. If you feel bold enough to show up in time, you will find a chess opponent who is as cruel as he is brilliant. Good luck!
-   [03432] 0x0862B9B47673119B: Argyle Sinclair has heard much about your deeds as a logical being and challenges you to a chess match at the Theatre. If you feel bold enough to show up in time, you will find a chess opponent who is as cruel as he is brilliant. Good luck!
-   [03433] 0x89E1A4D78F8466BC: Argyle Sinclair sat alone on the stage at the Theatre and heaped derision and scorn upon your formerly good name. You should make an appearance at the competition next time!
-   [03434] 0xE52236641F45B97F: Argyle Sinclair sat alone on the stage at the Theatre and heaped derision and scorn upon your formerly good name. You should make an appearance at the competition next time!
-   [03435] 0x7A8B4ADA215B9C59: “Challenge Argyle Sinclair” at the Theatre before time runs out to earn some money.
-   [03436] 0x1993EF94E06A48AC: “Challenge Argyle Sinclair” at the Theatre before time runs out to earn some money.
+   [0342F] 0xA3110BDD8E414ED4: Masterful! You were able to beat Argyle Sinclair's previous record of a two move victory and defeat him in only a single move. The crowd was stunned – there wasn't a closed mouth in the Theater as the audience watched with jaws dropped. You are the chess champion now... and a richer Sim!
+   [03430] 0x5506EB0FEF985A97: Masterful! You were able to beat Argyle Sinclair's previous record of a two move victory and defeat him in only a single move. The crowd was stunned – there wasn't a closed mouth in the Theater as the audience watched with jaws dropped. You are the chess champion now... and a richer Sim!
+   [03431] 0x2B562E572E17D640: Argyle Sinclair has heard much about your deeds as a logical being and challenges you to a chess match at the Theater. If you feel bold enough to show up in time, you will find a chess opponent who is as cruel as he is brilliant. Good luck!
+   [03432] 0x0862B9B47673119B: Argyle Sinclair has heard much about your deeds as a logical being and challenges you to a chess match at the Theater. If you feel bold enough to show up in time, you will find a chess opponent who is as cruel as he is brilliant. Good luck!
+   [03433] 0x89E1A4D78F8466BC: Argyle Sinclair sat alone on the stage at the Theater and heaped derision and scorn upon your formerly good name. You should make an appearance at the competition next time!
+   [03434] 0xE52236641F45B97F: Argyle Sinclair sat alone on the stage at the Theater and heaped derision and scorn upon your formerly good name. You should make an appearance at the competition next time!
+   [03435] 0x7A8B4ADA215B9C59: "Challenge Argyle Sinclair" at the Theater before time runs out to earn some money.
+   [03436] 0x1993EF94E06A48AC: "Challenge Argyle Sinclair" at the Theater before time runs out to earn some money.
    [03437] 0x44C435DA0262F12F: Taking Down Sinclair
    [03438] 0xDAE26EEAF56E16BE: Taking Down Sinclair
-   [03439] 0x6F236591F094016B: Play Argyle Sinclair at the Theatre.
-   [0343A] 0x21BF03DF8D1A17D2: Play Argyle Sinclair at the Theatre.
+   [03439] 0x6F236591F094016B: Play Argyle Sinclair at the Theater.
+   [0343A] 0x21BF03DF8D1A17D2: Play Argyle Sinclair at the Theater.
    [0343B] 0x077A80C9EA17C19A: You weren’t quite able to surmount Argyle Sinclair’s impressive mountain of logic, but it did take him 5 moves to beat you, instead of his normal 2. Perhaps next time you will emerge the victor?
    [0343C] 0x0BBF832B1AC87EC9: You weren’t quite able to surmount Argyle Sinclair’s impressive mountain of logic, but it did take him 5 moves to beat you, instead of his normal 2. Perhaps next time you will emerge the victor?
    [0343D] 0x7AC75E6D0A992D32: You fixed the books and they now make complete sense. Your manipulation of the numbers actually saves the company a great deal of money, some of which the Business is more than glad to pay to you!
@@ -14261,25 +14261,25 @@ Unknown3: 0x00000000
    [037B0] 0x3F24A1ACF75CF547: Did you think you could just ditch the concert applications and no one would notice? Now the band can't play, and your boss is yelling something about "reparations."
    [037B1] 0x22926033944513AA: Rock on! The three shows were all sold out success stories and everyone in town (and beyond!) is talking about them. You and your band mates have grown closer over the course of the tour and your job performance has increased.
    [037B2] 0x4E1DE664A3839B99: Rock on! The three shows were all sold out success stories and everyone in town (and beyond!) is talking about them. You and your band mates have grown closer over the course of the tour and your job performance has increased.
-   [037B3] 0xB95AB5D526D1C0DE: The record label thinks the band will do much better on the charts if they start touring more. Three concerts at the Theatre are all the band needs to jump start their way to fame and music history. Aside from the benefits of playing a show, your job performance will increase and you’ll grow closer to your band mates.
-   [037B4] 0x223CBB7D9F90E015: The record label thinks the band will do much better on the charts if they start touring more. Three concerts at the Theatre are all the band needs to jump start their way to fame and music history. Aside from the benefits of playing a show, your job performance will increase and you’ll grow closer to your band mates.
-   [037B5] 0x298B96A402C277D3: Perform three concerts at the Theatre to increase job performance and improve your relationship with your co-workers.
-   [037B6] 0x8320F87E013343FA: Perform three concerts at the Theatre to increase job performance and improve your relationship with your co-workers.
+   [037B3] 0xB95AB5D526D1C0DE: The record label thinks the band will do much better on the charts if they start touring more. Three concerts at the Theater are all the band needs to jump start their way to fame and music history. Aside from the benefits of playing a show, your job performance will increase, and you'll grow closer to your band mates.
+   [037B4] 0x223CBB7D9F90E015: The record label thinks the band will do much better on the charts if they start touring more. Three concerts at the Theater are all the band needs to jump start their way to fame and music history. Aside from the benefits of playing a show, your job performance will increase, and you'll grow closer to your band mates.
+   [037B5] 0x298B96A402C277D3: Perform three concerts at the Theater to increase job performance and improve your relationship with your co-workers.
+   [037B6] 0x8320F87E013343FA: Perform three concerts at the Theater to increase job performance and improve your relationship with your co-workers.
    [037B7] 0x5CC669A41F912D41: On Tour!
    [037B8] 0x41249D65995730F4: On Tour!
    [037B9] 0x47491444AA7E49C1: {0.Number} / {1.Number} Concerts Performed
    [037BA] 0x14E58156A4AD554C: You really came through for the band, and the gig was a rocking good time! Everyone is glad to know they can count on you in the future. You’ve been given a cash bonus and your job performance has increased.
    [037BB] 0x6CF6E63BB635724F: You really came through for the band, and the gig was a rocking good time! Everyone is glad to know they can count on you in the future. You’ve been given a cash bonus and your job performance has increased.
-   [037BC] 0x72DAC2E109A4AEA8: The band just booked a last minute gig at the Theatre and they need your help setting up! If only the roadies weren’t given the night off! Quickly head to the Theatre to assist the band and you’ll be paid a cash bonus and your job performance will increase.
-   [037BD] 0xE84A133424A75AA3: The band just booked a last minute gig at the Theatre and they need your help setting up! If only the roadies weren’t given the night off! Quickly head to the Theatre to assist the band and you’ll be paid a cash bonus and your job performance will increase.
+   [037BC] 0x72DAC2E109A4AEA8: The band just booked a last minute gig at the Theater, and they need your help setting up! If only the roadies weren't given the night off! Quickly head to the Theater to assist the band, and you'll be paid a cash bonus, and your job performance will increase.
+   [037BD] 0xE84A133424A75AA3: The band just booked a last minute gig at the Theater, and they need your help setting up! If only the roadies weren't given the night off! Quickly head to the Theater to assist the band, and you'll be paid a cash bonus, and your job performance will increase.
    [037BE] 0x21894470E961E504: The band needed your help and you totally abandoned them! Some musician you are! If you hope to adhere to the musician’s code in the future, show up on time!
    [037BF] 0x29B3077C5EDF8BC7: The band needed your help and you totally abandoned them! Some musician you are! If you hope to adhere to the musician’s code in the future, show up on time!
-   [037C0] 0x425818771B9F5FE1: “Help Set Up” at the Theatre before time runs out to earn some cash and improve your job performance.
-   [037C1] 0x605359EE07C2F4D4: “Help Set Up” at the Theatre before time runs out to earn some cash and improve your job performance.
+   [037C0] 0x425818771B9F5FE1: "Help Set Up" at the Theater before time runs out to earn some cash and improve your job performance.
+   [037C1] 0x605359EE07C2F4D4: "Help Set Up" at the Theater before time runs out to earn some cash and improve your job performance.
    [037C2] 0x102E2376FFB956E7: The Set Up
    [037C3] 0x3988609DD1B7F996: The Set Up
-   [037C4] 0xBF28AF1C911805B3: Help Set Up at the Theatre.
-   [037C5] 0xB0F68DE9A8A9BC9A: Help Set Up at the Theatre.
+   [037C4] 0xBF28AF1C911805B3: Help Set Up at the Theater.
+   [037C5] 0xB0F68DE9A8A9BC9A: Help Set Up at the Theater.
    [037C6] 0x2BCD1EA2DE2AFE7E: You’re really beginning to hum on the strings – that guitar must feel lucky you’re the one wielding it! Those at work have noticed your new skill and your job performance has increased.
    [037C7] 0x9B014A77FC5339F5: You’re really beginning to hum on the strings – that guitar must feel lucky you’re the one wielding it! Those at work have noticed your new skill and your job performance has increased.
    [037C8] 0x8D5CBE4EC4D57E5A: One of the old roadies thinks you stand a better chance of becoming a somebody in the music industry if you improve your skills on the guitar just a bit. Practice at work when you can, or at home in your spare time, and your job performance will surely improve!
@@ -14304,16 +14304,16 @@ Unknown3: 0x00000000
    [037DB] 0xB4C493D0EFC0E610: Play Battle of the Bands at the Stadium.
    [037DC] 0xDC73BAD4A5BF8D40: There wasn’t a dry eye in the house when the ensemble played the slow, sad part, or a voice that wasn’t cheering when you directed the bombastic crescendos! You are renowned as the greatest conductor and composer in town. As if that weren’t enough, here’s your portion of the ticket sales!
    [037DD] 0xFB842B543C0A9E9B: There wasn’t a dry eye in the house when the ensemble played the slow, sad part, or a voice that wasn’t cheering when you directed the bombastic crescendos! You are renowned as the greatest conductor and composer in town. As if that weren’t enough, here’s your portion of the ticket sales!
-   [037DE] 0x8CD0D305FCC78964: You’ve just written the score for the latest blockbuster movie, and the town is clamoring to hear it performed live. Go to the Theatre before the hype wears off and perform the symphony with your ensemble. You’ll receive a percentage of ticket sales, but you’ll need to perform soon!
-   [037DF] 0x7A03792C4ECC88E7: You’ve just written the score for the latest blockbuster movie, and the town is clamoring to hear it performed live. Go to the Theatre before the hype wears off and perform the symphony with your ensemble. You’ll receive a percentage of ticket sales, but you’ll need to perform soon!
+   [037DE] 0x8CD0D305FCC78964: You've just written the score for the latest blockbuster movie, and the town is clamoring to hear it performed live. Go to the Theater before the hype wears off and perform the symphony with your ensemble. You'll receive a percentage of ticket sales, but you'll need to perform soon!
+   [037DF] 0x7A03792C4ECC88E7: You've just written the score for the latest blockbuster movie, and the town is clamoring to hear it performed live. Go to the Theater before the hype wears off and perform the symphony with your ensemble. You'll receive a percentage of ticket sales, but you'll need to perform soon!
    [037E0] 0xA6C74C346661A4A8: Tisk tisk! The crowds gathered for your performance, yet you let them down like a poorly tuned trumpet! When there are people clamoring to hear your wonderful music, delight them by getting to the show on time!
    [037E1] 0x8065C52C3E19CCA3: Tisk tisk! The crowds gathered for your performance, yet you let them down like a poorly tuned trumpet! When there are people clamoring to hear your wonderful music, delight them by getting to the show on time!
-   [037E2] 0x0A691BC1C11F4EBD: “Play Symphony” at the Theatre before time runs out to earn a cash bonus.
-   [037E3] 0x10E52A10DF60D9F8: “Play Symphony” at the Theatre before time runs out to earn a cash bonus.
+   [037E2] 0x0A691BC1C11F4EBD: "Play Symphony" at the Theater before time runs out to earn a cash bonus.
+   [037E3] 0x10E52A10DF60D9F8: "Play Symphony" at the Theater before time runs out to earn a cash bonus.
    [037E4] 0x1C7A6EC1CB91134B: The Cinematic Score
    [037E5] 0xEDF5422249013A72: The Cinematic Score
-   [037E6] 0xA700A8CB8E3C4557: Play Symphony at the Theatre.
-   [037E7] 0x082B649749193C46: Play Symphony at the Theatre.
+   [037E6] 0xA700A8CB8E3C4557: Play Symphony at the Theater.
+   [037E7] 0x082B649749193C46: Play Symphony at the Theater.
    [037E8] 0xAAE13FFCF294088B: There were some great tunes! Your band mates are glad you took the time to listen to the competition and study up on cutting edge of music. Your job performance has increased as well.
    [037E9] 0xD16F51562538EDB2: There were some great tunes! Your band mates are glad you took the time to listen to the competition and study up on cutting edge of music. Your job performance has increased as well.
    [037EA] 0xCBA642073B14E291: The radio is often playing chart toppers and greatest hits – it’s an awesome place to hear what’s good and what isn’t! The band thinks you should spend some time listening to the radio or live guitar to get a feel for the modern chart toppers. You’ll improve your relationship with your co-workers and your job performance will increase.
@@ -17081,7 +17081,7 @@ Unknown3: 0x00000000
    [042B4] 0x47DAE13BEC1C0C85: Ask on Date to Bistro
    [042B5] 0x99B13268813688B2: Ask On Date to Spa
    [042B6] 0xD5508239B7946DD9: Ask on Date to Swimming Pool
-   [042B7] 0x1F6F99BC809DAF59: Ask on Date to Theatre
+   [042B7] 0x1F6F99BC809DAF59: Ask on Date to Theater
    [042B8] 0xAA0750C07D5E2034: Ask to Be Career Coach
    [042B9] 0xB64A26EB9C306628: Ask to Be Friend Advisor
    [042BA] 0x33A4009E28B0C4F5: Ask to Be Fun Advisor
@@ -18287,7 +18287,7 @@ Unknown3: 0x00000000
    [0476A] 0x31ACF7B344F635D3: Visiting The Park
    [0476B] 0xF7CF12F663BE153A: Visiting the Pool
    [0476C] 0x73E70ACA31D2531D: Visiting the Bistro
-   [0476D] 0x1116184F5C2641C1: Visiting the Theatre
+   [0476D] 0x1116184F5C2641C1: Visiting the Theater
    [0476E] 0xD556DABA66D7D604: Wedding
    [0476F] 0xD2BEE49856477C95: The Canceled Wedding
    [04770] 0x3507964108B65A7B: Being Woken Up
@@ -18837,7 +18837,7 @@ Unknown3: 0x00000000
    [04990] 0xB090CC5BD9B8EA5A: {0.SimFirstName} has Commitment Issues, which means he's got a problem with relationships and work obligations. (Hover over any trait in the Simology panel to see more benefits.)
    [04991] 0x9155E3F05D4F0789: {0.SimFirstName} has Commitment Issues, which means she's got a problem with relationships and work obligations. (Hover over any trait in the Simology panel to see more benefits.)
    [04992] 0x8E6CA29657363DA8: Complimentary Entertainment
-   [04993] 0x2BE3134E02914886: You'll be added to the exclusive list at the community theatre and can get into all upcoming events free of charge.
+   [04993] 0x2BE3134E02914886: You'll be added to the exclusive list at the community theater and can get into all upcoming events free of charge.
    [04994] 0x161381ECFDAEAE63: Computer Whiz
    [04995] 0xD84A7030030C02CA: Computer Whiz
    [04996] 0xFE2C5665FA22087F: Computer Whizzes love spending time on the computer. They are great at tinkering with computers, and can even make money as hackers if they choose.
@@ -19824,8 +19824,8 @@ Unknown3: 0x00000000
    [04D6B] 0x86A3FEEE8F263BFF: There's a game going on at the stadium that {0.SimFirstName} would probably love to check out. Go to Map View to find the stadium.
    [04D6C] 0xD50963A67BE5FD32: {0.SimFirstName} would love to save some cash on the sale happening at {1.String}. Go to Map View to find out where the sale is taking place.
    [04D6D] 0xC2136FCC0728FD61: {0.SimFirstName} would love to save some cash on the sale happening at {1.String}. Go to Map View to find out where the sale is taking place.
-   [04D6E] 0xF587D885E959203F: There's a show going on at the theatre! Go to Map View to find the theatre in town. {0.SimFirstName} would have a great time.
-   [04D6F] 0xE605564DED11D64E: There's a show going on at the theatre! Go to Map View to find the theatre in town. {0.SimFirstName} would have a great time.
+   [04D6E] 0xF587D885E959203F: There's a show going on at the theater! Go to Map View to find the theater in town. {0.SimFirstName} would have a great time.
+   [04D6F] 0xE605564DED11D64E: There's a show going on at the theater! Go to Map View to find the theater in town. {0.SimFirstName} would have a great time.
    [04D70] 0x62014B1954BD1230: Action Queue
    [04D71] 0x0DE953E137987D0D: Anything your Sim is currently doing or planning to do will be shown in the action queue, which runs along the top of the screen from left to right. Here, the Sim is chatting on the phone and is planning on preparing a meal afterwards, followed by a bath.
    [04D72] 0x0DE953E137987D0E: Some actions take time. For these, a small bar will appear under the icon representing how much progress your Sim has made in that action.
@@ -22123,10 +22123,10 @@ Unknown3: 0x00000000
    [05666] 0xAA3DF7E99767C4E5: Show in Progress
    [05667] 0x61050E24B2A0FB7A: Try for Baby Backstage With... 
    [05668] 0xDBE46FEB6B3F4FE9: Try for Baby Backstage With... 
-   [05669] 0x5FDA61F58935F754: Tour Theatre
-   [0566A] 0xD7E6D367B29D8017: Tour Theatre
-   [0566B] 0xC45F8A7CA63CF8D0: Tour Theatre With... 
-   [0566C] 0x8184D396B09E232B: Tour Theatre With... 
+   [05669] 0x5FDA61F58935F754: Tour Theater
+   [0566A] 0xD7E6D367B29D8017: Tour Theater
+   [0566B] 0xC45F8A7CA63CF8D0: Tour Theater With... 
+   [0566C] 0x8184D396B09E232B: Tour Theater With... 
    [0566D] 0x729FD7A227DD9213: WooHoo Backstage With... 
    [0566E] 0x01C4689E94C1893A: WooHoo Backstage With... 
    [0566F] 0xA569790747C8043A: There's a time and place for everthing. Unfortunately, for {0.SimFirstName}, security didn't think {1.String} was the right place for what {0.SimFirstName} was doing.
@@ -38622,7 +38622,7 @@ Unknown3: 0x00000000
    [096D9] 0xF50B4ED2F994F17E: {0.SimFirstName} is a Super Star
    [096DA] 0xA24B97576E83FFF6: Tall Gate
    [096DB] 0xF25BB47E3333850E: Television
-   [096DC] 0xFCAF79BE51BE923D: Town Theatre
+   [096DC] 0xFCAF79BE51BE923D: Town Theater
    [096DD] 0x3E89FC198BD0F56B: A sim with two other friends in a romantic relationship.
    [096DE] 0x4D143480D1AEB6EA: Third Wheel
    [096DF] 0x661772BD6F413C48: Third Wheel
@@ -45764,7 +45764,7 @@ Unknown3: 0x00000000
    [0B2BF] 0xB9560583557D5587: {0.SimFirstName} attended an anti-gravity holographic rock concert. At first it was a little nauseating but {MA.he}{FA.she} got used to it and joined the floating frolicking fans for a night to remember.
    [0B2C0] 0xB9560583557D5586: {0.SimFirstName} narrowly avoided the angry Keeper of Time when {MA.he}{FA.she} was being consulted for the biggest historical pre-enactment event since the 4100s. Time to go somewhen else!
    [0B2C1] 0xFB03B1D0C7EB1BCD: {0.SimFirstName} sailed two of the Seven Seas with Captain Black Bart on the good ship Sunset Mermaid. It was quite exciting but {0.SimFirstName} had to leave before they could divide the booty.
-   [0B2C2] 0x7262F2C3B4803D67: After helping a famous detective stop a heinous criminal from burning down 19th century London, {0.SimFirstName} enjoyed catching a play at the theatre before slipping back into the time stream.
+   [0B2C2] 0x7262F2C3B4803D67: After helping a famous detective stop a heinous criminal from burning down 19th century London, {0.SimFirstName} enjoyed catching a play at the theater before slipping back into the time stream.
    [0B2C3] 0x7262F2C3B4803D66: {0.SimFirstName} picked up a nice flint axe from a friendly Neanderthal but accidentally dropped it in the time stream during pickup. Hopefully it doesn't end up somewhere dangerous!
    [0B2C4] 0x7262F2C3B4803D65: {0.SimFirstName} was almost run over by some French cavalry while helping refugees flee a nearby invasion. They were led by a short guy with a serious attitude.
    [0B2C5] 0x7262F2C3B4803D64: {0.SimFirstName} barely made it back into the time stream after getting trapped by a tyranosaur. Those teeth were inches away!
@@ -47894,9 +47894,9 @@ Unknown3: 0x00000000
    [0BB11] 0xB116FD0C1E80AF17: Show Off Sweet Piano Move
    [0BB12] 0xE6FA885B0E5B0CBD: Show Off Sweet Piano Move
    [0BB13] 0xE5F6885245EF2A67: Your Sim wants to take a Mixology Skill class to learn the skill. Visit a Restaurant to enroll in the class.
-   [0BB14] 0x53C187138102506A: Your Sim wants to take a Bass Skill class to learn the skill. Visit the Theatre to enroll in the class.
-   [0BB15] 0x2DAD3135CC052A9A: Your Sim wants to take a Drums Skill class to learn the skill. Visit the Theatre to enroll in the class.
-   [0BB16] 0x7C90E99654F22B4E: Your Sim wants to take a Piano Skill class to learn the skill. Visit the Theatre to enroll in the class.
+   [0BB14] 0x53C187138102506A: Your Sim wants to take a Bass Skill class to learn the skill. Visit the Theater to enroll in the class.
+   [0BB15] 0x2DAD3135CC052A9A: Your Sim wants to take a Drums Skill class to learn the skill. Visit the Theater to enroll in the class.
+   [0BB16] 0x7C90E99654F22B4E: Your Sim wants to take a Piano Skill class to learn the skill. Visit the Theater to enroll in the class.
    [0BB17] 0xB9973389FBF46AB1: Alien Brain
    [0BB18] 0x0ABC5A8A51253234: Aristocratic Gimlet
    [0BB19] 0x5295EDD428D4C0DD: Sweet Hijinks
@@ -49589,7 +49589,7 @@ Unknown3: 0x00000000
    [0C1B0] 0xECD6BCC5120F227B: Travel With Group To...
    [0C1B1] 0x6B8904CEEB830796: Travel With Other Sims To...
    [0C1B2] 0xE933153DD020EEFC: {0.String} Station
-   [0C1B3] 0xD8456CC77971DACC: Tour Theatre With Group
+   [0C1B3] 0xD8456CC77971DACC: Tour Theater With Group
    [0C1B4] 0xDFCC207997B947FF: Show All Celebrities
    [0C1B5] 0xD6A11D9F3D47077A: Show Level 1 Celebrities
    [0C1B6] 0xD6A11D9F3D470779: Show Level 2 Celebrities
@@ -51744,12 +51744,12 @@ Unknown3: 0x00000000
    [0CA1B] 0x3142E65C7E5450FE: {0.SimFirstName} had a great time on the field trip to the Police Station!
    [0CA1C] 0x0966508481C8644D: {0.SimFirstName} had a great time on the field trip to the Restaurant!
    [0CA1D] 0x47DE9EA21DFAF1FB: {0.SimFirstName} had a great time on the field trip to the Science Lab!
-   [0CA1E] 0xB32C6F0482A8CAB1: {0.SimFirstName} had a great time on the field trip to the Theatre!
+   [0CA1E] 0xB32C6F0482A8CAB1: {0.SimFirstName} had a great time on the field trip to the Theater!
    [0CA1F] 0xE89B22A53EB507A4: {0.SimName} got a souvenir from {MA.his}{FA.her} field trip to the Bistro!
    [0CA20] 0x96156B0A2A732E8A: {0.SimName} got a souvenir from {MA.his}{FA.her} field trip to the Mausoleum!
    [0CA21] 0x860C9B3441824C03: {0.SimName} got a souvenir from {MA.his}{FA.her} field trip to the Police Station!
    [0CA22] 0x380D5AC195C8C31C: {0.SimName} got a souvenir from {MA.his}{FA.her} field trip to the Science Lab!
-   [0CA23] 0xD5884486ACBAE02C: {0.SimName} got a souvenir from {MA.his}{FA.her} field trip to the Theatre!
+   [0CA23] 0xD5884486ACBAE02C: {0.SimName} got a souvenir from {MA.his}{FA.her} field trip to the Theater!
    [0CA24] 0x77FD20DCDB769A4E: {0.SimFirstName} skipped school on a field trip day!
    [0CA25] 0x9480F65B78DCA5B0: It looks like {0.SimFirstName} is snubbing {1.SimFirstName}. Better make that relationship right before Sims notice!
    [0CA26] 0x70D3CA09362E6FB4: {Variation.10}
@@ -53362,9 +53362,9 @@ Unknown3: 0x00000000
    [0D06D] 0x1F9842AB140D419B: One level closer...the top doesn't seem so far away now!
    [0D06E] 0xA862D0F3042E7BFA: Reached Level {0.Number} of {1.String}
    [0D06F] 0x5C573160827F3F8A: {2.SimName} just reached level {0.Number} of the {1.String} skill. Each skill level gained is an opportunity for more memories!
-   [0D070] 0x955302A8A64FDDA5: A trip to the theatre is a special night out, where Sims can enjoy artistic entertainment in a fine setting.
-   [0D071] 0x544E964C89444060: Went to the Theatre
-   [0D072] 0x29A392758B1CF70C: {2.SimName} is looking to enjoy some artistic expession and took a trip to the theatre! The beauty of the grand theatre is a memory that will stay with {MA.him}{FA.her} for a lifetime.
+   [0D070] 0x955302A8A64FDDA5: A trip to the theater is a special night out, where Sims can enjoy artistic entertainment in a fine setting.
+   [0D071] 0x544E964C89444060: Went to the Theater
+   [0D072] 0x29A392758B1CF70C: {2.SimName} is looking to enjoy some artistic expression and took a trip to the theater! The beauty of the grand theater is a memory that will stay with {MA.him}{FA.her} for a lifetime.
    [0D073] 0x2137DABACEA4EAD2: Letting a criminal go free seems like a bad idea, but the universe is bound to reward those generous to a desperate thief!
    [0D074] 0x58A4B82467114BCD: Set a Burglar Free
    [0D075] 0x6A500F479DD94DB1: {2.SimName} is feeling generous and just set a burglar free. {MA.He}{FA.She} will always remember the gratitude of the burglar for the unexpectedly kind gesture.
@@ -54072,7 +54072,7 @@ Unknown3: 0x00000000
    [0D333] 0xB879B29BF72A82A0: Attend Free Game With Date
    [0D334] 0xACDB170F86CCAE16: Attend Game With Date ({0.Money})
    [0D335] 0x0FD85EB943456943: Review Game With Date
-   [0D336] 0x7703CB594C2716AB: Tour Theatre With Date
+   [0D336] 0x7703CB594C2716AB: Tour Theater With Date
    [0D337] 0x3490ECB82FE87BA3: Watch Wedding
    [0D338] 0x25F86FEE78CE821C: Nap
    [0D339] 0xB6F03F8E10A29EBA: {0.SimName} should wait a little bit before playing again.
@@ -65438,7 +65438,7 @@ Unknown3: 0x00000000
    [0FF99] 0x2871D1C100E7E135: Everyone loves a good juice, but it is possible to have one too many. Save that beverage for a special occasion with this charming tantalus. Do you know the special secret to unlocking the bottles from their handcrafted frame? Neither do we!
    [0FF9A] 0x86BE7864463EDA6F: What kind of story can art tell? What mysteries hide within the cracks on this vessel’s tormented surface? Can a fracture lead you to the truth? These are important questions, and every Urn of Mystery you buy could bring you closer to the answers. Or bring you more mystery.
    [0FF9B] 0xA076C2FC833A4246: Have you ever looked at your meal and thought, “Why is all this food messing up my view of this lovely plate?” Well for you, we offer this: a humble shelf of gorgeous collector’s plates that adds a homey touch to any room. These certainly aren’t plates you eat off of! Seriously, we wouldn’t. The glaze we used may be toxic.
-   [0FF9C] 0xAC484309C98D0754: Turn any part of your house into a night at the theatre with this charming wall sculpture. Inject a little class and celebrity into any room. And wait until you see how it looks over a bed! You’ll wake up every morning looking like a star!
+   [0FF9C] 0xAC484309C98D0754: Turn any part of your house into a night at the theater with this charming wall sculpture. Inject a little class and celebrity into any room. And wait until you see how it looks over a bed! You'll wake up every morning looking like a star!
    [0FF9D] 0x730D4F0A8D663D95: There’s washing your hands, and then there’s cleansing them. For Sims who demand the latter, may we suggest the Flawless Sink? With its perfectly smooth surfaces and classic beauty, your hands won’t just look clean – they’ll feel clean down in your very soul. Never settle for less than Immaculate Living.
    [0FF9E] 0xD725631CC5FE92D0: Nothing says good, clean, livin’ in the country like a big ol’ sofa with a ruffle all the way around it. Sittin’ on one of these, you can almost smell the grits cookin’ and feel the cool iced tea in your hands. (These are the only sensations you should experience. If you ever smell cinnamon, discontinue use immediately.)
    [0FF9F] 0xF5FD2E6ADC32160B: You know how there’s the alternative club you go to, and then when you get bored of it you find the alternative to that? The club that the normal Sims won’t go to, either because they’re scared or because they don’t even realize it’s there? This lounger was designed for that club, but now you can have it in your home!
@@ -68892,8 +68892,8 @@ Unknown3: 0x00000000
    [10D17] 0xD99299CB353A906E: Cannot perform a concert when a psychic convention is being held!
    [10D18] 0xA5D074AD3B43094C: Cannot hold a convention while a concert is going on!
    [10D19] 0x74A0AB32BECF3EEB: Cannot hold a convention while a convention is already happening!
-   [10D1A] 0xF7AACA9E24B93537: Movie Theatre...
-   [10D1B] 0x0E37BA59108D0058: Tour Theatre With Pack
+   [10D1A] 0xF7AACA9E24B93537: Movie Theater...
+   [10D1B] 0x0E37BA59108D0058: Tour Theater With Pack
    [10D1C] 0x5E25ECD2F26F03E8: Enter Trivia Contest
    [10D1D] 0x424219CDBFF9673E: Research the Supernatural
    [10D1E] 0xC0DC0764D30CD60D: Take History Lesson
@@ -72937,7 +72937,7 @@ Unknown3: 0x00000000
    [11CE4] 0x0137977925A2B776: Classical Studies
    [11CE5] 0x0137977925A2B777: Drama
    [11CE6] 0x1F4C5B4940D2787B: Slacking Off
-   [11CE7] 0x0137987925A2B931: Theatre
+   [11CE7] 0x0137987925A2B931: Theater
    [11CE8] 0x0137987925A2B930: Film
    [11CE9] 0x0137987925A2B933: Media
    [11CEA] 0x0137987925A2B932: Sports
