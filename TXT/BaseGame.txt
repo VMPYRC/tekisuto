@@ -44631,7 +44631,7 @@ Unknown3: 0x00000000
    [0AE52] 0x81B2CB71976B0F43: This is What Happens
    [0AE53] 0x81B2CB71976B0F42: The Fury of Paint
    [0AE54] 0x81B2CB71976B0F45: Idyllic Acrylic
-   [0AE55] 0x81B2CB71976B0F44: Painting a la Phalange
+   [0AE55] 0x81B2CB71976B0F44: Painting à la Phalange
    [0AE56] 0x81B2CB71976B0F47: Wallowing and Marshmallowing
    [0AE57] 0x81B2CB71976B0F46: The Well-Tempered Tempura 
    [0AE58] 0x81B2CB71976B0F49: Destined for Consignment #9
@@ -68073,8 +68073,8 @@ Unknown3: 0x00000000
    [109E4] 0xBBBC05A30E4994BB: As a reward for {MA.his}{FA.her} efforts, {0.SimName} received a bewitching teddy bear!
    [109E5] 0xA7893F711B3688B6: Aloo Masala Curry
    [109E6] 0xCEA8BAC06092D41C: Aloo Masala Curry
-   [109E7] 0xBD7D3E8398511968: Brain Freeze a la mode
-   [109E8] 0x2B8921174570BD46: Brain Freeze a la mode
+   [109E7] 0xBD7D3E8398511968: Brain Freeze à la mode
+   [109E8] 0x2B8921174570BD46: Brain Freeze à la mode
    [109E9] 0xDB514940A3D284C2: Ceviche
    [109EA] 0xDC977E84A6E5D8B5: Ceviche
    [109EB] 0xAAD15EFA57FC55A7: Chili Con Carne

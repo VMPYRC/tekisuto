@@ -3660,8 +3660,8 @@ Unknown3: 0x00000000
    [0E47] 0x2A5BBE349501BFAA: Deliver Frogs Legs
    [0E48] 0x84CA51342D06957C: The grapes turned into a delectable Nectar to rival the best of France. Your Gardening Skill has improved and you were paid some money for the fine specimens. 
    [0E49] 0x40BB997A9BFCEA3F: The grapes turned into a delectable Nectar to rival the best of France. Your Gardening Skill has improved and you were paid some money for the fine specimens.
-   [0E4A] 0xC18492B816257FB8: The Theatre is holding advanced Nectar making and appreciation classes and needs some of the finest Grapes available. They have asked you to bring {9.Number} Excellent quality Renoit Grapes to the Theatre.
-   [0E4B] 0xC5706C1493A27173: The Theatre is holding advanced Nectar making and appreciation classes and needs some of the finest Grapes available. They have asked you to bring {9.Number} Excellent quality Renoit Grapes to the Theatre.
+   [0E4A] 0xC18492B816257FB8: The Theater is holding advanced Nectar making and appreciation classes and needs some of the finest Grapes available. They have asked you to bring {9.Number} Excellent quality Renoit Grapes to the Theater.
+   [0E4B] 0xC5706C1493A27173: The Theater is holding advanced Nectar making and appreciation classes and needs some of the finest Grapes available. They have asked you to bring {9.Number} Excellent quality Renoit Grapes to the Theater.
    [0E4C] 0xD8AC20EDE72D8614: EP1_SkillGardening_GetGrapesFailure
    [0E4D] 0x160D02844A1F25F1: Bring {9.Number} Excellent quality Renoit Grapes to the Theater to receive a payment.
    [0E4E] 0xE2F5436684F94DA4: Bring {9.Number} Excellent quality Renoit Grapes to the Theater to receive a payment.
@@ -3783,8 +3783,8 @@ Unknown3: 0x00000000
    [0EC2] 0x186615FB1FC1E6C1: A hobby group has started up at the Theater with Sims practicing for a riddle contest. It’s a battle to see who can untangle the web of logic within the riddle. The group has heard of your Logic prowess and they want to send you to China to face the best local riddle-writers. It will build Logic Skill and earn you some cash.
    [0EC3] 0xBF457BD51FB0E174: A hobby group has started up at the Theater with Sims practicing for a riddle contest. It’s a battle to see who can untangle the web of logic within the riddle. The group has heard of your Logic prowess and they want to send you to China to face the best local riddle-writers. It will build Logic Skill and earn you some cash.
    [0EC4] 0x7D793F6D1A228C3D: EP1_SkillLogic_RiddleWarFailure
-   [0EC5] 0x5A31280D0FBCA67A: Travel to China and talk to {1.Number} locals to solve all the riddles, then report back to the group at the Theatre to get your reward.
-   [0EC6] 0x53ECE2FCB53098E9: Travel to China and talk to {1.Number} locals to solve all the riddles, then report back to the group at the Theatre to get your reward.
+   [0EC5] 0x5A31280D0FBCA67A: Travel to China and talk to {1.Number} locals to solve all the riddles, then report back to the group at the Theater to get your reward.
+   [0EC6] 0x53ECE2FCB53098E9: Travel to China and talk to {1.Number} locals to solve all the riddles, then report back to the group at the Theater to get your reward.
    [0EC7] 0x26F7150CF2EF36B4: Riddle War in China
    [0EC8] 0x4A1B7ADFF1544EB7: Riddle War in China
    [0EC9] 0xC73FB8C540DE2040: Solve Riddles in China
@@ -4016,12 +4016,12 @@ Unknown3: 0x00000000
    [0FAB] 0xB49ED0F24E6179A0: Photograph Temple
    [0FAC] 0xD1704B6DB798BB38: Wow! You knew your photograph was good, but not that good! Congratulations!
    [0FAD] 0x6C1A88B3C28557F3: Wow! You knew your photograph was good, but not that good! Congratulations!
-   [0FAE] 0x83C85ADB14A8362C: It’s about time there was a contest to showcase the best local photographers! The local Theatre is accepting submissions in any format, so make sure you bring your best work.
-   [0FAF] 0x3EF0247D24E4206F: It’s about time there was a contest to showcase the best local photographers! The local Theatre is accepting submissions in any format, so make sure you bring your best work.
-   [0FB0] 0xE964EDEF65DF98D0: Unfortunately, your photograph didn’t really stand out among the other entries. The theatre sent out a nice e-mail thanking you for your participation.
-   [0FB1] 0x8F75AF9DE7FD032B: Unfortunately, your photograph didn’t really stand out among the other entries. The theatre sent out a nice e-mail thanking you for your participation.
-   [0FB2] 0x4208331AB6B08CE5: Bring a high value photograph to the Theatre for a chance to win! 
-   [0FB3] 0xE6F4D6CC5477C000: Bring a high value photograph to the Theatre for a chance to win! 
+   [0FAE] 0x83C85ADB14A8362C: It's about time there was a contest to showcase the best local photographers! The local Theater is accepting submissions in any format, so make sure you bring your best work.
+   [0FAF] 0x3EF0247D24E4206F: It's about time there was a contest to showcase the best local photographers! The local Theater is accepting submissions in any format, so make sure you bring your best work.
+   [0FB0] 0xE964EDEF65DF98D0: Unfortunately, your photograph didn't really stand out among the other entries. The theater sent out a nice e-mail thanking you for your participation.
+   [0FB1] 0x8F75AF9DE7FD032B: Unfortunately, your photograph didn't really stand out among the other entries. The theater sent out a nice e-mail thanking you for your participation.
+   [0FB2] 0x4208331AB6B08CE5: Bring a high value photograph to the Theater for a chance to win!
+   [0FB3] 0xE6F4D6CC5477C000: Bring a high value photograph to the Theater for a chance to win!
    [0FB4] 0x544F861AC14FE003: Photo Contest
    [0FB5] 0xD50F1FEA0385CAAA: Photo Contest
    [0FB6] 0xA61A4310162A395F: Submit Photo
@@ -4048,10 +4048,10 @@ Unknown3: 0x00000000
    [0FCB] 0xD87299AFC3F034FE: Egyptian Fashion
    [0FCC] 0x4E7CAAA796D105AB: Photograph Local
    [0FCD] 0x0C31EFC3D78E0D12: Photograph Local
-   [0FCE] 0x85ADE433A1B07DB7: It didn’t exactly revive the aging Theatre but Sims passing by were curious about the new addition. The management kept their word and paid you {0.Money} for the photography, nonetheless.
-   [0FCF] 0x1E2135AC36E6D566: It didn’t exactly revive the aging Theatre but Sims passing by were curious about the new addition. The management kept their word and paid you {0.Money} for the photography, nonetheless.
-   [0FD0] 0x34964B651E2173B5: Theatre management would like to add an air of artistry and sophistication to its peeling walls. They’ve requested a photograph of the Eiffel Tower and are willing to pay you for it.
-   [0FD1] 0x9D36F3FECAE686D0: Theatre management would like to add an air of artistry and sophistication to its peeling walls. They’ve requested a photograph of the Eiffel Tower and are willing to pay you for it.
+   [0FCE] 0x85ADE433A1B07DB7: It didn't exactly revive the aging Theater but Sims passing by were curious about the new addition. The management kept their word and paid you {0.Money} for the photography, nonetheless.
+   [0FCF] 0x1E2135AC36E6D566: It didn't exactly revive the aging Theater but Sims passing by were curious about the new addition. The management kept their word and paid you {0.Money} for the photography, nonetheless.
+   [0FD0] 0x34964B651E2173B5: Theater management would like to add an air of artistry and sophistication to its peeling walls. They've requested a photograph of the Eiffel Tower and are willing to pay you for it.
+   [0FD1] 0x9D36F3FECAE686D0: Theater management would like to add an air of artistry and sophistication to its peeling walls. They've requested a photograph of the Eiffel Tower and are willing to pay you for it.
    [0FD2] 0x097331E3C26A27E9: EP1_SkillPhotography_EiffelPhotoFailure
    [0FD3] 0xF4858B9BA8D4A2CE: Bring a picture of the Eiffel Tower worth more than {0.Money} to the Theater to earn a cash reward.
    [0FD4] 0x53E84285CBFA7F45: Bring a picture of the Eiffel Tower worth more than {0.Money} to the Theater to earn a cash reward.
