@@ -111,7 +111,7 @@ Unknown3: 0x00000000
    [006A] 0xE2A9BB87B7BD323E: Chinese Bamboo is some of the most sought after bamboo in the world.
    [006B] 0x4C61E534BE3D826F: The great thing about a banana tree is that it doesn't even have to grow bananas to still look like an awesome tree.
    [006C] 0xA79C7F8EB6C8536A: Don't be caught off guard by this tree's bright colors. It's not as domestic as you might think.
-   [006D] 0xE6B2341B2200E279: To no suprise, the harvesting of cinnamon trees happens much more frequently during the holidays.
+   [006D] 0xE6B2341B2200E279: To no surprise, the harvesting of cinnamon trees happens much more frequently during the holidays.
    [006E] 0x6B5BE76B2BEF0C91: From a lone cypress to the Siberian Cypress, different breeds of the cypress can be found across the world!
    [006F] 0x1349720258C72889: The Chinese Elm's broad base is what sets it apart from other Elm trees.
    [0070] 0xAD08C255F0B5DBC0: All maple tree owners know that getting syrup from a maple tree is much harder than it looks on TV.
@@ -123,7 +123,7 @@ Unknown3: 0x00000000
    [0076] 0x70A863C7B5F5FAE3: This product is a window. Or is it a garden? No one can quite tell for sure as it was originally marketed as a garden view window until the garden came to the window, and in fact, became the window!
    [0077] 0x792D726460C70234: King Qing was the first emperor of the Second Dynasty to install glass windows in the Palatial Palace. Previous emperors had to weather windstorms, monsoons, and the occasional barbarian attack without the peace and quiet of a fully sealed restroom.
    [0078] 0xF67BA172F61D84EC: Unlike many of its competing products, this viewing screen comes with a subscription service. Its creators believe that whatever is seen through their window is actually entertainment they have provided you. Due to the amount of lawsuits that have been filed, customers are no longer required to pay an activation fee.
-   [0079] 0x4851764BEBF120A8: Do dust storms keep getting sand in your shawerma? Foliage in your falafel? Install the Desert Shield in your open-air house today and keep the desert out while still retaining the natural beauty of the outside world!
+   [0079] 0x4851764BEBF120A8: Do dust storms keep getting sand in your shawarma? Foliage in your falafel? Install the Desert Shield in your open-air house today and keep the desert out while still retaining the natural beauty of the outside world!
    [007A] 0xE7D6FEB923FA9465: Before blinds and drapes became widely accepted around the world, latticed windows were used to keep peeping eyes out of the affairs of others.
    [007B] 0x6FBA4F8E5CFB1553: It’s a well known fact that the super fine grains of sand found only in the Simomian Desert make the best window glass. Unfortunately, this window doesn’t use that sand. In fact, it’s actually more of a novelty decoration than anything else.
    [007C] 0x2DC303854415BB91: Hello and Goodbye!! Glass shapers designed this window for the specific use of waving hello or goodbye to guests at your residence. Using advanced glass heating techniques, the glass molecules contained in this window can actually enhance the emotion conveyed through this receiving, or parting gesture.
@@ -868,8 +868,8 @@ Unknown3: 0x00000000
    [035F] 0x1C22850A2E043529: Thank you for the package, you can tell your employers that it has safely arrived and you are to be commended.
    [0360] 0x3A0AF1FD3473BFCC: You've found yourself in the middle of a international smuggling ring. Travel to Al Simhara and deliver a secret package to a local contact. Your job performance depends on this and there’ll be a nice raise once you complete the delivery.
    [0361] 0xEA4E17E5BFCF8DCF: You've found yourself in the middle of a international smuggling ring. Travel to Al Simhara and deliver a secret package to a local contact. Your job performance depends on this and there’ll be a nice raise once you complete the delivery.
-   [0362] 0x9D4248E4BD822970: How could you lose the package?! The smuggling ring wll think twice about selecting you for a operation of this size next time.
-   [0363] 0x1589F5ACF572860B: How could you lose the package?! The smuggling ring wll think twice about selecting you for a operation of this size next time.
+   [0362] 0x9D4248E4BD822970: How could you lose the package?! The smuggling ring will think twice about selecting you for an operation of this size next time.
+   [0363] 0x1589F5ACF572860B: How could you lose the package?! The smuggling ring will think twice about selecting you for an operation of this size next time.
    [0364] 0xD6629AC59C7ED505: Go to Egypt and deliver the package in your inventory to a local contact to increase your job performance and earn a raise.
    [0365] 0x95343F6CA095ABE0: Go to Egypt and deliver the package in your inventory to a local contact to increase your job performance and earn a raise.
    [0366] 0xE8A9EDC5A71E2923: Egyptian Delivery
@@ -929,17 +929,17 @@ Unknown3: 0x00000000
    [039C] 0xB3ABFE5B437F4AF0: Falafel Portfolio
    [039D] 0x998008B2A558BCA5: Bring a Group Serving of Great Falafel to Work
    [039E] 0x60009260AF47D5C0: Bring a Group Serving of Great Falafel to Work
-   [039F] 0xBCA562D318C921C9: Your crepes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
-   [03A0] 0xC3EADD04A888AE5C: Your crepes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
-   [03A1] 0xCD25DF4764A7E387: The smooth, papery-thin surface of a Crepe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crepes into work to establish your rank among the others. Your'll get a raise for your efforts.
-   [03A2] 0xC2981C61866C02F6: The smooth, papery-thin surface of a Crepe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crepes into work to establish your rank among the others. Your'll get a raise for your efforts.
+   [039F] 0xBCA562D318C921C9: Your crêpes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
+   [03A0] 0xC3EADD04A888AE5C: Your crêpes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
+   [03A1] 0xCD25DF4764A7E387: The smooth, papery-thin surface of a Crêpe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crêpes into work to establish your rank among the others. You'll get a raise for your efforts.
+   [03A2] 0xC2981C61866C02F6: The smooth, papery-thin surface of a Crêpe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crêpes into work to establish your rank among the others. You'll get a raise for your efforts.
    [03A3] 0xF2F48310DAA163B7: EP1_CareerCulinary_FrenchFoodFailure
-   [03A4] 0x8DBD3AE585850CCC: Learn the recipe for Crepes, cook a serving, then bring it to work to earn a raise.
-   [03A5] 0x0A14D5C2C1C66CCF: Learn the recipe for Crepes, cook a serving, then bring it to work to earn a raise.
-   [03A6] 0xC0F74FE5A2527F3E: Create-a-Crepe
-   [03A7] 0x4F3E5466E1F85FB5: Create-a-Crepe
-   [03A8] 0xA5F70255E3F2F4EE: Bring a Group Serving of Great Crepes to Work
-   [03A9] 0x67B353DF492DA825: Bring a Group Serving of Great Crepes to Work
+   [03A4] 0x8DBD3AE585850CCC: Learn the recipe for Crêpes, cook a serving, then bring it to work to earn a raise.
+   [03A5] 0x0A14D5C2C1C66CCF: Learn the recipe for Crêpes, cook a serving, then bring it to work to earn a raise.
+   [03A6] 0xC0F74FE5A2527F3E: Create-a-Crêpe
+   [03A7] 0x4F3E5466E1F85FB5: Create-a-Crêpe
+   [03A8] 0xA5F70255E3F2F4EE: Bring a Group Serving of Great Crêpes to Work
+   [03A9] 0x67B353DF492DA825: Bring a Group Serving of Great Crêpes to Work
    [03AA] 0xDAF431DBFEAB90DF: The French locals had amazing tips on balancing flavor and texture in your dishes. Your Cooking skill improved as a result of this knowledge and you got a raise.
    [03AB] 0x96B0391829F5B3AE: The French locals had amazing tips on balancing flavor and texture in your dishes. Your Cooking skill improved as a result of this knowledge and you got a raise.
    [03AC] 0xB88197D1BD872ADF: {1.SimFirstName} has secured a plethora of advice both good and generous. {1.SimFirstName} should head back home and report in on their findings.
@@ -1032,12 +1032,12 @@ Unknown3: 0x00000000
    [0403] 0x271C0950B1F16F59: Preservation Techniques
    [0404] 0xA4B3BE1D41645B3A: Deliver Pemmican to Hospital
    [0405] 0x4A79EB5BC515B4A9: Deliver Pemmican to Hospital
-   [0406] 0x4B0AD2D5AC4E5050: The Hospital paid a stipend for your travel despite the cancelled seminar. Your dedication has helped your job performance regardless!
-   [0407] 0x2513E6B3B9BAFDAB: The Hospital paid a stipend for your travel despite the cancelled seminar. Your dedication has helped your job performance regardless!
+   [0406] 0x4B0AD2D5AC4E5050: The Hospital paid a stipend for your travel despite the canceled seminar. Your dedication has helped your job performance regardless!
+   [0407] 0x2513E6B3B9BAFDAB: The Hospital paid a stipend for your travel despite the canceled seminar. Your dedication has helped your job performance regardless!
    [0408] 0x44195D2DB9BFC054: There is a seminar in France on advanced medical techniques and the hospital has asked you to attend. They will pay a stipend for your trip and it will be great for your job performance.
    [0409] 0x5A60C873EA5E7317: There is a seminar in France on advanced medical techniques and the hospital has asked you to attend. They will pay a stipend for your trip and it will be great for your job performance.
-   [040A] 0x6732FA5B80C86098: The advanced medical techniques seminar was cancelled at the last minute. The Hospital was informed of the change.
-   [040B] 0x3EF19364A774D693: The advanced medical techniques seminar was cancelled at the last minute. The Hospital was informed of the change.
+   [040A] 0x6732FA5B80C86098: The advanced medical techniques seminar was canceled at the last minute. The Hospital was informed of the change.
+   [040B] 0x3EF19364A774D693: The advanced medical techniques seminar was canceled at the last minute. The Hospital was informed of the change.
    [040C] 0x879EAF6BF5F9C72D: Go to France and attend the seminar then report back to work to receive a travel stipend and increase your job performance.
    [040D] 0x3663A6AAF564CFA8: Go to France and attend the seminar then report back to work to receive a travel stipend and increase your job performance.
    [040E] 0x99B0026C006B8BDB: French Seminar
@@ -1470,8 +1470,8 @@ Unknown3: 0x00000000
    [05B9] 0x501D1835423EF335: Find {2.SimName} and Convince Sim to go with you to talk with {16.SimFirstName} to complete this adventure.
    [05BA] 0x8B7E41F3605CDC60: A Convincing Story
    [05BB] 0x712C85BA5769996C: Convince Sim
-   [05BC] 0x383744D17A594AB0: “I am so glad {16.SimName} is going to reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one can not learn on their own! Thank you so much for your assistance.”
-   [05BD] 0x2A1AC253D085F64B: “I am so glad {16.SimName} is going to reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one can not learn on their own! Thank you so much for your assistance.”
+   [05BC] 0x383744D17A594AB0: "I am so glad {16.SimName} is going to reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one cannot learn on their own! Thank you so much for your assistance."
+   [05BD] 0x2A1AC253D085F64B: "I am so glad {16.SimName} is going to reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one cannot learn on their own! Thank you so much for your assistance."
    [05BE] 0xAD5D968F10B36834: “So there’s more than meet’s the eye to that old Clan of the Resolute Fist, huh? I always thought there might be something that they’ve kept secret in their organization all these years. I guess if they can’t help me with my Martial Arts skill, it would still be interesting to learn more about the organization. Will you tell {2.String} I will come by soon so we can talk more about my membership to the club?"
    [05BF] 0xEE3DCCF8A545A737: “So there’s more than meet’s the eye to that old Clan of the Resolute Fist, huh? I always thought there might be something that they’ve kept secret in their organization all these years. I guess if they can’t teach help me with my Martial Arts skill, it would still be interesting to learn more about the organization. Will you tell {2.String} I will come by soon so we can talk more about my membership to the club?"
    [05C0] 0xB7B7794C66B65F78: EP1_Quest_BringMonkBack4Failure
@@ -3592,17 +3592,17 @@ Unknown3: 0x00000000
    [0E03] 0x1FA204F20F35A518: Business Negotiation
    [0E04] 0x6DB8FAB8F432181D: Negotiate Deal
    [0E05] 0x7EAC9AA173FE8498: Negotiate Deal
-   [0E06] 0xDEA90695611220E9: The new line cooks had never tasted Crepes so light and delicious. Your Cooking Skill has improved and the Bistro paid you some cash for the extra effort!
-   [0E07] 0x076989D0E87A043C: The new line cooks had never tasted Crepes so light and delicious. Your Cooking Skill has improved and the Bistro paid you some cash for the extra effort!
-   [0E08] 0xDF08431CEF5A1B27: The Bistro is training some new employees and would like to show them what Excellent quality Crepes look and taste like. They’ve asked you to prepare some at home and bring them in to the restaurant.
-   [0E09] 0x9F7BF3DCBB6039D6: The Bistro is training some new employees and would like to show them what Excellent quality Crepes look and taste like. They’ve asked you to prepare some at home and bring them in to the restaurant.
+   [0E06] 0xDEA90695611220E9: The new line cooks had never tasted Crêpes so light and delicious. Your Cooking Skill has improved, and the Bistro paid you some cash for the extra effort!
+   [0E07] 0x076989D0E87A043C: The new line cooks had never tasted Crêpes so light and delicious. Your Cooking Skill has improved, and the Bistro paid you some cash for the extra effort!
+   [0E08] 0xDF08431CEF5A1B27: The Bistro is training some new employees and would like to show them what Excellent quality Crêpes look and taste like. They've asked you to prepare some at home and bring them in to the restaurant.
+   [0E09] 0x9F7BF3DCBB6039D6: The Bistro is training some new employees and would like to show them what Excellent quality Crêpes look and taste like. They've asked you to prepare some at home and bring them in to the restaurant.
    [0E0A] 0xF56DC7913C445857: EP1_SkillCooking_GetCrepesFailure
-   [0E0B] 0xA62518CCB1A8B5EC: Bring a serving of Excellent Crepes to the Restaurant to receive a payment.
-   [0E0C] 0x8D97352C2E61BC2F: Bring a serving of Excellent Crepes to the Restaurant to receive a payment.
-   [0E0D] 0xDCC62DCCD15B045E: Some fine Crepes
-   [0E0E] 0xD61966BF3EDC9E95: Some fine Crepes
-   [0E0F] 0x26893B4F50FDE10E: Prepare Crepes
-   [0E10] 0x274266495F51D985: Prepare Crepes
+   [0E0B] 0xA62518CCB1A8B5EC: Bring a serving of Excellent Crêpes to the Restaurant to receive a payment.
+   [0E0C] 0x8D97352C2E61BC2F: Bring a serving of Excellent Crêpes to the Restaurant to receive a payment.
+   [0E0D] 0xDCC62DCCD15B045E: Some fine Crêpes
+   [0E0E] 0xD61966BF3EDC9E95: Some fine Crêpes
+   [0E0F] 0x26893B4F50FDE10E: Prepare Crêpes
+   [0E10] 0x274266495F51D985: Prepare Crêpes
    [0E11] 0x3D1A1093FDD92390: You delivered the batches of Falafel to a very grateful restaurant owner. You were paid some money for the order and you improved your Cooking Skill at the same time!
    [0E12] 0xB4324D09037031EB: You delivered the batches of Falafel to a very grateful restaurant owner. You were paid some money for the order and you improved your Cooking Skill at the same time!
    [0E13] 0x2D541EB7BFD3F094: Falafel is the latest food craze in town and the Bistro just can’t keep up with the amount of orders that are coming in! The owner is ordering from anyone who can make a good amount of homemade Falafel.
@@ -4265,7 +4265,7 @@ Unknown3: 0x00000000
    [10A4] 0x9ED38584D5064D68: Haggling The Final Details...
    [10A5] 0x9ED38584D5064D6F: Seeking Adventure...
    [10A6] 0x9ED38584D5064D6E: Surviving Vaughan’s Tomb...
-   [10A7] 0x9ED38584D5064D6D: Creating-a-Crepe...
+   [10A7] 0x9ED38584D5064D6D: Creating-a-Crêpe...
    [10A8] 0x9ED38584D5064D6C: Check Out My Awesome Belt...
    [10A9] 0x9ED38584D5064D63: Sim Fu: Jumping Kicks...
    [10AA] 0x9ED38584D5064D62: Beware the spitting dragon...

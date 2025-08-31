@@ -808,7 +808,7 @@ Unknown3: 0x00000000
    [00323] 0x8CBBE75BAD47966B: Crazy Grady’s Trash Compactor makes big trash small. And his plans for next year’s new Trash Expander model promises to make small trash big. So whatever your trash re-sizing needs may be, think Crazy Grady. He’ll be glad you did.
    [00324] 0x7263BF7750FBCFDE: Aspen trees aspire to be no other tree. They're happy just as they are, and see no reason to change.
    [00325] 0x3AB0663819DCC405: Having a unique look that separates them from other trees, Bamboo trees will sometimes bamboozle you into thinking they are a type of bush or plant, when they are in fact a tree.
-   [00326] 0xEAA3F430B75D69A3: To much public suprise, the Black Gum tree does not naturally produce chewing gum. Or so says the B. Morris Chewing Gum Co., who happen to have a monopoly on the chewing gum industry.
+   [00326] 0xEAA3F430B75D69A3: To much public surprise, the Black Gum tree does not naturally produce chewing gum. Or so says the B. Morris Chewing Gum Co., who happen to have a monopoly on the chewing gum industry.
    [00327] 0x45251D1B077754AB: It's hard to find a tree that tree huggers don't like, but the Buckhorn is definitely one. This tree's got some nasty thorns that even the most daring of tree huggers won't wrap their arms around.
    [00328] 0x572CC42CA3FA9BED: Creepy trees are indigenous to graveyards around the world... there's just something in the soil at graveyards that keeps these trees from looking alive... 
    [00329] 0xAB08E9EB900FFEA6: Botanist and part-time tree breeder Dr. Coswalt Murphy successfully created the perpetually blooming Cherry tree two decades ago by cross breeding a cherry pit and an omniplant.
@@ -2950,8 +2950,8 @@ Unknown3: 0x00000000
    [00B81] 0x76A81C6D456EC343: Play Air Guitar
    [00B82] 0x1139318DBFB79590: Play Tag
    [00B83] 0xCEC204244C3FB7EB: Play Tag
-   [00B84] 0x8C7E32EC70406D8F: React to cancelled Wedding
-   [00B85] 0x3FE71DD183559FDE: React to cancelled Wedding
+   [00B84] 0x8C7E32EC70406D8F: React to Canceled Wedding
+   [00B85] 0x3FE71DD183559FDE: React to Canceled Wedding
    [00B86] 0xBD1F1C0694E505D0: React to Wedding
    [00B87] 0x9AD25CFB6C0B422B: React to Wedding
    [00B88] 0x7C762D940FB44700: Play With
@@ -11325,7 +11325,7 @@ Unknown3: 0x00000000
    [02C38] 0x06A1074E71F469D5: Good job! The information you’ve provided is invaluable for the team performing the heist. Enjoy this job performance boost. Think of it as a little “thank you” from us to you.
    [02C39] 0x5B99C22BADA347FA: The Organization is planning a job on the {RabbitHoleName}. But first, they need you to case the joint. Go to the {RabbitHoleName} to look around a bit. Keep an eye open for good entry points, getaway routes, security guards, and the location of cameras. The Leader will provide you with a job performance increase when all of this is finished.
    [02C3A] 0x36F385E59677C169: The Organization is planning a job on the {RabbitHoleName}. But first, they need you to case the joint. Go to the {RabbitHoleName} to look around a bit. Keep an eye open for good entry points, getaway routes, security guards, and the location of cameras. The Leader will provide you with a job performance increase when all of this is finished.
-   [02C3B] 0xCBCCC0290A60F1BA: Jobs are time sensitive, even when you're working for The Organization. The heist had to be cancelled due to your failure to case the joint on time! Have fun explaining that to your boss.
+   [02C3B] 0xCBCCC0290A60F1BA: Jobs are time-sensitive, even when you're working for The Organization. The heist had to be canceled due to your failure to case the joint on time! Have fun explaining that to your boss.
    [02C3C] 0xD10EE5998B0A23CF: “Case Joint” at the {RabbitHoleName} to earn a job performance increase.
    [02C3D] 0x9339902F8A28861E: “Case Joint” at the {RabbitHoleName} to earn a job performance increase.
    [02C3E] 0xBFA0709981228685: Case the Joint
@@ -15354,7 +15354,7 @@ Unknown3: 0x00000000
    [03BF5] 0x6F5A8422F5818778: The fish you caught are healthy and thriving in their new aquariums. So much research can now be completed, all thanks to your fishing abilities. The administrators have approved a raise for you and your job performance has increased.
    [03BF6] 0x878D36DAA035C633: The Science Facility is having difficulty breeding a few rare fish in captivity. The fish just aren’t biting! Please put your lab coat aside, at least long enough to catch {9.Number} rare fish. Bring them back to the lab with you and your job performance will increase. You’ll also receive a raise!
    [03BF7] 0x3546BA5528866A1A: The Science Facility is having difficulty breeding a few rare fish in captivity. The fish just aren’t biting! Please put your lab coat aside, at least long enough to catch {9.Number} rare fish. Bring them back to the lab with you and your job performance will increase. You’ll also receive a raise!
-   [03BF8] 0xA8EB8ACA9D88832B: You didn't catch the fish in time, so the project had to be cancelled. The Facility administrators won't be impressed with your performance... 
+   [03BF8] 0xA8EB8ACA9D88832B: You didn't catch the fish in time, so the project had to be canceled. The Facility administrators won't be impressed with your performance...
    [03BF9] 0xD2886D33C525EA28: Catch {9.Number} {FishName} and bring them to work with you to earn a raise and job performance increase.
    [03BFA] 0x8157A82219844123: Catch {9.Number} {FishName} and bring them to work with you to earn a raise and job performance increase.
    [03BFB] 0xC0411A33BA8696E2: Catch of the Day
@@ -18289,7 +18289,7 @@ Unknown3: 0x00000000
    [0476C] 0x73E70ACA31D2531D: Visiting the Bistro
    [0476D] 0x1116184F5C2641C1: Visiting the Theatre
    [0476E] 0xD556DABA66D7D604: Wedding
-   [0476F] 0xD2BEE49856477C95: The cancelled Wedding
+   [0476F] 0xD2BEE49856477C95: The Canceled Wedding
    [04770] 0x3507964108B65A7B: Being Woken Up
    [04771] 0x0EA6C7CDF5E6E2AB: Work
    [04772] 0xF44269A00631D767: Workaholic Trait
@@ -22626,15 +22626,15 @@ Unknown3: 0x00000000
    [0585D] 0x58F07A7FBC40F3EA: Babysitter
    [0585E] 0xE91FFD51A424789B: There is a Burglar on your lot!
    [0585F] 0x94FE1B2249C4DCC0: Gee thanks buddy! I really appreciate you helping me out even though I was trying to steal from you. I'll make it up to you somehow I promise!
-   [05860] 0x3ADD537D5C9640E3: The babysitting service has been cancelled.
-   [05861] 0x4F8ABC521655FFF1: The firefighter request has been cancelled.
-   [05862] 0x1852460721CE81B1: The magic show has been cancelled.
-   [05863] 0xD0D618A5B07FF9CF: The maid service has been cancelled.
-   [05864] 0xA1D586B50F8893B8: The pizza delivery has been cancelled.
-   [05865] 0xB40B10C742FB3FD4: The police request has been cancelled.
-   [05866] 0xFCCCE245F21AD577: The repair technician visit has been cancelled.
-   [05867] 0x9ED5F75336E65345: The social worker visit has been cancelled.
-   [05868] 0x8F570F6CA4B034B8: We have already sent a maid over today, but we have cancelled your recurring service.
+   [05860] 0x3ADD537D5C9640E3: The babysitting service has been canceled.
+   [05861] 0x4F8ABC521655FFF1: The firefighter request has been canceled.
+   [05862] 0x1852460721CE81B1: The magic show has been canceled.
+   [05863] 0xD0D618A5B07FF9CF: The maid service has been canceled.
+   [05864] 0xA1D586B50F8893B8: The pizza delivery has been canceled.
+   [05865] 0xB40B10C742FB3FD4: The police request has been canceled.
+   [05866] 0xFCCCE245F21AD577: The repair technician visit has been canceled.
+   [05867] 0x9ED5F75336E65345: The social worker visit has been canceled.
+   [05868] 0x8F570F6CA4B034B8: We have already sent a maid over today, but we have canceled your recurring service.
    [05869] 0xB13E16299FC93941: That’s it for the day. That’ll be §{0.Number}.
    [0586A] 0x20DE8A80B3ACA836: Sorry this didn’t work out. Just pay my fee of §{0.Number} and I’ll be on my way.
    [0586B] 0xBCE929F27A6DBC85: You do not have enough money to pay the Firefighter.
@@ -32095,7 +32095,7 @@ Unknown3: 0x00000000
    [07D5A] 0x306F41174168FB5F: This program requires administrative privileges to install. Please login as an Administrator or member of the Administrator group in order to install.
    [07D5B] 0x79D29837B8F6C7B2: %s Update
    [07D5C] 0x61B23318DF669208: Update Error:
-   [07D5D] 0x4510C4094F3ECA74: Cancelled by user
+   [07D5D] 0x4510C4094F3ECA74: Canceled by user
    [07D5E] 0xA197CCDF9A1B65C2: Character set conversion failed
    [07D5F] 0xF6F5E27BAEF9FD65: Command execution failed
    [07D60] 0xF1F2D1FFECEC93DF: Unable to create directory	
@@ -32829,7 +32829,7 @@ Unknown3: 0x00000000
    [08038] 0x0DE6770FB1099D17: Confirm Household Eviction
    [08039] 0xEC0AEBD9DF5DBE96: Save Household
    [0803A] 0x17B848A4899C8DDB: Price
-   [0803B] 0x1009B5726593A82D: Current interactions for all Sims in your town will be cancelled if you do this. Continue? 
+   [0803B] 0x1009B5726593A82D: Current interactions for all Sims in your town will be canceled if you do this. Continue?
    [0803C] 0x97C714ED1425C68B: Copy to Clipboard
    [0803D] 0x4E48445984E8D70F: Difficulty:
    [0803E] 0x6518F54612D02FC5: You cannot enter Edit Town while a Sim in your household is having a birthday.
@@ -33220,7 +33220,7 @@ Unknown3: 0x00000000
    [081BF] 0x60F390F2144F36B9: To-do
    [081C0] 0x77856483EC95C02A: Current Traits
    [081C1] 0x3E4699782F16E7AC: Cancel
-   [081C2] 0x9DA6E92EA9706377: Stopped: action cancelled by user.
+   [081C2] 0x9DA6E92EA9706377: Stopped: action canceled by user.
    [081C3] 0x12346253B58C1945: Error: unable to open file.
    [081C4] 0x794E365FE4944D6D: Installation failed: Please make sure your game has the latest Software Updates and try again. 
    [081C5] 0xC72783AA5457239C: Internal Error: Content Manager instance creation failed.
@@ -37128,7 +37128,7 @@ Unknown3: 0x00000000
    [09103] 0x4894E4B87898DD48: Rhama Tut
    [09104] 0xE8EF7BAC7BEB1CD1: Bouillabaisse
    [09105] 0xECA134742E402DF7: Cheese Plate
-   [09106] 0x0F52C7F44A90819F: Crepes
+   [09106] 0x0F52C7F44A90819F: Crêpes
    [09107] 0x8CCB26067F1FFB33: Egg Rolls
    [09108] 0x5DDFCE90FBF175BD: Falafel
    [09109] 0x2004D3691494446C: Frogs Legs
@@ -38035,7 +38035,7 @@ Unknown3: 0x00000000
    [0948E] 0x20B081FB6EF1DEF4: Key to the Servants' Quarters
    [0948F] 0x59E59CA4923DA6DE: SetToTrueIfYouWantTheNextOpportunityInTheChainToHaveTheSameSource
    [09490] 0x9CAA740EB7EF61B6: SetToTrueIfYouWantTheNextOpportunityInTheChainToHaveTheSameTarget
-   [09491] 0x634479489854D67D: Deliver Crepes
+   [09491] 0x634479489854D67D: Deliver Crêpes
    [09492] 0x85C8E1145BF4BDB8: Deliver Falafel
    [09493] 0x6F84925556C81C66: Deliver Stir Fry
    [09494] 0x2C0B1E56CEB454DD: Deliver Crocodile
@@ -38698,8 +38698,8 @@ Unknown3: 0x00000000
    [09725] 0x31822894EF1DBC1A: A Pomelo tree is only good for two things: shade and growing Pomelos. And we'll tell ya, that's just enough for us.
    [09726] 0xB206E98172F5828A: Bouillabaisse
    [09727] 0x510C667BB15F8DB0: Cheese Plate
-   [09728] 0x86E2D98ECC68C7BC: Crepes
-   [09729] 0x7AC2AA3A4BE0692A: Crepes! What a delectable delight! Fruit, whipped cream, and crepey goodness…What could be better?
+   [09728] 0x86E2D98ECC68C7BC: Crêpes
+   [09729] 0x7AC2AA3A4BE0692A: Crêpes! What a delectable delight! Fruit, whipped cream, and crêpey goodness... What could be better?
    [0972A] 0x319CD2ADEE5D5AB7: Egg Rolls
    [0972B] 0xCE77C6CAAFB34383: Rolled with goodness, these delicious appetizers are packed with yummy veggies, dipped in batter, and fried to a golden brown. What about the egg you ask? That’s a great question.
    [0972C] 0xAAD4B48C08A12486: Egg Rolls
@@ -40658,7 +40658,7 @@ Unknown3: 0x00000000
    [09ECD] 0xD5D2D0FD579C7BB3: Tourist
    [09ECE] 0x0EC5F3A176B764A6: {0.SimName}, {1.String}
    [09ECF] 0x8641C17E0985C49D: {0.SimName}, {1.String}
-   [09ED0] 0xE2228707FFDD10BF: Newspaper Delivery cancelled.
+   [09ED0] 0xE2228707FFDD10BF: Newspaper Delivery canceled.
    [09ED1] 0xE0F803A39793C2DA: Today's newspaper is already on its way. We'll stop delivery beginning tomorrow. Have a nice day!
    [09ED2] 0x73A7759D2FBFAA92: Newspaper delivery resumed.
    [09ED3] 0x0BD73A37341CBC3E: Wan
@@ -41308,7 +41308,7 @@ Unknown3: 0x00000000
    [0A157] 0xC62EE016F07C359C: {0.SimName} just died. Isn't it a shame?
    [0A158] 0xDBE742CCA3E13983: {0.SimName}'s travel request cannot be accepted since another trip is already in progress.
    [0A159] 0xD2DBCB6A6CD26C88: {0.SimName} cannot invite over Sims while in a tomb.
-   [0A15A] 0x80B67015BAE5ACAB: Due to unexpected circumstances, travel plans had to be be cancelled. You'll receive a full refund of {0.Money}.
+   [0A15A] 0x80B67015BAE5ACAB: Due to unexpected circumstances, travel plans had to be canceled. You'll receive a full refund of {0.Money}.
    [0A15B] 0xD091D6170447AE61: China
    [0A15C] 0xCE9AE50AF62815C3: Itinerary for Shang Simla, China
    [0A15D] 0xEB135C40F1256F1D: Shang Simla, China is home to people that value discipline, peace, and clarity of mind over all else. While there, adventurers are encouraged to visit the Academy to learn the Martial Arts skill, then head to the Scholar’s Garden for introspective meditation. If you’re lucky, you may even catch one of Shang Simla’s famous fireworks shows!
@@ -43070,7 +43070,7 @@ Unknown3: 0x00000000
    [0A839] 0xB6BD6FEFCA18252F: Assistant Fire Chief
    [0A83A] 0xA1418BBEF9256D90: Flatfooted Investigation Specialist
    [0A83B] 0xE10A2EA64655FF4B: Ghost Grabber
-   [0A83C] 0xA1C16E1ECC202CD1: At this level, don't be suprised if other Sims don't take your "profession" seriously. Ghost Hunting is a strict discipline that blurs the line between science and sci-fi. Good work and professionalism will go a long way in building respect for your expertise.
+   [0A83C] 0xA1C16E1ECC202CD1: At this level, don't be surprised if other Sims don't take your "profession" seriously. Ghost Hunting is a strict discipline that blurs the line between science and sci-fi. Good work and professionalism will go a long way in building respect for your expertise.
    [0A83D] 0xFBDAEF54DAAC2713: You are the purveyor of poltergeist, the banisher of banshees, the eradicator of evil! Not only have you vanquished some of the most terrifying specters out there, you’ve freed troubled souls from eternal suffering (both dead and alive) many times over. You are a true hero.
    [0A83E] 0xA1C16E1ECC202CD2: Although telling fortunes might be more fun than cleaning steaming hot canisters of ectoplasm, when it comes to dealing with all things supernatural, there is a fine line between the scams of amateurs and scientifically educated hunters of the undead. You’ve just taken a step in the right direction.
    [0A83F] 0xA1C16E1ECC202CD3: Late night creaking in the attic, clattering pots and pans, and whistling winds have been setting members of the community on edge. Can you dispense of the supernatural specters causing this raucousness, or at least convince people the noises are all in their heads?
@@ -46043,7 +46043,7 @@ Unknown3: 0x00000000
    [0B3D6] 0xD4520E65AAF47795: \nSince {0.SimFirstName} has the suave seller trait, the sale was worth more than usual.\n
    [0B3D7] 0xBC12A5E0CA10467C: {0.String} [On sale by {1.String} household]
    [0B3D8] 0x4E81661631BAF7B9: SimBots can't use the {0.ObjectName}.
-   [0B3D9] 0xB13C4BC5F0E4BDE7: You can not add a SimBot to your family at this time because your active sim is in a vacation world.
+   [0B3D9] 0xB13C4BC5F0E4BDE7: You cannot add a SimBot to your family at this time because your active Sim is in a vacation world.
    [0B3DA] 0x062D6663B68A5221: Introduce to Sim
    [0B3DB] 0x42F0255C703BBE1D: My sensors detect that have you no room for me in your house. I am deeply saddened that I cannot join you. Farewell....friend.
    [0B3DC] 0x66CAAA24FF060947: Hello, buddy. Let's be best friends! Together we can scour the junkyard for scrap, compare oil brands, and enjoy trivial entertainments! What fun!
@@ -46051,7 +46051,7 @@ Unknown3: 0x00000000
    [0B3DE] 0x091CA933A8D27003: Reward Object Not Purchased
    [0B3DF] 0xDD661CC1E9079A8A: Your new best friend is on the way!
    [0B3E0] 0x36E94C3FDE80DA9D: Look for your reward object in your Sim's household.
-   [0B3E1] 0x93C3BF19BC8CADCA: You can not add a SimBot to your family at this time because the household size is at maximum.
+   [0B3E1] 0x93C3BF19BC8CADCA: You cannot add a SimBot to your family at this time because the household size is at maximum.
    [0B3E2] 0x379AEB034675E8FE: Sim is of the wrong age to wear any of the available outfits
    [0B3E3] 0x737348D066BE4ABD: Wear Special Uniform...
    [0B3E4] 0x1EFDA85955B30357: Banish
@@ -46185,7 +46185,7 @@ Unknown3: 0x00000000
    [0B464] 0xE205C27FDC487B35: {0.SimFirstName} is on {MA.his}{FA.her} way to {1.String} to hold a free clinic.
    [0B465] 0xF0DDEDDA05F5A677: {0.SimFirstName} is ready to start examining patients at {1.String}. The session will last for {2.Number} hours.
    [0B466] 0x5438B1EB5A29B7EB: {0.SimName} has {1.Number} hour left to examine Sims.
-   [0B467] 0xD2AA217B34641C16: The Free Clinic was cancelled.
+   [0B467] 0xD2AA217B34641C16: The Free Clinic was canceled.
    [0B468] 0xDF7E7645162B6683: {0.SimFirstName} did all right.
    [0B469] 0x8E9CAA087A7F0A77: {0.SimFirstName} really did a bad job.
    [0B46A] 0x0985DDEB90D1F30D: {0.SimFirstName} did a fantastic job.
@@ -46198,7 +46198,7 @@ Unknown3: 0x00000000
    [0B471] 0xC45A3EF9115BFD26: {0.SimFirstName} is on {MA.his}{FA.her} way to {1.String} to do perform some vaccinations.
    [0B472] 0x5905D06B2597B0E6: {0.SimFirstName} is ready to start vaccinating at {1.String}. The session will last for {2.Number} hours.
    [0B473] 0xE8C99B0A3F185FF6: {0.SimName} has {1.Number} hour left to vaccinate sims.
-   [0B474] 0x6C65A5DD1D9D003B: Vaccination session was cancelled.
+   [0B474] 0x6C65A5DD1D9D003B: Vaccination session was canceled.
    [0B475] 0x2580E03953D5DC3A: {0.SimFirstName} did all right.
    [0B476] 0x97D0CF3EE2060FAA: {0.SimFirstName} really did a bad job.
    [0B477] 0x6BC963ED64D071CA: {0.SimFirstName} did a fantastic job!
@@ -46417,7 +46417,7 @@ Unknown3: 0x00000000
    [0B54C] 0x1639002A462E37DE: Tattoos
    [0B54D] 0xD6563323168A7D26: Tattoo Colors
    [0B54E] 0xB338E78204CE18A7: Cancel Item
-   [0B54F] 0x28D8BE04889FF653: Cancelled Consignments
+   [0B54F] 0x28D8BE04889FF653: Canceled Consignments
    [0B550] 0x818B1902331F85F4: Confirm
    [0B551] 0x36EE7AAACDC8452D: Days
    [0B552] 0x6530CCF74D20F52A: Days Left
@@ -52753,7 +52753,7 @@ Unknown3: 0x00000000
    [0CE0C] 0xBCAFC2E9A00CD801: Successive knock outs, hoisting that trophy high... the sweet taste of victory will always be a fresh memory.
    [0CE0D] 0x563F8D563BE7F5F4: Won a Martial Arts Tournament
    [0CE0E] 0xB9225EDC7E3AE8E0: {2.SimName} just won a martial arts tournament and will want to recall this memory to remember when {MA.his}{FA.her} limbs are not quite so limber!
-   [0CE0F] 0x6B4E53609DC32DEE: How could one forget the excitement at being granted an extended stay in exotic Egypt! More falafal! More tombs!
+   [0CE0F] 0x6B4E53609DC32DEE: How could one forget the excitement at being granted an extended stay in exotic Egypt! More falafel! More tombs!
    [0CE10] 0x08529FCC6BE246F1: Got Egyptian Visa to Level {0.Number}
    [0CE11] 0xBD8561EC48EADE25: {2.SimName} has reached Egyptian visa level {0.Number} and will remember this day that brought {MA.him}{FA.her} one step closer to that dream vacation home!
    [0CE12] 0xB82CBCE68F275FA7: Sometimes two heads are better than one! Working on homework with another Sim always seems to make the drudgery go by faster.
@@ -53734,7 +53734,7 @@ Unknown3: 0x00000000
    [0D1E1] 0xA9DE654BCBEF14A2: Let Another Sim Ride...
    [0D1E2] 0xAE3428AEF107C1A6: Ride
    [0D1E3] 0x0B2A77F6972F9AD1: Destroy
-   [0D1E4] 0xA7DFC6C63008AD67: You can not destroy a sandcastle while a Sim is working on it.
+   [0D1E4] 0xA7DFC6C63008AD67: You cannot destroy a sandcastle while a Sim is working on it.
    [0D1E5] 0xA2123A5E1150168C: Build {0.String}
    [0D1E6] 0x2F4215B468A5F30B: Play in Sand
    [0D1E7] 0x4343306109B3F3E9: Potential Buried Treasures
@@ -54664,7 +54664,7 @@ Unknown3: 0x00000000
    [0D583] 0xA57596A09180BE4B: Everything
    [0D584] 0xCBF69CB94EB9F1DB: Filter Content...
    [0D585] 0x12465E11844A8C43: Search...
-   [0D586] 0x1862E1A286FD19DB: Store Content
+   [0D586] 0x1862E1A286FD19DB: Warning: Promised midlife crisis wishes cannot be canceled until the midlife crisis is over. Unfulfilled midlife crisis wishes also have a negative impact to your Sim's mood. However, completing these wishes will award increased lifetime happiness! Do you still wish to accept "{0.String}"?
    [0D587] 0x56F4A48314702901: The Sims™ 3
    [0D588] 0x00D47482E8D07EA1: Body Hair Color
    [0D589] 0x9148EEBB7CE88836: You cannot enter Edit Town while an Imaginary Friend is being turned real.
@@ -54672,8 +54672,8 @@ Unknown3: 0x00000000
    [0D58B] 0xF6B7F585E735A615: , 
    [0D58C] 0x278185979338F163: You cannot save at this time.
    [0D58D] 0x86C026B12A7D0AB1: Enrolled in Boarding School.
-   [0D58E] 0xB34BFDE0DC99ED05: Warning: Promised midlife crisis wishes can not be cancelled until the midlife crisis is over. Unfulfilled midlife crisis wishes also have a negative impact to your Sim's mood. However, completing these wishes will award increased lifetime happiness! Do you still wish to accept "{0.String}"?
-   [0D58F] 0x40EF9FCA9B8294E1: This is a midlife crisis wish and cannot be cancelled until the Midlife Crisis is over.
+   [0D58E] 0xB34BFDE0DC99ED05: Warning: Promised midlife crisis wishes cannot be canceled until the midlife crisis is over. Unfulfilled midlife crisis wishes also have a negative impact to your Sim's mood. However, completing these wishes will award increased lifetime happiness! Do you still wish to accept "{0.String}"?
+   [0D58F] 0x40EF9FCA9B8294E1: This is a midlife crisis wish and cannot be canceled until the Midlife Crisis is over.
    [0D590] 0xD39228B6CA943A5F: Alma Mater learned
    [0D591] 0xC2766B02E96E9816: Alma Mater
    [0D592] 0xDD65332E3C0AD2C2: Afterschool Activities
@@ -54792,7 +54792,7 @@ Unknown3: 0x00000000
    [0D603] 0xA73B0CBD3F592142: Afterschool Activities Hours
    [0D604] 0xEBE8625CFBFD85BA: Afterschool activities take place at school during these hours.
    [0D605] 0x9C86061EFD1E39C3: Afterschool Activities
-   [0D606] 0x1C6DE59A0BC45388: Midlife Crisis wishes cannot be cancelled.
+   [0D606] 0x1C6DE59A0BC45388: Midlife Crisis wishes cannot be canceled.
    [0D607] 0xF1940147338E446A: Left-click to promise this midlife crisis wish
    [0D608] 0x4ADC627321AD8DB8: Maximum number of memories reached
    [0D609] 0x23BA488524621BBF: Days Until Aging Up: Never
@@ -58848,7 +58848,7 @@ Unknown3: 0x00000000
    [0E5DB] 0xE63C5A9D3CF5211A: {1.SimName} became Pregnant
    [0E5DC] 0x6C74067A4E98A7AA: {2.SimName}'s pet {1.SimName} just became pregnant! {2.SimName} will always remember the excitement {MA.he}{FA.she} felt when {MA.he}{FA.she} found out {MA.he}{FA.she} should expect new pets!
    [0E5DD] 0xC1D45DA288457302: have $pet get pregnant
-   [0E5DE] 0x51061F0F6E1BCC66: Being blessed with multiple bundles of joy is a feeling that can not be topped!
+   [0E5DE] 0x51061F0F6E1BCC66: Being blessed with multiple bundles of joy is a feeling that cannot be topped!
    [0E5DF] 0x1EBCA84A755CC4D9: {1.SimName} had a Litter
    [0E5E0] 0x0A3CBA661DAB2E3D: {2.SimName}'s pet {1.SimName} just gave birth to a litter! {2.SimName} will never forget the happiness {MA.he}{FA.she} felt when {MA.he}{FA.she} first saw the new additions to the family!
    [0E5E1] 0x3A98DBB1E115F09D: $pet had litter
@@ -59258,7 +59258,7 @@ Unknown3: 0x00000000
    [0E775] 0xD6A2A76E51B5B539: There are no spots to go fishing
    [0E776] 0x329B7A2F4C0C72BA: Skill level not high enough.
    [0E777] 0xBE72645CECE3A598: There are no valid Sims nearby.
-   [0E778] 0xED3F94DA69186F15: You can not present prey you did not catch.
+   [0E778] 0xED3F94DA69186F15: You cannot present prey you did not catch.
    [0E779] 0x9D7C2E50D46FC342: Present To
    [0E77A] 0xD50EB81320E36349: Beetle
    [0E77B] 0x493AB1786612AAC1: Bird
@@ -64281,7 +64281,7 @@ Unknown3: 0x00000000
    [0FB14] 0x7ACC217B8399A934: Fire Baton
    [0FB15] 0x63D04E5F7B28CA6F: DNT
    [0FB16] 0xD20BBBD11828D7B0: Performance Start Time:
-   [0FB17] 0x98524CFA689A1322: Your steady gig at {1.String} has been cancelled.
+   [0FB17] 0x98524CFA689A1322: Your steady gig at {1.String} has been canceled.
    [0FB18] 0x168403152DD7ECEF: Listen {0.String}, we love your act and want you to perform at {2.String} as a regular! Come perform at {2.String}, which is at {1.String}, every {3.String} night!
    [0FB19] 0x3A2B4C85A3000536: Remember to show up at {0.String} for your set tonight, {1.String}!
    [0FB1A] 0x8FC29E0899D8A9B2: Steady Gigs:
@@ -65030,7 +65030,7 @@ Unknown3: 0x00000000
    [0FE01] 0x468A3612A4C5F270: Stage Removed!
    [0FE02] 0x04D004D54FF390E8: Exclusive Unlockable Reward Set!
    [0FE03] 0x3888D0DCF8C0453D: Are you sure you wish to host this Sim to perform in your town?
-   [0FE04] 0xE9337D139CEED1B8: You have a visiting Sim scheduled to perform in your town. If you save or quit, the show will be cancelled and you will not receive rewards. Are you sure you want to send your friend's Sim home?
+   [0FE04] 0xE9337D139CEED1B8: You have a visiting Sim scheduled to perform in your town. If you save or quit, the show will be canceled, and you will not receive rewards. Are you sure you want to send your friend's Sim home?
    [0FE05] 0x6B52541B6D733A82: Are you sure you wish to send a Sim on tour in your friend's town?
    [0FE06] 0x606D5DC8EE978BD5: Are you sure you wish to post this request to host your friend's Sim?
    [0FE07] 0x1C1D1F1EAA2B6D31: Are you sure you wish to send a Sim on tour in your friend's town? Your game will automatically be saved.
@@ -70609,7 +70609,7 @@ Unknown3: 0x00000000
    [113CC] 0x3CB655EB2CC19B21: It's been great meeting you. Maybe we should go on a real date sometime!
    [113CD] 0xE4C2DE3E4ACD3D3E: {0.SimName} is the pie master in this eating competition! {MA.He}{FA.She} won a week's supply of pie and bragging rights!
    [113CE] 0x535768AD32350890: Thanks for being considerate and keeping your sick child at home today!
-   [113CF] 0x2942D0144A27DFEB: Due to the heavy snow this morning, today has been declared a Snow Day! School is therefore cancelled for the day.
+   [113CF] 0x2942D0144A27DFEB: Due to the heavy snow this morning, today has been declared a Snow Day! School is therefore canceled for the day.
    [113D0] 0x53A102B8610C1BB3: Spring fever baby! Spring dance fever that is... {0.SimFirstName} has been named the Spring Dance King! His reward will be delivered by mail.
    [113D1] 0x62246114F1108A70: Spring fever baby! Spring dance fever that is... {0.SimFirstName} has been named the Spring Dance Queen! Her reward will be delivered by mail.
    [113D2] 0x7E82D68B7F853AEB: Flowers aren't the only thing blossoming. Love is in the air as the Spring Festival pulls into town! Hurry on over; the annual egg hunt has already begun! Take a turn at the kissing booth, or muster the courage to man it yourself for tips. Tear it up on the dance floor, or tune out the world around you for an intimate slow dance with that special someone; the choice is yours. Will anyone go home from this romantic outing all by their lonesome? The Love Tester surely knows...
@@ -74845,10 +74845,10 @@ Unknown3: 0x00000000
    [12458] 0x51AA030412B52979: {0.SimName} has a graduation ceremony tomorrow. Invite {0.SimFirstName}'s friends and family to attend!
    [12459] 0xF3A5A28198421900: The graduation ceremony for {0.SimName} is starting.
    [1245A] 0x89740DB6BBD0B8E8: The final grades are in for {0.SimName} and {MA.he}{FA.she} earned enough credits to complete {MA.his}{FA.her} degree!
-   [1245B] 0x4B993DF98D3DC57C: {0.String} is under construction. Your course at this location is cancelled for the rest of the term.
+   [1245B] 0x4B993DF98D3DC57C: {0.String} is under construction. Your course at this location is canceled for the rest of the term.
    [1245C] 0xC3C4EA758C0A1070: A {1.String} was found by {0.SimName} while dumpster diving!
    [1245D] 0x93ADD61B6593C273: {0.SimName}'s first course of the day is starting soon. {1.Number} days until Final Exams!
-   [1245E] 0x846A7AA3FEE88542: {0.SimName}, since the academic buildings for your classes are all under construction, your classes for this term have been cancelled. The university is sending you home.
+   [1245E] 0x846A7AA3FEE88542: {0.SimName}, since the academic buildings for your classes are all under construction, your classes for this term have been canceled. The university is sending you home.
    [1245F] 0x050FF41A81F9121E: Oh no! I got caught cheating on the exam!
    [12460] 0x397AC1443B7510A6: There will be a protest at the {0.String} an hour. Remember to hand out flyers to increase attendance!
    [12461] 0x96616E36C6241D75: The Protest that {0.SimName} organized was a huge success! Enrolled Sims will do a little better with their Academics, effective immediately!
@@ -78200,7 +78200,7 @@ Unknown3: 0x00000000
    [13173] 0x3F41CCE6A73BB927: Nap On Towel
    [13174] 0xE3D9C63926A04116: Relax Here
    [13175] 0xBEEA86AF8DCDFCF2: Stand Up
-   [13176] 0xDC8D4854A85DD21C: Can not place on sloped terrain.
+   [13176] 0xDC8D4854A85DD21C: Cannot place on sloped terrain.
    [13177] 0x0CB01E8E63BABA1C: Play Music
    [13178] 0xBBB0DE6B7B5D2CAE: Put Away Umbrella
    [13179] 0xB8B4A4FDA8E31A43: Put Up Umbrella
@@ -78824,7 +78824,7 @@ Unknown3: 0x00000000
    [133E3] 0x308FDD05DCFDE8FE: Underwater Spelunker
    [133E4] 0xC29B33992E580C6A: {0.SimFirstName} is dehydrated and cannot respond.
    [133E5] 0x0286209BF62530A7: Sim needs a lifeguard's assistance
-   [133E6] 0xF6CE5D9787C99388: Due to unexpected circumstances, your move has been cancelled.
+   [133E6] 0xF6CE5D9787C99388: Due to unexpected circumstances, your move has been canceled.
    [133E7] 0x8F778FE2E9D00ADB: You can't move to a new town while a member of the household is pregnant.
    [133E8] 0xE385123710B9BC7F: Mermaids cannot be saved to the Sim Bin.
    [133E9] 0xAA94E57430C28151: Mermaids cannot be shared.
@@ -79505,10 +79505,10 @@ Unknown3: 0x00000000
    [1368C] 0xA47321C704B3610C: VP of Marketing, Maxis
    [1368D] 0x0633B989E4BF8062: VP of Marketing, The Sims
    [1368E] 0x43DC05D86E15469B: Additional Music
-   [1368F] 0x527F86EBE181532A: Can not extend stilted foundation.
+   [1368F] 0x527F86EBE181532A: Cannot extend stilted foundation.
    [13690] 0xC0A5B0CB09BBAAC5: Can't be placed in the ocean.
    [13691] 0xB10F68600478B1AB: Can't place on lakes
-   [13692] 0x544C1F44ED04D158: Can not join foundations at different heights.
+   [13692] 0x544C1F44ED04D158: Cannot join foundations at different heights.
    [13693] 0x70DC7360093BC7D9: Houseboat placement can't be adjusted.
    [13694] 0x440EFEBE9D45053B: A floor must be present to the left or right at the top of the ladder.
    [13695] 0x6763DEB47B79DCC9: Must be placed at dock height above sea level.
@@ -83133,7 +83133,7 @@ Unknown3: 0x00000000
    [144B8] 0x9DD3D4869B259CC7: Are you sure you would like to have this Sim travel to the Future?
    [144B9] 0x846076DAAB2903F3: Are you sure this is the group of Sims you would like to travel through the Portal with?
    [144BA] 0x3D2E262C14D68B0D: Are you sure you would like to have this Sim travel to the Future?\n\n(Warning: The Opportunity in progress related to changing the Future will be lost if you continue.)
-   [144BB] 0x63FF52CFE9F213A5: \n\n(Warning: If any of these Sims currently has an Opportunity related to changing the Future, it will be cancelled if you continue.)
+   [144BB] 0x63FF52CFE9F213A5: \n\n(Warning: If any of these Sims currently has an Opportunity related to changing the Future, it will be canceled if you continue.)
    [144BC] 0x67B9314933443DC7: Deactivate Time Portal
    [144BD] 0x4AC98FE1427DF38F: Fast Travel with...
    [144BE] 0xFB0B3FE548C4419C: Reach Through Time
