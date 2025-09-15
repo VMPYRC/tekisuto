@@ -6332,7 +6332,7 @@ Unknown3: 0x00000000
    [018B7] 0x6A9603A17656FEF0: First Kiss With {1.SimFirstName}
    [018B8] 0xC3BA7D46F9DAA59D: First Kiss
    [018B9] 0x1EC155259C24EE67: First Kiss With {1.SimFirstName}
-   [018BA] 0xD29D9B5F964F9E12: The rough and tumble lifestyle earns few friends and a few bruises. Even so, your Sim boldy hopes to win some fights. Dukes up!
+   [018BA] 0xD29D9B5F964F9E12: The rough and tumble lifestyle earns few friends and a few bruises. Even so, your Sim boldly hopes to win some fights. Dukes up!
    [018BB] 0x153A8F9F04C35FAE: Win {0.Number} Fights
    [018BC] 0xD5CC6EAFAA1B4920: Art is good for the soul, and your Sim's soul is in need of help. Take in some culture at the art gallery!
    [018BD] 0x7CADA891A1687F94: Visit the Art Gallery
@@ -38570,7 +38570,7 @@ Unknown3: 0x00000000
    [096A5] 0xF87784BEF71AA310: Sims Sparring
    [096A6] 0x9BFA7C58EFEA8EC9: {0.SimLastName} and {1.SimLastName} sparring
    [096A7] 0xF5C8270AF6FC4DB2: Playtime on the Swing Set
-   [096A8] 0x5156FBC6A13959A3: Playtime on the swingset
+   [096A8] 0x5156FBC6A13959A3: Playtime on the swing set
    [096A9] 0x64A580465AA14A9E: Refreshing Swim
    [096AA] 0x9E1BA4EE133A8856: {0.SimName}
    [096AB] 0xE448F5058F7EC55C: A Sleeping Sim
@@ -84723,7 +84723,7 @@ Unknown3: 0x00000000
    [14AEE] 0x00B15FA54E5311DC: Student Union Shell
    [14AEF] 0x5A873D62143CD8B2: Fuss no Muss Styling Station
    [14AF0] 0x9F38133EC69AAF3F: Subway Station
-   [14AF1] 0x05AA5C680CA5CE05: Mr. Tootles' Swingset
+   [14AF1] 0x05AA5C680CA5CE05: Mr. Tootles' Swing Set
    [14AF2] 0x292FA2AB8BB60253: Parabolus Swing Set by Wiggin Youth Architecture
    [14AF3] 0x995A472FB40C0F52: Island Bistro Table
    [14AF4] 0xCAE14564ED5082AE: Zzzzap Coffee Table
