@@ -1391,9 +1391,9 @@ Unknown3: 0x00000000
    [56A] 0x3280C2388602AC2D: That extra credit might come in handy at the end of the term!
    [56B] 0x13A4957077727683: Your own skills are the hardest product to sell. Your professor thinks a class might put you in better situations to sell your skills and is offering extra credit for attending.
    [56C] 0x075922B007F2EE7B: You didn’t receive extra credit.
-   [56D] 0x19CE95B7C792C178: Attend a Resume Writing and Interview class.
-   [56E] 0x078742B7BCF36D52: Resume Writing and Interview Class
-   [56F] 0xDC3C1C7815FB49B2: Attend a Resume Writing and Interview class.
+   [56D] 0x19CE95B7C792C178: Attend a Résumé Writing and Interview class.
+   [56E] 0x078742B7BCF36D52: Résumé Writing and Interview Class
+   [56F] 0xDC3C1C7815FB49B2: Attend a Résumé Writing and Interview class.
    [570] 0x5BDC9F97E27CAB06: That extra credit might come in handy at the end of the term!
    [571] 0x2EC4210569797992: It’s easy to disbelieve your ears; your eyes are a harder sell. Change minds on the whiteboard. When your professor sees the one-glance logic, you’ll surely get some extra credit.
    [572] 0xBA0976936632E712: You didn’t receive extra credit.

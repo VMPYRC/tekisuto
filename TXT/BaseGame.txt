@@ -9473,8 +9473,8 @@ Unknown3: 0x00000000
    [024FC] 0xE54CE97741EFCB4B: It must feel nice now that the crowd is shouting instead of booing when your name is called over the loud speakers. Loved by fans for your clutch saves and by the coach for your team leadership, you’re really starting to play towards that hall of fame spot. Just don’t start losing and you’ll be okay.
    [024FD] 0x3B125D8BCE3659BF: The votes are in – the league thinks you’re the league MVP! Fans adore you and your fellow players are always there to provide a friendly high-five. At this rate, you might, just maybe, break every record in the books.
    [024FE] 0x1ACB189E13FD06CE: The votes are in – the league thinks you’re the league MVP! Fans adore you and your fellow players are always there to provide a friendly high-five. At this rate, you might, just maybe, break every record in the books.
-   [024FF] 0x3B125D8BCE3659BE: No longer content with a single sport, you’ve expanded your resume to include as many as your busy schedule allows. Few sports stars’ careers compare to yours, but then again, they aren’t Superstars. However, more games means more chances to lose, so don’t let the fame get in the way of your practice time.
-   [02500] 0x693DDF7EEEA14B35: No longer content with a single sport, you’ve expanded your resume to include as many as your busy schedule allows. Few sports stars’ careers compare to yours, but then again, they aren’t Superstars. However, more games means more chances to lose, so don’t let the fame get in the way of your practice time.
+   [024FF] 0x3B125D8BCE3659BE: No longer content with a single sport, you've expanded your résumé to include as many as your busy schedule allows. Few sports stars' careers compare to yours, but then again, they aren't Superstars. However, more games means more chances to lose, so don't let the fame get in the way of your practice time.
+   [02500] 0x693DDF7EEEA14B35: No longer content with a single sport, you've expanded your résumé to include as many as your busy schedule allows. Few sports stars' careers compare to yours, but then again, they aren't Superstars. However, more games means more chances to lose, so don't let the fame get in the way of your practice time.
    [02501] 0xE609067DF1AE3401: Rabid Fan
    [02502] 0x9A9D6D8AA8DDD0B4: Rabid Fan
    [02503] 0xFBCCB1DF82FA06EB: Rookie
@@ -12628,8 +12628,8 @@ Unknown3: 0x00000000
    [0314F] 0xE89FED538D6458AE: Who knew an athlete would provide such great quotes? The life story, as told by you, was marvelous and fascinating. Enjoy the raise and a job performance increase – you’ve earned them.
    [03150] 0x3EADE2AAEE680FDE: The restaurant has some real surprises in store for patrons, and you were there on the ground floor to get all the juicy, delightful tidbits to share with our readers. Great job on the article! Enjoy the raise and a job performance increase – you’ve earned them.
    [03151] 0x208119FAC6F47515: The restaurant has some real surprises in store for patrons, and you were there on the ground floor to get all the juicy, delightful tidbits to share with our readers. Great job on the article! Enjoy the raise and a job performance increase – you’ve earned them.
-   [03152] 0x3EADE2AAEE680FD1: Whatever the feel at the celebration was, the Editor feels you captured it. It’s just another accomplishment to add to your resume. Enjoy the raise and a job performance increase – you’ve earned them.
-   [03153] 0xCD5230C79ED5BF44: Whatever the feel at the celebration was, the Editor feels you captured it. It’s just another accomplishment to add to your resume. Enjoy the raise and a job performance increase – you’ve earned them.
+   [03152] 0x3EADE2AAEE680FD1: Whatever the feel at the celebration was, the Editor feels you captured it. It's just another accomplishment to add to your résumé. Enjoy the raise, and a job performance increase – you've earned them.
+   [03153] 0xCD5230C79ED5BF44: Whatever the feel at the celebration was, the Editor feels you captured it. It's just another accomplishment to add to your résumé. Enjoy the raise, and a job performance increase – you've earned them.
    [03154] 0x3EADE2AAEE680FD0: Because of your talent in investigative journalism, the public at large may now read about a senior council member forgetting his name. Then, denying it 5 minutes later. How ridiculous! Enjoy the raise and a job performance increase – you’ve earned them.
    [03155] 0xB322BE2CBB58D02B: Because of your talent in investigative journalism, the public at large may now read about a senior council member forgetting his name. Then, denying it 5 minutes later. How ridiculous! Enjoy the raise and a job performance increase – you’ve earned them.
    [03156] 0xF636777C7BBC6109: Something odd is going on with the top brass at the Military Base and the Editor wants you to investigate. Pay the base a visit, ask around, and dig up any details you can. Take care to get the story, because you could earn a job performance increase, or even a raise.
@@ -71938,7 +71938,7 @@ Unknown3: 0x00000000
    [118FD] 0xDD9A00DD175FBE5D: No time. Must date. Talk to you IRL.
    [118FE] 0xDD9A00DD175FBE5C: {1.SimFirstName} – trust me. Stay away from Llamafan1337.
    [118FF] 0xC525464FF4DF4386: Why did you message me {1.SimFirstName}? You know me. This is embarassing.
-   [11900] 0xDD99FFDD175FBC82: I’m so bad at this. I just tried to reply to someone and I think I accidentally emailed them my resume. :(
+   [11900] 0xDD99FFDD175FBC82: I'm so bad at this. I just tried to reply to someone, and I think I accidentally emailed them my résumé. :(
    [11901] 0xC525464FF4DF4381: Oh my gosh! You are on here too {1.SimFirstName}? Let's not tell anyone else. OK?!
    [11902] 0xC525464FF4DF4380: Um, we know each other. You are trying to tell me something?
    [11903] 0xC525464FF4DF4383: Why did you message me {1.SimFirstName}? We know each other already.
@@ -72532,7 +72532,7 @@ Unknown3: 0x00000000
    [11B4F] 0x164387B42BF72EAF: Attend Lecture
    [11B50] 0xB720285B1E0B359B: Attend After Hours Study Service ({0.Money})
    [11B51] 0xE37C4922B957992F: Attend Balancing a Budget Class ({0.Money})
-   [11B52] 0xEE405D5D32058C12: Attend Resume Writing and Interview Techniques Class ({0.Money})
+   [11B52] 0xEE405D5D32058C12: Attend Résumé Writing and Interview Techniques Class ({0.Money})
    [11B53] 0x0E7AC11C4207C64F: Transforming into PlantSim
    [11B54] 0xFEAA90977DBFCAF7: Bowl
    [11B55] 0x1B9FA8B146ED248F: Bowling
@@ -74901,31 +74901,31 @@ Unknown3: 0x00000000
    [12490] 0x097C03E3CBB761BF: Thanks {0.SimFirstName}! These exam answers are worth the {1.Money}!
    [12491] 0x3D167B016ABF0A31: Whatever I bought, it’s making the Jock Social Group take extra notice of me! I feel so popular!
    [12492] 0x453432E42C1DF736: {1.String}\n\nBy Authority of the Board of Trustees and Upon Recommendation of the Faculty, Hereby Confers Upon\n\n{0.String}\nthe Degree of\n{2.String}\n\nIn Recognition of the Completion of the Major with {3.String}.
-   [12493] 0x181527E40856A3AE: Now that {0.SimName} has Graduated with an "A" in Business, {0.SimFirstName} will receive job offers at level 4 of the Business and Criminal careers and earn the highest possible starting salary. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [12494] 0x181527E40856A3AD: Now that {0.SimName} has Graduated with a "B" in Business, {0.SimFirstName} will receive job offers at level 3 of the Business and Criminal careers and earn a much higher salary than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [12495] 0x181527E40856A3AC: Now that {0.SimName} has Graduated with a "C" in Business, {0.SimFirstName} will receive job offers at level 2 of the Business and Criminal careers and earn significantly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [12496] 0x181527E40856A3AB: Now that {0.SimName} has Graduated with a "D" in Business, {0.SimFirstName} will receive job offers at level 1 of the Business and Criminal careers and earn slightly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [12497] 0x8AC2ECE2C4EECDCD: Now that {0.SimName} has Graduated with an "A" in Communications, {0.SimFirstName} will receive job offers at level 4 of the Journalism, Political, and Fortune Telling careers and earn the highest possible starting salary. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [12498] 0x8AC2ECE2C4EECDCE: Now that {0.SimName} has Graduated with a "B" in Communications, {0.SimFirstName} will receive job offers at level 3 of the Journalism, Political, and Fortune Telling careers and earn a much higher salary than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [12499] 0x8AC2ECE2C4EECDCF: Now that {0.SimName} has Graduated with a "C" in Communications, {0.SimFirstName} will receive job offers at level 2 of the Journalism, Political, and Fortune Telling careers and earn significantly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [1249A] 0x8AC2ECE2C4EECDC8: Now that {0.SimName} has Graduated with a "D" in Communications, {0.SimFirstName} will receive job offers at level 1 of the Journalism, Political, and Fortune Telling careers and earn slightly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [1249B] 0x72669BD6B341064E: Now that {0.SimName} has Graduated with an "A" in Fine Arts, {0.SimFirstName} will receive job offers at level 4 of the Music, Culinary, or Film careers and earn the highest possible starting salary. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [1249C] 0x72669BD6B341064D: Now that {0.SimName} has Graduated with a "B" in Fine Arts, {0.SimFirstName} will receive job offers at level 3 of the Music, Culinary, or Film careers and earn a much higher salary than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [1249D] 0x72669BD6B341064C: Now that {0.SimName} has Graduated with a "C" in Fine Arts, {0.SimFirstName} will receive job offers at level 2 of the Music, Culinary, or Film careers and earn significantly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [1249E] 0x72669BD6B341064B: Now that {0.SimName} has Graduated with a "D" in Fine Arts, {0.SimFirstName} will receive job offers at level 1 of the Music, Culinary, or Film careers and earn slightly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [1249F] 0xE0841E7F56D91B21: Upload Resume
-   [124A0] 0xD4CE9ADC917B56C9: Now that {0.SimName} has Graduated with an "A" in Physical Education, {0.SimFirstName} will receive job offers at level 4 of the Professional Sports career and earn the highest possible starting salary. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [124A1] 0xD4CE9ADC917B56CA: Now that {0.SimName} has Graduated with a "B" in Physical Education, {0.SimFirstName} will receive job offers at level 3 of the Professional Sports career and earn a much higher salary than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [124A2] 0xD4CE9ADC917B56CB: Now that {0.SimName} has Graduated with a "C" in Physical Education, {0.SimFirstName} will receive job offers at level 2 of the Professional Sports career and earn significantly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [124A3] 0xD4CE9ADC917B56CC: Now that {0.SimName} has Graduated with a "D" in Physical Education, {0.SimFirstName} will receive job offers at level 1 of the Professional Sports career and earn slightly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [124A4] 0xA920F61770FC9EF8: Now that {0.SimName} has Graduated with an "A" in Science and Medicine, {0.SimFirstName} will receive job offers at level 4 of the Science and Medical careers and earn the highest possible starting salary. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [124A5] 0xA920F61770FC9EFB: Now that {0.SimName} has Graduated with a "B" in Science and Medicine, {0.SimFirstName} will receive job offers at level 3 of the Science and Medical careers and earn a much higher salary than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [124A6] 0xA920F61770FC9EFA: Now that {0.SimName} has Graduated with a "C" in Science and Medicine, {0.SimFirstName} will receive job offers at level 2 of the Science and Medical careers and earn significantly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [124A7] 0xA920F61770FC9EFD: Now that {0.SimName} has Graduated with a "D" in Science and Medicine, {0.SimFirstName} will receive job offers at level 1 of the Science and Medical careers and earn slightly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [124A8] 0x98C8461B36211072: Now that {0.SimName} has Graduated with an "A" in Technology, {0.SimFirstName} will receive job offers at level 4 of the Military and Law Enforcement careers and earn the highest possible starting salary. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [124A9] 0x98C8461B36211071: Now that {0.SimName} has Graduated with a "B" in Technology, {0.SimFirstName} will receive job offers at level 3 of the Military and Law Enforcement careers and earn a much higher salary than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [124AA] 0x98C8461B36211070: Now that {0.SimName} has Graduated with a "C" in Technology, {0.SimFirstName} will receive job offers at level 2 of the Military and Law Enforcement careers and earn significantly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
-   [124AB] 0x98C8461B36211077: Now that {0.SimName} has Graduated with a "D" in Technology, {0.SimFirstName} will receive job offers at level 1 of the Military and Law Enforcement careers and earn slightly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Resume now.
+   [12493] 0x181527E40856A3AE: Now that {0.SimName} has Graduated with an "A" in Business, {0.SimFirstName} will receive job offers at level 4 of the Business and Criminal careers and earn the highest possible starting salary. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [12494] 0x181527E40856A3AD: Now that {0.SimName} has Graduated with a "B" in Business, {0.SimFirstName} will receive job offers at level 3 of the Business and Criminal careers and earn a much higher salary than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [12495] 0x181527E40856A3AC: Now that {0.SimName} has Graduated with a "C" in Business, {0.SimFirstName} will receive job offers at level 2 of the Business and Criminal careers and earn significantly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [12496] 0x181527E40856A3AB: Now that {0.SimName} has Graduated with a "D" in Business, {0.SimFirstName} will receive job offers at level 1 of the Business and Criminal careers and earn slightly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [12497] 0x8AC2ECE2C4EECDCD: Now that {0.SimName} has Graduated with an "A" in Communications, {0.SimFirstName} will receive job offers at level 4 of the Journalism, Political, and Fortune Telling careers and earn the highest possible starting salary. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [12498] 0x8AC2ECE2C4EECDCE: Now that {0.SimName} has Graduated with a "B" in Communications, {0.SimFirstName} will receive job offers at level 3 of the Journalism, Political, and Fortune Telling careers and earn a much higher salary than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [12499] 0x8AC2ECE2C4EECDCF: Now that {0.SimName} has Graduated with a "C" in Communications, {0.SimFirstName} will receive job offers at level 2 of the Journalism, Political, and Fortune Telling careers and earn significantly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [1249A] 0x8AC2ECE2C4EECDC8: Now that {0.SimName} has Graduated with a "D" in Communications, {0.SimFirstName} will receive job offers at level 1 of the Journalism, Political, and Fortune Telling careers and earn slightly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [1249B] 0x72669BD6B341064E: Now that {0.SimName} has Graduated with an "A" in Fine Arts, {0.SimFirstName} will receive job offers at level 4 of the Music, Culinary, or Film careers and earn the highest possible starting salary. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [1249C] 0x72669BD6B341064D: Now that {0.SimName} has Graduated with a "B" in Fine Arts, {0.SimFirstName} will receive job offers at level 3 of the Music, Culinary, or Film careers and earn a much higher salary than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [1249D] 0x72669BD6B341064C: Now that {0.SimName} has Graduated with a "C" in Fine Arts, {0.SimFirstName} will receive job offers at level 2 of the Music, Culinary, or Film careers and earn significantly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [1249E] 0x72669BD6B341064B: Now that {0.SimName} has Graduated with a "D" in Fine Arts, {0.SimFirstName} will receive job offers at level 1 of the Music, Culinary, or Film careers and earn slightly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [1249F] 0xE0841E7F56D91B21: Upload Résumé
+   [124A0] 0xD4CE9ADC917B56C9: Now that {0.SimName} has Graduated with an "A" in Physical Education, {0.SimFirstName} will receive job offers at level 4 of the Professional Sports career and earn the highest possible starting salary. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [124A1] 0xD4CE9ADC917B56CA: Now that {0.SimName} has Graduated with a "B" in Physical Education, {0.SimFirstName} will receive job offers at level 3 of the Professional Sports career and earn a much higher salary than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [124A2] 0xD4CE9ADC917B56CB: Now that {0.SimName} has Graduated with a "C" in Physical Education, {0.SimFirstName} will receive job offers at level 2 of the Professional Sports career and earn significantly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [124A3] 0xD4CE9ADC917B56CC: Now that {0.SimName} has Graduated with a "D" in Physical Education, {0.SimFirstName} will receive job offers at level 1 of the Professional Sports career and earn slightly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [124A4] 0xA920F61770FC9EF8: Now that {0.SimName} has Graduated with an "A" in Science and Medicine, {0.SimFirstName} will receive job offers at level 4 of the Science and Medical careers and earn the highest possible starting salary. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [124A5] 0xA920F61770FC9EFB: Now that {0.SimName} has Graduated with a "B" in Science and Medicine, {0.SimFirstName} will receive job offers at level 3 of the Science and Medical careers and earn a much higher salary than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [124A6] 0xA920F61770FC9EFA: Now that {0.SimName} has Graduated with a "C" in Science and Medicine, {0.SimFirstName} will receive job offers at level 2 of the Science and Medical careers and earn significantly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [124A7] 0xA920F61770FC9EFD: Now that {0.SimName} has Graduated with a "D" in Science and Medicine, {0.SimFirstName} will receive job offers at level 1 of the Science and Medical careers and earn slightly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [124A8] 0x98C8461B36211072: Now that {0.SimName} has Graduated with an "A" in Technology, {0.SimFirstName} will receive job offers at level 4 of the Military and Law Enforcement careers and earn the highest possible starting salary. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [124A9] 0x98C8461B36211071: Now that {0.SimName} has Graduated with a "B" in Technology, {0.SimFirstName} will receive job offers at level 3 of the Military and Law Enforcement careers and earn a much higher salary than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [124AA] 0x98C8461B36211070: Now that {0.SimName} has Graduated with a "C" in Technology, {0.SimFirstName} will receive job offers at level 2 of the Military and Law Enforcement careers and earn significantly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
+   [124AB] 0x98C8461B36211077: Now that {0.SimName} has Graduated with a "D" in Technology, {0.SimFirstName} will receive job offers at level 1 of the Military and Law Enforcement careers and earn slightly more money than if {MA.he}{FA.she} didn't have the degree. To see the available job offers for {0.SimFirstName}, Upload Résumé now.
    [124AC] 0xE097FF7F56E98FC0: UploadResumeTNS DO NOT TRANSLATE
    [124AD] 0x8D0B1B1672EB99EB: Invite Friends and Family
    [124AE] 0x12D00A0BDB4CFE5A: A University Welcome Kit has been put in your family inventory!
@@ -75718,9 +75718,9 @@ Unknown3: 0x00000000
    [127C1] 0x70E8FAA2317BC7A7: {0.SimFirstName} has received {1.Money} from {2.String} to support the {3.String} blog.
    [127C2] 0xC37FA0B635552166: The best blogs get the most followers and with followers come perks!\n\nAs your Sim's follower count increases, their blogs will earn more stars and get unique benefits like increased influence with Social Groups and Donations.
    [127C3] 0xC37FA0B635552167: Current Follower Perks:\n\n• Donations from followers\n\nYour Sim's follower perks will continue to improve as their follower count increases!
-   [127C4] 0xC37FA0B635552164: Current Follower Perks:\n\n• Donations from followers\n\n• Increased protest attendance\n\n• Upload Resume to get Job Offers\n\nYour Sim's follower perks will continue to improve as their follower count increases!
-   [127C5] 0xC37FA0B635552165: Current Follower Perks:\n\n• Donations from followers\n\n• Increased protest attendance\n\n• Upload Resume to get Job Offers\n\n• Increased Influence with Social Groups\n\nYour Sim's follower perks will continue to improve as their follower count increases!
-   [127C6] 0xC37FA0B635552162: Current Follower Perks:\n\n• Donations from followers\n\n• Increased protest attendance\n\n• Upload Resume to get Job Offers\n\n• Increased Influence with Social Groups\n\n• Periodic offers to buyout your Sim's blog\n\nYour Sim's follower perks will continue to improve as their follower count increases!
+   [127C4] 0xC37FA0B635552164: Current Follower Perks:\n\n• Donations from followers\n\n• Increased protest attendance\n\n• Upload Résumé to get Job Offers\n\nYour Sim's follower perks will continue to improve as their follower count increases!
+   [127C5] 0xC37FA0B635552165: Current Follower Perks:\n\n• Donations from followers\n\n• Increased protest attendance\n\n• Upload Résumé to get Job Offers\n\n• Increased Influence with Social Groups\n\nYour Sim's follower perks will continue to improve as their follower count increases!
+   [127C6] 0xC37FA0B635552162: Current Follower Perks:\n\n• Donations from followers\n\n• Increased protest attendance\n\n• Upload Résumé to get Job Offers\n\n• Increased Influence with Social Groups\n\n• Periodic offers to buyout your Sim's blog\n\nYour Sim's follower perks will continue to improve as their follower count increases!
    [127C7] 0xC1F9535C4AE95E2E: gained
    [127C8] 0x97120FF968A5F2DF: good
    [127C9] 0x40655FCCC3E4873F: great
@@ -75848,7 +75848,7 @@ Unknown3: 0x00000000
    [12843] 0x14D020672042A1AF: Soccer Game
    [12844] 0x14D020672042A1AE: Simulation Game
    [12845] 0xD8A607CC9383ABA5: Study
-   [12846] 0x86024E8D8577AF9E: Upload Resume
+   [12846] 0x86024E8D8577AF9E: Upload Résumé
    [12847] 0x07F4AA4C59D4E4E2: This is only available during working hours
    [12848] 0xEFB3AB3356B859E1: Use Laptop Here
    [12849] 0xCBB27E4B1A0834AD: Texting
@@ -75930,7 +75930,7 @@ Unknown3: 0x00000000
    [12895] 0xEEC88E42362CCC23: Look for Exam Answers
    [12896] 0x887B61B255C071EA: Make Exam Cheat Sheet
    [12897] 0x9D12AFC9C6D89365: Study
-   [12898] 0xFBF8B1DA96684D76: Upload Resume
+   [12898] 0xFBF8B1DA96684D76: Upload Résumé
    [12899] 0x25B770116925E67B: {0.SimFirstName} knows all of the traits of {1.SimName}. Your Mind Meld failed to gleam anything new.
    [1289A] 0x1263302F14FA18B0: You have recently received help from your followers.
    [1289B] 0x14B81A7FDE5B7F50: Your followers are already considering donating to your blog.
@@ -76337,7 +76337,7 @@ Unknown3: 0x00000000
    [12A2C] 0x56B7946858236AC5: Fiddling with spreadsheets upset {0.SimName}’s bank account, and {MA.he}{FA.she} managed to lose {1.Money}!
    [12A2D] 0xFFD81D913C989FF7: College Of Business
    [12A2E] 0x40E2EC1B33EF67E5: After tediously starting at spreadsheets, {0.SimName} discovered {1.Money} that {MA.he}{FA.she} didn’t know {MA.he}{FA.she} had!
-   [12A2F] 0xC3C96AD3951904FD: Taking that Resume Writing and Interview Techniques class made {0.SimName} a better writer and more charismatic!
+   [12A2F] 0xC3C96AD3951904FD: Taking that Résumé Writing and Interview Techniques class made {0.SimName} a better writer and more charismatic!
    [12A30] 0x5AF1B0811F1AD0F7: Make Out With…
    [12A31] 0x15EC106415A262A7: It wasn’t much, but working some spreadsheet magic netted {0.SimName} {1.Money}!
    [12A32] 0xC75AC25259699DCF: Try for Baby With…
@@ -78279,7 +78279,7 @@ Unknown3: 0x00000000
    [131C2] 0xFF7F4B25E0DD368D: "The Designated Hitter rule ruins the integrity of the 9-man team in baseball."
    [131C3] 0xFF7F4B25E0DD368C: "I did it! I conquered my irrational fear of bottles! Yahooooo!!!"
    [131C4] 0xFF7F4B25E0DD368F: "Wow, do you always just pick up garbage out of the ocean?"
-   [131C5] 0xFF7F4B25E0DD368E: "Thank you for your consideration. Enclosed, please find my 8x10 headshot and a resume of my past acting experience."
+   [131C5] 0xFF7F4B25E0DD368E: "Thank you for your consideration. Enclosed, please find my 8x10 headshot and a résumé of my past acting experience."
    [131C6] 0xFF7F4B25E0DD3689: "How many castaways does it take to change a lightbulb? Seriously, how many – it’s really dark over here."
    [131C7] 0xFF7F4B25E0DD3688: "How does that simple, girl-next-door get all the attention? I’M the movie star!!"
    [131C8] 0xFF7F4B25E0DD368B: "Here! I thought you might like to start a bottle collection."
