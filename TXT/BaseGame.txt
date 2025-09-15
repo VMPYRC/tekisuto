@@ -79885,10 +79885,10 @@ Unknown3: 0x00000000
    [13808] 0xD9485D6DB39E71BC: Improve Food Synthesizer Food Quality
    [13809] 0x8E2561F378CA3E59: Improve Food Synthesizer Food Quality
    [1380A] 0xE35D2863F7F8DA53: Improve Food Synthesizer Food Quality
-   [1380B] 0x7DD8E94B3221F984: When a Plumbot can’t take the time to fully recharge, a quick syphon will keep those batteries charged a little longer.
-   [1380C] 0x1958F5E5B7522B37: Syphon Power
-   [1380D] 0xDBBA6562C0031FC8: Syphon Power
-   [1380E] 0xE6F65E4781BB3F74: Syphon Power
+   [1380B] 0x7DD8E94B3221F984: When a Plumbot can't take the time to fully recharge, a quick siphon will keep those batteries charged a little longer.
+   [1380C] 0x1958F5E5B7522B37: Siphon Power
+   [1380D] 0xDBBA6562C0031FC8: Siphon Power
+   [1380E] 0xE6F65E4781BB3F74: Siphon Power
    [1380F] 0x1071EEABF69A9443: Your Plumbot’s batteries could really use a thorough charging. A Charging Station is the only hardware able to provide the needed voltage.
    [13810] 0x95BA7A06A4FFEFF6: Recharge at a Charging Station
    [13811] 0x6A895CE3A204BDAB: Recharge at a Charging Station
@@ -80532,7 +80532,7 @@ Unknown3: 0x00000000
    [13A8F] 0x53956036F458B1DE: Bad Aftertaste
    [13A90] 0x3A89BDB614C6C6F4: {0.SimFirstName} has an awful taste in {MA.his}{FA.her} mouth after eating that bug. Who could possibly have predicted this?
    [13A91] 0x3C54B962B78F598E: Batteries Depleted
-   [13A92] 0x99FAF91F89C35D04: {0.SimFirstName} went too long without a recharge. Find the nearest Recharge Station or Syphon some energy before {MA.he’s}{FA.she’s} forced to shut down!
+   [13A92] 0x99FAF91F89C35D04: {0.SimFirstName} went too long without a recharge. Find the nearest Recharge Station or Siphon some energy before {MA.he's}{FA.she's} forced to shut down!
    [13A93] 0x9B1C3AA8068A1BD6: Batteries Running Low
    [13A94] 0x93F9F06F7563D6BC: Systems are still running optimally, but {0.SimFirstName} doesn’t have much power left in {MA.his}{FA.her} batteries.
    [13A95] 0x49D77F3CA06F733B: Blinking in and out of Existence
@@ -81802,7 +81802,7 @@ Unknown3: 0x00000000
    [13F85] 0x7A29B42B8235B80A: Broke Down
    [13F86] 0x70F701A018F73D5A: Something inside of {2.SimName} was defective and suddenly everything Broke Down. Don’t blame yourself.
    [13F87] 0xA52E6BFABA75C155: Space Rocks
-   [13F88] 0xFF1F3688F64A4E78: Syphon Power
+   [13F88] 0xFF1F3688F64A4E78: Siphon Power
    [13F89] 0xCBC88D268DA55999: Cannot throw this Dew at yourself.
    [13F8A] 0x648AA87E25451081: Cannot use this Dew on yourself.
    [13F8B] 0x9C88EBC7DE5F03E6: Dew Thrown at Sim
@@ -83414,7 +83414,7 @@ Unknown3: 0x00000000
    [145D1] 0x9CA6AFAB3ED40F2F: Cash In This Pot of Gold for {0.Money}
    [145D2] 0xFA33FF9A644F204E: Cash In Many Pots of Gold for {0.Money}
    [145D3] 0x8C29156E95E7EFC1: Collect
-   [145D4] 0x452E8752D1E1CF55: Cannot Syphon Power while in use.
+   [145D4] 0x452E8752D1E1CF55: Cannot Siphon Power while in use.
    [145D5] 0x67D209CD1676C3B3: {0.String}'s Descendants
    [145D6] 0xCF637E9F156C66D2: {0.SimName}, some of your Descendants have been located and they live at {1.String}.
    [145D7] 0x0E3E3B39A36457F1: Great woolly llamas {0.String}! A fluctuation in the space time continuum may have affected your Descendants! Go into the Future to see what changes may have occurred!
@@ -84888,7 +84888,7 @@ Unknown3: 0x00000000
    [14B93] 0x2BBA56220F467780: Trait Chips
    [14B94] 0x3BD5441F54BA4B76: Maintenance
    [14B95] 0x1B67157BEA70D86C: Even the best technology degrades over time. Without regular Tune Ups, Plumbot gears will gradually grind to a halt.
-   [14B96] 0x8B5A2EDE669196C9: A Plumbot's internal batteries wear down with prolonged activity. By Syphoning Power or visiting a Charging Station, Bots can keep themselves ticking.
+   [14B96] 0x8B5A2EDE669196C9: A Plumbot's internal batteries wear down with prolonged activity. By Siphoning Power or visiting a Charging Station, Bots can keep themselves ticking.
    [14B97] 0x59E3116BD0890B73: Battery Power
    [14B98] 0x4618D29BBF672628: Career
    [14B99] 0xA8762EB351E1A88B: This Plumbot is unemployed.

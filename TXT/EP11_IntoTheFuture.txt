@@ -145,7 +145,7 @@ Unknown3: 0x00000000
    [08C] 0xCDEFD8EE5DE17626: Named for the proud and majestic water buffalo, the Bubalus HoverVan is perfect for transporting lots of Sims. Six seats and spacious interior should keep your children from bickering.
    [08D] 0xF198813758CEE0E1: Spawns nanites for the Bot Workshop
    [08E] 0x47ADB6C926D4BFE7: Launch yourself skyward for thrilling adventures with this personal jetpack! Patented gyroscopes ensure your basic safety, and it’s got enough juice to take other Sims on tandem rides.
-   [08F] 0x12FFD571616A609D: With anti-gravity being so prevalent now-a-days, it’s sometimes nice to experience it in all its glory! The SkySwoop Slide will bring your children the utmost adoration, at least until they learn about video games.
+   [08F] 0x12FFD571616A609D: With anti-gravity being so prevalent nowadays, it's sometimes nice to experience it in all its glory! The SkySwoop Slide will bring your children the utmost adoration, at least until they learn about video games.
    [090] 0x3CC2DA4D64ECF19E: Did you know that only 30% of Sims can locate their local Library? Well, that statistic can only be looked up…in the Library! Use this glowing sign to find it.
    [091] 0x4C3502B15B074AF3: Powered by glowing fiber-optic cables, these delicate ceiling lights illuminate your home like a cityscape on a rainy night. Bright walls and dramatic shadows are sure to leave lasting memories.
    [092] 0x6C6F5296072EF4C3: Cast any living space in a cool postmodern glow! This freestanding floor lamp mimics the distinctive soundwave signature of whale song. If only whales still existed…
@@ -1992,7 +1992,7 @@ Unknown3: 0x00000000
    [7C3] 0xB6B786920903D587: Earn enough Lifetime Happiness and purchase the Time Remote! This will allow you to instantly change the future to whichever of the three alternate timelines you’d like.
    [7C4] 0x7DAF31255183D455: The Bot Shop is the place to buy and sell Plumbots. A higher quality Plumbot will fetch more Simoleons when being sold!
    [7C5] 0xB6B786920903D584: Time Sickness can be fatal, so be sure to head over to the Hospital for a cure. A higher Advanced Technology skill will reduce the chance of getting Time Sickness.
-   [7C6] 0xB6B786920903D585: Be careful when syphoning power with a Plumbot! There’s a chance it could break your appliance!
+   [7C6] 0xB6B786920903D585: Be careful when siphoning power with a Plumbot! There's a chance it could break your appliance!
    [7C7] 0xB6B786920903D582: Want a place of your own to live in while at Oasis Landing? Use the Real Estate services on your phone to purchase a home.
    [7C8] 0xB6B786920903D583: Is your Sim having a bad dream while using the Dream Pod? Choose Influence Dream while they’re dreaming and their nightmare could turn into a pleasant dream!
    [7C9] 0xB6B786920903D580: Sims with low Advanced Technology skill aren’t familiar with the exotic future technology and will experience more failures. Gaining a higher Advanced Technology skill will reduce the amount of failures.
