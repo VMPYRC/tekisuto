@@ -10383,8 +10383,8 @@ Unknown3: 0x00000000
    [0288A] 0x1762099582404A47: Work Out using the TV or Stereo, go for a Jog, and Swim for 30 minutes to earn a cash bonus.
    [0288B] 0xCDF101575059D5A6: The Complete Circuit
    [0288C] 0xC7F0593A9B2E6F9D: The Complete Circuit
-   [0288D] 0x2A59FEDC78DAADE6: Work Out using the stereo or tv, jog, and swim for 30 minutes.
-   [0288E] 0x04B06E6CC6AF64DD: Work Out using the stereo or tv, jog, and swim for 30 minutes.
+   [0288D] 0x2A59FEDC78DAADE6: Work Out using the stereo or TV, jog, and swim for 30 minutes.
+   [0288E] 0x04B06E6CC6AF64DD: Work Out using the stereo or TV, jog, and swim for 30 minutes.
    [0288F] 0xD083AC8BF7D6D7D5: You took the challenge and surpassed everyone’s expectations. Your body thanks you for the fresh air and great cardio workout. Your pockets thank you for this cash prize!
    [02890] 0x0041E9ECD3D551B0: You took the challenge and surpassed everyone’s expectations. Your body thanks you for the fresh air and great cardio workout. Your pockets thank you for this cash prize!
    [02891] 0x617467FE1C54349B: A manager at the gym has challenged you to jog {RelativeTime} around town. The managers of the challenge are giving you a tracking device to make sure you’re actually running! Start jogging, then return the device when you’re done to earn a cash prize.
@@ -48798,7 +48798,7 @@ Unknown3: 0x00000000
    [0BE99] 0x9D8263ADB97509CB: {0.SimFirstName} should use {MA.his}{FA.her} newly achieved bass skill to Serenade others. {MA.He}{FA.She} should also visit the bookstore sometime to purchase a new song!
    [0BE9A] 0x9D9A6FADB989AF96: {0.SimFirstName} is rocking the house with the biggest bass in town. The deep sounds of the bass have definitely got the fans cheering and coming back for more. {0.SimFirstName} is an icon in this town.\n\nCheck the bass journal for Skill Challenges to refine {0.SimFirstName}’s bass skills further!
    [0BE9B] 0xC37B87C4F00E9597: Bubbles
-   [0BE9C] 0xD2B93613E0BD113C: To All It May Concern!\nThe Bearer or Displayer of this certificate is to be held in the highest regards for they are amongst the Heroes of Mixology. Their skills in the vocation of Mixology cannot be questioned, only worshipped, preferably often and safely as possible!\n\nAwarded: {DateAndTime}, Association of Mixology President: Theodorus Bacchus Church.
+   [0BE9C] 0xD2B93613E0BD113C: To All It May Concern!\nThe Bearer or Displayer of this certificate is to be held in the highest regards for they are amongst the Heroes of Mixology. Their skills in the vocation of Mixology cannot be questioned, only worshiped, preferably often and safely as possible!\n\nAwarded: {DateAndTime}, Association of Mixology President: Theodorus Bacchus Church.
    [0BE9D] 0x6AA434F26FC581E3: The Bridgeport Bass Fellowship hereby distinguishes:\n{0.SimName}\nas having phenomenal and noteworthy skills in the areas of composing, plucking, and performing.\n\nAwarded: {DateAndTime}, Witnessing Officer: Mr. Hobart Chan
    [0BE9E] 0xFDD493FFB427A5A7: The Cowbell Nation hereby grants:\n{0.SimName}\nas having incomparable and remarkable skill in the areas of drumming, tempo, and rat-a-tat.\n\nAwarded: {DateAndTime}, Witnessing Officer: Mrs. Flo Catania.
    [0BE9F] 0x45BAFCA6E21F70DB: The Piano Digest hereby awards:\n{0.SimName}\nas having extraordinary and outstanding repertoire in composition, technique, and style.\n\nAwarded: {DateAndTime}, Witnessing Officer: Mr. Calvin Wong
@@ -57311,8 +57311,8 @@ Unknown3: 0x00000000
    [0DFDA] 0x757FEC951D98457B: Snuggle in the Pet Bed with another Pet
    [0DFDB] 0x1E34C6818576C741: Snuggle in the Pet Bed with {1.SimName}
    [0DFDC] 0x6B3B4C9C7785B3A3: Mastering a Skill takes great patience and dedication, but your Pet aspires to be the best. Have your Pet practice the skill and complete Opportunities, and great things will happen.
-   [0DFDD] 0x8685D5C0D70DDEA1: Lacking an opposable thumb, pets have some trouble with the tv remote. Luckily, they're equally fascinated by all the channels! Your pet wants to Watch TV.
-   [0DFDE] 0x868FB7C0D7160007: Lacking an opposable thumb, pets have some trouble with the tv remote. Luckily, they're equally fascinated by all the channels! Your pet wants to Watch TV.
+   [0DFDD] 0x8685D5C0D70DDEA1: Lacking an opposable thumb, pets have some trouble with the TV remote. Luckily, they're equally fascinated by all the channels! Your pet wants to Watch TV.
+   [0DFDE] 0x868FB7C0D7160007: Lacking an opposable thumb, pets have some trouble with the TV remote. Luckily, they're equally fascinated by all the channels! Your pet wants to Watch TV.
    [0DFDF] 0xCF1E7964943D5E84: Carlos Hurtado
    [0DFE0] 0xE4450637721CD375: Riding Vol. 1: Zen and the Art of Not Falling Off a Horse
    [0DFE1] 0xE4450637721CD376: Riding Vol. 2: The Galloping Guru
@@ -62397,8 +62397,8 @@ Unknown3: 0x00000000
    [0F3B8] 0xD76DFA9B207CFDFF: WooHoo with {1.SimFirstName} in the Box of Mystery
    [0F3B9] 0x4ED3F4C19F0A3A40: WooHoo with Someone in the Box of Mystery
    [0F3BA] 0xA66EBCB4AE5A9D7C: WooHoo with {1.SimFirstName} in the Box of Mystery
-   [0F3BB] 0xBF4AF1CAA2AF723C: Everyone dreams of being the next idol, of being worshipped by millions of Sims across the world. But can you work through the years of stress and obscurity to reach the heights of super-stardom?
-   [0F3BC] 0x7F7A8E2CCF078FFF: Everyone dreams of being the next idol, of being worshipped by millions of Sims across the world. But can you work through the years of stress and obscurity to reach the heights of super-stardom?
+   [0F3BB] 0xBF4AF1CAA2AF723C: Everyone dreams of being the next idol, of being worshiped by millions of Sims across the world. But can you work through the years of stress and obscurity to reach the heights of super-stardom?
+   [0F3BC] 0x7F7A8E2CCF078FFF: Everyone dreams of being the next idol, of being worshiped by millions of Sims across the world. But can you work through the years of stress and obscurity to reach the heights of super-stardom?
    [0F3BD] 0x2EB84540FFC7095F: Reach level 10 of the Singer Career.
    [0F3BE] 0xEDA3BB2D76CEC92E: Reach level 10 of the Singer Career.
    [0F3BF] 0x255F2EDBF34DF320: Vocal Legend
