@@ -220,7 +220,7 @@ Unknown3: 0x00000000
    [000D7] 0xCAE987B38E40B3F7: The upgraded version of the Archway Excelsior, the Grand edition opens the home in glorious and stately ways. If you want to make an entrance, make it Grand.
    [000D8] 0x2A6A7773CC8BDE02: Keep the elements and riff-raff at bay with the all-new Barricade. Its titanium frame and crushed-diamond paneling makes the Barricade quite literally the strongest door known to science.
    [000D9] 0x0945F86561B4246A: Nothing says opulence like basic household items made from expensive materials. Constructed from nothing but near-extinct trees, the Archway of Endangerment is poised to establish itself as the new standard in wealth hubris.
-   [000DA] 0x165D588FC4F324FD: When Red Kerplop told people his idea for a powered door, they laughed and said it couldn’t be done. Years later, Kerplop’s simple “add water and stir” Insta-Door is a best seller. Note: Door arrives totally hydrated and requires no additional assembly.
+   [000DA] 0x165D588FC4F324FD: When Red Kerplop told people his idea for a powered door, they laughed and said it couldn't be done. Years later, Kerplop's simple "add water and stir" Insta-Door is a bestseller. Note: Door arrives totally hydrated and requires no additional assembly.
    [000DB] 0xDC945C6C21332CA4: The Mata-Door once boasted it was strong enough to stop a charging bull. However, recent tests have unproved this claim. But that hasn’t stopped Mata-Door creator and uncompromising pun fan, Leon Glubbs, from keeping the misleading name.
    [000DC] 0x585332BAE7837B11: This is an arch with a mission: not to get in your way as you effortlessly transition from room to room.
    [000DD] 0x304A811D69117890: Doors don’t always have to be boring and predictable. Just look at the Puerta Loca. You never know what to expect from this wacky door. Is it open? Is it closed? Is it even a door at all? With the crazy Puerta Loca, who knows?
@@ -449,7 +449,7 @@ Unknown3: 0x00000000
    [001BC] 0x1A8F3D751C600F64: Despite its name, this humble collection of wax and wick cannot withstand hurricane conditions. A light breeze, sure. A fresh gale, maybe. A tropical storm, doubtful. But a hurricane? Get real.
    [001BD] 0x136CF967C2B855D2: Lodge Lamp is the official light source for competitive shadow puppet theater. This newly released home version projects the same light spectrum the pros use, allowing you to create a menagerie of nonjudgmental shadow pets and friends.
    [001BE] 0x7DD0B67DD7A8F8A2: “Listen my children and you shall hear of the midnight light from the Lamp Revere.” Those historic words were first uttered by hack poet and famed lampsmith, Henry Lightfellow, during the unveiling of his Lamp Revere at the 1832 Light Expo in Mamaroneck, NY.
-   [001BF] 0xBED7195DEDC40E64: If any lamp can rest on its laurels, surely it’s the Baronian. As the best selling light fixture ever, few can match its luxury or ubiquity. So join the club. Pick up a Baronian Lamp today, and prepare for a brave new world of table lighting.
+   [001BF] 0xBED7195DEDC40E64: If any lamp can rest on its laurels, surely it's the Baronian. As the best-selling light fixture ever, few can match its luxury or ubiquity. So join the club. Pick up a Baronian Lamp today, and prepare for a brave new world of table lighting.
    [001C0] 0xCD292C1B33714757: Life moves at a slower pace with the Luz Lenta table lamp. In fact, so does the light. Scientists clock it at just under 166,000 mps. It might take a little longer to reach you, but rest assured this light is well worth the wait.
    [001C1] 0x5B7CC4DA97CDED8A: You can now own the world's only microprocessor controlled table lamp! Every Photon-Master 3000 contains microcode to generate the perfect light for any surface, which automatically compensates for wood warpage and the precession of the equinoxes.
    [001C2] 0xA5E985241711FD59: Partying outdoors at night is all good and fun, but it’s even better with a little lighting. Surprise your guests next time with a Patio Party Lamp... the lamp that works outdoors! Just set it up on any table, and watch it outshine the moon.
@@ -4393,8 +4393,8 @@ Unknown3: 0x00000000
    [01124] 0x26C137074775E227: Graduate with an A
    [01125] 0x821F5EDD36561B9B: Your Sim hates to leave the keyboard idle for long. Your Sim wants sit down at the keyboard to put a few more pages in ink.
    [01126] 0x77A216E2A496F723: Work on Book
-   [01127] 0x19A73A9B8D7C857E: Best selling books are the best way to earn huge royalty checks. Highly skilled writers that know the ins and outs of a genre tend to write the most best sellers.
-   [01128] 0xA0E1B675117900EA: Write {0.Number} Best Sellers
+   [01127] 0x19A73A9B8D7C857E: Best-selling books are the best way to earn huge royalty checks. Highly skilled writers that know the ins and outs of a genre tend to write the most bestsellers.
+   [01128] 0xA0E1B675117900EA: Write {0.Number} Bestsellers
    [01129] 0xA03D9B05F61097A1: The best movies are always showing at the theater. Your Sim hopes to catch a flick soon. Check the theater to see if there is a movie showing. Don't forget weekend matinees!
    [0112A] 0x7E8EE4B8D7D335D1: Watch a Movie
    [0112B] 0x20F77EF97788E9FB: Variety is the spice of life, and going on dates with different Sims can provide that spice!
@@ -12983,8 +12983,8 @@ Unknown3: 0x00000000
    [032B2] 0xA6422797FD6F4628: Unimpressed by months of overall low-quality, low-impact articles, the Network is threatening to close down this branch. However, there’s a chance you can reverse this unfortunate tide by writing a Best-Seller article on your own time and bringing it to work with you. Do this, and you could be in for a big job performance boost and cash bonus.
    [032B3] 0x1DC22C2541C2ADE1: Deadlines are so important to our industry, yet you failed to adhere to the one that mattered. Try to be more deadline conscious in the future!
    [032B4] 0xEC53B1F8E7F2AED4: Deadlines are so important to our industry, yet you failed to adhere to the one that mattered. Try to be more deadline conscious in the future!
-   [032B5] 0x79892A1DBDD98066: Write a Best Seller article and bring it to work before time runs out to earn a job performance boost and cash bonus.
-   [032B6] 0x4EA7717DD4DA785D: Write a Best Seller article and bring it to work before time runs out to earn a job performance boost and cash bonus.
+   [032B5] 0x79892A1DBDD98066: Write a Bestseller article and bring it to work before time runs out to earn a job performance boost and cash bonus.
+   [032B6] 0x4EA7717DD4DA785D: Write a Bestseller article and bring it to work before time runs out to earn a job performance boost and cash bonus.
    [032B7] 0x8B9A7F1DC84B47B8: The Perfect Article
    [032B8] 0xE6C2ACA2D0048973: The Perfect Article
    [032B9] 0x4A488B4D3CDCAFD4: Write a Bestseller and bring it to work.
@@ -31539,7 +31539,7 @@ Unknown3: 0x00000000
    [07B2E] 0x6A23930E8DA6977F: Science Fiction Novelist
    [07B2F] 0xE5729921702353A2: Trashy Novelist
    [07B30] 0x580E35908A09BC56: Vaudeville Novelist
-   [07B31] 0xDB31B80E85D47573: Best Sellers: {0.Number}
+   [07B31] 0xDB31B80E85D47573: Bestsellers: {0.Number}
    [07B32] 0x32333FE8FF1528AB: Flops: {0.Number}
    [07B33] 0x78A75B12A8610291: Hits: {0.Number}
    [07B34] 0x9BBB2D0824CC6D58: Pages Written: {0.Number}
@@ -41270,7 +41270,7 @@ Unknown3: 0x00000000
    [0A131] 0x61B8844739CA5387: After diving in {0.Number} Dive Wells, you'll be able to clear them {1.Number}% faster.
    [0A132] 0x7B136F04D61AC468: Well Spelunker
    [0A133] 0xC924B4A34DE3219B: Number of Skeleton Keystones used
-   [0A134] 0x81176B3EF65B26CC: Best Seller
+   [0A134] 0x81176B3EF65B26CC: Bestseller
    [0A135] 0x157C7384E2FD9B3C: Flop
    [0A136] 0x262ADBA6DA494392: Hit
    [0A137] 0x5A95DA850A132A6D: None
