@@ -20204,7 +20204,7 @@ Unknown3: 0x00000000
    [04EE7] 0xC1C743FE9F484334: {0.SimName}'s birthday party was a failure – no one aged up!
    [04EE8] 0xDB715A593B430037: {0.SimName}'s birthday party was a failure – no one aged up!
    [04EE9] 0xC7C7897CCF8C9D83: More importantly, {0.SimFirstName} received {1.Number} Simoleons from campaign contributions.
-   [04EEA] 0x8A7B8EB369C6D08F: The funeral service that {0.SimName}was hosting was a big sucess. Although the loss was tragic, everyone feels much better for having attended.
+   [04EEA] 0x8A7B8EB369C6D08F: The funeral service that {0.SimName} was hosting was a big success. Although the loss was tragic, everyone feels much better for having attended.
    [04EEB] 0x1EBBF1D2020B9486: {0.SimFirstName}'s party was awesome, verging on epic. Sims all around town will be talking about this one for years!
    [04EEC] 0x1EB0C4432AD7BE6C: You call that a party? Whatever, I'm leaving.
    [04EED] 0x1EB0C4432AD7BE6D: Nice party. Not! I'm outta here.
@@ -40005,8 +40005,8 @@ Unknown3: 0x00000000
    [09C40] 0x7D06CD8BE84DA18C: Sites Excavated:
    [09C41] 0x020CA37C7BB32F14: Oldest Found: {0.Number} years old.
    [09C42] 0x3A9D50BD28DA208A: Oldest Found: Unknown
-   [09C43] 0x07747E3A0E9CD40D: {0.SimFirstName} has just become a Relic Collection Connoisseur. From now on {0.SimFirstName} will recieve {1.Number}% more mood increase from the wondrous Collection moodlet.
-   [09C44] 0x5F3C7D935AF49BC8: {0.SimFirstName} has just become a Relic Collection Connoisseur. From now on {0.SimFirstName} will recieve {1.Number}% more mood increase from the wondrous Collection moodlet.
+   [09C43] 0x07747E3A0E9CD40D: {0.SimFirstName} has just become a Relic Collection Connoisseur. From now on {0.SimFirstName} will receive {1.Number}% more mood increase from the wondrous Collection moodlet.
+   [09C44] 0x5F3C7D935AF49BC8: {0.SimFirstName} has just become a Relic Collection Connoisseur. From now on {0.SimFirstName} will receive {1.Number}% more mood increase from the wondrous Collection moodlet.
    [09C45] 0x6C494F50DDF6A543: Relic Collection Connoisseurs have completed {0.Number} relic collections. Relic Collection Connoisseurs gain {1.Number}% more mood increase from the wondrous Collection moodlet.
    [09C46] 0x96A89B0866DF76EA: Relic Collection Connoisseurs have completed {0.Number} relic collections. Relic Collection Connoisseurs gain {1.Number}% more mood increase from the wondrous Collection moodlet.
    [09C47] 0xD9EF4C22E5969060: Relic Collection Connoisseur
@@ -55172,7 +55172,7 @@ Unknown3: 0x00000000
    [0D77F] 0x5E6191D7CCA9CD6E: Be Bottle Fed By {1.SimFirstName}
    [0D780] 0xC12F53364971CCF4: Nurse From {1.SimFirstName}
    [0D781] 0xB3CA3B8D7E33A2CB: {1.SimFirstName} can't nurse while being ridden
-   [0D782] 0xD7192367942D79F6: Recieve Object
+   [0D782] 0xD7192367942D79F6: Receive Object
    [0D783] 0xE262F19469F568AC: Your Sim is too thirsty to do that right now.
    [0D784] 0x219D14D10D3E711D: Howl Along
    [0D785] 0x63B8272CCB964A16: Ignite
@@ -77085,7 +77085,7 @@ Unknown3: 0x00000000
    [12D18] 0x469A845194DDD00B: View and Caption Blog Photos
    [12D19] 0x88841BAB5BDA7C73: Additional trait slot that is unlocked by reaching the top level of a Social Group.
    [12D1A] 0xADB5C622310675A4: Your Sim gained this trait from their University academic experiences.
-   [12D1B] 0xD5ECA61C6A7233B6: Credits recieved if any DO NOT TRANSLATE
+   [12D1B] 0xD5ECA61C6A7233B6: Credits received if any DO NOT TRANSLATE
    [12D1C] 0xF6E965B5477F1395: Financial Aid
    [12D1D] 0x701831469067F971: Sims eligible to go to University
    [12D1E] 0xF725F088534C392B: Sims going to University
