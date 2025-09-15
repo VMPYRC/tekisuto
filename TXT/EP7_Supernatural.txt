@@ -779,13 +779,13 @@ Unknown3: 0x00000000
    [306] 0x8328E6B622DAD04E: Grimm
    [307] 0x4DB0282409DAC8FA: Hai
    [308] 0x7C28EB3826420E81: Haley
-   [309] 0xA34270D6D402714A: The only thing Haley is missing in her quest to become a fairy are her wings and a Fairy King to spend her life with. For years she’s been making regular visits to the Arboretum to find fairies, but still comes up empty handed. Until that magical day comes when Haley can become a fairy, she does everything possible to uphold the values of the fairy short of playing tricks or bestowing enchantments. Luckily her current roommates understand this desire, since Haley’s old roommates thought she was crazy! Haley has been working a long time on her book “Broken Wings”, and hopes that it will attract the attention of a Fairy King.
+   [309] 0xA34270D6D402714A: The only thing Haley is missing in her quest to become a fairy are her wings, and a Fairy King to spend her life with. For years, she's been making regular visits to the Arboretum to find fairies, but still comes up empty-handed. Until that magical day comes when Haley can become a fairy, she does everything possible to uphold the values of the fairy short of playing tricks or bestowing enchantments. Luckily her current roommates understand this desire, since Haley's old roommates thought she was crazy! Haley has been working a long time on her book "Broken Wings", and hopes that it will attract the attention of a Fairy King.
    [30A] 0xDD1D343CBEC38921: Hall
    [30B] 0xDD1D323CBEC3858C: Hank
    [30C] 0x378E77686EEABD3D: Harris
    [30D] 0x7BC2F03825EB643F: Hartz
    [30E] 0x9CCA8F38382BA3CA: Helen
-   [30F] 0x84502FA78F50EBFF: A natural-born psychic, Helen has many questions about ghosts that remain unanswered. Why don’t they open doors? What could possibly be so fun about haunting furniture? Such are questions that Helen has always wanted to know. Living with a family full of ghosts might seem crazy and reckless to some, but not for Helen! She’s always been a risk taker and living with a bunch of ghosts ranks among the lesser risks she’s taken. Helen loves her video games and other high tech toys, but she’s not sure how her high tech lifestyle will fit in with a family of ghosts that are set in their ways…
+   [30F] 0x84502FA78F50EBFF: A natural-born psychic, Helen has many questions about ghosts that remain unanswered. Why don't they open doors? What could possibly be so fun about haunting furniture? Such are questions that Helen has always wanted to know. Living with a family full of ghosts might seem crazy and reckless to some, but not for Helen! She's always been a risk-taker and living with a bunch of ghosts ranks among the lesser risks she's taken. Helen loves her video games and other high tech toys, but she's not sure how her high tech lifestyle will fit in with a family of ghosts that are set in their ways...
    [310] 0x9CAF9B383814F03C: Hetal
    [311] 0xEC2ABB57A22344BB: Hoppcraft
    [312] 0x99F07EDAAD03B4BB: Howler
@@ -860,7 +860,7 @@ Unknown3: 0x00000000
    [357] 0x4F4F50AFBC837057: Peanut
    [358] 0x66B2496868836E7B: This impressionable tyke takes after his father and is destined to be a world famous musician. However, he also looks up to his older sister Daydream and can often be found sitting on the couch with her watching the TV. His parents urge him to be environmentally-conscious and, so far, Peanut seems to be listening, but with the influence of Daydream, his parents can only guess how environmentally responsible Peanut will when he grows up…
    [359] 0x4E0230240A20E023: Pip
-   [35A] 0xF16BCC80C84FC589: While Flora is the brains behind the Goodfellow’s shenanigans, Pip is most definitely the muscle behind her mischievous pranks. His light hearted nature and ability to talk himself in or out of any situation makes him the perfect Fairy prankster. As a lifelong Fairy, he’s always been fascinated by the Human Sim culture and loves to read books by Human authors. So taking a part time job at the bookstore was a natural choice for him. A very influential Fairy with friends all over town, Pip was able to pull off the ultimate prank of an adoption mix-up involving Linda Rodgers’ newly adopted daughter.
+   [35A] 0xF16BCC80C84FC589: While Flora is the brains behind the Goodfellow's shenanigans, Pip is most definitely the muscle behind her mischievous pranks. His lighthearted nature and ability to talk himself in or out of any situation makes him the perfect Fairy prankster. As a lifelong Fairy, he's always been fascinated by the Human Sim culture and loves to read books by Human authors. So taking a part time job at the bookstore was a natural choice for him. A very influential Fairy with friends all over town, Pip was able to pull off the ultimate prank of an adoption mix-up involving Linda Rodgers' newly adopted daughter.
    [35B] 0x4E0236240A20EAEE: Pok
    [35C] 0xA766DAA04A295185: Rachel
    [35D] 0xBD795D3D3D993212: Rain
