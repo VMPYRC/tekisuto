@@ -69,7 +69,7 @@ Unknown3: 0x00000000
    [00040] 0x573D353D0D9DAB4E: Reminiscent of cabinet islands from the classic plantation kitchens, the Chuck Wagon Cabinet Island has it all. Complete with three clearly labeled partitions for grub, fixins, and vittles. Such organization will have you yelling “Chow’s on!” in no time.
    [00041] 0x4313E5B20D05D172: Your cabinet, if you choose to accept it, is made of the finest materials. Created to withstand intense chopping, it is also pleasing when spied from the corner of your eye. This cabinet will not self-destruct in three minutes... or three lifetimes.
    [00042] 0x7F93F0E41399BB7F: A lot of critics had written off the modern cabinet island. They said the idea was gauche and past its prime. But that didn’t stop the visionaries at Nouveau-Chic from turning the status quo on its head. Now cabinet islands are considered the new cellarets.
-   [00043] 0x1B71FE2FA2D7E1A5: In this ever-changing, ever-growing, fast-paced world, isn’t it nice to just sit back and enjoy some good old dependable traditions? Bring that feeling home with this fantastic cabinet that's hand-crafted from solid values and comfortable certainties.
+   [00043] 0x1B71FE2FA2D7E1A5: In this ever-changing, ever-growing, fast-paced world, isn't it nice to just sit back and enjoy some good old dependable traditions? Bring that feeling home with this fantastic cabinet that's handcrafted from solid values and comfortable certainties.
    [00044] 0xEDF00C4375FFAFCF: Cabinets are overrated. They just store ear cleaning implements and things that make you smell tasty. However, they also complete the room, which is where the MediCabi succeeds. The MediCabi – Honesty and value you can appreciate.
    [00045] 0x0CD356724D603F31: Never a double-agent, this double-sided cabinet, if you choose to accept it, is made of the finest materials. Created to withstand intense chopping, it is also pleasing when spied from the corner of your eye. This cabinet will not self-destruct in three minutes... or three lifetimes.
    [00046] 0x5120F64D4FBBA7F2: Made from the miracle mock-marble material called “marckle,” Real Flat Counters' cabinetry offers a fraction of the style and durability of real marble, at a slightly greater fraction of the price.
@@ -115,9 +115,9 @@ Unknown3: 0x00000000
    [0006E] 0xEF3447D846B7BFE3: Nothing takes a load off better than the Savannah. Contoured to cradle even the orneriest varmint, it’s become the chair of choice for wranglers and buckaroos alike. Relax into a Savannah and you’ll soon know why all’s comfy on the western front.
    [0006F] 0xF90B37219350644D: Something’s rotten in the state of Denmark, but it’s not the furniture. Having cornered the dining chair market, the Scandinavian juggernaut now sets its eyes on living room wares. And the results are devastating, as made evident by the mighty Olafian.
    [00070] 0x2FCB0939DC3ECBC4: A wise man once said, “It’s better to look good than to feel good.” That’s the underlying idea behind the Avant, a chair that brazenly sacrifices function for form. Finally, you can sit and look cool at the same time.
-   [00071] 0x3FAF07FD81A95EDB: This hand-crafted replica of a traditional Mission chair is a welcome addition to any collection. It's simple, but comfortable - in a charmingly familiar, if mildly forgettable way. Buy the... uh... What's-It-Called, today!
+   [00071] 0x3FAF07FD81A95EDB: This handcrafted replica of a traditional Mission chair is a welcome addition to any collection. It's simple, but comfortable — in a charmingly familiar, if mildly forgettable way. Buy the... uh... What's-It-Called, today!
    [00072] 0x97EFA777168CC1B6: Sitting in a Swank living room chair is like throwing a party for your bottom, and everyone is invited. It combines comfort and excitement in a brand-new way, often lulling sitters into a genuine sense of titillating calm and contentment.
-   [00073] 0xF4789CFEE150A32E: Local chair-maker, Peter Piccadilly, has tried selling his hand-crafted living room furniture for years. Sadly, nobody’s buying. Things look bleak for Mr. Piccadilly, so for Pete’s sake, buy a chair before he does something drastic.
+   [00073] 0xF4789CFEE150A32E: Local chair-maker, Peter Piccadilly, has tried selling his handcrafted living room furniture for years. Sadly, nobody's buying. Things look bleak for Mr. Piccadilly, so for Pete's sake, buy a chair before he does something drastic.
    [00074] 0x2558A27A1E4AF448: Enjoy a snooze in style while you bask in the sun or when you're locked out of the house. Don't settle for a lounge that forces you to put it in a reclined position. Lean back into the already reclined slats of this lounger, take a nap, and leave worrying to someone who cares.
    [00075] 0x9BE1786F90AE7440: Before lounge chairs were invented, it was too impractical for most people to lounge about. But now, the market is flooded with everything from armchairs to recliners, and the public is responding. Social idleness is at an all-time high, thanks in part to chairs like the Dawdler.
    [00076] 0xF6E7796AD22B3AC7: Don't keep up with the Jones's outdoor furniture – pass it by! Thanks to time travel technology and misunderstood mission objectives, we now have the Tomorrow Lounger. Relax and lean back to watch the future fly by from the only chair guaranteed to be "in" for the next 200 years!
@@ -161,7 +161,7 @@ Unknown3: 0x00000000
    [0009C] 0xBD2F0ED8BAD72B11: When just a teensy bit of tradition isn't quite enough for you and your lofty standards (or your larger kitchen), the Immemorial Counter Island is the perfect way to meet expectations. Prepare every recipe the right way on the Immemorial Counter!
    [0009D] 0x32D23A78E9CB545D: Your counter, if you choose to accept it, is made of the finest materials. Created to withstand intense chopping, it is also pleasing when spied from the corner of your eye. This counter will not self-destruct in three minutes... or three lifetimes.
    [0009E] 0xEC398BDADFF040C6: Made from the miracle mock-marble material called “marckle,” Real Flat countertops offer a fraction of the style and durability of real marble, at an even greater fraction of the price.
-   [0009F] 0xDB2A3B5C19FC470E: In this ever-changing, ever-growing, fast-paced world, isn’t it nice to just sit back and enjoy some good old dependable traditions? Bring that feeling home with this fantastic counter that's hand-crafted from solid values and comfortable certainties.
+   [0009F] 0xDB2A3B5C19FC470E: In this ever-changing, ever-growing, fast-paced world, isn't it nice to just sit back and enjoy some good old dependable traditions? Bring that feeling home with this fantastic counter that's handcrafted from solid values and comfortable certainties.
    [000A0] 0xC6AF04D505E10CFE: Voted “Most Stylish Crib” by New & Insufferable Parents Weekly, the Rock-a-Baby Crib is the must-have tot cot of the season. With its tulip-tree frame and flamingo down mattress, the Rock-a-Baby is everything babies need to look their sleepy-chic best.
    [000A1] 0x2086298734F13E5A: This crib may not look like much, but it definitely isn't a security fence. The designers envisioned it to be a blank canvas where impressionable young minds can flourish without being inundated with the stereotypical imagery of corporate childhood. This cubicle features solid steel crossbeams for ensured stability, yet plush cushioning ideal for post-lunch naps.
    [000A2] 0x6193084241C1DE3E: This is the Criminal Hideout for your town.
@@ -43741,8 +43741,8 @@ Unknown3: 0x00000000
    [0AAD8] 0xF26B11256C24633D: Overall, I think you did a good job.
    [0AAD9] 0xAAA0EF8962BD5479: I love all those special decorative objects you used.
    [0AADA] 0xB9D298B0EBEB0E60:  Also, I love all those special decorative objects you used.
-   [0AADB] 0x23512AB43DB9ABD3: I love all those hand-crafted objects you used.
-   [0AADC] 0xBDF3B72E9770C0D2:  Also, I absolutely love all those hand-crafted objects you used.
+   [0AADB] 0x23512AB43DB9ABD3: I love all those handcrafted objects you used.
+   [0AADC] 0xBDF3B72E9770C0D2:  Also, I absolutely love all those handcrafted objects you used.
    [0AADD] 0x943FFC2544796D05: How thoughtful of you to use such wonderfully personalized items while decorating!
    [0AADE] 0xAF82274E57D6A70C:  Furthermore, how thoughtful of you to use such wonderfully personalized items while decorating!
    [0AADF] 0x30EB6079FCA30E53: You added way too many electronics for my taste. I’m really a Technophobe.
@@ -77127,7 +77127,7 @@ Unknown3: 0x00000000
    [12D42] 0x50BF3F146C0E37B7: A patch here, some twine there, and it's almost like you have a luxury resort bed!
    [12D43] 0x44E919CDFF72164E: They say beggars can’t be choosers, but you can choose to force your Sim to sleep on this foul pile of trash. Sleep tight; don’t let the bed bugs bite!
    [12D44] 0x398B985489684692: Survival is all about making use of what you already have. Although, prioritizing what you need is another issue. 
-   [12D45] 0x1DE9145AB21B8891: Each chair is made with found objects and tied together with care, an authentic hand-crafted work of art.
+   [12D45] 0x1DE9145AB21B8891: Each chair is made with found objects and tied together with care, an authentic handcrafted work of art.
    [12D46] 0xFD2D63B1834801F0: The Interconnecting Modular Arch is the first of its kind. Its special design allows it to connect to other arches of the same type. The ends will properly mold into the correct column structure whether it is a single piece or combined with another piece to create a corner. Technology these days sure are amazing!
    [12D47] 0xD635866C45031B84: Modular Arches can be linked together to form a series of archways that are uniform in appearance. 
    [12D48] 0x7F50FD49AC886BAA: Putting aside the modern luxuries, a firepit is the perfect tool for roasting foraged foods.
