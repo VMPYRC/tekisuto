@@ -39096,7 +39096,7 @@ Unknown3: 0x00000000
    [098B3] 0xC07BD3F345301747: Tomb Collection - Celtic Burial Site
    [098B4] 0x58F0DEA5BDB345FF: Tomb Collection - Celtic Burial Site Floor Panel
    [098B5] 0xC191EF22D2E3BF04: Tomb Collection - Celtic Burial Site Pangu
-   [098B6] 0x9002F15D245DD089: Tomb Collection - Chateau du Landgraab
+   [098B6] 0x9002F15D245DD089: Tomb Collection - Château du Landgraab
    [098B7] 0x79233A65036C077B: Tomb Collection - Command Center
    [098B8] 0x6B2F1E3D6A6F76E2: Tomb Collection - Copper Quarry
    [098B9] 0x6F47B22B16615C37: Tomb Collection - Criminal HQ
@@ -40442,7 +40442,7 @@ Unknown3: 0x00000000
    [09DF5] 0x8D8EBFD22238B7A7: Ancient Trap Nexus
    [09DF6] 0x0D6139DD90BEE396: Bazaar Basement
    [09DF7] 0x30D7410816E8AB4F: Forgotten Burial Mound
-   [09DF8] 0x88799404EADB8871: Chateau du Landgraab
+   [09DF8] 0x88799404EADB8871: Château du Landgraab
    [09DF9] 0x9779E5A28CFBD7B3: James Vaughan's Command Center
    [09DFA] 0x446143EC498E283A: Copper Quarry
    [09DFB] 0xAAAB9F887786DBF3: Criminal Headquarters
@@ -40480,7 +40480,7 @@ Unknown3: 0x00000000
    [09E1B] 0x6AC0725B629C71A4: A note is scrawled on the wall: "Every good explorer should carry a tent and dried food at all times! The stairs closed behind me, but luckily, I'm prepared. I'm confident I'll find a way out any day now..."
    [09E1C] 0x5106095A2D900E43: You feel a cold draft; there must be a hollow space on the other side of this wall...
    [09E1D] 0x5106095A2D900E40: The statues seem to be arranged as if they were dancing to silent music...
-   [09E1E] 0x5106095A2D900E46: You hear the sound of rusted machinery deactivating across the chateau.
+   [09E1E] 0x5106095A2D900E46: You hear the sound of rusted machinery deactivating across the château.
    [09E1F] 0x5106095A2D900E47: Ever the clever fiend, Landgraab's toilet appears to have deactivated traps in the adjacent hallway.
    [09E20] 0x19004335D353AA5F: Traps suddenly crackle with deadly energy; burglary will not be tolerated!
    [09E21] 0x63BF8647B1D70FED: Flames roar to life, forming a barrier across the entrance. Clearly Landgraab was a man who enjoyed his privacy.
@@ -84130,7 +84130,7 @@ Unknown3: 0x00000000
    [1489D] 0x14F1C7BB7FC04693: Cobalt Codex Bookshelf
    [1489E] 0xF0C9C7ACDCE09F70: Deep Stacks Double Bookshelf
    [1489F] 0x57C2DB53357655EC: BiblioVault Bookshelf by Corebital Designs
-   [148A0] 0xF0071DC452FFCEB0: Chateau Bookshelf
+   [148A0] 0xF0071DC452FFCEB0: Château Bookshelf
    [148A1] 0x002FD33532EBA477: Workman's Shelf
    [148A2] 0x1DC437D1A2297549: FormFunk B-Shelf
    [148A3] 0x1DC437D1A229754A: FormFunk G-Shelf
@@ -84768,7 +84768,7 @@ Unknown3: 0x00000000
    [14B1B] 0xABEBB049B8D0A44B: Morrigan’s Star Gazer
    [14B1C] 0xE658902F07538D8D: Turtle Terrarium
    [14B1D] 0x3288B8BD2A447B66: The Seat of Romance
-   [14B1E] 0x4B7DD02C4D5F1B87: Chateau Toy Box
+   [14B1E] 0x4B7DD02C4D5F1B87: Château Toy Box
    [14B1F] 0x79944E0CE1F90B81: Dashing Training Posts
    [14B20] 0x1A30EF1283E8A519: Well-Kept Municipal Trash Can
    [14B21] 0x20399FBEBAA30016: Triple Stack Trashcan

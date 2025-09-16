@@ -801,7 +801,7 @@ Unknown3: 0x00000000
    [31C] 0x7DEBD019DCB0D254: Modest Manse - 4 br, 2 ba
    [31D] 0x7DEBD019DCB0D255: Commuter Comforts - 4 br, 3 ba
    [31E] 0x7DEBD019DCB0D252: Boxy Bastion - 4 br, 3.5 ba
-   [31F] 0x7DEBD019DCB0D253: Cascading Chateau - 5 br, 4.5 ba
+   [31F] 0x7DEBD019DCB0D253: Cascading Château - 5 br, 4.5 ba
    [320] 0x7DEBD019DCB0D250: Middlebrow Minuteman - 4 br, 2.5 ba
    [321] 0x7DEBD019DCB0D251: Albert’s Aerie - 4 br, 3.5 ba
    [322] 0x7DEBD019DCB0D25E: Middle Manor - 4 br, 3 ba
