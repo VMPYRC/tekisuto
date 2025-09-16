@@ -35251,7 +35251,7 @@ Unknown3: 0x00000000
    [089AE] 0x48567B30D2AF753D: This house has a friendly, neighborly air about it. Come sit on the porch or gazebo and have some lemonade.
    [089AF] 0x3EAB9E725C7AB9A3: Based on a time-honored design usually executed in gingerbread and icing, this little Victorian cottage is suitable for a young couple or the extremely unfashionable single seeking to stay that way.
    [089B0] 0x393F38036310C0E1: Antiquated Victorian elegance has been preserved exquisitely in this landmark home. The first home built in this town, Goth Manor presides over the town and is located in convenient proximity to the local graveyard.
-   [089B1] 0xC6BA5676132E5D2D: This Arts and Crafts style home is family friendly with large rooms throughout its three stories. It features several porches and a sizable back yard with a spacious garden.
+   [089B1] 0xC6BA5676132E5D2D: This Arts and Crafts style home is family friendly with large rooms throughout its three stories. It features several porches and a sizable backyard with a spacious garden.
    [089B2] 0xA9296B6BFB78913F: Simple, straightforward living space with ample view-framing windows, crackling fireplace, and a bonus loft characterize this compact home.
    [089B3] 0x232CEFC3A1D01525: An elegant home on the most exclusive circle in town, this stately manor resounds with grandeur. Four fireplaces, a massive kitchen, formal and informal living areas, a large custom pool, two-car garage, and elegant neoclassical landscaping round out its elegant features.
    [089B4] 0xAEECB408E69CF7A3: This prestigious home on a prime piece of real estate is perfect for the elite modern life. Amenities include his and hers master bathrooms, spacious vaulted living area, two pools, media loft, and extensive wrap-around decks that enjoy commanding views.
@@ -35745,7 +35745,7 @@ Unknown3: 0x00000000
    [08B9C] 0xAA66091CEB23A812: wall segment upper france post description needs text
    [08B9D] 0xBC7E711CF59BAF44: wall segment upper france rail description needs text
    [08B9E] 0x8D2CFD09E000A356: wall tall gate china description needs text
-   [08B9F] 0xBFE9AE76B5795D2A: These Water Lilly Lanterns are great for setting that party atmosphere in your back yard. Try floating them in your pond or swimming pool to set the mood even more (and please ignore the reports of pools being set on fire when the lanterns are sucked into the filter).
+   [08B9F] 0xBFE9AE76B5795D2A: These Water Lilly Lanterns are great for setting that party atmosphere in your backyard. Try floating them in your pond or swimming pool to set the mood even more (and please ignore the reports of pools being set on fire when the lanterns are sucked into the filter).
    [08BA0] 0xC1EA14ACC69E736D: water river upper china description
    [08BA1] 0x44704F073693D1D7: water river upper china 2 description
    [08BA2] 0xF9F413F41E7F8D9C: Amy Test Object
