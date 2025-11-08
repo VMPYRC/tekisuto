@@ -1507,7 +1507,7 @@ Unknown3: 0x00000000
    [5DE] 0x215D4A4B03802AA7: Ballot Buffoonery
    [5DF] 0x0406CC8BABE9D073: Snoop for Clues
    [5E0] 0xAE695FBA0CE6C0EB: {OpTarget} now has the evidence to contest the election. I'm sure the newspapers will have a field day with this scandal. I'm glad I did my part for local democracy. Case closed.
-   [5E1] 0xB0F132C657CAF271: Half the voters on the rolls are located in the cemetary. Last time I checked, the dead don't get a say in elections. Unless the local government has approved a law for absentee death voting, I think I've solved this case. I should report to {OpTarget}.
+   [5E1] 0xB0F132C657CAF271: Half the voters on the rolls are located in the cemetery. Last time I checked, the dead don't get a say in elections. Unless the local government has approved a law for absentee death voting, I think I've solved this case. I should report to {OpTarget}.
    [5E2] 0xAC15CD3341C0016A: "Report Findings" to {OpTarget}
    [5E3] 0x764DFA3322C61304: Ballot Buffoonery
    [5E4] 0xFC7EE235D8C7A5F0: Report Findings
