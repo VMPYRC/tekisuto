@@ -3815,7 +3815,7 @@ Unknown3: 0x00000000
    [00EE2] 0x9C9071A9D19C7FBC: Science... 
    [00EE3] 0x4190114C6522F3F8: Science Geek
    [00EE4] 0xA1D7CA6AF9E34B24: Set Career... 
-   [00EE5] 0x5F8BA2BE7A2394A0: This sim does not age.
+   [00EE5] 0x5F8BA2BE7A2394A0: This Sim does not age.
    [00EE6] 0xBD6AFC2452869B8D: Social Worker Adoption
    [00EE7] 0x3B826E534031C018: Social Worker Child Protection
    [00EE8] 0x7EE7A0B0BC03503A: Special Agent... 
@@ -16637,7 +16637,7 @@ Unknown3: 0x00000000
    [040F8] 0xCFA56CA332A1BDDB: The bartender needs a test subject to try a new fruit cocktail he's working on... it will be on the house of course. Are you game?
    [040F9] 0xEEFEA3BF84A367C4: The bartender seems disappointed, but hands you a fruit he would have used to make the drink.
    [040FA] 0x0948EFA1E17F6EB3: Don't Try the Cocktail
-   [040FB] 0x5AB81D7BF4174586: The bartender mixes a myriad of fruits in a flurry and hands you a misting glass. It's one of the best drinks your sim has ever had! You feel amazing!
+   [040FB] 0x5AB81D7BF4174586: The bartender mixes a myriad of fruits in a flurry and hands you a misting glass. It's one of the best drinks your Sim has ever had! You feel amazing!
    [040FC] 0x23F160E363FBB285: Try Experimental Cocktail
    [040FD] 0x23DB88F2A131EAA2: When your food arrives, it isn't what you'd ordered. Do you kindly send it back, or keep it and eat up?
    [040FE] 0xF93F61238A269CF3: Your waitress apologizes and brings you the correct meal. With a wink, she tells you you'll be dining for free.
@@ -35073,7 +35073,7 @@ Unknown3: 0x00000000
    [088FC] 0xCDDCACFF2D51A3D6: Arnett
    [088FD] 0x63342557AF045878: Used by Lighting Swat
    [088FE] 0x3DA7BD81BEAE39C4: world used to verify objects
-   [088FF] 0x6FC88CC32F9E1E41: Cyriaque uses it for steering and routing because it only has one sim.
+   [088FF] 0x6FC88CC32F9E1E41: Cyriaque uses it for steering and routing because it only has one Sim.
    [08900] 0x1282C01369500088: Used for memory and performance tests
    [08901] 0x74C488D90BBCC711: xcut - 18 Maywood Lane
    [08902] 0xF540496772B8CCC1: 230 Redwood Pkwy
@@ -38349,7 +38349,7 @@ Unknown3: 0x00000000
    [095C8] 0xBD68A724D82A1AC9: Grape Vine
    [095C9] 0x1E767A1B6CE79B8C: Cranerlet Nuala Grape Vine
    [095CA] 0x65C3989AB62C7221: Grocery Store
-   [095CB] 0x8A52ED4E990E4018: A sleeping sim and a guitar at night
+   [095CB] 0x8A52ED4E990E4018: A sleeping Sim and a guitar at night
    [095CC] 0x616B26B75C2D22B7: The Guitar Gently Sleeps
    [095CD] 0x5E97A7C879CCCB24: Guitar
    [095CE] 0xAD50A128DD9A6D91: Gym
@@ -38623,7 +38623,7 @@ Unknown3: 0x00000000
    [096DA] 0xA24B97576E83FFF6: Tall Gate
    [096DB] 0xF25BB47E3333850E: Television
    [096DC] 0xFCAF79BE51BE923D: Town Theater
-   [096DD] 0x3E89FC198BD0F56B: A sim with two other friends in a romantic relationship.
+   [096DD] 0x3E89FC198BD0F56B: A Sim with two other friends in a romantic relationship.
    [096DE] 0x4D143480D1AEB6EA: Third Wheel
    [096DF] 0x661772BD6F413C48: Third Wheel
    [096E0] 0x660D98D7F2D52446: Three of My Friends
@@ -41784,7 +41784,7 @@ Unknown3: 0x00000000
    [0A333] 0xEF4565C5A78D25E8: Can't join basements at different heights
    [0A334] 0x495B1AF13BBCA29B: Can't place on the boundary wall of a basement
    [0A335] 0x42B4C1F025992FB1: Basement removal blocked by object
-   [0A336] 0xABA7B72DA8BD4978: Basment removal blocked by sim
+   [0A336] 0xABA7B72DA8BD4978: Basment removal blocked by Sim
    [0A337] 0xE5D9825E34C6D4BD: Basement removal blocked by stairs
    [0A338] 0xF07E28FDDB3B4336: Vehicle can only be placed in a vacant parking space.
    [0A339] 0x41C42B6907FF407D: Tile needs to be cleaned before it can be changed 
@@ -45544,7 +45544,7 @@ Unknown3: 0x00000000
    [0B1E3] 0x6B1D2F4A625906CF: Every phrase was an enigma. Codes like “The eagle spies the glass house,” “The spatula has yet to flip,” and “I’m about to drive through a tunnel.” Are all but too common in my... hold on... hello? Hello?
    [0B1E4] 0x194AD77D429624FB: Call Intelligence Agency
    [0B1E5] 0x2BA07CAEE7F24A53: I was assured my case was priority one; however, my call was priority nine. The hold music was catchy if gratuitous.
-   [0B1E6] 0x962AF7DC90F0AEC5: Cannot request unpaid time off when the sim already has days off.
+   [0B1E6] 0x962AF7DC90F0AEC5: Cannot request unpaid time off when the Sim already has days off.
    [0B1E7] 0xE1A6B33DC4395F76: {0.Number} day(s)
    [0B1E8] 0xCA4AE7712F05E811: Requesting Time Off
    [0B1E9] 0x1AFAEE40296BC489: Cannot request time off immediately after the unpaid time off is over.
@@ -49601,7 +49601,7 @@ Unknown3: 0x00000000
    [0C1BC] 0x1EC0677EB45FF107: You cannot plan outfit while in a towel.
    [0C1BD] 0xB7C17A037D1F0518: Dance On Table
    [0C1BE] 0x9A4005FE98A995AF: Failed to summon the ghost since we could not find good location to spawn.
-   [0C1BF] 0x4BE7F82A316DCEA0: No sim matches the Urnstone's ObjectId.
+   [0C1BF] 0x4BE7F82A316DCEA0: No Sim matches the Urnstone's ObjectId.
    [0C1C0] 0x4EC961C44588F1A2: There are no instantiated Sims in the world.
    [0C1C1] 0xB1EFECB0D8C73C5E: Summon {0.String}
    [0C1C2] 0x4B0F9AF943184CEB: Unsummon {0.String}
@@ -59175,7 +59175,7 @@ Unknown3: 0x00000000
    [0E722] 0xC61691739A71A336: Take your dreams of riding off into the sunset one step at a time. First step--getting on the horse--completed!
    [0E723] 0x0A24CC68D441F0C9: Rode a Horse
    [0E724] 0xD5D3752650B51DED: {2.SimName} just rode a horse for the first time! {MA.He}{FA.She} will always remember how it felt to look down at the world from the back of a horse.
-   [0E725] 0xF1F896C9A7C2402D: sim rode $horse
+   [0E725] 0xF1F896C9A7C2402D: Sim rode $horse
    [0E726] 0x49F88793580A9EFD: The first time a horse allows a Sim on its back is a very special moment for both of them!
    [0E727] 0xDDA789C3EB8E50A8: Ridden by a Sim
    [0E728] 0xB3FACCEF020938A4: {2.SimName} was just ridden by a Sim for the first time! {MA.He}{FA.She}'ll never forget the way it felt to carry a Sim on {MA.his}{FA.her} back!
@@ -59183,11 +59183,11 @@ Unknown3: 0x00000000
    [0E72A] 0x5FCA4F6A18537238: Riding a horse without a saddle makes a Sim feel pretty hardcore!
    [0E72B] 0x600E7BDD6971E557: Rode a Horse Bareback
    [0E72C] 0x873EFCECEC4FF44F: {2.SimName} just rode a horse bareback for the first time! Sans saddle--that's hardcore!
-   [0E72D] 0x64D260254CB335BF: sim rode $horse bareback
+   [0E72D] 0x64D260254CB335BF: Sim rode $horse bareback
    [0E72E] 0xE1D63D984EBB4087: While some pets show love by licking their Sims' faces or nickering at them, you took the more subtle approach and flip-flopped around on their feet before they noticed you were there!
    [0E72F] 0xEE2CA5CCF16EA63E: Marked a Sim
    [0E730] 0xD6F9863047B7510E: {2.SimName} just marked {1.SimName}! {MA.He}{FA.She}'ll always remember the bond that was formed with {1.SimName} when {MA.he}{FA.she} rubbed {MA.his}{FA.her} head against {MB.his}{FB.her} foot.
-   [0E731] 0x0E9A5F3D8D54E4AE: mark sim
+   [0E731] 0x0E9A5F3D8D54E4AE: Mark Sim
    [0E732] 0x5963FE1DD4E6DEA9: Reading books, watching TV, and having one-sided conversations are just many examples of techniques you've used to teach your bird how to talk. Thankfully it all paid off!
    [0E733] 0xC8C1EA13710D824C: Taught a Bird How to Talk
    [0E734] 0xCE8FABBB71B0E748: {2.SimName} just taught a bird how to talk! {MA.He}{FA.She}'ll never forget this proud moment as all that hard work and speech training finally paid off!
@@ -59786,7 +59786,7 @@ Unknown3: 0x00000000
    [0E985] 0x909E01513DEBF214: Cheap Facial Beautification - {1.Money}
    [0E986] 0xFBE348F6A42D810E: Expensive Facial Beautification - {1.Money}
    [0E987] 0xBAF05452A43DE94F: School...
-   [0E988] 0x5AC117862A5A19CC: This horse cannot be cloned while a sim is riding it.
+   [0E988] 0x5AC117862A5A19CC: This horse cannot be cloned while a Sim is riding it.
    [0E989] 0x156C33FBD5D49E9D: Science Lab...
    [0E98A] 0x08AA1D16656C23E5: Watch Equestrian Competition ({0.Money})
    [0E98B] 0x9BB87CC6FD77AAD9: Watch Equestrian Competition With Date ({0.Money})
@@ -63256,7 +63256,7 @@ Unknown3: 0x00000000
    [0F713] 0x97D6AA128D2F8A5B: It's so exciting to see so many visiting performers in your hometown!
    [0F714] 0xA7E1679F38C754BA: Hosted Sims in All Venues
    [0F715] 0x77C771522DBBDC4A: Tonight, {2.SimFirstName} really felt the energy that comes from living in a town that hosts so many prestigious performers. It's been so amazing to see all of these visiting acts around town!
-   [0F716] 0xA583D7351F1A96A2: @@ host a sim in all venues
+   [0F716] 0xA583D7351F1A96A2: @@ host a Sim in all venues
    [0F717] 0xBC9ACE4B994127E0: Dominoes is a game of strategy and skill, with a hint of luck, and it's definitely the most fun when played with a full table of four players!
    [0F718] 0x79629BB48ED31C4F: Played a Four-Player Game of Dominoes
    [0F719] 0xD558C0F3B06C3217: Dominoes may just be {2.SimFirstName}'s favorite game. The strategies involved with a full table of players are something to remember!
@@ -66181,7 +66181,7 @@ Unknown3: 0x00000000
    [10280] 0x4F9FABA7BC398F2B: Hold a Psychic Convention
    [10281] 0xE46033BE12A6B12C: Hold a Psychic Convention
    [10282] 0xC325CDF0C9BB57E8: Hold a Psychic Convention
-   [10283] 0x044658D04D5D4EDD: Playing with magic is a fun way to learn new spells. Your sim wants to whip out a wand and play with the mystical forces of the universe!
+   [10283] 0x044658D04D5D4EDD: Playing with magic is a fun way to learn new spells. Your Sim wants to whip out a wand and play with the mystical forces of the universe!
    [10284] 0x508D3EA59CA90C80: Play With Magic
    [10285] 0x998FFD149270A76D: Play With Magic
    [10286] 0xD797A286423A2137: Play With Magic
@@ -68467,7 +68467,7 @@ Unknown3: 0x00000000
    [10B6E] 0x18EC11D185EE6683: Turning someone into a toad is always a life altering experience… for them!
    [10B6F] 0xE74393432D923D52: Toadified a Sim
    [10B70] 0x4B65FD051A944052: {2.SimName} just turned a Sim into a toad! It’s all fun and games until someone turns green and starts catching flies with their tongue. {MA.He}{FA.She} will always remember the look on the other Sim’s face right before their eyes bulged out!
-   [10B71] 0x28A836AAD62CE21A: toadify a sim
+   [10B71] 0x28A836AAD62CE21A: Toadify a Sim
    [10B72] 0x8AE2A31B39159C8E: Being turned into a block of ice can leave a Sim feeling pretty blue. Good thing it was only temporary!
    [10B73] 0xF7F0A0EF2E22E111: Got Frozen Solid
    [10B74] 0x2E09FBB902A3C545: So this is what a block of ice feels like. {2.SimName} got frozen solid for the first time, and found it to be a rather chilling experience. A Fire Blast spell would feel great right about now!
@@ -68523,7 +68523,7 @@ Unknown3: 0x00000000
    [10BA6] 0xE0B36C613C2145C5: A good trick can really spice up a dull day. Maybe not so much for the Sim being tricked, but for the fairy pulling off the trick, it’s a barrel of laughs!
    [10BA7] 0x9638002FDFBE1100: Tricked a Sim
    [10BA8] 0xF81E3B96B05558AC: Hah! {2.SimName} got the last laugh thanks to a great fairy trick! {MA.He}{FA.She} couldn’t believe someone would actually fall for that.
-   [10BA9] 0x8B4EB4F839CEC3CC: Pranked a sim shared post
+   [10BA9] 0x8B4EB4F839CEC3CC: Pranked a Sim shared post
    [10BAA] 0x0DA7F36BA2676243: It takes real dedication to the alchemy craft to reach this level of mastery and finally be called an Alchemy Artisan. 
    [10BAB] 0x597FB02023B86412: Became Alchemy Artisan
    [10BAC] 0x09F67378171C6712: {2.SimName} did it! {MA.He}{FA.She} never thought the day would come that {MA.he}{FA.she} could be called an Alchemy Artisan. It took a lot of elixirs to reach this point, but it was a great journey!
@@ -68551,35 +68551,35 @@ Unknown3: 0x00000000
    [10BC2] 0x741626862D22F390: It’s a delightful experience to watch the perfect blend of ingredients come together to make an elixir.
    [10BC3] 0xB69759EB0A1D9EDF: Created First Elixir
    [10BC4] 0x6909C87C3DB1E727: Behold! {2.SimName} just created {MA.his}{FA.her} first elixir! Toiling over the Alchemy Station reaped its rewards. Now {2.SimFirstName} just needs to find a “willing” test subject!
-   [10BC5] 0xA27A9CBA95963667: sim created their first alchemy object
+   [10BC5] 0xA27A9CBA95963667: Sim created their first alchemy object
    [10BC6] 0xAE87430F70514FB8: Knowledge is power, especially when that knowledge involves powerful elixirs with the power to change a Sim’s life!
    [10BC7] 0x731B7AC39D0235D7: Learned First Elixir Recipe
    [10BC8] 0x502E7EE170AF54CF: The studying paid off and {2.SimName} learned {MA.his}{FA.her} first elixir recipe! It’s just a first step in the long adventurous journey of becoming an Alchemy Artisan, but everyone has to start somewhere.
-   [10BC9] 0x60F20BAAAE98223F: sim learned their first alchemy recipe
+   [10BC9] 0x60F20BAAAE98223F: Sim learned their first alchemy recipe
    [10BCA] 0x3093313DA6B91E07: Who knows the trouble that could be caused with a double running around! With the Clone Drone Elixir, you can find out!
    [10BCB] 0x0139A4B324FEF6BE: Created Clone Drone Elixir
    [10BCC] 0x9FE90824CC16B18E: One Sim, two Sims, three Sims… When will it end? {2.SimName} just created {MA.his}{FA.her} first Clone Drone Elixir, and now {MA.he’ll}{FA.she’ll} have to decide if {MA.he}{FA.she} dares to use it!
-   [10BCD] 0x0ABA0AC2EF39D12E: sim has created clone drone potion
+   [10BCD] 0x0ABA0AC2EF39D12E: Sim has created Clone Drone Potion
    [10BCE] 0x40887D64A7C5A072: The dream of the golden touch has finally arrived! Everything looks better when made out of gold.
    [10BCF] 0x5134D2DF027C95ED: Created Midas Touch Elixir
    [10BD0] 0x81E47373436554D1: The power to grant the Midas Touch is the stuff of legends, but {2.SimName} has captured that legend in a bottle! {2.SimFirstName} will always remember the day that {MA.he}{FA.she} finally managed to create the elixir! So many objects to turn to gold, so little time… 
-   [10BD1] 0x794E77451FB98489: sim has created midas touch potion
+   [10BD1] 0x794E77451FB98489: Sim has created Midas Touch Potion
    [10BD2] 0xA820F1C32CE4BC29: Tragic clowns are just so… tragic… There is no escape from the tragedy that comes from making an Origin of the Tragic Clown elixir.
    [10BD3] 0xDBCEE8F9A49DD2CC: Created Origin of the Tragic Clown Elixir
    [10BD4] 0x977F2DAFF61047C8: {2.SimName} can feel the tragedy radiating off this elixir. {MA.He’s}{FA.She’s} not quite sure what made this elixir so tragic, but now {MA.he}{FA.she} knows exactly how much effort and tragedy go into making it!
-   [10BD5] 0x7DAC1872B6106BC0: sim has created origin of the tragic clown potion
+   [10BD5] 0x7DAC1872B6106BC0: Sim has created Origin of the Tragic Clown Potion
    [10BD6] 0xA5693560080C4CA4: Making elixirs is hard work, but the end result is generally worth it. Creating an Opposite Personality Elixir for the first time is no opposite!
    [10BD7] 0x60E0F6E807A5078B: Created Opposite Personality Elixir
    [10BD8] 0xB050FE1C02F4EB83: Up is down, black is white, and so on and so forth. {2.SimName} created a powerful elixir to apply these principles to a Sim’s personality.
-   [10BD9] 0x7166F7D8C0580AAB: sim has created opposite personality potion
+   [10BD9] 0x7166F7D8C0580AAB: Sim has created Opposite Personality Potion
    [10BDA] 0x8264D1535BD97EE3: An elixir powerful enough to turn a Sim into mindless, brain feeding zombie is a great addition to any alchemist’s elixir collection.
    [10BDB] 0x1A3720D8CA59D132: Created Zombification Elixir
    [10BDC] 0x6E8FC5EEDF7F6832: Now {2.SimName} has done it. {MA.He’s}{FA.She’s} just concocted a Zombification elixir capable of sparking a zombie apocalypse! {MA.He}{FA.She} won’t forget this day, and likely neither will the rest of the world… 
-   [10BDD] 0xADBFC3C1BA92C6FA: sim has created zombified potion
+   [10BDD] 0xADBFC3C1BA92C6FA: Sim has created Zombified Potion
    [10BDE] 0xDF3406979F1C7185: Creating multiple elixirs for the price of one is sure to make any alchemist proud!
    [10BDF] 0xD8F645BB7DE7A9C0: Created a Batch of Elixirs
    [10BE0] 0xBC1F8747C2C7F46C: {2.SimName} has been quite the busy Sim! {MA.He}{FA.She} sure put that alchemy station to good use in creating a batch of elixirs instead of just one.
-   [10BE1] 0xFA73252F395D518C: sim has created a batch of potions
+   [10BE1] 0xFA73252F395D518C: Sim has created a batch of potions
    [10BE2] 0x386DD1E5408021CF: It takes a lot of work to become a Master of the Dark Arts, but once you do… Whoa, boy, those other Sims better watch out! DO NOT TRANSLATE
    [10BE3] 0x41D15D9480331A96: Fulfilled Master of the Dark Arts DO NOT TRANSLATE
    [10BE4] 0x58FC8C129210DB76: {2.SimName} has been casting curses like they’re going out of style! The journey may not have been pleasant for other Sims, but {2.SimName} got through it just fine. Other Sims would be wise to bow to the Master of the Dark Arts! DO NOT TRANSLATE
@@ -76142,7 +76142,7 @@ Unknown3: 0x00000000
    [12969] 0x8A127FA2FA7285FB: requires a gene splicing sample DO NOT TRANSLATE
    [1296A] 0x5096A57F5B09004B: {0.SimName} has failed in {MA.his}{FA.her} Gene-Splicing Experiment and left the {1.String} unaltered.
    [1296B] 0xAAC691BB38DD7290: {0.SimName} has succeeded in {MA.his}{FA.her} Gene-Splicing Experiment and changed the {1.String} into the {2.String}.
-   [1296C] 0x2C8576BA95313058: Herbal Epic Fail! {0.SimName} did about as poorly as a sim could possibly do. The {1.String} was destroyed in the process.
+   [1296C] 0x2C8576BA95313058: Herbal Epic Fail! {0.SimName} did about as poorly as a Sim could possibly do. The {1.String} was destroyed in the process.
    [1296D] 0xC21914C0981F3465: Herbal Epic Success! {0.SimName} was able to capture the essence of all things herbal and transmute the {1.String} into a Bottle of Super Spice.
    [1296E] 0x8CD54385FA9CDF7B: Herbal Fail! {0.SimName} set botany back a few years. The quality of the {1.String} was decreased to {2.String}.
    [1296F] 0xA0026703292BBE84: Herbal Success! {0.SimName} took the {1.String} and increased its quality to {2.String}! 
@@ -77967,7 +77967,7 @@ Unknown3: 0x00000000
    [1308A] 0x0DF2FCE863AC6CE5: Lungs of Steel
    [1308B] 0x62AEF7B86785D341: Go Scuba Diving without the fear of running out of air. 
    [1308C] 0xC90CC460540012CE: Mermadic Kelp
-   [1308D] 0x293FF08FE82C5D44: Gives you a bite-sized bit of Mermadic Kelp strong enough to bring out the fish in any sim.
+   [1308D] 0x293FF08FE82C5D44: Gives you a bite-sized bit of Mermadic Kelp strong enough to bring out the fish in any Sim.
    [1308E] 0x8FE2521899291285: Mermaid
    [1308F] 0x2C5531159A55034C: Permanent Mermaid
    [13090] 0x5C01B9CCE12081DA: Your Mermaid Sim no longer needs frequent swimming sessions in order to maintain {MA.his}{FA.her} fish-like features.
@@ -78042,7 +78042,7 @@ Unknown3: 0x00000000
    [130D5] 0x2D53EB47E2147E8B: No treasure is too dangerous for you to find. The riches you've accumulated has made you stand out as an expert diver!
    [130D6] 0x7EFAAF9B244BBB8A: Deep Sea Salvager
    [130D7] 0xCCA17E0E9F50B0DA: {2.SimName} has maxed {MA.his}{FA.her} diving skill and sold §{0.Number} worth of collectibles. OUTSTANDING!
-   [130D8] 0x0F9B2AC089D186AF: Falling is just part of learning. Keep at it and your sim will be an expert wind surfer in no time. 
+   [130D8] 0x0F9B2AC089D186AF: Falling is just part of learning. Keep at it and your Sim will be an expert wind surfer in no time.
    [130D9] 0x4CFAED7E2FE1E5F6: Fell Off The Board
    [130DA] 0x1235B43F6B8D69D6: {2.SimName} will never forget that first wipeout from windsurfing. 
    [130DB] 0x6D5B3D2DD989126B: Scuba diving is all about timing. Spend too much time underwater and the consequences may be permanent. 
