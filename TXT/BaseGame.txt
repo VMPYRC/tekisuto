@@ -12202,8 +12202,8 @@ Unknown3: 0x00000000
    [02FA5] 0x310A54B9642A0974: Compete in Showdown at the Theater.
    [02FA6] 0x905BBC5762613477: Compete in Showdown at the Theater.
    [02FA7] 0xCE7D1CED2ADE2AB3: You fretted and strummed your heart out, but victory was not to be on this day. You left with second place, but at least it came along with a cash prize.
-   [02FA8] 0x766CE10C87705274: Your performance with the symphony was so good they just might consider offering you the job full time! Here’s some cash to thank you for your help!
-   [02FA9] 0xE46BA46D6263A777: Your performance with the symphony was so good they just might consider offering you the job full time! Here’s some cash to thank you for your help!
+   [02FA8] 0x766CE10C87705274: Your performance with the symphony was so good they just might consider offering you the job full-time! Here's some cash to thank you for your help!
+   [02FA9] 0xE46BA46D6263A777: Your performance with the symphony was so good they just might consider offering you the job full-time! Here's some cash to thank you for your help!
    [02FAA] 0xE9BA6ABD33F11260: The local symphony’s guitarist is injured with carpal tunnel syndrome and needs to sit out from their upcoming performance. The symphony wants you to come in as back up and they’re willing to pay you for your time.
    [02FAB] 0x38004236567C577B: The local symphony’s guitarist is injured with carpal tunnel syndrome and needs to sit out from their upcoming performance. The symphony wants you to come in as back up and they’re willing to pay you for your time.
    [02FAC] 0xF3A4AA67E17A4BDC: Well, this certainly won’t be known as one of the symphony’s best performances, especially with the guitar player completely absent. Way to drop the strings on this one!
@@ -13417,10 +13417,10 @@ Unknown3: 0x00000000
    [03464] 0xD84748ECEE6CDD7A: Becoming More Logical
    [03465] 0x71D453C608941E4F: Gain a level in Logic and report in at the Science Lab.
    [03466] 0xA79FF936162ED19E: Gain a level in Logic and report in at the Science Lab.
-   [03467] 0xE01CD9E626E5BDA0: The students enjoyed your presentation so much that the school board has reconsidered hiring a full time Logic professor. Though this doesn’t bode well for your continued success as a guest lecturer, this money should tide you over for the time being.
-   [03468] 0xAA29237D66875FBB: The students enjoyed your presentation so much that the school board has reconsidered hiring a full time Logic professor. Though this doesn’t bode well for your continued success as a guest lecturer, this money should tide you over for the time being.
-   [03469] 0x3EFA737781F46344: The School had to scale back on costs and cut back on the full time Logic staff. Fortunately, they have enough money set aside to pay for guest lecturers. You’ve been invited to speak at the School about the importance of a good foundation in Logic. You’ll be well paid for your time.
-   [0346A] 0xA6794757A486DF07: The School had to scale back on costs and cut back on the full time Logic staff. Fortunately, they have enough money set aside to pay for guest lecturers. You’ve been invited to speak at the School about the importance of a good foundation in Logic. You’ll be well paid for your time.
+   [03467] 0xE01CD9E626E5BDA0: The students enjoyed your presentation so much that the school board has reconsidered hiring a full-time Logic professor. Though this doesn't bode well for your continued success as a guest lecturer, this money should tide you over for the time being.
+   [03468] 0xAA29237D66875FBB: The students enjoyed your presentation so much that the school board has reconsidered hiring a full-time Logic professor. Though this doesn't bode well for your continued success as a guest lecturer, this money should tide you over for the time being.
+   [03469] 0x3EFA737781F46344: The School had to scale back on costs and cut back on the full-time Logic staff. Fortunately, they have enough money set aside to pay for guest lecturers. You've been invited to speak at the School about the importance of a good foundation in Logic. You'll be well paid for your time.
+   [0346A] 0xA6794757A486DF07: The School had to scale back on costs and cut back on the full-time Logic staff. Fortunately, they have enough money set aside to pay for guest lecturers. You've been invited to speak at the School about the importance of a good foundation in Logic. You'll be well paid for your time.
    [0346B] 0x6952D633925F291D: “Teach Logic Class” at the School to earn some money.
    [0346C] 0x00E8BDCDBF7E0F98: “Teach Logic Class” at the School to earn some money.
    [0346D] 0x77FE293399EDC4AB: Logic 101

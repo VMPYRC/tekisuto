@@ -935,7 +935,7 @@ Unknown3: 0x00000000
    [3A2] 0xDBB84609DEF8610E: Varadi
    [3A3] 0x221CE1AA0A35AF84: A retired fisherman and avid scuba diver Andrei has dedicated his life to what lives under the waves…
    [3A4] 0xF3ABA0C88D3B0E17: Vidal
-   [3A5] 0x90279D3E77059663: Valerie has her hands full as a single mom with two teenage sons and a full time career. Between work, family obligations, and her hobbies there is very little time for romance…but the heart wants what it wants, is a new relationship on the horizon?
+   [3A5] 0x90279D3E77059663: Valerie has her hands full as a single mom with two teenage sons, and a full-time career. Between work, family obligations, and her hobbies there is very little time for romance..., but the heart wants what it wants, is a new relationship on the horizon?
    [3A6] 0x001D4EC2DCFBE1C4: Walsh
    [3A7] 0x6BDDEE329DAF1E4A: Yee
    [3A8] 0xCF45B6DEAA55BCB8: Adalia
