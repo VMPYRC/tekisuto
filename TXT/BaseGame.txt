@@ -35042,7 +35042,7 @@ Unknown3: 0x00000000
    [088DD] 0xB047CC720F3CCC11: Used by artists to preview their assets
    [088DE] 0x2042A23DC423B224: Art Test World 2
    [088DF] 0xBFF3DC5F54CC30A5: Has two maximum size lots (64x64). One is empty and the other contains every object TYPE in the base game except for lifetime reward objects.
-   [088E0] 0x5ADB8671FCBA4A5D: Very simple world, 2 empty lots and not sims. Good for testing and a perennial favorite amongst the engineering team.
+   [088E0] 0x5ADB8671FCBA4A5D: Very simple world, 2 empty lots and not Sims. Good for testing and a perennial favorite amongst the engineering team.
    [088E1] 0x38EB454991ED2B88: Venkat's World
    [088E2] 0x78B54046B28485E6: Lightweight world used by CAS people to test
    [088E3] 0x8D150B5A298D8D06: Duck Test World, where you can check to see if paid content is still in your Sim's inventory.
@@ -39920,7 +39920,7 @@ Unknown3: 0x00000000
    [09BEB] 0xE4E401559C475ABA: Eat At Restaurant on the Top
    [09BEC] 0x908D8D6E1F1DCF97: Cost So Far: {0.Money}
    [09BED] 0xDDC3D27B458D35D4: The {0.String} family can't afford the cost of the elevator. A bill will be sent to their home.
-   [09BEE] 0x9779180E8BBE54E6: You will only be charged for sims in your household
+   [09BEE] 0x9779180E8BBE54E6: You will only be charged for Sims in your household.
    [09BEF] 0x9B8307770A4EDF2D: Make Out With
    [09BF0] 0x63D9CA0DAE346FC6: Take Elevator To Top
    [09BF1] 0x08A23143BDCF9B0A: Take Elevator To Top With
@@ -41175,7 +41175,7 @@ Unknown3: 0x00000000
    [0A0D2] 0x7FF7D237F0EF1B8E: Number of fruits used to make nectar: {0.Number}
    [0A0D3] 0x1D1BA8CB1B9CE44F: Number of bottles made: {0.Number}
    [0A0D4] 0x134BBB3373AE8767: Number of glasses had: {0.Number}
-   [0A0D5] 0xD64920DFB7A8ECA0: Number of sims served: {0.Number}
+   [0A0D5] 0xD64920DFB7A8ECA0: Number of Sims served: {0.Number}
    [0A0D6] 0x8867143D5080A754: Second Most Valuable Combination: {0.String}, Base Value {1.Number}, Ingredients {2.String}
    [0A0D7] 0xE7ED34F95D1C7CFD: Second Most Valuable Combination: 
    [0A0D8] 0x694BA35460F939E8: Most Valuable Nectars
@@ -41541,7 +41541,7 @@ Unknown3: 0x00000000
    [0A240] 0x121DF5DA46F0571B: Change Lot Type
    [0A241] 0x3451A2FDF8C23CBC: Home
    [0A242] 0xC87717F0B23F829E: Are you sure you want to edit {0.String}?
-   [0A243] 0x067B08D2A90F61CB: This lot currently has a special building on it. For sims to treat this lot like the specified lot type, the special building must be removed.
+   [0A243] 0x067B08D2A90F61CB: This lot currently has a special building on it. For Sims to treat this lot like the specified lot type, the special building must be removed.
    [0A244] 0x8523F1AA89356117: You cannot go to Edit Town because your household is traveling.
    [0A245] 0xD9B9DCBC9F4D67D4: {0.String} appears to be corrupt. Would you like to recover a backup?
    [0A246] 0xE43DC302AE5A9A45: Home
@@ -42190,7 +42190,7 @@ Unknown3: 0x00000000
    [0A4C9] 0x8592D123C0563F26: Blarg blarg! The dimensionality of space-time is collapsing over at the science lab. Stop it now, or doom!
    [0A4CA] 0x466EE0F636DAF113: You missed an emergency. But who cares? You’re a professional slacker, so it doesn’t affect your job experience.
    [0A4CB] 0xD063DC1704979492: You missed an emergency and lost some job experience.
-   [0A4CC] 0xFDDE6E32E5681B72: Job must be completed before the following times.\nA: {0.String}\nB: {1.String}\nC: {2.String}\nD: {3.String}\nF: Missing work, leaving before a job completes, or all sims need rescuing die.
+   [0A4CC] 0xFDDE6E32E5681B72: Job must be completed before the following times.\nA: {0.String}\nB: {1.String}\nC: {2.String}\nD: {3.String}\nF: Missing work, leaving before a job completes, or all Sims need rescuing die.
    [0A4CD] 0xC2EA714826DF99ED: Job Scoring
    [0A4CE] 0xA236D805CB2B34E6: {Variation.3}
    [0A4CF] 0x2226B16B439EF5A6: A three-alarm fire has broken out on this lot. Get the fire under control by extinguishing any fires spilling out of windows. Then, gain entrance to the building and clear the building of any trapped Sims. Finally, extinguish the fire and save as much property as it is safe to do.
@@ -46197,12 +46197,12 @@ Unknown3: 0x00000000
    [0B470] 0x692AFF031F112A89: Ooohhh. I suddenly don't feel so well. I wish there was a doctor around.
    [0B471] 0xC45A3EF9115BFD26: {0.SimFirstName} is on {MA.his}{FA.her} way to {1.String} to do perform some vaccinations.
    [0B472] 0x5905D06B2597B0E6: {0.SimFirstName} is ready to start vaccinating at {1.String}. The session will last for {2.Number} hours.
-   [0B473] 0xE8C99B0A3F185FF6: {0.SimName} has {1.Number} hour left to vaccinate sims.
+   [0B473] 0xE8C99B0A3F185FF6: {0.SimName} has {1.Number} hour left to vaccinate Sims.
    [0B474] 0x6C65A5DD1D9D003B: Vaccination session was canceled.
    [0B475] 0x2580E03953D5DC3A: {0.SimFirstName} did all right.
    [0B476] 0x97D0CF3EE2060FAA: {0.SimFirstName} really did a bad job.
    [0B477] 0x6BC963ED64D071CA: {0.SimFirstName} did a fantastic job!
-   [0B478] 0x4521DA1B48360D58: Successfully vaccinated {0.Number} out of {1.Number} sims.
+   [0B478] 0x4521DA1B48360D58: Successfully vaccinated {0.Number} out of {1.Number} Sims.
    [0B479] 0x8D3EDEBB47821982: Vaccination session has ended.
    [0B47A] 0xAF021EE03AFEE631: {0.String}\n{1.String}\n{2.String}
    [0B47B] 0x2F4DF730C80C6A85: Spirits Captured: {0.Number}
@@ -46718,7 +46718,7 @@ Unknown3: 0x00000000
    [0B679] 0x00BDD872D4F79BEE: No jobs currently available
    [0B67A] 0xE3861C95EEA2876C: SimBots are naturally lubricated and very clean.
    [0B67B] 0x623D2DFC57CB2FB8: Show/Hide Opportunity Tracker
-   [0B67C] 0x0002FBC4A9BBC404: SimBots live longer than normal sims.
+   [0B67C] 0x0002FBC4A9BBC404: SimBots live longer than normal Sims.
    [0B67D] 0xF51DAACB71A77BFB: Open Work Hours
    [0B67E] 0x62E60F5EDF869EB1: Funds to Promotion: {0.Money}
    [0B67F] 0x6935F9398B067826: Amount of Simoleons your Sim needs to earn doing Career related activities to earn a promotion. 
@@ -46821,7 +46821,7 @@ Unknown3: 0x00000000
    [0B6E0] 0x0EF57C8995CE4D07: This is the hot tub basin. It is the bottom of the hot tub.
    [0B6E1] 0x85F040C0D4615FF2: Used to mark the level of the object as always being skipped when flooring up/down
    [0B6E2] 0x02562FDA3643550D: Set up a movie set wherever your heart desires...in the park, in your business, or in your own backyard!
-   [0B6E3] 0x9CB157666E2DE551: Used to mark the containing room as accessible to other sims, even though it's on a residential lot (used for common areas in condos and such)
+   [0B6E3] 0x9CB157666E2DE551: Used to mark the containing room as accessible to other Sims, even though it's on a residential lot (used for common areas in condos and such)
    [0B6E4] 0xC21D1EAC007B193E: Created by the legendary surfing sculpturist Cire Nahgauv, this statue is said to resemble the legendary Center Peak wave ridden by only the most radical.
    [0B6E5] 0x4DE0B1E5F7B5AA45: This is a Metropolitan Building for your town!
    [0B6E6] 0x3B401B600EAAAA48: Skinny Dipper's Clothes
@@ -49602,7 +49602,7 @@ Unknown3: 0x00000000
    [0C1BD] 0xB7C17A037D1F0518: Dance On Table
    [0C1BE] 0x9A4005FE98A995AF: Failed to summon the ghost since we could not find good location to spawn.
    [0C1BF] 0x4BE7F82A316DCEA0: No sim matches the Urnstone's ObjectId.
-   [0C1C0] 0x4EC961C44588F1A2: There are no instantiated sims in the world.
+   [0C1C0] 0x4EC961C44588F1A2: There are no instantiated Sims in the world.
    [0C1C1] 0xB1EFECB0D8C73C5E: Summon {0.String}
    [0C1C2] 0x4B0F9AF943184CEB: Unsummon {0.String}
    [0C1C3] 0xDBDD3B2ABAF060EB: Thirst
@@ -61266,7 +61266,7 @@ Unknown3: 0x00000000
    [0EF4D] 0xFF0E9AFD9EF76F5D: Shape
    [0EF4E] 0xC0D06439A8542867: RGB
    [0EF4F] 0xAEF3871BA354DB5D: Household is already at capacity for pets
-   [0EF50] 0x4322E138B25C0B5B: Household is already at capacity for sims
+   [0EF50] 0x4322E138B25C0B5B: Household is already at capacity for Sims
    [0EF51] 0x81D39B603F0D8911: All Size
    [0EF52] 0xD388E28B3CA33F77: Dog
    [0EF53] 0x5DBB372FFC13AC94: Small Dog
@@ -68543,7 +68543,7 @@ Unknown3: 0x00000000
    [10BBA] 0xD7053C45BC466642: So many tricks, so little time… It takes a dedicated and brave fairy to set so many traps.
    [10BBB] 0xDB5569CCF3369F1D: Tricked X Number Sims DO NOT TRANSLATE
    [10BBC] 0xA2EBCA1C44DDA801: Who’s the trickiest Fairy of them all? It’s {2.SimName}, that’s who! {MA.He}{FA.She} set so many Fairy Traps that {MA.he’s}{FA.she’s} bound to have made a few enemies by now.
-   [10BBD] 0x66C0B0B212D0B459: *trick {0.Number} sims
+   [10BBD] 0x66C0B0B212D0B459: *trick {0.Number} Sims
    [10BBE] 0x9A29836D07426634: Who knew that a wardrobe could really be a portal to another universe?
    [10BBF] 0x6B0BCDD249A7473B: Entered a Magic Portal
    [10BC0] 0x2DADAED9D86F0CF3: It was an experience like you see in the movies! {2.SimName} certainly didn’t expect to end up in another universe after going inside the wardrobe, but stranger things have happened.
@@ -68615,15 +68615,15 @@ Unknown3: 0x00000000
    [10C02] 0xEFFF16EEB40F96C3: Zombies make a great friend if you don’t mind their constant hunger for your brain.
    [10C03] 0xCD9ABDBB3041E992: Became a Zombie Master
    [10C04] 0x4C3C4B2F17ED9C92: Not quite a full zombie apocalypse, but it’s a good start. {2.SimName} has become a Zombie Master by converting 10 different Sims into zombies. But why stop at just 10?
-   [10C05] 0x9EC99970C5163A5A: *zombie master (turn {0.Number} different sims into zombie) DO NOT TRANSLATE
+   [10C05] 0x9EC99970C5163A5A: *zombie master (turn {0.Number} different Sims into zombie) DO NOT TRANSLATE
    [10C06] 0x5D66118DEF96FC04: A good deed never goes unnoticed and now several Sims are in your debt.
    [10C07] 0x16EE8F9F52AED86B: Became a Mystic Healer
    [10C08] 0x20E97F7D3EAFF663: {2.SimName} has a heart of gold and used {MA.his}{FA.her} powers to cure helpless transformed Sims. Everyone will always remember {MA.his}{FA.her} good deeds to others.
-   [10C09] 0x6853436B022BF48B: *mystic healer (cure {0.Number} different sims) DO NOT TRANSLATE
+   [10C09] 0x6853436B022BF48B: *mystic healer (cure {0.Number} different Sims) DO NOT TRANSLATE
    [10C0A] 0xA2BA9B9D9CF59E09: It’s what’s inside that’s important.
    [10C0B] 0x9116A471CEC5E22C: Magic Makeover
    [10C0C] 0x7F71EEB709C64828: Nobody knows more about the importance of inner beauty than {2.SimName}. {MA.His}{FA.Her} granting of inner beauty to others has enriched everyone’s lives to create a friendlier town.
-   [10C0D] 0x6C855428155A7520: *magic makerover(grant {0.Number} different sims "inner beauty") DO NOT TRANSLATE
+   [10C0D] 0x6C855428155A7520: *magic makerover(grant {0.Number} different Sims "inner beauty") DO NOT TRANSLATE
    [10C0E] 0x47820EBEC44712E6: Thinking {MA.he}{FA.she} could get away with cursing someone, {0.SimName} had the curse backfire and has died.
    [10C0F] 0x9B548F2E7643CBDD: Thinking {MA.he}{FA.she} could get away with cursing someone, {0.SimName} had the curse backfire and has died.
    [10C10] 0xA412798DDB25E607: {0.SimName} failed repairing.
@@ -69316,7 +69316,7 @@ Unknown3: 0x00000000
    [10EBF] 0x6AC9AF313EC7AD47: Human
    [10EC0] 0x2FF8352AFD9F51BF: Imaginary Friend
    [10EC1] 0xD365CB18F611C809: Mummy
-   [10EC2] 0xB1E7EE93E166E9E8: You don't have enough living sims in your household. DO NOT TRANSLATE
+   [10EC2] 0xB1E7EE93E166E9E8: You don't have enough living Sims in your household. DO NOT TRANSLATE
    [10EC3] 0x1FD254F158F3DACE: Vampire
    [10EC4] 0x5D4B55E18562793B: Werewolf
    [10EC5] 0x561458E4414AC57D: Witch
@@ -78839,7 +78839,7 @@ Unknown3: 0x00000000
    [133F2] 0xE8428C50EF18036C: Use Ladder
    [133F3] 0xCDDD20EDD0609050: Climb Down
    [133F4] 0xE95790289CBA09F3: Climb Up
-   [133F5] 0x5AD7D2288A015016: There are no nearby sims who are old enough to spray.
+   [133F5] 0x5AD7D2288A015016: There are no nearby Sims who are old enough to spray.
    [133F6] 0xA1AF53E0B3CFD587: Uses left: {0.Number}
    [133F7] 0x69797294D21574CC: Spray Sim...
    [133F8] 0x4ED27EE0FA7576C6: Get Sprayed
