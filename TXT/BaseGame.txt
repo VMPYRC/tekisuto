@@ -172,7 +172,7 @@ Unknown3: 0x00000000
    [000A7] 0x3BF5CEB3A0AA593C: We wanted to make blinds that didn't make that horrible clacking noise when you opened or closed them. That's why we created static blinds – they're completely silent because they can't be closed, ever!
    [000A8] 0xB84CDB7B636784E2: Before television, people used to entertain themselves with curtains – and the Vickleberry was like a top of the line home theater system. Folks gathered ‘round the curtain, singing songs and telling tales. It brought people together, and gave birth to the colloquial phrase "fabric of society."
    [000A9] 0x8E70AE191E1510C4: If your home is looking a little plump around the edges, then try a set of Flattery Curtains. The accordion folds create a backdrop of vertical lines, which has a slimming effect on pudgy-looking walls.
-   [000AA] 0xC03F8FE53020A9F7: Curtains are notorious safe havens for dust, germs, and other microscopic grime . But the Hygieni-Curtain is different. Its self-cleaning Fresh Fabric chemically transforms contaminates into the pleasant scent of ginger and spice. Yummy!
+   [000AA] 0xC03F8FE53020A9F7: Curtains are notorious havens for dust, germs, and other microscopic grime. But the Hygieni-Curtain is different. Its self-cleaning Fresh Fabric chemically transforms contaminates into the pleasant scent of ginger and spice. Yummy!
    [000AB] 0x88E7CF25226784B7: A curtain this small may not be big on privacy-giving or light-blocking ability, but it sure is big on cute!
    [000AC] 0xD2C68BC15A01FB57: Silent, still and just a smidge ominous stands the Window Protector. With a deft stillness it keeps your window safe from a life of plain bareness. It is resolute and ideal – it would be a travesty to confuse it for a mere strip of fabric.
    [000AD] 0xD62D583ADC5168F9: As the saying goes: If you’re not into blinds, then it’s curtains for you. And what curtains can compare to Cortinas Festivas!? Hand-sewn by assembly line machines, these curtains will add some much needed spice to your zestless abode.
@@ -633,7 +633,7 @@ Unknown3: 0x00000000
    [00274] 0x8F2CB7C9A14C0CD8: Oval rugs were first created long ago when an aristocrat stubbed his toe on a rectangular rug made with iron. Artisans quickly gathered to create a gentler rug designed with round edges. Unfortunately, it wasn't until much later that carpets were used instead of iron, making them acceptable for homes.
    [00275] 0x198A944C9EB33649: Nothing can make a grown Sim “purr” like the comfort of the Purrrfect Rug under one’s bare feet. Woven by hand using a patented cross-hatched weaving technique, the Purrrfect Rug is able to double the thread count of it’s nearest competitor, giving it a look and feel that will just make you want to purr!
    [00276] 0x8E12C2007AD0DE15: They say that if you stand on this rug, and just wish hard enough, this rug will fly you anywhere you want to go. Hmm. Guess you're just not wishing hard enough.
-   [00277] 0x614B67761CE50054: Made from 100% Olefin, the Saxony is the first carpet to combine a 37-ounce face weight with an unprecedented .765 pile height. This, plus other carpet-centric statistics, give the Saxony 47% more velvety softness than its closest competitor.
+   [00277] 0x614B67761CE50054: Made from 100% Olefin, the Saxony is the first carpet to combine a 37-ounce face weight with an unprecedented 0.765 pile height. This, plus other carpet-centric statistics, give the Saxony 47% more velvety softness than its closest competitor.
    [00278] 0xB82FAEFA828C5DDB: When it comes to rug trends, square is the new hendecagon. And the makers of the L7 remind us they were square back when square wasn’t cool. This shows real street cred, or as they say in the carpeting business... floor cred.
    [00279] 0xE098F58505B4567F: Some cultures believe it's bad luck to place mosaic tile at the bottom of the pool. They say some swimmers can become mesmerized, and drown. We say this beautiful mosaic would look great at the bottom of the pool, or anywhere else for that matter! Swim at your own risk!
    [0027A] 0x376308A1F2D2B8A7: Each section of Marathon Carpet Runner is cut from a single 26-mile spool. The current record time for running an entire spool of Marathon Carpet is 2 hours, 4 minutes and 26 seconds. But new athletic achievements are made every day, so stay tuned.
@@ -11475,8 +11475,8 @@ Unknown3: 0x00000000
    [02CCE] 0x9276A13E46D205D0: It’s quite hard to compete when you don’t show up on time. The next time there’s a competition, be there!
    [02CCF] 0xCBBAE06EB949E563: Take a good meal to work.
    [02CD0] 0xCE61186628F20FCA: Take a good meal to work.
-   [02CD1] 0xAA732BD16E636BCA: A big party just booked a reservation for this week, and the kitchen doesn't think they can handle the influx of appetites. The Chef needs you to bring in two Group Servings of {RecipeName} the next time you come to work . The Chef promises he'll make a note on your performance, and take the time to improve your cooking skills.
-   [02CD2] 0x5442AA9BDCC0AC79: A big party just booked a reservation for this week, and the kitchen doesn't think they can handle the influx of appetites. The Chef needs you to bring in two Group Servings of {RecipeName} the next time you come to work . The Chef promises he'll make a note on your performance, and take the time to improve your cooking skills.
+   [02CD1] 0xAA732BD16E636BCA: A big party just booked a reservation for this week, and the kitchen doesn't think they can handle the influx of appetites. The Chef needs you to bring in two Group Servings of {RecipeName} the next time you come to work. The Chef promises he'll make a note on your performance, and take the time to improve your cooking skills.
+   [02CD2] 0x5442AA9BDCC0AC79: A big party just booked a reservation for this week, and the kitchen doesn't think they can handle the influx of appetites. The Chef needs you to bring in two Group Servings of {RecipeName} the next time you come to work. The Chef promises he'll make a note on your performance, and take the time to improve your cooking skills.
    [02CD3] 0x051F3EDE92F0280C: Reservations keep piling up, but unfortunately several line cooks will be out tomorrow! The Chef needs you to quickly bring in two Group Servings of {RecipeName}. The Chef promises he'll make a note on your job performance, and take the time to improve your cooking skills.
    [02CD4] 0x5F063956A07DBE0F: Reservations keep piling up, but unfortunately several line cooks will be out tomorrow! The Chef needs you to quickly bring in two Group Servings of {RecipeName}. The Chef promises he'll make a note on your job performance, and take the time to improve your cooking skills.
    [02CD5] 0x051F3EDE92F0280D: Uh oh! Half of the burners on the kitchen's stove are out and the Chef doesn't think enough food can be prepared for the patrons. The Chef needs you to quickly bring in two Group Servings of {RecipeName}. The Chef promises he'll make a note on your job performance, and take the time to improve your cooking skills.
@@ -37501,7 +37501,7 @@ Unknown3: 0x00000000
    [09278] 0x8C4F66963BB90561: Be careful in the dark, who knows what lurks in the shadows?
    [09279] 0x8C4F66963BB90560: Beautiful Sims should avoid telescopes.
    [0927A] 0x8C4F66963BB90563: It’s not a secret that your cooking tastes like muck.
-   [0927B] 0x8C4F66963BB90562: There’s a .02 percent chance that these lottery numbers will win you anything.
+   [0927B] 0x8C4F66963BB90562: There's a 0.02 percent chance that these lottery numbers will win you anything.
    [0927C] 0x8C4F66963BB9056D: Your greatest fear is closer than you think!
    [0927D] 0x8C4F66963BB9056C: Plastic flowers lead to cold hearts.
    [0927E] 0x3D1C5106F3F93AF0: Conversing with the dead brings good fortune!
@@ -55879,7 +55879,7 @@ Unknown3: 0x00000000
    [0DA42] 0xE1717B4957D94FF5: Teach {1.SimFirstName} to Sit
    [0DA43] 0x78A2EFEC200B288E: Teach your Dog to Sit
    [0DA44] 0x7D2B9DCB02B57EFE: Teach {1.SimFirstName} to Sit
-   [0DA45] 0x2B64A72F7ACE5487: Teaching your dog tricks is always a fun-filled activity! Having them Sit Up when you raise your hand or when you call the command is always gratifying . Until they start doing the opposite of what you mean, which then becomes a total pain. Your Sim wants to Teach your Dog to Sit Up.
+   [0DA45] 0x2B64A72F7ACE5487: Teaching your dog tricks is always a fun-filled activity! Having them Sit Up when you raise your hand or when you call the command is always gratifying. Until they start doing the opposite of what you mean, which then becomes a total pain. Your Sim wants to Teach your Dog to Sit Up.
    [0DA46] 0x2BAF91BD42C45D6A: Teach {1.SimFirstName} to Sit Up
    [0DA47] 0x59DF338DDE50720F: Teach your Dog to Sit Up
    [0DA48] 0xA3A857D342230F85: Teach {1.SimFirstName} to Sit Up
@@ -57380,7 +57380,7 @@ Unknown3: 0x00000000
    [0E01F] 0x953458EE142522F6: Horse Playtime
    [0E020] 0x33AE18D222D9145C: Having a blast spending time with my horse friends.
    [0E021] 0xBFE7AF59D9807AEC: Horsie!
-   [0E022] 0xAFF7C7CA9B5924FA: Awww ... a baby horse!
+   [0E022] 0xAFF7C7CA9B5924FA: Awww... a baby horse!
    [0E023] 0x375960B60F39625E: {0.SimFirstName} could use a bit of sustenance. After all, cats' stomachs can growl too!
    [0E024] 0x374F72B60F312C5C: {0.SimFirstName} could use a bit of sustenance. After all, dogs' stomachs can growl too!
    [0E025] 0xB4C368687E9F4659: {0.SimFirstName} could use a bit of sustenance. After all, horses' stomachs can growl too!
@@ -57395,7 +57395,7 @@ Unknown3: 0x00000000
    [0E02E] 0x6662F4FB65D1816D: Kicked
    [0E02F] 0x917C2C3BCD129C39: {0.SimFirstName}'s bruises will take some time to heal, and so will {MA.his}{FA.her} relationship with that Horse!
    [0E030] 0x7C898FB7CF981CB8: Kittens!
-   [0E031] 0x80D3B7245F4550B6: Awww ... kittens are so cute and cuddly!
+   [0E031] 0x80D3B7245F4550B6: Awww... kittens are so cute and cuddly!
    [0E032] 0xE5F46B2FF2767490: Cats don't need to have intricate conversations, but a little social interaction is definitely necessary. After all, being alone all of the time couldn't possibly keep {0.SimFirstName} happy.
    [0E033] 0xE5DD612FF2638562: Dogs don't need to have intricate conversations, but a little social interaction is definitely necessary. After all, being alone all of the time couldn't possibly keep {0.SimFirstName} happy.
    [0E034] 0x27FF8C40622112D3: Horses don't need to have intricate conversations, but a little social interaction is definitely necessary. After all, being alone all of the time couldn't possibly keep {0.SimFirstName} happy.
@@ -57448,7 +57448,7 @@ Unknown3: 0x00000000
    [0E063] 0xAE180323EF1564B5: Pumped Pony
    [0E064] 0x7BF82BB11BB5B371: {0.SimFirstName} is getting pumped up and ready to gallop.
    [0E065] 0x48141E7360E7F226: Puppies!
-   [0E066] 0x4054DE426B14212C: Awww ... aren't puppies adorable?
+   [0E066] 0x4054DE426B14212C: Awww... aren't puppies adorable?
    [0E067] 0xE0611B981BD57AF0: Purrfectly Manicured
    [0E068] 0x3F646BEDA29F713E: {0.SimFirstName}'s claws are "purrfect"! Preferably, they didn't get that way at the expense of your furniture.
    [0E069] 0x938A5AF49D94709D: See? Holding it in didn't help. Better get {0.SimFirstName} to {MA.his}{FA.her} litter box soon!
@@ -59522,7 +59522,7 @@ Unknown3: 0x00000000
    [0E87D] 0x631A1A0D452AA2E7: Fill Pet Bowl
    [0E87E] 0x5D8D97F87163691E: Fill Pet Bowl With Gourmet Food
    [0E87F] 0x5CB4B649C285F36F: Feed Gourmet...
-   [0E880] 0xB1589ECFB56C67C2: Feed ({0.Money}) ... 
+   [0E880] 0xB1589ECFB56C67C2: Feed ({0.Money})... 
    [0E881] 0x2CBB7405C663E6CE: Feed {0.SimName} ({1.Money})
    [0E882] 0x2C08741314C875AD: Feed Gourmet Food To {0.SimName}
    [0E883] 0x74947242F77A2B8C: Fill Bowl ({0.Money})
@@ -60564,7 +60564,7 @@ Unknown3: 0x00000000
    [0EC8F] 0x044C87B75DBB5342: Successful Jumps : {0.Number}
    [0EC90] 0x3B3B2B32F4E8DC37: Unicorns Adopted : {0.Number}
    [0EC91] 0xB96008E9B7865EB4: Wild Horses Adopted : {0.Number}
-   [0EC92] 0x2D77EF8B7A95871C: DEBUG Learn Trick ...
+   [0EC92] 0x2D77EF8B7A95871C: DEBUG Learn Trick...
    [0EC93] 0x5F789D09732A8348: {0.SimFirstName} learned to Play Dead!
    [0EC94] 0x102466D5D8869BE3: {0.SimFirstName} learned to Roll Over!
    [0EC95] 0x272C08820FBCAA52: {0.SimFirstName} learned to Shake!
@@ -69493,7 +69493,7 @@ Unknown3: 0x00000000
    [10F70] 0x5FE77FB3D6F6B7DA: {0.SimFirstName}’s current mission prohibits cross-breeding with Earthlings
    [10F71] 0x2FB12D9172E55DF9: Your Sim's brain power is too low to do that.
    [10F72] 0x4D3B347B2D00088C: Your Sim's brain power is too low to do that.
-   [10F73] 0xC2A462C061F251D0: Play All Idles ...
+   [10F73] 0xC2A462C061F251D0: Play All Idles...
    [10F74] 0x30C1C57C3A771A50: The snow is too deep.
    [10F75] 0xA585327B2A9D83FC: The snow is too deep.
    [10F76] 0x12FE799CD35F1C80: The snow is not deep enough.
@@ -71834,7 +71834,7 @@ Unknown3: 0x00000000
    [11895] 0x140A346556E78793: DEBUG: Trigger NPC Trick Or Treating
    [11896] 0xACE1A6970CB4D69D: Meet Up
    [11897] 0xA157492D77D55E16: {Variation.5}
-   [11898] 0xECF798351FC55496: Friends, the day we have been patiently waiting for is finally upon us. Spooky Day! ... And Spooky Day Eve! Now let's go take what's ours! {0.String} will have no idea what hit 'em!
+   [11898] 0xECF798351FC55496: Friends, the day we have been patiently waiting for is finally upon us. Spooky Day!... And Spooky Day Eve! Now let's go take what's ours! {0.String} will have no idea what hit 'em!
    [11899] 0xECF798351FC55495: We've been mentally preparing all year, and now the time has come! Attack!! {0.String} will have no idea what hit 'em!
    [1189A] 0xECF798351FC55494: A second to reflect on this beautiful day before our brains are completely addled with sugar… Okay, that’s long enough. Let’s go!
    [1189B] 0xECF798351FC55493: Remember: We don’t accept pennies, toothbrushes, or little boxes of raisins. This is a holiday, darn it!!
@@ -78468,7 +78468,7 @@ Unknown3: 0x00000000
    [1327F] 0x4FBACC8DFDD57D3C: Well, there was no sunken stash of gold and jewels, but {0.SimFirstName} did find a dinglehopper in pretty decent condition.
    [13280] 0x4FBACC8DFDD57D3D: Wow!! Coral, sea life, strange plants! How many wonders can one cavern hold?
    [13281] 0x1BBC84EE152E64EF: {0.SimFirstName} tried to pet an orange-banded stingfish. It stung {MA.him}{FA.her}.
-   [13282] 0x4FBACF8DFDD5822D: After {MA.his}{FA.her} journey, {0.SimFirstName} feels giddy and light-headed with excitement! ...Or is that cave madness?
+   [13282] 0x4FBACF8DFDD5822D: After {MA.his}{FA.her} journey, {0.SimFirstName} feels giddy and light-headed with excitement!... Or is that cave madness?
    [13283] 0x4FBACF8DFDD5822C: Deep in the cave, {0.SimFirstName} spied a herd of seahorses engaged in the latest viral dance craze. Man, that thing's everywhere now!!
    [13284] 0x4FBACF8DFDD5822F: That was really fun! Maybe talking to fish wouldn't be such a lame superpower after all!
    [13285] 0x4FBACF8DFDD5822E: {MA.He}{FA.She} did it! {0.SimFirstName} found the conch shell! They'll all have to listen to {MA.him}{FA.her} now... Oops, must have dropped it.

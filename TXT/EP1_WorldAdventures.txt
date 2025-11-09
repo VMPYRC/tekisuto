@@ -4120,8 +4120,8 @@ Unknown3: 0x00000000
    [1013] 0x4366583C35238AF5: {0.SimName} wants a picture of {16.SimName} but won’t tell you the reason why, only that you'll be paid nicely.
    [1014] 0x0EB5C968D6C02F10: {0.SimName} wants a picture of {16.SimName} but won’t tell you the reason why, only that you'll be paid nicely.
    [1015] 0xD9B0C7664D070B29: EP1_SkillPhotography_PictureOfAnotherSimFailure
-   [1016] 0xA7FCC84192D5E50E: Bring a photograph of {16.SimName} to {0.SimName} to earn a cash payment .
-   [1017] 0x119A79DA32654585: Bring a photograph of {16.SimName} to {0.SimName} to earn a cash payment .
+   [1016] 0xA7FCC84192D5E50E: Bring a photograph of {16.SimName} to {0.SimName} to earn a cash payment.
+   [1017] 0x119A79DA32654585: Bring a photograph of {16.SimName} to {0.SimName} to earn a cash payment.
    [1018] 0xBA451D419D76EFD0: Paparazzi!
    [1019] 0xB6CC36D150D2702B: Paparazzi!
    [101A] 0x9C38678AE313FFFC: Photograph Sim
