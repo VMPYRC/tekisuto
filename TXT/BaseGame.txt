@@ -8333,14 +8333,14 @@ Unknown3: 0x00000000
    [02088] 0x14398798B98C1A66: Accept
    [02089] 0x9F94D8EFF550B2D9: {0.SimFirstName} has found a new and faster way to make those tasty dinner rolls everyone scarfs down before their meal. Now the restaurant will make more money and people will get more of their favortite bread! The boss is grateful and gives {0.SimFirstName} a raise!
    [0208A] 0x5C4A44404B09882C: {0.SimFirstName} has found a new and faster way to make those tasty dinner rolls everyone scarfs down before their meal. Now the restaurant will make more money and people will get more of their favortite bread! The boss is grateful and gives {0.SimFirstName} a raise!
-   [0208B] 0xA79A653F6E7F0679: Oh no! A fight has broken out between the pastry chef and the saucier over who used the last of the catsup! Should {0.SimFirstName} try to stop or just watch like everyone else?
-   [0208C] 0x1036E1ABD72C2E0C: Oh no! A fight has broken out between the pastry chef and the saucier over who used the last of the catsup! Should {0.SimFirstName} try to stop or just watch like everyone else?
+   [0208B] 0xA79A653F6E7F0679: Oh, no! A fight has broken out between the pastry chef, and the saucier over who used the last of the ketchup! Should {0.SimFirstName} try to stop or just watch like everyone else?
+   [0208C] 0x1036E1ABD72C2E0C: Oh, no! A fight has broken out between the pastry chef, and the saucier over who used the last of the ketchup! Should {0.SimFirstName} try to stop or just watch like everyone else?
    [0208D] 0xE47EF96CC896528A: {0.SimFirstName} has a good laugh as the two chefs go at it, but the boss isn't happy.
    [0208E] 0xC3478C90D93AC439: {0.SimFirstName} has a good laugh as the two chefs go at it, but the boss isn't happy.
    [0208F] 0xF8D0AD68401F7159: Sit Back
    [02090] 0x238EF83365AB7FAC: Sit Back
-   [02091] 0xABF8C1DA6F46491C: {0.SimFirstName} breaks up the fight, but gets catsup everywhere. The boss and co-workers are impressed.
-   [02092] 0xF1D18C44506EC61F: {0.SimFirstName} breaks up the fight, but gets catsup everywhere. The boss and co-workers are impressed.
+   [02091] 0xABF8C1DA6F46491C: {0.SimFirstName} breaks up the fight, but gets ketchup everywhere. The boss and co-workers are impressed.
+   [02092] 0xF1D18C44506EC61F: {0.SimFirstName} breaks up the fight, but gets ketchup everywhere. The boss and co-workers are impressed.
    [02093] 0xAB0EE0D03CEB97DB: Help
    [02094] 0x7FE60F1CD5FF5EC2: Help
    [02095] 0x028E413B853C0B0F: {0.SimFirstName} retains the title of Garlic Eating Champion once again! It was almost an upset when the Sous-Chef brought in an Italian ringer, but {0.SimFirstName} prevailed. {0.SimFirstName} gets the proceeds of the bet, and a lonely walk home.
