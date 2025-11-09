@@ -11038,8 +11038,8 @@ Unknown3: 0x00000000
    [02B19] 0x46E865615E2998D3: Bring {0.SimName} a great group meal.
    [02B1A] 0x288785EC8339570A: It’s so great of you to share your monstrous Burgers with your friends and neighbors, though it certainly doesn’t hurt when you can earn some money for doing so!
    [02B1B] 0x1136DAB871E09DB9: It’s so great of you to share your monstrous Burgers with your friends and neighbors, though it certainly doesn’t hurt when you can earn some money for doing so!
-   [02B1C] 0x3A2FFC2540FEDFBE: {0.SimName} has heard you’re quite the grill maestro and would like to sample some of your award winning Burgers. Prepare a group serving of Burgers and bring it to {0.SimName}, who is sure to pay you for your effort.
-   [02B1D] 0x5DF3B6991017ED35: {0.SimName} has heard you’re quite the grill maestro and would like to sample some of your award winning Burgers. Prepare a group serving of Burgers and bring it to {0.SimName}, who is sure to pay you for your effort.
+   [02B1C] 0x3A2FFC2540FEDFBE: {0.SimName} has heard you're quite the grill maestro and would like to sample some of your award-winning Burgers. Prepare a group serving of Burgers and bring it to {0.SimName}, who is sure to pay you for your effort.
+   [02B1D] 0x5DF3B6991017ED35: {0.SimName} has heard you're quite the grill maestro and would like to sample some of your award-winning Burgers. Prepare a group serving of Burgers and bring it to {0.SimName}, who is sure to pay you for your effort.
    [02B1E] 0xDBA7264FA685F233: Prepare a group serving of Burgers on the grill and bring them in your inventory to {0.SimName} to earn some cash.
    [02B1F] 0xD6B3DC9F97340E1A: Prepare a group serving of Burgers on the grill and bring them in your inventory to {0.SimName} to earn some cash.
    [02B20] 0x0EE1F94FC354A7A1: Burgerlicious
@@ -13529,8 +13529,8 @@ Unknown3: 0x00000000
    [034D4] 0xC089041BDC77ADF2: Read Medical Book
    [034D5] 0x0D03128682028957: Your boss is glad you took the time to read “Better Out Than In.” Reading is never a waste of time! Your boss has improved your job performance, and it seems the two of you have grown a bit closer as a result of your efforts.
    [034D6] 0x06BC836C837D6846: Your boss is glad you took the time to read “Better Out Than In.” Reading is never a waste of time! Your boss has improved your job performance, and it seems the two of you have grown a bit closer as a result of your efforts.
-   [034D7] 0x71D2B3996E91E6D5: The dirty task of bed pan disposal is not as straightforward as it seems. Your boss recommends you read “Better Out Than In,” the award winning instructional book for aspiring bed pan professionals. You’ll surely earn a boost to your job performance and relationship with your boss.
-   [034D8] 0x945B1FC3352926B0: The dirty task of bed pan disposal is not as straightforward as it seems. Your boss recommends you read “Better Out Than In,” the award winning instructional book for aspiring bed pan professionals. You’ll surely earn a boost to your job performance and relationship with your boss.
+   [034D7] 0x71D2B3996E91E6D5: The dirty task of bed pan disposal is not as straightforward as it seems. Your boss recommends you read "Better Out Than In," the award-winning instructional book for aspiring bed pan professionals. You'll surely earn a boost to your job performance and relationship with your boss.
+   [034D8] 0x945B1FC3352926B0: The dirty task of bed pan disposal is not as straightforward as it seems. Your boss recommends you read "Better Out Than In," the award-winning instructional book for aspiring bed pan professionals. You'll surely earn a boost to your job performance and relationship with your boss.
    [034D9] 0x4BD22BCD663A2A6E: Read “Better Out Than In” to earn a job performance increase and a relationship boost with your boss.
    [034DA] 0x24041598BE7B6CA5: Read “Better Out Than In” to earn a job performance increase and a relationship boost with your boss.
    [034DB] 0x5E1980CD70D98130: Waste Management
