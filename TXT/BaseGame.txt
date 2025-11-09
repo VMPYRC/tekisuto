@@ -13,7 +13,7 @@ Unknown3: 0x00000000
    [00008] 0xD599D0D9CAA16099: Do you ever crave those rich (and sometimes questionable) tastes and flavors that public grilles impart to your food? Now you can enjoy them in the comfort of your very own backyard! Bring home the bold and risky flavors of a fresh-from-the-public-park Park n’ Grille today!
    [00009] 0xADEC343D0DBF266C: Don't be fooled by its grand size. The Deluxe Agile Grill is designed for those who want delicious, hot food now! Our patented Burn Down charts don't lie – this grill burns food better than anybody else. If you want food that passes every test, go Agile!
    [0000A] 0xA067C4049DBF486D: The Barbe-Cute represents the latest in grill technology. Made from Metal-Mesquite, a revolutionary new fusion of wood and metal that combines the structural integrity of mesquite with the smoky aftertaste of a copper-aluminum alloy. Now that’s good eatin’.
-   [0000B] 0xE583BCC05220F135: For meat-eaters who expect something more from their barbecue grill, the Carnivore XL is for you. With settings for skirt steak, flank steak, and every shank in between, the Carnivore is ready for anything. Also cooks vegetables, but only when absolutely necessary.
+   [0000B] 0xE583BCC05220F135: For meat-eaters who expect something more from their barbeque grill, the Carnivore XL is for you. With settings for skirt steak, flank steak, and every shank in between, the Carnivore is ready for anything. Also cooks vegetables, but only when absolutely necessary.
    [0000C] 0x770E5304F4EF22A9: First there was the juice saloon, where warm sassafras tea was all the rage. Then came the trendy juice bars, with their wheat grass and soybean milk. Now there is the Juice Station, a home bar for today’s thirsty lifestyle.
    [0000D] 0x898901C030D94472: Solidly constructed for the comfortable home, Bar de Mish is the perfect focal point for a casual meeting of friends. Call the gang, mix a few trendy juice beverages and start your evening. "The gang" not included.
    [0000E] 0x0984C370BDF83185: Juice bar... Sand bar... That test lawyers have to pass... Face it people, bars are everywhere today and without one you will be bar-none! So join the crowd and bring the Family Time Bar into your home today!
@@ -16267,7 +16267,7 @@ Unknown3: 0x00000000
    [03F86] 0x89161D454E390EFF: Jabbar
    [03F87] 0xA44CBB8529628688: Jacer
    [03F88] 0xF068B7F9D5225C10: Jack
-   [03F89] 0x27EC0813C80B7C60: Despite Jack's staunch and formal military appearance, he is actually a fun-loving guy who loves to host neighborhood barbecues.
+   [03F89] 0x27EC0813C80B7C60: Despite Jack's staunch and formal military appearance, he is actually a fun-loving guy who loves to host neighborhood barbeques.
    [03F8A] 0xA44CAD8529626F59: Jacki
    [03F8B] 0x2F4CBFCAC7F1FF2C: Jackson
    [03F8C] 0xAD61AD45633F7770: Jaffey
