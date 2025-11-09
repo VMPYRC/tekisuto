@@ -8589,8 +8589,8 @@ Unknown3: 0x00000000
    [02188] 0x6968EC746DC3B52C: At practice today {0.SimFirstName} pulled out all the stops and lit the field on fire with sweet moves. The coach was so impressed that he gives {0.SimFirstName} a promotion!
    [02189] 0x648498E3FF50517D: While at practice, {0.SimFirstName} was dared to throw a ball up a flag pole and have it land perfectly balanced on the top. Bets were placed (mostly against {0.SimFirstName}) and, as the ball was handed to {0.SimFirstName}, all were confident in their decisions. No one expected that {0.SimFirstName} would actually make the shot! Not only did {0.SimFirstName} win a bit of spending cash, but also won the adoration of fans and teammates as well!
    [0218A] 0xBCD34D19880CF8B8: While at practice, {0.SimFirstName} was dared to throw a ball up a flag pole and have it land perfectly balanced on the top. Bets were placed (mostly against {0.SimFirstName}) and, as the ball was handed to {0.SimFirstName}, all were confident in their decisions. No one expected that {0.SimFirstName} would actually make the shot! Not only did {0.SimFirstName} win a bit of spending cash, but also won the adoration of fans and teammates as well!
-   [0218B] 0x65137444CB6E9B78: An up and coming rookie challenged {0.SimFirstName} to a one-on-one showdown today in front of everyone (with no small amount of machismo). {0.SimFirstName} showed him how the game is truly meant to be played. That rookie's face was so red! Your teammates were wonderfully impressed.
-   [0218C] 0xDC40DBD0132D3033: An up and coming rookie challenged {0.SimFirstName} to a one-on-one showdown today in front of everyone (with no small amount of machismo). {0.SimFirstName} showed him how the game is truly meant to be played. That rookie's face was so red! Your teammates were wonderfully impressed.
+   [0218B] 0x65137444CB6E9B78: An up-and-coming rookie challenged {0.SimFirstName} to a one-on-one showdown today in front of everyone (with no small amount of machismo). {0.SimFirstName} showed him how the game is truly meant to be played. That rookie's face was so red! Your teammates were wonderfully impressed.
+   [0218C] 0xDC40DBD0132D3033: An up-and-coming rookie challenged {0.SimFirstName} to a one-on-one showdown today in front of everyone (with no small amount of machismo). {0.SimFirstName} showed him how the game is truly meant to be played. That rookie's face was so red! Your teammates were wonderfully impressed.
    [0218D] 0x8C8EA28DC0E01F12: A gaggle of reporters arrived at work today and the coach needed to show a good example of athletic supremacy to them. Thinking that {0.SimFirstName} would be the perfect example to show off how good their team is, he asks {0.SimFirstName} to perform some brutal exercises while the reporters watch. After working so hard already today should {0.SimFirstName} astound them with untold abilities or just give it the old college try?
    [0218E] 0x4BC53E081971BF81: A gaggle of reporters arrived at work today and the coach needed to show a good example of athletic supremacy to them. Thinking that {0.SimFirstName} would be the perfect example to show off how good their team is, he asks {0.SimFirstName} to perform some brutal exercises while the reporters watch. After working so hard already today should {0.SimFirstName} astound them with untold abilities or just give it the old college try?
    [0218F] 0xEBAECA7ADD969607: Just Try
@@ -16583,7 +16583,7 @@ Unknown3: 0x00000000
    [040C2] 0x64EED89B54469F3E: Ice Cream
    [040C3] 0xD429215839C4B459: Juice
    [040C4] 0xD4B78E4681E4C6AB: Key Lime Pie
-   [040C5] 0x04DE97F000E667F7: A tart treat that's the perfect dessert challenge for the up and coming chef.
+   [040C5] 0x04DE97F000E667F7: A tart treat that's the perfect dessert challenge for the up-and-coming chef.
    [040C6] 0x80F62D37C68106B8: Lobster Thermidor
    [040C7] 0x9438B1AC6B9B5EB6: Sims have always loved Lobster Thermidor. Lobster - the king of seafood menus!
    [040C8] 0x46315605B0CB8830: Mac and Cheese
@@ -43177,7 +43177,7 @@ Unknown3: 0x00000000
    [0A8A4] 0xA0874423F792B14A: Congratulations! You’ve made it into the haute couture hall of fame! You are renowned for the best blowouts, fantastic fittings, and marvelous makeovers. Sims travel from the far corners of the world to seek out your help with making them look glamorous! But with next season already ‘so yesterday’, there’s always plenty of work for a superstar stylist. Go forth and set the trends of the future!
    [0A8A5] 0x10404B1F4603479D: Time to sharpen those haircutting scissors because you’ve gone from sweeping hair trimmings to sculpting upscale updos. Bring a set of fine toothed combs and a bottle of hairspray, and be prepared to critique clothing as needed. Remember to listen to your client's desires…as long as they don’t ask for a mullet.
    [0A8A6] 0x10404B1F4603479C: Crime is everywhere and it’s your job to fight it! Sims are mixing polka dots with plaid, stilettos with sweat pants, crew cuts with soul patches. Stop the madness before it overruns the city! But remember - no red shoes until after dark!
-   [0A8A7] 0x10404B1F4603479B: Word of mouth is spreading and you’re in demand for the latest fashion advice. Keeping tabs on the ‘so next season’ up and coming looks will keep you trendy with the wannabe-in-vogue fashion moguls around town. So get out there and show them your style…and theirs!
+   [0A8A7] 0x10404B1F4603479B: Word of mouth is spreading, and you're in demand for the latest fashion advice. Keeping tabs on the "so next season" up-and-coming looks will keep you trendy with the wannabe-in-vogue fashion moguls around town. So get out there and show them your style... and theirs!
    [0A8A8] 0x10404B1F4603479A: Grab your makeup case, scissors, and some long teeth combs because, whether they know it or not, your next round of clients are going to become trend-setters for the whole of town! Just go easy on the mascara because waterproof is so last season.
    [0A8A9] 0x10404B1F46034799: The long hours are paying off and you’re on your way to the top! Keep your portfolio overflowing with the latest looks, and weed out images of yesterday's trends. Move those hemlines and glam it up! Don’t be afraid to experiment with plaid. One day you could move from behind-the-scenes to walking the red carpet.
    [0A8AA] 0x10404B1F46034798: You are now known in neighboring towns for your keen color combinations and your daring hairstyle modifications. When discerning Sims are looking for fashion advice they come flocking to you. With a little bit of time and some sumptuous lipstick shades you’ll transform everyday drab Sims into fashion icons!
@@ -44107,7 +44107,7 @@ Unknown3: 0x00000000
    [0AC46] 0xEFD66231E2F238AF: {Variation.2}
    [0AC47] 0x736E1B1E926BA657: Now that I’ve played a concert, people are starting to recognize me. It’s not that I don’t appreciate my fans and all, but I would like to be able to go grocery shopping without Sims telling me how awesome I am. I would like you to give me a new look. Overkill? Perhaps.
    [0AC48] 0x736E1B1E926BA654: Now that I’ve played a concert, people are starting to recognize me. I’m really excited about it, but my offstage look just isn’t up to par with the image I want to convey. Can you help me out?
-   [0AC49] 0x6C3563CBC8F2FAE5: Up and Coming Star
+   [0AC49] 0x6C3563CBC8F2FAE5: Up-and-Coming Star
    [0AC4A] 0xDFE26E67C01D108B: I just played my guitar in public today and I had a great time! I seemed to be a big hit among the bystanders. I saw them tapping their feet and clapping along. It was awesome! In the slim chance that one of those bystanders is a music industry executive, I want to make sure I not only play my best but look amazing as well!
    [0AC4B] 0xB07CB7F3768A0219: Performance Outfit
    [0AC4C] 0xF3E9046204401875: {Variation.3}
@@ -44849,7 +44849,7 @@ Unknown3: 0x00000000
    [0AF2C] 0x21E90868E1765118: Farming is dirty work that is not for the timid or soft-handed city folk. Continue to survive in the field and profits will follow suit.
    [0AF2D] 0x21E90868E176511F: Weeds fear your vigilant hands. However, grocers and produce buyers still don't consider you the best in the business. Continue weeding and improve your crops.
    [0AF2E] 0x21E90868E176511E: Fertilization requires the proper state of mind and sturdy nose plugs. Be sure to fertilize your crops most efficiently to maximize profits and minimize time in the hot sun.
-   [0AF2F] 0x21E90868E176511D: The modern Bushwhacker is an up and coming farmer with aspirations of reaching the top spot. Only hard work and a successful harvest will take you there.
+   [0AF2F] 0x21E90868E176511D: The modern Bushwhacker is an up-and-coming farmer with aspirations of reaching the top spot. Only hard work and a successful harvest will take you there.
    [0AF30] 0x21E90868E176511C: Often referred to as a fabled and legendary figure from the fertile acreage of Riverview, Seed Sewers have high standards to live up to. Most of all, providing high quality produce to the community.
    [0AF31] 0x21E90868E1765113: You've become quite famous amongst regional farmers and grocers for your top quality produce, record-shattering harvests, and innovative farming techniques. Farming becomes much more difficult this close to the top!
    [0AF32] 0x21E90868E1765112: Many whisper that you are not just an amazing farmer, but literally a spirit of the earth that can converse with seeds and plants. That may be far fetched, but your imminent success is not!
@@ -48687,7 +48687,7 @@ Unknown3: 0x00000000
    [0BE2A] 0x17F551D6E4E1BF19: You've earned enough to gain the right to practice publicly and proudly. But that's no excuse to get cocky! Practice day and night to grow as a band, or it'll be tomatoes, not cheers, heaved at you.
    [0BE2B] 0x17F551D6E4E1BF18: The subterranean stages throughout town beckon to your fledgling band. Strum something ever so sweetly for the commuters of the city and your band will gain quick renown.
    [0BE2C] 0x17F551D6E4E1BF1F: A few of the local dives are willing to let your band open for better acts. It's a great chance to be on stage, so play hard and capitalize on the opportunity!
-   [0BE2D] 0x17F551D6E4E1BF1E: From opening act to headliner, the dives are now rocking along with the smooth sounds of your up and coming band. Keep the dive-goers happy and these won't be the last stages you headline.
+   [0BE2D] 0x17F551D6E4E1BF1E: From opening act to headliner, the dives are now rocking along with the smooth sounds of your up-and-coming band. Keep the dive-goers happy, and these won't be the last stages you headline.
    [0BE2E] 0x17F551D6E4E1BF1D: It's time to go on a (local) tour with the band! Dives, lounges, parks – all of these are stages for your band to perform. Pull off a sweet move and entertain the crowds!
    [0BE2F] 0x17F551D6E4E1BF1C: The local music scene is abuzz with the fresh, original sounds coming from your band. Your stage presence is a breath of fresh air and your band knows it!
    [0BE30] 0x17F551D6E4E1BF13: When venues book your band, they know they are booking you as the headlining act. No questions asked, because there aren't any questions. Only an answer – your band is the best.
@@ -52266,7 +52266,7 @@ Unknown3: 0x00000000
    [0CC25] 0x3E0313E69D1597BF: {2.SimName} has completed {0.Number} assignments and will always remember meeting these professional milestones.
    [0CC26] 0xA53DB0C686A31BFA: Every time a case is solved, a llama gets an apple. Or, in this case, a private investigator got their reward.
    [0CC27] 0x14B005589AC84285: Solved Case
-   [0CC28] 0x579CC19B35C30C19: {2.SimName} has solved {MA.his}{FA.her} first case. What a memorable moment for an up and coming private investigator!
+   [0CC28] 0x579CC19B35C30C19: {2.SimName} has solved {MA.his}{FA.her} first case. What a memorable moment for an up-and-coming private investigator!
    [0CC29] 0xDA30BFBCE7BA578C: This was a much awaited career milestone after spending one too many hours digging in trash cans and spying through windows.
    [0CC2A] 0xA6376532D5A2B1E3: Solved {0.Number} Cases
    [0CC2B] 0x6A5453E6FD3B1D4B: {2.SimName} will always remember the day {MA.he}{FA.she} felt like a seasoned investigator with {0.Number} solved cases under {MA.his}{FA.her} belt.
@@ -74685,7 +74685,7 @@ Unknown3: 0x00000000
    [123B8] 0x2866546C27C0319E: Practice Painting Skill
    [123B9] 0x959007B84B91BAB4: Hone in on your painting skills to become a better artist.
    [123BA] 0xB5C3E6E8460D0F17: Research Sports Statistics
-   [123BB] 0x18202AD6B64DA163: Scour statistics to find the hot up and coming athletes.
+   [123BB] 0x18202AD6B64DA163: Scour statistics to find the hot up-and-coming athletes.
    [123BC] 0x5857ADE3F9DA7370: Sports Agent
    [123BD] 0x97474D7BBDA1DFF2: Sports Agent Branch Offer DO NOT TRANSLATE
    [123BE] 0xA3F3BA984FCA19DE: Sports Agent
