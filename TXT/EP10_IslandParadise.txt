@@ -113,7 +113,7 @@ Unknown3: 0x00000000
    [06C] 0x21739115FE97BB82: Wild nights - Wild nights! If not at sea, mooring posts are more than luxury! Futile - the waves - to your boat when tied - you’ll know where to go, when you need a ride! Rowboats stay tethered - Ah, you’ll see! You should moor your boat - with me!
    [06D] 0x3831AA91581A8E7C: A spray from this magical can will shoo off all those pesky mosquitos. Never will Sims worry about being a victim of nasty bug bites when this repellent is applied.
    [06E] 0xB46BEDFD06B10C5D: Mosquito Spawner
-   [06F] 0x8EE66B9F6958FF30: Oh, those lazy summer days of our youth. The gentle breezes, the warming rays, the subtle ‘glug-glugging’ of our pedal-powered boats. Simpler times. Happier times. Carefree times. Being an adult is terrible, is what I’m getting at - it's just miserable - but they’ll never take our paddleboats!
+   [06F] 0x8EE66B9F6958FF30: Oh, those lazy summer days of our youth. The gentle breezes, the warming rays, the subtle "glug-glugging" of our pedal-powered boats. Simpler times. Happier times. Carefree times. Being an adult is terrible, is what I'm getting at. It's just miserable... But they'll never take our paddleboats!
    [070] 0xF6C870E71FAEDE5E: A weathered map once used by a sea captain.
    [071] 0xF6C870E71FAEDE5D: An old map illustrated by a famous explorer.
    [072] 0xF6C870E71FAEDE5C: Captain Jack's treasure map, eh?
@@ -228,9 +228,9 @@ Unknown3: 0x00000000
    [0DF] 0x5783BBE7BF2B8C9F: Palm Bismarks, as we all know, are named after the venerable Grotto Von Bismark, who used his mighty palms to plant the first of the trees in these lands centuries ago. Add several to your yard today!
    [0E0] 0x3E2916EFA98CED0A: The date palm tree is the perfect tree for lovers.
    [0E1] 0xF47888310B6EF9A6: The question remains...where is the King Palm?
-   [0E2] 0x6A8D3F7F57EA3F93: A twist on the normal ‘boring bark, pretty leaves’ paradigm, the beautiful rainbow eucalyptus has some plain leaves but plenty of funk in its trunk.
+   [0E2] 0x6A8D3F7F57EA3F93: A twist on the normal "boring bark, pretty leaves" paradigm, the beautiful rainbow eucalyptus has some plain leaves but plenty of funk in its trunk.
    [0E3] 0x68BCD0650A01DA5E: Money doesn’t grow on trees (for most)! However, you can use all of your money to buy the trees that we’ve grown, and that’s pretty darn close!
-   [0E4] 0x3078ED092C1D0424: Its etymology time! ‘Rhododendron’ is derived from the ancient Greek meaning ‘rose tree.’ Wow. Real original, ancient Greeks.
+   [0E4] 0x3078ED092C1D0424: Its etymology time! "Rhododendron" is derived from the ancient Greek meaning "rose tree." Wow. Real original, ancient Greeks.
    [0E5] 0x6AF66AA74DE17C4A: These pleasant purple "roses" are sure to increase the pretty factor of your yard, garden, or private island.
    [0E6] 0x8A0C6BD97B536864: Yellow is the color of sunshine, sand, and cowards.
    [0E7] 0xFEF7600853D4BF66: Mangrove trees are tropical trees with roots that dig deep, deep into the earth.

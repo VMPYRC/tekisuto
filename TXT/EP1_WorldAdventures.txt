@@ -633,7 +633,7 @@ Unknown3: 0x00000000
    [0274] 0xEFC09FCE40AFB029: Step up to elegance in this luxurious home. You’ll be the talk of the town… hopefully because of your fabulous new home!
    [0275] 0x2A72F6F14334EC45: Location, location, location! Who needs it? If you care more about your four walls rather than your street address, then this beauty is for you.
    [0276] 0xBF5D316C72B81816: Once owned by a reputed jewel thief, this hidden gem just might hold a hidden treasure inside its walls. Perfect for someone who loves to remodel and carries a large sledge hammer.
-   [0277] 0x7B629EC036240A12: Once voted ‘Best of Champs Les Sims’ by a prestigious panel of anonymous and well-paid judges, this home is constructed of the finest materials available.
+   [0277] 0x7B629EC036240A12: Once voted "Best of Champs Les Sims" by a prestigious panel of anonymous and well-paid judges, this home is constructed of the finest materials available.
    [0278] 0x1F681D44212F7B6D: A fisherman’s paradise. Who could resist the dramatic views while angling from your very own backyard?
    [0279] 0x84FE08237484E026: This house has all the room you could ask for…and maybe even some you didn’t! Bonus! Move in and start life anew!
    [027A] 0xF0C53617362B0C92: This living space will beckon you in and then keep you warm and comforted. Bonjour!
@@ -920,8 +920,8 @@ Unknown3: 0x00000000
    [0393] 0x634551F89A660CE8: Bring a Group Serving of Great Stir-Fry to Work
    [0394] 0xA2413C93C87B4C2E: The breadth of your Cooking Skill has improved greatly and everyone found the Falafel incredibly tasty and unique. The boss gave everyone who contributed a raise!
    [0395] 0xE2BDBD2AAC9F1065: The breadth of your Cooking Skill has improved greatly and everyone found the Falafel incredibly tasty and unique. The boss gave everyone who contributed a raise!
-   [0396] 0x214D6B9F01F79BAA: It's ethnic week at work and everyone has been asked to bring in a unique dish to ‘broaden the flavors’ of the new menu. Learn how to make Egyptian Falafel and bring a serving to work to impress your co-workers. Your contribution will earn you a raise.
-   [0397] 0x8855027606CDF399: It's ethnic week at work and everyone has been asked to bring in a unique dish to ‘broaden the flavors’ of the new menu. Learn how to make Egyptian Falafel and bring a serving to work to impress your co-workers. Your contribution will earn you a raise.
+   [0396] 0x214D6B9F01F79BAA: It's ethnic week at work and everyone has been asked to bring in a unique dish to "broaden the flavors" of the new menu. Learn how to make Egyptian Falafel and bring a serving to work to impress your co-workers. Your contribution will earn you a raise.
+   [0397] 0x8855027606CDF399: It's ethnic week at work and everyone has been asked to bring in a unique dish to "broaden the flavors" of the new menu. Learn how to make Egyptian Falafel and bring a serving to work to impress your co-workers. Your contribution will earn you a raise.
    [0398] 0x9F50D9D48A296FAA: EP1_CareerCulinary_EgyptFoodFailure
    [0399] 0xEA448FEC1536123F: Learn the recipe for Falafel, then cook a serving and bring it to work to earn a raise.
    [039A] 0xE05F8E5E2798DC4E: Learn the recipe for Falafel, then cook a serving and bring it to work to earn a raise.
@@ -1079,8 +1079,8 @@ Unknown3: 0x00000000
    [0432] 0xE8AF46329BB58F91: "Learn about Herbal Medicine" in Shang Simla
    [0433] 0x267F2A43415F708A: The chunks of Mummitomium were analyzed and found to be a dynamic, unstable metal, perfect for invisibility! You were paid for the overtime work and your job performance keeps getting better.
    [0434] 0xD8529F60E1E36E39: The chunks of Mummitomium were analyzed and found to be a dynamic, unstable metal, perfect for invisibility! You were paid for the overtime work and your job performance keeps getting better.
-   [0435] 0xEC15BB8A5BBC343E: A rare metal has been discovered in Egypt and the military thinks it may have just the right elemental properties to propel the next generation of stealth aircraft! Your boss has asked you to collect some specimens of ‘Mummitomium’ for research. You’ll be paid for the overtime work.
-   [0436] 0xB4F360CF64E036B5: A rare metal has been discovered in Egypt and the military thinks it may have just the right elemental properties to propel the next generation of stealth aircraft! Your boss has asked you to collect some specimens of ‘Mummitomium’ for research. You’ll be paid for the overtime work.
+   [0435] 0xEC15BB8A5BBC343E: A rare metal has been discovered in Egypt and the military thinks it may have just the right elemental properties to propel the next generation of stealth aircraft! Your boss has asked you to collect some specimens of "Mummitomium" for research. You’ll be paid for the overtime work.
+   [0436] 0xB4F360CF64E036B5: A rare metal has been discovered in Egypt and the military thinks it may have just the right elemental properties to propel the next generation of stealth aircraft! Your boss has asked you to collect some specimens of "Mummitomium" for research. You’ll be paid for the overtime work.
    [0437] 0x307F1DC1D79DCBB6: EP1_CareerMilitary_BringMummyRocksFailure
    [0438] 0xABE1FBBE2D08D7B3: Collect {9.Number} chunks of Mummitomium and bring them to work to receive your overtime pay and increase your job performance.
    [0439] 0x88999C04B1F1629A: Collect {9.Number} chunks of Mummitomium and bring them to work to receive your overtime pay and increase your job performance.
@@ -1511,7 +1511,7 @@ Unknown3: 0x00000000
    [05E2] 0x21525AE0F1CFB561: EP1_Quest_BuildingATelescope4Completion
    [05E3] 0x85618B5CE98AF52F: "Thanks for your help. But, I’m so disappointed! The new telescope lens got slightly damaged in the mail and will no longer fit into the lens socket! What shall I do? Wait! I have a friend who maybe able to fix it without having to send it back in the mail. You, {1.SimFirstName}, have proven to be a big help in my endeavor; can I request your services once again? I need you to deliver the telescope parts to {2.SimName} to be fixed."
    [05E4] 0x35264EC4D3F182BE: "Thanks for your help. But, I’m so disappointed! The new telescope lens got slightly damaged in the mail and will no longer fit into the lens socket! What shall I do? Wait! I have a friend who maybe able to fix it without having to send it back in the mail. You, {1.SimFirstName}, have proven to be a big help in my endeavor; can I request your services once again? I need you to deliver the telescope parts to {2.SimName} to be fixed."
-   [05E5] 0x2C4E488F871C47FF: You destroyed the parts! Hopefully, the sim can get some more later.
+   [05E5] 0x2C4E488F871C47FF: You destroyed the parts! Hopefully, the Sim can get some more later.
    [05E6] 0xFC30B4E88C437D74: Deliver the telescope parts to {2.SimName} so that they can be properly repaired.
    [05E7] 0x081956422D4F7077: Deliver the telescope parts to {2.SimName} so that they can be properly repaired.
    [05E8] 0x2E5BA9E8A82B3976: Busted Parts
@@ -1519,7 +1519,7 @@ Unknown3: 0x00000000
    [05EA] 0x92DA1342EC2272FC: EP1_Quest_BuildingATelescope5Completion
    [05EB] 0xC228D1C6D27EE038: “I’ve repaired the lens! Now that it’s complete, please take it back so that {0.SimName} can begin studying the Dragon Cave from home. {0.SimFirstName} told me you’d be paid with some Simoleons and Ancient Coins for your help.”
    [05EC] 0x92F57E640EC0FEF3: “I’ve repaired the lens! Now that it’s complete, please take it back so that {0.SimName} can begin studying the Dragon Cave from home. {0.SimFirstName} told me you’d be paid with some Simoleons and Ancient Coins for your help.”
-   [05ED] 0xAEB5A81C5EE31E94: You destroyed the parts! Hopefully, the sim can get some more later.
+   [05ED] 0xAEB5A81C5EE31E94: You destroyed the parts! Hopefully, the Sim can get some more later.
    [05EE] 0x3B5C70E2F865EF71: Return the repaired telescope lens to {0.SimName} for a reward of Simoleons and Ancient Coins.
    [05EF] 0xE39982754152AE24: Return the repaired telescope lens to {0.SimName} for a reward of Simoleons and Ancient Coins.
    [05F0] 0x08577BE2DBC48F57: Repair Retrieval
@@ -3553,10 +3553,10 @@ Unknown3: 0x00000000
    [0DDC] 0xBD7895377E19F6D7: Train Local
    [0DDD] 0xD159379423DB14C6: Train Local
    [0DDE] 0x856B4E16F05E3570: Report Back
-   [0DDF] 0xF1BB6AACD581AEE9: You’ve certainly increased your Charisma Skill with all that socializing! You received some money for your participation in the ‘Friendly World’ program.
-   [0DE0] 0x32C9374510647E3C: You’ve certainly increased your Charisma Skill with all that socializing! You received some money for your participation in the ‘Friendly World’ program.
-   [0DE1] 0xB6D656F7C8E86527: There’s a new ‘Friendly World’ initiative at City Hall to encourage cross-culture understanding. They would like to recognize locals who have established friendships with Sims in other locations. You would have to go to City Hall to prove these relationships are legit.
-   [0DE2] 0x3D89B03C8ECD87D6: There’s a new ‘Friendly World’ initiative at City Hall to encourage cross-culture understanding. They would like to recognize locals who have established friendships with Sims in other locations. You would have to go to City Hall to prove these relationships are legit.
+   [0DDF] 0xF1BB6AACD581AEE9: You've certainly increased your Charisma Skill with all that socializing! You received some money for your participation in the "Friendly World" program.
+   [0DE0] 0x32C9374510647E3C: You've certainly increased your Charisma Skill with all that socializing! You received some money for your participation in the "Friendly World" program.
+   [0DE1] 0xB6D656F7C8E86527: There's a new "Friendly World" initiative at City Hall to encourage cross-culture understanding. They would like to recognize locals who have established friendships with Sims in other locations. You would have to go to City Hall to prove these relationships are legit.
+   [0DE2] 0x3D89B03C8ECD87D6: There's a new "Friendly World" initiative at City Hall to encourage cross-culture understanding. They would like to recognize locals who have established friendships with Sims in other locations. You would have to go to City Hall to prove these relationships are legit.
    [0DE3] 0x247CFD61443B0257: EP1_SkillCharisma_EgyptianFriendsFailure
    [0DE4] 0xCDF1C019A984B3EC: Travel to Egypt and become friends with {0.Number} locals, then report back to City Hall for a cash reward.
    [0DE5] 0x6565490707F0062F: Travel to Egypt and become friends with {0.Number} locals, then report back to City Hall for a cash reward.
@@ -4322,7 +4322,7 @@ Unknown3: 0x00000000
    [10DD] 0xF67EA799C50FF2F1: Reward
    [10DE] 0xD721EB0E0E1B7ECF: Visa Level
    [10DF] 0xF8AB1A7795BBC2B8: Travel Time
-   [10E0] 0x5AC254FB85A75A35: At least one sim must remain in household while on a trip
+   [10E0] 0x5AC254FB85A75A35: At least one Sim must remain in household while on a trip
    [10E1] 0xC678A8A7E00A9BC1: World Adventures
    [10E2] 0xA2040C86B35CB573: Music
    [10E3] 0xDAF77C3FCB80C0FA: The Sims™ 3 World Adventures Team

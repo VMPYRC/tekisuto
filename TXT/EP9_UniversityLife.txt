@@ -176,7 +176,7 @@ Unknown3: 0x00000000
    [0AB] 0x6AEED319D0CCEEC9: Wall tapestries lost their luster years ago. It was a tragedy on par with the death of the corset. Now we can only keep them on the floor.
    [0AC] 0x258225EB73625DBF: The masterpiece from abstract painter Palo Jackson is now available in rug form! Printed with splatters of paint, they’re instant conversation pieces and not too crusty.
    [0AD] 0x326BAAD4C0055661: GoTeamGo presents logo-inscribed rugs for use in the home, garage or locker room. Rub your feet lovingly on your favorite mascot’s face, or turn the opposition into literal doormats.
-   [0AE] 0x326BAAD4C0055660: The plus-sized addition to GTG’s classic “Stomp on ‘Em” rugs. These buffed-up monsters fill the largest spaces with team spirit. They really tie the room together.
+   [0AE] 0x326BAAD4C0055660: The plus-sized addition to GTG's classic "Stomp on 'Em" rugs. These buffed-up monsters fill the largest spaces with team spirit. They really tie the room together.
    [0AF] 0xF83F1DE018AA6B2F: Some of the world’s most innovative minds are graduates of our schools of Technology and Science & Medicine.
    [0B0] 0x9CCB359A14FF01C4: Scientific Sample Description DO NOT TRANSLATE
    [0B1] 0xF4D91A20CCBA4FD6: For the first time in history, every major scientific tool is in a single device. Conducts research, fabricates samples, and builds skills. Darker experiments might even be possible...
@@ -238,11 +238,11 @@ Unknown3: 0x00000000
    [0E9] 0x3DC8CF715BE69DC3: These purely decorative protest signs are a powerful and low-effort way to show visitors what really matters to you. Llama experimentation is wrong. So are ring-back songs on cell phones.
    [0EA] 0x246B9F7AB6C9C0D6: Some folks mount trophies on their walls. Others find different trophies to mount on their walls in the form of empty bottles. Either way, your walls need decorating!
    [0EB] 0x47CB6CBF764CEDC4: Wells Lighting brings you an arrangement as tasteful as it is non-functional. At last your home can benefit from the exotic elegance of paper lanterns without the enormous fire hazard!
-   [0EC] 0x4603B59C491BC925: Protest signs don’t disappear once the rally’s over. Not even once you’ve moved on to the next cause, or gotten into gourmet cooking. So just throw ‘em in a pile.
+   [0EC] 0x4603B59C491BC925: Protest signs don't disappear once the rally's over. Not even once you've moved on to the next cause, or gotten into gourmet cooking. So just throw 'em in a pile.
    [0ED] 0x750C90EB074405CA: Engineered to S.I.’s specifications, Syllabus holds all the books a normal Sim might require in a school year. Afterwards you can store them, because you’ll TOTALLY read them again.
    [0EE] 0x030F73FAFAB5F680: For those who need less structure than the Syllabus Shelf provides, we present this utilitarian wall storage option. Like the modernists, S.I. breaks walls down.
    [0EF] 0xED869266F81FCC13: Just look at that empty wall: flat, boring and unproductive. Put that lazy vertical plane to work with this simple, sturdy wall shelf. Supports objects weighing up to several pounds.
-   [0F0] 0x67ACE2CFA5C128E8: Style means trying hard while pretending otherwise. In that spirit, Clap ‘n’ Board offers patented Natural Shelving. It looks like a construction accident, but it’s really high-end retail furniture!
+   [0F0] 0x67ACE2CFA5C128E8: Style means trying hard while pretending otherwise. In that spirit, Clap 'n' Board offers patented Natural Shelving. It looks like a construction accident, but it's really high-end retail furniture!
    [0F1] 0x7DAF406BF2054CA7: Want a future in art or design? Well then, you’d better carry a sketchbook! Ideas are fast and fleeting; record every moment of inspiration right in the moment.\n\nUniversity Fine Arts Majors tote this visual journal to render big gains to academic performance.
    [0F2] 0x8B23A7F0939485F7: sketchBookWall desc DO NOT TRANSLATE
    [0F3] 0x6414B523945F0811: Perfect balance and Standard Issue’s famous Ultra-Scratch upholstery come together in Common Space. You wouldn’t let your friends sit on it. But hundreds of anonymous Sims passing through? Sure!
@@ -282,7 +282,7 @@ Unknown3: 0x00000000
    [115] 0xDF3777952C0631DC: You found this trash can waiting when you moved in. So did your neighbor, and everyone in the whole complex. Now try to find a trash bag this small.
    [116] 0xB62BBAE880B4C9EC: Luminous leaves liven up landscapes! This tree’s foliage is second to none, and its thorns are the same. Sims will love having this tree in their yard!
    [117] 0xBD790F871570DAC0: The Bushblossom is a rare deciduous tree with hearty leaves that was imported from a faraway land. Sims the world over can now enjoy this handsome tree.
-   [118] 0x5E5414BB3985EE81: The ‘Fall’ Bushblossom gets its name from the unique color of its leaves. It was considered a rare tree, but advancements in technology have made this an easier find. 
+   [118] 0x5E5414BB3985EE81: The 'Fall' Bushblossom gets its name from the unique color of its leaves. It was considered a rare tree, but advancements in technology have made this an easier find. 
    [119] 0x15FF9DC8805854C1: Who doesn’t miss their first TV, showing five channels and weighing 300 lbs.? For the nostalgics, Standard Issue presents the Mastodon: theft deterrent because it’s so heavy, but not guaranteed.
    [11A] 0x1BCA702D8231EFF4: This handy little kit is a great introduction to the world of University! Whether you’re currently enrolled in University or just planning for the day, display your school spirit proudly!
    [11B] 0xD30DACB71B903339: This vending machine is like heaven for the sweetest of sweet tooth: all the candy you can eat! No matter the contours of your sweet tooth, the Sugar Slide will satisfy.
@@ -326,7 +326,7 @@ Unknown3: 0x00000000
    [141] 0x6EBAAA8A7591C465: Melville and Milk Crates Bookshelf
    [142] 0x05FA0F3A91FAA3A6: Herbenworg Bookshelf by SPROOP
    [143] 0x05F00D3A91F24B9D: Herbendubelworg Bookshelf by SPROOP
-   [144] 0x81E2C857E08B6FEA: A-Frame Bookshelf by Clap ‘n’ Board
+   [144] 0x81E2C857E08B6FEA: A-Frame Bookshelf by Clap 'n' Board
    [145] 0x42C70D8E2509AF88: Nimbus Bookshelf by Weighty Concepts
    [146] 0x1770873D8C2FA4DF: University Bookstore
    [147] 0x4FFFBD68531A6368: Bottle of Super Spice
@@ -366,14 +366,14 @@ Unknown3: 0x00000000
    [169] 0x8E0F91F59A481925: Parked Car Van
    [16A] 0x3AE3117B565E3000: Relocation Rover
    [16B] 0x15BFA16D545FE9DD: Roentgen Register
-   [16C] 0x749244B6388D5603: Flat ‘n’ Scratchy Dining Chair by Standard Issue
+   [16C] 0x749244B6388D5603: Flat 'n' Scratchy Dining Chair by Standard Issue
    [16D] 0xFEDC890B437A417F: One of a Million by Standard Issue
    [16E] 0xB5BF7ACA356557A1: “Anger, Pain, Fear, Aggression” by Secret Bohemia
-   [16F] 0x1FB05C871AD506FC: “King of the ‘Gate” Fold-Out Chair by GoTeamGo
+   [16F] 0x1FB05C871AD506FC: "King of the 'Gate" Fold-Out Chair by GoTeamGo
    [170] 0x87E3050B90A52538: High Backs, Low Taxes by Annals of Power
    [171] 0x2D0C9F7E701D35C3: Cadet Chair by Optimal Construction
    [172] 0x7954B80686DD6CEB: King of the Basement Living Chair by That Dumpster Out Back
-   [173] 0x109D709C9ECE6D37: Tilt ‘n’ Itch Living Chair by Standard Issue
+   [173] 0x109D709C9ECE6D37: Tilt 'n' Itch Living Chair by Standard Issue
    [174] 0xBCACAFAB07889D69: Sweet Find, Bro! Living Chair from That Dumpster Out Back
    [175] 0xCA3FF047D4C3A7C9: Pondering Throne by Weighty Concepts
    [176] 0x09A4EB39C0D8DF8A: Chamomile
@@ -397,7 +397,7 @@ Unknown3: 0x00000000
    [188] 0xEAB0AFD848589F1D: Alpha Omega Door by Elegance Asserted
    [189] 0xA933B94449B5DC25: Archa Omega Archway by Elegance Asserted
    [18A] 0x3762B4B3F1BD1E92: Pristine Pastures Door by Standard Issue
-   [18B] 0x4CF7E83E4FC8F240: Magnificent Mercantile Door by Clap ‘n’ Board
+   [18B] 0x4CF7E83E4FC8F240: Magnificent Mercantile Door by Clap 'n' Board
    [18C] 0x6D6B44C613F1B93E: Fuzzy Drawers Dresser by Standard Issue
    [18D] 0x9FA0BAD13CEEE690: Dilapidated Theater Hut
    [18E] 0x98B98BFDF419E2C7: Dilapidated Theater Screen
@@ -518,11 +518,11 @@ Unknown3: 0x00000000
    [201] 0xEAD493144DDCA900: Awesomecyclene Bromostylin’ Rug by Optimal Construction
    [202] 0x64BE69068EE79088: The Foot Tapestry Rug by Elegance Asserted
    [203] 0x34BB6D799C6416B4: “Goats on a Boat” Rug by Palo Jackson
-   [204] 0x11A16C024BB9BC58: Stomp on ‘Em Rug by GoTeamGo
+   [204] 0x11A16C024BB9BC58: Stomp on 'Em Rug by GoTeamGo
    [205] 0x11A16C024BB9BC59: Big Stomper Rug by GoTeamGo
    [206] 0xB1C576817DDE8522: Busche School of Science
    [207] 0x41D5983D6C8F9BD3: ZRX-9000 Science Research Station
-   [208] 0xBAF38109D33D297F: Hang ‘Em High Ceiling Pennants by GoTeamGo
+   [208] 0xBAF38109D33D297F: Hang 'Em High Ceiling Pennants by GoTeamGo
    [209] 0x357B241A1C40E7A2: Literati Inspirational Statue
    [20A] 0x90DF4D6C129E22AE: Chest of Champions by GoTeamGo
    [20B] 0xEF23FEC1A8680D4C: Disposable Heroes Floor Cutout by Standard Issue
@@ -578,13 +578,13 @@ Unknown3: 0x00000000
    [23D] 0x6CB03EB4EEE01D82: Drying on the Line Wall Sculpture by Secret Bohemia
    [23E] 0x8462F252BDF338CF: Layered Tastes by Standard Issue
    [23F] 0x188BADDBA94B046E: We Ain’t Gonna Take It Protest Signs
-   [240] 0xBD0D59B817B9AA15: Everything in Moderation Wall Sculpture by Stinky ‘n’ Sloppy
+   [240] 0xBD0D59B817B9AA15: Everything in Moderation Wall Sculpture by Stinky 'n' Sloppy
    [241] 0xF1B19A3A7015A0FD: Little Lanterns Wall Sculpture by Wells Lighting
    [242] 0x46AD98C354BF0ABC: V for Very Upset Wall Sculpture by GloboCon Printing LLC
    [243] 0x3B54FE637FD7DF7D: Syllabus Wall Shelf by Standard Issue
    [244] 0x24DCCDB2D86F106D: Cubist Crating Wall Shelf by Standard Issue
    [245] 0x714C9160BB29B732: One Shelf Fits All Wall Shelving by Standard Issue
-   [246] 0x1B0F3EBF0C8027B3: Pipes and Plywood Natural Shelving by Clap ‘n’ Board
+   [246] 0x1B0F3EBF0C8027B3: Pipes and Plywood Natural Shelving by Clap 'n' Board
    [247] 0x5EBAA1C56A2B48CC: signBannerProtestHunger name DO NOT TRANSLATE
    [248] 0xDD00CDB22EE43B6A: signBannerProtestRowdy name DO NOT TRANSLATE
    [249] 0x4E4D6BBA0063D192: signBannerProtestStandard name DO NOT TRANSLATE
@@ -649,8 +649,8 @@ Unknown3: 0x00000000
    [284] 0xB53917710DD46D4E: whiteBoardMarker DO NOT TRANSLATE
    [285] 0x9A4BAF35F38D7342: Warm Winters Window by Optimal Construction
    [286] 0x36979D201030B47D: Cold Climax Double Window by Optimal Construction
-   [287] 0x233874592170BADD: Mini-Mercantile Window by Clap ‘n’ Board
-   [288] 0x5963015B41A49984: Mighty Mercantile Window by Clap ‘n’ Board
+   [287] 0x233874592170BADD: Mini-Mercantile Window by Clap 'n' Board
+   [288] 0x5963015B41A49984: Mighty Mercantile Window by Clap 'n' Board
    [289] 0x559C39D0679B540E: Square Sightlines Window by Standard Issue
    [28A] 0x2CA0057A634D4501: SuperSquare Window by Standard Issue
    [28B] 0x6945BE6E7A1F09D0: Wonderpetal
@@ -2001,7 +2001,7 @@ Unknown3: 0x00000000
    [7CC] 0x95EBCE7992FDDF6D: While everyone else was partying, you had your own private party.
    [7CD] 0xBDC942380F5BACC3: Part of a great rush party is getting your groove on and making connections with other Sims. Make some WooHoo and show off your party spirit.
    [7CE] 0x983CBC68EF8119BB: Everyone was having too much fun at the party to WooHoo.
-   [7CF] 0x31D1DED661325FB8: Find a sim to WooHoo with.
+   [7CF] 0x31D1DED661325FB8: Find a Sim to WooHoo with.
    [7D0] 0x1F8A8BD656930B92: WooHoo!
    [7D1] 0xF1A9672C400940F2: WooHoo with another Sim.
    [7D2] 0x6C3FBFBF815F7B91: You completed the dare!
@@ -2212,7 +2212,7 @@ Unknown3: 0x00000000
    [89F] 0x8A0C5085FA37982E: Your memory is a little fuzzy from donating plasma, but now you have a pocketful of Simoleons!
    [8A0] 0xBBAC502984ECBFAA: Seeking volunteer to donate plasma for a Sim who has a plasma deficiency. Must have healthy eating habits and willing to lose a few hours of your life. Donators will be well compensated.
    [8A1] 0xDF2EFAD252EE53AA: Donating plasma sounded great until you realized needles were involved...
-   [8A2] 0xBEA85545CA34BE3F: Visit the {OpTarget} and Offer to Donate Plasma for the deficient sim.
+   [8A2] 0xBEA85545CA34BE3F: Visit the {OpTarget} and Offer to Donate Plasma for the deficient Sim.
    [8A3] 0xAC612045BF959D15: Get Paid for Your Excess Plasma
    [8A4] 0xE4D617EECBE828A5: Visit the {OpTarget} and offer to donate plasma for the deficient Sim.
    [8A5] 0x0B30D27EDB5BB470: You just enrolled in University! Enrolling in University also earned your household some extra Simoleons to help pay for tuition!
@@ -2479,7 +2479,7 @@ Unknown3: 0x00000000
    [9AA] 0xBD2FA5E89E90721C: You just powered up your standing within the Nerd group!
    [9AB] 0x8947EF1BCB306DD8: Few games offer a mix of logic and strategy like chess, so it’s no wonder Nerds love to play it so much. Head to a chess table and show the Nerds you’re one of them.
    [9AC] 0x28486767E7471434: {0.SimName} has failed to complete the task in time.
-   [9AD] 0x2C838A3EF9E67191: Win a game of chess against another sim
+   [9AD] 0x2C838A3EF9E67191: Win a game of chess against another Sim
    [9AE] 0xF619953EDA639C77: Chess Nerd
    [9AF] 0xF1A5C64C483A01E3: Win 3 games of chess against other Sims.
    [9B0] 0xAABD001B5C3F3F21: EP9_SocialGroup_Nerd_VideoGameTourCompletionntCompletion Placeholder DO NOT TRANSLATE
@@ -2544,7 +2544,7 @@ Unknown3: 0x00000000
    [9EB] 0x0D23F60A3131D13C: Your rebellious behavior improved your standing with the Rebels.
    [9EC] 0x4801EC57DED07D78: The {OpTarget} is feeling too relaxed and sleepy... Unleash some rebellious behavior with a boisterous outburst of the megaphone. It's just long overdue.
    [9ED] 0x2E2EC31F28BE2CD4: {1.SimName} has failed to complete the task in time.
-   [9EE] 0xCCE936B9D73685B1: Scare 3 sims at the {OpTarget} with a Megaphone
+   [9EE] 0xCCE936B9D73685B1: Scare 3 Sims at the {OpTarget} with a Megaphone
    [9EF] 0x99E541B9BA96D897: Public Scare
    [9F0] 0x72923EB0887C0203: Scare 3 Sims at the {OpTarget} with a megaphone.
    [9F1] 0x2A898489AA6EB491: Your rebellious behavior improved your standing with the Rebels.
