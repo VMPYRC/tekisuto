@@ -314,7 +314,7 @@ Unknown3: 0x00000000
    [00135] 0x3920466A1D63F8D4: Fireplace 2.0 picks up exactly where the last iteration left off, but with a few noticeable improvements. Smoke now escapes through the newly-added chimney, and the interior has been redesigned to actually keep flames inside.
    [00136] 0x1D45CECAA371B507: There’s nothing cold about the Chimenea Muy Caliente. Even long after its fires have been extinguished, this fiery fireplace stays warm from the hot Latin flicker of bygone flames. So if you can’t stand the heat, stay away from the Chimenea Muy Caliente!
    [00137] 0x132D2961BCE85E7A: Sleek, stylish and full of hot flames, the Torch Moderne will light your home and ignite your affinity for all things current. Don't get burned by lesser fireplaces – grab the torch of top tier architectural taste before this offer is extinguished!
-   [00138] 0x50E9BEDEE58F2195: Romantic fireside rendezvous and bustlingly warm conversations now come standard with the Sweet Heat Home Warmer! Friends and significant others not included. Romanco – Warming homes and hearts for generations.
+   [00138] 0x50E9BEDEE58F2195: Romantic fireside rendezvous and lively warm conversations now come standard with the Sweet Heat Home Warmer! Friends and significant others not included. Romanco – Warming homes and hearts for generations.
    [00139] 0xC7A0B019A02190A5: Afraid that guests might discover your secret – a gas fireplace? You'll fool them all with decorative fire tools! Let 'em think you're not afraid to get your hands dirty!
    [0013A] 0x0B88168D3B17F980: ****
    [0013B] 0x9514503F64184D37: *****
