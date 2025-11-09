@@ -51,11 +51,11 @@ Unknown3: 0x00000000
    [2E] 0x03DD92148E407E71: The Class-E Dining Table will take your next outdoor dining experience to a more elegant level. Designed with the seating preferences of the rich and affluent, this table is sure to please and amuse your most prosperous of guests. And with weather proofed sealants and coating, sun damage to your outdoor's finest feaster is not a concern!
    [2F] 0x2369DEC3CF09C86E: This classic design has been used for centuries by Llama trainers throughout the world in circuses, carnivals, and zoos. Strong enough to support the weight of a Llama, yet beautifully crafted for use in public appearances, this end table is a great fit for your outdoor bonanza!
    [30] 0x4E8E1C29F26DC59B: At the turn of the first millennium, Morrigan Hemlock fought for the inclusion of astrology into the scientific realm, but could never convince the authorities of its scientific legitimacy. After nearly a 45 year battle, Morrigan turned to astronomy as a scientific endeavor. This telescope, first coined as a “star gazer” is what Morrigan used to wow the crowd of scientific experts, and thus forever lost her love of astrology. 
-   [31] 0x628541EE69C1EA40: Designed for queens, emperors, and today’s wealthy elite, the Imperial Viewing Screen has been delicately handcrafted to the strictest standards available to today’s LCD handcrafters. The screen boasts futuristic 2160p resolution, hi-fi sound, and a huge footprint that is sure to make an impression on any viewers.
+   [31] 0x628541EE69C1EA40: Designed for queens, emperors, and today's wealthy elite, the Imperial Viewing Screen has been delicately handcrafted to the strictest standards available to today's LCD handcrafters. The screen boasts futuristic 2160p resolution, hi-fi sound, and a huge footprint that is sure to make an impression on any viewers.
    [32] 0x61F67C1A90FD9F54: The Original Griller Entertainment Series Barbeque
    [33] 0x6000B9F3F9F5DBD3: Outdoorsy Life Bar
    [34] 0x94D81AD7E7230BE8: Throne d'Elegance
-   [35] 0x19031355480DF5EE: The Poet’s Respite
+   [35] 0x19031355480DF5EE: The Poet's Respite
    [36] 0x5B1822C42112E1FE: Organica Life Chair
    [37] 0xC776EB36C9550069: The Outdoor Napper
    [38] 0xA23EBB82160E98E3: Continental Vision Counter Island
@@ -96,7 +96,7 @@ Unknown3: 0x00000000
    [5B] 0x2CF3B0A7456CC83F: Landgraab Industries MaxBTU Cooktop
    [5C] 0xDD663EC8BD675036: Class-E Dining Table
    [5D] 0x21EEA913D84F05AD: The Llama Stand End Table
-   [5E] 0x43E052FD9C42E0E6: Morrigan’s Star Gazer
+   [5E] 0x43E052FD9C42E0E6: Morrigan's Star Gazer
    [5F] 0x2F51B013E5483481: The Imperial Viewing Screen
    [60] 0x2AECA3052A11741F: We are unable to verify that your disc is a valid copy of The Sims 3 Outdoor Living Stuff. Please contact customer service.
    [61] 0x43C991B868EDA8B3: No game disc found! Please insert The Sims 3 Outdoor Living Stuff game disc before proceeding.
