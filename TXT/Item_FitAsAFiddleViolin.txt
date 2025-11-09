@@ -23,7 +23,7 @@ Unknown3: 0x00000000
    [12] 0xF7DD6A6186FB968F: Total Played Compositions: {0.Number} 
    [13] 0xFA6D5CF575C43193: Total Played Medieval Compositions: {0.Number}
    [14] 0x389EBE14A53C9A0A: Summer of Sage
-   [15] 0x8C3BC4F2C3A03411: You’re still here?
+   [15] 0x8C3BC4F2C3A03411: You're still here?
    [16] 0x359EFDF93AC4B700: Savage Charles
    [17] 0x73E61666E6F41907: Evil Child of the Well
    [18] 0x9ECBEA3328175A26: The Reaper Went Down to Georgia
@@ -35,6 +35,6 @@ Unknown3: 0x00000000
    [1E] 0x6660F2503969E092: Plumbob Bob
    [1F] 0xBA44FF7BAABAA752: The Tenth Ballad of Henry the Ninth
    [20] 0xE504E5735C532D02: Armored Armour
-   [21] 0xCA1AC8ACE79B42F1: Jester’s Last Dance
+   [21] 0xCA1AC8ACE79B42F1: Jester's Last Dance
    [22] 0xB40A9934E55DF3EC: Take a Break from Playing
 ---
