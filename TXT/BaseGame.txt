@@ -170,7 +170,7 @@ Unknown3: 0x00000000
    [000A5] 0x864BF98C3E127367: Feeling as if those prying eyes are prying just a bit much? Try these Eyes Aside Curtains to block out nosy neighbors, pesky peepers and that shocking sunshine!
    [000A6] 0xD5423DA50010B79D: Horizontal blinds usually conjure up images of knotted strings and tangled slats, ripped from the sill and left mangled on the floor. Tangle-Free Blinds puts all that angst behind us, while keeping the moiré tone one expects from streaks of lateral shadows.
    [000A7] 0x3BF5CEB3A0AA593C: We wanted to make blinds that didn't make that horrible clacking noise when you opened or closed them. That's why we created static blinds – they're completely silent because they can't be closed, ever!
-   [000A8] 0xB84CDB7B636784E2: Before television, people used to entertain themselves with curtains – and the Vickleberry was like a top of the line home theater system. Folks gathered ‘round the curtain, singing songs and telling tales. It brought people together, and gave birth to the colloquial phrase "fabric of society."
+   [000A8] 0xB84CDB7B636784E2: Before television, people used to entertain themselves with curtains, and the Vickleberry was like a top of the line home theater system. Folks gathered 'round the curtain, singing songs and telling tales. It brought people together, and gave birth to the colloquial phrase "fabric of society."
    [000A9] 0x8E70AE191E1510C4: If your home is looking a little plump around the edges, then try a set of Flattery Curtains. The accordion folds create a backdrop of vertical lines, which has a slimming effect on pudgy-looking walls.
    [000AA] 0xC03F8FE53020A9F7: Curtains are notorious havens for dust, germs, and other microscopic grime. But the Hygieni-Curtain is different. Its self-cleaning Fresh Fabric chemically transforms contaminates into the pleasant scent of ginger and spice. Yummy!
    [000AB] 0x88E7CF25226784B7: A curtain this small may not be big on privacy-giving or light-blocking ability, but it sure is big on cute!
@@ -424,7 +424,7 @@ Unknown3: 0x00000000
    [001A3] 0x718BE5D31153823D: Other than its name, there is absolutely nothing risque about the Bawdy Candle. In fact, it’s quite possibly the least amorous floor candle ever made, perfect for those endless nights of good clean fun.
    [001A4] 0x900BD4388096FFED: Most floor lighting exudes confidence, which is usually what we all want. But it’s refreshing to know there’s still a lamp out there with a little modesty. The Blushing Torchiere reminds us all that tender moments are best left alone.
    [001A5] 0xC5441AC244316510: In colonial times, floor lighting was nothing more than a misplaced candle. Nowadays, it’s sockets and circuitry and other intricate stuff. When did life get so complicated? That’s what the good folks at Bunker Hill Lighting want to know.
-   [001A6] 0x9F9E49B654890AC9: The ‘Lectric Lantern simulates the same kind of homespun illumination pioneers enjoyed over a century ago. Don’t be surprised if its imperceptible flicker lulls you into a night of lonesome whistling and wood whittling.
+   [001A6] 0x9F9E49B654890AC9: The 'Lectric Lantern simulates the same kind of homespun illumination pioneers enjoyed over a century ago. Don't be surprised if its imperceptible flicker lulls you into a night of lonesome whistling and wood whittling.
    [001A7] 0xF76A09330F0F626A: Enemies of darkness, rejoice! Stoic Bollards are here and ready to brighten your darkest yards and gardens. At least that’s what it says on the box. But advertising is so hyped these days, it’s hard to separate true performance from hyperbole.
    [001A8] 0x06BFAD269CA9DD3F: Moonlight strolls are undeniably romantic, but if your guest trips in the darkness, don’t be found negligent. Let Path Glow light your way to due diligence. With Path Glow, you’ll never be at fault for someone else’s late night garden clumsiness again.
    [001A9] 0xE35AF8268867646A: Back when giants roamed the Earth, farmers were forced to construct enormous staircases as homage to their colossal masters. These large earth-carvings evolved through the eons into the modern day tiered garden. And that brings us to Step Lights.
@@ -1508,7 +1508,7 @@ Unknown3: 0x00000000
    [005DF] 0xB18AA8AAC94227B2: Bawdy Candle
    [005E0] 0x616CA4B7788417EA: Blushing Torchiere
    [005E1] 0x82ED37AD06280489: Bunker Hill Floor Lights
-   [005E2] 0x65DB0D2781BF1906: ‘Lectric Lantern
+   [005E2] 0x65DB0D2781BF1906: 'Lectric Lantern
    [005E3] 0xBA877C719A19F5A5: Stoic Bollard
    [005E4] 0x550F436FA1390FBE: Path Glow Garden Lighting
    [005E5] 0x75E6F86FB35050A7: Step Lights
@@ -2130,7 +2130,7 @@ Unknown3: 0x00000000
    [0084D] 0x79B88F2911C15013: Deck
    [0084E] 0x73D45B2A8FB13789: Diamond Deck
    [0084F] 0xF549728FF214A9A5: Recycling is a beautiful thing. You know what else is a beautiful thing? Keeping costs down. Landgraab Industry's Recycled Retro Wall brings you that deco touch that's so "in" right now by combining debris from demolished concrete slab-style buildings with abandoned glasswork art installations.
-   [00850] 0xA3858CE2E86E42B8: Different fences have different purposes. That's why we created Varmint-Proof Fencing. Our fences are 100% guaranteed to stop at least 90% of all dogies, ‘dillos, possums, and of course, varmints, at least 50% of the time.
+   [00850] 0xA3858CE2E86E42B8: Different fences have different purposes. That's why we created Varmint-Proof Fencing. Our fences are 100% guaranteed to stop at least 90% of all dogies, 'dillos, possums, and of course, varmints, at least 50% of the time.
    [00851] 0xBE1681C9D93713A4: It's so hard to get a railing that's just the right height, you know? I mean, you want it high enough that it looks sturdy and safe enough, but not so high that you couldn't push someone over it. You know, if you had to.
    [00852] 0x85B788D5A64BF0B9: It’s a beautiful thing when chic combines with inexpensive materials. Tough and gritty is hip and happening, so for a low, low price you can get a stylish fence made from leftover steel girders and wires.
    [00853] 0x26DAA1462C0403DF: Kosie brand interior fencing combines absolute beauty and elegance with percision craftmanship to keep you house feeling cozy and not fenced in!
@@ -9390,8 +9390,8 @@ Unknown3: 0x00000000
    [024A9] 0x8805F591A17166FE: Hopefully you’re a fan of your own lyrics, because you’re now going to start singing them as a Backup Vocalist. The label thinks the band needs some sweet singing to round out their rough, darker side, so once again the welfare of the group falls on your hopefully able shoulders... or should we say vocal chords?
    [024AA] 0x2634FE2F8CDC6341: The Conductor noticed your quartet playing at a wedding and thinks you’re better suited to the orchestra. The position implies a greater access to more wondrous scores and concerts, but also more complex and taxing performances. It appears your career has begun an exciting crescendo!
    [024AB] 0x2E950D674CFA62F4: The Conductor noticed your quartet playing at a wedding and thinks you’re better suited to the orchestra. The position implies a greater access to more wondrous scores and concerts, but also more complex and taxing performances. It appears your career has begun an exciting crescendo!
-   [024AC] 0xBFF6B933FB887290: You’re a genius with a guitar, at least in the eyes of the band and your fans. Your solos speak to people in ways no lyrics ever could. Aspiring youth all attempt to learn your solos, and adults gleefully air guitar to your songs. The Rock ‘n Roll lifestyle has begun!
-   [024AD] 0x8DE1F17DF436C6EB: You’re a genius with a guitar, at least in the eyes of the band and your fans. Your solos speak to people in ways no lyrics ever could. Aspiring youth all attempt to learn your solos, and adults gleefully air guitar to your songs. The Rock ‘n Roll lifestyle has begun!
+   [024AC] 0xBFF6B933FB887290: You're a genius with a guitar, at least in the eyes of the band and your fans. Your solos speak to people in ways no lyrics ever could. Aspiring youth all attempt to learn your solos, and adults gleefully air guitar to your songs. The Rock 'n Roll lifestyle has begun!
+   [024AD] 0x8DE1F17DF436C6EB: You're a genius with a guitar, at least in the eyes of the band and your fans. Your solos speak to people in ways no lyrics ever could. Aspiring youth all attempt to learn your solos, and adults gleefully air guitar to your songs. The Rock 'n Roll lifestyle has begun!
    [024AE] 0x2A551650C6D2CF78: You’ve fought hard, and finally the glory, the solos, and the section are yours as First Chair. You are the conductor’s right hand, the one she most trusts to get the symphony perfect. It’s time to combine what you know of musicianship and logic to prove your grasp of musical theory is unsurpassed.
    [024AF] 0x1DBF4053308DAC33: You’ve fought hard, and finally the glory, the solos, and the section are yours as First Chair. You are the conductor’s right hand, the one she most trusts to get the symphony perfect. It’s time to combine what you know of musicianship and logic to prove your grasp of musical theory is unsurpassed.
    [024B0] 0x2E5048BE0DCC4429: No matter what your detractors might say, you are clearly and without any doubt, a Pop Icon. Everyone is humming your tunes, and listeners constantly request them from radio stations. Your music will define this generation and all that follow, yet it’s not even time for the encore.
@@ -11240,10 +11240,10 @@ Unknown3: 0x00000000
    [02BE3] 0x2AD61B1FC607A412: Read Criminal book.
    [02BE4] 0x4FB3F07D2BB02863: Your reputation as a studious and learned criminal is growing. It’s a good reputation to have, especially if you can back it up! The Leader seems to like you more and your job performance has just been bumped up.
    [02BE5] 0x15097216226360CA: Your reputation as a studious and learned criminal is growing. It’s a good reputation to have, especially if you can back it up! The Leader seems to like you more and your job performance has just been bumped up.
-   [02BE6] 0x07CD74D8EFBD17D9: You know what you need to read now? “Make ‘em Pay.” You better make ‘em, else they’ll walk all over you. Don’t just stand here, get on it! Doing so will earn you a nice job performance boost and a better relationship with the one in charge. Get payment, receive payment!
-   [02BE7] 0x99D4E747AF9DEF2C: You know what you need to read now? “Make ‘em Pay.” You better make ‘em, else they’ll walk all over you. Don’t just stand here, get on it! Doing so will earn you a nice job performance boost and a better relationship with the one in charge. Get payment, receive payment!
-   [02BE8] 0xAA09024770275752: Read “Make ‘em Pay” to improve your job performance and relationship with your boss.
-   [02BE9] 0x3BDED3CACE3E8BC1: Read “Make ‘em Pay” to improve your job performance and relationship with your boss.
+   [02BE6] 0x07CD74D8EFBD17D9: You know what you need to read now? "Make 'em Pay." You better make 'em, else they'll walk all over you. Don't just stand here, get on it! Doing so will earn you a nice job performance boost, and a better relationship with the one in charge. Get payment, receive payment!
+   [02BE7] 0x99D4E747AF9DEF2C: You know what you need to read now? "Make 'em Pay." You better make 'em, else they'll walk all over you. Don't just stand here, get on it! Doing so will earn you a nice job performance boost, and a better relationship with the one in charge. Get payment, receive payment!
+   [02BE8] 0xAA09024770275752: Read "Make 'em Pay" to improve your job performance and relationship with your boss.
+   [02BE9] 0x3BDED3CACE3E8BC1: Read "Make 'em Pay" to improve your job performance and relationship with your boss.
    [02BEA] 0x77DE0F47543F9E1C: Payment Options
    [02BEB] 0x31F08BA6C8747D1F: Payment Options
    [02BEC] 0x1D8192809A7D6458: Read Criminal book.
@@ -12560,8 +12560,8 @@ Unknown3: 0x00000000
    [0310B] 0x10F64D40F178B29B: A Tad Vague
    [0310C] 0x56022C67ADF8CB4C: Read Journalism book.
    [0310D] 0x182C5CF6D28F644F: Read Journalism book.
-   [0310E] 0x92B5BF0957EC1AC4: Who knew “Yellow Journalism” would make for such entertaining reading? The Editor sure knows how to pick ‘em. Your boss is quite happy with you today. Your job performance has also improved!
-   [0310F] 0xFD4AB5DAA277D987: Who knew “Yellow Journalism” would make for such entertaining reading? The Editor sure knows how to pick ‘em. Your boss is quite happy with you today. Your job performance has also improved!
+   [0310E] 0x92B5BF0957EC1AC4: Who knew "Yellow Journalism" would make for such entertaining reading? The Editor sure knows how to pick 'em. Your boss is quite happy with you today. Your job performance has also improved!
+   [0310F] 0xFD4AB5DAA277D987: Who knew "Yellow Journalism" would make for such entertaining reading? The Editor sure knows how to pick 'em. Your boss is quite happy with you today. Your job performance has also improved!
    [03110] 0xFE6C517A33034390: By golly, it’s time for you to read “The Finer Points of Yellow Journalism.” You’ll soon be able to manifest some great stories – it’s your destiny! Once you’ve read this book, your boss will like you more and your job performance will improve.
    [03111] 0x09720F6D6CB991EB: By golly, it’s time for you to read “The Finer Points of Yellow Journalism.” You’ll soon be able to manifest some great stories – it’s your destiny! Once you’ve read this book, your boss will like you more and your job performance will improve.
    [03112] 0x827328C0C55970E9: Read “The Finer Points of Yellow Journalism” to improve your job performance and relationship with your boss.
@@ -13153,12 +13153,12 @@ Unknown3: 0x00000000
    [0335C] 0x4A2267FA053A9D6A: Not Seeing is, uh, Believing?
    [0335D] 0xB37F8B4C97BE9D1F: Read Police book.
    [0335E] 0x50E7509D113977EE: Read Police book.
-   [0335F] 0x5F012E7CB6C8BE1B: The poor criminals will have no idea what’s coming their way now that you’ve read “Keep ‘Em Guessing!” Good work! Your boss has improved your job performance. Plus, it seems the two of you are on better terms!
-   [03360] 0x484B139E1568F002: The poor criminals will have no idea what’s coming their way now that you’ve read “Keep ‘Em Guessing!” Good work! Your boss has improved your job performance. Plus, it seems the two of you are on better terms!
-   [03361] 0x3C34F77CBE153641: Can you guess what your next assignment is? The boss would like you to read “Keep ‘Em Guessing,” a mysterious book filled with some answers and a lot of good suggestions for guesswork. Get to it, and the boss will see about improving your job performance and strengthening your one-on-one relationship.
-   [03362] 0x4E45EF69EEACE3F4: Can you guess what your next assignment is? The boss would like you to read “Keep ‘Em Guessing,” a mysterious book filled with some answers and a lot of good suggestions for guesswork. Get to it, and the boss will see about improving your job performance and strengthening your one-on-one relationship.
-   [03363] 0x8E00018C98A2ECFA: Read “Keep ‘Em Guessing” to earn a job performance increase and relationship boost with your boss.
-   [03364] 0x77BBC47E5383E869: Read “Keep ‘Em Guessing” to earn a job performance increase and relationship boost with your boss.
+   [0335F] 0x5F012E7CB6C8BE1B: The poor criminals will have no idea what's coming their way now that you've read "Keep 'Em Guessing!" Good work! Your boss has improved your job performance. Plus, it seems the two of you are on better terms!
+   [03360] 0x484B139E1568F002: The poor criminals will have no idea what's coming their way now that you've read "Keep 'Em Guessing!" Good work! Your boss has improved your job performance. Plus, it seems the two of you are on better terms!
+   [03361] 0x3C34F77CBE153641: Can you guess what your next assignment is? The boss would like you to read "Keep 'Em Guessing," a mysterious book filled with some answers and a lot of good suggestions for guesswork. Get to it, and the boss will see about improving your job performance and strengthening your one-on-one relationship.
+   [03362] 0x4E45EF69EEACE3F4: Can you guess what your next assignment is? The boss would like you to read "Keep 'Em Guessing," a mysterious book filled with some answers and a lot of good suggestions for guesswork. Get to it, and the boss will see about improving your job performance and strengthening your one-on-one relationship.
+   [03363] 0x8E00018C98A2ECFA: Read "Keep 'Em Guessing" to earn a job performance increase and relationship boost with your boss.
+   [03364] 0x77BBC47E5383E869: Read "Keep 'Em Guessing" to earn a job performance increase and relationship boost with your boss.
    [03365] 0x5AC5EE8C7BD57D34: Guess What?
    [03366] 0x6DEA5C618FA79E37: Guess What?
    [03367] 0x3E1779E67F920EC0: Read Police book.
@@ -14290,8 +14290,8 @@ Unknown3: 0x00000000
    [037CD] 0x0699A811AF588680: A Skilled Guitarist
    [037CE] 0xFC4FAD47A7169995: Increase Guitar skill.
    [037CF] 0x57744FA33E6D7070: Increase Guitar skill.
-   [037D0] 0x5DF919953B8E6ADE: The band rocked, wowed, and pulled it off! You and the band are the champions! You rocked ‘em! Enjoy the cash bonus and the prestige of being the best band in town... and perhaps beyond!
-   [037D1] 0x28D20F1C3E6A4E15: The band rocked, wowed, and pulled it off! You and the band are the champions! You rocked ‘em! Enjoy the cash bonus and the prestige of being the best band in town... and perhaps beyond!
+   [037D0] 0x5DF919953B8E6ADE: The band rocked, wowed, and pulled it off! You and the band are the champions! You rocked 'em! Enjoy the cash bonus and the prestige of being the best band in town... and perhaps beyond!
+   [037D1] 0x28D20F1C3E6A4E15: The band rocked, wowed, and pulled it off! You and the band are the champions! You rocked 'em! Enjoy the cash bonus and the prestige of being the best band in town... and perhaps beyond!
    [037D2] 0x8F36AA4F7673223A: The Battle of the Bands is being held at the Stadium. Every local band is encouraged to show up and demonstrate why they deserve first place! Go to the Stadium before the competition ends to compete and potentially earn a large cash prize!
    [037D3] 0x4FFAD7FA4CF7F1A9: The Battle of the Bands is being held at the Stadium. Every local band is encouraged to show up and demonstrate why they deserve first place! Go to the Stadium before the competition ends to compete and potentially earn a large cash prize!
    [037D4] 0xEDCAB02FB18F4DFA: You can’t win a competition if you aren’t there to participate in it! You can only hit the stage for a limited time, so try to show up for your set next time!
@@ -14554,10 +14554,10 @@ Unknown3: 0x00000000
    [038D5] 0xA9FE8494547D2B94: Read Political book.
    [038D6] 0x2786E90C3FC8086D: You learned quite quickly to avoid the unnecessary and negative word “no” – bravo! Your boss has warmed up to you since you corrected your vocabulary and your job performance has improved as well.
    [038D7] 0x0DC126589B051DE8: You learned quite quickly to avoid the unnecessary and negative word “no” – bravo! Your boss has warmed up to you since you corrected your vocabulary and your job performance has improved as well.
-   [038D8] 0xF2806973AADF57C3: You don’t quite understand... there is only one real answer, and it is “Yes.” The word “no” should be removed from your vocabulary, and what better way to do that than by reading a book that only uses “no” twice from cover to cover? Read “There is No ‘No’” to improve your job performance and improve your relationship with your boss.
-   [038D9] 0x18F4C02A33DD2A6A: You don’t quite understand... there is only one real answer, and it is “Yes.” The word “no” should be removed from your vocabulary, and what better way to do that than by reading a book that only uses “no” twice from cover to cover? Read “There is No ‘No’” to improve your job performance and improve your relationship with your boss.
-   [038DA] 0xC8D7AFAE0FD5D0B8: Read “There is No ‘No’” and return to work to improve your job performance and relationship with your boss.
-   [038DB] 0x2C00394792E9BC73: Read “There is No ‘No’” and return to work to improve your job performance and relationship with your boss.
+   [038D8] 0xF2806973AADF57C3: You don't quite understand... there is only one real answer, and it is "Yes." The word "no" should be removed from your vocabulary, and what better way to do that than by reading a book that only uses "no" twice from cover to cover? Read "There is No 'No'" to improve your job performance and improve your relationship with your boss.
+   [038D9] 0x18F4C02A33DD2A6A: You don't quite understand... there is only one real answer, and it is "Yes." The word "no" should be removed from your vocabulary, and what better way to do that than by reading a book that only uses "no" twice from cover to cover? Read "There is No 'No'" to improve your job performance and improve your relationship with your boss.
+   [038DA] 0xC8D7AFAE0FD5D0B8: Read "There is No 'No'" and return to work to improve your job performance and relationship with your boss.
+   [038DB] 0x2C00394792E9BC73: Read "There is No 'No'" and return to work to improve your job performance and relationship with your boss.
    [038DC] 0xB6905CAE05367C92: You Really Mean “Yes”
    [038DD] 0x0CA07D75F886BC01: You Really Mean “Yes”
    [038DE] 0x11ACAD62969841F2: Read Political book.
@@ -16764,8 +16764,8 @@ Unknown3: 0x00000000
    [04177] 0x94480A918F4A81A5: Archeology
    [04178] 0xCB04194856AC306A: Archeology Skill Description
    [04179] 0xB1CDE8F13B187B42: Athletic
-   [0417A] 0x18EB08B70BBB08E4: Better, stronger, faster! {0.SimFirstName} is really starting to distinguish himself athletically. Halfway there! Go get ‘em tiger!\n\n{0.SimFirstName} can now push himself to get a little more out of his workouts. Be careful – muscles will cry uncle if pushed too far!
-   [0417B] 0x7FAA3EF16E319B67: Better, stronger, faster! {0.SimFirstName} is really starting to distinguish herself athletically. Halfway there! Go get ‘em tiger!\n\n{0.SimFirstName} can now push herself to get a little more out of her workouts. Be careful – muscles will cry uncle if pushed too far!
+   [0417A] 0x18EB08B70BBB08E4: Better, stronger, faster! {0.SimFirstName} is really starting to distinguish himself athletically. Halfway there! Go get 'em tiger!\n\n{0.SimFirstName} can now push himself to get a little more out of his workouts. Be careful; muscles will cry uncle if pushed too far!
+   [0417B] 0x7FAA3EF16E319B67: Better, stronger, faster! {0.SimFirstName} is really starting to distinguish himself athletically. Halfway there! Go get 'em tiger!\n\n{0.SimFirstName} can now push himself to get a little more out of his workouts. Be careful; muscles will cry uncle if pushed too far!
    [0417C] 0xE22506AE2E756D2B: {0.SimFirstName} can now turn it up with a Quick Burst, tiring himself out more quickly, but with noticeably faster results.
    [0417D] 0xCB7A5E0D3C999792: {0.SimFirstName} can now turn it up with a Quick Burst, tiring herself out more quickly, but with noticeably faster results.
    [0417E] 0x7E92EA27D9A6D15C: {0.SimFirstName} can now train friends and family that aren’t as athletically inclined. Wipe down that exercise equipment and get those lessons started!
@@ -19915,7 +19915,7 @@ Unknown3: 0x00000000
    [04DC6] 0xF1F332D2EDE2C104: Use the Bulldoze tool to delete everything on a selected lot. If Sims are currently living there, you’ll have to evict them.
    [04DC7] 0xF1F332D2EDE2C107: The clipboard is temporary storage for Sims you’ve evicted or split from the town. Sims moved in and out of the clipboard will retain all relationships they had with other Sims in the town, but be sure to place them back into town before exiting if you wish them to be saved.
    [04DC8] 0xF1F332D2EDE2C106: The library is a permanent storage area for households and lots. You can copy items from the library into any town, but will not be able to directly edit the items while they are in the library. Sims copied to the library will lose all relationships with other Sims in the town they came from.
-   [04DC9] 0xF1F332D2EDE2C109: Select a lot or household from the library or clipboard and select ‘Place’ to move it into the world. Buildings can be placed on empty lots, and Sims can be moved onto lots they can afford, or merged with other households.
+   [04DC9] 0xF1F332D2EDE2C109: Select a lot or household from the library or clipboard and select "Place" to move it into the world. Buildings can be placed on empty lots, and Sims can be moved onto lots they can afford, or merged with other households.
    [04DCA] 0xF1F332D2EDE2C108: Use the evict, split, and merge tools to manage the occupants of households. Evict moves Sims (with or without a copy of their home) to the clipboard. Split allows you to move specific members of a household to the clipboard, while merge lets you combine members of two households.
    [04DCB] 0xD1945E7B3E09A03F: This is Edit Town mode.\n\nWould you like to learn more about Edit Town?
    [04DCC] 0x47032265F30ADB40: Finding and Following Sims
@@ -19997,7 +19997,7 @@ Unknown3: 0x00000000
    [04E18] 0xBFB6298523945AAA: You can choose to move to an unoccupied home or to an empty lot. Select one of these options to be taken to Map View, where you can select the lot to move to. Lots you cannot afford will have grey map tags.
    [04E19] 0xBFB6298523945AA9: Once you’ve chosen a new home, use the arrows in the center of the panel to move Sims between the new house and the old house.
    [04E1A] 0xBFB6298523945AA8: If everyone is leaving the old house, you'll have the option of either taking the furniture with you in the family inventory, or selling it all.
-   [04E1B] 0xBFB6298523945AAF: If you've split up the household, be sure to select which household you'd like to play as once the move is complete. When choosing to play as the original house, you have the option to just ‘Kick Out’ the Sims that you’ve told to move. They’ll find a new place in town on their own.
+   [04E1B] 0xBFB6298523945AAF: If you've split up the household, be sure to select which household you'd like to play as once the move is complete. When choosing to play as the original house, you have the option to just "Kick Out" the Sims that you've told to move. They'll find a new place in town on their own.
    [04E1C] 0xBE6965E3A9C35011: It looks like someone's moving!\n\nWould you like to learn about the moving process?
    [04E1D] 0x73C45AD5E7C7126C: Opportunities
    [04E1E] 0xE09FC4CC4961B3D1: While your Sim is at work, practicing a skill, or even hanging out around town, an opportunity may appear. An opportunity dialog will appear when a new opportunity is available.
@@ -22584,7 +22584,7 @@ Unknown3: 0x00000000
    [05833] 0x605C4DEDDB1C5D99: No thanks.
    [05834] 0x3E1B6C6133233BFE: Zoinks! Apparently your new property was built on an ancient burial ground, and the spirits are not at peace! Would you like to accept the challenge of dealing with these spirits yourself? (Select Ignore to return your lot to normal.)
    [05835] 0xCCA60F4D1C49B632: Accept Challenge
-   [05836] 0xA36C81DDD1C275FF: Welcome to the neighborhood! I noticed you have a little ghost problem... Would you like me to help bust ‘em for ya?
+   [05836] 0xA36C81DDD1C275FF: Welcome to the neighborhood! I noticed you have a little ghost problem... Would you like me to help bust 'em for ya?
    [05837] 0xD90A0E2B510DE17D: Yes! Bust my ghosts!
    [05838] 0x282703C96BCA2F47: Well, that's fewer piles of ash for you to deal with.
    [05839] 0xF8E77A11C9A61C62: Ignore Challenge
@@ -32817,7 +32817,7 @@ Unknown3: 0x00000000
    [0802C] 0xFE16CC346F61FE33: Johnsons
    [0802D] 0x78A600EAED42D46E: Lot description
    [0802E] 0xE7A8892A9E826C71: Accept
-   [0802F] 0x6B531D76D1FDF2BF: This action has deactivated the active household.\n\nSelect ‘Change Active Household’ from Edit Town to return to family selection mode. Remember, active Sims can find a new home using phones or computers.
+   [0802F] 0x6B531D76D1FDF2BF: This action has deactivated the active household.\n\nSelect "Change Active Household" from "Edit Town" to return to family selection mode. Remember, active Sims can find a new home using phones or computers.
    [08030] 0x8F8A2E38997DA420: This lot is owned by the {0.String} household, and occupied households cannot be edited. You can edit this lot by evicting the household or by changing it to the active household. 
    [08031] 0x6D5DFFA296F57E55: Are you sure you want to bulldoze this lot? All objects on the lot will be deleted.
    [08032] 0xE7CF5663C1B47FF5: This lot is owned by the {0.String} household. Bulldozing this house will require evicting the household first.
@@ -33010,8 +33010,8 @@ Unknown3: 0x00000000
    [080ED] 0x58E5BF73811C032D: In Build mode, you can quickly resize rooms by using the hand tool to grab and drag walls!
    [080EE] 0x58E5BF73811C032C: In Build or Buy mode, you can hold the ALT key while rotating an object to rotate it to any angle.
    [080EF] 0x58E5BF73811C032F: If you want to delete many things at once, try clicking and dragging while using the sledgehammer tool.
-   [080F0] 0x58E5BF73811C032E: In Build or Buy mode, you can use the ‘<’ and ‘>’ keys to rotate a grabbed object.
-   [080F1] 0x58E5BF73811C0329: When placing floor tiles, you can use the ‘<’ and ‘>’ keys to rotate the one you’re holding.
+   [080F0] 0x58E5BF73811C032E: In Build or Buy mode, you can use the '<' and '>' keys to rotate a grabbed object.
+   [080F1] 0x58E5BF73811C0329: When placing floor tiles, you can use the '<' and '>' keys to rotate the one you’re holding.
    [080F2] 0x58E5BF73811C0328: When placing floor tiles, you can press CTRL-F to switch into triangular-tile mode.
    [080F3] 0x58E5BF73811C032B: Cooking and Gardening go great together. Higher quality ingredients means higher quality meals, which will put your Sims in better moods.
    [080F4] 0x58E5BF73811C032A: Your Sim will get better at preparing a particular meal each time they make it. That means higher quality meals and better moods for your Sims!
@@ -37590,7 +37590,7 @@ Unknown3: 0x00000000
    [092D1] 0xDB100092B8D5978D: Return to sender.
    [092D2] 0xDB100092B8D5978C: Sims should die an average of 1.5 times in their lifetime.
    [092D3] 0xDB100092B8D5978B: You may be hungry later, order takeout now!
-   [092D4] 0xDB100092B8D5978A: Beware ‘sploding taters.
+   [092D4] 0xDB100092B8D5978A: Beware 'sploding taters.
    [092D5] 0xDB100092B8D59789: One who holds their breath still has empty hand.
    [092D6] 0xDB100092B8D59788: A true friend is someone who is there for you when you’d rather be anywhere else.
    [092D7] 0xDB100092B8D59787: Come back later… I am sleeping. (Yes cookies need their sleep too.)
@@ -42802,8 +42802,8 @@ Unknown3: 0x00000000
    [0A72D] 0x691885D3F48448C6: Possession is Nine Tenths of the Law
    [0A72E] 0x84D8F55A9CAC867D: 
    [0A72F] 0x7191256C78684FB8: 
-   [0A730] 0xC2143E3C3F1EE95D: For some Sims the ultimate pastime is the unending search for new types of life. Whether crafted through mystical, laborical, or convergent methods occult creations are wondrous achievements for Sims who prefer to dabble in the unknown. Some may call them ‘monsters,’ but to their creators they are just another member of the family.
-   [0A731] 0x7B02F5D69B2924D8: For some Sims the ultimate pastime is the unending search for new types of life. Whether crafted through mystical, laborical, or convergent methods occult creations are wondrous achievements for Sims who prefer to dabble in the unknown. Some may call them ‘monsters,’ but to their creators they are just another member of the family.
+   [0A730] 0xC2143E3C3F1EE95D: For some Sims the ultimate pastime is the unending search for new types of life. Whether crafted through mystical, laborical, or convergent methods occult creations are wondrous achievements for Sims who prefer to dabble in the unknown. Some may call them 'monsters,' but to their creators they are just another member of the family.
+   [0A731] 0x7B02F5D69B2924D8: For some Sims the ultimate pastime is the unending search for new types of life. Whether crafted through mystical, laborical, or convergent methods occult creations are wondrous achievements for Sims who prefer to dabble in the unknown. Some may call them 'monsters,' but to their creators they are just another member of the family.
    [0A732] 0xC91377606A9AC800: Create {0.Number} Monsters
    [0A733] 0x5DC1308F8785585B: Create {0.Number} Monsters
    [0A734] 0x575DE280843241ED: Monster Maker
@@ -43174,7 +43174,7 @@ Unknown3: 0x00000000
    [0A8A1] 0xBF26674FDB0C70C3: Spirit Sweeper
    [0A8A2] 0x70CD90BEE37874F1: Spooky Noise Silencer
    [0A8A3] 0x10404B1F4603479E: Welcome to the world of high style! Be punctual and diligent and you’ll be cutting hair and picking fabric swatches for headbands soon enough. When no one is looking you may even be able to get away with giving a fashionable makeover or two!
-   [0A8A4] 0xA0874423F792B14A: Congratulations! You’ve made it into the haute couture hall of fame! You are renowned for the best blowouts, fantastic fittings, and marvelous makeovers. Sims travel from the far corners of the world to seek out your help with making them look glamorous! But with next season already ‘so yesterday’, there’s always plenty of work for a superstar stylist. Go forth and set the trends of the future!
+   [0A8A4] 0xA0874423F792B14A: Congratulations! You've made it into the haute couture hall of fame! You are renowned for the best blowouts, fantastic fittings, and marvelous makeovers. Sims travel from the far corners of the world to seek out your help with making them look glamorous! But with next season already "so yesterday", there's always plenty of work for a superstar stylist. Go forth and set the trends of the future!
    [0A8A5] 0x10404B1F4603479D: Time to sharpen those haircutting scissors because you’ve gone from sweeping hair trimmings to sculpting upscale updos. Bring a set of fine toothed combs and a bottle of hairspray, and be prepared to critique clothing as needed. Remember to listen to your client's desires…as long as they don’t ask for a mullet.
    [0A8A6] 0x10404B1F4603479C: Crime is everywhere and it’s your job to fight it! Sims are mixing polka dots with plaid, stilettos with sweat pants, crew cuts with soul patches. Stop the madness before it overruns the city! But remember - no red shoes until after dark!
    [0A8A7] 0x10404B1F4603479B: Word of mouth is spreading, and you're in demand for the latest fashion advice. Keeping tabs on the "so next season" up-and-coming looks will keep you trendy with the wannabe-in-vogue fashion moguls around town. So get out there and show them your style... and theirs!
@@ -43438,13 +43438,13 @@ Unknown3: 0x00000000
    [0A9A9] 0xC5E723C7A0831250: As a Playground Monitor you have an important job observing recess and saving the pupils from sticky slides and painful bruises after ill-fated games of tag. Grab your clipboard and your whistle and get ready for some outdoor fun!
    [0A9AA] 0xCAD41C35BEB81DC0: Congratulations! You’ve graduated to the top of the education pyramid and earned the title of District Superintendent. From the classroom to the boardroom, you have the skills necessary to oversee all the schools under your supervision. You’re the staff Valedictorian!
    [0A9AB] 0xC5E723C7A0831253: When the other teachers need extra help grading papers and erasing chalkboards they turn to you. You are well liked by the school staff because of your calm demeanor, punctuality, and reliable nature. Just remember to keep those hall passes locked away or you’ll be the one staying after school for detention.
-   [0A9AC] 0xC5E723C7A0831252: Got the flu? Not you! When the faculty is out with a bout, they rely on you to take over. Keep up the hard work and you might have your own classroom one day. But stay away from the cafeteria’s ‘Meat Pie Surprise’ or you’ll need a substitute teacher, too!
+   [0A9AC] 0xC5E723C7A0831252: Got the flu? Not you! When the faculty is out with a bout, they rely on you to take over. Keep up the hard work, and you might have your own classroom one day. But stay away from the cafeteria's "Meat Pie Surprise", or you'll need a substitute teacher too!
    [0A9AD] 0xC5E723C7A0831255: No more polishing apples for the rest of the staff, because you’re now an Elementary School Teacher! Sure, other jobs may pay more but you have the satisfaction of nourishing young minds with important facts and figures. You’re brushing up on your advanced verb conjugations and you can recite multiplication tables with the best of them. Armed with a slide ruler and protractor you’re ready to enlighten young minds.
    [0A9AE] 0xC5E723C7A0831254: As a Middle School Teacher you will have to balance your lesson plans carefully with so many topics to teach! Biology, geography, and music…oh my! The other teachers also elected you to be the new chess team coach. Checkmate!
    [0A9AF] 0xC5E723C7A0831257: You know you’re a High School Teacher when the students drive better cars than you, but at least you have the satisfaction of helping pupils learn many of the necessary skills in life. Besides, someday they’ll have bills of their own to pay.
    [0A9B0] 0xC5E723C7A0831256: You’ve moved to the head of the class, or more correctly, Department Head! Your new job comes with a few extra duties and a lot more homework, but it’s nice to be recognized for all your accomplishments in the classroom.
    [0A9B1] 0xC5E723C7A0831259: No more dangling participles or repeating decimals for you! Welcome to the world of school administration where you’ll assist the principal with creating regulations and enforcing disciplinary action…for both the students and staff!
-   [0A9B2] 0xC5E723C7A0831258: Who rules the school? You do! A school Principal is in charge of nearly all the important decision making, from school schedules to scheduled raises. Remember to put the ‘Pal’ in Principal because everyone wants to be your friend.
+   [0A9B2] 0xC5E723C7A0831258: Who rules the school? You do! A school Principal is in charge of nearly all the important decision making, from school schedules to scheduled raises. Remember to put the 'Pal' in Principal because everyone wants to be your friend.
    [0A9B3] 0x3C5D06634E6B4D5E: Substitute Teacher
    [0A9B4] 0x83BA9571D02FBD8A: Teacher's Aide
    [0A9B5] 0x1884ACA6CA4E2F0C: It seems that a local super villian's plot to steal all of the town's clouds has backfired. The clouds are getting sucked up all right, but now they're completely flooding the criminal hideout. They may be crooks, but they need your help.
@@ -45540,7 +45540,7 @@ Unknown3: 0x00000000
    [0B1DF] 0x6B1D2F4A625906CB: The info was top secret, for my ears only. I decided to go the extra mile and keep my non-phone ear out of it as well.
    [0B1E0] 0x6B1D2F4A625906CA: My informant liked to talk a lot; I began to suspect he was lonely. His new curtains were connected with the case in a tenuous manner at best.
    [0B1E1] 0x6B1D2F4A625906CD: The details were copious but necessary. Information washed over me like water from a plunged toilet.
-   [0B1E2] 0x6B1D2F4A625906CC: I asked my informant his name, and he obliged. ‘Confidential’ is an odd moniker, he was probably teased as a child.
+   [0B1E2] 0x6B1D2F4A625906CC: I asked my informant his name, and he obliged. "Confidential" is an odd moniker, he was probably teased as a child.
    [0B1E3] 0x6B1D2F4A625906CF: Every phrase was an enigma. Codes like “The eagle spies the glass house,” “The spatula has yet to flip,” and “I’m about to drive through a tunnel.” Are all but too common in my... hold on... hello? Hello?
    [0B1E4] 0x194AD77D429624FB: Call Intelligence Agency
    [0B1E5] 0x2BA07CAEE7F24A53: I was assured my case was priority one; however, my call was priority nine. The hold music was catchy if gratuitous.
@@ -64004,7 +64004,7 @@ Unknown3: 0x00000000
    [0F9FF] 0xFFE53C019D455F84: The reviews of your show are in! “Not a bad performance, but it seemed like the tricks all could have come out of a box from a store in the mall.”
    [0FA00] 0xFFE53C019D455F85: That show was OK.
    [0FA01] 0xFFE53C019D455F82: The reviews of your show are in! “As shows go, it was definitely one.”
-   [0FA02] 0xFFE53C019D455F83: The reviews of your show are in! “If this performance were a meat, most people would describe it as ‘tasting like chicken.’”
+   [0FA02] 0xFFE53C019D455F83: The reviews of your show are in! "If this performance were a meat, most people would describe it as 'tasting like chicken.'"
    [0FA03] 0xFFE53C019D455F80: Your show was a success – only two percent of the audience demanded a refund!
    [0FA04] 0xFFE53C019D455F81: That show was OK.
    [0FA05] 0xFD458277B7E71364: Remember, in 2 hours, {0.String} has a gig at {1.String}, which is located at {2.String}.
@@ -64058,7 +64058,7 @@ Unknown3: 0x00000000
    [0FA35] 0x150D0479168C9528: That’s it. Best Show Ever in the History of the World.
    [0FA36] 0x150D0479168C9529: That was a breathtaking performance!
    [0FA37] 0x8BE9EE935C118EAC: {Variation.7}
-   [0FA38] 0x5F06F7606DAA17D0: The reviews of your show are in! “If this show was ‘Performance Art,' it was done with crayons and construction paper.”
+   [0FA38] 0x5F06F7606DAA17D0: The reviews of your show are in! "If this show was 'Performance Art,' it was done with crayons and construction paper."
    [0FA39] 0x5F06F7606DAA17D3: The reviews of your show are in! “I’ve seen good juggling, good miming, and good contortion – none of which were in this performance.”
    [0FA3A] 0x5F06F7606DAA17D2: That performance was weak.
    [0FA3B] 0x5F06F7606DAA17D5: The reviews of your show are in! “{0.String} seemed to be having a great time on stage. Too bad the same couldn’t be said for the audience…”
@@ -64070,7 +64070,7 @@ Unknown3: 0x00000000
    [0FA41] 0x83A6578F66FFA6F4: The reviews of your show are in! “As acrobatic performances go, this one was slightly more entertaining than a cat in a paper bag and slightly less than a dog on a skateboard.”
    [0FA42] 0x83A6578F66FFA6F5: That performance wasn’t your best.
    [0FA43] 0x83A6578F66FFA6F2: The reviews of your show are in! “As shows go, it was definitely one.”
-   [0FA44] 0x83A6578F66FFA6F3: The reviews of your show are in! “If this performance were a meat, most people would describe it as ‘tasting like chicken.’”
+   [0FA44] 0x83A6578F66FFA6F3: The reviews of your show are in! "If this performance were a meat, most people would describe it as 'tasting like chicken.'"
    [0FA45] 0x83A6578F66FFA6F0: Your show was a success – only two percent of the audience demanded a refund!
    [0FA46] 0x83A6578F66FFA6F1: That performance wasn’t your best.
    [0FA47] 0x2BDA6E03EEA6D934: Remember, in 2 hours, {0.String} has a gig at {1.String}, which is located at {2.String}.
@@ -64129,11 +64129,11 @@ Unknown3: 0x00000000
    [0FA7C] 0x9F3CB3E1C6FD895C: You know how you did. No need to rub it in.
    [0FA7D] 0x9F3CB3E1C6FD895D: That concert was pretty poor.
    [0FA7E] 0x869823D8F838E4C4: {Variation.7}
-   [0FA7F] 0x174B714BFD7EE838: The reviews of your show are in! “If there were a DVD of this show, it would come in a generic black and white box labeled ‘Singer Concert.’”
+   [0FA7F] 0x174B714BFD7EE838: The reviews of your show are in! "If there were a DVD of this show, it would come in a generic black and white box labeled 'Singer Concert.'"
    [0FA80] 0x174B714BFD7EE83B: The reviews of your show are in! “For a Karaoke competition, this was a very good performance. Unfortunately, it wasn’t a Karaoke competition.”
    [0FA81] 0x174B714BFD7EE83A: That concert wasn’t too bad.
    [0FA82] 0x174B714BFD7EE83D: The reviews of your show are in! “As shows go, it was definitely one.”
-   [0FA83] 0x174B714BFD7EE83C: The reviews of your show are in! “If this performance were a meat, most people would describe it as ‘tasting like chicken.’”
+   [0FA83] 0x174B714BFD7EE83C: The reviews of your show are in! "If this performance were a meat, most people would describe it as 'tasting like chicken.'"
    [0FA84] 0x174B714BFD7EE83F: Your show was a success – only two percent of the audience demanded a refund!
    [0FA85] 0x174B714BFD7EE83E: That concert wasn’t too bad.
    [0FA86] 0x43A82808DA690D66: Hey {2.String}, that awesome audition has finally scored you a gig! Go to {0.String} tonight at {1.HourOfDay} and sing their socks off.
@@ -65354,7 +65354,7 @@ Unknown3: 0x00000000
    [0FF45] 0x0B01A52242F11BA2: If there’s a more efficient way to tell time than with a 7-foot tall, 300-lb mechanical clock, we’ve certainly never heard of it. Bring the granddaddy of all timepieces into your home and show everybody what time it is. No single piece of furniture offers more atmosphere. Each brilliant tick is as clear and breathtaking as every magnificent tock. The Granddaddy Clock: it’s about time!
    [0FF46] 0x3D604234A5D6F3C6: Back in the old days, before they were integrated into every other thing, the things that told time were actually stand-alone objects. But they didn’t just display the current time. These objects had a ring of numbers, and little pointers that slowly rotated around and literally just pointed at the numbers you were supposed to be looking at that second. They were powered by black magic.
    [0FF47] 0xAB0A1B1CDB89171C: At Sim-plicity, we strive to find elegance in simple designs, even in clocks that aren’t quite so grand. Being fancy doesn’t have to mean a million twists and contours. This philosophy is infused into our new wall clock, which provides uncompromising beauty with a minimum of fuss. Your friends will swear it’s an antique, but you’ll know it’s Sim-plicity!
-   [0FF48] 0x743D8B9E1D7765ED: Funny story… All of these columns were built straight, but were damaged when the column factory was hit by an extremely localized tornado. We grabbed ‘em up cheap and now we’re selling them back to you as premium ColuMaster Spiral Columns! Give your house a refreshing twist with the ColuMaster Spiral Column!
+   [0FF48] 0x743D8B9E1D7765ED: Funny story... All of these columns were built straight, but were damaged when the column factory was hit by an extremely localized tornado. We grabbed 'em up cheap and now we're selling them back to you as premium ColuMaster Spiral Columns! Give your house a refreshing twist with the ColuMaster Spiral Column!
    [0FF49] 0xC9AE864B84797646: Not all corners are created equal, so when you’ve got that funny little concave corner, Vick has the funny little solution you’ve been looking for. This intricate piece goes best with concave style corners that are connected to long edges on your building. No concave corners on your building? It’s time to add some now!
    [0FF4A] 0xD2BADE7BDA7517A9: Sometimes your building has a convex corner that leads right into another corner. Don’t fret – Vick doesn’t want these special corners to stand naked and created this convex left corner piece! Mix and match with other cornice pieces to build the complete corniced building you’ve always wanted.
    [0FF4B] 0x37AF9F8C95DD96A8: Why should convex left corners have all the glory? With this convex right corner piece, any convex corner that leads to another corner can feel the love with a snazzy looking cornice. Vick loves all his cornice pieces and hopes you’ll enjoy building with them as much as he did designing them!
@@ -65362,7 +65362,7 @@ Unknown3: 0x00000000
    [0FF4D] 0x80B03850442295D7: When your building is looking a little on the drab side, why not dress it up with Vick’s cornice? Easy to use and very stylish, this little guy is the perfect fit for tight spaces. It also happens to go great with Vick’s optional convex and concave pieces too. Place this along the edge of your roof and presto! Instant style!
    [0FF4E] 0x80AD42504420713C: We know what you’re thinking: the single cornice is so handy, so why not a large one for larger places? Well, Vick is one step ahead and proudly presents the double cornice. Place along your roof edge and complete that stylish look with fewer pieces. Wasn’t that easy?
    [0FF4F] 0x80A63650441A3DCA: A king sized cornice for a king sized place, this humungous cornice is great for covering large amounts of space in a single drop. So go nuts and dress up your roof! Sims will be amazed by your stylin’ building and want a set for their very own! We dare you: be a trend setter.
-   [0FF50] 0xF4660F74872D2F35: Got yourself a fancy window? Not until you’ve got a set of Clive’s Fancy Window Hangs on ‘em, you don’t! Five minutes to install and BAM! You’re in Fancytown. No, you’re the mayor of Fancytown. You’re leading the Fancytown parade in your honor! You can all thank Clive later.
+   [0FF50] 0xF4660F74872D2F35: Got yourself a fancy window? Not until you've got a set of Clive's Fancy Window Hangs on 'em, you don't! Five minutes to install and BAM! You're in Fancytown. No, you're the mayor of Fancytown. You're leading the Fancytown parade in your honor! You can all thank Clive later.
    [0FF51] 0xA9ADD00BF1FBBF76: If the phrase “nested frills” doesn’t send little shivers down your spine, then you might not be ready for these gorgeous window tresses. Your eyes will get so lost tracing all of their swoops and folds, the actual view out of the window will be rendered irrelevant.
    [0FF52] 0xDF58E6AE8F2918D8: No one wants to see your bald windows. Style them with Lovely Lovely Drapes, and you’ll have soft and manageable curtains that can be worn in almost any style! These curtains will add that pizazz that’s so sorely missing from your windows. And thanks to our patented pre-treatment, your Lovely Lovely Drapes will never need to be cleaned!
    [0FF53] 0x42411CA7C9F2BD60: You are a Sim of exquisite taste. You understand the value of presentation. So why would you let your windows wear anything but the best? Your curtains are going to color the way that people see into, and out of, your home. So clothe them in The Baron’s Cascade: the first name in curtains.
@@ -66221,7 +66221,7 @@ Unknown3: 0x00000000
    [102A8] 0x30DAB7D500CA82BA: Cast a Pestilence Curse on {1.SimName}
    [102A9] 0x438DFECAC4185B9F: Cast a Pestilence Curse on Someone
    [102AA] 0x0EFB9B1D411A49D5: Cast a Pestilence Curse on {1.SimName}
-   [102AB] 0x6374F7E7370DEEA2: Ever see an amateur magician use flash paper to snap a tiny flame at their fingertips? Ha ha! Adorable. Your Sim wants to show ‘em all how it’s really done by casting a Fire Blast spell.
+   [102AB] 0x6374F7E7370DEEA2: Ever see an amateur magician use flash paper to snap a tiny flame at their fingertips? Ha ha! Adorable. Your Sim wants to show 'em all how it's really done by casting a Fire Blast spell.
    [102AC] 0x4C464887AB44EF45: Cast a Fire Blast Spell
    [102AD] 0x67372A597260739E: Cast a Fire Blast Spell
    [102AE] 0xB8143E18A1CCD48E: Cast a Fire Blast Spell
@@ -66529,7 +66529,7 @@ Unknown3: 0x00000000
    [103DC] 0xD3E95E6EB2EC2AC2: Check Lunar Horoscope
    [103DD] 0x8A3EAEC7F231C7F7: Check Lunar Horoscope
    [103DE] 0xF3477DAC804F791D: Check Lunar Horoscope
-   [103DF] 0x3541FC0239452397: Ain’t no party like a Fairy house party, ‘cuz a Fairy house party is very, very tiny! Your Sim wants to throw a party in their Fairy house.
+   [103DF] 0x3541FC0239452397: Ain't no party like a Fairy house party, 'cuz a Fairy house party is very, very tiny! Your Sim wants to throw a party in their Fairy house.
    [103E0] 0xBE512DB99601A15A: Throw Fairy House Party
    [103E1] 0x11A6E8FB1FB322BF: Throw Fairy House Party
    [103E2] 0x64A58167EEF18575: Throw Fairy House Party
@@ -67273,7 +67273,7 @@ Unknown3: 0x00000000
    [106C4] 0xAEBE58A0E4AED878: Total Believer
    [106C5] 0x82B88547A0781A76: Wow, that fortune teller knew everything! What a relief. Nothing to do now but sit back and surrender to the inescapable hands of fate!
    [106C6] 0xFC35FF5016636059: Tragic Clown
-   [106C7] 0x2A1D8731201266E5: {0.SimFirstName} has been cursed with the tears of laughter, the grimace of glee. {MA.He}{FA.She} will force others to laugh ‘til it hurts, which will be immediately. {0.SimFirstName} is the Tragic Clown.
+   [106C7] 0x2A1D8731201266E5: {0.SimFirstName} has been cursed with the tears of laughter, the grimace of glee. {MA.He}{FA.She} will force others to laugh 'til it hurts, which will be immediately. {0.SimFirstName} is the Tragic Clown.
    [106C8] 0xDCA3325DE4165E09: Tricked by a Fairy
    [106C9] 0xF9F86DC4F0090FB5: A sneaky fairy sure got the best of {0.SimFirstName}! {MA.He}{FA.She} can’t believe {MA.he}{FA.she} fell for that!
    [106CA] 0x66CE61353F0F96D4: Uber Melancholy
@@ -69697,7 +69697,7 @@ Unknown3: 0x00000000
    [1103C] 0x7A8F41D62682788D: WooHoo With an Alien
    [1103D] 0x3DA4451BD7F0BE56: WooHoo With an Alien
    [1103E] 0x7EE3405F94B69576: WooHoo With an Alien
-   [1103F] 0x3BFFB1958A4BFA6F: Your Sim wants to use the probe on another Sim. And really, can anyone blame ‘em?
+   [1103F] 0x3BFFB1958A4BFA6F: Your Sim wants to use the probe on another Sim. And really, can anyone blame 'em?
    [11040] 0x5FF18A308F839982: Probe a Sim
    [11041] 0x7BCDE174B28133B7: Probe a Sim
    [11042] 0xBDFE6B152B6FD9DD: Probe a Sim
@@ -70584,7 +70584,7 @@ Unknown3: 0x00000000
    [113B3] 0xF1A8150F650E8BC6: {0.SimFirstName} got a letter from {1.SimName}! It says: “I’ve been thinking about you a lot lately. I really hope we get a chance to get together again soon!”
    [113B4] 0xF1A8150F650E8BC1: {0.SimFirstName} got a letter from {1.SimName}! It says: “I’m bored. Don’t you think that things are more fun when we’re together? It’s not just me, right?”
    [113B5] 0xF1A8150F650E8BC0: {0.SimFirstName} got a letter from {1.SimName}! It says: “Lately, whenever I think about you, I smile. Does that happen to you too?” Signed with a little heart.
-   [113B6] 0xF1A8150F650E8BC3: {0.SimFirstName} got a letter from {1.SimName}! It says: “Thinking about you. Do you think people can pinpoint the exact moment when they realize they are ‘more than friends?’”
+   [113B6] 0xF1A8150F650E8BC3: {0.SimFirstName} got a letter from {1.SimName}! It says: "Thinking about you. Do you think people can pinpoint the exact moment when they realize they are 'more than friends?'"
    [113B7] 0xF1A8150F650E8BC2: {0.SimFirstName} got a letter from {1.SimName}! It says: “I wasn’t sure what to say in person. I haven’t felt this close to someone in a while and I’m just wondering what’s next..?”
    [113B8] 0xF1A8150F650E8BCD: {0.SimFirstName} got a letter from {1.SimName}! It says: “Hey, fill in the blank: You and I should get together and _________________!”
    [113B9] 0x1874A9E3CDD8C7EF: {Variation.8}
@@ -71403,7 +71403,7 @@ Unknown3: 0x00000000
    [116E6] 0xAF1CA19954C686B7: {Variation.3}
    [116E7] 0x5FE52047AAAD58EF: Naughty but Nice:\nWhoa There – At Least Buy Love Inspector Dinner Before You Handle Love Inspector Like That
    [116E8] 0x5FE52047AAAD58EC: Naughty But Nice:\nYikes – Watch That Grip – Do You Grip Your Mother With That Hand?
-   [116E9] 0x5FE52047AAAD58ED: Naughty But Nice:\nHa Ha – That Tickles Love Inspector\n\n…Love Inspector Did Not Say ‘Stop’
+   [116E9] 0x5FE52047AAAD58ED: Naughty But Nice:\nHa Ha – That Tickles Love Inspector\n\n...Love Inspector Did Not Say 'Stop'
    [116EA] 0x665EBC05538A862C: {Variation.3}
    [116EB] 0xA1E8DC0342803B50: Passionate:\nHas Love Inspector Completely Ceased All Operations? – Because Love Inspector Was Just Being Held By An Angel
    [116EC] 0xA1E8DC0342803B53: Passionate:\nYour Body – Beautiful As It Is – Is Insufficient A Vessel To Contain Your Burning Passionate Spirit
@@ -76582,7 +76582,7 @@ Unknown3: 0x00000000
    [12B21] 0xEE775AAE0CF244FE: Being a such a popular Sim in the Rebel group has lead {0.SimName} to new heights and personal understanding. {MA.He}{FA.She} is going to enjoy having another trait!
    [12B22] 0x16EB1966CCC01106: It’s a long and winding road to becoming the top Rebel, so {0.SimName}’s friends gave {MA.him}{FA.her} a Street Art Bag and a Megaphone to kick things off. For some spare Simoleons, {0.SimName} can sell stolen exam answers too!
    [12B23] 0xE58DA455C683822E: What self-respecting Rebel doesn’t have a new toy to show off? {0.SimName} is itching to Show off New Gizmo to others and try out {MA.his}{FA.her} new Smart Phone skin. When protests are too tame, a Rowdy protest will now kick things up a notch.
-   [12B24] 0x17401066CD084278: Being a Rebel means speaking your mind, and {0.SimName} is getting good at it. The Podium can be used to ‘Say What’s Wrong with the World’ and Hunger Strikes will spread awareness of hunger. {0.SimName} is a better cheater now, and will be less likely to be caught while cheating at University.
+   [12B24] 0x17401066CD084278: Being a Rebel means speaking your mind, and {0.SimName} is getting good at it. The Podium can be used to "Say What's Wrong with the World" and Hunger Strikes will spread awareness of hunger. {0.SimName} is a better cheater now, and will be less likely to be caught while cheating at University.
    [12B25] 0x16F4BF41F64B1CF1: Maintaining your influence with the Jocks is tough when you aren’t hanging out or partying with them. {0.SimName}’s title within the Jocks Social Group is now {1.String}.
    [12B26] 0x560AC919090E6AB3: Reaching the top of the group, {0.SimName} is the epitome of a Jock. Sports Agents will be pounding at {MA.his}{FA.her} door to offer {0.SimFirstName} a job!
    [12B27] 0x5603DC1909086C03: Way to go {0.SimName}! On {MA.his}{FA.her} way to moving on up in the Jocks group, {0.SimFirstName} discovered a new trait {MA.he}{FA.she} didn’t know {MA.he}{FA.she} had!
@@ -76624,7 +76624,7 @@ Unknown3: 0x00000000
    [12B4B] 0x6369619051ED2DA5: Match Maker
    [12B4C] 0x74258FAF39F680C0: Match Maker
    [12B4D] 0x36234965643DA3D2: Most Followers Gained from a single Blog Post: {0.Number}
-   [12B4E] 0xE5CF7E247E5ADE25: Meet {0.Number} different Sims using the Sim Finder App. As a result, your Sim will receive the ‘Excited’ buff every time they meet a new Sim via Sim Finder.
+   [12B4E] 0xE5CF7E247E5ADE25: Meet {0.Number} different Sims using the Sim Finder App. As a result, your Sim will receive the 'Excited' buff every time they meet a new Sim via Sim Finder.
    [12B4F] 0x7666E992ACA33EF9: Professional Greeter
    [12B50] 0xA4AA0096C801838C: Professional Greeter
    [12B51] 0x3EC054EF6B0A8FEA: Most Common Relationship Status set with the Relationship Transmogrifier: {0.String}
@@ -77884,7 +77884,7 @@ Unknown3: 0x00000000
    [13037] 0xCDD4F4C5EED0BE3A: Collecting plunders from the sea is getting easier and easier. Remember, the ocean is solvent, but can your business be?
    [13038] 0xCDD4F4C5EED0BE3D: Deeper and deeper you go. That ocean bed can be a bed of roses, or a bed of nails depending on how you handle it. Stay vigilant!
    [13039] 0xCDD4F4C5EED0BE3C: You are making a respectable living, and becoming quite an authority on the sea. Don’t rise through the ranks too quickly; you wouldn’t want to get the bends!
-   [1303A] 0xCDD4F4C5EED0BE3F: As you get better at diving, your knowledge of the ocean increases. You’re the type that can throw around terms like ‘thalassic’ without consulting a thesaurus.
+   [1303A] 0xCDD4F4C5EED0BE3F: As you get better at diving, your knowledge of the ocean increases. You're the type that can throw around terms like 'thalassic' without consulting a thesaurus.
    [1303B] 0xCDD4F4C5EED0BE3E: In this career, you’re only as good as your last nadir. You’ve gone about as low as one can, but there’s still more to find down there!
    [1303C] 0xCDD4F4C5EED0BE31: You are one of the very best at extracting valuables from the salty deep. In fact, you could use the word 'swag' and be taken entirely seriously. Still... don't.
    [1303D] 0xCDD4F4C5EED0BE30: Your depth in the diving field is matched only by the depths you can actually descend to. Others can only fathom the fathoms you've crossed.
@@ -81130,8 +81130,8 @@ Unknown3: 0x00000000
    [13CE5] 0x40AF48AE81715403: Arena Commissioner
    [13CE6] 0xF4FA2EE5BDA03763: {0.SimName} has worked everywhere in the Bot Arena industry and seen everything. As Arena Commissioner, {MA.his}{FA.her} biggest duty is the scouting of fresh Bot prospects.
    [13CE7] 0x6E4CF0DD440E35CA: {0.SimName} has worked everywhere in the Bot Arena industry and seen everything. As Arena Commissioner, {MA.his}{FA.her} biggest duty is the scouting of fresh Bot prospects.
-   [13CE8] 0xE2A55CBE66987008: Legends aren’t born; they’re built, like the best Plumbots. As the new Senior Engineer, {0.SimName} has a long list of responsibilities, including Overseeing Competition Production. Show ‘em how it’s done!
-   [13CE9] 0x96ACCAD289F26F43: Legends aren’t born; they’re built, like the best Plumbots. As the new Senior Engineer, {0.SimName} has a long list of responsibilities, including Overseeing Competition Production. Show ‘em how it’s done!
+   [13CE8] 0xE2A55CBE66987008: Legends aren't born; they're built, like the best Plumbots. As the new Senior Engineer, {0.SimName} has a long list of responsibilities, including Overseeing Competition Production. Show 'em how it's done!
+   [13CE9] 0x96ACCAD289F26F43: Legends aren't born; they're built, like the best Plumbots. As the new Senior Engineer, {0.SimName} has a long list of responsibilities, including Overseeing Competition Production. Show 'em how it's done!
    [13CEA] 0x66C67C7F390BA021: {0.SimName}’s talent for sweeping up spare bolts caught the supervisor’s eye. {MA.He’s}{FA.She’s} been promoted to Scrap Organizer, in case anyone needs a spare part.
    [13CEB] 0x1A142AED7AD8F114: {0.SimName}’s talent for sweeping up spare bolts caught the supervisor’s eye. {MA.He’s}{FA.She’s} been promoted to Scrap Organizer, in case anyone needs a spare part.
    [13CEC] 0x66C67C7F390BA020: Having earned some respect, {0.SimName} is trusted to handle actual competing Plumbots! As a Sensor Buffer, {MA.he}{FA.she} will be handling the simplest of parts.
@@ -83723,7 +83723,7 @@ Unknown3: 0x00000000
    [14706] 0x52BDEBB4A0715727: Number of Jetpack Flights: {0.Number}
    [14707] 0x72B1A9D64D8F6893: It was a long hunt for {0.SimName}, but {MA.he}{FA.she} finally caught all 10 Sprites and received the coveted 11th Sprite for the Holo Disc! 
    [14708] 0xC9317E3229094A52: Asking for a Sprite Form from others is a great way to increase your Sprite collection. Collect all 10 Sprites on the Holo Disc and receive an 11th Sprite!
-   [14709] 0xAF083A11A657473E: Catch ‘em All
+   [14709] 0xAF083A11A657473E: Catch 'em All
    [1470A] 0xD06752F06CBE142F: Number of times Sprites have been shared with the Holo Disc: {0.Number}
    [1470B] 0xCB67CB921BDDB34E: {0.SimName}’s fingers are sore from programming so many Food Synthesizers, but on the bright side {MA.he}{FA.she} can now program Food Synthesizers to Improve Food Quality to Level 4!
    [1470C] 0xCAA067BECF355C61: Being a digital chef isn’t just about pressing a few buttons on a Food Synthesizer. It’s about pressing lots of buttons! Program a recipe onto {0.Number} unique Food Synthesizers and you’ll receive the ability to program Food Synthesizers to Improve Food Quality to Level 4!
@@ -84165,7 +84165,7 @@ Unknown3: 0x00000000
    [148C0] 0xDE0B345514956DD1: Razer Rocket Dining Chair by Van Allen Décor
    [148C1] 0x8122A3052CC882A2: Cozy Colonist Dining Chair by Van Allen Décor
    [148C2] 0x2512B84A5F1D3E48: Pomme de Derriere
-   [148C3] 0x6713B82E1A9ECAB8: Flat ‘n’ Scratchy Dining Chair by Standard Issue
+   [148C3] 0x6713B82E1A9ECAB8: Flat 'n' Scratchy Dining Chair by Standard Issue
    [148C4] 0x7410C868AA40F799: Swivel Me Rolling Chair
    [148C5] 0x1093FD957A114C04: The Sassy Classy Dining Chair
    [148C6] 0x52992FED2164EB2F: Rock Chair
@@ -84177,7 +84177,7 @@ Unknown3: 0x00000000
    [148CC] 0x47D20B138DAF8BC7: Sweet Seat
    [148CD] 0x71AEBD21407B3597: Cloudscape Chair
    [148CE] 0xBC5E4E2DADE26A77: Bateman Swivel Chair
-   [148CF] 0x4F2F87A547321DE8: Tilt ‘n’ Itch Living Chair by Standard Issue
+   [148CF] 0x4F2F87A547321DE8: Tilt 'n' Itch Living Chair by Standard Issue
    [148D0] 0xEF86E35AD275BD16: Twigs-n-Sticks Easy Chair
    [148D1] 0x4EDCA169BE0EB6B8: Batty’s Egg Living Chair by Modern Arcology
    [148D2] 0x078987590CA95A87: Quiet Time Cottage Chair
@@ -84253,7 +84253,7 @@ Unknown3: 0x00000000
    [14918] 0x23FED5E8479BFAA2: Clear View Garage Door
    [14919] 0x47DA887E7F1E8751: Professional's Frosted Door
    [1491A] 0x81870B4D2B1EBEAC: Laser Door
-   [1491B] 0x1D364BC55D723D83: Magnificent Mercantile Door by Clap ‘n’ Board
+   [1491B] 0x1D364BC55D723D83: Magnificent Mercantile Door by Clap 'n' Board
    [1491C] 0x2AFDD471979CA539: Sliding Bookcase Door
    [1491D] 0x1F5B5B90445ABA22: Sweet Escape Dream Pod by Corebital Designs
    [1491E] 0x0DE429DE0B424951: Prissy Plumes Dresser by Van Allen Décor
@@ -84679,7 +84679,7 @@ Unknown3: 0x00000000
    [14AC2] 0x17903F55A742AEC3: Drying on the Line Wall Sculpture by Secret Bohemia
    [14AC3] 0xEE44122E495825C8: Layered Tastes by Standard Issue
    [14AC4] 0xF548BE37D9BD98E3: We Ain’t Gonna Take It Protest Signs
-   [14AC5] 0x4B7458A1D84DE276: Everything in Moderation Wall Sculpture by Stinky ‘n’ Sloppy
+   [14AC5] 0x4B7458A1D84DE276: Everything in Moderation Wall Sculpture by Stinky 'n' Sloppy
    [14AC6] 0x19C9B38D1C13DDB5: Winter Wall Wreath
    [14AC7] 0x36661148F6BD9AF8: Roofington Bell
    [14AC8] 0x05E4C35AD6054D85: Sea Grass
