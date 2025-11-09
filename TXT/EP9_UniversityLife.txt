@@ -65,7 +65,7 @@ Unknown3: 0x00000000
    [03C] 0xEA568CCBEEBCD61D: A summer evening classic, this bonfire is the perfect social catalyst. When carefully maintained, it’ll keep your Sims extra toasty warm and well entertained. Enjoy a bonfire tonight!
    [03D] 0x47835582434779F4: An artisanal bookshelf made from nature’s own materials. Also breaks down to fit in the trunk of your car! Perfect for students, drifters or anyone who moves often.
    [03E] 0xCE58321B263F0CBF: Purchased from a foreign warehouse store that smelled like sausage, assembled by hand and Allen wrench on your floor. Mistakes were made, but at least it’s standing. You’re an adult!
-   [03F] 0xCE553C1B263CE784: With twice the storage capacity of the classic Herbenwork shelf and thrice the assembly time, the “Dubel” is a major improvement to any home’s storage capacity—books and boxes alike.
+   [03F] 0xCE553C1B263CE784: With twice the storage capacity of the classic Herbenwork shelf and thrice the assembly time, the "Dubel" is a major improvement to any home's storage capacity of books and boxes alike.
    [040] 0x0BF7D05B23C5DE03: Slick industrial lofts are cool but pricy. This no-frills bookshelf projects an understated Bohemian aura, so long as you stare directly at it and nothing else.
    [041] 0x15120276F17D360F: Heavy thoughts go in heavy tomes, which need sturdy storage. Nimbus’ child-safe lead ballast makes it the industry’s heaviest and most radiation-resistant bookshelf. No deliveries; pick-up only.
    [042] 0xF772772BAE63FDB6: Whether you’re reading for fun or for school, this is the one stop shop for all your literary needs!
@@ -100,7 +100,7 @@ Unknown3: 0x00000000
    [05F] 0xC75B8EB6225DA9A4: We’ve got all the finest junk food in town to get you through that late night cram session.
    [060] 0x7FB4D78BA5C8ABC7: For the late nights working, writing or reading, choose Standard Issue. This desk is a workaholic’s dream, featuring ultra-hard surface lamination to head off wasteful napping.
    [061] 0x1D39C7963A8E7065: Everything a desk demands, nothing more. Flat, wide surface? Done. Space for a chair? Check. O.C. even threw in a drawer. Don’t say we never did anything for you.
-   [062] 0xA0DDAB1BA90676C5: The Titan Desk’s heavy construction and broad profile pushes less-worthy souls to an appropriate distance. It’s more than a collection of drawers—it’s an institution.
+   [062] 0xA0DDAB1BA90676C5: The Titan Desk's heavy construction and broad profile pushes less-worthy souls to an appropriate distance. It's more than a collection of drawers; it's an institution.
    [063] 0x0246BE01B441683E: Drawers can be dangerous: body parts pinched, toes stubbed... The Poindexter cuts down the hazards, complementing sturdy shelves with a manageable pair of drawers.
    [064] 0x0617330900CB5E41: Artists don’t need desks; they need altars of creation! The Pollack art desk eschews such bourgeois features as drawers, stripping the concept of Desk down to its rawest expression.
    [065] 0xE3DF644EB614674E: A halo of windows surrounds this handcrafted door, beaming welcoming light through your home. Beware of wild parties; a crazed reveler might try to walk through the glass.
@@ -160,7 +160,7 @@ Unknown3: 0x00000000
    [09B] 0x607C4CD75E909989: Art is a retreat from life’s messy realities. Fill any room with beauty: portraits, Impressionist landscapes, hand-drawn maps or avant-garde watercolors.
    [09C] 0xF045370BD2A2928E: A crucial addition to any parking spot, particularly those with trees and other obstacles. Protect your vehicle!
    [09D] 0x2FA052F7A58746ED: A crucial addition to any parking spot, particularly those with trees and other obstacles. Protect your vehicle!
-   [09E] 0xC3ACB3E866D253B2: Just look at that broad, smooth platform. It’s practically throbbing with possibility. You could sculpt anything on it—the next Venus, the next David, or even the very first Steve.
+   [09E] 0xC3ACB3E866D253B2: Just look at that broad, smooth platform. It's practically throbbing with possibility. You could sculpt anything on it: the next Venus, the next David, or even the very first Steve.
    [09F] 0x82DC37F56B4CE3A9: phoneSmartPhone desc DO NOT TRANSLATE
    [0A0] 0x8E5B6BCB3785153B: Secret Bohemia presents the first coin-operated photo booth to include a simulated 1930s camera! Unlike a real 1930s camera, prints are delivered instantly and in living color. Now that’s progress!
    [0A1] 0xAB4C912BA78FA486: This table is an altar of competition, awarding bragging rights and inspiring trash talk. Sharpen your skills at The Gentleman’s Miniature Sport or line up for casual party games.
@@ -187,7 +187,7 @@ Unknown3: 0x00000000
    [0B6] 0x9C2409241AA50F31: Sturdy four-post construction and modular shelves flaunt anything from Baroque sculptures to dinosaur bones! For the more typical customer, photos and comic books are also supported.
    [0B7] 0x4BC91039A3B2CC7C: This travel-sized box holds the most sophisticated makeup arsenal permitted by law. From foundation to mascara and depilatory cream, Gal Pals makes you the undisputed master of your own face.
    [0B8] 0xC857A75ADAAA1D5E: Instant noodle soups are simply starch and seasoning, but they’re the cheapest meals around. At the heart of the Venn diagram between “loves salt” and “dirt poor”: college students.
-   [0B9] 0xCA8CCF895D2BFF53: Use this highly-dignified stand-up banner to line halls and doorways. Remind all visitors where they are! Let them know this isn’t just any joint—it’s an institution.
+   [0B9] 0xCA8CCF895D2BFF53: Use this highly-dignified stand-up banner to line halls and doorways. Remind all visitors where they are! Let them know this isn't just any joint; it's an institution.
    [0BA] 0x2A3DF5EA358CDB4C: sculptureRewardSportsAgent desc DO NOT TRANSLATE
    [0BB] 0x01818A0880260A13: As a wise man once said, you play to win the game. But you win the game to get the hardware! And even if you lose, trophies are sold in stores.
    [0BC] 0x54303C279E7280B5: Sir Henry Waddlesworth Manfredgensensten, the greatest novelist of the 1840s, is a figure worth commemorating in this fabulous bust sculpture. Also serves as an ideal platform for ironic decorations.
@@ -196,7 +196,7 @@ Unknown3: 0x00000000
    [0BF] 0xBF193E1C7D21EC4B: This infinitely poseable figure sits in your office or living room reminding all visitors of the best Sim virtues: silence and flexibility.
    [0C0] 0x2AFB1D583F4ECADC: Let’s go back in time to the days when griffins roamed the skies and men were happy to be ruled by their betters. All lived in harmony, except the poor.
    [0C1] 0x61C59242CA3C2B70: You won’t quit painting until your work fills museum galleries. Secret Bohemia loves your drive. Just set your tools on a cloth, please. Think of the security deposit.
-   [0C2] 0x3BDF93E0750228F4: For the techie who’s not content to plug and play. EZ-Open claps let you open the case and get your hands in some electronic guts. Upgrades, downgrades, sidegrades—your screwdriver’s ready.
+   [0C2] 0x3BDF93E0750228F4: For the techie who's not content to plug and play. EZ-Open claps let you open the case and get your hands in some electronic guts. Upgrades, downgrades, sidegrades, your screwdriver's ready.
    [0C3] 0xC2F183E97F5B2CA7: If brushes could speak, they’d have quite the artistic story to tell! These well used brushes have seen it all and are the perfect complement to any artistic minded Sim.
    [0C4] 0x8D5075B73E21B23C: The O.C. brings you the world’s smallest, cheapest particle accelerator! Forge new subatomic particles in the comfort and privacy of your home. Warning: incorrect use may destroy the planet.
    [0C5] 0x77CC5A6AA64F538D: Having a human arm lying around your room would be weird. Robot arms are more socially acceptable. And if the robot arm starts moving, that’s way less scary.
@@ -229,7 +229,7 @@ Unknown3: 0x00000000
    [0E0] 0x4431B3F830A90119: College is a time to explore new ideas: frightening, revolutionary ideas. You’ll abandon them when you learn about things like rent and car insurance. But for now, buy this flag!
    [0E1] 0x2BCDB3B771D039A7: Every building on campus holds a plaque like this in some musty back hallway. It celebrates those who came before, did great things, and couldn’t keep quiet about it.
    [0E2] 0x23940C84A53256A6: Nobody gets far in life without love. Families, puppies and boyfriends hold us up when we’re slumping down, and how better to celebrate them than this tasteful wall arrangement?
-   [0E3] 0x5589A2C5B01B1CE2: If hanging cloth isn’t your thing, this sleek sports-themed plaque just might be. Unless you’re not a sports fan—in which case the door is that-a-way.
+   [0E3] 0x5589A2C5B01B1CE2: If hanging cloth isn't your thing, this sleek sports-themed plaque just might be. Unless you're not a sports fan, in which case the door is that-a-way.
    [0E4] 0xB9CC62BE5E0F46DD: Modeled after glucoaldehyde, a crucial sugar in living cells, this stylish decoration celebrates all the life on Earth. “I’m a nerd, and I’m here to stay!” it proclaims.
    [0E5] 0x4A71487470A0B55B: Sweat is the enemy of culture; exercise is dangerously close to physical labor. But if you must work out, make sure it’s on a boat far from the plebes.
    [0E6] 0x075801834F0A0709: Dutch master Erick van Hooueven works alone in a dark underground cave, so his eyes can’t ruin his heart’s vision. Nobody else questions the results, so why should you?
@@ -275,7 +275,7 @@ Unknown3: 0x00000000
    [10E] 0x063CB122F437E792: Class up the joint with this reproduction of an old-time traveling chest, complete with authentic-looking baggage decals and mothball smell! Warning: hinges are not real. Do not attempt to open.
    [10F] 0xA5912DE956304F47: The best furniture knows when to fade into the background. This self-effacing end table sits modestly in a corner, keeping it off the ground and watching the action.
    [110] 0x8CB3695B64B37B04: Ideal for students and adults alike, this end table features decorative decals and a storage space for drawers, books or up to twenty pounds of fresh Pacific shrimp.
-   [111] 0x90AD0B56CDBE1D16: An end table that oozes such patrician style, it might get sticky. Sit and contemplate the planet’s contours for a moment—right before you set your coffee down on it.
+   [111] 0x90AD0B56CDBE1D16: An end table that oozes such patrician style, it might get sticky. Sit and contemplate the planet's contours for a moment, right before you set your coffee down on it.
    [112] 0x4BFAFE5BD13E6DE6: Emblazoned with your alma mater’s seal, the Light and Truth table features ample surface area and an underslung magazine rack. Its vaguely nautical shape evokes afternoons rowing on the river.
    [113] 0x947CC96FAE141181: The world is full of sturdy tables, but they lack folding legs! Deploy this team-logo’d end table for your next party. Safety warning: do not load over 30 lbs.
    [114] 0xBF536124D8228AD9: Grab your buds and check out the latest flicks!
@@ -296,7 +296,7 @@ Unknown3: 0x00000000
    [123] 0x761E3D14C11F222C: Classic two-frame construction, perfect for store fronts and commercial districts! With a single peek, passing customers see everything on offer. Whether they’ll like it is up to you.
    [124] 0x3CADAC1A69F8A57F: This wide-frame beast opens the world to you, and you to it. Deer gaze into your living room while you coo and customers stare agog at your fabulous merchandise.
    [125] 0x771CA1219ADBCA89: For those who hate curves and those who hate jaunty show-off angles. Acute, obtuse? Get over yourself. Two even panes, both squares. Light travels through them. Done.
-   [126] 0x7B1A939669E88308: If you thought the Square Sightlines single window was exciting, get a load of this! Four squares on display—or are there? Together these double windows form a fifth square
+   [126] 0x7B1A939669E88308: If you thought the Square Sightlines single window was exciting, get a load of this! Four squares on display, or are there? Together these double windows form a fifth square.
    [127] 0x8CDB2DCA04294ACA: Academic Text Book DO NOT TrANSLATE
    [128] 0x738EE2C2F15FF6C5: Glass DO NOT TRANSLATE
    [129] 0x50DC802F6ABAE3FB: accessoryFlashCard name DO NOT TRANSLATE
@@ -756,7 +756,7 @@ Unknown3: 0x00000000
    [2EF] 0x41CF3043EB81D4CC: Palatial three-story design gives every level an aerial view of the neighborhood. Bay windows, and a spacious backyard lend a sense of grandeur. What's not to like?
    [2F0] 0x41CF3043EB81D4CD: Ideal for big families or the lovelorn brides of lost sailors, this three-story house is a cozy dream! Also includes a “widow’s walk” to pace while awaiting your beloved’s return.
    [2F1] 0x41CF3143EB81D697: Growing families will love this colonial home’s wide-open first floor, along with its plethora of bedrooms. A garage adds storage room while a small yard is cozy and manageable.
-   [2F2] 0x41CF3143EB81D696: Good fences make good neighbors, but those fences also enclose a big lawn! Massive open spaces give your home—and your family—ample room to grow.
+   [2F2] 0x41CF3143EB81D696: Good fences make good neighbors, but those fences also enclose a big lawn! Massive, open spaces give your home and your family ample room to grow.
    [2F3] 0x41CF3143EB81D695: Built on a broad foundation, the Lincoln Lodge’s chimney anchors the whole structure. Picture nice days on the covered side deck, or cozy nights around a blazing hearth!
    [2F4] 0x41CF3143EB81D694: Regal columns, bright rooms and modest single-story construction make this home ideal for new families in the suburbs. Spacious lawns and a free-standing garage lend a stately atmosphere.
    [2F5] 0x41CF3143EB81D693: Multiple chimneys project cozy warmth. A spacious garage space includes convenient top-floor storage. Finally, broad bay windows give the residents ample room to stretch out and enjoy the view.
@@ -765,7 +765,7 @@ Unknown3: 0x00000000
    [2F8] 0xCE024B977CE87B93: The original founding house of the Tri-Fruhm Sorority. Ladies only!
    [2F9] 0xB6B08462726A0BC0: If you like bowling – or just hanging out and having fun – this place is right up your alley.
    [2FA] 0xA9FE1641013501C5: Be a winner with our Physical Education degree or spend your time playing University intramural sports. 
-   [2FB] 0x14ABA7E921E2E5BD: A simple house for salt-of-the-earth Sims. The wide front porch welcomes in visitors to a happy, well-run household—the kind that has the basic amenities and doesn’t ask for more.
+   [2FB] 0x14ABA7E921E2E5BD: A simple house for salt-of-the-earth Sims. The wide front porch welcomes in visitors to a happy, well-run household, the kind that has the basic amenities and doesn’t ask for more.
    [2FC] 0x14ABA7E921E2E5BE: The perfect home for young Sims just making their way in the world. An enormous common room keeps options open. The wide fenced deck gives your dreams space to soar.
    [2FD] 0x195E2552514A3472: There’s always something to do here, from lectures to science experiments to Juice-Pong!
    [2FE] 0x005FC8A1779B7160: St. John Administration Center
@@ -1437,7 +1437,7 @@ Unknown3: 0x00000000
    [598] 0xA1129DA73DC37D2D: Practice Speech
    [599] 0x612EAA130D889CCD: Practice your public speaking in front of a mirror.
    [59A] 0xF26120ECB8319841: That extra credit might come in handy at the end of the term!
-   [59B] 0xBE428ABF779F438F: They say a picture’s worth a thousand words. If true, photography is perfect for lazy writers—but your professor doesn’t see it that way. Earn some extra credit by taking a photo!
+   [59B] 0xBE428ABF779F438F: They say a picture's worth a thousand words. If true, photography is perfect for lazy writers, but your professor doesn't see it that way. Earn some extra credit by taking a photo!
    [59C] 0x57069F0224E9305F: You didn’t receive extra credit.
    [59D] 0x3CDEBAA02B6FE554: Take a photo with a Camera or a Smart Phone.
    [59E] 0x726EAFA04A391756: Take a Photo
@@ -1899,7 +1899,7 @@ Unknown3: 0x00000000
    [766] 0x1619BA65BAB60EEF: Practice Podium Speech
    [767] 0xD6E5E45A8DEC652B: Use a podium to practice a speech at the {OpTarget}.
    [768] 0x9065C737EACC4879: That extra credit might come in handy at the end of the term!
-   [769] 0xABB01BC74BF912D7: Engineering isn’t something that comes naturally to Sims—they’re better at eating and sleeping. The professor is skipping this lecture to play golf; you’re being offering extra credit for filling in.
+   [769] 0xABB01BC74BF912D7: Engineering isn't something that comes naturally to Sims; they're better at eating and sleeping. The professor is skipping this lecture to play golf; you're being offered extra credit for filling in.
    [76A] 0x15ACEF1332CFFB47: You didn’t receive extra credit.
    [76B] 0xC9403370F0BDA7DC: Give a lecture at a podium at the {OpTarget}.
    [76C] 0xFBA108710CD2BCAE: Give Podium Lecture
