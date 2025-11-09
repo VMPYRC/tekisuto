@@ -32,7 +32,7 @@ Unknown3: 0x00000000
    [01B] 0x7262E0720AB42B4C: Howard's House of Hats is the number one millinery in town! Cover up that bad haircut with a fantastic hat that will be sure to turn heads.
    [01C] 0x7262E0720AB42B4D: Eat at Blake's World Of Healthy Pies - now serving organic, vegan, and tasteless pies.
    [01D] 0x7262E0720AB42B4E: At Desire Furniture we have just the right piece of furniture for your family. "Desire Furniture might be expensive, but there is a saying in the furniture work that you get what you pay for, and you do you really want to sit on something sub-ordinary?"
-   [01E] 0x7262E0720AB42B4F: Now at the museum: the world famous exhibit "Collection of Hipness." Is it art or is it not? Judge for yourself while the collection is in town. 
+   [01E] 0x7262E0720AB42B4F: Now at the museum: the world-famous exhibit "Collection of Hipness." Is it art or is it not? Judge for yourself while the collection is in town.
    [01F] 0x7262E0720AB42B40: Move into your dream home today! Call, email, fax, or just stop by Destiny Grove. Destiny Grove-- you'll love your new home here!
    [020] 0x7262E0720AB42B41: Lose over 20% of your weight with NuFast, the Nu-est diet craze that might or might not be safe.
    [021] 0x9CAB020B2F843C1F: These two women love their soda, and so should you! Grab a can of Fizztastic today!
@@ -1133,7 +1133,7 @@ Unknown3: 0x00000000
    [468] 0x983BA8142A1B4ABD: Megan
    [469] 0xA1F10847416BD9B8: Meir
    [46A] 0xFB05CE21F6F014AC: Melanie
-   [46B] 0xA6F889E0537B7567: Melanie is a sweet old fashioned lady - the kind that greets her visitors with a fresh batch of homemade cookies. When she was younger, her roses consistently won 1st place at the county fairs. She still is an avid gardener, spending the day working in the lawn and displaying her beautiful flower bouquets around the house. After losing her husband, her grandson Girbits moved in to help around the house and keep her company. Melanie doesn’t understand the games Girbits plays, but she loves him anyway, keeps him well fed, and lets him play all the games he wants. 
+   [46B] 0xA6F889E0537B7567: Melanie is a sweet old-fashioned lady — the kind that greets her visitors with a fresh batch of homemade cookies. When she was younger, her roses consistently won 1st place at the county fairs. She still is an avid gardener, spending the day working in the lawn and displaying her beautiful flower bouquets around the house. After losing her husband, her grandson Girbits moved in to help around the house and keep her company. Melanie doesn't understand the games Girbits plays, but she loves him anyway, keeps him well-fed, and lets him play all the games he wants.
    [46C] 0x7B73A650F359C9A3: Mercedes
    [46D] 0x4EFE6DD27C1F59D4: Recently out of college and excited to become a star, Mercedes was struggling to make a name for herself and sought help from her friend Sadie. Mercedes always gets what she wants, and she convinced Sadie to let her move in right away. Soon enough, Mercedes’ singing career took off as she rode Sadie’s coattails to become a minor celebrity. Mercedes loves to be in the spotlight and isn’t afraid to steal the show from her friend Sadie. She wants nothing more than to have what Sadie has, even if that means she has to steal it from her friend.
    [46E] 0x9882C2142A5779DD: Mercy

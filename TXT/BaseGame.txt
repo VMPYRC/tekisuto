@@ -51,7 +51,7 @@ Unknown3: 0x00000000
    [0002E] 0x6D033CB1EC01C687: The Constitutional bookcase is based on the same model Benjamin Franklin used to hide his secret vault... the same vault that allegedly housed a trove of trinkets and treasure maps. Join the adventure by ordering your own Constitutional today!
    [0002F] 0x5E5B05FD10E6079F: Renowned bookshelf architect, Hans Whippleton, offers his latest creation, Bookshelf Revisited. “I wanted to create a shelf that doesn’t just store books, but cradles them” he asserted. Whippleton’s approach seems to be resonating, as several Revisited knock-offs prepare to hit the market.
    [00030] 0xCC8F05A7EB1A6BF8: Rustle up all the books you plan to read someday, and display them in style with the Book Corral. Each flat shelf allows for quick and easy book retrieval, just like the kind settlers used back in the day.
-   [00031] 0x7EF169C614C15325: Perhaps a tad old fashioned, this shelf displays your good taste in reading material. We hold fast that the good guys should be grand, the naughty villains cunning and all love stories honest and pure. In a rough world, let our shelves protect your happy ending.
+   [00031] 0x7EF169C614C15325: Perhaps a tad old-fashioned, this shelf displays your good taste in reading material. We hold fast that the good guys should be grand, the naughty villains cunning and all love stories honest and pure. In a rough world, let our shelves protect your happy ending.
    [00032] 0x638D78CFFE1F6A4C: This uniquely Spanish design expands the role of the traditional bookshelf to include more than just storing books. It can also shelve a variety of volumes, tomes, novels, leaflets, manuals, textbooks, paperbacks, magazines, and sacred scrolls.
    [00033] 0xBA6E694D82B79299: The Penningway Bookshelf presents a rich feast for the mind! This intellectual wonderland is first carved from an 800 year old redwood, then pressed from the pulp of recycled books to create a stunning place to store your novels.
    [00034] 0xA8A9F40EF90311EB: Made to withstand the stressful rigors of academia, the Back2School Bookshelf boasts a shelf strength of over 400 tons – more than enough to hold all those overpriced textbooks you decided to keep because they might “come in handy someday,” but never do.
@@ -224,7 +224,7 @@ Unknown3: 0x00000000
    [000DB] 0xDC945C6C21332CA4: The Mata-Door once boasted it was strong enough to stop a charging bull. However, recent tests have unproved this claim. But that hasn’t stopped Mata-Door creator and uncompromising pun fan, Leon Glubbs, from keeping the misleading name.
    [000DC] 0x585332BAE7837B11: This is an arch with a mission: not to get in your way as you effortlessly transition from room to room.
    [000DD] 0x304A811D69117890: Doors don’t always have to be boring and predictable. Just look at the Puerta Loca. You never know what to expect from this wacky door. Is it open? Is it closed? Is it even a door at all? With the crazy Puerta Loca, who knows?
-   [000DE] 0x7C473C1A70BE8B58: For socially awkward entranceways, consider the Dorky Door. Its patented Nerd Knob helps absorb nervous palm sweat, while staying easy enough for even the limpest wrist to open. All this makes the Dorky Door a dweeb’s dream come true.
+   [000DE] 0x7C473C1A70BE8B58: For socially awkward entryways, consider the Dorky Door. Its patented Nerd Knob helps absorb nervous palm sweat, while staying easy enough for even the limpest wrist to open. All this makes the Dorky Door a dweeb's dream come true.
    [000DF] 0x9679D6CA0E73A020: As the World Narcissistic Index (WNI) continues to rise, so does the demand for vanity arches. Leading this new trend is the Prima Donna, an arrogant archway with smugness to spare. 
    [000E0] 0x8B67A074DF0C6EA2: This style of door was popularized by magazine publishing companies in the '50s. Fortunately, these updated models no longer drop subscription cards all over your floor whenever you open them!
    [000E1] 0x78DE85CC3292BD0A: A sympathetic ear is hard to come by these days. People need something that will really hear them when they talk. That’s where the Listening Arch comes in. There's nothing to reflect sound back to you, so you can talk all you want with no distractions!
@@ -8473,8 +8473,8 @@ Unknown3: 0x00000000
    [02114] 0x264932C2F02141DD: {0.SimFirstName} prevented a huge fiasco by stepping in and preventing a fellow soldier from unknowingly ordering 20,000 toilet handles just in the nick-of-time! She receives a hearty recommendation from her commander and the thanks of her squad mate for saving his career!
    [02115] 0x2B75CCF7E4FA40B8: {0.SimFirstName} and his co-workers finished up work a little early today and decided to hang out in the observation room and share some stories before heading home. A little camaraderie can go a long way!
    [02116] 0x05096CC11CF58C73: {0.SimFirstName} and her co-workers finished up work a little early today and decided to hang out in the observation room and share some stories before heading home. A little camaraderie can go a long way!
-   [02117] 0xBD7F5077E8CE9C1F: When {0.SimFirstName} noticed that the General accidently left his glasses in the conference room, {0.SimFirstName} successfully chased down the General’s car and returned the glasses to him before he left the training area. The General was quite pleased and commended {0.SimFirstName} for the act!
-   [02118] 0xF5F0DB08B6169CEE: When {0.SimFirstName} noticed that the General accidently left his glasses in the conference room, {0.SimFirstName} successfully chased down the General’s car and returned the glasses to him before he left the training area. The General was quite pleased and commended {0.SimFirstName} for the act!
+   [02117] 0xBD7F5077E8CE9C1F: When {0.SimFirstName} noticed that the General accidentally left his glasses in the conference room, {0.SimFirstName} successfully chased down the General's car and returned the glasses to him before he left the training area. The General was quite pleased and commended {0.SimFirstName} for the act!
+   [02118] 0xF5F0DB08B6169CEE: When {0.SimFirstName} noticed that the General accidentally left his glasses in the conference room, {0.SimFirstName} successfully chased down the General's car and returned the glasses to him before he left the training area. The General was quite pleased and commended {0.SimFirstName} for the act!
    [02119] 0x2C9E6D2B14274E0B: {0.SimFirstName} was minding his own business when his commander got publicly reprimanded by a superior. Of course these kind of things trickle down and his commander immediately turned around and yelled at {0.SimFirstName}. {0.SimFirstName} is a little stressed!
    [0211A] 0x71C20BB775B86232: {0.SimFirstName} was minding her own business when her commander got publicly reprimanded by a superior. Of course these kind of things trickle down and her commander immediately turned around and yelled at {0.SimFirstName}. {0.SimFirstName} is a little stressed!
    [0211B] 0x4E985CEF4963811B: {0.SimFirstName} was a bit tired and decided to do some extra exercise just before the end of the work day. Now {0.SimFirstName} is pumped!
@@ -9919,8 +9919,8 @@ Unknown3: 0x00000000
    [026BA] 0x6B5C06401D56602E: Heading to the water cooler is usually the highlight of {0.SimFirstName}’s day at work. However today, when someone faced the nozzle up and it shot water all over her pants, it turned into a nightmare! A winner would never fall for that trick!!
    [026BB] 0xA37BAEE46FBBFE5E: Some co-workers of {0.SimFirstName} logged onto his computer while he was away and sent out a mass email with an embarrassing message on it! Now everyone laughs under their breath when they see him! How lame!
    [026BC] 0xA33D32E756E67C95: Some co-workers of {0.SimFirstName} logged onto her computer while she was away and sent out a mass email with an embarrassing message on it! Now everyone laughs under their breath when they see her! How lame!
-   [026BD] 0xA37BAEE46FBBFE59: {0.SimFirstName}’s co-workers planned a surprise birthday party for the boss at work today, and {0.SimFirstName} ruined the surprise by accidently slipping and telling the boss about it! Now everyone is peeved at him! How un-cool to ruin a surprise party!!
-   [026BE] 0xFB9FE523C3421EAC: {0.SimFirstName}’s co-workers planned a surprise birthday party for the boss at work today, and {0.SimFirstName} ruined the surprise by accidently slipping and telling the boss about it! Now everyone is peeved at her! How un-cool to ruin a surprise party!!
+   [026BD] 0xA37BAEE46FBBFE59: {0.SimFirstName}'s co-workers planned a surprise birthday party for the boss at work today, and {0.SimFirstName} ruined the surprise by accidentally slipping and telling the boss about it! Now everyone is peeved at him! How un-cool to ruin a surprise party!!
+   [026BE] 0xFB9FE523C3421EAC: {0.SimFirstName}'s co-workers planned a surprise birthday party for the boss at work today, and {0.SimFirstName} ruined the surprise by accidentally slipping and telling the boss about it! Now everyone is peeved at him! How un-cool to ruin a surprise party!!
    [026BF] 0xA37BAEE46FBBFE58: {0.SimFirstName} forgot his lunch in the fridge for a couple of days, and now it has turned into a stinky mess! Scientists from the Science Facility had to be called in to remove the bio-hazard, and now the entire break room has to be closed for decontamination! Now everyone at work thinks {0.SimFirstName} is a loser!
    [026C0] 0x00DA322790024153: {0.SimFirstName} forgot her lunch in the fridge for a couple of days, and now it has turned into a stinky mess! Scientists from the Science Facility had to be called in to remove the bio-hazard, and now the entire break room has to be closed for decontamination! Now everyone at work thinks {0.SimFirstName} is a loser!
    [026C1] 0xA37BAEE46FBBFE5B: {0.SimFirstName} tried singing during a lunch-break karaoke session at work today. It was a bad idea. {0.SimFirstName}’s co-workers left the session having heard sounds that no Sim should ever be exposed to. We’ll just say the co-workers weren’t laughing with {0.SimFirstName} today. 
@@ -11930,8 +11930,8 @@ Unknown3: 0x00000000
    [02E95] 0x543DA38771B46B33: Robot Fish v2.0
    [02E96] 0xD01D79E35FD92394: Bring a Robotfish to the Science Lab.
    [02E97] 0x733EDF60EAF83B57: Bring a Robotfish to the Science Lab.
-   [02E98] 0x8C36F405CA2E8F5B: Your apples arrived just in time for the restaurant to serve their world famous “Doctored Apple Pie” pastry. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the apples.
-   [02E99] 0xDDC9F54F1BD01942: Your apples arrived just in time for the restaurant to serve their world famous “Doctored Apple Pie” pastry. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the apples.
+   [02E98] 0x8C36F405CA2E8F5B: Your apples arrived just in time for the restaurant to serve their world-famous "Doctored Apple Pie" pastry. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the apples.
+   [02E99] 0xDDC9F54F1BD01942: Your apples arrived just in time for the restaurant to serve their world-famous "Doctored Apple Pie" pastry. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the apples.
    [02E9A] 0x18A6E8788B609181: Apples from the region have been mysteriously falling from their trees before ripening, and the restaurant won’t have enough to create their special apple treats. You need to grow {9.Number} Very Nice (or better) apples and deliver them to the restaurant. You’ll be paid for your produce!
    [02E9B] 0xF74E559905A6CD34: Apples from the region have been mysteriously falling from their trees before ripening, and the restaurant won’t have enough to create their special apple treats. You need to grow {9.Number} Very Nice (or better) apples and deliver them to the restaurant. You’ll be paid for your produce!
    [02E9C] 0xC43C01156C30D0FD: You missed your chance to provide fresh produce to the restaurant! The chef had to change the menu, and customers are leaving in droves! 
@@ -11974,8 +11974,8 @@ Unknown3: 0x00000000
    [02EC1] 0x9B3026D1EF2F3676: Excellent Veggies
    [02EC2] 0x0E35016276F4D5D3: Bring {9.Number} Excellent Harvestables to {0.SimName}.
    [02EC3] 0x49ADE5FE3365ADFA: Bring {9.Number} Excellent Harvestables to {0.SimName}.
-   [02EC4] 0xE75287EDEDBECE2B: Your garlic arrived just in time for the restaurant to serve its world famous “Vampire’s Delight” garlic goop. It’s an award-winning creation that you are now a part of. The restaurant is all too glad to pick up the tab for the garlic.
-   [02EC5] 0xB1A865AC04F19292: Your garlic arrived just in time for the restaurant to serve its world famous “Vampire’s Delight” garlic goop. It’s an award-winning creation that you are now a part of. The restaurant is all too glad to pick up the tab for the garlic.
+   [02EC4] 0xE75287EDEDBECE2B: Your garlic arrived just in time for the restaurant to serve its world-famous "Vampire's Delight" garlic goop. It's an award-winning creation that you are now a part of. The restaurant is all too glad to pick up the tab for the garlic.
+   [02EC5] 0xB1A865AC04F19292: Your garlic arrived just in time for the restaurant to serve its world-famous "Vampire's Delight" garlic goop. It's an award-winning creation that you are now a part of. The restaurant is all too glad to pick up the tab for the garlic.
    [02EC6] 0x50FE2086E9DE33B1: The restaurant is featuring a new all-garlic menu to keep up with the current garlic trend all over town. Unfortunately, everyone’s eating so much garlic that the restaurant is running low! Grow {9.Number} Very Nice (or better) bulbs of garlic and deliver them to the restaurant. They’ll pay for your produce!
    [02EC7] 0x17465DF738308964: The restaurant is featuring a new all-garlic menu to keep up with the current garlic trend all over town. Unfortunately, everyone’s eating so much garlic that the restaurant is running low! Grow {9.Number} Very Nice (or better) bulbs of garlic and deliver them to the restaurant. They’ll pay for your produce!
    [02EC8] 0x26402426260289ED: You missed your chance to provide fresh produce to the restaurant! The chef had to change the menu, and customers are leaving in droves! 
@@ -11985,8 +11985,8 @@ Unknown3: 0x00000000
    [02ECC] 0x12FE919339637C07: Garlic Goodness
    [02ECD] 0xA58AD1A6CD89E430: Deliver {9.Number} Very Nice (or better) Garlic to the restaurant.
    [02ECE] 0xAA346BAFDD8446CB: Deliver {9.Number} Very Nice (or better) Garlic to the restaurant.
-   [02ECF] 0x31A04825CCE6E491: Your grapes arrived just in time for the restaurant to serve their world famous “Grape-Ade” punch. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the grapes.
-   [02ED0] 0xC8F194351EEF7604: Your grapes arrived just in time for the restaurant to serve their world famous “Grape-Ade” punch. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the grapes.
+   [02ECF] 0x31A04825CCE6E491: Your grapes arrived just in time for the restaurant to serve their world-famous "Grape-Ade" punch. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the grapes.
+   [02ED0] 0xC8F194351EEF7604: Your grapes arrived just in time for the restaurant to serve their world-famous "Grape-Ade" punch. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the grapes.
    [02ED1] 0x6DC4A35B4CD5C4FF: There’s a regional grape shortage, so the restaurant is asking all local farmers to sell them their grapes until the crisis is resolved. You need to grow {9.Number} Very Nice (or better) grapes and deliver them to the restaurant. You’ll be paid for your produce!
    [02ED2] 0xC1F8DD71DB7DD60E: There’s a regional grape shortage, so the restaurant is asking all local farmers to sell them their grapes until the crisis is resolved. You need to grow {9.Number} Very Nice (or better) grapes and deliver them to the restaurant. You’ll be paid for your produce!
    [02ED3] 0x13FEF9D92D92B20F: You missed your chance to provide fresh produce to the restaurant! The chef had to change the menu, and customers are leaving in droves! 
@@ -12018,8 +12018,8 @@ Unknown3: 0x00000000
    [02EED] 0x295E98384ED1A58F: Extreme Life Insurance
    [02EEE] 0xB82F792A9F455268: Bring {0.SimName} a Death Flower.
    [02EEF] 0x9097C079E8AD7663: Bring {0.SimName} a Death Flower.
-   [02EF0] 0xCAFF4D24E4405B85: Your lettuce arrived just in time for the restaurant to serve their world famous “Lettuce Explosion” dessert salad. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the lettuce.
-   [02EF1] 0xCAC160DC1EF8BB60: Your lettuce arrived just in time for the restaurant to serve their world famous “Lettuce Explosion” dessert salad. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the lettuce.
+   [02EF0] 0xCAFF4D24E4405B85: Your lettuce arrived just in time for the restaurant to serve their world-famous "Lettuce Explosion" dessert salad. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the lettuce.
+   [02EF1] 0xCAC160DC1EF8BB60: Your lettuce arrived just in time for the restaurant to serve their world-famous "Lettuce Explosion" dessert salad. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the lettuce.
    [02EF2] 0xC336101FDB14A32B: Locusts intercepted a lettuce shipment heading to the restaurant, which makes it impossible for them to toss their world-famous salads. The restaurant needs your lettuce! You need to grow {9.Number} Very Nice (or better) heads of lettuce and deliver them to the restaurant. You’ll be paid for your produce!
    [02EF3] 0xE7E175360518C992: Locusts intercepted a lettuce shipment heading to the restaurant, which makes it impossible for them to toss their world-famous salads. The restaurant needs your lettuce! You need to grow {9.Number} Very Nice (or better) heads of lettuce and deliver them to the restaurant. You’ll be paid for your produce!
    [02EF4] 0x489CC83716B1EA23: You missed your chance to provide fresh produce to the restaurant! The chef had to change the menu, and customers are leaving in droves! 
@@ -12041,8 +12041,8 @@ Unknown3: 0x00000000
    [02F04] 0x78B8B0C0001CBA4F: The Fruit of Life
    [02F05] 0x1DD1F6F6E9E49828: Bring {0.SimName} a Life Fruit.
    [02F06] 0xAF1E006E5D5F1B23: Bring {0.SimName} a Life Fruit.
-   [02F07] 0x85FDB20AFB102D66: Your limes arrived just in time for the restaurant to serve their world famous “Lime and Grin Turnover” pastries. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the limes.
-   [02F08] 0x55585875A38A775D: Your limes arrived just in time for the restaurant to serve their world famous “Lime and Grin Turnover” pastries. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the limes.
+   [02F07] 0x85FDB20AFB102D66: Your limes arrived just in time for the restaurant to serve their world-famous "Lime and Grin Turnover" pastries. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the limes.
+   [02F08] 0x55585875A38A775D: Your limes arrived just in time for the restaurant to serve their world-famous "Lime and Grin Turnover" pastries. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the limes.
    [02F09] 0xB7B7D23D1147F072: Limes are in short supply at the restaurant. They’re asking local farmers to bring in their surplus limes for top Simoleon! You need to grow {9.Number} Very Nice (or better) limes and deliver them to the restaurant. You’ll be paid for your produce!
    [02F0A] 0x981817C0CABAD8A1: Limes are in short supply at the restaurant. They’re asking local farmers to bring in their surplus limes for top Simoleon! You need to grow {9.Number} Very Nice (or better) limes and deliver them to the restaurant. You’ll be paid for your produce!
    [02F0B] 0xB6BDA5C6992B15F2: You missed your chance to provide fresh produce to the restaurant! The chef had to change the menu, and customers are leaving in droves! 
@@ -12062,8 +12062,8 @@ Unknown3: 0x00000000
    [02F19] 0x7438FCE6831F37C9: A Nice Harvest
    [02F1A] 0xD506008D6A1E38CA: Bring {0.SimName} {9.Number} Harvestables.
    [02F1B] 0x2128F3BF68B80B79: Bring {0.SimName} {9.Number} Harvestables.
-   [02F1C] 0x116AB2711C93CD7C: Your onions arrived just in time for the restaurant to serve their world famous “Tearful Onion Surprise” steak sauce. It’s an award-winning creation that you are now a part of. The restaurant is all too glad to pick up the tab for the onions.
-   [02F1D] 0x76C0153A89BBD23F: Your onions arrived just in time for the restaurant to serve their world famous “Tearful Onion Surprise” steak sauce. It’s an award-winning creation that you are now a part of. The restaurant is all too glad to pick up the tab for the onions.
+   [02F1C] 0x116AB2711C93CD7C: Your onions arrived just in time for the restaurant to serve their world-famous "Tearful Onion Surprise" steak sauce. It's an award-winning creation that you are now a part of. The restaurant is all too glad to pick up the tab for the onions.
+   [02F1D] 0x76C0153A89BBD23F: Your onions arrived just in time for the restaurant to serve their world-famous "Tearful Onion Surprise" steak sauce. It's an award-winning creation that you are now a part of. The restaurant is all too glad to pick up the tab for the onions.
    [02F1E] 0x4341CD43231BA7B8: The chefs at the restaurant are crying because they just sliced their last onion! Their menu will suffer if more onions aren’t supplied soon! You need to grow {9.Number} Very Nice (or better) onions and deliver them to the restaurant. You’ll be paid for your produce!
    [02F1F] 0x4DF6B3358F06A973: The chefs at the restaurant are crying because they just sliced their last onion! Their menu will suffer if more onions aren’t supplied soon! You need to grow {9.Number} Very Nice (or better) onions and deliver them to the restaurant. You’ll be paid for your produce!
    [02F20] 0x38C9BAA914752E14: You missed your chance to provide fresh produce to the restaurant! The chef had to change the menu, and customers are leaving in droves! 
@@ -12095,8 +12095,8 @@ Unknown3: 0x00000000
    [02F3A] 0x6B7C35A56F3DBE9F: Fruit Flambé
    [02F3B] 0x67D84E9609EB28D8: Deliver 6 Flame Fruit to the Office.
    [02F3C] 0xAC19E9E3AEB89CD3: Deliver 6 Flame Fruit to the Office.
-   [02F3D] 0x7BDE90D9CF1A9BB1: Your peppers arrived just in time for the restaurant to serve their soon-to-be world famous “Pepper Parmesan” pasta. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the peppers.
-   [02F3E] 0x98CD929E982D8164: Your peppers arrived just in time for the restaurant to serve their soon-to-be world famous “Pepper Parmesan” pasta. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the peppers.
+   [02F3D] 0x7BDE90D9CF1A9BB1: Your peppers arrived just in time for the restaurant to serve their soon-to-be world-famous "Pepper Parmesan" pasta. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the peppers.
+   [02F3E] 0x98CD929E982D8164: Your peppers arrived just in time for the restaurant to serve their soon-to-be world-famous "Pepper Parmesan" pasta. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the peppers.
    [02F3F] 0x1303DE4A32B7D59F: The restaurant has a new menu item prominently featuring peppers. It’s unfortunate that their current pepper suppliers won’t be able to meet the new demand. You need to grow {9.Number} Very Nice (or better) peppers and deliver them to the restaurant. They’ll pay you for your peppers!
    [02F40] 0x19BBE3FB2645CD6E: The restaurant has a new menu item prominently featuring peppers. It’s unfortunate that their current pepper suppliers won’t be able to meet the new demand. You need to grow {9.Number} Very Nice (or better) peppers and deliver them to the restaurant. They’ll pay you for your peppers!
    [02F41] 0x092A9D9B7AB2A5AF: You missed your chance to provide fresh produce to the restaurant! The chef had to change the menu, and customers are leaving in droves! 
@@ -12116,8 +12116,8 @@ Unknown3: 0x00000000
    [02F4F] 0x37C38C231ECBD07F: Perfect Produce
    [02F50] 0x7E8AD4513347ADF8: Deliver {9.Number} Perfect Harvestables to {0.SimName}.
    [02F51] 0x5D26F361BA8D03B3: Deliver {9.Number} Perfect Harvestables to {0.SimName}.
-   [02F52] 0x514F7F3888726918: Your potatoes arrived just in time for the restaurant to serve their world famous “Totalitarian Taters” chimichangas. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the potatoes.
-   [02F53] 0x68ACBF9932631C13: Your potatoes arrived just in time for the restaurant to serve their world famous “Totalitarian Taters” chimichangas. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the potatoes.
+   [02F52] 0x514F7F3888726918: Your potatoes arrived just in time for the restaurant to serve their world-famous "Totalitarian Taters" chimichangas. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the potatoes.
+   [02F53] 0x68ACBF9932631C13: Your potatoes arrived just in time for the restaurant to serve their world-famous "Totalitarian Taters" chimichangas. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the potatoes.
    [02F54] 0xBCDB7F3C30F1958C: Potatoes are all the rage currently, most likely due to their incredibly starchy contents. The restaurant is worried they’ll run out and are paying local growers to bring in their surplus taters. You need to grow {9.Number} Very Nice (or better) potatoes and deliver them to the restaurant.
    [02F55] 0x15674ADCB8096A8F: Potatoes are all the rage currently, most likely due to their incredibly starchy contents. The restaurant is worried they’ll run out and are paying local growers to bring in their surplus taters. You need to grow {9.Number} Very Nice (or better) potatoes and deliver them to the restaurant.
    [02F56] 0xB2420A19B1308530: You missed your chance to provide fresh produce to the restaurant! The chef had to change the menu, and customers are leaving in droves! 
@@ -12157,8 +12157,8 @@ Unknown3: 0x00000000
    [02F78] 0x8AA7FD947B541B63: The Omnificent Plant
    [02F79] 0xAC193D5337B3F624: Bring 10 Outstanding Steaks to the Restaurant.
    [02F7A] 0x42A28264CB60EFA7: Bring 10 Outstanding Steaks to the Restaurant.
-   [02F7B] 0x2FA019A43D232FDF: Your tomatoes arrived just in time for the restaurant to serve their world famous “Tomato Bowling” pasta sauce. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the tomatoes.
-   [02F7C] 0x8391D08AC7B8B8AE: Your tomatoes arrived just in time for the restaurant to serve their world famous “Tomato Bowling” pasta sauce. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the tomatoes.
+   [02F7B] 0x2FA019A43D232FDF: Your tomatoes arrived just in time for the restaurant to serve their world-famous "Tomato Bowling" pasta sauce. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the tomatoes.
+   [02F7C] 0x8391D08AC7B8B8AE: Your tomatoes arrived just in time for the restaurant to serve their world-famous "Tomato Bowling" pasta sauce. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the tomatoes.
    [02F7D] 0x4C14BCF9E1DEE8AD: The restaurant just lost one of its tomato suppliers and they need help from local farmers until this crisis is resolved. You need to grow {9.Number} Very Nice (or better) tomatoes and deliver them to the restaurant. You’ll be paid for your produce!
    [02F7E] 0xADB92709D4637828: The restaurant just lost one of its tomato suppliers and they need help from local farmers until this crisis is resolved. You need to grow {9.Number} Very Nice (or better) tomatoes and deliver them to the restaurant. You’ll be paid for your produce!
    [02F7F] 0x4E2A517C2B6083E1: You missed your chance to provide fresh produce to the restaurant! The chef had to change the menu, and customers are leaving in droves! 
@@ -12178,8 +12178,8 @@ Unknown3: 0x00000000
    [02F8D] 0xD7872EBB331076BD: Ingredients Ripe for the Eating
    [02F8E] 0x4258D80EEE866146: Deliver {9.Number} Very Nice Harvestables to {0.SimName}.
    [02F8F] 0x80D5DD0715CD66FD: Deliver {9.Number} Very Nice Harvestables to {0.SimName}.
-   [02F90] 0xA29782CE36E8C363: Your watermelons arrived just in time for the restaurant to serve their world famous “Wah Wah Seedy” pie. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the watermelons.
-   [02F91] 0xCE13CF51EBF5F9CA: Your watermelons arrived just in time for the restaurant to serve their world famous “Wah Wah Seedy” pie. It’s an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the watermelons.
+   [02F90] 0xA29782CE36E8C363: Your watermelons arrived just in time for the restaurant to serve their world-famous "Wah Wah Seedy" pie. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the watermelons.
+   [02F91] 0xCE13CF51EBF5F9CA: Your watermelons arrived just in time for the restaurant to serve their world-famous "Wah Wah Seedy" pie. It's an award-winning creation that you are now a part of! The restaurant is all too glad to pick up the tab for the watermelons.
    [02F92] 0x191A148F00EC78D9: The temperature is up and people all over town are craving watermelons. The restaurant is worried they don’t have enough in stock and are paying local growers to bring in their surplus watermelons. You need to grow {9.Number} Very Nice (or better) watermelons and deliver them to the restaurant.
    [02F93] 0x990A53DF33B7EA2C: The temperature is up and people all over town are craving watermelons. The restaurant is worried they don’t have enough in stock and are paying local growers to bring in their surplus watermelons. You need to grow {9.Number} Very Nice (or better) watermelons and deliver them to the restaurant.
    [02F94] 0x8CD98574EEC6E235: You missed your chance to provide fresh produce to the restaurant! The chef had to change the menu, and customers are leaving in droves! 
@@ -13657,8 +13657,8 @@ Unknown3: 0x00000000
    [03554] 0x0123D4CD5A0DE6CC: Gender testing has a brief window of opportunity, as you should know, yet you missed it just the same! Try to pay closer attention to the biological clock next time you’re on the job.
    [03555] 0xFC5BC6761967A31E: Visit {0.SimName} and “Determine Gender” before time runs out to earn a performance increase.
    [03556] 0x7FC95DE8A3399355: Visit {0.SimName} and “Determine Gender” before time runs out to earn a performance increase.
-   [03557] 0x0EA31B762406FAC0: Old Fashioned House Call
-   [03558] 0x7C7D84969B784B1B: Old Fashioned House Call
+   [03557] 0x0EA31B762406FAC0: Old-Fashioned House Call
+   [03558] 0x7C7D84969B784B1B: Old-Fashioned House Call
    [03559] 0x4A3C5BE76B1D94CC: Determine Gender on {0.SimName}.
    [0355A] 0xFFB0707962D2C4CF: Determine Gender on {0.SimName}.
    [0355B] 0x7124DF90CFB07237: You’ve really helped science by donating a piece of your noggin! The scientists think they’ll be busy for years tinkering with your brain. They’ve donated a large sum of Simoleons to the hospital, the majority of which will go towards your new raise!
@@ -14445,8 +14445,8 @@ Unknown3: 0x00000000
    [03868] 0xB04540AC6FABF4D5: Attend Retreat at Bookstore.
    [03869] 0xB623F5ADCBCAED48: The fresco is now finished and you can proudly say you had a hand in the masterpiece. The fresco painter passed on much of her ancient knowledge to you and now all of your future paintings will be more valuable!
    [0386A] 0x08CAFCD7F2581F83: The fresco is now finished and you can proudly say you had a hand in the masterpiece. The fresco painter passed on much of her ancient knowledge to you and now all of your future paintings will be more valuable!
-   [0386B] 0x2303E5F06A80A91C: A world famous fresco painter has been commissioned by City Hall to paint a fresco for the front entranceway. The painter needs an assistant, and you have been recommended. Visit City Hall quickly to assist the painter, and the knowledge gained will increase the value of all of your future paintings.
-   [0386C] 0xD826BCA53E1EE61F: A world famous fresco painter has been commissioned by City Hall to paint a fresco for the front entranceway. The painter needs an assistant, and you have been recommended. Visit City Hall quickly to assist the painter, and the knowledge gained will increase the value of all of your future paintings.
+   [0386B] 0x2303E5F06A80A91C: A world-famous fresco painter has been commissioned by City Hall to paint a fresco for the front entryway. The painter needs an assistant, and you have been recommended. Visit City Hall quickly to assist the painter, and the knowledge gained will increase the value of all of your future paintings.
+   [0386C] 0xD826BCA53E1EE61F: A world-famous fresco painter has been commissioned by City Hall to paint a fresco for the front entryway. The painter needs an assistant, and you have been recommended. Visit City Hall quickly to assist the painter, and the knowledge gained will increase the value of all of your future paintings.
    [0386D] 0x1ABC811DB5850880: You were given the opportunity to assist and learn from a master artist, yet you were too busy to even show up. Shameful! A disgrace! Simply unheard of! Appalling! Quite reprehensible!
    [0386E] 0xE756EF6E705385DB: You were given the opportunity to assist and learn from a master artist, yet you were too busy to even show up. Shameful! A disgrace! Simply unheard of! Appalling! Quite reprehensible!
    [0386F] 0xD143D55F1C6F1195: “Assist Painter” at City Hall before time runs out to increase the value of all of your future paintings.
@@ -35425,7 +35425,7 @@ Unknown3: 0x00000000
    [08A5C] 0xA95AE6EA0847A9E1: You can rest your weary legs and align your spine when you sit in this exquisite, yet practical chair. When you want to sit on it, sit on this.
    [08A5D] 0xC9B7AF40C162C9E6: Residents of Champs les Sims are good at effortlessly finding a balance, whether it’s between work and play, or fashion and function. This chair achieves its own balance between comfort and design, providing an adequate amount of comfort with an exceptional amount of style.
    [08A5E] 0xB442EE878EF6B525: INEEDTEXT!
-   [08A5F] 0xBC41B1983D9B3CA5: When Felix the Dragon was shown that he was inspiration for this boat, he was so excited that his fire breath accidently flared up and he burned the original boat into the water.
+   [08A5F] 0xBC41B1983D9B3CA5: When Felix the Dragon was shown that he was inspiration for this boat, he was so excited that his fire breath accidentally flared up and he burned the original boat into the water.
    [08A60] 0x298C2F77743E9FD3: collectable relic china description needs text
    [08A61] 0x5F964CA809623143: collectable relic egypt description needs text
    [08A62] 0xE03519C13E782E6F: collectable relic france description needs text
@@ -41901,7 +41901,7 @@ Unknown3: 0x00000000
    [0A3A8] 0xB37813236A7DD3AB: This fancy schmancy unit from L’eau Furnishing will amaze with its ability to perform all sink-related tasks with uncanny automation. Its impressive sensor array allows the water flow to bend towards hand proximity, set the appropriate temperature via atmospheric sampling, and dispense soap through the water jet.
    [0A3A9] 0x49AF8DC2832E1071: Made with new high-tech cushioning materials, our sofa offers the degree of comfort that you demand from your seating, without all the excess fluff. Settle yourself on firmer, sleeker coziness, because comfort doesn’t have to be fat. Pair it with a matching loveseat or chair for a spec-tech-ular living room scene.
    [0A3AA] 0x417B4E6D1C4F55F8: A spectacular railing, perfectly paired with Placid Steps.
-   [0A3AB] 0x2A83A8ADEEA40167: BeoWuuf Systems is the leader in HD audio processing and delivery components. Now available in this pre-assembled "stack" unit, audiophiles can now dabble with 96-kHz 128-bit sound for up to eighteen channels. Soothing blue high tech display. Human interface port. Nano-tubes. Aluminum and carbon fiber.
+   [0A3AB] 0x2A83A8ADEEA40167: BeoWuuf Systems is the leader in HD audio processing and delivery components. Now available in this pre-assembled "stack" unit, audiophiles can now dabble with 96-kHz 128-bit sound for up to eighteen channels. Soothing blue high-tech display. Human interface port. Nano-tubes. Aluminum and carbon fiber.
    [0A3AC] 0x6C0FCF053DE6A4D1: The sunset slowly fades in the horizon as you look out your window, relaxing on a familiar couch. Your legs are propped up in the perfect position, gently balanced and delicately bathed in the soft blue light of your new Glow-Li-La. The serene ambiance this table adds to your home will never fade. Your Glo-Li-La table can also be used as a resting place for a cup of coffee.
    [0A3AD] 0x38D6E55E1883439B: This end table is hardly straight-laced. Its nonconformist style scoffs at other boxy end tables with their conventional structures. Thoroughly modern and entirely liberated, the Outside the Box End Table lets you store bits and bobs without compromising their maverick values.
    [0A3AE] 0x7E84D066AD00DA93: Few experiences rate as luxurious and efficient as sitting on the Flushmaster Hi-Fi. The latest advancements in Flushmaster technology include electronically modulated flush sensors, heat-contoured seating, cyclic-ion odor dampeners, a hemisphere toggle switch, and even an interesting fact generator. Intensive R & D continues to equip Flushmaster models with even more opulent features.
@@ -42794,8 +42794,8 @@ Unknown3: 0x00000000
    [0A725] 0xCA6429E940A8EE30: Pervasive Private Eye
    [0A726] 0x57C86959803FFEAF: 
    [0A727] 0x3C4687B2971BA33E: 
-   [0A728] 0xF0E7452CC64E938F: While other Sims were learning that hard work over long hours can be turned into Simoleons, your Sim learned that borrowing without asking leads to the same result without the sweat and tears. Whether snatched accidently while visiting the park, or borrowed when an acquaintance wasn’t looking, the value of objects gathered is in the eye of beholder. One Sims trash is another Sims treasure. And if your Sim happens to klepto real treasure, well, all the better…
-   [0A729] 0x18E665220E9C21DE: While other Sims were learning that hard work over long hours can be turned into Simoleons, your Sim learned that borrowing without asking leads to the same result without the sweat and tears. Whether snatched accidently while visiting the park, or borrowed when an acquaintance wasn’t looking, the value of objects gathered is in the eye of beholder. One Sims trash is another Sims treasure. And if your Sim happens to klepto real treasure, well, all the better…
+   [0A728] 0xF0E7452CC64E938F: While other Sims were learning that hard work over long hours can be turned into Simoleons, your Sim learned that borrowing without asking leads to the same result without the sweat and tears. Whether snatched accidentally while visiting the park, or borrowed when an acquaintance wasn't looking, the value of objects gathered is in the eye of beholder. One Sims trash is another Sims treasure. And if your Sim happens to klepto real treasure, well, all the better...
+   [0A729] 0x18E665220E9C21DE: While other Sims were learning that hard work over long hours can be turned into Simoleons, your Sim learned that borrowing without asking leads to the same result without the sweat and tears. Whether snatched accidentally while visiting the park, or borrowed when an acquaintance wasn't looking, the value of objects gathered is in the eye of beholder. One Sims trash is another Sims treasure. And if your Sim happens to klepto real treasure, well, all the better...
    [0A72A] 0x5AA670FD023CE622: Possess §{0.Number} worth of stolen goods
    [0A72B] 0x251B9EDA7F13E791: Possess §{0.Number} worth of stolen goods
    [0A72C] 0x61FD415A5609D2D7: Possession is Nine Tenths of the Law
@@ -56496,23 +56496,23 @@ Unknown3: 0x00000000
    [0DCAB] 0xEAA97A73A7048834: Watch a Rodent
    [0DCAC] 0x97BBE0743B5CC401: Watch a Rodent
    [0DCAD] 0x5396E242B3755F2B: Watch a Rodent
-   [0DCAE] 0x4F70EE25FD1E822C: It'd be nice if you called out to your pet and they instinctively knew to scurry into your pocket, alas you'll have to settle for taking them out of their terrarium the old fashioned way. Your Sim wants to Take a Lizard from the terrarium. 
+   [0DCAE] 0x4F70EE25FD1E822C: It'd be nice if you called out to your pet, and they instinctively knew to scurry into your pocket, alas you'll have to settle for taking them out of their terrarium the old-fashioned way. Your Sim wants to Take a Lizard from the terrarium.
    [0DCAF] 0x8CE48128AAF3466F: Take a Lizard
    [0DCB0] 0xEE66A8AB2C5830F0: Take a Lizard
    [0DCB1] 0x8C09E29A9070B36C: Take a Lizard
-   [0DCB2] 0x4FA44E5B55369B8F: It'd be nice if you called out to your pet and they instinctively knew to fly into your pocket, alas you'll have to settle for taking them out of their cage the old fashioned way. Your Sim wants to take a bird from the bird cage.
+   [0DCB2] 0x4FA44E5B55369B8F: It'd be nice if you called out to your pet, and they instinctively knew to fly into your pocket, alas you'll have to settle for taking them out of their cage the old-fashioned way. Your Sim wants to take a Bird from the bird cage.
    [0DCB3] 0x4F9A9BF86860BE22: Take a Bird
    [0DCB4] 0xC0BA4A88E4F1DAD7: Take a Bird
    [0DCB5] 0x4C8DD17969C49E7D: Take a Bird
-   [0DCB6] 0x18ABDF9BB6C3F71A: It'd be nice if you called out to your pet and they instinctively knew to jump into your pocket, alas you'll have to settle for taking them out of their terrarium the old fashioned way. Your Sim wants to Take a Turtle from the terrarium.
+   [0DCB6] 0x18ABDF9BB6C3F71A: It'd be nice if you called out to your pet, and they instinctively knew to jump into your pocket, alas you'll have to settle for taking them out of their terrarium the old-fashioned way. Your Sim wants to Take a Turtle from the terrarium.
    [0DCB7] 0x9222B2995873B92D: Take a Turtle
    [0DCB8] 0x433086F585CC5476: Take a Turtle
    [0DCB9] 0x0391470EA625AD16: Take a Turtle
-   [0DCBA] 0x8F6A88AAD79B5E45: It'd be nice if you called out to your pet and they instinctively knew to slither into your pocket, alas you'll have to settle for taking them out of their terrarium the old fashioned way. Your Sim wants to Take a Snake from the terrarium.
+   [0DCBA] 0x8F6A88AAD79B5E45: It'd be nice if you called out to your pet, and they instinctively knew to slither into your pocket, alas you'll have to settle for taking them out of their terrarium the old-fashioned way. Your Sim wants to Take a Snake from the terrarium.
    [0DCBB] 0xBE0095C5E3402A18: Take a Snake
    [0DCBC] 0x342B29C875831D55: Take a Snake
    [0DCBD] 0x1F7D45784D5816AF: Take a Snake
-   [0DCBE] 0x246DE9D8169064D2: It'd be nice if you called out to your pet and they instinctively knew to hop into your pocket, alas you'll have to settle for taking them out of their terrarium the old fashioned way. Your Sim wants to Take a Rodent from the terrarium.
+   [0DCBE] 0x246DE9D8169064D2: It'd be nice if you called out to your pet, and they instinctively knew to hop into your pocket, alas you'll have to settle for taking them out of their terrarium the old-fashioned way. Your Sim wants to Take a Rodent from the terrarium.
    [0DCBF] 0x4758766F0149CA55: Take a Rodent
    [0DCC0] 0x67A96DE55832E26E: Take a Rodent
    [0DCC1] 0xFB085AE6C1A3EC5E: Take a Rodent
@@ -65443,7 +65443,7 @@ Unknown3: 0x00000000
    [0FF9E] 0xD725631CC5FE92D0: Nothing says good, clean, livin’ in the country like a big ol’ sofa with a ruffle all the way around it. Sittin’ on one of these, you can almost smell the grits cookin’ and feel the cool iced tea in your hands. (These are the only sensations you should experience. If you ever smell cinnamon, discontinue use immediately.)
    [0FF9F] 0xF5FD2E6ADC32160B: You know how there’s the alternative club you go to, and then when you get bored of it you find the alternative to that? The club that the normal Sims won’t go to, either because they’re scared or because they don’t even realize it’s there? This lounger was designed for that club, but now you can have it in your home!
    [0FFA0] 0xA96215D2A9A7FC49: When you want your guests to be comfortable, but not TOO comfortable, try covering your plush, inviting sofa in cold, hard studs. Subtly let your guests know that they can sit down and relax, but they shouldn’t overstay their welcome. This is your home, and with one look at this striking piece of furniture they’ll exclaim, “Look at you, U-Stud!”
-   [0FFA1] 0x86E984B66AE31CE1: That’s right, friends, it’s an old fashioned Diatrode Crackler radio! It uses an extra-phosphorescent diatrode to bring you sound so clear you can make it out. All of your favorite music programs will sound like they’re being broadcast right into the room with you from somewhere far, far away. Never open the Diatrode Cracker!
+   [0FFA1] 0x86E984B66AE31CE1: That's right, friends, it's an old-fashioned Diatrode Crackler radio! It uses an extra-phosphorescent diatrode to bring you sound so clear you can make it out. All of your favorite music programs will sound like they're being broadcast right into the room with you from somewhere far, far away. Never open the Diatrode Cracker!
    [0FFA2] 0x1636C59C5C8BF432: Nothing tells the world you’re a discerning iconoclast like an antique phonograph. It practically screams out “Look how I do things!” Show your friends that you don’t need a digital music solution just because “everyone else is doing it” or because it’s “measurably better.” Your statement will come through loud and clear. And the best part is, you don’t even have to use it!
    [0FFA3] 0x8A9A0FBC916F11D4: Some things just don’t get better with age – like technology! And when it comes to cooking technology, trust us. You can pretty much stop when you get to heating things up. This antique stove heats things up, and it looks really cool while doing it. Do you need more than that?
    [0FFA4] 0x24CB7A532C5915B2: This coffee table sits very politely in the bedroom and doesn’t ask any questions. Quiet. Unassuming. Exactly the kind of behavior you expect in your smaller tables. Increase the usable surface area of your bedroom without making things awkward. (Also compatible with other rooms.)
@@ -74090,7 +74090,7 @@ Unknown3: 0x00000000
    [12165] 0x231A0E50DB2CF685: Reach Max Influence with All Social Groups
    [12166] 0xC1876D1F58E5DD7E: 
    [12167] 0xF9140A37121DFEF5: 
-   [12168] 0xF2C7D92850607407: There’s only so much one can see by looking at art. Sometimes a little high tech help is needed for the microscopic details. Your Sim wants to scan art.
+   [12168] 0xF2C7D92850607407: There's only so much one can see by looking at art. Sometimes a little high-tech help is needed for the microscopic details. Your Sim wants to scan art.
    [12169] 0x870B3B0CB14EFFEA: Scan Art
    [1216A] 0x21426586B3E2918F: Scan Art
    [1216B] 0xE804272798536E05: Scan Art
@@ -74219,7 +74219,7 @@ Unknown3: 0x00000000
    [121E6] 0xC041EDF504B390B2: Learn all about the building blocks of life and even do some good for the world.\n\nDegrees in Science & Medicine will give Sims an instant level boost and higher pay in Science and Medical careers.
    [121E7] 0xF9B379B3649B112B: Science students gain academic performance when improving their Science, Gardening or Fishing skills. Working with the Anatomy Skeleton will also help increase their academic performance.
    [121E8] 0x9E7DBFC2BA44307F: Technology
-   [121E9] 0xE44F0375984DB778: Embrace the high tech lifestyle – technophobes need not apply!\n\nA Technology degree will give Sims an instant level boost and higher pay in Military and Law Enforcement careers.
+   [121E9] 0xE44F0375984DB778: Embrace the high-tech lifestyle – technophobes need not apply!\n\nA Technology degree will give Sims an instant level boost and higher pay in Military and Law Enforcement careers.
    [121EA] 0xDC4FEC1B6856FD35: Technology students gain academic performance when improving the Handiness and Logic skills. Working with the Brain Enhancing Machine will also help increase their academic performance.
    [121EB] 0x16754A9813FA7575: All students are expected to Attend their Class, Lectures, and Activities to maintain their academic performance while at university. Missing more than 1 of these could cause your performance to drop.
    [121EC] 0x16754A9813FA7576: Studying from a Text Book, Computer or Smart Phone is an easy way to maintain your academic performance while on the go and will help prevent your grade from slipping over time. Studying for long periods can be bad for your performance and mood.
@@ -76773,7 +76773,7 @@ Unknown3: 0x00000000
    [12BE0] 0xC67B78F63B962BCE: Masks
    [12BE1] 0x63CE569FBE63DBEA: The life essence of plants? Or something far more sinister?
    [12BE2] 0xF34134543BED9AA8: Nectar
-   [12BE3] 0x6B21A22A7FEEBCA5: Smearing colors on a canvas is so old fashioned.
+   [12BE3] 0x6B21A22A7FEEBCA5: Smearing colors on a canvas is so old-fashioned.
    [12BE4] 0x22DDF22D3806B631: Painting
    [12BE5] 0x80FD44F3E9103F4E: Capturing moments in time is so two-dimensional.
    [12BE6] 0x9A67DBFBA0F8EC24: Photography
@@ -79905,7 +79905,7 @@ Unknown3: 0x00000000
    [1381C] 0x972C7E396E15E32B: Meet {1.SimName}
    [1381D] 0x54FE014F4C096D2C: Meet a Plumbot
    [1381E] 0x89F5FA1AF6B38BE8: Meet {1.SimName}
-   [1381F] 0x0FEC579C48C5AA67: Plumbots are regular fixtures in the Future and are really high tech. Your Sim wants to get out and see one!
+   [1381F] 0x0FEC579C48C5AA67: Plumbots are regular fixtures in the Future and are really high-tech. Your Sim wants to get out and see one!
    [13820] 0xB91E69BB4743A4CA: See {1.SimName}
    [13821] 0xF33C95EF992455EF: See a Plumbot
    [13822] 0xE0BF6BAB865BD1E5: See {1.SimName}
@@ -80273,8 +80273,8 @@ Unknown3: 0x00000000
    [1398C] 0x16DD835E471D13AB: Most Sims use technology and some may understand it, but few truly appreciate it the way you do. By amassing a vast collection of your most beloved hardware, you might build a living museum to the machines you love!
    [1398D] 0xA807A895E0A13B53: Reach Level 10 in Advanced Technology Skill 
    [1398E] 0x908DF7DE2DA3827A: Reach Level 10 in Advanced Technology Skill 
-   [1398F] 0x9EE111C63210E024: High Tech Collector
-   [13990] 0xEA5B76C00ED11DA7: High Tech Collector
+   [1398F] 0x9EE111C63210E024: High-Tech Collector
+   [13990] 0xEA5B76C00ED11DA7: High-Tech Collector
    [13991] 0x646A61A9B3315290: Own a Windcarver, Dream Pod, Food Synthesizer, Holo Disc, and Jet Pack
    [13992] 0x19CF2DEB396E66EB: Own a Windcarver, Dream Pod, Food Synthesizer, Holo Disc, and Jet Pack
    [13993] 0x660162A2AE2966BF: Through dedicated study, you may build great Plumbots. It takes very special inspiration to imbue them with Sentience! Those superb citizens bridging this gap are examples to Sim and Bot alike: symbols of the civilization they both share.
@@ -81778,7 +81778,7 @@ Unknown3: 0x00000000
    [13F6D] 0x4F13641E24214C29: Caught a Nanite
    [13F6E] 0x82A1520E2E20C14D: That Nanite nearly got away, but {2.SimName} snatched it up for {MA.his}{FA.her} collection!
    [13F6F] 0x0A36B56E67BA822B: Having heard about those amazing inventions, you simply had to own and understand them!
-   [13F70] 0xE7E196770B8FBFAA: High Tech Collector
+   [13F70] 0xE7E196770B8FBFAA: High-Tech Collector
    [13F71] 0x39ECA9F2058380FA: {2.SimName} is flooded with joy, having completed {MA.his}{FA.her} collection of fabulously futuristic contraptions!
    [13F72] 0x01077A55419DCB8C: Learning to build Plumbots was the easy part. Imbuing one with Sentience was truly difficult.
    [13F73] 0x473E485BCBB54DE3: More than a Machine

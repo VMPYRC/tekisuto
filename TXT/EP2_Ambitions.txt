@@ -1292,7 +1292,7 @@ Unknown3: 0x00000000
    [507] 0x9AAABF5C3C6CF049: Tucker
    [508] 0x83D9B824169960CE: Ty
    [509] 0xA457A75266A19F14: Wei
-   [50A] 0x82580E1F44E2EAD8: Wei longs to lead the world, not from the political pulpit, but from the helm of a high tech mega-corporation. He's ambitious enough to do it, but is he willing to work the long hours and sacrifice his social life to get there?
+   [50A] 0x82580E1F44E2EAD8: Wei longs to lead the world, not from the political pulpit, but from the helm of a high-tech mega-corporation. He's ambitious enough to do it, but is he willing to work the long hours and sacrifice his social life to get there?
    [50B] 0x340DF631B52BE93A: Weller
    [50C] 0xEC270F9865DAD47C: Whelohff
    [50D] 0x517E732EF435F299: Wilhelmina

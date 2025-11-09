@@ -108,7 +108,7 @@ Unknown3: 0x00000000
    [067] 0x45C5DD18020B907B: Recalling the pastoral tones of a Victorian farmhouse, this well-built door admits plenty of light into your foyer. In keeping with Standard Issue’s general philosophy, all angles are right angles.
    [068] 0x8F98C6D524E854E3: This door is all business. It forms a gateway of gravitas, perfect for offices or storefronts. Warning: door handle becomes extremely cold in winter. Cases of frostbite have been documented.
    [069] 0x060BF6EB244CD491: Standard Issue buys up miles of excess material every year, and some of it goes on the uniquely scratchy drawers of this dresser. Note the right angles in every component!
-   [06A] 0x38EE686B4A9A9D6E: This reliable, no frills sublime dryer takes an armful of soggy clothes with no fuss, no muss. Why dry clothes the old fashioned way? Wonderfully warm clothes await!
+   [06A] 0x38EE686B4A9A9D6E: This reliable, no frills sublime dryer takes an armful of soggy clothes with no fuss, no muss. Why dry clothes the old-fashioned way? Wonderfully warm clothes await!
    [06B] 0x32AFDAB2B7D23BD2: Like cutting a peach in half, painting exposes the soul’s darkest pit. The Slouch and Deliver easel supports any art project, from pastoral landscapes to portraits beyond imagination.
    [06C] 0xDACC79FAA224F3A4: They say good fences make good neighbors. But why all the hostility, man? Built in the spirit of brotherhood, this decorative fencing aims to build friendships.
    [06D] 0xE7EDBD43119F705B: You can fill a room with all the bookshelves, globes, taxidermy and model sailing shapes you like. Nothing in the world says “gravitas” like the magnificent Dante fireplace.
@@ -138,7 +138,7 @@ Unknown3: 0x00000000
    [085] 0x8A61176395D27806: Open your mind and prepare it to receive…The Nozzle. Four prehensile stalks emerge from the floor and blossom out like a glowing alien plant. Unlike a plant, it needs electricity.
    [086] 0x70290F57E7B0EAD2: Light is crucial to art, so Secret Bohemia brings you the fourth-brightest lamp ever built. With this halogen monster, that poseur DaVinci might have actually amounted to something.
    [087] 0xD680FCE68DA99E80: Old-world craftsmanship and warm, soft lighting add up to the classiest lamp on the market. A rotating stem lends the Sowerberry versatility, whether reading or trying to find your change.
-   [088] 0x0542DB6A01E2054A: Nothing screams University like an old fashioned lamp and a decorative banner proudly sporting the University’s logo. Place one today and don’t let others forget which campus they’re one!
+   [088] 0x0542DB6A01E2054A: Nothing screams University like an old-fashioned lamp and a decorative banner proudly sporting the University's logo. Place one today and don't let others forget which campus they're on!
    [089] 0x64EBEC71053835F0: Introduce your workspace to the wonders of flexible lighting! The tentacular specialists at Wells Lighting outdid themselves: the Mini-Nozzle is the first commercial lamp you can actually tie in knots.
    [08A] 0x1830BAD56D8AEA0B: Late night. Hunched over a desk. Coffee pot’s empty. Only one thing can keep you awake: searing bright light. The Darn Wright lamp stands alone, vigilant against the darkness.
    [08B] 0xE382D08F106C258F: Is it a noble waterfowl? A table lamp? A delightful nugget of mid-century kitsch? Handcrafted by noted former municipal employee Rich Swardson, the Quacklit lamp is all of the above.
@@ -1963,7 +1963,7 @@ Unknown3: 0x00000000
    [7A6] 0xD55F74A8CF8E377D: Eat an Herb
    [7A7] 0xD4C0ECC3AF6FC2FD: Find an herb and eat it.
    [7A8] 0x3955C4DA47AF01CE: Sometimes a good fight will liven up a dull party.
-   [7A9] 0x24C06EABEDF872CA: Things are getting a little dull around this party and you’re looking to liven things up. A good old fashioned fight is in order. You might get hurt, but at least you’ll be entertained!
+   [7A9] 0x24C06EABEDF872CA: Things are getting a little dull around this party, and you're looking to liven things up. A good old-fashioned fight is in order. You might get hurt, but at least you'll be entertained!
    [7AA] 0x2324DB813683B7CA: The party was crazy enough to start a fight.
    [7AB] 0x5E2B7279584CDDDF: Start a fight at the party.
    [7AC] 0x4F4A3D795090E5B5: Fight!
@@ -2381,7 +2381,7 @@ Unknown3: 0x00000000
    [948] 0x113F3ADD108E1A54: Research Advanced Technology Outside of Class
    [949] 0xB74A98C4D1DF6FE0: Use the Brain Enhancing Machine to enhance your brain!
    [94A] 0xFDA5D2A1CA6283E9: You just earned some cred with the Jock group!
-   [94B] 0xD6F9FC33E2F25427: Hand-eye coordination isn’t learned just from video games! Improve hand-eye coordination the old fashioned way - take a baseball out to the {OpTarget} and play catch with another Sim.
+   [94B] 0xD6F9FC33E2F25427: Hand-eye coordination isn't learned just from video games! Improve hand-eye coordination the old-fashioned way: take a baseball out to the {OpTarget} and play catch with another Sim.
    [94C] 0x9F05A8A554D98157: {0.SimName} has failed to complete the task in time.
    [94D] 0xC1651A4D415430EC: Play with a baseball on the {OpTarget}.
    [94E] 0xF8062F4D61067F5E: Favorite Past-Time
