@@ -11,7 +11,7 @@ Unknown3: 0x00000000
    [06] 0x8793A005762EB1EB: The stars are out, the sun has set, and you've worn yourself out with a day spent riding the range…enjoy a good night's rest with the Sweet Sleep Cowgirl Bed.
    [07] 0xDA7C9909E276672E: Eternity lasts forever, so make sure you spend your days sleeping comfortably on a slab of solid rock.
    [08] 0x914ABE79069FBA7F: Crafted with tender loving care by six of Spiderella's eight hands, this not-so-sturdy bookshelf is made of wood from the mountains surrounding Moonlight Falls. Perfect for living rooms, dining rooms, kids' rooms, and crypts, this Spooky Bookshelf is sure to darken any living space.
-   [09] 0xBBFD1F334ED26E8C: Whether you are racing towards a crime, or away from one, the Sim-Mobile is the vehicle for stylish, high tech Sims! Fully equipped and guaranteed to be one of a kind, this custom racer is sure to be the talk of the town!
+   [09] 0xBBFD1F334ED26E8C: Whether you are racing towards a crime, or away from one, the Sim-Mobile is the vehicle for stylish, high-tech Sims! Fully equipped and guaranteed to be one of a kind, this custom racer is sure to be the talk of the town!
    [0A] 0x30617CF50BECA237: Spooky, yet whimsical, this chair looks more comfortable than it is. Style over substance?
    [0B] 0x5A78EDAB010D34F2: Perfect for your next un-birthday, tea party, or any mad gathering, this marvelous chair provides comfort and quality with a practical design.
    [0C] 0x19061346BA1E2621: Lord over the city in a throne fit for a hero...or a villain! Perfect for plotting and planning, this chair is sure to inspire confidence in your followers and fear in your foes!
@@ -35,7 +35,7 @@ Unknown3: 0x00000000
    [1E] 0xEBE72D19773AA388: What is in these jars? Maybe I don't want to know…
    [1F] 0x5447A1F8F48EBD7B: Maxis Man is a master of disguise…and robotics! This advanced metal hand is a key element to his most recent top secret project.
    [20] 0xDA4A2654C2786711: Every hero or villain needs a place to display proof of their greatest triumphs. Good and evil agree, a vanity wall is a must for the aspiring crusader.
-   [21] 0x46A6E7A0BFDD5689: News in the Old West happened the old fashioned way - on paper! Newspapers, periodicals, and flyers were how folks found out what was going on outside of their own backyards.
+   [21] 0x46A6E7A0BFDD5689:  News in the Old West happened the old-fashioned way - on paper! Newspapers, periodicals, and flyers were how folks found out what was going on outside their own backyards.
    [22] 0xE2F5D40C1D5B7515: A classy sign designed for an Old West saloon-style establishment.
    [23] 0xA801090D77A072BB: Get squeaky clean the fun way with this shower designed to look like a phone booth! Your secret identity is safe, and we'll even throw in a towel for free!
    [24] 0x8E04B4E5D1F16B04: Gloom and doom are the theme of Spiderella's newest creation, a coffee table worthy of a Lord or Lady of Darkness.

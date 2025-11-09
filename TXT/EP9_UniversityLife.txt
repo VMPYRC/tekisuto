@@ -101,14 +101,14 @@ Unknown3: 0x00000000
    [060] 0x7FB4D78BA5C8ABC7: For the late nights working, writing or reading, choose Standard Issue. This desk is a workaholic’s dream, featuring ultra-hard surface lamination to head off wasteful napping.
    [061] 0x1D39C7963A8E7065: Everything a desk demands, nothing more. Flat, wide surface? Done. Space for a chair? Check. O.C. even threw in a drawer. Don’t say we never did anything for you.
    [062] 0xA0DDAB1BA90676C5: The Titan Desk’s heavy construction and broad profile pushes less-worthy souls to an appropriate distance. It’s more than a collection of drawers—it’s an institution.
-   [063] 0x0246BE01B441683E: Drawers can be dangerous: body parts pinched, toes stubbed... The Pointdexter cuts down the hazards, complementing sturdy shelves with a manageable pair of drawers.
+   [063] 0x0246BE01B441683E: Drawers can be dangerous: body parts pinched, toes stubbed... The Poindexter cuts down the hazards, complementing sturdy shelves with a manageable pair of drawers.
    [064] 0x0617330900CB5E41: Artists don’t need desks; they need altars of creation! The Pollack art desk eschews such bourgeois features as drawers, stripping the concept of Desk down to its rawest expression.
    [065] 0xE3DF644EB614674E: A halo of windows surrounds this handcrafted door, beaming welcoming light through your home. Beware of wild parties; a crazed reveler might try to walk through the glass.
    [066] 0x94C18BF5FBECB842: Based on E.A.’s popular line of luxury doors, this archway eases the home-entry process by skipping the middleman. As a wise Sim once said: more doors, more problems.
    [067] 0x45C5DD18020B907B: Recalling the pastoral tones of a Victorian farmhouse, this well-built door admits plenty of light into your foyer. In keeping with Standard Issue’s general philosophy, all angles are right angles.
    [068] 0x8F98C6D524E854E3: This door is all business. It forms a gateway of gravitas, perfect for offices or storefronts. Warning: door handle becomes extremely cold in winter. Cases of frostbite have been documented.
    [069] 0x060BF6EB244CD491: Standard Issue buys up miles of excess material every year, and some of it goes on the uniquely scratchy drawers of this dresser. Note the right angles in every component!
-   [06A] 0x38EE686B4A9A9D6E: This reliable, no frills sublime dryer takes an armful of soggy clothes with no fuss, no muss. Why dry clothes the old fashioned way? Wonderfully warm clothes await!
+   [06A] 0x38EE686B4A9A9D6E: This reliable, no frills sublime dryer takes an armful of soggy clothes with no fuss, no muss. Why dry clothes the old-fashioned way? Wonderfully warm clothes await!
    [06B] 0x32AFDAB2B7D23BD2: Like cutting a peach in half, painting exposes the soul’s darkest pit. The Slouch and Deliver easel supports any art project, from pastoral landscapes to portraits beyond imagination.
    [06C] 0xDACC79FAA224F3A4: They say good fences make good neighbors. But why all the hostility, man? Built in the spirit of brotherhood, this decorative fencing aims to build friendships.
    [06D] 0xE7EDBD43119F705B: You can fill a room with all the bookshelves, globes, taxidermy and model sailing shapes you like. Nothing in the world says “gravitas” like the magnificent Dante fireplace.
@@ -138,10 +138,10 @@ Unknown3: 0x00000000
    [085] 0x8A61176395D27806: Open your mind and prepare it to receive…The Nozzle. Four prehensile stalks emerge from the floor and blossom out like a glowing alien plant. Unlike a plant, it needs electricity.
    [086] 0x70290F57E7B0EAD2: Light is crucial to art, so Secret Bohemia brings you the fourth-brightest lamp ever built. With this halogen monster, that poseur DaVinci might have actually amounted to something.
    [087] 0xD680FCE68DA99E80: Old-world craftsmanship and warm, soft lighting add up to the classiest lamp on the market. A rotating stem lends the Sowerberry versatility, whether reading or trying to find your change.
-   [088] 0x0542DB6A01E2054A: Nothing screams University like an old fashioned lamp and a decorative banner proudly sporting the University’s logo. Place one today and don’t let others forget which campus they’re one!
+   [088] 0x0542DB6A01E2054A: Nothing screams University like an old-fashioned lamp and a decorative banner proudly sporting the University's logo. Place one today and don't let others forget which campus they're on!
    [089] 0x64EBEC71053835F0: Introduce your workspace to the wonders of flexible lighting! The tentacular specialists at Wells Lighting outdid themselves: the Mini-Nozzle is the first commercial lamp you can actually tie in knots.
    [08A] 0x1830BAD56D8AEA0B: Late night. Hunched over a desk. Coffee pot’s empty. Only one thing can keep you awake: searing bright light. The Darn Wright lamp stands alone, vigilant against the darkness.
-   [08B] 0xE382D08F106C258F: Is it a noble waterfowl? A table lamp? A delightful nugget of mid-century kitsch? Hand-crafted by noted former municipal employee Rich Swardson, the Quacklit lamp is all of the above.
+   [08B] 0xE382D08F106C258F: Is it a noble waterfowl? A table lamp? A delightful nugget of mid-century kitsch? Handcrafted by noted former municipal employee Rich Swardson, the Quacklit lamp is all of the above.
    [08C] 0x88965AF0D6F2C6E5: Let your team spirit shine with the Blaze of Glory table lamp! The Lampgineers at GoTeamGo have left ample room beneath the shade for the beverage of your choice.
    [08D] 0x0D0B598E7FA5FE4A: Children need nightlights to ward off monsters. Adults need to keep the kids quiet. Old folks need to survive their nightly bathroom trips. Why do YOU need a nightlight?
    [08E] 0x2CC3E67E0A47C5EA: This beautiful lamp hangs from the wall like a gilded floral arrangement. Light and luxury pour from every bulb in such bounty you’ll have to squint entering the room.
@@ -392,7 +392,7 @@ Unknown3: 0x00000000
    [183] 0x0EFB46CB8AF9B28A: Grindstone Cowboy Desk by Standard Issue
    [184] 0x91CB0BB90FA03E6C: Sit Down and Hush Desk by Optimal Construction
    [185] 0x5FEC65A41B6B8358: Titan Desk by Weighty Concepts
-   [186] 0xFD4C0CD9C8B12B51: The Pointdexter Upright Desk
+   [186] 0xFD4C0CD9C8B12B51: The Poindexter Upright Desk
    [187] 0xC25DDBA73D09B89E: Pollack Art Desk by Secret Bohemia
    [188] 0xEAB0AFD848589F1D: Alpha Omega Door by Elegance Asserted
    [189] 0xA933B94449B5DC25: Archa Omega Archway by Elegance Asserted
@@ -753,7 +753,7 @@ Unknown3: 0x00000000
    [2EC] 0x41CF3043EB81D4C1: Triple-decker roofing overlooks the welcoming front porch. A chimney runs up the side like the spine of a mighty giant! And inside, three stories of spacious luxury await.
    [2ED] 0x41CF3043EB81D4C2: A modest two-story colonial, with front and back porches for entertaining guests. Steep roofs offer a nice style while the enclosed yard shelters Sims of all ages.
    [2EE] 0x41CF3043EB81D4C3: Sumptuous Victorian style garlands this three-story bower. A wealth of rooms provides a plethora of possibilities, illuminated by bright bay windows. Sunrooms are equipped with chimneys for all-weather luxury.
-   [2EF] 0x41CF3043EB81D4CC: Palatial three-story design gives every level an aerial view of the neighborhood. Bay windows and a spacious back yard lend a sense of grandeur. What’s not to like?
+   [2EF] 0x41CF3043EB81D4CC: Palatial three-story design gives every level an aerial view of the neighborhood. Bay windows, and a spacious backyard lend a sense of grandeur. What's not to like?
    [2F0] 0x41CF3043EB81D4CD: Ideal for big families or the lovelorn brides of lost sailors, this three-story house is a cozy dream! Also includes a “widow’s walk” to pace while awaiting your beloved’s return.
    [2F1] 0x41CF3143EB81D697: Growing families will love this colonial home’s wide-open first floor, along with its plethora of bedrooms. A garage adds storage room while a small yard is cozy and manageable.
    [2F2] 0x41CF3143EB81D696: Good fences make good neighbors, but those fences also enclose a big lawn! Massive open spaces give your home—and your family—ample room to grow.
@@ -801,7 +801,7 @@ Unknown3: 0x00000000
    [31C] 0x7DEBD019DCB0D254: Modest Manse - 4 br, 2 ba
    [31D] 0x7DEBD019DCB0D255: Commuter Comforts - 4 br, 3 ba
    [31E] 0x7DEBD019DCB0D252: Boxy Bastion - 4 br, 3.5 ba
-   [31F] 0x7DEBD019DCB0D253: Cascading Chateau - 5 br, 4.5 ba
+   [31F] 0x7DEBD019DCB0D253: Cascading Château - 5 br, 4.5 ba
    [320] 0x7DEBD019DCB0D250: Middlebrow Minuteman - 4 br, 2.5 ba
    [321] 0x7DEBD019DCB0D251: Albert’s Aerie - 4 br, 3.5 ba
    [322] 0x7DEBD019DCB0D25E: Middle Manor - 4 br, 3 ba
@@ -1391,9 +1391,9 @@ Unknown3: 0x00000000
    [56A] 0x3280C2388602AC2D: That extra credit might come in handy at the end of the term!
    [56B] 0x13A4957077727683: Your own skills are the hardest product to sell. Your professor thinks a class might put you in better situations to sell your skills and is offering extra credit for attending.
    [56C] 0x075922B007F2EE7B: You didn’t receive extra credit.
-   [56D] 0x19CE95B7C792C178: Attend a Resume Writing and Interview class.
-   [56E] 0x078742B7BCF36D52: Resume Writing and Interview Class
-   [56F] 0xDC3C1C7815FB49B2: Attend a Resume Writing and Interview class.
+   [56D] 0x19CE95B7C792C178: Attend a Résumé Writing and Interview class.
+   [56E] 0x078742B7BCF36D52: Résumé Writing and Interview Class
+   [56F] 0xDC3C1C7815FB49B2: Attend a Résumé Writing and Interview class.
    [570] 0x5BDC9F97E27CAB06: That extra credit might come in handy at the end of the term!
    [571] 0x2EC4210569797992: It’s easy to disbelieve your ears; your eyes are a harder sell. Change minds on the whiteboard. When your professor sees the one-glance logic, you’ll surely get some extra credit.
    [572] 0xBA0976936632E712: You didn’t receive extra credit.
@@ -1963,7 +1963,7 @@ Unknown3: 0x00000000
    [7A6] 0xD55F74A8CF8E377D: Eat an Herb
    [7A7] 0xD4C0ECC3AF6FC2FD: Find an herb and eat it.
    [7A8] 0x3955C4DA47AF01CE: Sometimes a good fight will liven up a dull party.
-   [7A9] 0x24C06EABEDF872CA: Things are getting a little dull around this party and you’re looking to liven things up. A good old fashioned fight is in order. You might get hurt, but at least you’ll be entertained!
+   [7A9] 0x24C06EABEDF872CA: Things are getting a little dull around this party, and you're looking to liven things up. A good old-fashioned fight is in order. You might get hurt, but at least you'll be entertained!
    [7AA] 0x2324DB813683B7CA: The party was crazy enough to start a fight.
    [7AB] 0x5E2B7279584CDDDF: Start a fight at the party.
    [7AC] 0x4F4A3D795090E5B5: Fight!
@@ -2381,7 +2381,7 @@ Unknown3: 0x00000000
    [948] 0x113F3ADD108E1A54: Research Advanced Technology Outside of Class
    [949] 0xB74A98C4D1DF6FE0: Use the Brain Enhancing Machine to enhance your brain!
    [94A] 0xFDA5D2A1CA6283E9: You just earned some cred with the Jock group!
-   [94B] 0xD6F9FC33E2F25427: Hand-eye coordination isn’t learned just from video games! Improve hand-eye coordination the old fashioned way - take a baseball out to the {OpTarget} and play catch with another Sim.
+   [94B] 0xD6F9FC33E2F25427: Hand-eye coordination isn't learned just from video games! Improve hand-eye coordination the old-fashioned way: take a baseball out to the {OpTarget} and play catch with another Sim.
    [94C] 0x9F05A8A554D98157: {0.SimName} has failed to complete the task in time.
    [94D] 0xC1651A4D415430EC: Play with a baseball on the {OpTarget}.
    [94E] 0xF8062F4D61067F5E: Favorite Past-Time

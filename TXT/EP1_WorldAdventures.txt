@@ -111,7 +111,7 @@ Unknown3: 0x00000000
    [006A] 0xE2A9BB87B7BD323E: Chinese Bamboo is some of the most sought after bamboo in the world.
    [006B] 0x4C61E534BE3D826F: The great thing about a banana tree is that it doesn't even have to grow bananas to still look like an awesome tree.
    [006C] 0xA79C7F8EB6C8536A: Don't be caught off guard by this tree's bright colors. It's not as domestic as you might think.
-   [006D] 0xE6B2341B2200E279: To no suprise, the harvesting of cinnamon trees happens much more frequently during the holidays.
+   [006D] 0xE6B2341B2200E279: To no surprise, the harvesting of cinnamon trees happens much more frequently during the holidays.
    [006E] 0x6B5BE76B2BEF0C91: From a lone cypress to the Siberian Cypress, different breeds of the cypress can be found across the world!
    [006F] 0x1349720258C72889: The Chinese Elm's broad base is what sets it apart from other Elm trees.
    [0070] 0xAD08C255F0B5DBC0: All maple tree owners know that getting syrup from a maple tree is much harder than it looks on TV.
@@ -123,7 +123,7 @@ Unknown3: 0x00000000
    [0076] 0x70A863C7B5F5FAE3: This product is a window. Or is it a garden? No one can quite tell for sure as it was originally marketed as a garden view window until the garden came to the window, and in fact, became the window!
    [0077] 0x792D726460C70234: King Qing was the first emperor of the Second Dynasty to install glass windows in the Palatial Palace. Previous emperors had to weather windstorms, monsoons, and the occasional barbarian attack without the peace and quiet of a fully sealed restroom.
    [0078] 0xF67BA172F61D84EC: Unlike many of its competing products, this viewing screen comes with a subscription service. Its creators believe that whatever is seen through their window is actually entertainment they have provided you. Due to the amount of lawsuits that have been filed, customers are no longer required to pay an activation fee.
-   [0079] 0x4851764BEBF120A8: Do dust storms keep getting sand in your shawerma? Foliage in your falafel? Install the Desert Shield in your open-air house today and keep the desert out while still retaining the natural beauty of the outside world!
+   [0079] 0x4851764BEBF120A8: Do dust storms keep getting sand in your shawarma? Foliage in your falafel? Install the Desert Shield in your open-air house today and keep the desert out while still retaining the natural beauty of the outside world!
    [007A] 0xE7D6FEB923FA9465: Before blinds and drapes became widely accepted around the world, latticed windows were used to keep peeping eyes out of the affairs of others.
    [007B] 0x6FBA4F8E5CFB1553: It’s a well known fact that the super fine grains of sand found only in the Simomian Desert make the best window glass. Unfortunately, this window doesn’t use that sand. In fact, it’s actually more of a novelty decoration than anything else.
    [007C] 0x2DC303854415BB91: Hello and Goodbye!! Glass shapers designed this window for the specific use of waving hello or goodbye to guests at your residence. Using advanced glass heating techniques, the glass molecules contained in this window can actually enhance the emotion conveyed through this receiving, or parting gesture.
@@ -345,7 +345,7 @@ Unknown3: 0x00000000
    [0154] 0xE06F0D26EDF94FAB: Signet of King's Burial Ground
    [0155] 0xE06F0D26EDF94FA4: Signet of the Maze of the High Ruler
    [0156] 0xE06F0D26EDF94FA5: Signet of Smuggler's Cavern
-   [0157] 0xE06F0D26EDF94FA0: Signet of Le Chateau du Landgraab
+   [0157] 0xE06F0D26EDF94FA0: Signet of Le Château du Landgraab
    [0158] 0x9207FFAB61FB647E: upper river piece
    [0159] 0x03EDB461DE56FE00: Garden Window
    [015A] 0x012D47BE76283A45: King Qing’s Window
@@ -704,7 +704,7 @@ Unknown3: 0x00000000
    [02BB] 0x92C81C575C244025: The Ginkgo House
    [02BC] 0x2F08401A0EE81403: Champs Les Sims Base Camp
    [02BD] 0x001AF0D8FE311E39: Champs Les Sims Nectary
-   [02BE] 0xD329E607B2B73C3D: Chateau du Landgraab
+   [02BE] 0xD329E607B2B73C3D: Château du Landgraab
    [02BF] 0xC279B3901C44FC21: The Oak House
    [02C0] 0xDE46C47A9BCACCFB: The Little Woods
    [02C1] 0xDE46C47A9BCACCF8: The Little Island
@@ -868,8 +868,8 @@ Unknown3: 0x00000000
    [035F] 0x1C22850A2E043529: Thank you for the package, you can tell your employers that it has safely arrived and you are to be commended.
    [0360] 0x3A0AF1FD3473BFCC: You've found yourself in the middle of a international smuggling ring. Travel to Al Simhara and deliver a secret package to a local contact. Your job performance depends on this and there’ll be a nice raise once you complete the delivery.
    [0361] 0xEA4E17E5BFCF8DCF: You've found yourself in the middle of a international smuggling ring. Travel to Al Simhara and deliver a secret package to a local contact. Your job performance depends on this and there’ll be a nice raise once you complete the delivery.
-   [0362] 0x9D4248E4BD822970: How could you lose the package?! The smuggling ring wll think twice about selecting you for a operation of this size next time.
-   [0363] 0x1589F5ACF572860B: How could you lose the package?! The smuggling ring wll think twice about selecting you for a operation of this size next time.
+   [0362] 0x9D4248E4BD822970: How could you lose the package?! The smuggling ring will think twice about selecting you for an operation of this size next time.
+   [0363] 0x1589F5ACF572860B: How could you lose the package?! The smuggling ring will think twice about selecting you for an operation of this size next time.
    [0364] 0xD6629AC59C7ED505: Go to Egypt and deliver the package in your inventory to a local contact to increase your job performance and earn a raise.
    [0365] 0x95343F6CA095ABE0: Go to Egypt and deliver the package in your inventory to a local contact to increase your job performance and earn a raise.
    [0366] 0xE8A9EDC5A71E2923: Egyptian Delivery
@@ -929,17 +929,17 @@ Unknown3: 0x00000000
    [039C] 0xB3ABFE5B437F4AF0: Falafel Portfolio
    [039D] 0x998008B2A558BCA5: Bring a Group Serving of Great Falafel to Work
    [039E] 0x60009260AF47D5C0: Bring a Group Serving of Great Falafel to Work
-   [039F] 0xBCA562D318C921C9: Your crepes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
-   [03A0] 0xC3EADD04A888AE5C: Your crepes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
-   [03A1] 0xCD25DF4764A7E387: The smooth, papery-thin surface of a Crepe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crepes into work to establish your rank among the others. Your'll get a raise for your efforts.
-   [03A2] 0xC2981C61866C02F6: The smooth, papery-thin surface of a Crepe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crepes into work to establish your rank among the others. Your'll get a raise for your efforts.
+   [039F] 0xBCA562D318C921C9: Your crêpes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
+   [03A0] 0xC3EADD04A888AE5C: Your crêpes were delicious and earned you some French cooking credibility. Even your boss admitted they were pretty good and gave you a raise!
+   [03A1] 0xCD25DF4764A7E387: The smooth, papery-thin surface of a Crêpe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crêpes into work to establish your rank among the others. You'll get a raise for your efforts.
+   [03A2] 0xC2981C61866C02F6: The smooth, papery-thin surface of a Crêpe is the distinct marksmanship of a top chef. Learn this French recipe and bring a serving of Crêpes into work to establish your rank among the others. You'll get a raise for your efforts.
    [03A3] 0xF2F48310DAA163B7: EP1_CareerCulinary_FrenchFoodFailure
-   [03A4] 0x8DBD3AE585850CCC: Learn the recipe for Crepes, cook a serving, then bring it to work to earn a raise.
-   [03A5] 0x0A14D5C2C1C66CCF: Learn the recipe for Crepes, cook a serving, then bring it to work to earn a raise.
-   [03A6] 0xC0F74FE5A2527F3E: Create-a-Crepe
-   [03A7] 0x4F3E5466E1F85FB5: Create-a-Crepe
-   [03A8] 0xA5F70255E3F2F4EE: Bring a Group Serving of Great Crepes to Work
-   [03A9] 0x67B353DF492DA825: Bring a Group Serving of Great Crepes to Work
+   [03A4] 0x8DBD3AE585850CCC: Learn the recipe for Crêpes, cook a serving, then bring it to work to earn a raise.
+   [03A5] 0x0A14D5C2C1C66CCF: Learn the recipe for Crêpes, cook a serving, then bring it to work to earn a raise.
+   [03A6] 0xC0F74FE5A2527F3E: Create-a-Crêpe
+   [03A7] 0x4F3E5466E1F85FB5: Create-a-Crêpe
+   [03A8] 0xA5F70255E3F2F4EE: Bring a Group Serving of Great Crêpes to Work
+   [03A9] 0x67B353DF492DA825: Bring a Group Serving of Great Crêpes to Work
    [03AA] 0xDAF431DBFEAB90DF: The French locals had amazing tips on balancing flavor and texture in your dishes. Your Cooking skill improved as a result of this knowledge and you got a raise.
    [03AB] 0x96B0391829F5B3AE: The French locals had amazing tips on balancing flavor and texture in your dishes. Your Cooking skill improved as a result of this knowledge and you got a raise.
    [03AC] 0xB88197D1BD872ADF: {1.SimFirstName} has secured a plethora of advice both good and generous. {1.SimFirstName} should head back home and report in on their findings.
@@ -1032,22 +1032,22 @@ Unknown3: 0x00000000
    [0403] 0x271C0950B1F16F59: Preservation Techniques
    [0404] 0xA4B3BE1D41645B3A: Deliver Pemmican to Hospital
    [0405] 0x4A79EB5BC515B4A9: Deliver Pemmican to Hospital
-   [0406] 0x4B0AD2D5AC4E5050: The Hospital paid a stipend for your travel despite the cancelled seminar. Your dedication has helped your job performance regardless!
-   [0407] 0x2513E6B3B9BAFDAB: The Hospital paid a stipend for your travel despite the cancelled seminar. Your dedication has helped your job performance regardless!
+   [0406] 0x4B0AD2D5AC4E5050: The Hospital paid a stipend for your travel despite the canceled seminar. Your dedication has helped your job performance regardless!
+   [0407] 0x2513E6B3B9BAFDAB: The Hospital paid a stipend for your travel despite the canceled seminar. Your dedication has helped your job performance regardless!
    [0408] 0x44195D2DB9BFC054: There is a seminar in France on advanced medical techniques and the hospital has asked you to attend. They will pay a stipend for your trip and it will be great for your job performance.
    [0409] 0x5A60C873EA5E7317: There is a seminar in France on advanced medical techniques and the hospital has asked you to attend. They will pay a stipend for your trip and it will be great for your job performance.
-   [040A] 0x6732FA5B80C86098: The advanced medical techniques seminar was cancelled at the last minute. The Hospital was informed of the change.
-   [040B] 0x3EF19364A774D693: The advanced medical techniques seminar was cancelled at the last minute. The Hospital was informed of the change.
+   [040A] 0x6732FA5B80C86098: The advanced medical techniques seminar was canceled at the last minute. The Hospital was informed of the change.
+   [040B] 0x3EF19364A774D693: The advanced medical techniques seminar was canceled at the last minute. The Hospital was informed of the change.
    [040C] 0x879EAF6BF5F9C72D: Go to France and attend the seminar then report back to work to receive a travel stipend and increase your job performance.
    [040D] 0x3663A6AAF564CFA8: Go to France and attend the seminar then report back to work to receive a travel stipend and increase your job performance.
    [040E] 0x99B0026C006B8BDB: French Seminar
    [040F] 0xD2C2BC66269D1AC2: French Seminar
    [0410] 0x9EC2CFC8DEA06347: Attend Siminar in France
    [0411] 0x7443D6FA82EC5DB6: Attend Siminar in France
-   [0412] 0xACA7D96950011A92: It was tricky hiding the Scarab beetles in your suitcase, but you perservered for the good of medical science!
-   [0413] 0x2F35C2076377E601: It was tricky hiding the Scarab beetles in your suitcase, but you perservered for the good of medical science!
-   [0414] 0x792F74C5FD491CF6: The pharmaceutical lab would like to conduct some research on Scarab beetles. Hospital staff travelling to Egypt in the near future have been asked to collect some and bring them in.
-   [0415] 0xD75E5E46DD3E47AD: The pharmaceutical lab would like to conduct some research on Scarab beetles. Hospital staff travelling to Egypt in the near future have been asked to collect some and bring them in.
+   [0412] 0xACA7D96950011A92: It was tricky hiding the Scarab beetles in your suitcase, but you persevered for the good of medical science!
+   [0413] 0x2F35C2076377E601: It was tricky hiding the Scarab beetles in your suitcase, but you persevered for the good of medical science!
+   [0414] 0x792F74C5FD491CF6: The pharmaceutical lab would like to conduct some research on Scarab beetles. Hospital staff traveling to Egypt in the near future have been asked to collect some and bring them in.
+   [0415] 0xD75E5E46DD3E47AD: The pharmaceutical lab would like to conduct some research on Scarab beetles. Hospital staff traveling to Egypt in the near future have been asked to collect some and bring them in.
    [0416] 0x08D17A61F94459CE: EP1_CareerMedical_GetScarabsFailure
    [0417] 0xFC17E108392A140B: Bring {9.Number} Scarab beetles to the Hospital to earn a cash reward.
    [0418] 0xBC4FB0319783C432: Bring {9.Number} Scarab beetles to the Hospital to earn a cash reward.
@@ -1279,8 +1279,8 @@ Unknown3: 0x00000000
    [04FA] 0xCCA7E7F33CE3608F: EP1_CareerPolitics_GetNectarProgress
    [04FB] 0x128AE7D698117987: Your carefully arranged Relics on your desk increased the donor’s confidence in your cultural understanding and experience! Your job performance improved and you raised some money in donations.
    [04FC] 0xDC548B8BC0CB54F6: Your carefully arranged Relics on your desk increased the donor’s confidence in your cultural understanding and experience! Your job performance improved and you raised some money in donations.
-   [04FD] 0xAB4E44B7EA4D56A5: Your campaign manager thinks it might be good to give the impression that you are well travelled and interested in other cultures. Bring some Relics to work to decorate your office and watch the donations roll in.
-   [04FE] 0xF1AC7BC840DB93C0: Your campaign manager thinks it might be good to give the impression that you are well travelled and interested in other cultures. Bring some Relics to work to decorate your office and watch the donations roll in.
+   [04FD] 0xAB4E44B7EA4D56A5: Your campaign manager thinks it might be good to give the impression that you are well traveled and interested in other cultures. Bring some Relics to work to decorate your office and watch the donations roll in.
+   [04FE] 0xF1AC7BC840DB93C0: Your campaign manager thinks it might be good to give the impression that you are well traveled and interested in other cultures. Bring some Relics to work to decorate your office and watch the donations roll in.
    [04FF] 0x80CBE7A9831D1359: EP1_CareerPolitics_GetRelicsFailure
    [0500] 0x281EFC9B326270BE: Bring {9.Number} Common Relics into work to increase your job performance and receive some campaign donations.
    [0501] 0x12B77B73C036F835: Bring {9.Number} Common Relics into work to increase your job performance and receive some campaign donations.
@@ -1470,8 +1470,8 @@ Unknown3: 0x00000000
    [05B9] 0x501D1835423EF335: Find {2.SimName} and Convince Sim to go with you to talk with {16.SimFirstName} to complete this adventure.
    [05BA] 0x8B7E41F3605CDC60: A Convincing Story
    [05BB] 0x712C85BA5769996C: Convince Sim
-   [05BC] 0x383744D17A594AB0: “I am so glad {16.SimName} is going to reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one can not learn on their own! Thank you so much for your assistance.”
-   [05BD] 0x2A1AC253D085F64B: “I am so glad {16.SimName} is going to reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one can not learn on their own! Thank you so much for your assistance.”
+   [05BC] 0x383744D17A594AB0: "I am so glad {16.SimName} is going to reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one cannot learn on their own! Thank you so much for your assistance."
+   [05BD] 0x2A1AC253D085F64B: "I am so glad {16.SimName} is going to reconsider membership to the club. {16.SimName} will learn many secrets about Martial Arts that one cannot learn on their own! Thank you so much for your assistance."
    [05BE] 0xAD5D968F10B36834: “So there’s more than meet’s the eye to that old Clan of the Resolute Fist, huh? I always thought there might be something that they’ve kept secret in their organization all these years. I guess if they can’t help me with my Martial Arts skill, it would still be interesting to learn more about the organization. Will you tell {2.String} I will come by soon so we can talk more about my membership to the club?"
    [05BF] 0xEE3DCCF8A545A737: “So there’s more than meet’s the eye to that old Clan of the Resolute Fist, huh? I always thought there might be something that they’ve kept secret in their organization all these years. I guess if they can’t teach help me with my Martial Arts skill, it would still be interesting to learn more about the organization. Will you tell {2.String} I will come by soon so we can talk more about my membership to the club?"
    [05C0] 0xB7B7794C66B65F78: EP1_Quest_BringMonkBack4Failure
@@ -1817,10 +1817,10 @@ Unknown3: 0x00000000
    [0714] 0xE551EC1C74A6F328: “Hmmm, this dish tastes…good…with your Nectar choice. Thanks for your help."
    [0715] 0x5E9FEF29A5D376FA: At last, {1.SimFirstName} was able to find the keystone that should open the Dragon Cave in Shang Simla, China. {2.SimName} in China will know precisely what to do with the key.
    [0716] 0x4D8D7D562B3DF669: At last, {1.SimFirstName} was able to find the keystone that should open the Dragon Cave in Shang Simla, China. {2.SimName} in China will know precisely what to do with the key.
-   [0717] 0x976D11753578558E: “Oui! Look how it shines and glimmers. I have not yet decided what I shall do with the Opal, but that is not your concern. Now, you seek the keystone. The hidden vault is now unlocked for you at the Landgraab Chateau. Go there to find the keystone of James Vaughan.
+   [0717] 0x976D11753578558E: "Oui! Look how it shines and glimmers. I have not yet decided what I shall do with the Opal, but that is not your concern. Now, you seek the keystone. The hidden vault is now unlocked for you at the Château du Landgraab. Go there to find the keystone of James Vaughan."
    [0718] 0x1DA6471FCC40E006: Why'd you destroy the keystone? Hopefully, you can find another one later.
-   [0719] 0x430558EB9EFD3483: Find the keystone underneath the Chateau Landgraab.
-   [071A] 0x78CC6BEBBDF5DC11: Deep Within Landgraab Chateau
+   [0719] 0x430558EB9EFD3483: Find the keystone underneath the Château du Landgraab.
+   [071A] 0x78CC6BEBBDF5DC11: Deep Within Château du Landgraab
    [071B] 0x4C9CAD8D0B7DADB1: Locate the Keystone
    [071C] 0x2E6EABFFE1A69E9D: Now that {1.SimFirstName} has the keystone, they should probably check with {16.SimName} before trying anything dangerous. {1.SimFirstName} should head back to China at their first opportunity.
    [071D] 0xB8D08CF2BB5B3196: Go to China.
@@ -1891,10 +1891,10 @@ Unknown3: 0x00000000
    [075E] 0xE796B381F3F72140: Quid Pro Keystone
    [075F] 0x748A14F386E9634C: Deliver Opal
    [0760] 0x9A391E52FA91C292: EP1_Quest_France9Completion
-   [0761] 0xB7AF8DD2D11694F6: “Oui! Look how it shines and glimmers. I have not yet decided what I shall do with the Opal, but that is not your concern. Now, you seek the keystone. The hidden vault is now unlocked for you at the Landgraab Chateau. Go there to find the keystone of James Vaughan.
+   [0761] 0xB7AF8DD2D11694F6: "Oui! Look how it shines and glimmers. I have not yet decided what I shall do with the Opal, but that is not your concern. Now, you seek the keystone. The hidden vault is now unlocked for you at the Château du Landgraab. Go there to find the keystone of James Vaughan."
    [0762] 0x167F60C300D651CE: EP1_Quest_France9Failure
-   [0763] 0xB9014A75E77FFC0B: Explore the vault underneath the Chateau Landgraab to find the keystone.
-   [0764] 0xEC063D7604215889: Deep Within Landgraab Chateau
+   [0763] 0xB9014A75E77FFC0B: Explore the vault underneath the Château du Landgraab to find the keystone.
+   [0764] 0xEC063D7604215889: Deep Within Château du Landgraab
    [0765] 0xA426F2105A4C2379: Explore the Vault
    [0766] 0x2D330221E09B7CC9: “The tower is quite beautiful. As I look at this picture you took, I realize that I need to take a little more time out of my day to appreciate Champs Les Sims. This exhibit will be a hit! Here’s payment for the photo.”
    [0767] 0xE0269224EF188487: “Greetings! I am trying to put together a cultural exhibit about, what else, Champs Les Sims. The first thing I need for the exhibit is a photograph of the Eiffel Tower. Do you think you could take this picture for me? I will pay you for the work, of course.”
@@ -2035,9 +2035,9 @@ Unknown3: 0x00000000
    [07EE] 0x018F61D26B48E3C1: Losing that journal wasn't a very good idea. Now {2.String} can't figure out what happened to Anastasia!
    [07EF] 0x537C5146FEB55074: Losing that journal wasn't a very good idea. Now {2.String} can't figure out what happened to Anastasia!
    [07F0] 0xE0DCA8E101A6CC34: Deliver Journal
-   [07F1] 0xEB6E1CF3511929BE: “The former groundskeeper of the Landgraab estate, Willard Leroo, kept a journal that I believe may contain first-hand information about the disappearance of Anastasia Necteaux. Please journey to the shack, located on the grounds of the Landgrab Chateau, and recover his journal for me.”
-   [07F2] 0x539E79AFF9C5F033: Find the Groundskeeper’s Journal within the groundskeeper’s shack at Landgraab Chateau, then “Deliver Journal” to {2.String} to receive some Ancient Coins.
-   [07F3] 0x87F1FD6DA74E581A: Find the Groundskeeper’s Journal within the groundskeeper’s shack at Landgraab Chateau, then “Deliver Journal” to {2.String} to receive some Ancient Coins.
+   [07F1] 0xEB6E1CF3511929BE: "The former groundskeeper of the Landgraab estate, Willard Leroo, kept a journal that I believe may contain first-hand information about the disappearance of Anastasia Necteaux. Please journey to the shack, located on the grounds of the Château du Landgraab, and recover his journal for me."
+   [07F2] 0x539E79AFF9C5F033: Find the Groundskeeper's Journal within the groundskeeper's shack at Château du Landgraab, then "Deliver Journal" to {2.String} to receive some Ancient Coins.
+   [07F3] 0x87F1FD6DA74E581A: Find the Groundskeeper's Journal within the groundskeeper's shack at Château du Landgraab, then "Deliver Journal" to {2.String} to receive some Ancient Coins.
    [07F4] 0x86D94CB01694A5A1: The Groundskeeper’s Journal
    [07F5] 0xBA41BB6C962BBD21: Find Journal
    [07F6] 0x3CCD8164951CFBCD: “Blast! The journal is locked. It appears this won’t be as easy as first thought. Willard’s daughter, {2.String}, lives in Champs Les Sims. I’m confident she has a key to this journal. Speak to her to obtain the key. Telling her it will aid the town may convince her to help us.”
@@ -2064,12 +2064,12 @@ Unknown3: 0x00000000
    [080B] 0x364214383BE10BB0: Losing those documents was inadvisable. Now {2.String} can't figure out what happened to Anastasia!
    [080C] 0xF940CE2259783878: Deliver Documents to {2.String}
    [080D] 0x77EF3975DF307F33: Deliver Documents to {2.String}
-   [080E] 0xD94AEF3A57A8C131: "Excellent, I can finally open this journal. Let me see here…fascinating! It seems there was quite the ruckus many years ago. At one point some shady looking men dragged someone into the chateau. The famous James Vaughan went in to save the person who…yes, turned out to be Anastasia Necteaux.\n\nI found this key to the estate attached to one of the pages. Landgraab was the meticulous sort, which leads me to believe he kept notes on this incident. Head to the estate and see if you can find those notes. Be careful – Landgraab was paranoid. His whole house is filled with traps and security measures.”
+   [080E] 0xD94AEF3A57A8C131: "Excellent, I can finally open this journal. Let me see here... fascinating! It seems there was quite the ruckus many years ago. At one point some shady looking men dragged someone into the château. The famous James Vaughan went in to save the person who... yes, turned out to be Anastasia Necteaux.\n\nI found this key to the estate attached to one of the pages. Landgraab was the meticulous sort, which leads me to believe he kept notes on this incident. Head to the estate and see if you can find those notes. Be careful – Landgraab was paranoid. His whole house is filled with traps and security measures."
    [080F] 0x17A51E4184E0FF6D: How careless!. Without the keystone, {1.SimFirstName} has no way to get into parts of the Landgraab estate!
    [0810] 0x51255D53C6FE6AE8: How careless!. Without the keystone, {1.SimFirstName} has no way to get into parts of the Landgraab estate!
-   [0811] 0xE84275D959C2BC2A: Enter the Landgraab’s Chateau, find his Documents, and “Deliver Documents” to {2.String}.
-   [0812] 0x775345180BBBC119: Enter the Landgraab’s Chateau, find his Documents, and “Deliver Documents” to {2.String}.
-   [0813] 0xB5E1A2D93DADAAC4: Chateau Crawl
+   [0811] 0xE84275D959C2BC2A: Enter Château du Landgraab, find his Documents, and "Deliver Documents" to {2.String}.
+   [0812] 0x775345180BBBC119: Enter Château du Landgraab, find his Documents, and "Deliver Documents" to {2.String}.
+   [0813] 0xB5E1A2D93DADAAC4: Château Crawl
    [0814] 0xB2954E29018B8CB0: Find Documents
    [0815] 0xCEB153D07795C345: It seems Landgraab kidnapped Anastasia to obtain the location to Jean Necteaux’s tomb. The information she gave was not only false, but led to a trap that ultimately led to the demise of Landgraab’s henchmen. {2.String} should know of these facts!
    [0816] 0x66774CC46E41973A: Explore Tomb
@@ -2455,13 +2455,13 @@ Unknown3: 0x00000000
    [0992] 0x86D7F54AC946BDDD: By placing the tombstone inside the mausoleum, the unfortunate former curator is able to peacefully depart the world and lay in rest forever. It seems the haunting at the museum is at an end.
    [0993] 0x98B958D48F55D04B: How awful! Without the remains {1.SimFirstName} cannot lay the curator to rest. He will never be at peace!
    [0994] 0x4A1061BBEC58E972: How awful! Without the remains {1.SimFirstName} cannot lay the curator to rest. He will never be at peace!
-   [0995] 0xD6CBD9B4CED04B42: Place Tombstone at Cemetary
+   [0995] 0xD6CBD9B4CED04B42: Place Tombstone at Cemetery
    [0996] 0x1C59B311D67EE288: It seems the unfortunate former curator met his demise inside the sarcophagus of his own exhibit. Place his remains inside his family chest located in the cemetery in Champs Les Sims for the curator to finally have peace.
    [0997] 0x638BB72438F59841: Place the remains inside the chest at the Champs Les Sims cemetery.
    [0998] 0x3160C2241D0DDC47: The Curator’s Final Exhibit
-   [0999] 0x61C68E49F475CD13: Place Remains at Cemetary
-   [099A] 0x8B336C76A8BCF36F: “I’m so relieved to hear this museum haunting business is behind us. I’ll finally be able to hire a reliable full time staff to guard and take care of the museum. You have my thanks. Please, take this reward!”
-   [099B] 0x1D89DF51455078FE: “I’m so relieved to hear this museum haunting business is behind us. I’ll finally be able to hire a reliable full time staff to guard and take care of the museum. You have my thanks. Please, take this reward!”
+   [0999] 0x61C68E49F475CD13: Place Remains at Cemetery
+   [099A] 0x8B336C76A8BCF36F: "I'm so relieved to hear this museum haunting business is behind us. I'll finally be able to hire a reliable full-time staff to guard and take care of the museum. You have my thanks. Please, take this reward!"
+   [099B] 0x1D89DF51455078FE: "I'm so relieved to hear this museum haunting business is behind us. I'll finally be able to hire a reliable full-time staff to guard and take care of the museum. You have my thanks. Please, take this reward!"
    [099C] 0xE9B29FC0E099381D: The haunting is at an end. {2.String} will surely be placed at ease if {1.SimFirstName} tells the entire story.
    [099D] 0x19E90274A876E498: The haunting is at an end. {2.String} will surely be placed at ease if {1.SimFirstName} tells the entire story.
    [099E] 0x6FDBDF196FA07616: “Explain Everything" to {2.String} to receive some Simoleons.
@@ -2503,8 +2503,8 @@ Unknown3: 0x00000000
    [09C2] 0x87F7C485E268D504: "Your interviews revealed that Admiral Landgraab was also studying the history of Nectar nearly 60 years ago and that he may have notes about what he learned. Unfortunately, Landgraab was a rampant conspiracy theorist and worrywart and his home is shut up tighter than Napoleon’s tomb. Take this key to his library and try to find the papers. It should be near the front of his home. Please be careful!”
    [09C3] 0x94560B7828F65E48: Losing that keystone was inadvisable. Now {1.SimFirstName} can't get into the Library. Perhaps {1.SimFirstName} should be more careful next time!
    [09C4] 0x7B7F14F26C33CA83: Losing that keystone was inadvisable. Now {1.SimFirstName} can't get into the Library. Perhaps {1.SimFirstName} should be more careful next time!
-   [09C5] 0x259C89B090376EDD: Enter the Library near the front of Admiral Landgraab’s Chateau, locate the Nectar Papers hidden within, and deliver them to {2.String} for some Ancient Coins.
-   [09C6] 0x2F64FD51A1265958: Enter the Library near the front of Admiral Landgraab’s Chateau, locate the Nectar Papers hidden within, and deliver them to {2.String} for some Ancient Coins.
+   [09C5] 0x259C89B090376EDD: Enter the Library near the front of Admiral Landgraab's Château, locate the Nectar Papers hidden within, and deliver them to {2.String} for some Ancient Coins.
+   [09C6] 0x2F64FD51A1265958: Enter the Library near the front of Admiral Landgraab's Château, locate the Nectar Papers hidden within, and deliver them to {2.String} for some Ancient Coins.
    [09C7] 0x37ADDCB09AA9336B: The Lost Library of Landgraab
    [09C8] 0x3F3448EA4BD82E77: Enter Library
    [09C9] 0xE0012EE2DF03D137: “Hmmm, yes, Landgraab’s code is a bit tricky, but not too difficult. Unfortunately the old man lacked ingenuity. Perhaps his enthusiasm and vigilance sapped that part of his brain? Nevertheless, I have cracked the code.”
@@ -2685,20 +2685,20 @@ Unknown3: 0x00000000
    [0A78] 0x7A086C11A9522CC2: Discuss Riddle with {2.String}
    [0A79] 0x8FDF477C9A5F67DB: Seek Assistance from {2.String}
    [0A7A] 0x0168147E38B24EC2: Seek Assistance from {2.String}
-   [0A7B] 0x3FA74F470C63ADA5: "I have not heard a good riddle in some time, so your presence delights me. Let me think a minute....Pharaohs, sparkles. It sounds to me like you may be searching for some kind of gems. I have a good friend in Egypt who is something of an amateur Egyptologist and should be able to help you.\n\nMy friend has been studying insects of late. I highly suggest you collect some local insects to bring with you just in case. I'd say five Cerambryx Beetles would do just fine."
-   [0A7C] 0xDC1BFE21725600C0: "I have not heard a good riddle in some time, so your presence delights me. Let me think a minute....Pharaohs, sparkles. It sounds to me like you may be searching for some kind of gems. I have a good friend in Egypt who is something of an amateur Egyptologist and should be able to help you.\n\nMy friend has been studying insects of late. I highly suggest you collect some local insects to bring with you just in case. I'd say five Cerambryx Beetles would do just fine."
-   [0A7D] 0xCCF8BFB4725FA5BE: Catch five Cerambryx Beetles in France and then travel to Egypt to meet {2.String}'s friend.
-   [0A7E] 0xA7108602E24D4F35: Catch five Cerambryx Beetles in France and then travel to Egypt to meet {2.String}'s friend.
+   [0A7B] 0x3FA74F470C63ADA5: "I have not heard a good riddle in some time, so your presence delights me. Let me think a minute... Pharaohs, sparkles. It sounds to me like you may be searching for some kind of gems. I have a good friend in Egypt who is something of an amateur Egyptologist and should be able to help you.\n\nMy friend has been studying insects of late. I highly suggest you collect some local insects to bring with you just in case. I'd say five Cerambyx Beetles would do just fine."
+   [0A7C] 0xDC1BFE21725600C0: "I have not heard a good riddle in some time, so your presence delights me. Let me think a minute... Pharaohs, sparkles. It sounds to me like you may be searching for some kind of gems. I have a good friend in Egypt who is something of an amateur Egyptologist and should be able to help you.\n\nMy friend has been studying insects of late. I highly suggest you collect some local insects to bring with you just in case. I'd say five Cerambyx Beetles would do just fine."
+   [0A7D] 0xCCF8BFB4725FA5BE: Catch five Cerambyx Beetles in France and then travel to Egypt to meet {2.String}'s friend.
+   [0A7E] 0xA7108602E24D4F35: Catch five Cerambyx Beetles in France and then travel to Egypt to meet {2.String}'s friend.
    [0A7F] 0xDF4114B47D00B060: To Egypt!
    [0A80] 0x76744D46C3E4AD6C: Collect 5 Cerambyx Beetles and then Go to Egypt
-   [0A81] 0x859EFD80AB030096: "Yes, I would be willing to help you, but first you need to help me. Bring me {9.Number} Cerambryx Beetles from France for my research. You are clearly a man of travel, so that won't be so hard for you will it?"
-   [0A82] 0x1ACBA7CB1FF9390D: "Yes, I would be willing to help you, but first you need to help me. Bring me {9.Number} Cerambryx Beetles from France for my research. You are clearly a woman of travel, so that won't be so hard for you will it?"
-   [0A83] 0x56C0ABAD55A50D2B: Bring {9.Number} Cerambryx Beetles to {2.String} in Egypt. Cerambryx beetles are mostly found in France.
-   [0A84] 0x35397059B3977792: Bring {9.Number} Cerambryx Beetles to {2.String} in Egypt. Cerambryx beetles are mostly found in France.
+   [0A81] 0x859EFD80AB030096: "Yes, I would be willing to help you, but first you need to help me. Bring me {9.Number} Cerambyx Beetles from France for my research. You are clearly a man of travel, so that won't be so hard for you will it?"
+   [0A82] 0x1ACBA7CB1FF9390D: "Yes, I would be willing to help you, but first you need to help me. Bring me {9.Number} Cerambyx Beetles from France for my research. You are clearly a woman of travel, so that won't be so hard for you will it?"
+   [0A83] 0x56C0ABAD55A50D2B: Bring {9.Number} Cerambyx Beetles to {2.String} in Egypt. Cerambyx beetles are mostly found in France.
+   [0A84] 0x35397059B3977792: Bring {9.Number} Cerambyx Beetles to {2.String} in Egypt. Cerambyx beetles are mostly found in France.
    [0A85] 0x8D2A9EAD7527DFA9: Entymology
    [0A86] 0x08E19B075512848D: “Ah yes, the legendary gems of the Pharaoh Anak-Rus! The legends lists a sapphire more blue than the desert sky, a ruby redder than blood, and an emerald more green than the eyes of the cobra. Yes, we have much to discuss.”
-   [0A87] 0xBFEEE72C26152663: "Ah, I see you've come prepared, thank you for your help.\n\nHistory tells us that centuries ago, Jean Necteaux lived in Al Simhara, Egypt for some time before running back to France with the Pharoah's daughter whom he fell in love with. According to myth, when they left they stole three mystical gems that were going to be used to make a new crown for the Pharoah. Perhaps these are the gems of your riddle.\n\nGo speak with the Al Simhara Relic Merchant {2.String} who follows the less than...wholesome markets on these things and may know something."
-   [0A88] 0x01C344C88924AACA: "Ah, I see you've come prepared, thank you for your help.\n\nHistory tells us that centuries ago, Jean Necteaux lived in Al Simhara, Egypt for some time before running back to France with the Pharoah's daughter whom he fell in love with. According to myth, when they left they stole three mystical gems that were going to be used to make a new crown for the Pharoah. Perhaps these are the gems of your riddle.\n\nGo speak with the Al Simhara Relic Merchant {2.String} who follows the less than...wholesome markets on these things and may know something."
+   [0A87] 0xBFEEE72C26152663: "Ah, I see you've come prepared, thank you for your help.\n\nHistory tells us that centuries ago, Jean Necteaux lived in Al Simhara, Egypt for some time before running back to France with the Pharaoh's daughter whom he fell in love with. According to myth, when they left they stole three mystical gems that were going to be used to make a new crown for the Pharaoh. Perhaps these are the gems of your riddle.\n\nGo speak with the Al Simhara Relic Merchant {2.String} who follows the less than... wholesome markets on these things and may know something."
+   [0A88] 0x01C344C88924AACA: "Ah, I see you've come prepared, thank you for your help.\n\nHistory tells us that centuries ago, Jean Necteaux lived in Al Simhara, Egypt for some time before running back to France with the Pharaoh's daughter whom he fell in love with. According to myth, when they left they stole three mystical gems that were going to be used to make a new crown for the Pharaoh. Perhaps these are the gems of your riddle.\n\nGo speak with the Al Simhara Relic Merchant {2.String} who follows the less than... wholesome markets on these things and may know something."
    [0A89] 0x961463A7C1E8CAD8: “Seek Assistance” from {2.String}.
    [0A8A] 0x6B29B348A99632D3: “Seek Assistance” from {2.String}.
    [0A8B] 0x873310A7BA2C9FB2: The Black Market
@@ -2727,8 +2727,8 @@ Unknown3: 0x00000000
    [0AA2] 0xDFC13E6983BC30D3: Deliver Photo
    [0AA3] 0xA72DBDECEDEAACEA: “I look beautiful, don’t I? I’m pretty sure these photos will complete my portfolio and soon, very soon, everyone will know about {2.SimName}. I can barely wait!”
    [0AA4] 0x98F94D5E9D222CD9: “I look beautiful, don’t I? I’m pretty sure these photos will complete my portfolio and soon, very soon, everyone will know about {2.SimName}. I can barely wait!”
-   [0AA5] 0x5BD9C160AD7BC81E: “I would like to become a model, but I do not own a camera. Unfortunately, this means I do not have any headshots for my portfolio. I am willing to pay for the photograph. In addition, you’ll also have the satisfaction of making {2.SimName} a world famous name!”
-   [0AA6] 0xEB38D05D55CF3A55: “I would like to become a model, but I do not own a camera. Unfortunately, this means I do not have any headshots for my portfolio. I am willing to pay for the photograph. In addition, you’ll also have the satisfaction of making {2.SimName} a world famous name!”
+   [0AA5] 0x5BD9C160AD7BC81E: "I would like to become a model, but I do not own a camera. Unfortunately, this means I do not have any headshots for my portfolio. I am willing to pay for the photograph. In addition, you'll also have the satisfaction of making {2.SimName} a world-famous name!"
+   [0AA6] 0xEB38D05D55CF3A55: "I would like to become a model, but I do not own a camera. Unfortunately, this means I do not have any headshots for my portfolio. I am willing to pay for the photograph. In addition, you'll also have the satisfaction of making {2.SimName} a world-famous name!"
    [0AA7] 0xF7BDD28486CC0F96: EP1_Quest_PhotoHeadShotFailure
    [0AA8] 0x22218EC76F84C913: Take a headshot photo of {2.SimName}, then “Deliver Photo” to {2.SimName} to receive Simoleons.
    [0AA9] 0xE2EF478360EB963A: Take a headshot photo of {2.SimName}, then “Deliver Photo” to {2.SimName} to receive Simoleons.
@@ -3592,17 +3592,17 @@ Unknown3: 0x00000000
    [0E03] 0x1FA204F20F35A518: Business Negotiation
    [0E04] 0x6DB8FAB8F432181D: Negotiate Deal
    [0E05] 0x7EAC9AA173FE8498: Negotiate Deal
-   [0E06] 0xDEA90695611220E9: The new line cooks had never tasted Crepes so light and delicious. Your Cooking Skill has improved and the Bistro paid you some cash for the extra effort!
-   [0E07] 0x076989D0E87A043C: The new line cooks had never tasted Crepes so light and delicious. Your Cooking Skill has improved and the Bistro paid you some cash for the extra effort!
-   [0E08] 0xDF08431CEF5A1B27: The Bistro is training some new employees and would like to show them what Excellent quality Crepes look and taste like. They’ve asked you to prepare some at home and bring them in to the restaurant.
-   [0E09] 0x9F7BF3DCBB6039D6: The Bistro is training some new employees and would like to show them what Excellent quality Crepes look and taste like. They’ve asked you to prepare some at home and bring them in to the restaurant.
+   [0E06] 0xDEA90695611220E9: The new line cooks had never tasted Crêpes so light and delicious. Your Cooking Skill has improved, and the Bistro paid you some cash for the extra effort!
+   [0E07] 0x076989D0E87A043C: The new line cooks had never tasted Crêpes so light and delicious. Your Cooking Skill has improved, and the Bistro paid you some cash for the extra effort!
+   [0E08] 0xDF08431CEF5A1B27: The Bistro is training some new employees and would like to show them what Excellent quality Crêpes look and taste like. They've asked you to prepare some at home and bring them in to the restaurant.
+   [0E09] 0x9F7BF3DCBB6039D6: The Bistro is training some new employees and would like to show them what Excellent quality Crêpes look and taste like. They've asked you to prepare some at home and bring them in to the restaurant.
    [0E0A] 0xF56DC7913C445857: EP1_SkillCooking_GetCrepesFailure
-   [0E0B] 0xA62518CCB1A8B5EC: Bring a serving of Excellent Crepes to the Restaurant to receive a payment.
-   [0E0C] 0x8D97352C2E61BC2F: Bring a serving of Excellent Crepes to the Restaurant to receive a payment.
-   [0E0D] 0xDCC62DCCD15B045E: Some fine Crepes
-   [0E0E] 0xD61966BF3EDC9E95: Some fine Crepes
-   [0E0F] 0x26893B4F50FDE10E: Prepare Crepes
-   [0E10] 0x274266495F51D985: Prepare Crepes
+   [0E0B] 0xA62518CCB1A8B5EC: Bring a serving of Excellent Crêpes to the Restaurant to receive a payment.
+   [0E0C] 0x8D97352C2E61BC2F: Bring a serving of Excellent Crêpes to the Restaurant to receive a payment.
+   [0E0D] 0xDCC62DCCD15B045E: Some fine Crêpes
+   [0E0E] 0xD61966BF3EDC9E95: Some fine Crêpes
+   [0E0F] 0x26893B4F50FDE10E: Prepare Crêpes
+   [0E10] 0x274266495F51D985: Prepare Crêpes
    [0E11] 0x3D1A1093FDD92390: You delivered the batches of Falafel to a very grateful restaurant owner. You were paid some money for the order and you improved your Cooking Skill at the same time!
    [0E12] 0xB4324D09037031EB: You delivered the batches of Falafel to a very grateful restaurant owner. You were paid some money for the order and you improved your Cooking Skill at the same time!
    [0E13] 0x2D541EB7BFD3F094: Falafel is the latest food craze in town and the Bistro just can’t keep up with the amount of orders that are coming in! The owner is ordering from anyone who can make a good amount of homemade Falafel.
@@ -3660,8 +3660,8 @@ Unknown3: 0x00000000
    [0E47] 0x2A5BBE349501BFAA: Deliver Frogs Legs
    [0E48] 0x84CA51342D06957C: The grapes turned into a delectable Nectar to rival the best of France. Your Gardening Skill has improved and you were paid some money for the fine specimens. 
    [0E49] 0x40BB997A9BFCEA3F: The grapes turned into a delectable Nectar to rival the best of France. Your Gardening Skill has improved and you were paid some money for the fine specimens.
-   [0E4A] 0xC18492B816257FB8: The Theatre is holding advanced Nectar making and appreciation classes and needs some of the finest Grapes available. They have asked you to bring {9.Number} Excellent quality Renoit Grapes to the Theatre.
-   [0E4B] 0xC5706C1493A27173: The Theatre is holding advanced Nectar making and appreciation classes and needs some of the finest Grapes available. They have asked you to bring {9.Number} Excellent quality Renoit Grapes to the Theatre.
+   [0E4A] 0xC18492B816257FB8: The Theater is holding advanced Nectar making and appreciation classes and needs some of the finest Grapes available. They have asked you to bring {9.Number} Excellent quality Renoit Grapes to the Theater.
+   [0E4B] 0xC5706C1493A27173: The Theater is holding advanced Nectar making and appreciation classes and needs some of the finest Grapes available. They have asked you to bring {9.Number} Excellent quality Renoit Grapes to the Theater.
    [0E4C] 0xD8AC20EDE72D8614: EP1_SkillGardening_GetGrapesFailure
    [0E4D] 0x160D02844A1F25F1: Bring {9.Number} Excellent quality Renoit Grapes to the Theater to receive a payment.
    [0E4E] 0xE2F5436684F94DA4: Bring {9.Number} Excellent quality Renoit Grapes to the Theater to receive a payment.
@@ -3783,8 +3783,8 @@ Unknown3: 0x00000000
    [0EC2] 0x186615FB1FC1E6C1: A hobby group has started up at the Theater with Sims practicing for a riddle contest. It’s a battle to see who can untangle the web of logic within the riddle. The group has heard of your Logic prowess and they want to send you to China to face the best local riddle-writers. It will build Logic Skill and earn you some cash.
    [0EC3] 0xBF457BD51FB0E174: A hobby group has started up at the Theater with Sims practicing for a riddle contest. It’s a battle to see who can untangle the web of logic within the riddle. The group has heard of your Logic prowess and they want to send you to China to face the best local riddle-writers. It will build Logic Skill and earn you some cash.
    [0EC4] 0x7D793F6D1A228C3D: EP1_SkillLogic_RiddleWarFailure
-   [0EC5] 0x5A31280D0FBCA67A: Travel to China and talk to {1.Number} locals to solve all the riddles, then report back to the group at the Theatre to get your reward.
-   [0EC6] 0x53ECE2FCB53098E9: Travel to China and talk to {1.Number} locals to solve all the riddles, then report back to the group at the Theatre to get your reward.
+   [0EC5] 0x5A31280D0FBCA67A: Travel to China and talk to {1.Number} locals to solve all the riddles, then report back to the group at the Theater to get your reward.
+   [0EC6] 0x53ECE2FCB53098E9: Travel to China and talk to {1.Number} locals to solve all the riddles, then report back to the group at the Theater to get your reward.
    [0EC7] 0x26F7150CF2EF36B4: Riddle War in China
    [0EC8] 0x4A1B7ADFF1544EB7: Riddle War in China
    [0EC9] 0xC73FB8C540DE2040: Solve Riddles in China
@@ -4016,12 +4016,12 @@ Unknown3: 0x00000000
    [0FAB] 0xB49ED0F24E6179A0: Photograph Temple
    [0FAC] 0xD1704B6DB798BB38: Wow! You knew your photograph was good, but not that good! Congratulations!
    [0FAD] 0x6C1A88B3C28557F3: Wow! You knew your photograph was good, but not that good! Congratulations!
-   [0FAE] 0x83C85ADB14A8362C: It’s about time there was a contest to showcase the best local photographers! The local Theatre is accepting submissions in any format, so make sure you bring your best work.
-   [0FAF] 0x3EF0247D24E4206F: It’s about time there was a contest to showcase the best local photographers! The local Theatre is accepting submissions in any format, so make sure you bring your best work.
-   [0FB0] 0xE964EDEF65DF98D0: Unfortunately, your photograph didn’t really stand out among the other entries. The theatre sent out a nice e-mail thanking you for your participation.
-   [0FB1] 0x8F75AF9DE7FD032B: Unfortunately, your photograph didn’t really stand out among the other entries. The theatre sent out a nice e-mail thanking you for your participation.
-   [0FB2] 0x4208331AB6B08CE5: Bring a high value photograph to the Theatre for a chance to win! 
-   [0FB3] 0xE6F4D6CC5477C000: Bring a high value photograph to the Theatre for a chance to win! 
+   [0FAE] 0x83C85ADB14A8362C: It's about time there was a contest to showcase the best local photographers! The local Theater is accepting submissions in any format, so make sure you bring your best work.
+   [0FAF] 0x3EF0247D24E4206F: It's about time there was a contest to showcase the best local photographers! The local Theater is accepting submissions in any format, so make sure you bring your best work.
+   [0FB0] 0xE964EDEF65DF98D0: Unfortunately, your photograph didn't really stand out among the other entries. The theater sent out a nice e-mail thanking you for your participation.
+   [0FB1] 0x8F75AF9DE7FD032B: Unfortunately, your photograph didn't really stand out among the other entries. The theater sent out a nice e-mail thanking you for your participation.
+   [0FB2] 0x4208331AB6B08CE5: Bring a high value photograph to the Theater for a chance to win!
+   [0FB3] 0xE6F4D6CC5477C000: Bring a high value photograph to the Theater for a chance to win!
    [0FB4] 0x544F861AC14FE003: Photo Contest
    [0FB5] 0xD50F1FEA0385CAAA: Photo Contest
    [0FB6] 0xA61A4310162A395F: Submit Photo
@@ -4048,10 +4048,10 @@ Unknown3: 0x00000000
    [0FCB] 0xD87299AFC3F034FE: Egyptian Fashion
    [0FCC] 0x4E7CAAA796D105AB: Photograph Local
    [0FCD] 0x0C31EFC3D78E0D12: Photograph Local
-   [0FCE] 0x85ADE433A1B07DB7: It didn’t exactly revive the aging Theatre but Sims passing by were curious about the new addition. The management kept their word and paid you {0.Money} for the photography, nonetheless.
-   [0FCF] 0x1E2135AC36E6D566: It didn’t exactly revive the aging Theatre but Sims passing by were curious about the new addition. The management kept their word and paid you {0.Money} for the photography, nonetheless.
-   [0FD0] 0x34964B651E2173B5: Theatre management would like to add an air of artistry and sophistication to its peeling walls. They’ve requested a photograph of the Eiffel Tower and are willing to pay you for it.
-   [0FD1] 0x9D36F3FECAE686D0: Theatre management would like to add an air of artistry and sophistication to its peeling walls. They’ve requested a photograph of the Eiffel Tower and are willing to pay you for it.
+   [0FCE] 0x85ADE433A1B07DB7: It didn't exactly revive the aging Theater but Sims passing by were curious about the new addition. The management kept their word and paid you {0.Money} for the photography, nonetheless.
+   [0FCF] 0x1E2135AC36E6D566: It didn't exactly revive the aging Theater but Sims passing by were curious about the new addition. The management kept their word and paid you {0.Money} for the photography, nonetheless.
+   [0FD0] 0x34964B651E2173B5: Theater management would like to add an air of artistry and sophistication to its peeling walls. They've requested a photograph of the Eiffel Tower and are willing to pay you for it.
+   [0FD1] 0x9D36F3FECAE686D0: Theater management would like to add an air of artistry and sophistication to its peeling walls. They've requested a photograph of the Eiffel Tower and are willing to pay you for it.
    [0FD2] 0x097331E3C26A27E9: EP1_SkillPhotography_EiffelPhotoFailure
    [0FD3] 0xF4858B9BA8D4A2CE: Bring a picture of the Eiffel Tower worth more than {0.Money} to the Theater to earn a cash reward.
    [0FD4] 0x53E84285CBFA7F45: Bring a picture of the Eiffel Tower worth more than {0.Money} to the Theater to earn a cash reward.
@@ -4120,8 +4120,8 @@ Unknown3: 0x00000000
    [1013] 0x4366583C35238AF5: {0.SimName} wants a picture of {16.SimName} but won’t tell you the reason why, only that you'll be paid nicely.
    [1014] 0x0EB5C968D6C02F10: {0.SimName} wants a picture of {16.SimName} but won’t tell you the reason why, only that you'll be paid nicely.
    [1015] 0xD9B0C7664D070B29: EP1_SkillPhotography_PictureOfAnotherSimFailure
-   [1016] 0xA7FCC84192D5E50E: Bring a photograph of {16.SimName} to {0.SimName} to earn a cash payment .
-   [1017] 0x119A79DA32654585: Bring a photograph of {16.SimName} to {0.SimName} to earn a cash payment .
+   [1016] 0xA7FCC84192D5E50E: Bring a photograph of {16.SimName} to {0.SimName} to earn a cash payment.
+   [1017] 0x119A79DA32654585: Bring a photograph of {16.SimName} to {0.SimName} to earn a cash payment.
    [1018] 0xBA451D419D76EFD0: Paparazzi!
    [1019] 0xB6CC36D150D2702B: Paparazzi!
    [101A] 0x9C38678AE313FFFC: Photograph Sim
@@ -4214,7 +4214,7 @@ Unknown3: 0x00000000
    [1071] 0x4E35AB6858686C17: I'd be doing much better if the Temple of Heaven were restored. The Brotherhood should never have left that incredible place.
    [1072] 0x4E35AB6858686C10: Hey, do you have UFO sightings in your country? Just the other day a spaceship swooped by and sucked up a tree and small shrub. I wonder if they are going to plant those on some other planet?
    [1073] 0xE57C188B883D0E3B: I was at a 4 star restaurant the other day and esteemed food critic Larimore Pearson was there. After his meal he exclaimed, "This is exactly what great food is! I shall kiss the cook!" I don't think he did though.
-   [1074] 0xE57C188B883D0E38: Catsup is for poseurs my friend. Use anything besides catsup please. Soy sauce, mayonaisse, hoisin, just for the love of great food avoid the catsup! And using a microwave is fairly low quality as well.
+   [1074] 0xE57C188B883D0E38: Ketchup is for poseurs my friend. Use anything besides ketchup please. Soy sauce, mayonnaise, hoisin, just for the love of great food avoid the ketchup! And using a microwave is fairly low quality as well.
    [1075] 0xE57C188B883D0E39: What makes great food you say? The great cook Lyndsay Mazza always said salt helps, but if you add fat and oil to anything, it will be better.
    [1076] 0xE57C188B883D0E3E: The great chef Raymundo once told my grandfather that you must make sure to maintain a delicate and unique blend of flavor and nutrition. Butter helps a lot too.
    [1077] 0x5FD274EEEEBA7E72: Ask About Breathing Techniques
@@ -4265,7 +4265,7 @@ Unknown3: 0x00000000
    [10A4] 0x9ED38584D5064D68: Haggling The Final Details...
    [10A5] 0x9ED38584D5064D6F: Seeking Adventure...
    [10A6] 0x9ED38584D5064D6E: Surviving Vaughan’s Tomb...
-   [10A7] 0x9ED38584D5064D6D: Creating-a-Crepe...
+   [10A7] 0x9ED38584D5064D6D: Creating-a-Crêpe...
    [10A8] 0x9ED38584D5064D6C: Check Out My Awesome Belt...
    [10A9] 0x9ED38584D5064D63: Sim Fu: Jumping Kicks...
    [10AA] 0x9ED38584D5064D62: Beware the spitting dragon...

@@ -96,7 +96,7 @@ Unknown3: 0x00000000
    [05B] 0xEF370275132D1C9F: Here is an actual streetlamp. It was one of hundreds manufactured for the city during the last citywide reconstruction project, but due to a clerical error it was accidentally raffled off as a prize during the mayor’s office’s most recent “family fun day.” Apparently someone put it up for sale, because you now have the opportunity to own an actual streetlamp!
    [05C] 0x92ED58B5BCEBDD0D: Worried that people are ignoring your streetlamp? They’re a fairly ubiquitous feature after all, and after awhile people just don’t notice them anymore! Draw those wandering eyes back to your beautiful streetlamp with this collection of attention-grabbing signage. Their bright colors and fanciful designs are sure to do the job!
    [05D] 0x54DF69B42D3312D0: Are you ready for real island living? Sometimes on the island you have to learn to improvise – do the best you can with the materials at hand. That’s why we created this charming table lamp, featuring a base made out of driftwood, and a frame of branches.
-   [05E] 0xEDA26CF0CE11D165: Making fire is hard. Why not light up the night by placing a few tropic lanterns? The Tropic Lantern is sure to create the ambience needed for a cozy time with friends.
+   [05E] 0xEDA26CF0CE11D165: Making fire is hard. Why not light up the night by placing a few tropic lanterns? The Tropic Lantern is sure to create the ambiance needed for a cozy time with friends.
    [05F] 0x18DD6537674D35CC: A stunning statement in water and light: the newest innovation from Hirschfield’s House Art. This exquisite lighting system will transform your home into a shimmering, living work of art. Don’t just light up your home – become luminescent, with Hirschfield's.
    [060] 0x039779E46721AE93: Don’t you hate it when you stumble into walls that are just too dark? Tired of squinting at night to read that graffiti in the dwindling sunlight? Have we got a solution for you! Wall Lighting Solutions has just patented and produced over 10,000 units of our sensational new product: The Wall Light! Use it to light walls! Now THAT’S looking at a wall!
    [061] 0xF35EA4EA8AA6C3EC: Above and below the horizon lie perfectly mirrored worlds of symmetrical illumination. Light up. Light down. Bring balance to the darkness. SymmetriLux.
@@ -148,7 +148,7 @@ Unknown3: 0x00000000
    [08F] 0x86556E34450D25A3: These triple decker fish balance themselves perfectly on their heads and tails. Many critics would say that this sculpture is outrageous in design. However, you can't predict what fish may do when fish are out of water.
    [090] 0xD07228F543782542: Flowers are the natural beauty of the world. When placed inside a large sculpture such as this, it suddenly brings out the life and elegance to those around it. Go ahead! Place these beauties around and observe the pleasant view it brings.
    [091] 0x8C09771A6AAD5709: Nelly was the best anchor that ever graced the bottom of the seven seas.... Imagine her surprise when the sailors cut the rope and left her on the ocean floor! Not one to complain about her plight, Nelly quickly befriended the local sea life, especially the barnacles.
-   [092] 0x62076FD448CEC575: Thanks to catastrophic earthquake damage and severe negligence while purchasing insurance, Hector’s Pristine Arches is now forced to sell off its entire inventory as Hector’s Faux Ruins! Save big on beautiful, hand-crafted arches that were basically decimated. Imagine what you’d get after throwing a blueberry muffin into a rotating fan – that’s pretty much what we’re dealing with here.
+   [092] 0x62076FD448CEC575: Thanks to catastrophic earthquake damage and severe negligence while purchasing insurance, Hector's Pristine Arches is now forced to sell off its entire inventory as Hector's Faux Ruins! Save big on beautiful, handcrafted arches that were basically decimated. Imagine what you'd get after throwing a blueberry muffin into a rotating fan – that's pretty much what we're dealing with here.
    [093] 0xD9C40A9FDF0CD614: These canopies add a flair to the outdoor pavilions of resorts. Perfect for enjoying the sun while being in the shade.
    [094] 0x25BCDBB9194954AB: All sorts of garbage ends up cluttering our sparkling oceans…these bottles are no exception. Help keep our oceans clean by recycling, and depositing trash in the proper receptacles!
    [095] 0xB6FF1E262ABAE3D9: Although not really made of brain, I hear if you tickle it at just the right spot, you can get the ocean to sneeze!
@@ -181,7 +181,7 @@ Unknown3: 0x00000000
    [0B0] 0x97DFD2C221F814BE: You might think "tube sponge" is an odd name for a sea creature, but it is a sponge…and it is shaped like a tube. So, yeah.
    [0B1] 0xD836E47E3CAD3A4B: It is whispered that the ghost ship, the Simary Celeste, is doomed to roam these waters for eternity because the captain cut loose her steering wheel and threw it overboard during a mutiny... perhaps this belonged to her?
    [0B2] 0x8459111660F6F1A6: There’s just something about the Island Life that puts a spell on people, specifically tourists, specifically a spell that makes them want to spend lots and lots of money. Get their attention and remind them how tropical you are with this delightful sign featuring popular tropical birds.
-   [0B3] 0x7047FCE320887445: Alexander Roofington proudly presents his lastest innovation in things that curve: the Roof Curves! They’re the perfect topper to any hacienda. And they’re so easy to install -- all you have to do is drag and drop. That’s right! Just drag them up to your roof using a ladder and then drop them down wherever you want them.
+   [0B3] 0x7047FCE320887445: Alexander Roofington proudly presents his latest innovation in things that curve: the Roof Curves! They're the perfect topper to any hacienda. And they're so easy to install — all you have to do is drag and drop. That's right! Just drag them up to your roof using a ladder and then drop them down wherever you want them.
    [0B4] 0x0DD20D6C5E30B7CA: Let everyone know where to go for the best seafood in town, or just show off your love of the cuisine!
    [0B5] 0xAC696FC34A9A1400: Alexander Roofington is tearing down barriers yet again in the world of curvy things. His latest innovation: straight things! If you are a fan of his Roof Curves, you have to try Alexander Roofington’s Roof Straights. You won’t believe the balance they’ll bring to your roof.
    [0B6] 0x48AD50713B376742: No foray into island living would be complete without a sampling of the incredible fruits native to tropical lands. No more tantalizing array of natural treats exists! This attractive display, while not edible, certainly harkens to the scintillating flavors of the island's gifts!
@@ -935,7 +935,7 @@ Unknown3: 0x00000000
    [3A2] 0xDBB84609DEF8610E: Varadi
    [3A3] 0x221CE1AA0A35AF84: A retired fisherman and avid scuba diver Andrei has dedicated his life to what lives under the waves…
    [3A4] 0xF3ABA0C88D3B0E17: Vidal
-   [3A5] 0x90279D3E77059663: Valerie has her hands full as a single mom with two teenage sons and a full time career. Between work, family obligations, and her hobbies there is very little time for romance…but the heart wants what it wants, is a new relationship on the horizon?
+   [3A5] 0x90279D3E77059663: Valerie has her hands full as a single mom with two teenage sons, and a full-time career. Between work, family obligations, and her hobbies there is very little time for romance..., but the heart wants what it wants, is a new relationship on the horizon?
    [3A6] 0x001D4EC2DCFBE1C4: Walsh
    [3A7] 0x6BDDEE329DAF1E4A: Yee
    [3A8] 0xCF45B6DEAA55BCB8: Adalia
@@ -1164,23 +1164,23 @@ Unknown3: 0x00000000
    [487] 0x157982B47E2EFF25: Unfortunately, {0.SimFirstName} is not skilled enough to open this chest. {0.SimFirstName} needs to be a Level {1.Number} Scuba Diver to be able to open this chest.
    [488] 0x1717F85B7AAB22DE: {0.SimFirstName} just found the following in the treasure chest: {1.String}
    [489] 0x975D2B1527F90F4C: “Oh, so it’s adventure you want? Well then why are you hanging in the lobby?! You could be out searching for a SECRET ISLAND that only few have glimpsed. If you seek the unknown, talk to {OpTarget}. {OpTarget} will set you on your way.”
-   [48A] 0xE0D65B14269B1B85: "Talk about Refuge Island" with {OpTarget}.
+   [48A] 0xE0D65B14269B1B85: "Talk about Refuge Island" with {OpTarget}.
    [48B] 0xF31DAE14313A6FA3: The Old Sim and the Secret Island
    [48C] 0xB07C2CEE312758FF: Talk to {OpTarget}.
-   [48D] 0x291489DDAB4B213B: “Aye, maybe I know about that which you speak, and maybe I don’t. Maybe The Refuge exists, and maybe it doesn’t - are you a true ally to this archipelago? If so, I have an ecologist friend that needs help..."
+   [48D] 0x291489DDAB4B213B: "Aye, maybe I know about that which you speak, and maybe I don't. Maybe The Refuge exists, and maybe it doesn't - are you a true ally to this archipelago? If so, I have an ecologist friend that needs help..."
    [48E] 0x6D6D533535339890: Bring {OpNumItemsGoal} Kelp to {OpTarget}.
    [48F] 0x5EC200352DA4FD1A: Kelp! I need some!
    [490] 0x69A327A4A49EC14A: {OpNumItemsCurrent} / {OpNumItemsGoal} Kelp
-   [491] 0x1AE68FEAF1EE057A: “Thanks for the help. You seem like a fine person, but are you in tune with your island spirit? Perform an act of daring mind-over-matter, and then we’ll talk about the island.”
+   [491] 0x1AE68FEAF1EE057A: "Thanks for the help. You seem like a fine person, but are you in tune with your island spirit? Perform an act of daring mind-over-matter, and then we'll talk about the island."
    [492] 0xC764C126E567144F: “Firewalk” Successfully on the Firewalk Pit.
    [493] 0xB5F64C26DB7F7705: Firewalk with Me
    [494] 0xA2695A76CA36E135: Firewalk
-   [495] 0x742A01368EB092B9: “One more thing - and this is really more a favor: Roving sharks have been interrupting my sea surveys, and it’s quite a bother. As an ecologist, it’s extremely important to me that you punch a shark in the face. That’ll teach ‘em.”
+   [495] 0x742A01368EB092B9: "One more thing - and this is really more a favor: Roving sharks have been interrupting my sea surveys, and it's quite a bother. As an ecologist, it's extremely important to me that you punch a shark in the face. That’ll teach 'em."
    [496] 0x199BD10AC8011DB2: Get in a fight with a shark.
    [497] 0xE770DE0AAC19657C: Shark, a Vagrant
    [498] 0xC6BEB7B89768EFB8: Fight a shark
-   [499] 0x5E97DEF27C9B4904: There it is! The fabled Refuge Island! It should be easy to navigate there now!
-   [49A] 0x2AC17589953DD7D0: “Wow, thanks! OK, I’m convinced! Refuge Island is actually easy to find; there’s an old map at town hall that will point the way. Search the dilapidated cartography section.”
+   [499] 0x5E97DEF27C9B4904: There it is! The fabled Refuge Island! It should be easy to navigate there now!
+   [49A] 0x2AC17589953DD7D0: "Wow, thanks! OK, I'm convinced! Refuge Island is actually easy to find; there's an old map at town hall that will point the way. Search the dilapidated cartography section."
    [49B] 0x0947FCE3D8541229: “Search for Map” at {OpTarget}.
    [49C] 0xD60D27E3BB85591F: Not uncharted, you LOST the chart!
    [49D] 0x2F742E71DFC116FB: Find the Map

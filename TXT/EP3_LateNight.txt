@@ -129,16 +129,16 @@ Unknown3: 0x00000000
    [07C] 0x91DE0CBFF63583D8: It’s time to kick this rave up a notch! This is either the start of an awesome party or the newest way to torture your Sim with 1.21 gigawatts of pure pulsing power.
    [07D] 0x1DE2320D32DA11B6: Black lights were the result of misguided research at Landgraab Industries in an attempt to harness the power of black holes on a small scale. Each fluorescent tube actually traps a small scientific anomaly that swallows all nearby light and emits an eerie glow. Fortunately there has yet to be a recorded incident of a light breaking; the result would be catastrophic.
    [07E] 0xA600BFA39B0A4455: Like a strange light in the night sky, the U.F. Light shines brightly without the need for electrical connections. Don't be surprised if some of your Sim guests are mysteriously drawn to the glowing beacon!
-   [07F] 0x508405D29FBC7114: This modern, light-weight lamp is easy to install and even easier to use. Providing Sims with minimal warmth and an abundance of light the Haute Heat Lamp is a must for any outdoors gathering or soiree. The mere presence of this stylish light source adds a touch of sophisticated ambience to even the most derelict of abodes.
+   [07F] 0x508405D29FBC7114: This modern, lightweight lamp is easy to install and even easier to use. Providing Sims with minimal warmth and an abundance of light the Haute Heat Lamp is a must for any outdoors gathering or soirée. The mere presence of this stylish light source adds a touch of sophisticated ambiance to even the most derelict of abodes.
    [080] 0xA88B15E562BD935F: Black lights were the result of misguided research at Landgraab Industries in an attempt to harness the power of black holes on a small scale. Each fluorescent tube actually traps a small scientific anomaly that swallows all nearby light and emits an eerie glow. Fortunately there has yet to be a recorded incident of a light breaking; the result would be catastrophic.
    [081] 0xEF395903005CED8E: When Bridgeport was founded, the first Mayor instituted these lights throughout the city. Now throughout the world, Bridgeport is known for its lights.
-   [082] 0x392584712D079F50: Create a romantic ambience in any setting with the Fiery Glow Light. You'll love watching the mock flame dance across the face of that special Sim. Enjoy the beautifying effects of soft lighting as you gaze into your loved one's eyes!
+   [082] 0x392584712D079F50: Create a romantic ambiance in any setting with the Fiery Glow Light. You'll love watching the mock flame dance across the face of that special Sim. Enjoy the beautifying effects of soft lighting as you gaze into your loved one's eyes!
    [083] 0x87B58B4F70AA272E: Give the crowd a wave when you hang this retro-themed light on your walls. It recalls a time when the beats were faster, the crowds more joyful, and the atmosphere gaudier!
    [084] 0x470FAD0948330B76: Sims who hate soft flattering light will bask in the radioactive glow of the Scintillating Fluorescent Tube. Take care not to stare into the eyes of the beast lest you be left with a rectangle-shaped afterimage.
    [085] 0xE57071ED66C59414: One frosty morning Gunther Janneck peered out his window and was struck by the magnificence of the rays of the rising sun catching on a batch of fresh icicles. He paused to ponder this phenomenon and was quite distraught as he watched the icicles melt away. Determined to capture the beauty he had just witnessed in a more permanent state Gunther went to work immediately and the product was this handsome wall light.
    [086] 0x8CF6FBBD38E1EFD1: Black lights were the result of misguided research at Landgraab Industries in an attempt to harness the power of black holes on a small scale. Each fluorescent tube actually traps a small scientific anomaly that swallows all nearby light and emits an eerie glow. Fortunately there has yet to be a recorded incident of a light breaking; the result would be catastrophic.
    [087] 0x820482B4433D034E: Featuring the Slab motif that took the design world by storm, SLovechair by Yang3D pairs nicely with Yang3D’s living chair and sofa sets.
-   [088] 0x43CD110F2BE4ECAD: Club SoVino Patio Loveseat is just the right dash of wicker and vintage. It is built for snuggling with that special someone, ideally someone possessing complementary levels of fame and fortune.
+   [088] 0x43CD110F2BE4ECAD: Club SoVino Patio Loveseat is just the right dash of wicker and vintage. It is built for snuggling with that special someone, ideally someone possessing complementary levels of fame and fortune.
    [089] 0x99FB6EFA0F7F0D8B: Lean back on the Data Lounger and enjoy a comfortable cradle for trading gossip with your closest friends. The modern cut of the back is designed to mimic the cadence of your sharpest insults. The finest spot to exchange wit and wisdom, manufactured by Bistro Furnishings since 1995!
    [08A] 0x9E5970FBF4DB8240: This is a Magic Celebrity Gnome. You sometimes feel like he is watching you...
    [08B] 0x18928080F290E3C9: This is a Magic Vampire Gnome. You sometimes feel like she is watching you...
@@ -242,15 +242,15 @@ Unknown3: 0x00000000
    [0ED] 0x5E01E3BD4FA6C27E: The flat top surface of the Streamlined Stove cooks food evenly using the latest technology in inverted induction heating. A helping hand in the kitchen, even the least talented chefs will find it impossible to burn their food!
    [0EE] 0xA69C2CBFDA6D7969: What better way to turn your sleepy town into a bustling metropolis than adding a subway system? It's just the right pork barrel project to put your city on the map!
    [0EF] 0xECD8C9D40B501E52: When desperate Sims can't even find a pile of trash to sleep on, they can always pass out on top of a subway grate. An occasional blast of hot air from the train passing below helps get you through those long cold nights.
-   [0F0] 0x768A767C99BC3D43: When you reach a proverbial fork in the home design road, choose this well-heeled table. It is a compact and sturdy companion to any furniture arrangement.
-   [0F1] 0x67C9A493C92E1A9A: Inspired by puzzle pieces of a childhood past, this playful table invites small talk about said table. The mix of curves and lines are thoughtful and self-aware, as any good conversation piece should be.
+   [0F0] 0x768A767C99BC3D43: When you reach a proverbial fork in the home design road, choose this well-heeled table. It is a compact and sturdy companion to any furniture arrangement.
+   [0F1] 0x67C9A493C92E1A9A: Inspired by puzzle pieces of a childhood past, this playful table invites small talk about said table. The mix of curves and lines are thoughtful and self-aware, as any good conversation piece should be.
    [0F2] 0xA01CC8AC4551CD80: From your friends at Classy Glass comes a chic, modern take on the everyday dining table. Symmetrical elegance paired with modern glass making techniques have led artisans to create a table that is breathtaking to behold. Fingerprint smudges are inevitable, but this luxury table is guaranteed not to break or crack! Remember, it's not just any glass—it's Classy Glass!
    [0F3] 0x6F420BC802B99AD0: Hi-Tech furniture meets hi-tech thinking with the M0nolith 3nd 7able, the culmination of forward thinking design. The fiber optics embedded in stone may pulse a variety of colors, but this table screams green. Solar power at an off-site location is transmitted through a magnetically coupled resonance to give this table its glow, making it a triumph of form and function.
    [0F4] 0xD0C7F9A35D993015: Paddy's Irish Pub Stand is a perfect platform to place your drink as you enjoy some conversation with a new friend or a potential lover. While you lean over the oak top to whisper in someone's ear, rest assured that the stand will stay solid as you bond with someone forever... or just for a night.
    [0F5] 0x869750BC8919C439: When famed club and lounge entrepreneur Señor Custer created his original sectional seating design, he was adamant about planning an accompanying table. Guaranteed to fit perfectly in any arrangement of sectional seats, this table gives everyone a place to rest their drink glass.
    [0F6] 0x906C2BEA32239CB8: Created as an accompaniment to the Dive Seating, the varnished-look Plastique tabletop is designed to resist a variety of glass rings and finger food stains!
    [0F7] 0xE5C78BC67AFAF1E7: This industrial-strength marvel is low on style but high on functionality. Constructed of the highest grade porcelain, its gentle curves stand ready to cup the bottoms of thousands of patrons in a single night. 
-   [0F8] 0x8578B6B5728BB552: This Professional Actor Trailer provides your Sim a sanctuary from the telescopic cameras of the paparazzi and the throngs of screaming fans. Only the most accomplished actor has an Actor Trailer of their own.
+   [0F8] 0x8578B6B5728BB552: This Professional Actor Trailer provides your Sim a sanctuary from the telescopic cameras of the paparazzi and the throngs of screaming fans. Only the most accomplished actor has an Actor Trailer of their own.
    [0F9] 0xF6FF6D9263690A0B: Neat freaks will rejoice at the sight of the Well-Kept Urban Trash Can. Place a trash can in your town that is as clean as those litter free streets.
    [0FA] 0x90213BC4BC199E63: Barney's trash chute has been tested in a wind tunnel to ensure all trash thrown down it will reach terminal velocity in record time.
    [0FB] 0xF0B274A99E5720B0: Today, Fir trees are some of the most popular trees within the tree gazing community. These enthusiasts contend that when gazing upon a Fir tree, it gazes back upon you.
@@ -263,7 +263,7 @@ Unknown3: 0x00000000
    [102] 0x9F4A935698163458: Unrestricted access is a thing of the past. With the Small Barrier Rope, you can limit the access of a room or building to only allow your favorite Sims. Use with small doors or arches only.
    [103] 0x9F4D995698187443: Unrestricted access is a thing of the past. With the Large Barrier Rope, you can limit the access of a room or building to only allow your favorite Sims. Use with large doors and arches only.
    [104] 0xC89A73CB9DF22638: Bridge Ramp Retaining Wall
-   [105] 0x6D3466DC6C3F1711: Built by the late Ebenezer Alto at the turn of the century, these buildings still retain a sense of his commitment to hardwork and old fashioned values.
+   [105] 0x6D3466DC6C3F1711: Built by the late Ebenezer Alto at the turn of the century, these buildings still retain a sense of his commitment to hardwork and old-fashioned values.
    [106] 0x01424D01DA415C33: High rise living will never be the same when you install the Drop Look Chute! You'll enjoy the convenience of easy trash disposal combined with a sleek industrial design. Take a peek down the chute and enjoy watching gravity in action as your trash falls to the bottom.
    [107] 0xE2A36239291721EF: Before unveiling his creations to the world, famed window designer Xavier X. Xylander always shows his latest window designs to his brother Xander, a world-renowned surfer. When Xander saw his brother's latest creation, he exclaimed, "Dude, that window is so awesome…it's sawesome!"
    [108] 0x011E865AC0F92667: Enjoy all the beauty nature has to offer with the Window to the World! You can practically smell the fresh air as you take in a panoramic view of outdoors while sitting on your couch. Note: Creatures of the night will loathe this window.
@@ -373,9 +373,9 @@ Unknown3: 0x00000000
    [170] 0x934C65DA9AD91AE3: Plattered Light
    [171] 0x941D94E42C3300AC: Beautiful Bevels Hanging Light
    [172] 0xA2A43E2C8CBB4D0A: Two-Toned Pendant by Ginter Luminous
-   [173] 0xBB9BAFF853621F1C: Light Catcher by Ice Lighting
+   [173] 0xBB9BAFF853621F1C: Light Catcher by Ice Lighting
    [174] 0x4863C3D87E345C4D: Elliptical Luminosity
-   [175] 0x8E11D89A826E2415: Z Light by Ice Lighting
+   [175] 0x8E11D89A826E2415: Z Light by Ice Lighting
    [176] 0x59B92342B5AAE86E: Stem Chandelier by Ice Lighting
    [177] 0x37364FC7AD9D5041: Super Spotlight
    [178] 0x4ED48C05C19B141F: Kickin' Strobe Light
@@ -551,7 +551,7 @@ Unknown3: 0x00000000
    [222] 0xF2616A00348E76C7: SecuWIN
    [223] 0xC7B6A295E2B26202: Tear-Stained Glass Window
    [224] 0x0F1FA389EAF51117: Windovation
-   [225] 0x911567367D5F9E35: A functional trash receptable doesn't necessarily look very pretty. It's hard to keep something clean that is meant to hold filthy trash!
+   [225] 0x911567367D5F9E35: A functional trash receptacle doesn't necessarily look very pretty. It's hard to keep something clean that is meant to hold filthy trash!
    [226] 0x238347A011B03F4E: Unsightly Urban Trash Can
    [227] 0xECAF61B1775A9C2D: 
    [228] 0xECAF61B1775A9C2C: 
@@ -646,7 +646,7 @@ Unknown3: 0x00000000
    [281] 0x0AF7EA06D3D4DD80: Built on stilts to take advantage of a steep property, this contemporary house features outstanding city views, twin bedrooms, and multiple view decks. You’ll hardly notice that traffic winds around 3 sides of the house.
    [282] 0xC575506C08D3F619: An efficient studio apartment is offered in the trendy floodgate section of town. Live here and be close to industry and the bustle of the upper bay.
    [283] 0x7A4F0C5AC001E8F1: The two story garage addition, with a mother in law apartment above, softened the effect of this hastily constructed house. However most locals still call it "Raised Eyebrows" because the façade resembles an ornery face.
-   [284] 0x4BB20C742D4000C7: This chateau was built in the golden era of the Silver Screen when Bridgeport was the center of Film making. If this prohibition era mansion could talk, imagine the stories it could tell. Dual master suites and a speakeasy in the basement are among its many charms.
+   [284] 0x4BB20C742D4000C7: This château was built in the golden era of the Silver Screen when Bridgeport was the center of Film making. If this prohibition era mansion could talk, imagine the stories it could tell. Dual master suites and a speakeasy in the basement are among its many charms.
    [285] 0x3936998B5F357257: A modest house in the suburbs of Bridgeport can bring a Sim happiness. This one features an obstructed view from the upstairs bedroom of houses that have unobstructed views.
    [286] 0xEE47F96D9965131E: Long ago, a row of mansions lined downtown Bridgeport. The Landgraab Brownstone is now the only one to remain. Although the once opulent residence has been divided into income producing apartments, the historic garden and elegant façade are largely intact.
    [287] 0x85C55BA026D7D5E6: The distant skyline of Bridgeport beckons from this unimposing house. Being the first house on the block means you get home from work earlier than your neighbors!
@@ -657,7 +657,7 @@ Unknown3: 0x00000000
    [28C] 0xAE9481302007CF44: Named when they had an ocean view, these apartments are moderately priced and convenient to downtown, the civic center and the stadium, but there are no ocean views.
    [28D] 0x9677F7285333262A: For some reason single male Sims seem especially attracted to this building. Perhaps it is the partially covered sports-car parking?
    [28E] 0xF38880559C3C1A78: Spared from demolition during the construction of the new stadium, Bridgeport Arms still boasts large apartments and partial views in a quiet neighborhood…except for when there is a game.
-   [28F] 0xF43FFAC01BF9D4E4: This Egyptian Deco building is adjacent to downtown nightlife and boasts some odd shaped landscaping. Perhaps a Sim who has travelled to Egypt would have the answer?
+   [28F] 0xF43FFAC01BF9D4E4: This Egyptian Deco building is adjacent to downtown nightlife and boasts some odd shaped landscaping. Perhaps a Sim who has traveled to Egypt would have the answer?
    [290] 0x075C505A49958931: Just a bit too far out of the city to ever be really in style, Glenview manor caters to a reliable middle class city dweller who just can’t seem to give up and move to the suburbs.
    [291] 0x69C974E3FFE7DCE6: Built by the Zodiac Group to provide luxury housing to Bridgeport, One Leo Center is considered a premier location in the city.
    [292] 0xD3813D02D905CD02: Built at Founders Square, “the Keep” has one of the longest waiting lists of any building. This is surprising since it’s not that nice and its identical neighbor is not at all popular.
@@ -704,7 +704,7 @@ Unknown3: 0x00000000
    [2BB] 0xE6A2A4E60A190D02: Landgraab Marine Science Facility
    [2BC] 0xF1FA369E47093192: Wilki’s Fabulous Books and Bath
    [2BD] 0x7DF95F00FE58AA67: LlamaCo Stadium
-   [2BE] 0x1BC00DCBCFAE5BD4: Beckett Theatre
+   [2BE] 0x1BC00DCBCFAE5BD4: Beckett Theater
    [2BF] 0x3B178FF8E1686B3C: Aquarius
    [2C0] 0x61E7AE321735C718: The Brightmore
    [2C1] 0xFE154F2379345E99: Eugi's
@@ -804,16 +804,16 @@ Unknown3: 0x00000000
    [31F] 0x31B6359ACD8812BE: There’s a lot of a dirty laundry in the Cook household. Jeffrey and Lady maintain the appearance of a married couple but can barely stand the sight of each other. Lady is more interested in facials than face time with her impressionable teenage daughter, Elspeth. Will Elspeth turn out ok with her mother’s esthetician Cressida Wells as her only confidante in a dysfunctional household?
    [320] 0x3B6ACCE956314B0A: Caroline, a small town girl, came to the city looking to get into journalism, and has successfully started her climb to the top. Does she have what it takes to become a star journalist, and make it in the big city alone?
    [321] 0x8E4963F4BB0BF57C: Alexy, Harry, and Matilda draw inspiration from their shared experiences in this small artist commune they call home. Harry is the most cerebral of the trio and loves his books and computers. Will romance blossom amid the portrait painting and jam sessions? Will the three of them remain the best of friends?
-   [322] 0x46602BCFFD8B7BA9: Matthew Hamming is no stranger to the limelight. Topping the list of the world’s most eligible bachelors and a permanent fixture on the silver screen, is there anything more Matthew could ask for? If tabloids are to be believed, he’s still searching for that elusive special lady; the paparazzi has a hard time keeping up with his trail of leading ladies and broken hearts.
+   [322] 0x46602BCFFD8B7BA9: Matthew Hamming is no stranger to the limelight. Topping the list of the world's most eligible bachelors and a permanent fixture on the silver screen, is there anything more Matthew could ask for? If tabloids are to be believed, he's still searching for that elusive special lady; the paparazzi has a hard time keeping up with his trail of leading ladies and broken hearts.
    [323] 0x2964889A9269460B: The Hemlock family doesn’t quite conform to one label, but the neighbors frequently refer to them as “that hippie vampire family”. Morrigan, Wogan and their child Belisama enjoy hydroponic and soil grown plasma fruit, as well as sharing music together as a family.
    [324] 0x838E093ED8F1D3C5: The Jones really are the couple to keep up with. With both Johnny and Diana at the peak of their careers and no kids, life is pretty perfect for the moment. Will unforeseen wishes and desires introduce some bumps along the way?
    [325] 0x192FC7CA824ABEA5: Johanna King is a natural born comedian, going by the alias “Funnymom” on her daily show. When not on set, she has made single-parenting into an art form, raising an angel of a daughter, Lisa, with solid values and a lot of laughs.
-   [326] 0x5AB6C925BC4D8C08: The Littlers are one of the town’s most prominent families, even if they’re not the most well-liked. Renee Littler is a successful news anchor and an indulgent mother to her wayward children. Tensions run high in the family as B-list actor Reuben lives in the shadow of his wife’s success. Will their marriage survive the disparity or will the live-in help, Odine Perry, become a dangerous distraction?
-   [327] 0xC1C6F123D8D388BB: Polly loves nothing more than a good book and a long snooze, both of which she has ample time to do. On the other side, Polly worries about meeting Sims and making friends. Will she need to be more outgoing or successful to be well-liked?
+   [326] 0x5AB6C925BC4D8C08: The Littlers are one of the town's most prominent families, even if they're not the most well-liked. Renee Littler is a successful news anchor and an indulgent mother to her wayward children. Tensions run high in the family as B-list actor Reuben lives in the shadow of his wife's success. Will their marriage survive the disparity or will the live-in help, Odine Perry, become a dangerous distraction?
+   [327] 0xC1C6F123D8D388BB: Polly loves nothing more than a good book and a long snooze, both of which she has ample time to do. On the other side, Polly worries about meeting Sims and making friends. Will she need to be more outgoing or successful to be well-liked?
    [328] 0x063DB09D94C299DA: One house can hold so many stories. When City Entertainment started the 17th season of Little Celebrity and put this cast together, they knew they were going to have a great show. Katelyn Missoni and Apollo Bloom provide plenty of vacuous entertainment while Kirby Wise lusts after a prominent politician in town. William Fangmann is too smart for his own good, but does he know who his secret admirer is?
    [329] 0x189354956353BB96: Katrina Pala is an enterprising businesswoman, bringing the business world to life with her ambitious projects. In her custody is her less city-wise niece, Hannah Smythe. Katrina is eager to show Hannah the ropes on the business world but faces the uphill task of distracting Hannah from her reality television obsession.
    [32A] 0x9DD39B68BCC2EDC7: Most people think that Romeo is just one of the city’s wealthy playboys, running around town without a care. However, few will ever know of the sacrifices this super undercover secret agent has made for the city. This Sim could use a good night out on the town!
-   [32B] 0xBC26006AA27EE422: With so many flashy Sims in the neighborhood, it’s easy to overlook poor Buster. If only he could earn enough in tips to afford a few more instruments… that would really make his day! Maybe he can even move out of his current digs?
+   [32B] 0xBC26006AA27EE422: With so many flashy Sims in the neighborhood, it‘s easy to overlook poor Buster. If only he could earn enough in tips to afford a few more instruments... that would really make his day! Maybe he can even move out of his current digs?
    [32C] 0x65364CD3965BEC4C: If the ladies in this house had fangs, they would have been at each other’s throats a long time ago. While Bianca, Lily-Bo and Marina make each other’s blood boil, vampire Beau bides his time and enjoys the feud. Which of the three will he finally find irresistible?
    [32D] 0x00F39F1E5D681475: Vlad’s ravishingly good looks have tricked many a good Sim under his spell… Most Sims in the city find him irresistible! He’s well connected in the local Vampire scene, but with a new crowd on the rise, Vlad might have to choose sides.
    [32E] 0xE591B4C52D03FE0F: Many times over, Lenny has tried to make a run at selling photographs of celebrities as an income. It has gone well at times when he got a great snapshot, but often times are tough. It’s time for Lenny to put down the camera and find a real job.
@@ -821,7 +821,7 @@ Unknown3: 0x00000000
    [330] 0x1CE2F5723FA75230: Don’t let her charming personality fool you; for the last 100 years Elvira has been the most feared and most powerful Vampire in the city. However, a new influx of younger vampires have recently moved into the city… Will it turn ugly?
    [331] 0x48881E2D01ED87A0: Alan Stanley and his partner, A-list actress Emmy Starr live the grand celebrity life. A director extraordinaire, every young actor wants to work with him and every young filmmaker wants to be him. Emmy rose to stardom as the lead actress in his early films. Rumor has it that this relationship is a little unbalanced. What goes on off the set for this couple?
    [332] 0xBBB0D8FE08DFE462: The Strikers are a global fashion sensation with Baby Sebastian constantly dubbed the city’s best-dressed tyke. However, it is Richie Striker’s coveted athleticism that has made him the star that he is. What new rivalry will glamorous Stella Striker find in the city? Will her family’s fame and wealth be enough, or will she need more affirmation?
-   [333] 0x6B332123C883651E: Jessica Talon, a name that puts fear in many a young vampire, has forced some Sims to stake their allegiance against her. Her better half, Rafael Striker, is much less intimidating but just as influential a name in late night business circles. Underneath her tough exterior, Jessica’s chief desire is just that Rafael will keep up with her on the dance floor. He has other ideas though, like owning his own bar.
+   [333] 0x6B332123C883651E: Jessica Talon, a name that puts fear in many a young vampire, has forced some Sims to stake their allegiance against her. Her better half, Rafael Striker, is much less intimidating but just as influential a name in late night business circles. Underneath her tough exterior, Jessica's chief desire is just that Rafael will keep up with her on the dance floor. He has other ideas though, like owning his own bar.
    [334] 0xF372D62EC1BB7AB8: The residents of the Tenderlove household are regulars at the club scene downtown. Between Barry’s bartending dreams and Ace’s penchant for neon club wear, there are a lot of nightlife aspirations under one roof. Jun and the boys really hope they make it in this town because they can’t imagine living anywhere else!
    [335] 0x7E63C465DC5648F3: Aria is regarded as one of the best musicians in the entire city; she has won numerous awards for her beautiful singing and guitar accompaniment. Little do people know, she’s only in it for the fame and fortune! She’d rather spend all day in front of the TV or computer.
    [336] 0xE41D4B78F7F29B89: No one really knows how these former Twinbrook residents came under the same roof. From Lil Bling’s persistence to Big Hartley’s muscle, music mogul Tom Wordy has surrounded himself with the people he trusts most. Lil Bling wants to follow in Tom’s footsteps but they are sizeable footsteps indeed. Will there be a future for Tom and Sugar Bijou or is she merely a trophy girlfriend?
@@ -848,7 +848,7 @@ Unknown3: 0x00000000
    [34B] 0x7C5D6A0AE9E595B0: Baird
    [34C] 0xB360D5CB8C9FDB2A: Barrington
    [34D] 0x7C08540AE99D300A: Barry
-   [34E] 0x7E424351838AF6A6: Barry has dreams of making it big in the restaurant scene downtown. He's got the skill, but will his slacker roomates hold him back?
+   [34E] 0x7E424351838AF6A6: Barry has dreams of making it big in the restaurant scene downtown. He's got the skill, but will his slacker roommates hold him back?
    [34F] 0x1A0B1376E73B3647: Bart
    [350] 0x7C05490AE99AE787: Basil
    [351] 0x1A193C76E747B94F: Beau
@@ -936,7 +936,7 @@ Unknown3: 0x00000000
    [3A3] 0x4B057A4AC89F7F74: Hannah
    [3A4] 0xBEC2AEC689379030: Hannah decided to move from the country to the big city with the intentions of following in her aunt's footsteps in the business of celebrities. Despite her interests in business she believes that her true calling is for television acting.
    [3A5] 0xE786085F82D79EB4: Harry
-   [3A6] 0x6A14C68B0E24FB8C: Harry is the youngster out of his roomates - a well-dressed ambitious student who enjoys studying art with Asian influences.
+   [3A6] 0x6A14C68B0E24FB8C: Harry is the youngster out of his roommates - a well-dressed ambitious student who enjoys studying art with Asian influences.
    [3A7] 0x918F9D00478C0E09: Hartley
    [3A8] 0x4051D24B5457F195: Harvey
    [3A9] 0xFA6D2F832FA6D663: Heimrich
@@ -1096,7 +1096,7 @@ Unknown3: 0x00000000
    [443] 0xD425AEFE82325B6C: Sun
    [444] 0x4DA8590D56D36E2D: Suzuki
    [445] 0xAE63D2773B916C91: Suzy
-   [446] 0xE7BB82F01E7E1A32: Suzy travelled a great distance to live in the city and immerse herself in its world renown indie rock music scene. She is a self proclaimed "music snob." Will her experiences in the city match her expectations?
+   [446] 0xE7BB82F01E7E1A32: Suzy traveled a great distance to live in the city and immerse herself in its world renown indie rock music scene. She is a self-proclaimed "music snob." Will her experiences in the city match her expectations?
    [447] 0x39E11764BC6B179C: Swizzle
    [448] 0x28764849F1D0581A: Takala
    [449] 0x67D3F9C38DD44653: Talia
@@ -1783,9 +1783,9 @@ Unknown3: 0x00000000
    [6F2] 0xD859F4D89193FEF1: Failing to show up for a performance is generally a bad thing. {OpTarget} is less than pleased.
    [6F3] 0x1FD6DE5D531228B6: Play Drums at {OpTarget}'s party to earn some money.
    [6F4] 0x31E8335D5D83F0E8: Percussion Party
-   [6F5] 0xBEAB63741661CDA4: Play Drums at {OpTarget}'s party .
+   [6F5] 0xBEAB63741661CDA4: Play Drums at {OpTarget}'s party.
    [6F6] 0xF63BA7C189830906: The beatnik crowd really dug your playing. In fact, they've made a pact to knit their berets to look like cymbals in honor of {OpOwner}.
-   [6F7] 0x849CFFCC394B3392: {OpTarget} is holding a beatnik poetry reading session. The usual attendants are really tired of snapping their fingers, so they're asking {OpOwner} to play a little bit of brushed cymbal a la beatnik. As a reward, the bookstore will give you a new composition.
+   [6F7] 0x849CFFCC394B3392: {OpTarget} is holding a beatnik poetry reading session. The usual attendants are really tired of snapping their fingers, so they're asking {OpOwner} to play a little bit of brushed cymbal à la beatnik. As a reward, the bookstore will give you a new composition.
    [6F8] 0xF6A9B3EF97AE0112: What a tragedy! Beatniks were forced to snap their own fingers during the poetry reading, leading to many blisters. The only benefit to {OpOwner}'s failure to perform is that bandage sales are up.
    [6F9] 0xBAFEE666D9F28C27: "Play for Beatniks" at {OpTarget} during the appropriate hours.
    [6FA] 0xA8EDB166CF80FA8D: Beating for Beatniks
@@ -1947,7 +1947,7 @@ Unknown3: 0x00000000
    [796] 0x274A7E3730F859FA: There were riots in the stands after the game. The fans had too much pent up energy that only organ-induced chants could have alleviated. 
    [797] 0x7A36BA8C7AC38C0F: "Play Organ" at {OpTarget} between the appropriate hours.
    [798] 0x68C9458C70DDA2C5: Charge!
-   [799] 0xDA2623E58DFD43F5: "Play Organ" at {OpTarget} .
+   [799] 0xDA2623E58DFD43F5: "Play Organ" at {OpTarget}.
    [79A] 0xE44ED92AB1B4D1D6: Congrats to {OpOwner} on doing a really great job! As a reward, the PR rep let you into the VIP Fish Boy viewing room. {OpOwner} is forever changed.
    [79B] 0x0DBC180B02498182: The Sim Star Tabloid is holding their annual weeklong marketing event at {OpTarget}. They would be honored if {OpOwner} would consider playing for some part of it.
    [79C] 0xDBD3CD154F83DF02: Oh no! {OpOwner} didn’t make it on time! Instead of enjoying {MA.his}{FA.her} playing, the press had to endure the singing of their tone-deaf CEO.

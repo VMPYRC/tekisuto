@@ -28,7 +28,7 @@ Unknown3: 0x00000000
    [017] 0xB7D53FEFE9DB7579: Simple Paneling with Crown and Baseboard Moulding - Right Edge
    [018] 0xBB0D813011513BBE: The Sims™ 3 Ambitions
    [019] 0x1673DB0E300E807E: The best alarms are those that are not only reliable, but so loud you can hear them one block away! The Fireman's Friend is guaranteed to wake-up sleeping neighbors, annoy dogs, and alert an entire fire station to danger, all within mere seconds of sounding.
-   [01A] 0xA6DC8490804CCAA2: This woodern barn is a perfect housing for storage or use as a covered workplace.
+   [01A] 0xA6DC8490804CCAA2: This wooden barn is a perfect housing for storage or use as a covered workplace.
    [01B] 0x9FB4E56761A24FF8: A good chair can be underrated. Alter the setting of someone's office chair and their world is turned upside down. Make things right in your office by purchasing The Drafter's Companion.
    [01C] 0x0EEB25D7711FBDD7: While the sound of the ocean waves may lull some to sleep, the sound of creaking springs works for others. As an extra, the Signs-of-Springs bed is pre-rusted for your sleeping pleasure.
    [01D] 0x65F2B7439D14BF80: This old boat has been abandoned for a long period of time. Its remaining uses are almost non-existent.
@@ -40,11 +40,11 @@ Unknown3: 0x00000000
    [023] 0x5CAD00C4B6606535: After years of cavorting about in trucks with wimpy sirens, fire chiefs everywhere clamored for a more awesome engine of fire fighting supremacy. Coupled with a bigger engine, louder siren, and longer ladder The Woo Woo 4000 is sure to please!
    [024] 0x7232027E43909C69: This unsalvageable piece of metal is no longer able to be of any use of its previous owner. Now it sits and await its doom.
    [025] 0x83A094D94C9803E1: Follow the trail on perplexing puzzles with this sturdy case board. Now with complimentary push pins!
-   [026] 0x05E26C1EEF6060F0: It's the chair that graces governor's mansions and presidential palaces. Guests will feel inclined to make small talk about how surprisingly comfortable it is. One thing is for sure: it will look stately sitting around the Simsonian Federal Dining Table.
+   [026] 0x05E26C1EEF6060F0: It's the chair that graces governor's mansions and presidential palaces. Guests will feel inclined to make small talk about how surprisingly comfortable it is. One thing is for sure: it will look stately sitting around the Simsonian Federal Dining Table.
    [027] 0x3542979C11357002: Nothing screams power and comfort more than The CEO Ergostical Chair. Made from power suit-infused plastic, this chair will last for years and years to come, unlike your pension.
    [028] 0x4A85BC144090F8E0: Sir Bumalot's Chair is the ideal seating solution for those looking for serious slack time. Designed by a man with a significant derriere, comfort is 100% guaranteed.
    [029] 0x740315BE007AD775: This homey chair is fashioned in a classic country style and crafted by hand using premium faux hardwoods. Colored with a non-hazardous, environmentally safe, soy based natural wood stain, The Eco Rustic is a must for any Sim trying to support the green scene, and be stylish too.
-   [02A] 0x01CBD3C92A949D86: Don't forget to remove the cardboard wrapped around the legs of this Wicker Living Chair. While a relaxing sit in this chair will embed wicker textures in the back of your legs, it's still a front porch classic.
+   [02A] 0x01CBD3C92A949D86: Don't forget to remove the cardboard wrapped around the legs of this Wicker Living Chair. While a relaxing sit in this chair will embed wicker textures in the back of your legs, it's still a front porch classic.
    [02B] 0x5A952E59309FA5D6: use base game text [Placeholder]
    [02C] 0x2BF819F13E5E6BD6: This ornate style column is derived from the Corinthian order of the Greek and Roman architecture. Its marvelous design and detailed engravings make this column surpass above all others.
    [02D] 0x581CE44D85AED894: Sometimes 'cozy' is a synonym for cheap. But in this case it means 'cute'. Really.
@@ -83,11 +83,11 @@ Unknown3: 0x00000000
    [04E] 0x2D31197F6AABADE6: Shades of Old Glory offers a traditional look with a twist of even more tradition. Made the same way for sixty years, it is grandmother approved. Grandmother not included.
    [04F] 0xE49C524BBB6DCE63: There's nothing more lonely than a single street light to shine the empty darkness. Will you be kind enough to pair this light up or will it be singled-out?
    [050] 0x93CF28B7FA26DD07: This very light post once marked the secret meeting place for the Sprout Army Spies. Conflict between the Sprouts and the Confectionaries was resolved peacefully when General Shwarma promised that neither side would ever go hungry again.
-   [051] 0x88528CDD81C64BBB: Rosana, avid gardener and an award winning topiary sculptor, sought a stylish light source to aid with her midnight pruning sessions. Unable to find something suitable, she commissioned this piece from a genius lamp maker in far away Veronaville. Guaranteed to attract birds, butterflies, and bugs.
+   [051] 0x88528CDD81C64BBB: Rosana, an avid gardener and award-winning topiary sculptor, sought a stylish light source to aid with her midnight pruning sessions. Unable to find something suitable, she commissioned this piece from a genius lamp maker in faraway Veronaville. Guaranteed to attract birds, butterflies, and bugs.
    [052] 0xCBBCA24FD5C821BD: Simple design and mega-function is the key to the Essence of Luminescence Lamp. In fact it's so utilitarian that the fanciest thing about it is its name.
    [053] 0x96070D94C4076BC0: Rodiek Radiance Inc. is proud that this fixture is the most popular among law enforcement light connoisseurs. When placed in sketchy areas, it is also the most literal of our fixtures: The Shady Business Illuminate helps brings shady business to light.
    [054] 0x5DF70A0DCB4E39ED: For centuries scholars questioned the origin of the word "sconce." It wasn't until recently where they unanimously agreed that it was a foreign word meaning "light thingy that hangs on the wall."
-   [055] 0x859C081DBC707AC7: Another Federal Collection classic: this loveseat says you don't have to try because you've got the real thing. It's got good bones and nice detailing on the legs. Designed to last a lifetime and a half, if you don't throw it out first.
+   [055] 0x859C081DBC707AC7: Another Federal Collection classic: this loveseat says you don't have to try because you've got the real thing. It's got good bones and nice detailing on the legs. Designed to last a lifetime and a half, if you don't throw it out first.
    [056] 0x4864F0A4033A0255: This quaint representation of a prehistoric cave dweller is a great conversation starter at parties.
    [057] 0x7E9B62EEDF7F5DBF: This magical gnome was geared out by a talented inventor!
    [058] 0xE1C21709EEE90B3B: You're not quite sure where in time you picked up this cute little gnome, but you do know that he makes a great addition to your living room décor.
@@ -102,7 +102,7 @@ Unknown3: 0x00000000
    [061] 0x2002D485ADD42112: Where could this antique have come from? Perhaps a wily globe-trotting gnome was trapped within by an evil scorceress? Or maybe it's a cheap knock-off? Either way, it's a beautiful music box.
    [062] 0x619F35555C00DE9B: Where could this antique have come from? Perhaps from the depths of an ancient tom under the sands of Al Simhara? Or maybe it's a just cheap knock-off? Either way, it's a beautiful music box.
    [063] 0x56FCBC3D63A12A1E: Where could this antique have come from? Perhaps from the depths of an ancient Shang Simla tomb? Or maybe it's a cheap knock-off? Either way, it's a beautiful music box.
-   [064] 0xC28B8F9F918AC151: This beautiful music box from exclusive designer OMG-IRL will delight anyone ... anyone who isn't a curmudgeon, anyway. It's sure to brighten any room and bring its delightful lilting tones to children young and old.
+   [064] 0xC28B8F9F918AC151: This beautiful music box from exclusive designer OMG-IRL will delight anyone... anyone who isn't a curmudgeon, anyway. It's sure to brighten any room and bring its delightful lilting tones to children young and old.
    [065] 0xCBEE3EF5087FF5F1: A drum full of oil.
    [066] 0x1EBE0FE3E09F70DA: This digital photo frame allows you to view all your pictures without ever having the need to develop them.
    [067] 0xC476918C6FAFAF30: This white version of the Hydrangea is also commonly used to decroate gardens and other lush locations. It is able to blend easily with other flowers and bushes to deliver that natural look.
@@ -129,10 +129,10 @@ Unknown3: 0x00000000
    [07C] 0x1F963C4EC97EE2A0: Wabaam! With Cleanesque Brand laundry detergent you're getting twice the cleaning power for half the price!! If you add it up, that’s like two-for-one of the other brand! Never forget that with Cleanesque Brand detergent you're getting clean clothes.
    [07D] 0xFA130042EAD22650: Wabaam! When normal Cleanesque Brand detergent just isn't enough, hit those tough stains with the power of the Cleanesque Detergent Bottle! Its bottle shape provides quadruple the cleaning power in an upright, easy to pour shape.
    [07E] 0xD4B2D156FDB31E66: Wabaam! The highly anticipated Cleanesque Brand dryer sheets are here! Throw one in your next dryer load and watch as it obliterates static from your favorite static infused clothes.
-   [07F] 0x1A66CF1CF27E0C5D: Here's an exquisite collectors edition to commemorate the final year that the Dalmatian 26 Company drove this open back wagon through the streets of Riverview.
+   [07F] 0x1A66CF1CF27E0C5D: Here's an exquisite collectors edition to commemorate the final year that the Dalmatian 26 Company drove this open back wagon through the streets of Riverview.
    [080] 0xE2E1F8692E4C6529: There are so many expressions that involve the term ‘head’...like ‘don’t let it go to your head’ or ‘your head is in the clouds today.’ Well, this head can be clear of that misty realm for it sits directly on terra firma, keeping your sculpture completely down to earth.
    [081] 0x212B844DDB621D7E: With our simple design comes a simple rule: Use Thor's Drawer when a tool box just isn't enough!
-   [082] 0x4BCD4AD0BD8A2DC7: A distinguished home for your best china. The dishware will glow with attention from adoring guests as they pour over the casing, the details, and peer through the crystal windows. It's best to take out an insurance policy on a piece like this. Someone just might walk out with it.
+   [082] 0x4BCD4AD0BD8A2DC7: A distinguished home for your best china. The dishware will glow with attention from adoring guests as they pour over the casing, the details, and peer through the crystal windows. It's best to take out an insurance policy on a piece like this. Someone just might walk out with it.
    [083] 0x7C3244238A480CEA: With interesting colors and textures clothing is, in fact, art. Pre-selected clothing in a lovely assortment acts as a beautiful bouquet to any setting.
    [084] 0x107D0F256F25EAC0: Artist Xavier Pleniforth explains his sculpture thusly: “While a fish out of water may signify an uncomfortable circumstance, remember that fish frequently jump out of water, at least for a moment. So too should we. In this way, we open ourselves to new discoveries.”
    [085] 0x3B5B189AC4A52E12: It is unknown when the worshipping of the Dark Emperor began or ended. This small statue is a pale example of the ancient terrors Sims in the past had to face down on an everyday basis.
@@ -221,10 +221,10 @@ Unknown3: 0x00000000
    [0D8] 0x67CF2C4AFA48C72F: For Sims who are brave (or maybe just foolish?) The Ink-in-Comfort 3000 is the classic approach to getting inked! Needles, an artist, and a steel will all combine for a memorable tattoo experience.
    [0D9] 0xDE6A263F53E7ADC7: The Time Machine is a unique, dimension and time bending device that provides a never before experienced adventure for any Sim!
    [0DA] 0xCD2EB86FB1830B6A: use base game text [Placeholder]
-   [0DB] 0xBF159C53AA68DBD7: This Cow is an excellent hand-crafted toy for children!
-   [0DC] 0xBF0ABC53AA5F0A1C: This Dog is an excellent hand-crafted toy for children!
-   [0DD] 0xC0ABFCC42652155E: This Robot is an excellent hand-crafted toy for children!
-   [0DE] 0xA004F0ACB281C9C1: This Whale is an excellent hand-crafted toy for children!
+   [0DB] 0xBF159C53AA68DBD7: This Cow is an excellent handcrafted toy for children!
+   [0DC] 0xBF0ABC53AA5F0A1C: This Dog is an excellent handcrafted toy for children!
+   [0DD] 0xC0ABFCC42652155E: This Robot is an excellent handcrafted toy for children!
+   [0DE] 0xA004F0ACB281C9C1: This Whale is an excellent handcrafted toy for children!
    [0DF] 0xF652A2233848A647: Jumpstart your day on a trampoline created by No-Liability Industries. Sure to provide hours of invigorating, at-your-own-risk fun for you and a friend. Great for kids too! Best used on an empty stomach.
    [0E0] 0x326A825C4192435E: Is it a fig? Is it a tree? It's both! Marvel at nature's efficiency with the best bang-for-your-buck tree around.
    [0E1] 0x43BECE47DBD704B7: Nothing delivers classic charm quite like a blooming Birch tree. Make a statement to your neighbors of your regal elegance with this simple addition to any yard.
@@ -305,7 +305,7 @@ Unknown3: 0x00000000
    [12C] 0xCABB9A2E0E5F3DDB: fence federal post name needs text-(DNT) See Alan if you see this text
    [12D] 0xF47D0029F0DBFAC6: Fire Hose
    [12E] 0x624EAE1CDFA71D16: The Shelby Mantle
-   [12F] 0x26D4B289E83D04D7: Federal Column Fireplace 
+   [12F] 0x26D4B289E83D04D7: Federal Column Fireplace
    [130] 0xE33AA0AD104D2C9E: The Speedy Pole
    [131] 0xA8720365F44F82E2: Burnt Rubble Pile
    [132] 0xAEE7A2AA6FC831E6: Fog Emitter
@@ -436,7 +436,7 @@ Unknown3: 0x00000000
    [1AF] 0x5F923A658DBE6585: Hanging Store Sign
    [1B0] 0x9465FA07C24EDDC8: The Medinator
    [1B1] 0x856035EB8B2E97E2: The Mini Miner
-   [1B2] 0xE2CBDED142A535AC: Mon Petite Chateau
+   [1B2] 0xE2CBDED142A535AC: Mon Petite Château
    [1B3] 0x05D2D933C84235BD: Skeletal Endowment
    [1B4] 0x0C47390D814BD1DB: Golden Fire Hydrant
    [1B5] 0xBF563716300D54FB: Paranormal Memento
@@ -634,7 +634,7 @@ Unknown3: 0x00000000
    [275] 0x1E4CB24D2B3579D2: 
    [276] 0x1E4CB24D2B3579D3: 
    [277] 0xD6ABA09EFD0BB328: 
-   [278] 0xDA27060AA359E18A: 1 Amphitheatre Parkway
+   [278] 0xDA27060AA359E18A: 1 Amphitheater Parkway
    [279] 0xC811C40A80713675: 900 Lakefront Drive
    [27A] 0xFA41B82024E781F0: 1500 Ivy Hill Road
    [27B] 0xF8C5B2540B929991: 1 Pickleberry Parkway
@@ -870,7 +870,7 @@ Unknown3: 0x00000000
    [361] 0xED59AA93E686F436: 
    [362] 0xED59A993E686F269: 
    [363] 0xED59A793E686EEDF: 
-   [364] 0x4445FAC8C9EB766B: Willowglen Amphitheatre
+   [364] 0x4445FAC8C9EB766B: Willowglen Amphitheater
    [365] 0x8A7703899FA7CAEF: Bistro Rouge
    [366] 0x862F891CEB5F9E90: Twinbrook Plaza
    [367] 0x5CE9DEA338880AB1: Lakeside Corporate Park
@@ -900,7 +900,7 @@ Unknown3: 0x00000000
    [37F] 0xC219224AD5A6875A: Juan's Pick 'n Pull
    [380] 0x5CA42309CF52CF6E: Whistlestop Day Spa
    [381] 0xD6968A8AD9B9E5CE: Riverside Professional Sports Complex
-   [382] 0x97412FFF495C9EFD: Twinbrook Theatre for the Perfoming Arts
+   [382] 0x97412FFF495C9EFD: Twinbrook Theater for the Performing Arts
    [383] 0x8C9ADAAF628CBA20: Twinbrook Town Center
    [384] 0xEA3DE7B0FE9FB227: Twinbrook Industrial Train Center
    [385] 0x73B4B8D0740D10EE: Vacant Lot
@@ -1023,7 +1023,7 @@ Unknown3: 0x00000000
    [3FA] 0x74E67C28B51E092E: From the cookhouse of an expensive restaurant to a backyard crawfish cookout, Mary Baker wields the tools of the kitchen with deft culinary skills and technique. So much so that she has made a nice little life for herself and her two sons. Just don’t cross her, unless you want to feel a mother’s wrath!
    [3FB] 0xAFDDFB9ED1034682: The origins of the Bayless name are a bit hard to track down. Written records (where legible) even two generations back use the "less," "liss" and even "lies" suffix varietals. Debt prison records from 1788 list one Phillipe Bai l'Est as a catfish-thief and "chronic renegor" but lineage is circumstantial at best, and like little Chase says, "Why y'all cares 'bout 'postrophes?"
    [3FC] 0x0162B7E433441C72: Marc has the smarts to be successful in just about whatever he wants in life, so… he joined the Military. The idea of a desk job just didn’t have the right kind of appeal for him… but we’ll see just how long Marc’s creative side can handle the rigidity of the corps. Maybe a profession with a little more artistic appeal would be better for Marc?
-   [3FD] 0x01AC72BEA02C53D0: Don’t be caught wearing last season’s shoes around this superfly fashionista! Amy’s hip to the scene in her neighborhood and knows a thing or two about what’s haute. Working part time hours down at the Day Spa to pay the bills, Amy’s dreams of being a Fashion Phenomenon are what keeps her going. Does she have the styling know how to make it?
+   [3FD] 0x01AC72BEA02C53D0: Don't be caught wearing last season's shoes around this superfly fashionista! Amy's hip to the scene in her neighborhood and knows a thing or two about what's haute. Working part-time hours down at the Day Spa to pay the bills, Amy's dreams of being a Fashion Phenomenon are what keeps her going. Does she have the styling know how to make it?
    [3FE] 0x0AE7DB581166315C: Lots of folks think young Ms. Carlton isn’t interested in much more than her good looks and trust fund. Not to say that this isn’t true, but deep down Sofia aspires to be much more than her inheritance… as long as it involves her popularity and a lot of partying. Can she prove the tabloids wrong?
    [3FF] 0xECC7AEFCD9895CE3: When Bob first analyzed Bev's profile on the dating site, he figured she was "the one." Simultaneously, the database beamed his dithered smile past the spam filter, right into her heart's inbox. He proposed on the 3rd date and the rest is history. But can they keep the secret to a "perfect marriage" private now that naughty little Jeffrey has begun tinkering with computers? What WILL the neighbors say!
    [400] 0xEC5FDF25D85DE700: After a rough upbringing with parents who were rarely there for him, Harwood poured his troubles into art. At the age of 16, Harwood was named “Child Prodigy” by Sculptors Weekly, thus beginning an illustrious career of artwork. Now in his twilight years, Harwood is keeping a low profile in his humble lakeside abode. Will his neighbors ever find out who he actually is?
@@ -1129,7 +1129,7 @@ Unknown3: 0x00000000
    [464] 0xB6229D288E292011: Emerald
    [465] 0x1B07028B09622C85: Little does Emerald know of all the great things her parents are doing for her future. Their focus on sustainability and healthy eating will no doubt propel her into a great lifestyle, despite the potential negative reputation issues she may face in school.
    [466] 0xA487A45266CABE47: Eva
-   [467] 0xCC96472FAB4902F4: Eva loves to read! Hanging onto every work, analyzing every sentence, she longs for the day that she'll leave her part time job at the book store and become a full fledged literature teacher in the Education career. 
+   [467] 0xCC96472FAB4902F4: Eva loves to read! Hanging onto every work, analyzing every sentence, she longs for the day that she'll leave her part-time job at the book store and become a full-fledged literature teacher in the Education career.
    [468] 0x5D5F8E04AAA0883A: Eyre
    [469] 0x0FFE9505C08B4955: Ferne
    [46A] 0xA4919C5266D3056A: Fly
@@ -1216,7 +1216,7 @@ Unknown3: 0x00000000
    [4BB] 0x917FB2C47A390FD3: Notzo
    [4BC] 0x27464E25ACDE2367: When he was born, Notzo's mother knew there was something special about her child. The question is, will he grow into the destiny that his mother foresaw, or will he take his own path?
    [4BD] 0x22F2AD00BDE0E99A: Oliver
-   [4BE] 0x277691524CD77952: Oliver has no shame in being the local grocery store clerk. He's held that position since he was just a teen, and everyone in the community likes him. Will he be able to continue raisin his children on a part time job's wages?
+   [4BE] 0x277691524CD77952: Oliver has no shame in being the local grocery store clerk. He's held that position since he was just a teen, and everyone in the community likes him. Will he be able to continue raising his children on a part-time job's wages?
    [4BF] 0x48BB794D318E3FA0: Pansy
    [4C0] 0x5376F185786711F2: Pansy absolutely adores her father and hangs on his every word. The question is, how will she handle his up close and personal style of parenting when she begins to grow up?
    [4C1] 0x00C7362B1FE98EBA: Parker
@@ -1292,7 +1292,7 @@ Unknown3: 0x00000000
    [507] 0x9AAABF5C3C6CF049: Tucker
    [508] 0x83D9B824169960CE: Ty
    [509] 0xA457A75266A19F14: Wei
-   [50A] 0x82580E1F44E2EAD8: Wei longs to lead the world, not from the political pulpit, but from the helm of a high tech mega-corporation. He's ambitious enough to do it, but is he willing to work the long hours and sacrifice his social life to get there?
+   [50A] 0x82580E1F44E2EAD8: Wei longs to lead the world, not from the political pulpit, but from the helm of a high-tech mega-corporation. He's ambitious enough to do it, but is he willing to work the long hours and sacrifice his social life to get there?
    [50B] 0x340DF631B52BE93A: Weller
    [50C] 0xEC270F9865DAD47C: Whelohff
    [50D] 0x517E732EF435F299: Wilhelmina
@@ -1507,7 +1507,7 @@ Unknown3: 0x00000000
    [5DE] 0x215D4A4B03802AA7: Ballot Buffoonery
    [5DF] 0x0406CC8BABE9D073: Snoop for Clues
    [5E0] 0xAE695FBA0CE6C0EB: {OpTarget} now has the evidence to contest the election. I'm sure the newspapers will have a field day with this scandal. I'm glad I did my part for local democracy. Case closed.
-   [5E1] 0xB0F132C657CAF271: Half the voters on the rolls are located in the cemetary. Last time I checked, the dead don't get a say in elections. Unless the local government has approved a law for absentee death voting, I think I've solved this case. I should report to {OpTarget}.
+   [5E1] 0xB0F132C657CAF271: Half the voters on the rolls are located in the cemetery. Last time I checked, the dead don't get a say in elections. Unless the local government has approved a law for absentee death voting, I think I've solved this case. I should report to {OpTarget}.
    [5E2] 0xAC15CD3341C0016A: "Report Findings" to {OpTarget}
    [5E3] 0x764DFA3322C61304: Ballot Buffoonery
    [5E4] 0xFC7EE235D8C7A5F0: Report Findings
@@ -1624,7 +1624,7 @@ Unknown3: 0x00000000
    [653] 0x05A41DBCA50AB792: Read {OpTarget}'s Journal
    [654] 0xD0142ABC8641895C: Someone's Fishy
    [655] 0xDC8D5F8DB09E0398: Read {OpTarget}'s Journal
-   [656] 0x2A7E4049E6A8DE30: This is unbelieveable. The lab technician had been doing research on goldfish… trying to turn them into real gold. Then, on "Take You Child To Work Day", their kid ran in front of the FishAlchemy ray to try to save the goldfish. Poor kid… the ray transformed him into something... inhuman. He disappeared one day leaving only a pile of apple cores on the kitchen table... Wait... what's this? Says the kid became obsessed with water. Maybe I should check out the pool.
+   [656] 0x2A7E4049E6A8DE30: This is unbelievable. The lab technician had been doing research on goldfish... trying to turn them into real gold. Then, on "Take You Child To Work Day", their kid ran in front of the FishAlchemy ray to try to save the goldfish. Poor kid... the ray transformed him into something... inhuman. He disappeared one day leaving only a pile of apple cores on the kitchen table... Wait... what's this? Says the kid became obsessed with water. Maybe I should check out the pool.
    [657] 0xF1EA4995B27A8309: "Snoop for Clues" at the pool
    [658] 0xBEB0749595AD7DFF: Someone's Fishy
    [659] 0x41DBD646F6114EDB: Snoop for Clues
@@ -1669,11 +1669,11 @@ Unknown3: 0x00000000
    [680] 0x72E9F57C48F94F62: "Report In" to {OpTarget}
    [681] 0x3FE6027C2C59A5CC: The Case of the Enthusiastic Fans
    [682] 0x36CEACB5030658A8: Report In
-   [683] 0xF88B97EF4DBEF17E: {OpSource} is convinced there are stalkers everywhere. I look over my shoulder and don't see anything, but hey, musicians can be dramatic at times. I should conduct a stakeout at the local theatre to see if any unwanted groupies gather.
-   [684] 0xA89335519D5C37F3: "Conduct Stakeout" at local theatre
+   [683] 0xF88B97EF4DBEF17E: {OpSource} is convinced there are stalkers everywhere. I look over my shoulder and don't see anything, but hey, musicians can be dramatic at times. I should conduct a stakeout at the local theater to see if any unwanted groupies gather.
+   [684] 0xA89335519D5C37F3: "Conduct Stakeout" at local theater
    [685] 0xDF340851BD0E1661: The Case of the Enthusiastic Fans
    [686] 0xB8474E6BEFCC0BE1: Conduct Stakeout
-   [687] 0xD6EE1AFFECB344FF: There's nothing going on around the theatre -- perhaps I'm not being subtle enough? I bet these stalkers were clumsy enough to leave behind evidence at the park, which is the site of {OpSource}'s last show. I should snoop for clues in the park.
+   [687] 0xD6EE1AFFECB344FF: There's nothing going on around the theater — perhaps I'm not being subtle enough? I bet these stalkers were clumsy enough to leave behind evidence at the park, which is the site of {OpSource}'s last show. I should snoop for clues in the park.
    [688] 0xA6B0E977F2903104: "Snoop for Clues" at main park
    [689] 0xD9B4DE780F2FDE26: The Case of the Enthusiastic Fans
    [68A] 0x03F7F7B880D37E66: Snoop for Clues
@@ -1865,11 +1865,11 @@ Unknown3: 0x00000000
    [744] 0xB4F947DAFF7FECC5: "Report In" to {OpTarget}
    [745] 0xC7419ADB0A20F3E3: In the Name of Love
    [746] 0xDB41FDEAB26BB63F: Report In
-   [747] 0xF7760BBAE7615F56: {OpTarget} believes that something shady is going on at the super market. I should go talk to {OpTargetFirstName} and find out exactly what's going on.
+   [747] 0xF7760BBAE7615F56: {OpTarget} believes that something shady is going on at the supermarket. I should go talk to {OpTargetFirstName} and find out exactly what's going on.
    [748] 0x7F56A950142D7AEB: "Interview" Client
    [749] 0xB25A9C5030CD2469: The Case of the Price Gouged Produce
    [74A] 0xC2FA3128D63DAA59: Interview Client
-   [74B] 0x31D75F56E00E98C1: My client feels the super market is price gouging and wants me to find dirt on the business to use as leverage to get prices lowered. I should purchase {OpNumItemsGoal} tomatoes and take them to the science lab to conduct a few experiments on them.
+   [74B] 0x31D75F56E00E98C1: My client feels the supermarket is price gouging and wants me to find dirt on the business to use as leverage to get prices lowered. I should purchase {OpNumItemsGoal} tomatoes and take them to the science lab to conduct a few experiments on them.
    [74C] 0xCCC8C33DC57C5C7A: Purchase {OpNumItemsGoal} Tomatoes and "Conduct Experiments" at the local Science Facility
    [74D] 0x998EB03DA8AEECB4: The Case of the Price Gouged Produce
    [74E] 0xBB801CA9AA1C3640: Conduct Experiments
@@ -1881,11 +1881,11 @@ Unknown3: 0x00000000
    [754] 0x35CA4568CFAFBC18: "Discuss Tomato Properties" with {OpTarget}
    [755] 0x2381F268C50EB5F2: The Case of the Price Gouged Produce
    [756] 0xB3BDBEBEBA9DCE52: Speak to {OpTarget}
-   [757] 0x9F8B67C217E14F22: {OpSource} is impressed, but being the skeptical type, concern was expressed as well. Doc {OpSourceFirstName} claims that nothing works that well. Too bad I feel great, eh? I should snoop for clues at the local super market…see if something turns up.
+   [757] 0x9F8B67C217E14F22: {OpSource} is impressed, but being the skeptical type, concern was expressed as well. Doc {OpSourceFirstName} claims that nothing works that well. Too bad I feel great, eh? I should snoop for clues at the local supermarket... see if something turns up.
    [758] 0xCD439354F7A37637: "Snoop for Clues" at local Supermarket
    [759] 0xBB321E54ED31787D: The Case of the Price Gouged Produce
    [75A] 0xBF0A6FA6D1A393FD: Snoop for Clues
-   [75B] 0x1FCCE75D996A988D: I found an odd chemical compound around the super market. If my school years serve me right, it's the compound HyroSimoxoNooper. Why would this be in a tomato of all things? I should hack the scientific database and do some research.
+   [75B] 0x1FCCE75D996A988D: I found an odd chemical compound around the supermarket. If my school years serve me right, it's the compound HyroSimoxoNooper. Why would this be in a tomato of all things? I should hack the scientific database and do some research.
    [75C] 0xD2EABB2EA5A2FCC6: "Hack" Scientific Database on a Computer
    [75D] 0xE196102EAD319B18: The Case of the Price Gouged Produce
    [75E] 0x341D84FE86701834: Hack Scientific Database
@@ -2051,8 +2051,8 @@ Unknown3: 0x00000000
    [7FE] 0xC739E70888CDFB89: "Phone Intelligence Agency" on phone to decipher evidence
    [7FF] 0x940012086C00F67F: The Case of the Bermuda Triangle Love Triangle
    [800] 0xACEC877A9A568F5B: Phone Intelligence Agency
-   [801] 0x803635D22F3EBE99: It turns out my contact at the intelligence agency has run across all of the names before. Each one is an alias of a well-known con-artist, a local musician. I'm going to catch the con backstage at the theatre. Ha ha!
-   [802] 0xDAF3BB2F7B5E3012: "Catch Con-Artist" at the local Theatre
+   [801] 0x803635D22F3EBE99: It turns out my contact at the intelligence agency has run across all of the names before. Each one is an alias of a well-known con-artist, a local musician. I'm going to catch the con backstage at the theater. Ha ha!
+   [802] 0xDAF3BB2F7B5E3012: "Catch Con-Artist" at the local Theater
    [803] 0xA563C82F5C9501DC: The Case of the Bermuda Triangle Love Triangle
    [804] 0x479E10C154E34418: Catch Con-Artist
    [805] 0x4B1306669F74931A: For a split second I watch {OpTarget}'s heart beat so strongly I thought the planet was turning. It was touching, but really it is all for the best. {MB.He}{FB.She} re-allocated funds {MB.he}{FB.she} was going to spend on a romantic vacation to pay me my fee. Case closed.
@@ -2478,9 +2478,9 @@ Unknown3: 0x00000000
    [9A9] 0x62EEE606A7736978: The Priciples of Principals
    [9AA] 0x4F8E384CE1802094: Read Education book.
    [9AB] 0xB66F3C610B4C5040: The dance went off without a hitch. Seems the students didn't want to try any funny business with you around. Your boss was very impressed.
-   [9AC] 0x7FF0F4968AF6E264: The students have a big dance tonight at the theatre and your boss needs another chaperone. If you go to the theatre after work tonight and watch the kids you'll gain some job performance.
+   [9AC] 0x7FF0F4968AF6E264: The students have a big dance tonight at the theater and your boss needs another chaperone. If you go to the theater after work tonight and watch the kids you'll gain some job performance.
    [9AD] 0xC8589EFE482BEDA8: Why didn't you go to the dance? Who knows what kind of trouble those kids got into!
-   [9AE] 0x11448FFB29EA29BD: "Chaperone Dance" at the Theatre tonight
+   [9AE] 0x11448FFB29EA29BD: "Chaperone Dance" at the Theater tonight
    [9AF] 0x2355E2FB345BEE4B: Chaperone the Dance
    [9B0] 0x7B3955D638F65057: Chaperone Dance
    [9B1] 0xADE547D73A011C07: The students had a great time and learned a lot. Your boss was also impressed at your dedication to your students.
@@ -2556,8 +2556,8 @@ Unknown3: 0x00000000
    [9F7] 0xAEB1251B9036E9B7: Best. Haunted. House. Ever.
    [9F8] 0x398E6ADCB3136C23: {OpNumItemsCurrent}/{OpNumItemsGoal} spirits.
    [9F9] 0xC285C017C056203D: The director loved the spirits… truly terrfiying! The audience won't even know what hit them.
-   [9FA] 0x80EFC4E93269A933: The theatre director is trying to put on a horror themed play, but he thinks that the props they have are just not spooky enough. He'd like {OpOwner} to bring in {OpNumItemsGoal} spirits to the Theatre.
-   [9FB] 0xD2DEF90A66638328: "Deliver" {OpNumItemsGoal} spirits to the Theatre.
+   [9FA] 0x80EFC4E93269A933: The theater director is trying to put on a horror themed play, but he thinks that the props they have are just not spooky enough. He'd like {OpOwner} to bring in {OpNumItemsGoal} spirits to the Theater.
+   [9FB] 0xD2DEF90A66638328: "Deliver" {OpNumItemsGoal} spirits to the Theater.
    [9FC] 0xC097A60A5BC42FE2: Spooky Props
    [9FD] 0x2F6E4CF0295470A2: {OpNumItemsCurrent}/{OpNumItemsGoal} spirits.
    [9FE] 0x035CB904F748C612: Those spirits really spooked those criminals. They were running around, hopping on tables and squealing!
@@ -2641,7 +2641,7 @@ Unknown3: 0x00000000
    [A4C] 0xDF80DBC57B4E3B7B: Tons of Toys
    [A4D] 0x26DFAE4A2B1B4FE7: {OpNumItemsCurrent}/{OpNumItemsGoal} Crafted Toys
    [A4E] 0xAA9C3B4EA12D5E94: The widgets were exactly what the business wanted. The executives are already fighting over who gets what widget! {OpOwner} was able to hang out with the chief technology officer and learned some Inventing tips!
-   [A4F] 0x04285EBD1F3EAD00: One of the up and coming businesses at {OpTarget} is interested in improving their looks and tech savviness. They would like {OpOwner} to build them a bunch of cool looking Widgets that they can strategically place throughout their offices to bolster their image. {OpOwner} will be paid well for the work and may even be shown some trade secrets.
+   [A4F] 0x04285EBD1F3EAD00: One of the up-and-coming businesses at {OpTarget} is interested in improving their looks and tech savviness. They would like {OpOwner} to build them a bunch of cool looking Widgets that they can strategically place throughout their offices to bolster their image. {OpOwner} will be paid well for the work and may even be shown some trade secrets.
    [A50] 0x6469E5CD7FBD7D19: Build {OpNumItemsGoal} Widgets and deliver them to the Business Office for a cash reward, an inventing skill boost, and relationship boost with the Business associates.
    [A51] 0x3208D0CD63A7FBEF: Intelligence Through Environment
    [A52] 0xF8C85CD6F9FFA22B: {OpNumItemsCurrent}/{OpNumItemsGoal} Widgets
@@ -2694,7 +2694,7 @@ Unknown3: 0x00000000
    [A81] 0x68D84D4AB8CF2718: {OpNumItemsCurrent}/{OpNumItemsGoal} Topiaries
    [A82] 0x603E04EBAD4944A6: The Endowment was pleased with {OpOwner}'s progress, but tested {OpOwner} mercilessly to ensure there was skill gain. In the end they were satisfied! {OpOwner} even learned a thing or two from the relentless test process.
    [A83] 0x6BC387F4820C1AB2: The Endowment for the Sim Arts seeks to improve the quality of life for growing artists and help them find more time to focus on their art. Their recent fact-finding has discovered that {OpOwner} is a burgeoning sculptor and could benefit from the Endowments budget. The Endowment will pay once {OpOwner}'s Sculpting Skill is improved.
-   [A84] 0x9BDB17114FBFFCC7: Gain a skill level in Sculpting then report to the Theatre for a cash reward and a sculpting skill boost.
+   [A84] 0x9BDB17114FBFFCC7: Gain a skill level in Sculpting then report to the Theater for a cash reward and a sculpting skill boost.
    [A85] 0x89C9E211454E6B2D: The Importance of Sculpting
    [A86] 0x8FF5F362A0016ACD: Gain a skill level in Sculpting
    [A87] 0xAD640C6E47D3E41E: {OpTargetFirstName} was quite pleased with the sculpture and even threw in a nice bonus for {OpOwner}'s hard work.

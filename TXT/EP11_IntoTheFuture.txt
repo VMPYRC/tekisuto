@@ -80,7 +80,7 @@ Unknown3: 0x00000000
    [04B] 0x5D0C0094D22601C2: Delightfully Oversized Flower
    [04C] 0xD5B2B13FA8F5D3B9: Traditional easels are a pain. Who wants to handle toxic paints and store stacks of old canvas? Holo-Easels are all-digital, taking your artwork into a dazzling new age!
    [04D] 0x3A71472751FA6876: Elevators are terribly crude if you think about it. Moving a whole room from one floor to another? Barbaric! It’s much more efficient to move single Sims with anti-gravity tech.
-   [04E] 0x027351CC65356518: Hide unsightly grass and dirt with this high tech concrete. Guaranteed to never crack or chip!
+   [04E] 0x027351CC65356518: Hide unsightly grass and dirt with this high-tech concrete. Guaranteed to never crack or chip!
    [04F] 0x40AC2CE6806A4C57: Real dirt is so passé. Enjoy the look and feel of dirt without the mess using the latest in simulation technology.
    [050] 0xDED38698E18D67FF: Enjoy the look of fresh grass without the effort! This great looking grass never needs mowing.
    [051] 0x75BE4784BA13F2FD: Offers all the same benefits of the great looking Dark Rural Grass, but in a lighter color.
@@ -145,7 +145,7 @@ Unknown3: 0x00000000
    [08C] 0xCDEFD8EE5DE17626: Named for the proud and majestic water buffalo, the Bubalus HoverVan is perfect for transporting lots of Sims. Six seats and spacious interior should keep your children from bickering.
    [08D] 0xF198813758CEE0E1: Spawns nanites for the Bot Workshop
    [08E] 0x47ADB6C926D4BFE7: Launch yourself skyward for thrilling adventures with this personal jetpack! Patented gyroscopes ensure your basic safety, and it’s got enough juice to take other Sims on tandem rides.
-   [08F] 0x12FFD571616A609D: With anti-gravity being so prevalent now-a-days, it’s sometimes nice to experience it in all its glory! The SkySwoop Slide will bring your children the utmost adoration, at least until they learn about video games.
+   [08F] 0x12FFD571616A609D: With anti-gravity being so prevalent nowadays, it's sometimes nice to experience it in all its glory! The SkySwoop Slide will bring your children the utmost adoration, at least until they learn about video games.
    [090] 0x3CC2DA4D64ECF19E: Did you know that only 30% of Sims can locate their local Library? Well, that statistic can only be looked up…in the Library! Use this glowing sign to find it.
    [091] 0x4C3502B15B074AF3: Powered by glowing fiber-optic cables, these delicate ceiling lights illuminate your home like a cityscape on a rainy night. Bright walls and dramatic shadows are sure to leave lasting memories.
    [092] 0x6C6F5296072EF4C3: Cast any living space in a cool postmodern glow! This freestanding floor lamp mimics the distinctive soundwave signature of whale song. If only whales still existed…
@@ -191,7 +191,7 @@ Unknown3: 0x00000000
    [0BA] 0x34D53B6DE38B0FFC: Universe’s End
    [0BB] 0x9E94971F342FC8D6: Alien Pedestal
    [0BC] 0xABB45189833927A5: HoloPhone
-   [0BD] 0xFF7D2583580937CA: What park would be complete without picnic tables? Eating outdoors is as important as ever, especially since  indoor living and sedentary work make every bit of Sun exposure precious.
+   [0BD] 0xFF7D2583580937CA: What park would be complete without picnic tables? Eating outdoors is as important as ever, especially since indoor living and sedentary work make every bit of Sun exposure precious.
    [0BE] 0x8391E69AADC62AE4: Crystal Plant
    [0BF] 0x3EEAA2356CCA0462: A sensuously curved base supports this high-quality pool table, with glowing buffers to complete the visual spectacle. Features new Zero Drag Felt, turning every shot into a true physics puzzle!
    [0C0] 0xD7D561663E10FA99: Built in another dimension by the mysterious Time Traveler, this artifact allows transit between the Present and the Future. Events in the former may profoundly impact the latter.
@@ -287,7 +287,7 @@ Unknown3: 0x00000000
    [11A] 0x8228EB6FAF131097: Legacy Statue
    [11B] 0x3A99642032D43DEB: Explore the cosmos and unlock the greatest mysteries of the universe. Fun for Sims of all ages!
    [11C] 0xB786517D54B69D83: Fill any room, home or mountain range with thunderous sound from the Oryx stereo! Circular speakers broadcast at high volume while vibrating like the prongs of a tuning fork.
-   [11D] 0x5DAA0C2149851155: Venus is both a beautiful goddess and a scalding wasteland of a planet.  This stove’s gorgeousness recalls the former, and its insanely powerful oven resembles the latter.
+   [11D] 0x5DAA0C2149851155: Venus is both a beautiful goddess and a scalding wasteland of a planet. This stove's gorgeousness recalls the former, and its insanely powerful oven resembles the latter.
    [11E] 0xD8DBAD3E7FDD6BA8: Swing sets are a classic part of growing up. The fun doesn’t fade with time, technology or age. If your rear fits on the seat, go for it! 
    [11F] 0x45309874C9686D87: Set down snacks and drinks on this table’s clear surface. Admire the verdant greenery sealed into its base. TerraFormation: it’s like a picnic, without all the messy nature.
    [120] 0x833C875BED56FC7F: Evoking the engines of some advanced starship, this dining table rises majestically from a narrow base to a broad glass face. Eat your meals at warp speed!
@@ -871,7 +871,7 @@ Unknown3: 0x00000000
    [362] 0xD44A178D6B1FEC82: Once used by early settlers of Oasis Landing, this fishing hole has been forgotten, except by the local neighbors.
    [363] 0xD2ACC1B62EE8019B: Nothing says future like being in The Erutuf! Oasis Landing’s downtown lounge is the place to be.
    [364] 0xD2ACC1B62EE80198: Gorgeous plants and a low key atmosphere draw in Sims from all over. When you gotta take a chill, Loel’s got your back!
-   [365] 0xD2ACC1B62EE80199: Relax the old fashioned way without the high tech contraptions that complicate life.
+   [365] 0xD2ACC1B62EE80199: Relax the old-fashioned way without the high-tech contraptions that complicate life.
    [366] 0xBAB38A1F48BA9914: Shop till you drop! We offer the latest and most exotic of imported products on display and ready to sell!
    [367] 0x470ED34FD3A56192: The final destination when a Sim moves on… Keep your voice down and respect the resting!
    [368] 0x88839DE788A04278: Suffering from Time Sickness or in need of scientific research? We’ll serve you with a smile and guarantee our work.
@@ -1943,7 +1943,7 @@ Unknown3: 0x00000000
    [792] 0x4040063106D7D8F7: Stop Using Jetpack
    [793] 0xB55F62D286776E7A: Wearing Jetpack
    [794] 0x4E5C8ABFFB0961BF: There is no Plumbot Competition Arena to compete in
-   [795] 0x0D95206793A0AB11: {0.SimFirstName} found this Nanite too challenging to sucessfully reverse engineer.
+   [795] 0x0D95206793A0AB11: {0.SimFirstName} found this Nanite too challenging to successfully reverse engineer.
    [796] 0x5AB2B5F7A40FA3C8: You have successfully reverse engineered a {0.String} Nanite.
    [797] 0x4069801EC3437097: You have successfully reverse engineered {0.String} Nanite and received {1.String}.
    [798] 0xDF0C16B8BB0D19E9: You have successfully reverse engineered a {0.String} Nanite and received the following: {1.String}.
@@ -1985,14 +1985,14 @@ Unknown3: 0x00000000
    [7BC] 0xA36A17D7EF49AB6A: Automating Plumbots...
    [7BD] 0xA36A17D7EF49AB6B: Measuring Singularity...
    [7BE] 0xC5AD86FE6669EF93: There can only be one lot assigned as a Community Living Center. Please change the existing Community Living Center's lot type before continuing.
-   [7BF] 0xF52A3BC1714C3026: You cannot change active household when travelling through time.
+   [7BF] 0xF52A3BC1714C3026: You cannot change active household when traveling through time.
    [7C0] 0x7DE49DFE42BCC0EB: There is currently no Community Living Center. One must be created before returning to game.
    [7C1] 0x25E75CD05241E8FC: No game disc found! Please insert The Sims™ 3 Into the Future disc before proceeding.
    [7C2] 0x2D76800CB4CAE7D8: No game disc found! Please insert The Sims™ 3 Into the Future disc before proceeding.
    [7C3] 0xB6B786920903D587: Earn enough Lifetime Happiness and purchase the Time Remote! This will allow you to instantly change the future to whichever of the three alternate timelines you’d like.
    [7C4] 0x7DAF31255183D455: The Bot Shop is the place to buy and sell Plumbots. A higher quality Plumbot will fetch more Simoleons when being sold!
    [7C5] 0xB6B786920903D584: Time Sickness can be fatal, so be sure to head over to the Hospital for a cure. A higher Advanced Technology skill will reduce the chance of getting Time Sickness.
-   [7C6] 0xB6B786920903D585: Be careful when syphoning power with a Plumbot! There’s a chance it could break your appliance!
+   [7C6] 0xB6B786920903D585: Be careful when siphoning power with a Plumbot! There's a chance it could break your appliance!
    [7C7] 0xB6B786920903D582: Want a place of your own to live in while at Oasis Landing? Use the Real Estate services on your phone to purchase a home.
    [7C8] 0xB6B786920903D583: Is your Sim having a bad dream while using the Dream Pod? Choose Influence Dream while they’re dreaming and their nightmare could turn into a pleasant dream!
    [7C9] 0xB6B786920903D580: Sims with low Advanced Technology skill aren’t familiar with the exotic future technology and will experience more failures. Gaining a higher Advanced Technology skill will reduce the amount of failures.
