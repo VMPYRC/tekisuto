@@ -22011,7 +22011,7 @@ Unknown3: 0x00000000
    [055F6] 0x47921F5044C70852: You get to meet all sorts of folks in jail. What a great opportunity to make some new friends.
    [055F7] 0x87E7D4BAD4D18274: Passing Time
    [055F8] 0x7108A5F67AC5BC52: Just trying to get through the days without making friends or enemies.
-   [055F9] 0x639978BE5C5E2580: Play Dominos
+   [055F9] 0x639978BE5C5E2580: Play Dominoes
    [055FA] 0xB2F3C9AED047E7AE: There aren't a lot of options for having fun in jail. Playing dominoes is one of them.
    [055FB] 0xDB59DE6D9F5CBC58: We'll be taking all of your belongings during your visit. We don't want the other inmates to be jealous of your {0.String}.
    [055FC] 0xDB59DE6D9F5CBC5B: You can pick up your belongings on the way out. We don't want you trying to escape using your {0.String}.
