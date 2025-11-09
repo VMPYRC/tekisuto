@@ -9085,8 +9085,8 @@ Unknown3: 0x00000000
    [02378] 0x1A694D554FA4D405: Whether it’s a sleight of hand, a “great investment opportunity”, or falsified papers, the Con Artist has everything the customers need... or think they need. Few can truly turn crime into an artistic expression. You either got it, or you don’t.
    [02379] 0x33390EB98C40D1C5: Don’t let the uniform fool you – being a Henchman is serious business. Get close to The Leader and learn all that he has to offer. Carry out the evil machinations of those above you, and never question anything.
    [0237A] 0xCD8CB3B0E76550A0: Don’t let the uniform fool you – being a Henchman is serious business. Get close to The Leader and learn all that he has to offer. Carry out the evil machinations of those above you, and never question anything.
-   [0237B] 0xE65908CBB1100B89: Tick. Tock. Click! You must have the hands of a surgeon and the ears of a jackal to successfully manipulate the intricate mechanisms of a safe. And when all else fails, load it up with dynamite! Tick. Tock. Tick.... BOOM!\nYou now also have access to the Sneak interaction.
-   [0237C] 0x12844EF489E9851C: Tick. Tock. Click! You must have the hands of a surgeon and the ears of a jackal to successfully manipulate the intricate mechanisms of a safe. And when all else fails, load it up with dynamite! Tick. Tock. Tick.... BOOM!\nYou now also have access to the Sneak interaction.
+   [0237B] 0xE65908CBB1100B89: Tick. Tock. Click! You must have the hands of a surgeon and the ears of a jackal to successfully manipulate the intricate mechanisms of a safe. And when all else fails, load it up with dynamite! Tick. Tock. Tick... BOOM!\nYou now also have access to the Sneak interaction.
+   [0237C] 0x12844EF489E9851C: Tick. Tock. Click! You must have the hands of a surgeon and the ears of a jackal to successfully manipulate the intricate mechanisms of a safe. And when all else fails, load it up with dynamite! Tick. Tock. Tick... BOOM!\nYou now also have access to the Sneak interaction.
    [0237D] 0xAA613E405F1BD10A: Sidekickhood comes with many perks, most notably being one step closer to The Leader and working under a true mastermind – the Super Villain. Take note, wreak havoc as you see fit, and serve The Organization as best you can.
    [0237E] 0xA210FD19E2B2FBB9: Sidekickhood comes with many perks, most notably being one step closer to The Leader and working under a true mastermind – the Super Villain. Take note, wreak havoc as you see fit, and serve The Organization as best you can.
    [0237F] 0x7A9622DEF04AB038: The time for big pay-outs and leading the heist is upon you. Bank Robbers need to pick the bank, scope the joint, plan the timing, then get in and out before the coppers are on to the team.
@@ -43992,7 +43992,7 @@ Unknown3: 0x00000000
    [0ABD3] 0x478C8243B34002F8: Hot Date Outfit
    [0ABD4] 0x46A343566DDBFCC1: {Variation.3}
    [0ABD5] 0x387FE6F9A2DC2575: I sweat a lot. It's pretty bad. If you could style me in fantastic athletic wear then maybe people will notice my outfit instead of all the sweat.
-   [0ABD6] 0x387FE6F9A2DC2576: Just because I'm exercising doesn't mean I shouldn't look my best... not that it's hard for me, but you know..... I need athletic wear. 
+   [0ABD6] 0x387FE6F9A2DC2576: Just because I'm exercising doesn't mean I shouldn't look my best... not that it's hard for me, but you know... I need athletic wear.
    [0ABD7] 0x387FE6F9A2DC2577: I frequent the gym, but I never really put any thought into how I look. I heard a rumor, though, that a there might be a new fancy gym opening soon and I need to look my best!
    [0ABD8] 0x147BEB16A79887EB: StylistCareerChangedIntroKey
    [0ABD9] 0xEA6B2C4C284A9B79: Changed Job Wardrobe
@@ -44057,7 +44057,7 @@ Unknown3: 0x00000000
    [0AC14] 0x22BA34B6A81DE1D4: I have a wonderful imagination. In fact, I enjoy acting it out on my own time. Today, I will be imagining that I'm royalty, so please give a fancy look that won't disappoint.
    [0AC15] 0x22BA34B6A81DE1D5: Apparently some long-lost relative of mine is having a black-tie garden party in some far off land. I'm going to need a really fancy look if I'm going to fit in with my newly found relatives.
    [0AC16] 0x1510C71A463FA835: {Variation.3}
-   [0AC17] 0x24151AFF02C35DC1: The idea of a tie has always baffled me. It's just a strip of fabric hanging from a shirt and yet considered fashionable. Huh.... Anyway, I digress. I'd really like a new formal outfit.
+   [0AC17] 0x24151AFF02C35DC1: The idea of a tie has always baffled me. It's just a strip of fabric hanging from a shirt and yet considered fashionable. Huh... Anyway, I digress. I'd really like a new formal outfit.
    [0AC18] 0x24151AFF02C35DC2: My psychic powers are telling me that I'm going to need new formalwear. My powers are a little fuzzy, however, on whether or not I'll like the outfit you style for me.
    [0AC19] 0x24151AFF02C35DC3: I need new formalwear for the Botanist's Ball. I'm already nervous about which plant I will take with me, so help me feel at ease by not having to worry about my outfit.
    [0AC1A] 0xAA10194033F0E8DA: {Variation.3}
@@ -46045,7 +46045,7 @@ Unknown3: 0x00000000
    [0B3D8] 0x4E81661631BAF7B9: SimBots can't use the {0.ObjectName}.
    [0B3D9] 0xB13C4BC5F0E4BDE7: You cannot add a SimBot to your family at this time because your active Sim is in a vacation world.
    [0B3DA] 0x062D6663B68A5221: Introduce to Sim
-   [0B3DB] 0x42F0255C703BBE1D: My sensors detect that have you no room for me in your house. I am deeply saddened that I cannot join you. Farewell....friend.
+   [0B3DB] 0x42F0255C703BBE1D: My sensors detect that have you no room for me in your house. I am deeply saddened that I cannot join you. Farewell... friend.
    [0B3DC] 0x66CAAA24FF060947: Hello, buddy. Let's be best friends! Together we can scour the junkyard for scrap, compare oil brands, and enjoy trivial entertainments! What fun!
    [0B3DD] 0x9D98E6656C22EAE4: Hello buddy. My proximity sensors are not picking you up, so I will be waiting for you on your home lot.
    [0B3DE] 0x091CA933A8D27003: Reward Object Not Purchased
@@ -48621,7 +48621,7 @@ Unknown3: 0x00000000
    [0BDE8] 0x305339603F6EC9C7: Looks like the party is somewhere else tonight. This place is going to be boring! Time to find out where everyone is really hanging out.
    [0BDE9] 0x305339603F6EC9C0: Where is everybody? Not here, that's for sure! There must be a place nearby that is more happening.
    [0BDEA] 0x305339603F6EC9C1: Right now, this place is as hot as Connor Frio with a bad case of hypothermia. There must be a more popular spot to party tonight!
-   [0BDEB] 0x305339603F6EC9C2: Wow...this place is boppin'....not! Everyone must be at a different club that isn't dead.
+   [0BDEB] 0x305339603F6EC9C2: Wow... this place is boppin'... not! Everyone must be at a different club that isn't dead.
    [0BDEC] 0x305339603F6EC9C3: Hmm...I guess this is the place to be if you like to have the entire bar to yourself. Otherwise, it's time to hit another club and find the party.
    [0BDED] 0x305339603F6EC9CC: This place must have been really cool...yesterday! Looks like the real party is somewhere else.
    [0BDEE] 0x305339603F6EC9CD: Um, this place is packed...with a whole lot of nothing. Let's get out of here and find the real party spot for the night.
@@ -55434,8 +55434,8 @@ Unknown3: 0x00000000
    [0D885] 0x4E4386ABA0720DE3: Win {0.Number} International Jumping Competitions
    [0D886] 0xFFAAE2149A143CB4: Win {0.Number} International Jumping Competitions
    [0D887] 0xE3A6D9C26B35B920: Win {0.Number} International Jumping Competitions
-   [0D888] 0x8E88145D68168FA5: Welcome to the Beginner Circuit, Newbie's Row, Amateur Hour.... It's time to show them that you can out ride an Ice Cream Truck with three flat tires! Your Sim wants to Enter a Beginner Racing Competition.
-   [0D889] 0x1164425FB863A5A7: Welcome to the Beginner Circuit, Newbie's Row, Amateur Hour.... It's time to show them that you can out run an Ice Cream Truck with three flat tires! Your horse wants to enter a Beginner Racing Competition.
+   [0D888] 0x8E88145D68168FA5: Welcome to the Beginner Circuit, Newbie's Row, Amateur Hour... It's time to show them that you can out ride an Ice Cream Truck with three flat tires! Your Sim wants to Enter a Beginner Racing Competition.
+   [0D889] 0x1164425FB863A5A7: Welcome to the Beginner Circuit, Newbie's Row, Amateur Hour... It's time to show them that you can out run an Ice Cream Truck with three flat tires! Your horse wants to enter a Beginner Racing Competition.
    [0D88A] 0x9AD684FBF45999F8: Enter a Beginner Racing Competition
    [0D88B] 0xF6465EF0522AE4B5: Enter a Beginner Racing Competition
    [0D88C] 0x999368DD548AA18F: Enter a Beginner Racing Competition
@@ -68167,7 +68167,7 @@ Unknown3: 0x00000000
    [10A42] 0xC87BDFE381496598: Oooooo, ghosts! {0.SimFirstName} can control the forces of other planes by summoning ghosts to haunt Sims unfortunate enough to cross {MA.his}{FA.her} path with the Haunting Curse. Be wary though, the consequences for failure can be dire!
    [10A43] 0xC87BDFE38149659B: Feeling peckish, a little stinky, or just don't want to waste time finding a toilet? With a flick of the wand, {0.SimFirstName} can cure life's basic needs with the Hunger, Bladder, and Hygiene Charms.
    [10A44] 0xC87BDFE38149659A: As {0.SimFirstName}'s magic grows, {MA.he}{FA.she} can pick on enemies, friends, or random strangers by causing embarrassing distress in public! {0.SimFirstName} can now wreak havoc on others with the Hunger, Bladder, and Hygiene Curses.
-   [10A45] 0xC87BDFE381496595: {0.SimFirstName} can now bestow extreme happiness upon Sims with the power of the Sunlight Charm, or call upon the darker forces to spread Pestilence Curse. But be careful, power comes with a price....
+   [10A45] 0xC87BDFE381496595: {0.SimFirstName} can now bestow extreme happiness upon Sims with the power of the Sunlight Charm, or call upon the darker forces to spread Pestilence Curse. But be careful, power comes with a price...
    [10A46] 0xC87BDFE381496594: {0.SimFirstName} is no sorcerer's apprentice - {MA.he}{FA.she} has mastered the art of tidying a house with a swish of the wand. {0.SimFirstName} has learned how to magically clean a lot with the Restoration Ritual!
    [10A47] 0x7A7DB6F1B0437582: Alchemy
    [10A48] 0x7FBF2675C8DA9A28: {0.SimFirstName} has taken the first step into the mystical magical world of alchemy. There are lots of elixirs to create, each with their own unique power to transform a Sim’s life. Those elixirs won’t mix by themselves so get cracking!
@@ -68530,7 +68530,7 @@ Unknown3: 0x00000000
    [10BAD] 0x1AA9752A6FB680DA: *alchemy artisan (reach lvl 10 Alchemy, use {0.Number} alchemy potions)
    [10BAE] 0xC1603B9310C0D2DB: Being a zombie mostly consists of a lot of stumbling around and a strangely compelling hunger for brains.
    [10BAF] 0x4662DA08E9D6563A: Became Zombified
-   [10BB0] 0x9DD22EB1BD9A0DCA: Suddenly {2.SimName} has an insatiable appetite for brains. {MA.He}{FA.She} also can’t figure out why {MA.his}{FA.her} limbs don’t seem to be functioning correctly or {MA.his}{FA.her} brain.... Mmmmm…. brains…
+   [10BB0] 0x9DD22EB1BD9A0DCA: Suddenly {2.SimName} has an insatiable appetite for brains. {MA.He}{FA.She} also can't figure out why {MA.his}{FA.her} limbs don't seem to be functioning correctly or {MA.his}{FA.her} brain... Mmmmm... Brains...
    [10BB1] 0xEFC2EE33101AEC22: zombified
    [10BB2] 0xF779419008BA0B8D: It takes a special blend of magic and being a great gardener to have the greenest garden of them all.
    [10BB3] 0x790423C32B6EE418: Green Gardens
@@ -75254,7 +75254,7 @@ Unknown3: 0x00000000
    [125F1] 0xBB7E807764EFF13E: Flower Kiss
    [125F2] 0x18DE308A2481D110: Give Protest Flyer
    [125F3] 0x3800AEE389F1BA60: Gossip About Roommate
-   [125F4] 0x64A76A66211444E8: {1.SimLastName}.... {1.SimFirstName} {1.SimLastName}
+   [125F4] 0x64A76A66211444E8: {1.SimLastName}... {1.SimFirstName} {1.SimLastName}
    [125F5] 0x4844729197B595D7: Heat of the Moment Kiss
    [125F6] 0x3CEB161EEC641148: Ink Blot Test
    [125F7] 0x0911FA5E35006A15: Invite to Graduation Ceremony
@@ -76016,7 +76016,7 @@ Unknown3: 0x00000000
    [128EB] 0xD0006DC521C8969B: Chunky Nougat Surprise
    [128EC] 0xFB27616EDE7F19BF: {0.SimName} just received {1.Money} by turning in {MA.his}{FA.her} golden voucher!
    [128ED] 0x5C459CC1B163B05C: Gooey Nut Log
-   [128EE] 0xD321BE1A7971A1BA: {0.SimName} did not enjoy that {1.String}....not one bit.
+   [128EE] 0xD321BE1A7971A1BA: {0.SimName} did not enjoy that {1.String}... not one bit.
    [128EF] 0x4F7A52B365D63409: Lilly Lonka's Golden Voucher Bar
    [128F0] 0x6A9C8FBD204E92C4: Rollie Loellie's Snack Cakes
    [128F1] 0x70EC8681487ED928: Sblonked!!!
