@@ -115,7 +115,7 @@ Unknown3: 0x00000000
    [0006E] 0xEF3447D846B7BFE3: Nothing takes a load off better than the Savannah. Contoured to cradle even the orneriest varmint, it’s become the chair of choice for wranglers and buckaroos alike. Relax into a Savannah and you’ll soon know why all’s comfy on the western front.
    [0006F] 0xF90B37219350644D: Something’s rotten in the state of Denmark, but it’s not the furniture. Having cornered the dining chair market, the Scandinavian juggernaut now sets its eyes on living room wares. And the results are devastating, as made evident by the mighty Olafian.
    [00070] 0x2FCB0939DC3ECBC4: A wise man once said, “It’s better to look good than to feel good.” That’s the underlying idea behind the Avant, a chair that brazenly sacrifices function for form. Finally, you can sit and look cool at the same time.
-   [00071] 0x3FAF07FD81A95EDB: This handcrafted replica of a traditional Mission chair is a welcome addition to any collection. It's simple, but comfortable — in a charmingly familiar, if mildly forgettable way. Buy the... uh... What's-It-Called, today!
+   [00071] 0x3FAF07FD81A95EDB: This handcrafted replica of a traditional Mission chair is a welcome addition to any collection. It's simple, but comfortable, in a charmingly familiar, if mildly forgettable way. Buy the... uh... What's-It-Called, today!
    [00072] 0x97EFA777168CC1B6: Sitting in a Swank living room chair is like throwing a party for your bottom, and everyone is invited. It combines comfort and excitement in a brand-new way, often lulling sitters into a genuine sense of titillating calm and contentment.
    [00073] 0xF4789CFEE150A32E: Local chair-maker, Peter Piccadilly, has tried selling his handcrafted living room furniture for years. Sadly, nobody's buying. Things look bleak for Mr. Piccadilly, so for Pete's sake, buy a chair before he does something drastic.
    [00074] 0x2558A27A1E4AF448: Enjoy a snooze in style while you bask in the sun or when you're locked out of the house. Don't settle for a lounge that forces you to put it in a reclined position. Lean back into the already reclined slats of this lounger, take a nap, and leave worrying to someone who cares.
@@ -9427,8 +9427,8 @@ Unknown3: 0x00000000
    [024CE] 0xF48BFD8C6C2E5D8E: Mayor
    [024CF] 0x2D5D1BF838A55C5F: Podium Polisher
    [024D0] 0xFE85AC12E615CA2E: Podium Polisher
-   [024D1] 0x01E6CE915C81BAFD: Without peer, {0.SimFirstName} is in charge.\n\nThe world has voted you in as their sworn leader. Defender of truth, justice, and basic Sim rights, you—the Leader of the Free World—must work for the people more than ever. Beware of agents of evil, corruption within your government, and those not willing to serve the people above all else. This is your chance to leave your mark on the world, and it’d be a fair shame to squander it with scandal and shoddy decisions.
-   [024D2] 0x4D933FF63E5D3938: Without peer, {0.SimFirstName} is in charge.\n\nThe world has voted you in as their sworn leader. Defender of truth, justice, and basic Sim rights, you—the Leader of the Free World—must work for the people more than ever. Beware of agents of evil, corruption within your government, and those not willing to serve the people above all else. This is your chance to leave your mark on the world, and it’d be a fair shame to squander it with scandal and shoddy decisions.
+   [024D1] 0x01E6CE915C81BAFD: Without peer, {0.SimFirstName} is in charge.\n\nThe world has voted you in as their sworn leader. Defender of truth, justice, and basic Sim rights, you, the Leader of the Free World, must work for the people more than ever. Beware of agents of evil, corruption within your government, and those not willing to serve the people above all else. This is your chance to leave your mark on the world, and it'd be a fair shame to squander it with scandal and shoddy decisions.
+   [024D2] 0x4D933FF63E5D3938: Without peer, {0.SimFirstName} is in charge.\n\nThe world has voted you in as their sworn leader. Defender of truth, justice, and basic Sim rights, you, the Leader of the Free World, must work for the people more than ever. Beware of agents of evil, corruption within your government, and those not willing to serve the people above all else. This is your chance to leave your mark on the world, and it'd be a fair shame to squander it with scandal and shoddy decisions.
    [024D3] 0x829FF9B5980C117C: Frequent elections require a steady cadre of reliable Ballot Counters to keep things honest and precise. You don’t work for any particular party or organization... right? Keep your nose clean and do nothing more than count and report the data. Democracy is counting on you!
    [024D4] 0x8BCDB3BCDD65FE3F: Frequent elections require a steady cadre of reliable Ballot Counters to keep things honest and precise. You don’t work for any particular party or organization... right? Keep your nose clean and do nothing more than count and report the data. Democracy is counting on you!
    [024D5] 0x829FF9B5980C117D: Your diligence has been noted and you’ll work the remainder of this campaign as an intern. Copies, copies, copies! Post flyers, call potential donors, fetch coffee, keep the staplers in prime condition, and most importantly, be charismatic about it. This campaign, or at least the copy machine, cannot succeed without you!
@@ -10510,8 +10510,8 @@ Unknown3: 0x00000000
    [02909] 0x25B184E348BE90A5: The Wright Opinion
    [0290A] 0x83C5A91A506EAEFE: Read report
    [0290B] 0xD11AF8053C843775: Read report
-   [0290C] 0x9BBDCA22770C8B62: Your analysis was spot on — exactly what the executives wanted to hear! They are going to act on your recommendations immediately, but in the meantime, enjoy this cash reward.
-   [0290D] 0x2CE41D896409F6D1: Your analysis was spot on—exactly what the executives wanted to hear! They are going to act on your recommendations immediately, but in the meantime, enjoy this cash reward.
+   [0290C] 0x9BBDCA22770C8B62: Your analysis was spot on, exactly what the executives wanted to hear! They are going to act on your recommendations immediately, but in the meantime, enjoy this cash reward.
+   [0290D] 0x2CE41D896409F6D1: Your analysis was spot on, exactly what the executives wanted to hear! They are going to act on your recommendations immediately, but in the meantime, enjoy this cash reward.
    [0290E] 0x6B13294FAAECC226: You need to read “The Goth Account” – a report on business dealings and financial hootenanny – then provide your personal analysis at work. In addition to the excitement of having your opinion sought, the office is willing to pay you for your efforts.
    [0290F] 0x6B2265EA0A5FC11D: You need to read “The Goth Account” – a report on business dealings and financial hootenanny – then provide your personal analysis at work. In addition to the excitement of having your opinion sought, the office is willing to pay you for your efforts.
    [02910] 0x3560B41445EDB33E: You weren’t able to finish the book in time, and as a result the company won’t be able to act on good information. Hopefully your carelessness won’t cost everyone – including you – their jobs.
@@ -10522,8 +10522,8 @@ Unknown3: 0x00000000
    [02915] 0xCAC3405FF43C57EC: The Goth Way?
    [02916] 0xFAC80412DD837CE9: Read report
    [02917] 0x28FA5BCA2EEBB83C: Read report
-   [02918] 0xABACB0EB28ECCB77: Your analysis was spot on — exactly what the executives wanted to hear! They are going to act on your recommendations immediately, but in the meantime, enjoy this cash reward.
-   [02919] 0xEFCC42F72CCBC526: Your analysis was spot on—exactly what the executives wanted to hear! They are going to act on your recommendations immediately, but in the meantime, enjoy this cash reward.
+   [02918] 0xABACB0EB28ECCB77: Your analysis was spot on, exactly what the executives wanted to hear! They are going to act on your recommendations immediately, but in the meantime, enjoy this cash reward.
+   [02919] 0xEFCC42F72CCBC526: Your analysis was spot on, exactly what the executives wanted to hear! They are going to act on your recommendations immediately, but in the meantime, enjoy this cash reward.
    [0291A] 0x692B325171BE6375: The latest “Landgraab Financial” just hit newsstands, and the executives would like you to read it, form an opinion, and present it to the board. In addition to the excitement of having your opinion sought, the office is willing to pay you for your efforts.
    [0291B] 0x3B2DEC6BA6506490: The latest “Landgraab Financial” just hit newsstands, and the executives would like you to read it, form an opinion, and present it to the board. In addition to the excitement of having your opinion sought, the office is willing to pay you for your efforts.
    [0291C] 0xB05DDABABB829BA9: You weren’t able to finish the book in time, and as a result the company won’t be able to act on good information. Hopefully your carelessness won’t cost everyone – including you – their jobs. 
@@ -11428,8 +11428,8 @@ Unknown3: 0x00000000
    [02C9F] 0xF98ADA48A5C4138E: The infiltration of the base was an utter and complete success! The military had no idea that it was you wreaking havoc, and they were finally forced to shut their entire system down. You set them back weeks and cost them millions - how diabolical! The Organization, in its delight, has decided to reward you with a cash bonus as well as a raise. It’s little surprise that your accomplices support you more than ever. It truly is a good time to be an evil, evil leader.
    [02CA0] 0x721437835011F7A2: Bwah hah hah! Your plan has finally came to fruition, and the world has been made to kneel before your might and brilliance! Your hard work and planning have paid off, and you will now reap the rewards of respect, money, and power. Cue diabolical laughter.
    [02CA1] 0xCB751FBEC934E011: Bwah hah hah! Your plan has finally came to fruition, and the world has been made to kneel before your might and brilliance! Your hard work and planning have paid off, and you will now reap the rewards of respect, money, and power. Cue diabolical laughter.
-   [02CA2] 0x0D251AFD6F8C7766: After weeks of planning, waiting, and plotting, The Organization is ready to follow you in an incredibly diabolical plan! You must move in on the Military Base to take control of the satellites, space system, and air force—but you must move quickly! Your athleticism must be sharpened to a fine degree, your accomplices behind you every step of the way, and your attitude bold and inspiring. To the Military Base!
-   [02CA3] 0xB5653D483C91C55D: After weeks of planning, waiting, and plotting, The Organization is ready to follow you in an incredibly diabolical plan! You must move in on the Military Base to take control of the satellites, space system, and air force—but you must move quickly! Your athleticism must be sharpened to a fine degree, your accomplices behind you every step of the way, and your attitude bold and inspiring. To the Military Base!
+   [02CA2] 0x0D251AFD6F8C7766: After weeks of planning, waiting, and plotting, The Organization is ready to follow you in an incredibly diabolical plan! You must move in on the Military Base to take control of the satellites, space system, and air force, but you must move quickly! Your athleticism must be sharpened to a fine degree, your accomplices behind you every step of the way, and your attitude bold and inspiring. To the Military Base!
+   [02CA3] 0xB5653D483C91C55D: After weeks of planning, waiting, and plotting, The Organization is ready to follow you in an incredibly diabolical plan! You must move in on the Military Base to take control of the satellites, space system, and air force, but you must move quickly! Your athleticism must be sharpened to a fine degree, your accomplices behind you every step of the way, and your attitude bold and inspiring. To the Military Base!
    [02CA4] 0x0E40ABE570BDB87E: It’s quite difficult to pull off incredibly complex, evil schemes if you don’t get to the starting point in time. Next time the forces of good present you with a window of opportunity, you jump through it!
    [02CA5] 0xB2713E710A6C57F5: It’s quite difficult to pull off incredibly complex, evil schemes if you don’t get to the starting point in time. Next time the forces of good present you with a window of opportunity, you jump through it!
    [02CA6] 0xBD2A492FF60C547B: “Execute Evil Plan” at the Military Base to attempt to take over the world with your nefarious scheme.
@@ -20194,7 +20194,7 @@ Unknown3: 0x00000000
    [04EDD] 0x01EEC12EFB327C8F: We've moved to a new house! You're invited to a house party at the {1.SimLastName} residence on {DateAndTime}. Do you think you can come?
    [04EDE] 0xC6F04537686DF89F: Sorry, I can't make it.
    [04EDF] 0x77C1D580F230BD85: I'll be there!
-   [04EE0] 0xB907DB30A56A6F04: Hi {0.SimFirstName}, it's {1.SimFirstName}! I'm getting married soon — I hope you can make it to the reception. It's going to be held on {DateAndTime} at the {1.SimLastName} house. Formal attire is requested.
+   [04EE0] 0xB907DB30A56A6F04: Hi {0.SimFirstName}, it's {1.SimFirstName}! I'm getting married soon, and I hope you can make it to the reception. It's going to be held on {DateAndTime} at the {1.SimLastName} house. Formal attire is requested.
    [04EE1] 0x0F3C0DBB83115EA0: Sorry, can't make it.
    [04EE2] 0xC50678AC4ACD8881: I'll be there!
    [04EE3] 0x3E4097E5EEDFBF40: Hi {0.SimName}! We just had a baby, {1.SimName}, and we're throwing a party to celebrate. You're invited to the {1.SimLastName} house on {DateAndTime}. Think you can come?
@@ -35498,7 +35498,7 @@ Unknown3: 0x00000000
    [08AA5] 0x4A25C819E747C91A: Long before it was trendy to spare trees and paper, the Paper Light Company blazed ahead with their flimsy, yet wonderfully designed paper lamps and paper lamp accessories. The Far East Fire Hazard, cautiously named despite the fact that it contains no flammable material, will perfectly adorn any ceiling in a room decorated for its soft, paper filtered glow.
    [08AA6] 0x86BF6D3DEEFD7A8B: Powered by mummy curses and frustrated genies, the Sandy Ceiling Light is a perfect choice of worry-free light for your cheery lounge or dusty tomb. If you start suffering from unexplained illnesses or plagues, it must be coming from your other lights.
    [08AA7] 0x404559201BAD8CB2: With not one but four separate light sources, this chandelier is a powerhouse of luminosity! Its four small lamps are cute and cheerful, like miniature cakes jauntily iced. Hang it wherever you want to shine a lot of light without suffering the chunkiness of bigger chandeliers.
-   [08AA8] 0x72CDA96B4D275CFF: The simple shape and clean lines of this ceiling light help it steer clear of distracting from its best feature—a warm outpouring of radiantly glowing light. Provided, that is, you view it with no other lights on.
+   [08AA8] 0x72CDA96B4D275CFF: The simple shape and clean lines of this ceiling light help it steer clear of distracting from its best feature: a warm, outpouring of radiantly glowing light. Provided, that is, you view it with no other lights on.
    [08AA9] 0xDFC5F2AA17D5FB67: Worship the sun without leaving the confines of your living room with the Petite Pagoda table lamp. Warning: This product may attract lightning. Do not place near windows or expensive electronics.
    [08AAA] 0x4F2DD442264E0EBE: Today, Scarab Corp is one of the largest producers of all desert themed merchandise. However, when they got their start 20 years ago in a small market stall, they specialized in torches. Rest assured that with 20 years of excellent sales, the Belsim Torch is one of the best.
    [08AAB] 0x62C1668CA8736B23: When Prime Minister François Nardone started regulating the public lamppost industry, a small group of lamppost freedom fighters started an underground movement to design and build their own lampposts. Although their final product looks very similar to the regulated light posts, you can rest easy knowing this one is free and clear of any government regulations.
@@ -41891,9 +41891,9 @@ Unknown3: 0x00000000
    [0A39E] 0x0DF71DBFD03A4809: Now you can have all of the beauty, magnificence, and raw power of a raging inferno captured and contained in this simply -sculpted and portable pit. The perfect adornment for your patio, deck, or garden, this fire pit heats up any night!
    [0A39F] 0x086C7F089F9D0AD3: Needs Text
    [0A3A0] 0xD4939DA08DD6FBE6: The newest trend in high-end real estate sales is to stage the property with lots of messy junk for the super-lived-in look. Sounds unintuitive? Realtors say it works. "Buyers pay more if they feel they might catch a glimpse of someone famous." claims Neve Clozin, celebrity realtor. "You tell a story about the house, told in random objects tossed hither-thither, so it doesn't feel like, you know, a mausoleum."
-   [0A3A1] 0x905D4B162326F6AF: Your entire home is sleek, modern, and magnificent—why ruin your minimalist motif with out–of-control plants? These no-fuss plant boxes let you add a little bit of life to your sterile surroundings in a carefully controlled setting.
+   [0A3A1] 0x905D4B162326F6AF: Your entire home is sleek, modern, and magnificent; why ruin your minimalist motif with out–of-control plants? These no-fuss plant boxes let you add a little bit of life to your sterile surroundings in a carefully controlled setting.
    [0A3A2] 0xEFC8D68B722987A8: The deliberate asymmetry of this piece makes it a unique one from planter shape sculptor Ete Takoyaki. Known for his regularity in aesthetic balance, this planter is a big departure from boxes and pots to folds and creases. Whatever will he dig up next?
-   [0A3A3] 0x4487E5156FDAA363: Diamonds aren’t just a girl’s best friend—they’re everyone’s! Especially when you proudly display this spectacular wall art. The neighbors will ooh, friends will ahh, and Sims everywhere will be clamoring to procure their own copy!
+   [0A3A3] 0x4487E5156FDAA363: Diamonds aren't just a girl's best friend; they're everyone's! Especially when you proudly display this spectacular wall art. The neighbors will ooh, friends will ahh, and Sims everywhere will be clamoring to procure their own copy!
    [0A3A4] 0xB512992515D12FE1: Shag Rock died almost 20 years ago and to celebrate we're re-reissuing this replica "Flying Ginger" 6-string seen on Peroxide's bristly 1st album "The Mane Event". Giving a whole new meaning to "roots rock," In three hair-raising albums before the band wigged out, Peroxide single-handedly transformed the tangled and graying glam music genre into a chart-topping, shaggy-chic musical hat-trick still heard in shampoo commercials and bromantic comedies to this day.
    [0A3A5] 0x7FCA1B0412745B61: For the Sim eager to make a statement like “I really like guitars” or “music is my mellow place”, this expensive yet “non-functioning” solid body could be just the thing. It’s a pretty good “replica” of Tom Audio’s infamous lucky charm instrument that was stolen on the first leg of the DRIR tour.
    [0A3A6] 0x6AFBA7FDEA06CEB2: Peroxide's bristly 1st album "The Mane Event" ushered in the short era of “Shag Rock”. In three hair-raising albums before the band wigged out, Peroxide single-handedly transformed the tangled and graying glam music genre into a chart-topping, shaggy-chic musical hat-trick still heard in shampoo commercials and bromantic comedies to this day. Any rock aficionado would be honored to own this unforgettable platinum album display.
@@ -42006,7 +42006,7 @@ Unknown3: 0x00000000
    [0A411] 0x556288FF4FF090B6: Entrepreneurial small fries with start-up capital and baking aptitude should look no further than The Baker's Half Dozen Stand to bolster a meager allowance! When skillfully paired with a toy oven, this stand can turn even the tiniest of tots into a titan!
    [0A412] 0x8DD4DA6C4DE15033: Perfectly modeled after the coveted original now on display at the Simsonian Museum, it was at this fine table that governors and statesmen dined and signed important documents from Pleasantview's great history...
    [0A413] 0xF7F7BEAEE1962205: Cute, quaint and round, the Quaint Quality Table says so much about those who buy it! Preferably it says something coherent.
-   [0A414] 0x06D322700E26797D: This compact end table may be small in stature, but its charm knows no bounds! Why sit by bigger, heavier, and frankly less charismatic end tables? The Sit By Me End Table—because no one wants to sit next to a tedious end table.
+   [0A414] 0x06D322700E26797D: This compact end table may be small in stature, but its charm knows no bounds! Why sit by bigger, heavier, and frankly less charismatic end tables? The Sit By Me End Table, because no one wants to sit next to a tedious end table.
    [0A415] 0xEB36FAAA3F9D8E86: 9 out of 10 pirates agree that The Swashbuckler is less than average on the grand scale of laundry machines. In our view, that's excellent considering pirates like to be dirty.
    [0A416] 0xEEF0C08D2D999A10: Years ago, when the first Cleanesque Alpha was put on the market, few thought it would revolutionize the washing machine market. Boy were they wrong! Today, the Alpha is the industry leader in all things laundry! Its patented double inverted clothing impeller design is unmatched in quality and efficiency!
    [0A417] 0x3F1A4F31F1E5DD8F: Lady Abigail's Bed of Puff
@@ -51360,7 +51360,7 @@ Unknown3: 0x00000000
    [0C89B] 0x3768FBCD2F46561F: Fort Starch Military School
    [0C89C] 0x642128CC5406DC7B: {Variation.6}
    [0C89D] 0x135FBE494390FE8B: Military School's not so bad. Today our Drill Sergeant taught us some cool new words!
-   [0C89E] 0x135FBE494390FE88: Military School is fine. Today I'm going to learn the most important part of being in the military — doing paperwork.
+   [0C89E] 0x135FBE494390FE88: Military School is fine. Today I'm going to learn the most important part of being in the military: doing paperwork.
    [0C89F] 0x135FBE494390FE89: Military School's OK. Today I learned how to salute in over 30 different languages!
    [0C8A0] 0x135FBE494390FE8E: Military School's alright. Yesterday I learned how to fix a broken-down jeep with nothing but a phone call to the motor pool.
    [0C8A1] 0x135FBE494390FE8F: Military School's OK. I'm starting to like the smell of shoe polish in the morning.
@@ -51434,7 +51434,7 @@ Unknown3: 0x00000000
    [0C8E5] 0xFDA8444E230031BB: All the other kids at the Sports Academy have personalized helmets. Can I have {2.Money} to buy one too?
    [0C8E6] 0xFDA8444E230031B8: Hi from the Sports Academy. All my friends are going to the big game this weekend. Can I have {2.Money} for a ticket?
    [0C8E7] 0xFDA8444E230031B9: Hi from the Sports Academy. I, um, kind of set the school's Gnubb set on fire. Can I have {2.Money} to cover the damages?
-   [0C8E8] 0xFDA8444E230031BE: Hi from the Sports Academy. My shoes are slowing down my game—can I have {2.Money} to buy some new ones?
+   [0C8E8] 0xFDA8444E230031BE: Hi from the Sports Academy. My shoes are slowing down my game; can I have {2.Money} to buy some new ones?
    [0C8E9] 0x1609019681BB7D08: {Variation.3}
    [0C8EA] 0xB1F0189B00F56E14: {1.SimFirstName}, this is Dribbledine Sports Academy. Our records show that we charged you for season tickets, not your child's tuition. Please accept this refund of {2.Money} and our sincere apologies.
    [0C8EB] 0xB1F0189B00F56E17: This is Dribbledine Sports Academy. We're proud to announce that {0.SimFirstName} won this year's Tri-State Gnubb Tournament and a cash reward of {2.Money}! Congratulations!
@@ -52063,7 +52063,7 @@ Unknown3: 0x00000000
    [0CB5A] 0x09B867AA1654655B: Age Freeze Potion
    [0CB5B] 0x340EAD799C383F87: The purchaser of this reward receives an 'Age Freeze' potion. Drinking this potion immediately stops the Sim's biological clock, preventing further aging!
    [0CB5C] 0x3F5659810D3CFC12: Look for the Age Freeze potion in your Sim's inventory!
-   [0CB5D] 0x846B2D0E6BC957CF: Drinking this potion immediately stops the Sim from aging, never to grow old—or even grow up! However, if you wish, your Sim can still move on to the next stage in life by using a birthday cake.
+   [0CB5D] 0x846B2D0E6BC957CF: Drinking this potion immediately stops the Sim from aging, never to grow old, or even grow up! However, if you wish, your Sim can still move on to the next stage in life by using a birthday cake.
    [0CB5E] 0x56ED767C78A8C2D7: Hover Bed
    [0CB5F] 0x0FE50EAC0B0A8023: Ground-bound beds are a thing of the past. Purchase this reward to receive the state of the art in hovering slumber satisfaction!
    [0CB60] 0x4385319680AA41EF: ImaginaryFriend
@@ -52632,7 +52632,7 @@ Unknown3: 0x00000000
    [0CD93] 0x1DA2EFA04100DD6B: At the graduation ceremony, {2.SimName} was recognized as the class valedictorian! {MA.He}{FA.She} will never forget that proud moment.
    [0CD94] 0x8BD717E027D97A99: Who could forget school? And who hasn't tried? Barely graduating may not be something to be proud of, but it's definitely something to remember.
    [0CD95] 0x6EA456140C1BF5DC: Barely Graduated
-   [0CD96] 0xA8A02DB7975A3518: {2.SimFirstName} will always remember graduation day—especially since {MA.he}{FA.she} only graduated by the skin of {MA.his}{FA.her} teeth!
+   [0CD96] 0xA8A02DB7975A3518: {2.SimFirstName} will always remember graduation day, especially since {MA.he}{FA.she} only graduated by the skin of {MA.his}{FA.her} teeth!
    [0CD97] 0x13D819A181645F2A: What's the most memorable part of a wedding party? Consuming oodles of creamy, delicious cake!
    [0CD98] 0xD7E725432611D395: Cut the Cake
    [0CD99] 0xF3E8F22274E4ACA9: {2.SimFirstName} just cut into the wedding cake! {MA.He}{FA.She} will always remember celebrating the matrimonial ceremony with a slice of moist, delicious, frosting-covered goodness.
@@ -52654,13 +52654,13 @@ Unknown3: 0x00000000
    [0CDA9] 0x89B31F8DB63DE682: Proposing spending the rest of one's life with another Sim makes the palms sweat, but getting that "yes" is an unforgettable moment!
    [0CDAA] 0x0C8157A3CF5A6D5D: Proposed Marriage
    [0CDAB] 0x220D949FA1D1EC41: {2.SimName} just proposed marriage to {MA.his}{FA.her} beloved. Whatever the outcome, getting up the nerves to pop the question is a moment to remember!
-   [0CDAC] 0x0F931E6F7E71B6A3: That new car smell is so much sweeter when the car belongs to you! They say your first car is like your first love—you never forget it.
+   [0CDAC] 0x0F931E6F7E71B6A3: That new car smell is so much sweeter when the car belongs to you! They say your first car is like your first love; you never forget it.
    [0CDAD] 0xEFD48B74E768B8F2: Rode in First Owned Car
    [0CDAE] 0xEC908D7261B566F2: {1.SimFirstName} just took {MA.his}{FA.her} first ride in a car of {MA.his}{FA.her} own! {MA.He}{FA.She} will always remember the feeling of absolute freedom that came when {MA.he}{FA.she} turned the key.
    [0CDAF] 0x14500940B37ACA78: There were so many buttons to push and knobs to turn...and even a built-in juice bar! This was one sweet ride.
    [0CDB0] 0x48B9E55FBA12CF97: Rode in a Limo
    [0CDB1] 0x08743351603E408F: {2.SimName} just took a ride in a limo. With such a luxurious interior and even a built-in juice bar, this is one sweet ride that {MA.he}{FA.she} won't forget!
-   [0CDB2] 0x8C701AE5CF130E3D: Wheels like this don't come cheap! Riding in style—a whole {0.Money} worth of style—creates memories that are priceless!
+   [0CDB2] 0x8C701AE5CF130E3D: Wheels like this don't come cheap! Riding in style, a whole {0.Money} worth of style, creates memories that are priceless!
    [0CDB3] 0x7332F34B270F5CE8: Rode in Car Worth Over {0.Money}
    [0CDB4] 0xBC5732A4A3BC05E4: {2.SimName} just took a spin in a car that had to be worth at least {0.Money}! A ride this fancy is one to remember!
    [0CDB5] 0xCA2CAC4068A45AFA: Learning to drive is a rite of passage for many teens. It can be nerve-wracking, but the freedom it offers is worth the effort! 
@@ -54190,21 +54190,21 @@ Unknown3: 0x00000000
    [0D3A9] 0xE045AD63F5B5F53D: {Variation.1}
    [0D3AA] 0x6E1DF24E9D13E759: I can't put down my stereo, so I can't dance. But I'll hang around your party for a little bit anyway!
    [0D3AB] 0x398D5B6A3784F623: {Variation.1}
-   [0D3AC] 0x2301E147B6D1E7A3: That was wild, but Party Dancer time is over! This looks like a decent party, though—I might hang around for a minute or two.
+   [0D3AC] 0x2301E147B6D1E7A3: That was wild, but Party Dancer time is over! This looks like a decent party, though. I might hang around for a minute or two.
    [0D3AD] 0xE47F7E544792CEF0: {Variation.1}
-   [0D3AE] 0x8D5BE51C41E185CC: P-A-R-T-Y! Party Dancer time is over! This looks like a decent party, though—I might hang around for a minute or two.
+   [0D3AE] 0x8D5BE51C41E185CC: P-A-R-T-Y! Party Dancer time is over! This looks like a decent party, though. I might hang around for a minute or two.
    [0D3AF] 0x0FB7B6689EBB54A5: {Variation.1}
-   [0D3B0] 0x79A497F831583C31: Ooh la la that was fun! This looks like a decent party, though—I might hang around for a minute or two.
+   [0D3B0] 0x79A497F831583C31: Ooh la la that was fun! This looks like a decent party, though. I might hang around for a minute or two.
    [0D3B1] 0xC2AC8C6EBBA00705: {Variation.1}
-   [0D3B2] 0x1EE0C45B00E3ED51: Whoa horsey, party time is over! This looks like a decent party, though—I might hang around for a minute or two.
+   [0D3B2] 0x1EE0C45B00E3ED51: Whoa horsey, party time is over! This looks like a decent party, though. I might hang around for a minute or two.
    [0D3B3] 0x41EAA721516FA27B: {Variation.1}
    [0D3B4] 0x5138516B4CEAB48B: Party Dancer time is over, but it looks like I've only stoked the fire! I might hang around for a minute or two...
    [0D3B5] 0x8D042044D00DFB5D: {Variation.1}
    [0D3B6] 0x030E2E9DAEDB42B9: Well, looks like everyone's having a safe time here! I think I might hang around for a minute or two.
    [0D3B7] 0x679E67062FB07EA1: {Variation.1}
-   [0D3B8] 0xAA1CBAA820CF6B95: Party Dancer time is over, but I don't think it's time to clean up yet! This party is really going now —I might hang around for a minute or two.
+   [0D3B8] 0xAA1CBAA820CF6B95: Party Dancer time is over, but I don't think it's time to clean up yet! This party is really going now. I might hang around for a minute or two.
    [0D3B9] 0x4288424E06B86605: {Variation.1}
-   [0D3BA] 0xA9EE7AE562082451: Hoorah! Party Dancer time is over! This looks like a decent party, though—I might hang around for a minute or two.
+   [0D3BA] 0xA9EE7AE562082451: Hoorah! Party Dancer time is over! This looks like a decent party, though. I might hang around for a minute or two.
    [0D3BB] 0x1296CAAB01F982E6: {Variation.1}
    [0D3BC] 0x380B7B1695D373A6: Looks like my work here is done! I might hang around for a minute or two of off duty recreation.
    [0D3BD] 0x87270C22D0437A33: {Variation.1}
@@ -54222,7 +54222,7 @@ Unknown3: 0x00000000
    [0D3C9] 0x0733F16F2E5188C3: {Variation.1}
    [0D3CA] 0x300BFC83C8D94303: Your friends said your party needed a 'lifeguard' on duty, so here I am! Party Dancer time!
    [0D3CB] 0x4B76BBAF304086EF: {Variation.1}
-   [0D3CC] 0x205F2658FFD9C817: You can clean up later—it's Party Dancer time! Thank your friends for calling me!
+   [0D3CC] 0x205F2658FFD9C817: You can clean up later; it's Party Dancer time! Thank your friends for calling me!
    [0D3CD] 0x411E0DCE24AF9CCF: {Variation.1}
    [0D3CE] 0xFE91E8EAD1C9E937: Atten-hut! Somebody here called the Party Dancer, and I'm launching a full-scale dance invasion!
    [0D3CF] 0x6A9E99158D527DF4: {Variation.1}
@@ -54255,8 +54255,8 @@ Unknown3: 0x00000000
    [0D3EA] 0xFB68F8F4EA02A374: I try and I try and yet I keep getting saddled with poor dates like that...ugh. Maybe that whole online dating thing isn't such a bad idea after all?
    [0D3EB] 0x1ACCC7151F0BC4B1: {Variation.5}
    [0D3EC] 0x6BEF3A00F1AD3125: What a charming and romantic evening! You can barely believe how marvelously everything fell into place; by all accounts that date was a stunning success!
-   [0D3ED] 0x6BEF3A00F1AD3126: The air smells fresher, the birds are twittering in delight, and you feel like you're walking on tip toes as if you might suddenly burst into flight—that date was incredible!
-   [0D3EE] 0x6BEF3A00F1AD3127: After a wonderful date like that, there's no hand wringing over calculating moves to worm your way into another one—it's inevitable that you'll be seeing each other again soon!
+   [0D3ED] 0x6BEF3A00F1AD3126: The air smells fresher, the birds are twittering in delight, and you feel like you're walking on tip toes as if you might suddenly burst into flight; that date was incredible!
+   [0D3EE] 0x6BEF3A00F1AD3127: After a wonderful date like that, there's no hand wringing over calculating moves to worm your way into another one; it's inevitable that you'll be seeing each other again soon!
    [0D3EF] 0x6BEF3A00F1AD3120: It's hard to imagine that date going any better! Playful banter gave way to gazing into each other's eyes, and... oh my, where did the time go!
    [0D3F0] 0x6BEF3A00F1AD3121: Your heart's all aflutter, oh my! You never thought you'd use aflutter in a sentence, and yet... who knew dates could go so incredibly well?
    [0D3F1] 0x3F0F30445A37836B: You've got some issues, and I'm not sticking around to deal with them.
@@ -54289,7 +54289,7 @@ Unknown3: 0x00000000
    [0D40C] 0x3EE7A2D37A2D0554: As far as dates go, I've had worse... Just kidding, that sucked!
    [0D40D] 0x3EE7A2D37A2D0557: You dragged me out for that? Really? I'd be insulted if I wasn't already so offended!
    [0D40E] 0x3EE7A2D37A2D0556: I once had a date ask me to dine and dash, and I'd rank that one a few steps above this lousy excursion.
-   [0D40F] 0x3EE7A2D37A2D0559: How's that popular song go? It's just you and your... something... tonight. Well, maybe you'll remember it—without me!
+   [0D40F] 0x3EE7A2D37A2D0559: How's that popular song go? It's just you and your... something... tonight. Well, maybe you'll remember it, without me!
    [0D410] 0x778CB846F2CFA44C: Visit Community Lot With Date
    [0D411] 0x621389D7C3F22731: Visit Lot With Date
    [0D412] 0x04AE85FC003DD0C2: Visit Lot With Date
@@ -63003,7 +63003,7 @@ Unknown3: 0x00000000
    [0F616] 0xC74DFD047185CBFE: During the performance, your active Sim can interact with the show by doing things like cheering, booing, and making requests! They can even throw items on stage, which the visiting Sim will sometimes take home with them! When the show ends, the visiting Sim will go home in their taxi or limo.
    [0F617] 0xC74DFD047185CBF1: If you successfully complete a Tour Stop by hosting your friend’s Sim, you will earn a stamp in your SimPort Book, Simoleons, and Lifetime Happiness points. Collect all of the stamps on a Venue page to unlock a cool new set of stage props! You can continue to host Sims on any Tour Stop, even if you've already collected the stamp.
    [0F618] 0xB85A253D6F9B6C77: Hosting a friend's Sim in your town is fun and rewarding! Would you like to learn more about hosting a Sim?
-   [0F619] 0xEB2AB494A96C1ED7: The Player Update tab on the notification window allows you to post directly to your Player Wall, receive and comment on your friends' statuses, and get updates regarding hosting and sending Sims—all without ever having to pause your game!
+   [0F619] 0xEB2AB494A96C1ED7: The Player Update tab on the notification window allows you to post directly to your Player Wall, receive and comment on your friends' statuses, and get updates regarding hosting and sending Sims, all without ever having to pause your game!
    [0F61A] 0x05AFAF9BE2B86767: You can toggle this messaging in and out by clicking on the arrow. If you choose to hide it, you don’t need to worry about missing important messages, because the latest message will automatically toggle the messaging window out and display it. The notification window will automatically toggle off after a certain amount of time.
    [0F61B] 0x05AFAF9BE2B86766: You can adjust your Player Update notification settings on the Online Tab in the Options Menu.
    [0F61C] 0x70F094B552283B70: Player Update Messaging 
@@ -73662,7 +73662,7 @@ Unknown3: 0x00000000
    [11FB9] 0xF1CD1754B9328F93: Research Scientific Sample
    [11FBA] 0x02E4B3C6B17D6264: Research Scientific Sample
    [11FBB] 0x67E242BE5A1184D0: Research Scientific Sample
-   [11FBC] 0x489C0C48057FA2F3: Using cute animals in science experiments is wrong. Insects, not so much. Your Sim wants to pop one in a nuclear oven. Go ahead—what could possibly go wrong?
+   [11FBC] 0x489C0C48057FA2F3: Using cute animals in science experiments is wrong. Insects, not so much. Your Sim wants to pop one in a nuclear oven. Go ahead, what could possibly go wrong?
    [11FBD] 0x6D387FF7E5A0A4C6: Perform Radiation Experiment
    [11FBE] 0x2CACF01EB5184C3B: Perform Radiation Experiment
    [11FBF] 0x6059300449936001: Perform Radiation Experiment
@@ -73670,7 +73670,7 @@ Unknown3: 0x00000000
    [11FC1] 0x0B1C98EE93D562E1: Perform Horticultural Experiment
    [11FC2] 0xBBF4ED8514004D6A: Perform Horticultural Experiment
    [11FC3] 0x89CE2CCE4E7D431A: Perform Horticultural Experiment
-   [11FC4] 0xE037322E50CD8DD6: Your Sim can’t wait to tinker with life’s inner workings. Tear a seed apart at the molecular level and re-build it. Beautiful or noxious — it’s all up to them.
+   [11FC4] 0xE037322E50CD8DD6: Your Sim can't wait to tinker with life's inner workings. Tear a seed apart at the molecular level and re-build it. Beautiful or noxious, it's all up to them.
    [11FC5] 0x71CD879116715B69: Perform Gene-Splicing Experiment
    [11FC6] 0x50471A169E098E42: Perform Gene-Splicing Experiment
    [11FC7] 0xFEA0F6421F32D482: Perform Gene-Splicing Experiment
@@ -73714,7 +73714,7 @@ Unknown3: 0x00000000
    [11FED] 0x33A8CA932A4AD6A0: Go Streaking During the Day
    [11FEE] 0x64217B219736690D: Go Streaking During the Day
    [11FEF] 0x2B30974DB67C0B57: Go Streaking During the Day
-   [11FF0] 0xD09FC086CDA41DEE: Once a Sim starts streaking, it’s hard to stop. And who’s gonna make them? Take a few victory laps in the birthday suit — your Sim earned them.
+   [11FF0] 0xD09FC086CDA41DEE: Once a Sim starts streaking, it's hard to stop. And who's gonna make them? Take a few victory laps in the birthday suit; your Sim earned them.
    [11FF1] 0x0A99F861F512E7B1: Go Streaking {0.Number} Times
    [11FF2] 0xBE91B5136D44C9FA: Go Streaking {0.Number} Times
    [11FF3] 0xE19F798BA7D903EA: Go Streaking {0.Number} Times
@@ -73746,7 +73746,7 @@ Unknown3: 0x00000000
    [1200D] 0xE41E7BD90367A890: Earn {0.Money} from Blog Donations
    [1200E] 0x574963ABAD2C93BD: Earn {0.Money} from Blog Donations
    [1200F] 0xE2BAF41CC4157C07: Earn {0.Money} from Blog Donations
-   [12010] 0x89FA63612C7533FE: Anyone can set up a blog and obnoxiously link their friends to it. Build a blog anyone could be proud of — not just Mom and Dad.
+   [12010] 0x89FA63612C7533FE: Anyone can set up a blog and obnoxiously link their friends to it. Build a blog anyone could be proud of, not just Mom and Dad.
    [12011] 0xA8229430E85978E1: Have a {0.Number} Star Blog
    [12012] 0x1134DF3AB071AF6A: Have a {0.Number} Star Blog
    [12013] 0xF96EFAF78469691A: Have a {0.Number} Star Blog
@@ -74693,7 +74693,7 @@ Unknown3: 0x00000000
    [123C0] 0xF36F4B1634B5A5E9: Sports Agent Retirement
    [123C1] 0x48204A932FF5891B: Video Game Developer
    [123C2] 0x87585C97D2F7D7B4: Work Research
-   [123C3] 0x0D120FD1CA97A592: Play games to build online and social networking cred. Don't worry — it's research!
+   [123C3] 0x0D120FD1CA97A592: Play games to build online and social networking cred. Don't worry; it's research!
    [123C4] 0xCCF7C916BC5F92E5: Art Director
    [123C5] 0x012053C7C9E33FB7: Assistant Concept Artist
    [123C6] 0x26CA19AC91D1D1CB: Character Modeler
@@ -74732,8 +74732,8 @@ Unknown3: 0x00000000
    [123E7] 0x111FA847D6023898: Awesome painting skills has lead {0.SimName} to a promotion to Character Modeler! Work has issued {0.SimName} a laptop, and now computers can be used to work from home!
    [123E8] 0x1BDE1CF125D0EB09: PromotionLevel6 DO NOT TRANSLATE
    [123E9] 0x2D0E817558BFB79C: PromotionLevel6_Female DO NOT TRANSLATE
-   [123EA] 0xB1735B049837E8A2: After programing enough core systems in a video game, nobody else really knows how they work. {0.SimName} made {MA.himself}{FA.herself} indispensable — congratulations, Senior Engineer!
-   [123EB] 0x8999EF0D445C0B11: After programing enough core systems in a video game, nobody else really knows how they work. {0.SimName} made {MA.himself}{FA.herself} indispensable — congratulations, Senior Engineer!
+   [123EA] 0xB1735B049837E8A2: After programing enough core systems in a video game, nobody else really knows how they work. {0.SimName} made {MA.himself}{FA.herself} indispensable. Congratulations, Senior Engineer!
+   [123EB] 0x8999EF0D445C0B11: After programing enough core systems in a video game, nobody else really knows how they work. {0.SimName} made {MA.himself}{FA.herself} indispensable. Congratulations, Senior Engineer!
    [123EC] 0xB21E5AF27084BA26: “The hands are too big!” “The feet are too small!” All that iteration has finally paid off and {0.SimName} is now a Senior Animator, where {MA.he’ll}{FA.she’ll} have more control.
    [123ED] 0xC22F03F924D0E91D: “The hands are too big!” “The feet are too small!” All that iteration has finally paid off and {0.SimName} is now a Senior Animator, where {MA.he’ll}{FA.she’ll} have more control.
    [123EE] 0x1BDE1CF125D0EB08: PromotionLevel7 DO NOT TRANSLATE
@@ -74776,8 +74776,8 @@ Unknown3: 0x00000000
    [12413] 0xA64B51F9B6CDCF7B: Exceptional analytical skills have earned {0.SimName} a promotion to Recruiter! Being surrounded by sports all day, {0.SimName} is a walking sports guru and can now write sports book genres.
    [12414] 0x9285BCCA5512FA67: Having built relationships with athletes, {0.SimName} is ready to stand up for them as an Assistant Negotiator. First class contracts won’t come easy so find some time to negotiate contracts!
    [12415] 0x46D03F88A005D816: Having built relationships with athletes, {0.SimName} is ready to stand up for them as an Assistant Negotiator. First class contracts won’t come easy so find some time to negotiate contracts!
-   [12416] 0x9285BCCA5512FA66: {0.SimName} has been around the block and learned the ropes. As an Agent of Truth, {0.SimName} controls every negotiation — but {MA.he’s}{FA.she’s} not trying to hustle anyone.
-   [12417] 0x95BE1729E719D65D: {0.SimName} has been around the block and learned the ropes. As an Agent of Truth, {0.SimName} controls every negotiation — but {MA.he’s}{FA.she’s} not trying to hustle anyone.
+   [12416] 0x9285BCCA5512FA66: {0.SimName} has been around the block and learned the ropes. As an Agent of Truth, {0.SimName} controls every negotiation, but {MA.he's}{FA.she's} not trying to hustle anyone.
+   [12417] 0x95BE1729E719D65D: {0.SimName} has been around the block and learned the ropes. As an Agent of Truth, {0.SimName} controls every negotiation, but {MA.he's}{FA.she's} not trying to hustle anyone.
    [12418] 0x9285BCCA5512FA65: Athletes are lining up for {0.SimName}, inspired by smooth talking and ability to grab the big Simoleon deals. {MA.He’s}{FA.She’s} a true Contract Shark!
    [12419] 0x08D3E6BB50FE6C80: Athletes are lining up for {0.SimName}, inspired by smooth talking and ability to grab the big Simoleon deals. {MA.He’s}{FA.She’s} a true Contract Shark!
    [1241A] 0x9285BCCA5512FA64: Fans dislike {0.SimName} and team presidents tremble at {MA.his}{FA.her} name. Nobody turns {0.SimName} down. {MA.He’s}{FA.She’s} a Clientele Mastermind, and sports will never be the same.
@@ -75997,7 +75997,7 @@ Unknown3: 0x00000000
    [128D8] 0xBEAB7B916038DA3E: Get Freebie
    [128D9] 0xFCDB0530350FA292: Kicky Bag
    [128DA] 0xBE7F4806065CB482: University Poster
-   [128DB] 0x72C00D5E3099632C: Welcome to the Nichols School of Business at Sims University. Business students will run the world of the future, and the faculty are committed to your academic success.\n\nAll students in the Business major receive a Business Planner when they enroll, offering countless opportunities for growth both inside and outside of the classroom. Keep it with you at all times; you never know when inspiration will strike!\n\nClasses, Lectures, and Class Activities are required for all students, but Business majors will receive extra credit for building their Charisma and Social Networking skills.\n\nEvery winning smile and hour of careful planning will pay off after graduation. Give yourself a leg up in the Business and Criminal careers, joining them at higher positions with better pay than lesser-educated Sims. Be careful not to coast while dreaming of future rewards—employers will see your entire transcript! Higher grades translate directly to better career advancements once you hit the open market.\n\nOur faculty wishes you the best of luck in your academic endeavors, and welcome again to Sims University!
+   [128DB] 0x72C00D5E3099632C: Welcome to the Nichols School of Business at Sims University. Business students will run the world of the future, and the faculty are committed to your academic success.\n\nAll students in the Business major receive a Business Planner when they enroll, offering countless opportunities for growth both inside and outside of the classroom. Keep it with you at all times; you never know when inspiration will strike!\n\nClasses, Lectures, and Class Activities are required for all students, but Business majors will receive extra credit for building their Charisma and Social Networking skills.\n\nEvery winning smile and hour of careful planning will pay off after graduation. Give yourself a leg up in the Business and Criminal careers, joining them at higher positions with better pay than lesser-educated Sims. Be careful not to coast while dreaming of future rewards; employers will see your entire transcript! Higher grades translate directly to better career advancements once you hit the open market.\n\nOur faculty wishes you the best of luck in your academic endeavors, and welcome again to Sims University!
    [128DC] 0x64CAE5EEA83CFB75: Welcome to the Nichols School of Business at Sims University. Communications students will shape the next generation of media and marketing, and the faculty are committed to your academic success.\n\nAll students in the Communications major receive a Mobile Radio Station when they enroll. It’s a phenomenal tool for developing your skills and media presence outside the classroom, and most in-class activities will also make use of it. Carry the Mobile Radio at all times!\n\nClasses, Lectures, and Class Activities are required for all students, but Communications majors will receive extra credit for building their Writing and Photography skills.\n\nEvery hour spent reporting campus events will pay off after your graduation from Sims University. Communications graduates join Journalism, Politics and Fortune-Telling careers at higher levels with higher pay than less-educated Sims. Keep your grades up and your senses keen to journalistic possibilities; the better your performance at University, the better your job prospects after graduation.\n\nOur faculty wishes you the best of luck in your academic endeavors, and welcome again to Sims University!
    [128DD] 0xC6721172FD2BF588: Sims University likes to make sure all students are well informed of the degree options offered, as well as the benefits for earning a degree from our institution.\n\nRegardless of the degree you have chosen to earn, your final grade is important to your success in the outside world. The higher your grade when you graduate, the better the career benefits.\n\nA Business degree is useful for Sims trying to succeed in the busy world of Business or Criminal enterprises.\n\nTechnology majors will find ample opportunities in Military and Law Enforcement careers.\n\nA degree in Science & Medicine will prepare any Sim for the demanding careers of Science and Medicine.\n\nFuture Politicians, Journalists, and Fortune Tellers should invest in a Communications degree.\n\nFine Arts is the degree for Sims interested in careers in Music, Culinary, or Film.\n\nA Physical Education degree is perfect for Professional Sports junkies. DO NOT TRANSLATE
    [128DE] 0xFAA4FCF48E6FB0D8: Welcome to the Thomas School of Art at Sims University. Fine Arts students pursue noble endeavors without promise of reward, and the faculty are committed to your academic success.\n\nAll students in the Fine Arts major receive a Sketchbook when they enroll, which will assist your skill development both inside and outside the classroom. Keep it with you always, and sketch anything that might catch your eye.\n\nClasses, Lectures, and Class Activities are required for all students, but Fine Arts majors will receive extra credit for building their Street Art, Painting, Cooking and Guitar skills.\n\nEvery brushstroke and flip of the spatula will pay off in the years to come. Fine Arts graduates may join Music, Culinary and Film careers at higher levels with better pay than lesser-educated Sims. Keep your grades as glorious as your imagination; the higher your grades at the Thomas School, the better you’ll be positioned to succeed in the highly competitive world of Fine Art.\n\nOur faculty wishes you the best of luck in your academic endeavors, and welcome again to Sims University!
@@ -79957,7 +79957,7 @@ Unknown3: 0x00000000
    [13850] 0x2DCC38475471262A: Compliment Hardware
    [13851] 0x607EBA66A3DE29CF: Compliment Hardware
    [13852] 0xAC34D9B8E63A7245: Compliment Hardware
-   [13853] 0xE8EC5EE2F57233E4: Biological love is limited—sadly constrained by the failings of spoken language. Your Plumbot wants to bypass all barriers and upload those amorous feelings directly!
+   [13853] 0xE8EC5EE2F57233E4: Biological love is limited, sadly constrained by the failings of spoken language. Your Plumbot wants to bypass all barriers and upload those amorous feelings directly!
    [13854] 0xE9F3B3867B010717: Upload True Feelings 
    [13855] 0xBE586575B0ED5E28: Upload True Feelings 
    [13856] 0x2FCE50DA593D3D54: Upload True Feelings 
@@ -80041,7 +80041,7 @@ Unknown3: 0x00000000
    [138A4] 0x104500CE84F04F92: Travel to the Future
    [138A5] 0xE6F32CB55396E5C7: Travel to the Future
    [138A6] 0xA30F0631C9BA566D: Travel to the Future
-   [138A7] 0x0AA0A261A9BA91EA: Time Travel is great fun, but you’re getting homesick. Besides, you’ve learned so much about the Future—time to put that knowledge to work!
+   [138A7] 0x0AA0A261A9BA91EA: Time Travel is great fun, but you're getting homesick. Besides, you've learned so much about the Future; time to put that knowledge to work!
    [138A8] 0xD79495A887FED5DD: Travel to the Present
    [138A9] 0xB0994B8E5DFF3DA6: Travel to the Present
    [138AA] 0x78FC90E16C6DA546: Travel to the Present
@@ -80229,7 +80229,7 @@ Unknown3: 0x00000000
    [13960] 0xEE6036699801C49B: Learn {0.Number} Traits from Other Sims
    [13961] 0x8606D97634658C5C: Learn {0.Number} Traits from Other Sims
    [13962] 0xD7B8BE2527A05318: Learn {0.Number} Traits from Other Sims
-   [13963] 0x41FD5B6786889FED: It takes tremendous talent and dedication to write a hit novel. Your Sim isn’t content with just one—you want to pen a whole string!
+   [13963] 0x41FD5B6786889FED: It takes tremendous talent and dedication to write a hit novel. Your Sim isn't content with just one; you want to pen a whole string!
    [13964] 0x3BC4481F0983D870: Write {0.Number} Hit Novels
    [13965] 0x62325EA80F103A1D: Write {0.Number} Hit Novels
    [13966] 0x2409A02E02BBABE7: Write {0.Number} Hit Novels
@@ -81247,13 +81247,13 @@ Unknown3: 0x00000000
    [13D5A] 0xBF3949D37CB04502: Congratulations, {0.SimFirstName} placed {1.String}! Enjoy your prize money!
    [13D5B] 0xEF2DD77418A924BA: Having acted their way past the amateurs, {0.SimName} is ready for professionals in the Invitational Dramatic Character Replication Contest.
    [13D5C] 0x6C55A22570C51662: {0.SimName} is taking {MA.his}{FA.her} burgeoning acting skills to the big stage, entering the Amateur Dramatic Character Replication Contest!
-   [13D5D] 0x7C30A20960FB5988: {0.SimName} has entered the Worldwide Dramatic Character Replication Contest —a single dramatic monologue could win a lifetime of acclaim!
+   [13D5D] 0x7C30A20960FB5988: {0.SimName} has entered the Worldwide Dramatic Character Replication Contest; a single dramatic monologue could win a lifetime of acclaim!
    [13D5E] 0x9BAB7FFD27C2DBC8: {0.SimName}’s success in the arena is attracting notice. Dominate the Welterweight Simulated Combat Contest to continue your cosmic climb!
    [13D5F] 0x559FBAEB28143E78: {0.SimName} always had some aggressive algorithms rattling around its processor. Put up your dukes in the Lightweight Simulated Combat Contest!
    [13D60] 0xF9CEBAC44650FDDA: Long and brutal training has prepared {0.SimName} for this ultimate moment: the Heavyweight Simulated Combat Championship of the World!
    [13D61] 0x942E93FA273B7916: There’s nothing like building something with your own cold, metal hands. {0.SimName} just entered the Steel Plumbot Construction Contest.
    [13D62] 0xD940A962F647C1AE: {0.SimName} knows {MA.his}{FA.her} way around Bot Workshops, but entering in the Pewter Plumbot Construction Contest is nerve-wracking!
-   [13D63] 0x3241E222B677AEC4: {0.SimName} is prepared to compete in the Tungsten Plumbot Construction Contest—the ultimate trial for Plumbot enthusiasts!
+   [13D63] 0x3241E222B677AEC4: {0.SimName} is prepared to compete in the Tungsten Plumbot Construction Contest, the ultimate trial for Plumbot enthusiasts!
    [13D64] 0x4C4AC86FA692E80E: {0.SimFirstName} has placed 1st in the {1.String}! Superb Job! In addition to the prize money, {0.SimFirstName} has received a trophy and the adoration of the crowd!
    [13D65] 0x600CDDD66F3C0C9C: {0.SimFirstName} placed 1st in the {1.String}! Superb Job! In addition to the prize money, {0.SimFirstName} has received a trophy and the {2.String} chip!
    [13D66] 0xAA3DF7FA19A8E263: {0.SimName} was able to find {1.Number} vials of Stardust and {2.Number} Dark Matter on {MA.his}{FA.her} travel to Simulon V.
