@@ -80410,9 +80410,9 @@ Unknown3: 0x00000000
    [13A15] 0xD6D33E5C42A83B94: Check the Alignment of the Stars
    [13A16] 0xA51FB095398A0480: Check the Alignment of the Stars
    [13A17] 0x0E38742863B1B385: The human body wasn’t made to operate in Zero Gravity, so it takes a lot of practice. Your Sim wants to get working!
-   [13A18] 0xF74BD3F5D8641D58: Practice Antigravity Technique
-   [13A19] 0x728FBEBB4AE12C95: Practice Antigravity Technique
-   [13A1A] 0x4085FCEFE594D8EF: Practice Antigravity Technique
+   [13A18] 0xF74BD3F5D8641D58: Practice Anti-Gravity Technique
+   [13A19] 0x728FBEBB4AE12C95: Practice Anti-Gravity Technique
+   [13A1A] 0x4085FCEFE594D8EF: Practice Anti-Gravity Technique
    [13A1B] 0xE93A164534BB3B5A: Light Travel is safe, but transit to the distant Simulon V is dangerous without vast expertise. Luckily, your Sim is qualified. Launch yourself to infinity!
    [13A1C] 0x3A8CE9087CCABB6D: Light Travel to Simulon V
    [13A1D] 0xC7526A1CDC2618B6: Light Travel to Simulon V
@@ -81171,8 +81171,8 @@ Unknown3: 0x00000000
    [13D0E] 0x99E51CABF48E4B11: {0.SimFirstName} can now receive a daily pension of {1.Money} if {MA.he}{FA.she} wants to retire. Sims can only ever draw a pension from a single career. Should {0.SimFirstName} retire?
    [13D0F] 0x8A4A3151B33719B8: Compliment Boss' Space Suit
    [13D10] 0xB03D4422A6542FB6: Everyone knows it – The Boss’ space suit is the most decorated and therefore the best. It’s time the head honcho knew it!
-   [13D11] 0x459F144C6877AAC7: Float Idly in Antigravity
-   [13D12] 0x14698E8EFD62C8B3: The best attraction in the Planetarium happens to be the most fun – the Antigravity Chamber! Slack off and let someone else make new discoveries.
+   [13D11] 0x459F144C6877AAC7: Float Idly in Anti-Gravity
+   [13D12] 0x14698E8EFD62C8B3: The best attraction in the Planetarium happens to be the most fun – the Anti-Gravity Chamber! Slack off and let someone else make new discoveries.
    [13D13] 0xC6F700F891D27DB5: Arena Official
    [13D14] 0x890FD2CF43AB68FF: Hang Out at Planetarium
    [13D15] 0x725AB2B2CDEF42DB: Astronomy is hard work no doubt, so shooting the breeze is a welcome distraction. A close knit group of Astronomers makes the hard work easier.
