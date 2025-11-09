@@ -38705,7 +38705,7 @@ Unknown3: 0x00000000
    [0972C] 0xAAD4B48C08A12486: Egg Rolls
    [0972D] 0x6F73A6E13EC4880C: Rolled with goodness, these delicious appetizers are packed with yummy veggies, dipped in batter, and fried to a golden brown. What about the egg you ask? That’s a great question.
    [0972E] 0x4C0D9D3B10853AFA: Falafel
-   [0972F] 0x322054DC9A858C90: While they make great hors d'oeuvres, simply adding a little onion and lettuce to a Falafel plate can make these scrumptious bite-lets a full fledged meal.
+   [0972F] 0x322054DC9A858C90: While they make great hors d'oeuvres, simply adding a little onion and lettuce to a Falafel plate can make these scrumptious bite-lets a full-fledged meal.
    [09730] 0xADD9B759165E2F3F: Frogs Legs
    [09731] 0x38E6012C5E01971B: Although they may sound despicable to some, Frogs Legs are a great delicacy in Champs Les Sims. Just don’t freak out if they start to twitch when cooking them, it’s completely natural.
    [09732] 0x4B851FBFDFFA85ED: Shawarma
@@ -47108,7 +47108,7 @@ Unknown3: 0x00000000
    [0B7FF] 0xEA2503CFF95BE4A0: It is an honor to present {0.SimFirstName} with the Sim's Choice Award.
    [0B800] 0xDA440A5E1D1FC30E: {0.SimName} has been promoted to a full-time Film Career.
    [0B801] 0x163C5E75111BAF90: Join Film Career
-   [0B802] 0xE0E3F6B79111B52C: Join Part Time Film Career
+   [0B802] 0xE0E3F6B79111B52C: Join Part-Time Film Career
    [0B803] 0x728033D415F76818: Having Celebrity status is important in the entertainment business. The more well-known you are, the greater success you will have in this career.
    [0B804] 0xC1A7C5AB03757018: Celebrity
    [0B805] 0x940A522728C91559: {0.SimName} should wait awhile before asking for an autograph from this Sim again.
@@ -48356,7 +48356,7 @@ Unknown3: 0x00000000
    [0BCDF] 0x6E3CBCA134764159: Befriending the other cast members will make your work life that much better. Also, it helps build relationships with them.
    [0BCE0] 0x029001D10CD5D894: Meet Cast Members
    [0BCE1] 0x6D31292CC6FEC8F2: It always helps to get to know the people you'll be making a movie with. Might as well spend some time meeting them!
-   [0BCE2] 0x8BC32638E2DA9D1E: Part Time Film
+   [0BCE2] 0x8BC32638E2DA9D1E: Part-Time Film
    [0BCE3] 0xF7FA4CF733179322: Take Headshots
    [0BCE4] 0x1C9D293D91DC7E48: Every actor can use some publicity. Having headshots taken can make you more famous around town!
    [0BCE5] 0x3F79B59A9D5EC1F1: Practice Scriptwriting
