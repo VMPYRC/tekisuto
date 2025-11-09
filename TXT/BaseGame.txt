@@ -21514,14 +21514,14 @@ Unknown3: 0x00000000
    [05405] 0x851779D0CDA3B7D7: Pulsar
    [05406] 0xC37D7D0F3ABB5999: Sub Giant
    [05407] 0xBD4AF5366275F8D8: Super Giant
-   [05408] 0xD2A66F9020081A35: Talk About black hole {0.String}
+   [05408] 0xD2A66F9020081A35: Talk About Black Hole {0.String}
    [05409] 0xE7E26D26F884C86F: Talk About Comet {0.String}
    [0540A] 0xA83F3309721046AD: Talk About Galaxy {0.String}
    [0540B] 0xDE99FDEE8EC4BDEA: Talk About Moon {0.String}
    [0540C] 0x8E28DFF5E974A16B: Talk About Planet {0.String}
    [0540D] 0x638B54DC4C10C4C4: Talk About Satellite {0.String}
    [0540E] 0x3520B9EEBFBFFFC9: Talk About Star {0.String}
-   [0540F] 0xD833639CAC24D044: black hole
+   [0540F] 0xD833639CAC24D044: Black Hole
    [05410] 0x9088DAC63B418344: Comet
    [05411] 0xB40CC03868104A30: Galaxy
    [05412] 0xBDD2D4AD5DA5DB63: Moon
