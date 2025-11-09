@@ -195,7 +195,7 @@ Unknown3: 0x00000000
    [0BE] 0x69D5CEF908B6A137: What's better than some shade on a blistering hot day? "Nothing" argues Beto, the inventor of these classically inspired awnings. He’s never had a sip of ice cold lemonade before, but he claims if he had, lemonade still couldn’t beat the heat busting potential of his awnings.
    [0BF] 0x2BE06898F8E1AC37: Architecture helps us to understand our past, present, and future. It's a culmination of trends and values in a physical form. Hopefully, by understanding our past, we can avoid follies in the future.
    [0C0] 0x5B0C4C5FF32B1457: This small and stylish cabinet is perfect for so many rooms in your house. Perched on a bathroom wall, it holds all of your ablution solutions and more. Hang it in the hallway for whatnots and things-a-majigs.
-   [0C1] 0xFF6E97514045E31F: Looking for an escape—or just a way out of here? Placing these handy signs makes it clear which way is out. Unless of course you intentionally misplace them.
+   [0C1] 0xFF6E97514045E31F: Looking for an escape, or just a way out of here? Placing these handy signs makes it clear which way is out. Unless of course you intentionally misplace them.
    [0C2] 0x168649FA46A8EFD3: After a long day of fighting fires - or hanging around at the firehouse waiting for fires - every fireman should hang his coat on a hook on the wall in order to air out the smell of smoke and perspiration.
    [0C3] 0x111D5644029300A7: With over 100 meters of tubing and featuring a bright red housing device, this wall-mounted hose is at home in any fire station, or large yard.
    [0C4] 0x2E300B29CCAEF247: Sometimes a building has more to say than just the subtleties that are evoked by its architectural style or paint color. In such cases, a handy plaque like the Important Message for Posterity lets a building’s thoughts come through loud and clear.
@@ -1673,7 +1673,7 @@ Unknown3: 0x00000000
    [684] 0xA89335519D5C37F3: "Conduct Stakeout" at local theater
    [685] 0xDF340851BD0E1661: The Case of the Enthusiastic Fans
    [686] 0xB8474E6BEFCC0BE1: Conduct Stakeout
-   [687] 0xD6EE1AFFECB344FF: There's nothing going on around the theater — perhaps I'm not being subtle enough? I bet these stalkers were clumsy enough to leave behind evidence at the park, which is the site of {OpSource}'s last show. I should snoop for clues in the park.
+   [687] 0xD6EE1AFFECB344FF: There's nothing going on around the theater... Perhaps I'm not being subtle enough? I bet these stalkers were clumsy enough to leave behind evidence at the park, which is the site of {OpSource}'s last show. I should snoop for clues in the park.
    [688] 0xA6B0E977F2903104: "Snoop for Clues" at main park
    [689] 0xD9B4DE780F2FDE26: The Case of the Enthusiastic Fans
    [68A] 0x03F7F7B880D37E66: Snoop for Clues

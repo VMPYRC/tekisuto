@@ -52,8 +52,8 @@ Unknown3: 0x00000000
    [002F] 0x0554E7392E616227: fish kawarimono koi description needs text
    [0030] 0x2D23AFDED8EF8B4D: fish mummy fish description needs text
    [0031] 0xE8256C92F641DD61: fish ochiba koi description needs text
-   [0032] 0xECF59B67A10EBFFE: Comte LeClair bet and lost his entire fortune. Throughout his life there was only one thing that he refused to risk—a country home that featured a charming garden fountain of which he was most fond. Now you too can experience that affection with this authentic replica of the devotion-inspiring fountain.
-   [0033] 0xBC9B870F0C87880B: You don’t know what the figure is in this statue—and we don’t either. But it must have been important because someone put it in a fountain. And, with no obvious history to contradict you, imagine the fun you’ll have making up stories about what it was and what its—daring? absurd? romantic?—exploits were!
+   [0032] 0xECF59B67A10EBFFE: Comte LeClair bet and lost his entire fortune. Throughout his life there was only one thing that he refused to risk: a country home that featured a charming garden fountain of which he was most fond. Now you too can experience that affection with this authentic replica of the devotion-inspiring fountain.
+   [0033] 0xBC9B870F0C87880B: You don't know what the figure is in this statue, and we don't either. But it must have been important because someone put it in a fountain. And, with no obvious history to contradict you, imagine the fun you'll have making up stories about what it was and what its daring, absurd, or romantic exploits were!
    [0034] 0xFEF08B473EA25654: Before incense holders, there was the Incense Holder. A man was actually paid to come to your house and hold incense for you. His job became obsolete around the same time as the milk man.
    [0035] 0xE06DDE56112031F6: Inscription Plaques are great for tombs or basements!
    [0036] 0x1F4468BCA4538488: This hanging bowl light is a classic example of Brahman's unique knack for lighting design. Either that, or his cheap knack for lighting design.

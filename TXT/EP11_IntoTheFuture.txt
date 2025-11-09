@@ -99,21 +99,21 @@ Unknown3: 0x00000000
    [05E] 0x0F831D71ADDB8534: Rainbow Flower
    [05F] 0x80FA8C2F1BF0FD24: Sims concerned about environmental meltdown are changing their diets to be easier on the planet. This food processor is the only thing that might make the goop edible.
    [060] 0x7C47925418BA6373: We live in a busy world; there’s often no time to cook, and most snack food is unhealthy. Food synthesizers bridge this gap with full, delicious meals on instant offering!
-   [061] 0x7BBA4498F2AF71C4: Named after the most-famous footballer of all time—you’ve never heard of him, but you will!—this Foosball Table offers unlimited hours of fun for the whole family.
+   [061] 0x7BBA4498F2AF71C4: Named after the most-famous footballer of all time. You've never heard of him, but you will! This Foosball Table offers unlimited hours of fun for the whole family.
    [062] 0x9D93DC546EC05E6B: As the rain falls, Sims descend along the helix of their own flawed genomes into a jungle of barbarism. Awe any audience into solemn silence with this water sculpture!
    [063] 0xFD1EFDD03AAAB60A: Bold cubist lines make this fountain a mesmerizing centerpiece for any open space. Nothing says high-class like a fountain and the Panther Modern is guaranteed to drop jaws.
    [064] 0xC18E3DDCDAA35D60: Like drops in a waterfall, so are the days of Sims’ lives. Install this high-fashion fountain in your foyer and treat any guests to the image of mortality’s inexorable trickle.
    [065] 0xD91D4FECE44C0535: Three platforms seem to float in space, anchored together only by a constant flow of fresh water. The mind is blown into tiny particles, thinking nothing of the pipework behind.
    [066] 0x472809729637C4C5: Install this plug-and-play appliance in your home and enjoy your own personal bartender! DISCLAIMER: Drink Synthesizer is not a therapist and will not offer advice regarding your personal problems.
    [067] 0x7E08892B08CDBED3: If you want to keep signage cheap, reduce its profile while maintaining its presence. This holographic sign is as thin as light itself, but packs a billboard’s advertising punch.
-   [068] 0x3D10F4FE6172B2E7: We expect much more from electronics these days—why not walls as well? Full-length projections transform barren surfaces to suit your every mood and fancy.
+   [068] 0x3D10F4FE6172B2E7: We expect much more from electronics these days, so why not walls as well? Full-length projections transform barren surfaces to suit your every mood and fancy.
    [069] 0x3D06F2FE616A5ADA: The bigger the projection panel, the more vivid the vistas! Modern Arcology takes their wall-screen technology to the next level with this enormous panoramic display.
    [06A] 0x37CB90C4C405AF9A: Gallery Shop Shell
    [06B] 0x929D7C92FC8C7FFD: Cars often have the features to sell themselves, but an elevated dais takes your pitch to the next level. Offer up your vehicular products to the Spirits of Commerce!
    [06C] 0x81D62DB19235BFF5: Place your finest wares in the finest possible light with the Rubikon pedestal. Simple lines and right angles keep the display minimal, keeping all focus on the product.
    [06D] 0xD4AF99BB71552D2D: Using the magic of circular geometry, the Concentroid pedestal fits maximum retail presence into minimal surface area. It offers your merchandise to the consumer like a powerful and ancient artifact.
    [06E] 0xE81EA9D9AF69EFE3: Success in retail is about managing attention. Where are customers looking at any given moment? The Discara pedestal’s sublime curves constantly beckon Sims’ eyeballs.
-   [06F] 0xE832ADD9AF7A9F93: For retailing truly large objects, you need a mammoth display. You might want to reconsider the customer flow around your shop—this pedestal will be drawing crowds!
+   [06F] 0xE832ADD9AF7A9F93: For retailing truly large objects, you need a mammoth display. You might want to reconsider the customer flow around your shop; this pedestal will be drawing crowds!
    [070] 0x2BF88038D8051FA8: When you’re trying to draw attention to a small-but-valuable object, nothing helps more than elevation. The Ivoroid pedestal sets your products at a tantalizingly touchable level.
    [071] 0x2BFC8638D8091290: Set your finest wares in the Charon pedestal’s sophisticated repulsor field. Watch them hang in the air, practically begging Sims to fork over their hard-earned Simoleons.
    [072] 0x9D69079719F9F4E1: Large retail spaces demand large eye-grabbing signage. Draw customers from miles around with the Galaxar Galleria sign, combining physical presence and holo-technology.
@@ -136,7 +136,7 @@ Unknown3: 0x00000000
    [083] 0xB067E3DDC0095216: Luxury doesn’t have to be ostentatious. For the understated Sim about town, Arasika presents the sumptuous two-door Palanquin! It’s not practical to be carried by servants, so this will do.
    [084] 0xC9DA47CD4FD67B50: Just one step away from a limousine, the four-door Chariot whisks the world’s most refined Sims around on feathery beds of air! EX stands for “excess,” probably. We’re not sure.
    [085] 0xD502765D6ECB9966: As the heaviest and most versatile model in Arasika’s fleet, the Bison is a must-have for adventurous families. Its massive hatchback trunk has single-handedly saved road trip vacations!
-   [086] 0x0947C6E04A6EAD72: Most Sims don’t demand much from their cars—they want economy and dependability. Enter the Fenris, a two-door hovercar featuring everything you need and nothing you don’t.
+   [086] 0x0947C6E04A6EAD72: Most Sims don't demand much from their cars; they want economy and dependability. Enter the Fenris, a two-door hovercar featuring everything you need and nothing you don't.
    [087] 0x4EC1AB1346BACEC7: The hardest worker of the Arasika Fleet, “Elroy” meets all your hauling needs with pluck and a smile! Proprietary hover technology keep the vehicle airborne even under massive loads.
    [088] 0x65CC2795D5BFF8A4: A classy status symbol! This fine sedan features beautiful upholstering and elegant presentation. It bears the soothingly meaningless name “Liara,” because that’s what the focus groups liked best.
    [089] 0xF8AE6535FCA70F9A: For the bold Sim looking to make a statement, the Ratatask sports hovercar is an obvious choice. Howl up and down the boulevards--everyone else will be terribly impressed!
@@ -155,7 +155,7 @@ Unknown3: 0x00000000
    [096] 0x7EE433EC78757AEC: Candles may be banned by the Wax Conservation Act of 2025, but this bowl-shaped lamp is the next best thing. Enjoy those warm cozy shadows without depriving the poor bees!
    [097] 0x2655265CEFBD36EF: The latest vision in home lighting from legendary designer Ashley Tessier. Conceptualizing the five dimensions of the known universe, this lamp illuminates rooms and minds alike.
    [098] 0x9A02DB95C5715D4F: Employing Arasika’s ultra-thin “Planck” technology, these wall lamps are perfect for showing off. Mirrors, paintings and other decorations shine while the lights themselves remain tastefully understated.
-   [099] 0xCA451DDBF1A400CE: Sweeping curves cradle soft cushions, projecting security and comfort. Curl up with your lover—human or otherwise—on this sumptuous love seat to watch C-Beams glitter in the dark.
+   [099] 0xCA451DDBF1A400CE: Sweeping curves cradle soft cushions, projecting security and comfort. Curl up with your lover, human or otherwise, on this sumptuous love seat to watch C-Beams glitter in the dark.
    [09A] 0x559F5963D1213FBB: Public fixtures must be many things: attractive, subtle, functional and sturdy. This particular park bench adds just a dash of bold, make-out-in-public romance!
    [09B] 0x698337BD84BFB1ED: magicGnomeVul PLACEHOLDER DESCRIPTION DNT
    [09C] 0xBCA954549DBA0366: The final destination when a Sim moves on... Keep your voice down and respect the resting!
@@ -264,7 +264,7 @@ Unknown3: 0x00000000
    [103] 0xA1C60E28ABEF441C: Crashed Ship Door
    [104] 0x9A2593F62B874ECC: Future Lounge Shell
    [105] 0x9AC2AE01C0C6C870: Crashed Ship Shell
-   [106] 0x537B81FDD65FECA4: Shower curtains are tired symbols of an older, stuffier time. Strip down and shower where everyone can see—at least until the glass fogs up.
+   [106] 0x537B81FDD65FECA4: Shower curtains are tired symbols of an older, stuffier time. Strip down and shower where everyone can see... at least until the glass fogs up.
    [107] 0x0A20C9E8604AAA65: Creeping industrial pollution may have weakened the world’s botanical stock, but Lexworth Industrial is committed to verdant, natural trees! Well, “verdant” might be a strong word, but they’re basically green.
    [108] 0x9E746355BAB27591: Built to the specifications of Master Plumber Barry Tuttle, this futuristic countertop sink gives you ample space to chop veggies or wash your dishes!
    [109] 0x8A390E6C455C4999: One day, curved surfaces will be seen as relics of an indulgent past. Arasika Industries prepares you for the future with these finely machined spigots and faucet.
@@ -291,7 +291,7 @@ Unknown3: 0x00000000
    [11E] 0xD8DBAD3E7FDD6BA8: Swing sets are a classic part of growing up. The fun doesn’t fade with time, technology or age. If your rear fits on the seat, go for it! 
    [11F] 0x45309874C9686D87: Set down snacks and drinks on this table’s clear surface. Admire the verdant greenery sealed into its base. TerraFormation: it’s like a picnic, without all the messy nature.
    [120] 0x833C875BED56FC7F: Evoking the engines of some advanced starship, this dining table rises majestically from a narrow base to a broad glass face. Eat your meals at warp speed!
-   [121] 0x25154CADF358DEC7: Simply the most striking table made this century—or the last, or the next. Struts spiral up from a planter base, suspending your meals like a city in the clouds.
+   [121] 0x25154CADF358DEC7: Simply the most striking table made this century, or the last, or the next. Struts spiral up from a planter base, suspending your meals like a city in the clouds.
    [122] 0xE371CE1CFE6FC296: In a world paved over with concrete and steel, Sims should seek out nature at every opportunity! PlanterPod is a simple, easy splash of green in your life.
    [123] 0x0CECEF88167EB35C: A wide, sturdy base stabilizes the stars while you peer through this fine telescope. Equipped with a precision tuning handle, Perseus picks out the tiniest specks from the firmament.
    [124] 0xDCB596A4A7DA6A33: Nanite Terrarium DNT
@@ -306,11 +306,11 @@ Unknown3: 0x00000000
    [12D] 0x12B047F85BD8DAB3: Large Trash Pile
    [12E] 0xD612E326CEB45D87: Medium Trash Pile
    [12F] 0x8190D3D5CCF9371F: Small Trash Pile
-   [130] 0xA550E5775EB435FB: Park engineers and landscapers love the Beech tree for its fronded flowers and dense foliage. Vandals love the Beech for its fragile bark—even shallow cuts will scar. 
+   [130] 0xA550E5775EB435FB: Park engineers and landscapers love the Beech tree for its fronded flowers and dense foliage. Vandals love the Beech for its fragile bark, even shallow cuts will scar.
    [131] 0xF217F3899ECE0326: Luminous green leaves and a sweet spring aroma make the Bradford Pear a favorite for parks and other open spaces. Sadly, this stunted variant produces no edible fruit.
    [132] 0xA64907A6AAE3DA0E: This squat garden shrub has grown synonymous with hardiness and easy caretaking. Like a cat or a hyper-intelligent squirrel, the Burford Holly makes no demands on its owner.
    [133] 0x293FE44F618BB813: A classic garden shrub grown to its maximum height! Requires no more care than a smaller Burford Holly, and is far better at blocking out your nosy neighbors.
-   [134] 0x7F3F5083CE1F4E20: With a slender trunk and long delicate branches, the Aspen tree is a picturesque accompaniment to any natural landscape—or any arcology garden decks trying to pass as natural.
+   [134] 0x7F3F5083CE1F4E20: With a slender trunk and long delicate branches, the Aspen tree is a picturesque accompaniment to any natural landscape, or any arcology garden decks trying to pass as natural.
    [135] 0x4D247E1708A15750: This full-figured garden shrub is the perfect bordering to any walkway! Lean in to admire the Boxwood’s twinkling star-shaped leaves and you’ll be captivated by its beauty.
    [136] 0x0458C1000E774F8A: The Red Maple is a woodland staple. Take a chance while you’re able: buy one for your yard before they’re all turned into tables and the forest’s just a fable.
    [137] 0x783926205F8684EE: Experience the Future in heart-stopping holographic detail! Corebital’s newest piece of holographic technology displays incredible images from a single projector unit. A whole new dimension of entertainment awaits.
@@ -887,7 +887,7 @@ Unknown3: 0x00000000
    [372] 0x5C0775EF014BB198: Light is the key to life, transmitting energy to every corner of the planet. In similar fashion, this house’s windows and open interior flood it with natural light!
    [373] 0x5C0775EF014BB199: For the Sim who prefers a cosmopolitan lifestyle, this cozy abode combines style with convenience. Efficient living arrangements in the front, pool and sun room in the back!
    [374] 0x5C0775EF014BB19E: This amazing home is sure to blow your mind! A grassy roof keeps you cool in summer, warm in winter and the envy of the neighborhood year-round.
-   [375] 0x5C0775EF014BB19F: Built from wide-open atrium to mossy roof, this gorgeous house is a natural wonderland—a place to build a lifetime of memories with your family.
+   [375] 0x5C0775EF014BB19F: Built from wide-open atrium to mossy roof, this gorgeous house is a natural wonderland, a place to build a lifetime of memories with your family.
    [376] 0x5C0775EF014BB19C: This sumptuous house is built around a ground-level swimming pool: an oasis that sprouted bathrooms, a roof garden and an elevated walkway. It’s the perfect oasis for the most demanding Sim.
    [377] 0x5C0775EF014BB19D: Built on a sprawling lot, this home fills it to bursting with a pool and rooftop gardens. Experimental architecture squeezes all the necessities a modern Sim expects in their house.
    [378] 0x5C0775EF014BB192: Modernity isn’t for everyone. Some homeowners prefer the classic look, and this delightfully rustic plot delivers in buckets! Equipped with indoor plumbing, because some traditions are best ignored.
