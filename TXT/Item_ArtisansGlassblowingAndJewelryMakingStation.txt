@@ -38,7 +38,7 @@ Unknown3: 0x00000000
    [21] 0x2511AADB60A66516: Fan-glasstic!
    [22] 0x99E2C47F41B091FC: {0.SimFirstName} created a glass masterpiece!
    [23] 0x26F4564709F2BF5A: Once Forgotten Perfume
-   [24] 0x85A901CFEE8DC270: Sometimes it’s good to forget, particularly if it’s a loved one’s passing.
+   [24] 0x85A901CFEE8DC270: Sometimes it's good to forget, particularly if it's a loved one's passing.
    [25] 0x67D8DCAFB06A7CEE: Vanity Perfume
    [26] 0xA06CD4F6653BBBE4: Enough about me... what do YOU think about me?
    [27] 0x0EAFA59F01249351: Pain in the Glass! 
