@@ -56,7 +56,7 @@ Unknown3: 0x00000000
    [00033] 0xBA6E694D82B79299: The Penningway Bookshelf presents a rich feast for the mind! This intellectual wonderland is first carved from an 800 year old redwood, then pressed from the pulp of recycled books to create a stunning place to store your novels.
    [00034] 0xA8A9F40EF90311EB: Made to withstand the stressful rigors of academia, the Back2School Bookshelf boasts a shelf strength of over 400 tons – more than enough to hold all those overpriced textbooks you decided to keep because they might “come in handy someday,” but never do.
    [00035] 0x3710AD409067D3EC: Everybody loves recycling, right? That’s why we took genuine 20th-century hardwood library bookshelves and smashed them to a pulp in order to create these all new 21st-century library bookcases! They look the same, just more modern!
-   [00036] 0xB69F377A915D0A0D: During the sci-fi craze of the 1950’s, visionaries often dreamt of a future filled with space travel, cell phones, and hover shelves. Well, two out of three isn’t bad. And until the hover shelf is perfected, most make due with a Sturdy Shelf.
+   [00036] 0xB69F377A915D0A0D: During the sci-fi craze of the 1950s, visionaries often dreamt of a future filled with space travel, cell phones, and hover shelves. Well, two out of three isn't bad. And until the hover shelf is perfected, most make due with a Sturdy Shelf.
    [00037] 0x7C74288E44B5B451: This is a Book Store for your town.
    [00038] 0x09E8E6AD25F73AE8: Ahh, lavender. No wait, cucumber and raindrops! Is that... is that pine? Bathers will love the exciting and often unknown aromas emanating from the World's Brew Bubble Bath. Bathers are encouraged not to drink or inhale deeply.
    [00039] 0x315A793D5D8CBA4F: When commissioned to build this table, we focused on great portions of delicious food – the surface taking a back seat. Recycled dough, extra firm walnuts and neglected smoothies are the ingredients of this table, the pioneer effort in the burgeoning field of culinary engineering. Eat up... just don't lean on it too heavily!
@@ -226,7 +226,7 @@ Unknown3: 0x00000000
    [000DD] 0x304A811D69117890: Doors don’t always have to be boring and predictable. Just look at the Puerta Loca. You never know what to expect from this wacky door. Is it open? Is it closed? Is it even a door at all? With the crazy Puerta Loca, who knows?
    [000DE] 0x7C473C1A70BE8B58: For socially awkward entryways, consider the Dorky Door. Its patented Nerd Knob helps absorb nervous palm sweat, while staying easy enough for even the limpest wrist to open. All this makes the Dorky Door a dweeb's dream come true.
    [000DF] 0x9679D6CA0E73A020: As the World Narcissistic Index (WNI) continues to rise, so does the demand for vanity arches. Leading this new trend is the Prima Donna, an arrogant archway with smugness to spare. 
-   [000E0] 0x8B67A074DF0C6EA2: This style of door was popularized by magazine publishing companies in the '50s. Fortunately, these updated models no longer drop subscription cards all over your floor whenever you open them!
+   [000E0] 0x8B67A074DF0C6EA2: This style of door was popularized by magazine publishing companies in the 50s. Fortunately, these updated models no longer drop subscription cards all over your floor whenever you open them!
    [000E1] 0x78DE85CC3292BD0A: A sympathetic ear is hard to come by these days. People need something that will really hear them when they talk. That’s where the Listening Arch comes in. There's nothing to reflect sound back to you, so you can talk all you want with no distractions!
    [000E2] 0xF00CA49E24FBDA1C: The traditions of home and hearth are fully captured in spirit... and some building materials, in the Great Tradition Doorway. Step through and feel it work its magic. Traditionally, of course.
    [000E3] 0x9695F792AA26B717: The wet blankets at Misery Loves Co. have done it again with their latest offering, the Buzzkill. This arch is a real downer, the perfect bummer compliment to any home that suffers from too much perk and positivity.
@@ -274,7 +274,7 @@ Unknown3: 0x00000000
    [0010D] 0x78E43D767D9E0F57: The dictionary defines balusters as, “those curvy doohickeys that support a balustrade fence.” And the Baluster Rail Fence is lousy with the things. So if vase-like doodads are your thing, then get some Baluster Rail posthaste.
    [0010E] 0xCE4E0B808C696870: We know you've dreamt a long time about making the classic home, complete with picket fence, front porch and beautiful house. With Suburbia Landscaping, property owners can begin to place planks today!
    [0010F] 0x2F72DEA01394C36E: When you have the most boring fence imaginable, only a suitably dull gate will do. Hey, at least you can paint it!
-   [00110] 0xE700CE98FCF89E18: After the monorail bubble burst in the late 1990’s, investors scrambled to recoup their losses with Monorail Fencing. Made primarily from leftover tracks, each Monorail Fence reminds us of simpler times, when investment capital was easier to secure than candy from a baby.
+   [00110] 0xE700CE98FCF89E18: After the monorail bubble burst in the late 1990s, investors scrambled to recoup their losses with Monorail Fencing. Made primarily from leftover tracks, each Monorail Fence reminds us of simpler times, when investment capital was easier to secure than candy from a baby.
    [00111] 0x5F6A88B712912844: Because even chickens need to cross the road sometimes. Let them in and out with the Farm Country Gate. Goes perfectly with the Farm Country Fence.
    [00112] 0x278B7009A8C5B06A: Because even chickens need to cross the road sometimes. Let them in and out with the Farm Country Gate. Goes perfectly with the Farm Country Fence.
    [00113] 0x610C358C5DFA4E06: Why did the chicken cross the road? Probably because it wasn’t fenced in properly. But the Farm Country fence puts an end to this poultry pedestrianism once and for all. And that’s something even the chickenless can find comforting.
@@ -12284,8 +12284,8 @@ Unknown3: 0x00000000
    [02FF7] 0xD8752DF58FAEB1C1: Phew! You were able to tidy the Bookstore before the situation worsened, saving countless lives and making it possible to shop again! The bookstore wants to thank you with this money, as well as this new composition you uncovered in the depths of the music section!
    [02FF8] 0xCE4A8D200DF696B6: The music section at the Bookstore has become a tad unruly and they need an expert to come in and sort things. Quickly travel to the bookstore to help out and earn a little money.
    [02FF9] 0x38AEEE7A787CAD6D: The music section at the Bookstore has become a tad unruly and they need an expert to come in and sort things. Quickly travel to the bookstore to help out and earn a little money.
-   [02FFA] 0x127D5D786105D08E: Oh no! You didn’t get to the Bookstore quickly enough and the music section crumbled into utter catalog chaos. Due to your negligence, an avalanche of 80's music fell from the top shelf and claimed two victims!
-   [02FFB] 0x1665A2E27F12BC05: Oh no! You didn’t get to the Bookstore quickly enough and the music section crumbled into utter catalog chaos. Due to your negligence, an avalanche of 80's music fell from the top shelf and claimed two victims!
+   [02FFA] 0x127D5D786105D08E: Oh no! You didn't get to the Bookstore quickly enough, and the music section crumbled into utter catalog chaos. Due to your negligence, an avalanche of 80s music fell from the top shelf and claimed two victims!
+   [02FFB] 0x1665A2E27F12BC05: Oh no! You didn't get to the Bookstore quickly enough, and the music section crumbled into utter catalog chaos. Due to your negligence, an avalanche of 80s music fell from the top shelf and claimed two victims!
    [02FFC] 0x1B9F075867A4B9CB: “Help Organize Music” at the Bookstore before time runs out to earn some money.
    [02FFD] 0x0B8B73E2A7E5A9F2: “Help Organize Music” at the Bookstore before time runs out to earn some money.
    [02FFE] 0x4EA2FA5884446349: Sorting the Section
@@ -35233,7 +35233,7 @@ Unknown3: 0x00000000
    [0899C] 0xC829E2E6675AA348: This traditional row house remains a classic. It’s topped by an attic and includes interconnected back porches for each of the four floors.
    [0899D] 0x7E15C3E798FD4EFD: This modern, nautical-inspired home will inspire you to keep things ship shape while swabbing the deck of your new home.
    [0899E] 0x857067604F5A02B0: The bright side is that this humble home is at least one step better than a tent since it comes complete with walls and floors that are mostly leak proof.
-   [0899F] 0x3B44975EC8C0F610: The interior of this A-frame house flashes back to the '70s with flair. The backyard includes a grove of pine trees and a massive deck.
+   [0899F] 0x3B44975EC8C0F610: The interior of this A-frame house flashes back to the 70s with flair. The backyard includes a grove of pine trees and a massive deck.
    [089A0] 0x70EC1BBFDFFC84B8: When you have reached that stage of life when suburban living has lost its appeal, it is time to move up to this stunning abode. 
    [089A1] 0xD3ED50CDB294F066: This fashionable contemporary house features a double height living room and open concept first floor.
    [089A2] 0x9C0B4D17109E3568: An open floor plan, dramatic bridge entrance, and sweeping cove vistas distinguish this cantilevered view home. Built mostly on one level, this elegant modern home with its round cupola studio is ideal for the artistically inclined.
@@ -84645,7 +84645,7 @@ Unknown3: 0x00000000
    [14AA0] 0xDE5312A62D5CB016: Custom Rims
    [14AA1] 0x8FE1DA59D4506F7D: Auto Analysts Tools and Tricks
    [14AA2] 0x0E709F9E93750FD4: GlowCake By GlowKake
-   [14AA3] 0x6A3D02C37B29BD2F: So Very 80’s
+   [14AA3] 0x6A3D02C37B29BD2F: So Very 80s
    [14AA4] 0x444FB62B92BC3D39: Top Shelf Bar Shelving
    [14AA5] 0xB3299CD518F567BE: Delightful Café Menu
    [14AA6] 0x8C2075DBACA6331C: Steps of Progress Wall Sculpture by Hari Sendor
