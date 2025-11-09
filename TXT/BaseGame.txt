@@ -55435,7 +55435,7 @@ Unknown3: 0x00000000
    [0D886] 0xFFAAE2149A143CB4: Win {0.Number} International Jumping Competitions
    [0D887] 0xE3A6D9C26B35B920: Win {0.Number} International Jumping Competitions
    [0D888] 0x8E88145D68168FA5: Welcome to the Beginner Circuit, Newbie's Row, Amateur Hour... It's time to show them that you can out ride an Ice Cream Truck with three flat tires! Your Sim wants to Enter a Beginner Racing Competition.
-   [0D889] 0x1164425FB863A5A7: Welcome to the Beginner Circuit, Newbie's Row, Amateur Hour... It's time to show them that you can out run an Ice Cream Truck with three flat tires! Your horse wants to enter a Beginner Racing Competition.
+   [0D889] 0x1164425FB863A5A7: Welcome to the Beginner Circuit, Newbie's Row, Amateur Hour... It's time to show them that you can outrun an Ice Cream Truck with three flat tires! Your horse wants to enter a Beginner Racing Competition.
    [0D88A] 0x9AD684FBF45999F8: Enter a Beginner Racing Competition
    [0D88B] 0xF6465EF0522AE4B5: Enter a Beginner Racing Competition
    [0D88C] 0x999368DD548AA18F: Enter a Beginner Racing Competition
