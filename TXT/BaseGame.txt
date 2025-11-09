@@ -4583,7 +4583,7 @@ Unknown3: 0x00000000
    [011E2] 0x58F3AA50CF95892D: Serenade {1.SimFirstName} with Guitar
    [011E3] 0x5CB7C08E97B77754: The home always looks best with nice things. Your Sim specifically wants to improve the house with something expensive. Start shopping!
    [011E4] 0xE6F40E1D0759CDE7: Buy a New {1.String} Worth at Least {0.Money}
-   [011E5] 0x8D885CD4F4EBBCB8: Buy a $category worth at least $n simoleons
+   [011E5] 0x8D885CD4F4EBBCB8: Buy a $category worth at least §$n
    [011E6] 0x24943CE8E092EBA4: Buy a New {1.String} Worth at Least {0.Money}
    [011E7] 0x2F196E3C3AB2668D: Lightning quick reflexes (honed at the gym of course) and impeccable teamwork will take your Sim far, but only the most cat-like thieves will reach the rank of Master Thief. The path of thievery begins with the local crime organization and leads to the pilfering of the world’s jewels!
    [011E8] 0xA5F939BB0315EF48: Lightning quick reflexes (honed at the gym of course) and impeccable teamwork will take your Sim far, but only the most cat-like thieves will reach the rank of Master Thief. The path of thievery begins with the local crime organization and leads to the pilfering of the world’s jewels!
@@ -7635,7 +7635,7 @@ Unknown3: 0x00000000
    [01DCE] 0xB68B785ED3C85E84: Returned Stolen Property
    [01DCF] 0x13D13DC093DD6DED: Kleptos enjoy returning things even more than... ending up with them. After all, it's more difficult to do the right thing, even when it follows the wrong thing.
    [01DD0] 0xA85CD3563F15F268: Kleptos enjoy returning things even more than... ending up with them. After all, it's more difficult to do the right thing, even when it follows the wrong thing.
-   [01DD1] 0xC73AA4C83CCF199E: I stole some stuff and then returned it. And now instead of having a million simoleons, I feel like a million simoleons!
+   [01DD1] 0xC73AA4C83CCF199E: I stole some stuff and then returned it. And now instead of having a million Simoleons, I feel like a million Simoleons!
    [01DD2] 0x45235268F2F5EFC1: Revitalized
    [01DD3] 0x8B72A9C5E7969474: Revitalized
    [01DD4] 0xBDE2EE591314B7FD: The skin and soul feels refreshed and soothed thanks to a little time at the spa.
@@ -41197,7 +41197,7 @@ Unknown3: 0x00000000
    [0A0E8] 0xBF9FBA87E6B007EE: Architectural Eye
    [0A0E9] 0x4A1D789B8151C99D: Burglars Photographed: {0.Number}
    [0A0EA] 0x6EA56B5E246A1D86: Difficulty
-   [0A0EB] 0xFADC26FC3249603C: How difficult this photography challenge is. The more difficult the challenge, the more simoleons it will be worth.
+   [0A0EB] 0xFADC26FC3249603C: How difficult this photography challenge is. The more difficult the challenge, the more Simoleons it will be worth.
    [0A0EC] 0xE4E816ACD811275C: Favorite Aspect: {0.String} ({1.Number} photos)
    [0A0ED] 0xD530CE388A0A7EC2: Favorite Aspect: None
    [0A0EE] 0xFB1E463A95C8A9B3: Favorite Style: {0.String} ({1.Number} photos)
@@ -42753,14 +42753,14 @@ Unknown3: 0x00000000
    [0A6FC] 0x816ED093FAF5D3EA: Buy Something from the Consignment Store
    [0A6FD] 0x3F4D7A68DA5CCD8F: Buy Something from the Consignment Store
    [0A6FE] 0x44BF931DA6922205: Buy Something from the Consignment Store
-   [0A6FF] 0x64B64561425A98EE: Lifetime - *Make over $n simoleons in your own business
-   [0A700] 0x8D39045A3C5EF425: Lifetime - *Make over $n simoleons in your own business
-   [0A701] 0x0EE7A5B5705700B1: Lifetime - *Make over $n simoleons in your own business
-   [0A702] 0xCCCE078150B1E864: Lifetime - *Make over $n simoleons in your own business
-   [0A703] 0x52A839EDE1FB44FA: Lifetime - *Make over $n simoleons in your own business
-   [0A704] 0x1E2FA58B12473069: Lifetime - *Make over $n simoleons in your own business
-   [0A705] 0x2112F0A36BC074EA: Lifetime - *Make over $n simoleons in your own business
-   [0A706] 0x0A358E31791444D9: Lifetime - *Make over $n simoleons in your own business
+   [0A6FF] 0x64B64561425A98EE: Lifetime - *Make over $n Simoleons in your own business
+   [0A700] 0x8D39045A3C5EF425: Lifetime - *Make over $n Simoleons in your own business
+   [0A701] 0x0EE7A5B5705700B1: Lifetime - *Make over $n Simoleons in your own business
+   [0A702] 0xCCCE078150B1E864: Lifetime - *Make over $n Simoleons in your own business
+   [0A703] 0x52A839EDE1FB44FA: Lifetime - *Make over $n Simoleons in your own business
+   [0A704] 0x1E2FA58B12473069: Lifetime - *Make over $n Simoleons in your own business
+   [0A705] 0x2112F0A36BC074EA: Lifetime - *Make over $n Simoleons in your own business
+   [0A706] 0x0A358E31791444D9: Lifetime - *Make over $n Simoleons in your own business
    [0A707] 0x5BD430B7895F4B00: The selfless act of saving another Sim's life is one of the most exhilarating and rewarding accomplishments your Sim can imagine. Only through rigorous training to bulk up the body will your Sim have the fortitude and stamina to aid others. A sharp mind, brave heart, and the ability to stay calm under pressure will be beneficial in the unending struggle of Sim versus disaster.
    [0A708] 0x4B135CBF0617695B: The selfless act of saving another Sim's life is one of the most exhilarating and rewarding accomplishments your Sim can imagine. Only through rigorous training to bulk up the body will your Sim have the fortitude and stamina to aid others. A sharp mind, brave heart, and the ability to stay calm under pressure will be beneficial in the unending struggle of Sim versus disaster.
    [0A709] 0x91CF0C8CB099D1A3: Save {0.Number} Sims lives on the job in the Firefighter Profession
@@ -45957,7 +45957,7 @@ Unknown3: 0x00000000
    [0B380] 0x9485006BDE5A9708: Other Goods
    [0B381] 0x2BCE2899BD021668: Please enter the price that you will charge for other goods.
    [0B382] 0xE702F0C93A59FD07: Bake sale table profit report.
-   [0B383] 0xCDE6EA15B34A5401: Total simoleons spent making items: {0.Money} Total money collected: {1.Money} Total profit: {2.Money}
+   [0B383] 0xCDE6EA15B34A5401: Spent: {0.Money}\nCollected: {1.Money}\nProfit: {2.Money}
    [0B384] 0x26BF2A5B98BF7E28: {0.Number} chocolate items sold.
    [0B385] 0xB2C80000B6747A48: {0.Number} other items sold.
    [0B386] 0xBEAA6AF1705C66BF: {0.Number} vanilla items sold.
@@ -58662,7 +58662,7 @@ Unknown3: 0x00000000
    [0E521] 0x8B287F5E0FE6607D: All of your Dog’s Hunting Skill stats and skill achievements are tracked and can be referenced in the Hunting Skill Journal.
    [0E522] 0xF2D1377400460DBE: Dogs can learn to sniff out rare collectibles, and even a date for your Sim with the Hunting Skill!\n\nWould you like to learn more?
    [0E523] 0x70534BE4BB2592C3: Equestrian Center
-   [0E524] 0xE564C8F659E70DC8: If you're a prospective horse owner, a verified horse breeder, or an expert rider looking to earn some cold hard simoleons, the Equestrian Center is where you want to be.
+   [0E524] 0xE564C8F659E70DC8: If you're a prospective horse owner, a verified horse breeder, or an expert rider looking to earn some cold hard Simoleons, the Equestrian Center is where you want to be.
    [0E525] 0xE564C8F659E70DCB: Looking to jump into the world of horse ownership? Check out the horses for sale! Each one comes with a unique look and special traits. If you don't see one to your liking then check back soon, they get new horses all the time! The better the horse, the more you'll have to pay. Of course this can work to your advantage as well... If you've got a top notch horse to offer, you can make big bucks selling it here.
    [0E526] 0xE564C8F659E70DCA: So now you have a horse and you're wondering what to do with it. How about some competitions! Start off by attending a riding class to learn all about the Riding Skill. As you advance and your horse trains their Jumping and Racing Skills, more competitions will open up at the Equestrian Center. These competitions are a great way to see just how well horse and rider have bonded, as well as making a little money on the side. Alternatively, just come watch a competition with friends and family for a fun social outing!
    [0E527] 0xE564C8F659E70DCD: Keep your eye on the prize! Winning competitions is all about setting the right pace to gallop your way to victory, fame, and fortunes! A spot on the podium means you'll go home with a beautiful trophy to proudly display, and if you check the local newspaper you may just find yourself on the front page!
@@ -65392,7 +65392,7 @@ Unknown3: 0x00000000
    [0FF6B] 0x441167E0E1786995: The secret to this mysterious lamp is its many tassels. Each is a single thread spun by an enchanted Whisper Spider and treated with dew from a fairy’s wing. Not only does it make our lamps beautiful to behold, but durable as well, since each tassel is capable of supporting up to 30 metric tons without breaking!
    [0FF6C] 0x089C11DF9EAFE040: This darling Reginald lamp is sure to become an instant classic in your living room. The style is named after a well-known lamp designer’s uncle Reginald, a tall and very thin man who had the habit of standing behind people’s sofas without making any noise for hours.
    [0FF6D] 0xA9F7A8861FD2C540: The Tri-Lamp is manufactured with Lum’s unflinching standards of quality. Its base begins at the floor and goes all the way up to the lights, every time. It features an easy-to-operate switch, allowing the Tri-Lamp to go from On to Off position – and back! And this high-quality floor lamp is a floor lamp all the way – it will NEVER stick to a wall or a ceiling. Guaranteed!!
-   [0FF6E] 0xBA21E86E741792E2: You know, there’s a real market for antique lamps. Some lamps have been discovered in people’s homes and have gone for hundreds of thousands of simoleons at auction! This isn’t one of those lamps, but we’ve made sure that it really looks like one. Put one in your home, and your friends will be convinced you’re using hidden treasure to illuminate your den!
+   [0FF6E] 0xBA21E86E741792E2: You know, there's a real market for antique lamps. Some lamps have been discovered in people's homes and have gone for hundreds of thousands of Simoleons at auction! This isn't one of those lamps, but we've made sure that it really looks like one. Put one in your home, and your friends will be convinced you're using hidden treasure to illuminate your den!
    [0FF6F] 0x5099521C5FCA7949: We all know that children will not appreciate something unless it is shaped like something else. That is more or less exactly why this lamp is 45% horse-shaped. This fanciful young colt, forever caught mid-caper, will delight boys and girls alike. Turning on the light just got fun again!!
    [0FF70] 0x4AD39C1B7CA02158: The designers at Sim-plicity have reached the very zenith of simple design with their new table lamp. We know what you’re thinking: wouldn’t it be even simpler if the base had one leg instead of two? That may be, but if a design becomes too simple it can become minimalist, and that could be viewed as being fancy! This design is exactly as simple as it can be without being too simple. Another master stroke of Sim-plicity!
    [0FF71] 0x844D69FBED1A3EAD: At FancyTime, the tenuous concord we share with the flame demons continues to march along the razor’s edge. Our newest product incorporates very tiny flame demons in the hope that they will be easy to appease. Use our Table Lightener to lighten up any dark surfaces you may have in your home. So convenient! (By purchasing the FancyTime Table Lightener, you are agreeing not to enrage the flame demons.)
@@ -67377,7 +67377,7 @@ Unknown3: 0x00000000
    [1072C] 0x42F4112385E3422A: Time to take it easy. Just be vague, throw in some planet names, drop something about romance in the workplace and boom. Done.
    [1072D] 0x54FAB7A7D5C6504B: Every fortune teller must make a choice in their career – go for the Simoleons or follow the mysticism. One will lead to fame and fortune, and the other will take you down a path of spirits and destinies. The choice is yours, so choose wisely.
    [1072E] 0xE9A03FAC0243B745: Fortune Teller
-   [1072F] 0x2DC369F4A56C29C2: Some people have a special gift to see beyond our simple existence and interpret the movements of the universe itself, divine the patterns that guide all of our fates. This gift can be shared with people for money. But will you focus on the simoleons, or on the strength of your astral-spiritual connection?
+   [1072F] 0x2DC369F4A56C29C2: Some people have a special gift to see beyond our simple existence and interpret the movements of the universe itself, divine the patterns that guide all of our fates. This gift can be shared with people for money. But will you focus on the Simoleons, or on the strength of your astral-spiritual connection?
    [10730] 0x66D243E79B236A16: Fortune Teller Retirement
    [10731] 0x4D99784F3642CDEA: Group Readings
    [10732] 0xAF9CC5C1688EE360: Group Readings: a fun and exciting way for professional fortune tellers to get together and waste a bunch of time.
@@ -75163,7 +75163,7 @@ Unknown3: 0x00000000
    [12596] 0xEB3E35870E9F70A1: Spraying and tagging has really boosted {0.SimName}’s street art abilities and now {MA.he}{FA.she} can create large ground murals!
    [12597] 0xEB3E35870E9F70A2: When the art gets better, so do the tips! Now that {0.SimName} is a more accomplished street artist, {MA.he}{FA.she} should check City Hall for an opportunity to create commissioned street art!
    [12598] 0xEB3E35870E9F70A3: {0.SimName} is ready to step up {MA.his}{FA.her} street art and is now capable of creating large wall murals.
-   [12599] 0xEB3E35870E9F70AC: As a street artist starting to hit the apex of {MA.his}{FA.her} game, {0.SimName} will start receiving even more Simoloeons from tips!
+   [12599] 0xEB3E35870E9F70AC: As a street artist starting to hit the apex of {MA.his}{FA.her} game, {0.SimName} will start receiving even more Simoleons from tips!
    [1259A] 0xEB3E35870E9F70AD: {0.SimName} is really getting close to mastering street art! Now that ideas are much easier for {MA.him}{FA.her} to create, the chances of creating a ground mural masterpiece are much more likely.
    [1259B] 0x3F236E40AE565918: Accuse of Being a Sellout
    [1259C] 0x3C848CC02D441ADC: Accuse of Cheating in Class
@@ -78036,12 +78036,12 @@ Unknown3: 0x00000000
    [130CF] 0x2F586419A5BAE624: You're swimming in cash!
    [130D0] 0x65109C238EDE4C0B: Island Mogul
    [130D1] 0xC056E382F2A3C003: {2.SimFirstName} just purchased the last island. {MA.He}{FA.She} will never forget the day {MA.he}{FA.she} became the top name in island real estate.
-   [130D2] 0xA6C9A097B68CE346: It's not easy to build up a successful business, but time and trial has resulted in a 5-star resort and a wealth of simoleons!
+   [130D2] 0xA6C9A097B68CE346: It's not easy to build up a successful business, but time and trial has resulted in a 5-star resort and a wealth of Simoleons!
    [130D3] 0x964F985C8104F739: Resort Tycoon
-   [130D4] 0x878A89C72CDD199D: {2.SimFirstName} has developed {MA.his}{FA.her} resort into a 5-star establishment and earned {0.Number} simoleons! {2.SimFirstName} will never forget this success.
+   [130D4] 0x878A89C72CDD199D: {2.SimFirstName} has developed {MA.his}{FA.her} resort into a 5-star establishment and earned §{0.Number}! {2.SimFirstName} will never forget this success.
    [130D5] 0x2D53EB47E2147E8B: No treasure is too dangerous for you to find. The riches you've accumulated has made you stand out as an expert diver!
    [130D6] 0x7EFAAF9B244BBB8A: Deep Sea Salvager
-   [130D7] 0xCCA17E0E9F50B0DA: {2.SimName} has maxed {MA.his}{FA.her} diving skill and sold {0.Number} simoleons worth of collectibles. OUTSTANDING!
+   [130D7] 0xCCA17E0E9F50B0DA: {2.SimName} has maxed {MA.his}{FA.her} diving skill and sold §{0.Number} worth of collectibles. OUTSTANDING!
    [130D8] 0x0F9B2AC089D186AF: Falling is just part of learning. Keep at it and your sim will be an expert wind surfer in no time. 
    [130D9] 0x4CFAED7E2FE1E5F6: Fell Off The Board
    [130DA] 0x1235B43F6B8D69D6: {2.SimName} will never forget that first wipeout from windsurfing. 
@@ -78054,7 +78054,7 @@ Unknown3: 0x00000000
    [130E1] 0x6252EC6FF6202F7F: Not everyone can come face to face with a deadly shark and come away unscathed. You fought the predator off and came away with a souvenir!
    [130E2] 0x0407046D5CC665A6: Fended Off a Shark Attack
    [130E3] 0x92E1BA840AF46D46: {2.SimFirstName} just had a memorable fight with a shark and won!
-   [130E4] 0x589273D7C881B8EA: Moving to a new town requires a 20,000 simoleon deposit. This fee will be refunded upon reaching your new home.
+   [130E4] 0x589273D7C881B8EA: Moving to a new town requires a §20,000 deposit. This fee will be refunded upon reaching your new home.
    [130E5] 0x379F47DF4C243576: There are no other towns available to move to.
    [130E6] 0xF450FC1226F4E6A6: Hire New Employee For Bar...
    [130E7] 0xA77F7F05E48ABDC5: Hire New Employee For Food Stand...
@@ -78296,7 +78296,7 @@ Unknown3: 0x00000000
    [131D3] 0xFF7F4425E0DD2AEE: "I hope this pigeon doesn’t die from me tying a glass bottle to its leg!"
    [131D4] 0xFF7F4425E0DD2AEF: "Stuck on a deserted island. I knew I should have made a left turn at Albuquerque."
    [131D5] 0xFF7F4425E0DD2AE0: "My Grocery List: coconuts, pineapple, sand"
-   [131D6] 0xFF7F4425E0DD2AE1: "Hey! I’ve actually survived on an actual deserted island for 8 months. Where’s MY million simoleons?!"
+   [131D6] 0xFF7F4425E0DD2AE1: "Hey! I've actually survived on an actual deserted island for 8 months. Where's MY million Simoleons?!"
    [131D7] 0xA90A1E4C97C34DC9: "Getting trapped on island = way less cool than that TV show made it look"
    [131D8] 0xA90A1E4C97C34DCA: "Badly need current events update! Did the fax machine revolutionize telecommunications?"
    [131D9] 0xA90A1E4C97C34DCB: "I’m not coming back until they put my show back on the air!"
