@@ -9956,8 +9956,8 @@ Unknown3: 0x00000000
    [026DF] 0x836F1093FC061E78: Newcomers Attract Friendly Natured Residents, Burglars
    [026E0] 0x5386C983D2658132: A casual capture the flag match held yesterday provoked international tensions not seen since the Global Magician's Strike of '68. "We'll back down and stop saying mean things about their dodgy hairstyles," said a resident from the blue jersey country. "We just want our flag back!" The red jersey country did not comment.
    [026E1] 0x5386C983D2658131: The Council of Countries voted unanimously yesterday to de-regulate the international gnome trade. Many believe this will eliminate the gnome black market and help smaller gnome distributors. "Local gnome distributors have been held back by oppressive taxes and unfair regulation practices," said gnome distributor Vanya Terresto. "You can almost say our gnomes have finally been set free."
-   [026E2] 0x5386C983D2658130: A passenger plane originally departing from Strangetown was denied landing permission at its international destination and was forced to land back at Strangetown International Airport when two passengers displayed early symptoms of Strangetown Syndrome. "This is no cause for panic," urged the Strangetown mayor. "Strangetown is, and always will be, a safe and exciting vacation spot for local and international travellers." 
-   [026E3] 0x5386C983D2658137: The #1 best-selling weekly travel magazine for people who read about travel weekly, Global Vacationer Weekly, named Twikkii Island the best tropical getaway in the world. "You know the island is a special place when even our sunburns are fun," said island President Aikane Hiwalani. "Even our crabs are great. They tickle instead of pinch!" Twikkii Island expects a 34% increase in travellers this summer.
+   [026E2] 0x5386C983D2658130: A passenger plane originally departing from Strangetown was denied landing permission at its international destination and was forced to land back at Strangetown International Airport when two passengers displayed early symptoms of Strangetown Syndrome. "This is no cause for panic," urged the Strangetown mayor. "Strangetown is, and always will be, a safe and exciting vacation spot for local and international travelers."
+   [026E3] 0x5386C983D2658137: The #1 best-selling weekly travel magazine for people who read about travel weekly, Global Vacationer Weekly, named Twikkii Island the best tropical getaway in the world. "You know the island is a special place when even our sunburns are fun," said island President Aikane Hiwalani. "Even our crabs are great. They tickle instead of pinch!" Twikkii Island expects a 34% increase in travelers this summer.
    [026E4] 0x5386C983D2658136: Cries of corruption rattled the international community yesterday when Produshan Prime Minister Grant Vaughan was accused of ballot fixing in a recent election. "I am only doing what is best for Produsha," exclaimed Vaughan. The opposition was less optimistic. "Vaughan is a tyrant who cannot fairly rule this country," said opposition leader Ben Lio. "We don't even think he bathes." 
    [026E5] 0x5386C983D2658135: Gossip columnists world-wide were able to finally set their pens at ease when Prince Jamison Cwik married Duchess Andie Bartonia in a private ceremony yesterday. The long and storied engagement was believed to merely be a farce for a wedding that would never happen. Coverage of the love story sold more tabloids than the news that scientists found a way to prevent death. 
    [026E6] 0x5386C983D2658134: International relief workers flooded the city of Castrova yesterday to help put out the blaze begun by an untended flame fruit crate. Though no residents were injured, damages to the city and personal belongings are said to be extensive. "I lost my furniture, my guitar... my pants," cried resident Feisal Catania. International aid organizations are hoping money can pay for new emotional comforts.
@@ -40501,7 +40501,7 @@ Unknown3: 0x00000000
    [09E30] 0x97FE31BA71E45329: Yes! It's working! It looks like all the floor panels must be activated to seal in Dong Huo's spirit!
    [09E31] 0x173CA3398FCF1300: Trust the gaze of the statues. They look upon the path of rightousness.
    [09E32] 0x173CA3398FCF1303: The statues do not lie. Their gaze does not stray from the path of life.
-   [09E33] 0xE0BA6AD91232274B: Very good. Very good! So you have circumvented my traps and found a haven amongst death! Enjoy life while you have it, traveller. I await below. -- Dong Huo
+   [09E33] 0xE0BA6AD91232274B: Very good. Very good! So you have circumvented my traps and found a haven amongst death! Enjoy life while you have it, traveler. I await below. -- Dong Huo
    [09E34] 0x001494A632B4DB92: Tread lightly into the Tomb of the First Emperor. Even now he guards what is his and protects his people.
    [09E35] 0x8CE124701CF03988: Quiet your voice in the presence of the First Emperor. It is from here that he rules the empire.
    [09E36] 0x4A8AE6F58A3BB3B1: The First Emperor always said the path of the righteous was paved in jade...
@@ -49585,7 +49585,7 @@ Unknown3: 0x00000000
    [0C1AC] 0xA4461368196C2228: Travel Here
    [0C1AD] 0x95843BBC4D4553F0: Travel Here With Group
    [0C1AE] 0x22E28350E3A490DD: Travel Here With...
-   [0C1AF] 0xF85D202C194393AD: Travelling to {0.String}
+   [0C1AF] 0xF85D202C194393AD: Traveling to {0.String}
    [0C1B0] 0xECD6BCC5120F227B: Travel With Group To...
    [0C1B1] 0x6B8904CEEB830796: Travel With Other Sims To...
    [0C1B2] 0xE933153DD020EEFC: {0.String} Station
@@ -52238,11 +52238,11 @@ Unknown3: 0x00000000
    [0CC09] 0xE6FABB9903372275: Had a Mining Adventure
    [0CC0A] 0x277D0790E2EE2C89: {2.SimName} just burrowed deep underground on a mining adventure. This is certainly a memory to tell the grandkids about!
    [0CC0B] 0x5643318C6A83529C: Going backwards in time was fraught with peril, but it was definitely an unforgettable adventure.
-   [0CC0C] 0x4D2BDF9D2060E913: Travelled to the Past
+   [0CC0C] 0x4D2BDF9D2060E913: Traveled to the Past
    [0CC0D] 0x07E3FCDAD77ABF7B: {2.SimName} has gone someplace {MA.he}{FA.she}'s been before: the Past! This is one memory that'll go in the scrapbook to share with the grandkids.
    [0CC0E] 0xCD1A05034FF9300D: The future was really, really awesome. Saying any more could change the course of history.
-   [0CC0F] 0x0BCB2D5039583998: Travelled to the Future
-   [0CC10] 0xBF8084ABBFFFB7D4: {2.SimName} has time-travelled to the future and will remember every detail of the incredible journey...for future use.
+   [0CC0F] 0x0BCB2D5039583998: Traveled to the Future
+   [0CC10] 0xBF8084ABBFFFB7D4: {2.SimName} has time-traveled to the future and will remember every detail of the incredible journey...for future use.
    [0CC11] 0x4C92F61683D04AC7: Furniture, wallpaper, lighting...check! That first completed assignment may not have been the best, but it's a memorable achievement for any architectural designer.
    [0CC12] 0x20C731A602E3BD7E: Completed an Assignment
    [0CC13] 0xDD2034B7C537C44E: {2.SimName} has completed their first assignment, the first of many memorable moments in their architectural design career.
@@ -54598,7 +54598,7 @@ Unknown3: 0x00000000
    [0D541] 0x3C4933393F936857: Ask For {MA.Son's}{FA.Daughter's} Hand
    [0D542] 0x21B5987E41103406: Give Graduation Gift
    [0D543] 0xFA39A77E42318665: {0.SimName} is enrolled in Boarding School.
-   [0D544] 0xED45B7DEF399035A: The adults in the household are already travelling.
+   [0D544] 0xED45B7DEF399035A: The adults in the household are already traveling.
    [0D545] 0xA0F6653C25C7EA88: Occupation...
    [0D546] 0x6C10A740B68897D9: Romantic...
    [0D547] 0xCFEB498389DF7FD8: {0.SimFirstName} is too upset to be romantic with {1.SimFirstName}
@@ -63241,11 +63241,11 @@ Unknown3: 0x00000000
    [0F704] 0xBCC6274FB346A686: Performed via SimPort
    [0F705] 0x2A8AC9BF79BADF26: Although {2.SimFirstName} will always hold {MA.his}{FA.her} hometown in {MA.his}{FA.her} heart, {2.SimFirstName} is also delighted that {MA.he}{FA.she} had the opportunity to perform in a new city.
    [0F706] 0xC9032CEC770D2696: @@ perform at a passport friend's $jobtype
-   [0F707] 0x56C57F2CE02D016A: Singers will travel to perform for money, fame, or simply for the love of song. It's always a memorable event when you get to see a travelling Singer in your town!
+   [0F707] 0x56C57F2CE02D016A: Singers will travel to perform for money, fame, or simply for the love of song. It's always a memorable event when you get to see a traveling Singer in your town!
    [0F708] 0x9D8939AAF5E82CD5: Hosted a Singer at a {1.String}
    [0F709] 0xFFBEB712BAF75FE9: You hosted a Singer Sim at a {1.String}. Their singing drew strong reactions from the Sims in town. It's certainly something {2.SimFirstName} will remember!
    [0F70A] 0x9B5A857A7A877811: DNT
-   [0F70B] 0xF77369A0C7CBC841: A travelling Magician came and created illusions, tricks, and wonderments for Sims in your town to behold.
+   [0F70B] 0xF77369A0C7CBC841: A traveling Magician came and created illusions, tricks, and wonderments for Sims in your town to behold.
    [0F70C] 0x443D4B9B1DC8D334: Hosted a Magician at a {1.String}
    [0F70D] 0x05FDE53AD14C7520: A Magician Sim performed a show in your town and truly astounded the audience. Spectators may not all agree about how good the performance was, but none of them will ever forget it!
    [0F70E] 0x76D91F3B87F5C468: DNT
@@ -63429,7 +63429,7 @@ Unknown3: 0x00000000
    [0F7C0] 0x11CD2E45271A93C0: Break the Statue
    [0F7C1] 0x0462B3EF68698186: {0.SimFirstName} stumbles into a cavern with a large rainbow colored waterfall cascading down from the emptiness of space. Two frogs stand as tall as men guarding a bridge at the water's edge, spewing rainbow colored water from their mouths. The green frog will allow {0.SimFirstName} to pass if {MA.he}{FA.she} can swim up the waterfall and retrieve his cage of flies. The yellow frog will allow {0.SimFirstName} to pass if {MA.he}{FA.she} can solve the cosmic riddle. Which challenge does {0.SimFirstName} accept?
    [0F7C2] 0x0462B2EF68698035: Seeking shelter after being attacked by purple rock spitters, {0.SimFirstName} slips into a cave where {MA.he}{FA.she} finds an old man with a flowing grey beard. The mysterious old man gestures to two items lying at his feet. To the left lies a small bottle of liquid. To the right lies a sword. Knowing the danger that awaits {MA.him}{FA.her} outside, which item will {0.SimFirstName} choose?
-   [0F7C3] 0x0462B5EF6869852C: After a while of travelling through a stone dungeon, {0.SimFirstName} comes upon a giant green gem statue of Empress Bella Goth sitting atop a golden throne. At its base are a series of symbols that {0.SimFirstName} has never seen before. Upon further inspection, {0.SimFirstName} notices that inside the statue there is a key to the only door in the room. The only way out is to recover that key.
+   [0F7C3] 0x0462B5EF6869852C: After a while of traveling through a stone dungeon, {0.SimFirstName} comes upon a giant green gem statue of Empress Bella Goth sitting atop a golden throne. At its base are a series of symbols that {0.SimFirstName} has never seen before. Upon further inspection, {0.SimFirstName} notices that inside the statue there is a key to the only door in the room. The only way out is to recover that key.
    [0F7C4] 0xF28EBD8C46465C2E: Solve the Cosmic Riddle
    [0F7C5] 0xF28EBC8C46465A5D: Take the Bottle of Liquid
    [0F7C6] 0xF28EBF8C46465FB4: Decode the Symbols
