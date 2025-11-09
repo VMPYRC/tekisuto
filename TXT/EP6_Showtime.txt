@@ -78,7 +78,7 @@ Unknown3: 0x00000000
    [049] 0xF613317B5276ECB4: @@ CrowdMonsterSittingLowRes description placeholder
    [04A] 0xBE47A6EC10D5F34C: Pop into this retro hotspot for a bite to eat and maybe some entertainment.
    [04B] 0x7196211870F1DA89: Take advantage of your music mixing aptitude with this new piece of tech that will surely coddle the crudest of crowds. With Mixers and Midi’s, Sound Cards and Synthesizers, you’ll surely deliver a sound that will make any listener’s head spin.
-   [04C] 0x9F71413F33431CEB: It's a little musty and tad a bit crusty, but it remains intact to lay down a track. Its character’s true, which is apparent to you, and though others may doubt, they’ll soon scream and shout. So hop on up and take it for a spin, ‘cause this old baby has sweet tunes within.
+   [04C] 0x9F71413F33431CEB: It's a little musty and tad a bit crusty, but it remains intact to lay down a track. Its character's true, which is apparent to you, and though others may doubt, they'll soon scream and shout. So hop on up and take it for a spin, 'cause this old baby has sweet tunes within.
    [04D] 0x74C3FCD293389F32: When you’re starving for some mouthwatering melodies, this booth is the place to belly up to some beats. Dish yourself up some rich rhythms with a piping hot side of bass. Once you’ve sampled these delectable descants, everything else your ears will taste is ash.
    [04E] 0x1FB4784CBE5DAC2E: DominoRackDescription
    [04F] 0x3A817FD621DEB043: If you're going to play dominoes, do it right by playing on this Kingdomino special edition domino table. Inlaid with real imitation ivory, the hardwood surface has been scientifically engineered to be absolutely flat, perfect for keeping your dominoes from falling onto the floor.
@@ -1398,7 +1398,7 @@ Unknown3: 0x00000000
    [571] 0xE7349C43EED8D536: Go to the Park and play a 3 hour gig.
    [572] 0xF945F143F94A9D68: DJ in the Park
    [573] 0x9A67AF8CEF178224: Go to the Park and play a 3 hour gig.
-   [574] 0x0F5FEADBE05B84B4: After Party Rockin’ the VIP’s, you’re cuttin’ with the best of ‘em.
+   [574] 0x0F5FEADBE05B84B4: After Party Rockin' the VIP's, you're cuttin' with the best of 'em.
    [575] 0x146198E70AA0ADA0: Spinning vinyl in private clubs makes you one of the hottest DJ’s in town. Find a gig in any private venue, and you’ll know you’re going big time. They want you for a 3 hour show.
    [576] 0x395D83A49C24B91C: Since you ended the show early, you won't be paid. Next time, make sure you play for the agreed amount of time.
    [577] 0xAFB4FA8652463D39: Go to any of the Private Venues and play a 3 hour gig.
@@ -1489,7 +1489,7 @@ Unknown3: 0x00000000
    [5CC] 0x4998EC955FF67329: Since you didn’t show up to assist Law Enforcement, you’re now officially a suspect.
    [5CD] 0x7FA35C7A3D8DAB11: DNT
    [5CE] 0xB9E46699D6C7A9B9: The school kids loved your show. The only trick they asked for that you couldn’t pull off was making their teacher disappear.
-   [5CF] 0xF12B94129950E717: Students at the School need a break from all the Reading, ‘Riting and ‘Rithmetic. Amaze and entertain the kids while inspiring future pickpockets, grifters, and kleptomaniacs.
+   [5CF] 0xF12B94129950E717: Students at the School need a break from all the Reading, 'Riting and 'Rithmetic. Amaze and entertain the kids while inspiring future pickpockets, grifters, and kleptomaniacs.
    [5D0] 0x6D9FA924581CDD1C: Go to the School to teach magic tricks to kids.
    [5D1] 0xA3667E2477151BEE: Tricks for Tots
    [5D2] 0x1FEF50FCC0D20C7E: DNT

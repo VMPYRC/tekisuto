@@ -73,7 +73,7 @@ Unknown3: 0x00000000
    [044] 0xC4EADDB3BB44FF03: Ever since the Slab became the new school of furniture design around the world, Yang3D has stayed atop the trend and mastered it in this beautiful living chair. Its statuesque form belongs in a modern art museum and in your home.
    [045] 0x0389E731CAFBAECC: Decorate your décor with the finest in faux Italian elegance with the Contraffati Extra Grande Club Chair. The elegant curves and minimum of padding guarantee hours of uncomfortable sitting experience.
    [046] 0x68941E31737BF6D2: You'll raise a glass and say "Cheerio!" when you plop yourself down in the welcoming Foxworthy Modern Club Chair. Suave and savvy, the chair is a fixture in fine British taverns everywhere.
-   [047] 0xC361AB0766AC1638: Club SoVino patio furniture is just the right dash of wicker and vintage, perfect for evenings by the pool with a glass of Nectar. This lounge chair shouts ‘money’ so you don’t have to say it.
+   [047] 0xC361AB0766AC1638: Club SoVino patio furniture is just the right dash of wicker and vintage, perfect for evenings by the pool with a glass of Nectar. This lounge chair shouts "money", so you don't have to say it.
    [048] 0x2EEF54D042A6F438: This fine building contains City Hall, the Military Headquarters, and the Police Department.
    [049] 0xF35F8F569CD60392: Some "fancy" Sims like to hang clocks and artwork separately on their walls. Show everyone you are different by combining the two into one simple device. You'll enjoy basking in the glow of fine electric art and easy time telling for one affordable price!
    [04A] 0x4C48B9D33C7107B1: Is your home or business failing to attract that oh-so-important emo Sim market? It's probably because you lack an appropriately moody spot for them to lean against and brood! Install the Gothic Column today and watch them fight for the best spot to despond over their ennui.
@@ -451,7 +451,7 @@ Unknown3: 0x00000000
    [1BE] 0xC7DC7F45776C67AF: Precious Soap Pump
    [1BF] 0x964B8E3D9FB7F681: Pragmatic Pile of Plushness
    [1C0] 0x7458BBD3EEDBC561: Simply Dogwood
-   [1C1] 0xA9F35E57A168316D: Wheat ‘N Plenty Tub O’ Grass
+   [1C1] 0xA9F35E57A168316D: Wheat 'N Plenty Tub O' Grass
    [1C2] 0xC20B7461956503E6: Central Air Vent
    [1C3] 0xBA9F378D621FBA38: Top Shelf Bar Shelving
    [1C4] 0xFC93A8AC3A0F811F: Delightful Café Menu
@@ -813,7 +813,7 @@ Unknown3: 0x00000000
    [328] 0x063DB09D94C299DA: One house can hold so many stories. When City Entertainment started the 17th season of Little Celebrity and put this cast together, they knew they were going to have a great show. Katelyn Missoni and Apollo Bloom provide plenty of vacuous entertainment while Kirby Wise lusts after a prominent politician in town. William Fangmann is too smart for his own good, but does he know who his secret admirer is?
    [329] 0x189354956353BB96: Katrina Pala is an enterprising businesswoman, bringing the business world to life with her ambitious projects. In her custody is her less city-wise niece, Hannah Smythe. Katrina is eager to show Hannah the ropes on the business world but faces the uphill task of distracting Hannah from her reality television obsession.
    [32A] 0x9DD39B68BCC2EDC7: Most people think that Romeo is just one of the city’s wealthy playboys, running around town without a care. However, few will ever know of the sacrifices this super undercover secret agent has made for the city. This Sim could use a good night out on the town!
-   [32B] 0xBC26006AA27EE422: With so many flashy Sims in the neighborhood, it‘s easy to overlook poor Buster. If only he could earn enough in tips to afford a few more instruments... that would really make his day! Maybe he can even move out of his current digs?
+   [32B] 0xBC26006AA27EE422: With so many flashy Sims in the neighborhood, it's easy to overlook poor Buster. If only he could earn enough in tips to afford a few more instruments... that would really make his day! Maybe he can even move out of his current digs?
    [32C] 0x65364CD3965BEC4C: If the ladies in this house had fangs, they would have been at each other’s throats a long time ago. While Bianca, Lily-Bo and Marina make each other’s blood boil, vampire Beau bides his time and enjoys the feud. Which of the three will he finally find irresistible?
    [32D] 0x00F39F1E5D681475: Vlad’s ravishingly good looks have tricked many a good Sim under his spell… Most Sims in the city find him irresistible! He’s well connected in the local Vampire scene, but with a new crowd on the rise, Vlad might have to choose sides.
    [32E] 0xE591B4C52D03FE0F: Many times over, Lenny has tried to make a run at selling photographs of celebrities as an income. It has gone well at times when he got a great snapshot, but often times are tough. It’s time for Lenny to put down the camera and find a real job.
