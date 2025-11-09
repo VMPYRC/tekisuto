@@ -176,7 +176,7 @@ Unknown3: 0x00000000
    [0AB] 0x11AA2FAEA24E24A2: These bones are aged and brittle.
    [0AC] 0x5399F23A654E38DF: Museum quality!
    [0AD] 0x11AA2FAEA24E24A1: What funny looking bones!
-   [0AE] 0x11AA2FAEA24E24A0: These bones are large, but light weight.
+   [0AE] 0x11AA2FAEA24E24A0: These bones are large, but lightweight.
    [0AF] 0x829B7AEB4E412DB1: This is a Bird spawner.
    [0B0] 0x829B7AEB4E412DB2: This is a Bird spawner.
    [0B1] 0x829B7AEB4E412DB3: This is a Bird spawner.
