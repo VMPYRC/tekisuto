@@ -74732,8 +74732,8 @@ Unknown3: 0x00000000
    [123E7] 0x111FA847D6023898: Awesome painting skills has lead {0.SimName} to a promotion to Character Modeler! Work has issued {0.SimName} a laptop, and now computers can be used to work from home!
    [123E8] 0x1BDE1CF125D0EB09: PromotionLevel6 DO NOT TRANSLATE
    [123E9] 0x2D0E817558BFB79C: PromotionLevel6_Female DO NOT TRANSLATE
-   [123EA] 0xB1735B049837E8A2: After programing enough core systems in a video game, nobody else really knows how they work. {0.SimName} made {MA.himself}{FA.herself} indispensable. Congratulations, Senior Engineer!
-   [123EB] 0x8999EF0D445C0B11: After programing enough core systems in a video game, nobody else really knows how they work. {0.SimName} made {MA.himself}{FA.herself} indispensable. Congratulations, Senior Engineer!
+   [123EA] 0xB1735B049837E8A2: After programming enough core systems in a video game, nobody else really knows how they work. {0.SimName} made {MA.himself}{FA.herself} indispensable. Congratulations, Senior Engineer!
+   [123EB] 0x8999EF0D445C0B11: After programming enough core systems in a video game, nobody else really knows how they work. {0.SimName} made {MA.himself}{FA.herself} indispensable. Congratulations, Senior Engineer!
    [123EC] 0xB21E5AF27084BA26: “The hands are too big!” “The feet are too small!” All that iteration has finally paid off and {0.SimName} is now a Senior Animator, where {MA.he’ll}{FA.she’ll} have more control.
    [123ED] 0xC22F03F924D0E91D: “The hands are too big!” “The feet are too small!” All that iteration has finally paid off and {0.SimName} is now a Senior Animator, where {MA.he’ll}{FA.she’ll} have more control.
    [123EE] 0x1BDE1CF125D0EB08: PromotionLevel7 DO NOT TRANSLATE
