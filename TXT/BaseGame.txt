@@ -35442,7 +35442,7 @@ Unknown3: 0x00000000
    [08A6D] 0x9BD76473CD264BDD: The Ancients who inhabited the Northeastern Expanse years ago built an arch on a hill top. It is storied that the builders were very intelligent and predicted that in the future, people would come here to take amazing pictures of themselves in front of the arch and then tag themselves on the internet. With the Arch of the Setting Sun, you don’t have to travel to the Northeastern Expanse.
    [08A6E] 0x57AD525FDAC65A73: How can a door this size not be called a Portal to the World? Jeez! Let this oversized monstrosity guide you from the safety of your home to the danger, adventure, and mystery of your front yard!
    [08A6F] 0x17BA72A800408927: Designed for the large crowds at sporting events, concerts, and desert stick pokey tournaments, this large archway allows the maximum amount of foot traffic through its huge passageway.
-   [08A70] 0xEAF805439BF3E361: Whether providing a grand entrance to a garden hideaway or guarding the dark, winding tunnels of the catacombs, these doors evoke a touch of mystery. Other Sims will always wonder “What’s behind those mysterious doors” … until at last they venture beyond.
+   [08A70] 0xEAF805439BF3E361: Whether providing a grand entrance to a garden hideaway or guarding the dark, winding tunnels of the catacombs, these doors evoke a touch of mystery. Other Sims will always wonder "What's behind those mysterious doors?"... until at last they venture beyond.
    [08A71] 0x0F395C1D9A9C7B86: Does your cellar hold a plentiful harvest of produce or an extensive collection of Nectars? If your cellar does its job storing large quantities of goods, doesn’t it deserve a pair of doors that can easily accommodate the bounty and keep it fresh?
    [08A72] 0x4E7B4885D521722D: Rotating doors are the coolest new accessory for your house or basement. Install one today and hideout from those pesky neighbors, family members, or repo men!
    [08A73] 0x94CDA7D1CA094653: Many Sims don’t know that when doors were first invented, they were built parallel to the ground in an attempt to not disrupt the natural feng shui of a room. After a year of product testing and focus groups, they realized that the inconvenience of having to crawl through a door was just too great. They decided to disrupt the feng shui.
@@ -67153,7 +67153,7 @@ Unknown3: 0x00000000
    [1064C] 0x770D7C0E379F78B3: Flight of Felicity Fairy Enchantment
    [1064D] 0x2892368A3BBE406F: A fairy has granted {0.SimFirstName} a wish to fly! Just a sprinkling of fairy dust and the flight begins!
    [1064E] 0xCEC5CBBAAB298127: Possibility of New Friendship
-   [1064F] 0x4CD02B060FD9DB93: {0.SimFirstName} should take special notice of chance encounters today. They Sim {MA.he}{FA.she} bumped into might turn into {MA.his}{FA.her} new best friend! …Or they might not.
+   [1064F] 0x4CD02B060FD9DB93: {0.SimFirstName} should take special notice of chance encounters today. The Sim {MA.he}{FA.she} bumped into might turn into {MA.his}{FA.her} new best friend!... Or they might not.
    [10650] 0x9A9A623229A0E3B7: Frozen Solid
    [10651] 0x49082E7E1EEC2683: {0.SimFirstName} has been frozen solid, and not by something metaphorical like indecision. Quite literally.
    [10652] 0xDD5FCB22BAAC5D3B: The Gift of Giving
