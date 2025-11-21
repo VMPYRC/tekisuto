@@ -31098,15 +31098,15 @@ Unknown3: 0x00000000
    [07975] 0xE01772F23BF33661: Congratulations! {0.SimFirstName} has dedicated enough hours to strength training to complete the Body Builder Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07976] 0xA5082D8F278F25A8: Body Builders have dedicated at least {0.Number} hours to strength workouts. This dedication pays off, because they are never fatigued after strength workouts.
    [07977] 0x8B6E69724ABCC490: Body Builder
-   [07978] 0xF3DABF970FCC3BD8: Distance Jogged: {0.Number} Kilometers
+   [07978] 0xF3DABF970FCC3BD8: {0.Number} km jogged
    [07979] 0x486C035D17343827: Congratulations! {0.SimFirstName} has dedicated enough hours to cardio exercise to complete the Fitness Nut Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [0797A] 0xB0F50C7D9D33F606: Fitness Nuts have spent {0.Number} hours focusing on cardio workouts. All that time experiencing the burn means they are no longer fatigued after cardio workouts.
    [0797B] 0xDE2F86028636078A: Fitness Nut
    [0797C] 0xBC2FD4FE6E642806: Good Pacing
    [0797D] 0x8342E58CC287594E: Good Pacing
    [0797E] 0x90ED303F992964C4: You can work out longer before getting fatigued if you pace yourself properly.
-   [0797F] 0xF9EA346FB3761588: Hours of Cardio Workouts: {0.Number}
-   [07980] 0x23EB4BCFFD59C995: Hours of Strength Workouts: {0.Number}
+   [0797F] 0xF9EA346FB3761588: {0.Number} of Cardio Workouts
+   [07980] 0x23EB4BCFFD59C995: {0.Number} of Strength Workouts
    [07981] 0x38A06DE4C8FC8086: Congratulations! {0.SimFirstName} has run far enough to complete Marathon Runner Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07982] 0x82E85294465275E9: Marathon Runners must run at least {0.Number} kilometers before they earn the title. However, accomplishing this incredible feat guarantees them a longer, healthier life.
    [07983] 0x4EE29E21AD1E2995: Marathon Runner
@@ -31121,8 +31121,8 @@ Unknown3: 0x00000000
    [0798C] 0x23B2B4DB9E4740A0: Quick Burst
    [0798D] 0x67DD7615A4E21A20: Quick Burst
    [0798E] 0x7F6018DDD9B981CE: Get all the benefits of exercising (as well as the drawbacks), but in much less time!
-   [0798F] 0x52C84AB11864B07C: Hours of Cardio Workouts: {0.String}
-   [07990] 0xEAA928E4C7E08F67: Hours of Strength Workouts: {0.String}
+   [0798F] 0x52C84AB11864B07C: {0.String} of Cardio Workouts
+   [07990] 0xEAA928E4C7E08F67: {0.String} of Strength Workouts
    [07991] 0x482FBA6279259FFC: Congratulations! {0.SimFirstName} has made enough Best Friends to complete the Everybody’s Best Friend Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07992] 0xBCED93EDA0B85F1F: To be Everybody's Best Friend, have at least {0.Number} best friends. Your Friends skip Good Friend and jump immediately to Best Friends.
    [07993] 0x400811C651C4D9B7: Everybody's Best Friend
@@ -71894,7 +71894,7 @@ Unknown3: 0x00000000
    [118D1] 0xB6A7C30C8F874632: {0.SimFirstName}'s soccer match ended in a draw.
    [118D2] 0xFB46190CB633A896: {0.SimFirstName} lost the soccer match.
    [118D3] 0x2A80FA0C630DE2CC: {0.SimFirstName} won the soccer match.
-   [118D4] 0x15FD1C5BB630D586: Soccer Rank: {0.String}
+   [118D4] 0x15FD1C5BB630D586: Soccer Rank {0.String}
    [118D5] 0x8DECB5D694FAD282: 0
    [118D6] 0x8DECB5D694FAD283: 1
    [118D7] 0x8DECB5D694FAD280: 2
@@ -71902,7 +71902,7 @@ Unknown3: 0x00000000
    [118D9] 0x8DECB5D694FAD286: 4
    [118DA] 0x8DECB5D694FAD287: 5
    [118DB] 0x692D67B1D776A846: {0.SimName} just improved {MA.his}{FA.her} Soccer Rank to {1.Number}
-   [118DC] 0xE176DAA3E66F6A81: Wins-Losses-Draws: {0.Number}-{1.Number}-{2.Number}
+   [118DC] 0xE176DAA3E66F6A81: {0.Number} Wins - {1.Number} Losses - {2.Number} Draws
    [118DD] 0x3B0AE27958860846: Make objects glow with the power of neon!
    [118DE] 0x7340D499ED534EE8: Terrify the citizens of your town.
    [118DF] 0x01FD9C79C921598D: This object will have cool explosions!
