@@ -39989,7 +39989,7 @@ Unknown3: 0x00000000
    [09C30] 0x3528CB48EECDBBE9: A Historical Hoarder has Collected {0.Number} Relics of each culture. Relics discovered by Historical Hoarders are {1.Number}% more valuable.
    [09C31] 0xCBA589A6625C421E: Historical Hoarder
    [09C32] 0x482531FDC3EB9855: Historical Hoarder
-   [09C33] 0x5D0197847E393342: Simoleons Earned Selling Relics
+   [09C33] 0x5D0197847E393342: Earned Selling Relics:
    [09C34] 0x2D0A844E600A6736: Most Valuable Found: {0.Money}
    [09C35] 0x8E955CEDA9968D87: Most Valuable Found:
    [09C36] 0xEFAA6EE6BCB3BB47: {0.SimFirstName} has just discovered a new Relic Collection called {1.String}! The {1.String} Collection has {2.Number} relics in it.
@@ -39998,10 +39998,10 @@ Unknown3: 0x00000000
    [09C39] 0x852FE0AFD4C3EFE3: {0.Money}
    [09C3A] 0xBEE613E617C4A881: Completed:
    [09C3B] 0x0E08DB19CD025ACC: Discovered:
-   [09C3C] 0x1DA9FC5A9E7F9061: Relics Found in Shang Simla:
+   [09C3C] 0x1DA9FC5A9E7F9061: Relics found in Shang Simla:
    [09C3D] 0x8E8F196C880B552D: Relics found in Al Simhara:
    [09C3E] 0x6BD3517185295B19: Relics found in Champs Les Sims:
-   [09C3F] 0x4500AD094981203F: Number of Relics Analyzed:
+   [09C3F] 0x4500AD094981203F: Relics Analyzed:
    [09C40] 0x7D06CD8BE84DA18C: Sites Excavated:
    [09C41] 0x020CA37C7BB32F14: Oldest Found: {0.Number} years old.
    [09C42] 0x3A9D50BD28DA208A: Oldest Found: Unknown
@@ -41239,26 +41239,26 @@ Unknown3: 0x00000000
    [0A112] 0x48DED583041DD26C: After disarming {0.Number} traps, you'll have a {1.Number}% higher chance of successfully disarming them.
    [0A113] 0x659CA2925DC180CB: Hazmat Sim
    [0A114] 0x043A67C0AECBE992: Mummies defeated
-   [0A115] 0x9450E376BB24278D: Total number of keystones used
-   [0A116] 0x5D78FD844588E497: Number of Crescent Keystones Used
-   [0A117] 0xCBE0F98DD025553F: Number of Escape Dusts used
-   [0A118] 0x55A114B21F90E624: Number of Heart Keystones used
-   [0A119] 0x0F2CDF042EA1FED4: Number of holes inspected
-   [0A11A] 0x571D02EADAC9C1C2: Number of Mummy Snacks eaten
-   [0A11B] 0x2D356C5E267B94FB: Number of Named Keystones used
-   [0A11C] 0xE0B0F75F81D56D2A: Number of Rubble Piles cleared
-   [0A11D] 0x3A04D5D2F9F58755: Number of Showers in a Can used
-   [0A11E] 0x981B38F035FBA48E: Number of Star Keystones Used
-   [0A11F] 0xE4C7DB478BBDE5F3: Number of times Cursed
-   [0A120] 0x7A472F8474F19CB2: Number of times Poisoned
-   [0A121] 0x1260582804576A94: Number of times Soaked
-   [0A122] 0x464BEFF2F1AE8601: Number of times Torched
-   [0A123] 0xFBA6B0B3A5A6F3FE: Number of Traps disarmed
-   [0A124] 0x0782EFF7A5FED717: Number of Treasure Chests opened
+   [0A115] 0x9450E376BB24278D: Keystones Used - Total
+   [0A116] 0x5D78FD844588E497: Keystones Used - Crescent
+   [0A117] 0xCBE0F98DD025553F: Escape Dusts used
+   [0A118] 0x55A114B21F90E624: Keystones Used - Heart
+   [0A119] 0x0F2CDF042EA1FED4: Holes inspected
+   [0A11A] 0x571D02EADAC9C1C2: Mummy Snacks eaten
+   [0A11B] 0x2D356C5E267B94FB: Keystones Used - Named
+   [0A11C] 0xE0B0F75F81D56D2A: Rubble Piles cleared
+   [0A11D] 0x3A04D5D2F9F58755: Showers in a Can used
+   [0A11E] 0x981B38F035FBA48E: Keystones Used - Star
+   [0A11F] 0xE4C7DB478BBDE5F3: Times Cursed
+   [0A120] 0x7A472F8474F19CB2: Times Poisoned
+   [0A121] 0x1260582804576A94: Times Soaked
+   [0A122] 0x464BEFF2F1AE8601: Times Torched
+   [0A123] 0xFBA6B0B3A5A6F3FE: Traps disarmed
+   [0A124] 0x0782EFF7A5FED717: Treasure Chests opened
    [0A125] 0x2D819C920B734C4B: {2.SimName} has cleared enough Rubble Piles to become a Rubble Excavator! {2.SimFirstName} can now clear Rubble Piles {1.Number}% faster!
    [0A126] 0xA7E4687DBFF6AA29: After excavating {0.Number} Rubble Piles, you'll excavate them {1.Number}% faster.
    [0A127] 0x2AC61B5AB0526AC2: Rubble Excavator
-   [0A128] 0xB0F7D293E6F15620: Switches Stood upon
+   [0A128] 0xB0F7D293E6F15620: Switches stood upon
    [0A129] 0x3E9983CADE440E70: Tomb Rooms Explored
    [0A12A] 0x7980446B69A6F409: Tombs Explored - China
    [0A12B] 0x6021B1D29C0CCECB: Tombs explored in China
@@ -41269,7 +41269,7 @@ Unknown3: 0x00000000
    [0A130] 0x13D44E2F0853AA75: {2.SimName} has dived in enough Dive Wells to become a Well Spelunker! {2.SimFirstName} can now clear Dive Wells {1.Number}% faster!
    [0A131] 0x61B8844739CA5387: After diving in {0.Number} Dive Wells, you'll be able to clear them {1.Number}% faster.
    [0A132] 0x7B136F04D61AC468: Well Spelunker
-   [0A133] 0xC924B4A34DE3219B: Number of Skeleton Keystones used
+   [0A133] 0xC924B4A34DE3219B: Keystones Used - Skeleton
    [0A134] 0x81176B3EF65B26CC: Bestseller
    [0A135] 0x157C7384E2FD9B3C: Flop
    [0A136] 0x262ADBA6DA494392: Hit
