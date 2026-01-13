@@ -69085,18 +69085,18 @@ Unknown3: 0x00000000
    [10DD8] 0xDDEED3F5A57C985B: Potion Prodigy DO NOT TRANSLATE
    [10DD9] 0xB9344BA2224A448C: Highest Value Grown: {0.Money}
    [10DDA] 0xB9344BA2224A448F: Best Quality Grown: {0.String}
-   [10DDB] 0x6B0A2BCBD231F039: Most Expensive Gem Value: {0.Number}
-   [10DDC] 0x6B0A2BCBD231F03A: Number of Times Cut: {0.Number}
+   [10DDB] 0x6B0A2BCBD231F039: Highest Value Found: §{0.Number}
+   [10DDC] 0x6B0A2BCBD231F03A: Times Cut: {0.Number}
    [10DDD] 0xA9D78CB599BC167E: Highest Value Found: {0.Money}
    [10DDE] 0x3B1CB560F67634B9: Highest Value Found: {0.Money}
-   [10DDF] 0x3B1CB560F67634BA: Number of Ingots Created: {0.Number}
+   [10DDF] 0x3B1CB560F67634BA: Ingots Created: {0.Number}
    [10DE0] 0x81008E96BCE535E1: Congratulations! {0.SimName} has mastered the mushrooms, and has completed the Mushroom Collector Skill Challenge! Check {0.SimName}’s Skill Journal for information about the reward.
    [10DE1] 0xDEE17EBCF135D028: Find {0.Number} unique mushrooms, and the quality of mushrooms grown will increase.
    [10DE2] 0x830CF251218CC310: Mushroom Collector
    [10DE3] 0xE07FF69FFDF5F911: Mushrooms - {0.Number}
    [10DE4] 0xF8E8E94468DEAC2C: Mushrooms - {0.Number}%
-   [10DE5] 0xE926512A347B965E: {0.Number} kg - heaviest fish caught
-   [10DE6] 0xE926512A347B965D: Preferred Fishing Bait: {0.String}
+   [10DE5] 0xE926512A347B965E: {0.Number} kg
+   [10DE6] 0xE926512A347B965D: Bait - {0.String}
    [10DE7] 0x8A1865BEBAA32A08: Recipe Name
    [10DE8] 0xD35B329484425B34: Alchemy Recipes
    [10DE9] 0x4EA9EB34E2C9E796: Name of the Alchemy Recipe
@@ -78795,7 +78795,7 @@ Unknown3: 0x00000000
    [133C6] 0x4984B12FFF6615A1: Swim Here With Date
    [133C7] 0x2E480276F3A9E30A: Swim Here With Group
    [133C8] 0xE0B9BC2FC3CDE1D6: Swim Here With Pack
-   [133C9] 0x40DB18BCC383385D: {0.Money} - highest value found
+   [133C9] 0x40DB18BCC383385D: Highest Value Found: {0.Money}
    [133CA] 0x75B63DE09A293094: Seashells - {0.Number}%
    [133CB] 0x25F953F736A61B87: Seashells - {0.Number}
    [133CC] 0xDB660001F6535A06: Look ma! No hands!
