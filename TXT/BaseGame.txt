@@ -60451,17 +60451,17 @@ Unknown3: 0x00000000
    [0EC1E] 0x87EFF38B766B2901: Congratulations. {0.SimName} is now a master at stalking prey. As a reward it will now take {0.SimName} less time to find prey when stalking for prey.
    [0EC1F] 0xD1D9FD6E4EA7A7C8: Cats with Homing Whiskers have caught at least {0.Number} rare prey. As a reward the amount of time it takes to find prey is decreased.
    [0EC20] 0x022448CD06CD62B0: Homing Whiskers
-   [0EC21] 0x51CACBABDEA78127: Beetles Caught: {0.Number}
-   [0EC22] 0x94D7C72DDB5A4CD3: Birds Caught: {0.Number}
-   [0EC23] 0x36739B5CF4E1BE2D: Common Critters Caught: {0.Number}
-   [0EC24] 0x33732C8E22EB719C: Extraordinarily Unusual Critters Caught: {0.Number}
-   [0EC25] 0x70B51A2DC676B860: Fish Caught: {0.Number}
-   [0EC26] 0xFB703174F5D87FD6: Lizards Caught: {0.Number}
-   [0EC27] 0x1EB1472E2938BCAA: Rare Critters Caught: {0.Number}
-   [0EC28] 0xE6783F0FD4443C5C: Rodents Caught: {0.Number}
-   [0EC29] 0x283B2675A3230AC2: Snakes Caught: {0.Number}
-   [0EC2A] 0x7386404DE7BA1C6C: Turtles Caught: {0.Number}
-   [0EC2B] 0x626314D141F290BC: Uncommon Critters Caught: {0.Number}
+   [0EC21] 0x51CACBABDEA78127: {0.Number} beetles caught
+   [0EC22] 0x94D7C72DDB5A4CD3: {0.Number} birds caught
+   [0EC23] 0x36739B5CF4E1BE2D: {0.Number} critters caught - Common
+   [0EC24] 0x33732C8E22EB719C: {0.Number} critters caught - Extraordinarily Unusual
+   [0EC25] 0x70B51A2DC676B860: {0.Number} fish caught
+   [0EC26] 0xFB703174F5D87FD6: {0.Number} lizards caught
+   [0EC27] 0x1EB1472E2938BCAA: {0.Number} critters caught - Rare
+   [0EC28] 0xE6783F0FD4443C5C: {0.Number} rodents caught
+   [0EC29] 0x283B2675A3230AC2: {0.Number} snakes caught
+   [0EC2A] 0x7386404DE7BA1C6C: {0.Number} turtles caught
+   [0EC2B] 0x626314D141F290BC: {0.Number} critters caught - Uncommon
    [0EC2C] 0x1A2568DA6656B8D0: Congratulations. {0.SimName} is now an expert of slithery creatures. As a reward {0.SimName} will always succesfully catch snakes, lizards, and turtles.
    [0EC2D] 0x89B3C910DC613B73: A Slither Stalker has caught {0.Number} reptiles. As a reward lizards, snakes, and turtles will always succesfully be caught.
    [0EC2E] 0x87269F10B0ECAE73: Slither Stalker
@@ -60474,11 +60474,11 @@ Unknown3: 0x00000000
    [0EC35] 0x4B9E376DE2D8A831: Gem Finder
    [0EC36] 0xD6D4F9BB76C14C99: Metal Finders have found 50 or more Metals and have developed a knack for finding rare metals more easily!
    [0EC37] 0xDD13EE0C421FF845: Metal Finder
-   [0EC38] 0x5320459286F582E8: Number of Fragmented Objects Assembled: {0.Number}
-   [0EC39] 0x62ECADB2B12329E8: Number of Gems Found: {0.Number}
-   [0EC3A] 0x7D587790B29DDD8C: Number of Metals Found: {0.Number}
-   [0EC3B] 0xF671021A430F0FE6: Number of Rocks Found: {0.Number}
-   [0EC3C] 0x59B6994718E39910: Number of Collectable Fragments Found: {0.Number}
+   [0EC38] 0x5320459286F582E8: {0.Number} collected fragments assembled
+   [0EC39] 0x62ECADB2B12329E8: {0.Number} gems found
+   [0EC3A] 0x7D587790B29DDD8C: {0.Number} metals found
+   [0EC3B] 0xF671021A430F0FE6: {0.Number} rocks found
+   [0EC3C] 0x59B6994718E39910: {0.Number} collectable fragments found
    [0EC3D] 0x50DCCF99A6AC12BF: Rock Finders have found 50 or more Rocks and have gained a boosted ability to find rare rocks more easily!
    [0EC3E] 0x37C32759D109E057: Rock Finder
    [0EC3F] 0xF7193CBE27ECA872: {0.SimFirstName} will start at Drum Skill Level {1.Number} due to his early childhood Xylophone practice!
@@ -60486,11 +60486,11 @@ Unknown3: 0x00000000
    [0EC41] 0x34595016F3ABD528: Upgrade the Water Trough
    [0EC42] 0x1834EA7B90802A9F: Water Trough
    [0EC43] 0x90B3C04499F23C58: Cannot Detonate an object containing a pet.
-   [0EC44] 0x16DFF2E1E5B8FE04: Cross-Country Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
-   [0EC45] 0xBC4237069555A0D0: Perfect Jumps: {0.Number}
-   [0EC46] 0x064CCF869A1B050C: Show Jumping Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
-   [0EC47] 0xD2CE0435A9FF28A6: Jumps Attempted: {0.Number}
-   [0EC48] 0x6CDBF378FC87FC32: Poor Jumps: {0.Number}
+   [0EC44] 0x16DFF2E1E5B8FE04: Cross-Country - {0.Number} - {1.Number} - {2.Number}
+   [0EC45] 0xBC4237069555A0D0: {0.Number} jumps - Perfect
+   [0EC46] 0x064CCF869A1B050C: Competitions Won: Beginner - Advanced - International\nShow Jumping - {0.Number} - {1.Number} - {2.Number}
+   [0EC47] 0xD2CE0435A9FF28A6: {0.Number} jumps - attempted
+   [0EC48] 0x6CDBF378FC87FC32: {0.Number} jumps - Poor
    [0EC49] 0xCFD1DEC39E104C34: Comps.
    [0EC4A] 0xA4ADACCAA40BD12A: Competitions won with this Sim
    [0EC4B] 0x34399DE07B2214C2: Congratulations! {0.SimFirstName} has made enough perfect jumps to become a Frequent Flyer!\n\nCheck {0.SimFirstName}'s Skill Journal for information about the reward.
@@ -60512,10 +60512,10 @@ Unknown3: 0x00000000
    [0EC5B] 0x39DCE83E0532E8D1: Tireless Leaper
    [0EC5C] 0xBB68404D837269C6: {0.SimFirstName} will start at Piano Skill Level {1.Number} due to his early childhood Xylophone practice!
    [0EC5D] 0x558CE2F59C31AC7D: {0.SimFirstName} will start at Piano Skill Level {1.Number} due to her early childhood Xylophone practice!
-   [0EC5E] 0x40F41A53C5D18F84: Cross-Country Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
-   [0EC5F] 0x2D4985B6F89D04C0: Meters Galloped: {0.Number}
-   [0EC60] 0x09F4F64C5944F484: Racing Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
-   [0EC61] 0xC4396F04B87B0E22: Time Spent Training for Racing : {0.Number} Hours
+   [0EC5E] 0x40F41A53C5D18F84: Cross-Country - {0.Number} - {1.Number} - {2.Number}
+   [0EC5F] 0x2D4985B6F89D04C0: {0.Number} meters galloped
+   [0EC60] 0x09F4F64C5944F484: Competitions Won: Beginner - Advanced - International\nRacing - {0.Number} - {1.Number} - {2.Number}
+   [0EC61] 0xC4396F04B87B0E22: {0.Number} hours trained
    [0EC62] 0x91324EAFA01F9E5F: Congratulations! {0.SimFirstName} has won enough Equestrian Center competitions to earn the title of Champion Racehorse!\n\nCheck {0.SimFirstName}'s Skill Journal for information about the reward.
    [0EC63] 0x40F6FFD5381AA8AE: Champion Racehorses have won more than {0.Number} Advanced or International Racing Competitions at the Equestrian Center. Their racing fame makes them and their offspring far more valuable to horse buyers and breeders.
    [0EC64] 0xF80AB85837E76312: Champion Racehorse
@@ -60539,7 +60539,7 @@ Unknown3: 0x00000000
    [0EC76] 0xBC66E94D506D7514: Equestrian Center competitions won per category with this Horse.
    [0EC77] 0xA38E8F9B1FEA8173: Horses
    [0EC78] 0x8A2FDEA7C1741312: Racing : {0.Number}\nShow Jumping : {1.Number}\nCross-Country : {2.Number}
-   [0EC79] 0x7A5A35AC5B7ED423: Cross-Country Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
+   [0EC79] 0x7A5A35AC5B7ED423: Cross-Country - {0.Number} - {1.Number} - {2.Number}
    [0EC7A] 0x39FCC46CC4223B66: Cross-Country Competitions Won
    [0EC7B] 0x2CC2A4DAB4A78730: Congratulations! {0.SimFirstName} has won enough Equestrian Center competitions to earn the title of Equestrian Champion!\n\nCheck {0.SimFirstName}'s Skill Journal for information about the reward.
    [0EC7C] 0x32D7791D13E84753: Equestrian Champions have won at least {0.Number} Equestrian Center competitions at the Advanced or International level. They are so well-known in the riding world that they receive extra prize money from sponorships at every competition they win.
@@ -60548,22 +60548,22 @@ Unknown3: 0x00000000
    [0EC7F] 0x1BB0D008B82527B2: Horse Friends have been Best Friends with at least {0.Number} Horses. They're at ease around their equine buddies, and the Horses know it! Horses rarely shy away from being handled by a Horse Friend.
    [0EC80] 0x32163D13F259B09E: Horse Friend
    [0EC81] 0x976ECB8A2C7478E5: Horse
-   [0EC82] 0x045D20F3A79DCA58: Number of Best Friend Horses: {0.Number}
+   [0EC82] 0x045D20F3A79DCA58: {0.Number} Best Friend horses
    [0EC83] 0x64A935E43B3524A5: Horses that your Sim has ridden.
-   [0EC84] 0xBE873B4F2F5D8BF7: Show Jumping Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
+   [0EC84] 0xBE873B4F2F5D8BF7: Show Jumping - {0.Number} - {1.Number} - {2.Number}
    [0EC85] 0xC522B5F2899D81C3: Congratulations! {0.SimFirstName} has adopted enough wild Horses to complete the Mustang Master Skill Challenge!\n\nCheck {0.SimFirstName}'s Skill Journal for information about the reward.
    [0EC86] 0x919644D2517B1C42: Mustang Masters have adopted at least {0.Number} wild Horses, so they know how to bring out the best in a Horse. When a Mustang Master adopts a Wild Horse, {MA.he}{FA.she} can choose some of the Horse's traits.
    [0EC87] 0x1D2D233A525492AE: Mustang Master
-   [0EC88] 0x63F62E3F019EBB87: Racing Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
+   [0EC88] 0x63F62E3F019EBB87: Competitions Won: Beginner - Advanced - International\nRacing - {0.Number} - {1.Number} - {2.Number}
    [0EC89] 0x88FCC73D4B713BC5: Congratulations! {0.SimFirstName} has won all three types of Equestrian Center competitions and achieved the Rider of Legends Skill Challenge!\n\nCheck {0.SimFirstName}'s Skill Journal for information about the reward.
    [0EC8A] 0x1A8489FC626151AC: To become a Rider of Legends, a Sim must win all three types of Equestrian Center competitions at the International level. For their dedication to the art of horsemanship, these Sims receive a truly epic equine statue. 
    [0EC8B] 0x271A4D5E6BB2FC5C: Rider of Legends
-   [0EC8C] 0x58875ACE295113FC: Racing Skill Level : {0.Number}\nJumping Skill Level : {1.Number}
+   [0EC8C] 0x58875ACE295113FC: Skill Levels:\nRacing - {0.Number}\nJumping - {1.Number}
    [0EC8D] 0x43738FC1339F27C6: Skills
    [0EC8E] 0x48C28B433931FE7C: The Horse's Riding and Jumping skill levels.
-   [0EC8F] 0x044C87B75DBB5342: Successful Jumps : {0.Number}
-   [0EC90] 0x3B3B2B32F4E8DC37: Unicorns Adopted : {0.Number}
-   [0EC91] 0xB96008E9B7865EB4: Wild Horses Adopted : {0.Number}
+   [0EC8F] 0x044C87B75DBB5342: {0.Number} successful jumps
+   [0EC90] 0x3B3B2B32F4E8DC37: {0.Number} Unicorns adopted
+   [0EC91] 0xB96008E9B7865EB4: {0.Number} wild horses adopted
    [0EC92] 0x2D77EF8B7A95871C: DEBUG Learn Trick...
    [0EC93] 0x5F789D09732A8348: {0.SimFirstName} learned to Play Dead!
    [0EC94] 0x102466D5D8869BE3: {0.SimFirstName} learned to Roll Over!
@@ -60571,13 +60571,13 @@ Unknown3: 0x00000000
    [0EC96] 0x1FB156B4AAFB07A4: {0.SimFirstName} learned to Sit!
    [0EC97] 0x1CA9F1820942F1CB: {0.SimFirstName} learned to Sit Up!
    [0EC98] 0xDF60C281E65CFF7A: {0.SimFirstName} learned to Speak!
-   [0EC99] 0x33B8F390CF3F7C17: Trick Exhibitions performed: {0.Number}\nTips earned: {1.Number} Simoleons
-   [0EC9A] 0x96AFB94A6923A925: Number of times Play Dead trick has been performed: {0.Number}
-   [0EC9B] 0xE4668069DA9D2EFE: Number of times Roll Over trick has been performed: {0.Number}
-   [0EC9C] 0xDC4E09E77844A369: Number of times Shake trick has been performed: {0.Number}
-   [0EC9D] 0x2B9EAEA36E699753: Number of times Sit trick has been performed: {0.Number}
-   [0EC9E] 0xE6D044E77EBE98C4: Number of times Sit Up trick has been performed: {0.Number}
-   [0EC9F] 0x0E1033E703EB48F5: Number of times Speak trick has been performed: {0.Number}
+   [0EC99] 0x33B8F390CF3F7C17: {0.Number} Trick Exhibitions performed\n§{1.Number} earned
+   [0EC9A] 0x96AFB94A6923A925: {0.Number} tricks performed - Play Dead
+   [0EC9B] 0xE4668069DA9D2EFE: {0.Number} tricks performed - Roll Over
+   [0EC9C] 0xDC4E09E77844A369: {0.Number} tricks performed - Shake
+   [0EC9D] 0x2B9EAEA36E699753: {0.Number} tricks performed - Sit
+   [0EC9E] 0xE6D044E77EBE98C4: {0.Number} tricks performed - Sit Up
+   [0EC9F] 0x0E1033E703EB48F5: {0.Number} tricks performed - Speak
    [0ECA0] 0x3ED97281C7AC2C7B: First, prove to me that you are a friend to all creatures. Only then will I consider your offer.
    [0ECA1] 0x7969855BC56EAE9D: Go Find a Gem
    [0ECA2] 0x9E6757D0B20A05D9: Go Find Some Metal
