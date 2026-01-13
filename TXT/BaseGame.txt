@@ -69110,12 +69110,12 @@ Unknown3: 0x00000000
    [10DF1] 0xF71EE722729D938E: Congratulations! {0.SimName} has achieved the title of Master Alchemist and has completed the Master Alchemist Skill Challenge! Check {0.SimName}’s Skill Journal for information about the reward.
    [10DF2] 0xBB6CFB377382A8A1: A Master Alchemist must learn all of the alchemy recipes. Once you have achieved this challenge, you will have a chance of not using up all of your ingredients when creating an alchemy recipe. Also, you will get discounts on items in the Elixir Store.
    [10DF3] 0xD392532591A3B72D: Master Alchemist
-   [10DF4] 0x7EE3BC4A9D1E8012: Money Earned Selling Elixirs: {0.Money}
-   [10DF5] 0x24759E8548490221: Number of Alchemy Recipes Discovered: {0.Number} of {1.Number} ({2.Number}%)
-   [10DF6] 0x2BFF75AA7165ED01: Number of Alchemy Elixirs Created: {0.Number}
-   [10DF7] 0xBEEF9159C763FF6F: Number of Alchemy Elixirs Thrown at Others: {0.Number}
-   [10DF8] 0x38232EF144519C42: Number of Supernaturals Turned into Humans: {0.Number}
-   [10DF9] 0xC0E7040B5B8D4C8A: Number of Sims Turned into Supernaturals: {0.Number}
+   [10DF4] 0x7EE3BC4A9D1E8012: {0.Money} earned
+   [10DF5] 0x24759E8548490221: {0.Number} of {1.Number} - {2.Number}% - recipes learned
+   [10DF6] 0x2BFF75AA7165ED01: {0.Number} elixirs - created
+   [10DF7] 0xBEEF9159C763FF6F: {0.Number} elixirs - thrown at others
+   [10DF8] 0x38232EF144519C42: {0.Number} Supernaturals turned into Humans
+   [10DF9] 0xC0E7040B5B8D4C8A: {0.Number} Sims turned into Supernaturals
    [10DFA] 0xA27A328EDCCBF4AB: Congratulations! {0.SimName} has completed the Excellent Elixirs challenge! Check {0.SimName}’s Skill Journal for information about the reward.
    [10DFB] 0xF13A05F9322D635A: Excellent Elixirs requires that {0.Number} elixirs be mixed. Once you have achieved this challenge, you will be able to create {1.Number} elixirs each time you Mix Elixirs at the Alchemy Station.
    [10DFC] 0xA0C00916C0BDFB86: Excellent Elixirs
