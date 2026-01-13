@@ -78804,11 +78804,11 @@ Unknown3: 0x00000000
    [133CF] 0xEE837E29EA3AFE07: Houseboat Helm
    [133D0] 0x9B5B8D24031602F5: Houseboat Helm
    [133D1] 0x8BD091B7E266D4B1: Houseboat Helm
-   [133D2] 0x859675411195BD42: Message Bottles Collected: {0.Number}
-   [133D3] 0xAF800F8B65FB1BA7: Caves Explored: {0.Number}
-   [133D4] 0x01EAE3EC9AB38473: Treasure Chests Opened: {0.Number}
-   [133D5] 0x71030607AE8C69B4: Hours Spent Diving: {0.Number}
-   [133D6] 0xA67548533ABD87A7: Hours Spent Snorkeling: {0.Number}
+   [133D2] 0x859675411195BD42: {0.Number} collected - message bottles
+   [133D3] 0xAF800F8B65FB1BA7: {0.Number} caves explored
+   [133D4] 0x01EAE3EC9AB38473: {0.Number} treasure chests opened
+   [133D5] 0x71030607AE8C69B4: {0.Number} hours spent - diving
+   [133D6] 0xA67548533ABD87A7: {0.Number} hours spent - snorkeling
    [133D7] 0x14FD531164D1E8F6: {0.SimFirstName} already has a skill opportunity.
    [133D8] 0x6B42E6FD94A791C5: Congratulations! {0.SimFirstName} has collected enough shells to complete the Pearl Diver Skill Challenge! check {0.SimFirstName}'s Skill Journal for information about the reward. 
    [133D9] 0x5BD57170CD00C3AC: Pearl Divers have collected at least {0.Number} shells. Their reputation for collecting reputable finds helps them sell their shells at higher prices.
@@ -78816,9 +78816,9 @@ Unknown3: 0x00000000
    [133DB] 0x9221727AE1339557: Congratulations! {0.SimFirstName} has dedicated enough hours to snorkeling to complete the Savvy Snorklers Skill Challenge! Check {0.SimFirstName}'s Skill Journal for information about the reward. 
    [133DC] 0x2EBE72E855517236: Savvy Snorklers have spent at least {0.Number} hours snorkeling in water. Their experience scanning the underwater floor for hidden items gives them a higher chance of finding collectables while snorkeling.
    [133DD] 0xE8E52F263AEA8C7A: Savvy Snorkeler
-   [133DE] 0x4884DAB53DF5E8BA: Sea Life Collected: {0.Number}
-   [133DF] 0xABF56D4010201364: Times Mauled By Shark: {0.Number}
-   [133E0] 0xC231C2D872E1E610: Shells Collected: {0.Number}
+   [133DE] 0x4884DAB53DF5E8BA: {0.Number} collected - sea life
+   [133DF] 0xABF56D4010201364: {0.Number} times mauled by a Shark
+   [133E0] 0xC231C2D872E1E610: {0.Number} collected - shells
    [133E1] 0xE17CD1233C81C253: Congratulations! {0.SimFirstName} has explored underwater caves enough times to complete the Underwater Spelunker Skill Challenge! Check {0.SimFirstName}'s Skill Journal for more information.
    [133E2] 0xA34EEDF50B144212: Underwater Spelunkers are brave divers who have explored underwater caves at least {0.Number} times. Those many trips in to the dark caverns means the Underwater Spelunker is more likely to find collectables while exploring caves. 
    [133E3] 0x308FDD05DCFDE8FE: Underwater Spelunker
@@ -83689,14 +83689,14 @@ Unknown3: 0x00000000
    [146E4] 0x3E464D164EC68044: {0.SimFirstName} has been quite busy creating Nanites! From now on, Nanites will cost half as much to make!
    [146E5] 0x09F0A29CFFAE4E74: Create at least {0.Number} Nanites to become a Micro-Master. Once achieved, the cost of creating all Nanites is halved.
    [146E6] 0xC6D02543740EF76F: Micro-Master
-   [146E7] 0x49BAD3B1C379234F: Bots Created: {0.Number}
-   [146E8] 0xA61F2EF1ABDBD2FF: Bots Sold: {0.Number}
-   [146E9] 0xA4146397B07D7ACF: Nanites Created: {0.Number}
-   [146EA] 0x136752521DA7044A: Trait Chips Created: {0.Number}
-   [146EB] 0x2ADCC3B32FBF86DC: Trait Chips Discovered: {0.Number}
+   [146E7] 0x49BAD3B1C379234F: {0.Number} Bots created
+   [146E8] 0xA61F2EF1ABDBD2FF: {0.Number} Bots sold
+   [146E9] 0xA4146397B07D7ACF: {0.Number} nanites created
+   [146EA] 0x136752521DA7044A: {0.Number} trait chips - created
+   [146EB] 0x2ADCC3B32FBF86DC: {0.Number} trait chips - discovered
    [146EC] 0x331F46BFE6CDD709: Percent of Nanites Created: {0.Number}
    [146ED] 0x63D0177D0E187AD0: Known Trait Chip Recipes
-   [146EE] 0x8828394BCC1C99B4: Tips Earned from Tune Ups: {0.Number}
+   [146EE] 0x8828394BCC1C99B4: §{0.Number} earned - Tune Ups
    [146EF] 0x8CEA1BF35437F901: Unstable
    [146F0] 0x8CEA1BF35437F900: Fragile
    [146F1] 0xA9C67E781B1C1B30: Future Tech
@@ -83717,20 +83717,20 @@ Unknown3: 0x00000000
    [14700] 0xC7AF1C0A1024E18C: {0.SimName} endured dreams of all kinds – including nightmares. It was worth it and now {MA.his}{FA.her} dreams will always start off good while using the Dream Pod!
    [14701] 0xBCB3AA57A872E72F: Dreams can have a profound effect on a Sim’s day. Become a Digital Dreamer by having {0.Number} unique dream outcomes and Dream Pod dreams will always begin with a Good Dream.
    [14702] 0x068B9875FE99CDC7: Digital Dreamer
-   [14703] 0x09C8F3F1790FEADD: Number of unique dream outcomes on the Dream Pod: {0.Number}
-   [14704] 0x849B8676C5BE1A91: Number of recipes programmed into the Food Synthesizer: {0.Number}
-   [14705] 0xA7655DC0B52D8C85: Number of tricks performed on Windcarver: {0.Number}
-   [14706] 0x52BDEBB4A0715727: Number of Jetpack Flights: {0.Number}
+   [14703] 0x09C8F3F1790FEADD: {0.Number} unique dream outcomes - Dream Pod
+   [14704] 0x849B8676C5BE1A91: {0.Number} recipes programmed - Food Synthesizer
+   [14705] 0xA7655DC0B52D8C85: {0.Number} tricks performed - Windcarver
+   [14706] 0x52BDEBB4A0715727: {0.Number} flights - Jetpack
    [14707] 0x72B1A9D64D8F6893: It was a long hunt for {0.SimName}, but {MA.he}{FA.she} finally caught all 10 Sprites and received the coveted 11th Sprite for the Holo Disc! 
    [14708] 0xC9317E3229094A52: Asking for a Sprite Form from others is a great way to increase your Sprite collection. Collect all 10 Sprites on the Holo Disc and receive an 11th Sprite!
    [14709] 0xAF083A11A657473E: Catch 'em All
-   [1470A] 0xD06752F06CBE142F: Number of times Sprites have been shared with the Holo Disc: {0.Number}
+   [1470A] 0xD06752F06CBE142F: {0.Number} Sprites shared - Holo Disc
    [1470B] 0xCB67CB921BDDB34E: {0.SimName}’s fingers are sore from programming so many Food Synthesizers, but on the bright side {MA.he}{FA.she} can now program Food Synthesizers to Improve Food Quality to Level 4!
    [1470C] 0xCAA067BECF355C61: Being a digital chef isn’t just about pressing a few buttons on a Food Synthesizer. It’s about pressing lots of buttons! Program a recipe onto {0.Number} unique Food Synthesizers and you’ll receive the ability to program Food Synthesizers to Improve Food Quality to Level 4!
    [1470D] 0xAD337327453DE6ED: Synthesized
    [1470E] 0xCA19DCCC5C54A29E: Cannot rummage through trash pile.
-   [1470F] 0x736B5D5378C4366D: Compositions Known: {0.Number}%
-   [14710] 0xFFDFFDC7AF343E91: Number of times compositions have been performed: {0.Number}
+   [1470F] 0x736B5D5378C4366D: {0.Number}% compositions learned
+   [14710] 0xFFDFFDC7AF343E91: {0.Number} performances
    [14711] 0xE54A67ADB3AF8264: Laser Rhythm-a-con Compositions
    [14712] 0x8E82211DFBBA3484: Congratulations! {0.SimFirstName} has performed at enough parties and venues to complete the Laser Rhythm-a-con Star Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [14713] 0xC99796E99A519217: Laser Rhythm-a-con Stars must play at {0.Number} Parties and Venues in the town to earn their title. Afterwards, they earn larger monetary rewards for tips and performances!
@@ -83738,11 +83738,11 @@ Unknown3: 0x00000000
    [14715] 0x0E034BFDC0DAB7AC: Congratulations! {0.SimFirstName} has learned to play every song to complete the Master Laser Rhythm-a-con Artist Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [14716] 0x5D51EFE5DB415BCF: A master at the Laser Rhythm-a-con has learned to play every song awarded to them and available for purchase at the store. After learning so many songs, they receive a special Master Track!
    [14717] 0xEFC09135EAE29267: Master Laser Rhythm-a-con Artist
-   [14718] 0x716C605A6607F984: Money earned through playing the Laser Rhythm-a-con: {0.Money}
+   [14718] 0x716C605A6607F984: {0.Money} earned
    [14719] 0x26FC036F5DA20D92: Congratulations! {0.SimFirstName} has earned enough money playing the Laser Rhythm-a-con to complete the Money Maker Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [1471A] 0x8576DB48461C0935: Earn {0.Money} playing the Laser Rhythm-a-con to earn a new Master Track to perform. Money can be earned through tips or by completing Opportunities.
    [1471B] 0x61A7580BFD93CBC9: Money Maker
-   [1471C] 0x31CC68F0C65AE529: Number of times Sims have watched you perform: {0.Number}
+   [1471C] 0x31CC68F0C65AE529: {0.Number} times Sims watched performances
    [1471D] 0xD0F6F05AD53D8001: Are you sure you want to start to change the Future now? When you complete the opportunity, it will override any effect currently occurring in Oasis Landing!
    [1471E] 0x7BCE0D1C2F4FCB34: {0.SimName} has been invited to stay over at {MA.his}{FA.her} Descendant's household for the night.
    [1471F] 0xF27C20FFCA71F441: Plumbots cannot receive this dare.
