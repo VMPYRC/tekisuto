@@ -49844,12 +49844,12 @@ Unknown3: 0x00000000
    [0C2AF] 0xB0F68469A594A527: Rename Drink
    [0C2B0] 0x9E97E8898E3C6645: {Variation.1}
    [0C2B1] 0x2E27F2A022E5C811: Hey buddy, you forgot to pay your tab. Those drinks weren't free you know! The bill will be in the mail.
-   [0C2B2] 0x5B7EC18FF2B06C71: Great Drinks Made: {0.Number}
-   [0C2B3] 0x66D9727CB2550725: Drinks Made: {0.Number}
-   [0C2B4] 0xC2E36CEB04327BB1: Sims Served: {0.Number}
-   [0C2B5] 0x8B950C9266463C0F: Terrible Drinks Made: {0.Number}
-   [0C2B6] 0xB7DCD2D7BBF2928F: Unique Drinks Created: {0.Number}
-   [0C2B7] 0xFBD9A660348DBFFC: Money Earned Mixing Drinks: {0.Money}
+   [0C2B2] 0x5B7EC18FF2B06C71: {0.Number} drinks made - Great
+   [0C2B3] 0x66D9727CB2550725: {0.Number} drinks made
+   [0C2B4] 0xC2E36CEB04327BB1: {0.Number} Sims served
+   [0C2B5] 0x8B950C9266463C0F: {0.Number} drinks made - Terrible
+   [0C2B6] 0xB7DCD2D7BBF2928F: {0.Number} unique drinks created
+   [0C2B7] 0xFBD9A660348DBFFC: {0.Money} earned
    [0C2B8] 0x7B488D15E5E033B7: {Variation.1}
    [0C2B9] 0x1DA46E1806310DEF: Closing time! We'll be open tomorrow, so come on back for some more drinks!
    [0C2BA] 0x86839AB1FA92B2D1: {Variation.1}
@@ -49858,8 +49858,8 @@ Unknown3: 0x00000000
    [0C2BD] 0xE88B102CE1CCFA6A: Cheap drinks! Happy Hour has begun!
    [0C2BE] 0x49154DE4B122B13F: Open: {0.HourOfDay} - {1.HourOfDay}
    [0C2BF] 0x75233B361CB3FE81: Open: {0.HourOfDay} - {1.HourOfDay}\nHappy Hour: {2.HourOfDay}
-   [0C2C0] 0x558ED878C2A478FE: Compositions learned: {0.Number}%
-   [0C2C1] 0xCD07AA3FB5F1EE1C: Compositions played: {0.Number}
+   [0C2C0] 0x558ED878C2A478FE: {0.Number}% compositions learned
+   [0C2C1] 0xCD07AA3FB5F1EE1C: {0.Number} performances
    [0C2C2] 0x07CB952286516357: Bass Compositions
    [0C2C3] 0x5542BFE69F680C01: Congratulations! {0.SimFirstName} has performed at enough parties and venues to complete the Bass Star Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2C4] 0x4DE1E0BA6DCD48C8: Bass Stars must play at {0.Number} Parties and Venues in the town to earn their title. Afterwards, they earn larger monetary rewards for tips and performances!
@@ -49867,13 +49867,13 @@ Unknown3: 0x00000000
    [0C2C6] 0x7326BDB5E3371407: Congratulations! {0.SimFirstName} has learned to play every song to complete the Master Bassist Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2C7] 0x7F9EBA5B1BC4C466: Master Bassists learn to play every song awarded to them and available for purchase at the store. After learning so many songs, they receive a special Master Track!
    [0C2C8] 0xDFC443ACD64E0EEA: Master Bassist
-   [0C2C9] 0xF6797441869FFEDF: Money made: {0.Money}
+   [0C2C9] 0xF6797441869FFEDF: {0.Money} earned
    [0C2CA] 0xD0E3C441A63B0DDF: Congratulations! {0.SimFirstName} has earned enough money playing the Bass to complete the Money Maker Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2CB] 0x0815DAEE218F232E: Earn {0.Money} playing the Bass to earn a new Master Track to perform. Money can be earned through tips or by completing Opportunities. 
    [0C2CC] 0xCDBFC3490F73B192: Money Maker
-   [0C2CD] 0x8E6F1274D5574438: Times watched: {0.Number}
-   [0C2CE] 0x2E036430259B3128: Compositions learned: {0.Number}%
-   [0C2CF] 0x955442AA062710A2: Compositions played: {0.Number}
+   [0C2CD] 0x8E6F1274D5574438: {0.Number} times Sims watched performances
+   [0C2CE] 0x2E036430259B3128: {0.Number}% compositions learned
+   [0C2CF] 0x955442AA062710A2: {0.Number} performances
    [0C2D0] 0xFD8F9945883F4EA9: Drum Compositions
    [0C2D1] 0x3B8C1021A7458E3B: Congratulations! {0.SimFirstName} has performed at enough parties and venues to complete the Drum Star Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2D2] 0xFC83402BA53F1EEA: Drum Stars must play at {0.Number} Parties and Venues in the town to earn their title. Afterwards, they earn larger monetary rewards for tips and performances!
@@ -49881,17 +49881,17 @@ Unknown3: 0x00000000
    [0C2D4] 0xFC33897533532D61: Congratulations! {0.SimFirstName} has learned to play every song to complete the Master Drummer Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2D5] 0xD0D8DFEF7CBB22A8: Master Drummers learn to play every song awarded to them and available for purchase at the store. After learning so many songs, they receive a special Master Track!
    [0C2D6] 0xFEC1319F6870A990: Master Drummer
-   [0C2D7] 0xFB05AB846C78BDDD: Money made: {0.Money}
+   [0C2D7] 0xFB05AB846C78BDDD: {0.Money} earned
    [0C2D8] 0x79B413A2CC2B1B51: Congratulations! {0.SimFirstName} has earned enough money playing Drums to complete the Money Maker Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2D9] 0x35E0F26872A06498: Earn {0.Money} playing the Drums to earn a new Master Track. Money can be earned through tips or by completing Opportunities.
    [0C2DA] 0xD1F855CA441ED540: Money Maker
-   [0C2DB] 0xFD766ADE3CE882BE: Times watched: {0.Number}
+   [0C2DB] 0xFD766ADE3CE882BE: {0.Number} times Sims watched performances
    [0C2DC] 0xFF016236F0469AA1: Cooler Jets and better Ooo Bubbles buff.
    [0C2DD] 0x306115D555542E7D: You'll never lose again!
    [0C2DE] 0xD38B786D7BA32B1C: Hot Tub
    [0C2DF] 0xCF6B3003FEA87F0C: Dartboard
-   [0C2E0] 0xB7B1FAD7AD9F3C54: Compositions learned: {0.Number}%
-   [0C2E1] 0xA565F76A8CEED1D6: Compositions played: {0.Number}
+   [0C2E0] 0xB7B1FAD7AD9F3C54: {0.Number}% compositions learned
+   [0C2E1] 0xA565F76A8CEED1D6: {0.Number} performances
    [0C2E2] 0xAA196B393B6D75DD: Piano Compositions
    [0C2E3] 0xB1C3E5B092C263D7: Congratulations! {0.SimFirstName} has performed at enough parties and venues to complete the Piano Star Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2E4] 0x3A81A107F61861B6: Piano Stars must play at {0.Number} Parties and Venues in town to earn their title. Afterwards, they earn larger monetary rewards for tips and performances! 
@@ -49899,11 +49899,11 @@ Unknown3: 0x00000000
    [0C2E6] 0xE21AB4671B890CDD: Congratulations! {0.SimFirstName} has learned to play every song to complete the Master Pianist Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2E7] 0x86B2D3A15094A734: Master Pianists learn to play every song awarded to them and available for purchase at the store. After learning so many songs, they receive a special Master Track!
    [0C2E8] 0xC73FE300AA046864: Master Pianist
-   [0C2E9] 0xE371D9BB73569D19: Money made: {0.Money}
+   [0C2E9] 0xE371D9BB73569D19: {0.Money} earned
    [0C2EA] 0xF88FCD759C78937D: Congratulations! {0.SimFirstName} has earned enough money playing the Piano to complete the Money Maker Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2EB] 0xD528AA77285DB754: Earn {0.Money} playing the Piano to earn a new Master Track. Money can be earned through tips or by completing Opportunities.
    [0C2EC] 0x53068806545CB684: Money Maker
-   [0C2ED] 0x61BA9E6EB8C8A892: Times watched: {0.Number}
+   [0C2ED] 0x61BA9E6EB8C8A892: {0.Number} times Sims watched performances
    [0C2EE] 0xB40495B502A1D14C: {Variation.19}
    [0C2EF] 0xFE2E1F968B197D30: Spitting Llamas
    [0C2F0] 0x01DCDCCE5C4FB8A0: WooHoo Warriors
@@ -49934,7 +49934,7 @@ Unknown3: 0x00000000
    [0C309] 0x76B8F4D2DB8CA44D: Band has maximum number of bandmates.
    [0C30A] 0x3BAAB4FC2F64984E: Successfully play {0.Number} Gigs and your band will receive more pay for every gig thereafter. Take it all in, boost up your ego, and revel in the fact that you are…The Gig Master.
    [0C30B] 0x6B7B8A9682AD08B2: The Gig Master
-   [0C30C] 0x21D9A533EE8788F0: Total Gigs Played: {0.Number}
+   [0C30C] 0x21D9A533EE8788F0: {0.Number} gigs played
    [0C30D] 0x857C21FCDCC55E2D: Jam
    [0C30E] 0xFD2FB51E8B47A916: Start Jam Session...
    [0C30F] 0x974BFAAB235F1CF4: Jazz
