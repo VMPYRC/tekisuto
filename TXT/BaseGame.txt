@@ -76594,43 +76594,43 @@ Unknown3: 0x00000000
    [12B2D] 0x52A38E5199AA89D4: {0.SimName} has achieved the title of Experienced Experimentalist! Check {MA.his}{FA.her} Skill Journal for more information about the reward.
    [12B2E] 0x661451491AC2E827: Complete {0.Number} Experiments using the Science Research Station and/or the Group Science Project and receive an International Science Achievement Award Plaque and Cash Prize!
    [12B2F] 0xBCDBDDEBE88A183F: Experienced Experimentalist
-   [12B30] 0x338D205DD5F1673E: Experiments Completed: {0.Number}
-   [12B31] 0x0C900736DF369ED7: Experiment Epic Failures: {0.Number}
-   [12B32] 0x99C23C0C6F650507: Fish Analyzed: {0.Number}
+   [12B30] 0x338D205DD5F1673E: {0.Number} experiments completed
+   [12B31] 0x0C900736DF369ED7: {0.Number} experiments - Epic Failures
+   [12B32] 0x99C23C0C6F650507: {0.Number} analyzed - fish
    [12B33] 0x38F60437E336AA2B: {0.SimName} has achieved the title of Free Range Scientist! Check {MA.his}{FA.her} Skill Journal for more information about the reward.
    [12B34] 0x3A47BB5E22099FDA: Analyze a total of {0.Number} Plants, Fish, Insects, and Rocks to reduce the cool down time on Correlating Scientific Data.
    [12B35] 0x42B73BC280801C06: Free Range Scientist
    [12B36] 0xCA7B95D899F5D223: Give DNA Sample
-   [12B37] 0x30C02526CBD09D04: Insects Analyzed: {0.Number}
+   [12B37] 0x30C02526CBD09D04: {0.Number} analyzed - insects
    [12B38] 0x3E7FD0B1DB6E343E: New Collectables Discovered: {0.Number}
    [12B39] 0xC683283A6F46AC68: Unable to analyze harvestables. This plant is not yet ready.
-   [12B3A] 0x1851777C81402571: Objects Created: {0.Number}
-   [12B3B] 0x85AFBC0681579F87: Plants Analyzed: {0.Number}
+   [12B3A] 0x1851777C81402571: {0.Number} objects created
+   [12B3B] 0x85AFBC0681579F87: {0.Number} analyzed - plants
    [12B3C] 0xD6E315CD83D8A6FC: Fish must be in a bowl or tank to analyze.
-   [12B3D] 0x6A0528A3EAB3CEF5: Minerals Analyzed: {0.Number}
+   [12B3D] 0x6A0528A3EAB3CEF5: {0.Number} analyzed - minerals
    [12B3E] 0xFA95723BED0DA7FF: {0.SimName} has achieved the title of Scientific Pioneer! Check {MA.his}{FA.her} Skill Journal for more information about the reward. DO NOT TRANSLATE
    [12B3F] 0x4E3F945F98A0CBCE: Discover and name {0.Number} New Collectables to receive an International Science Achievement Award Plaque and Simoleons. DO NOT TRANSLATE
    [12B40] 0x70388ED8C446D832: Scientific Pioneer
-   [12B41] 0x7387C84E9CD7E003: Simoleons Earned from Correlating Scientific Data: {0.Money}
-   [12B42] 0x1B6F588158C9106E: Simoleons Earned From Selling Scientific Samples: {0.Money}
-   [12B43] 0x4FAF5888A802A4A6: Sims Tested: {0.Number}
-   [12B44] 0xF6904BDB6FE67012: Subjects Researched: {0.Number}
+   [12B41] 0x7387C84E9CD7E003: {0.Money} earned - correlate scientific data
+   [12B42] 0x1B6F588158C9106E: {0.Money} earned - scientific samples sold
+   [12B43] 0x4FAF5888A802A4A6: {0.Number} Sims tested
+   [12B44] 0xF6904BDB6FE67012: {0.Number} subjects researched
    [12B45] 0x015A57BF13EB112B: Add Caption Here
    [12B46] 0x8E191D4A5A3416AE: Sell the rights to {0.Number} different Blogs. As a result, your Sim will receive more donations from followers.
    [12B47] 0xFBC8153011BC4112: Blog Baron
    [12B48] 0xA8521569DFA6D581: Blog Baron
-   [12B49] 0xCA100079BBAA1AC9: Highest Number of Followers: {0.Number}
+   [12B49] 0xCA100079BBAA1AC9: {0.Number} followers - highest ever
    [12B4A] 0x1E63F36A1B21BDF9: Change the relationships of {0.Number} different Sims using the Relationship Transmogrifier to Romantic Interest or Partner. As a result, your Sim can use the 'Best Friends Forever' bit in the Relationship Transmogrifier app.
    [12B4B] 0x6369619051ED2DA5: Match Maker
    [12B4C] 0x74258FAF39F680C0: Match Maker
-   [12B4D] 0x36234965643DA3D2: Most Followers Gained from a single Blog Post: {0.Number}
+   [12B4D] 0x36234965643DA3D2: {0.Number} followers - highest gained from a single Blog Post
    [12B4E] 0xE5CF7E247E5ADE25: Meet {0.Number} different Sims using the Sim Finder App. As a result, your Sim will receive the 'Excited' buff every time they meet a new Sim via Sim Finder.
    [12B4F] 0x7666E992ACA33EF9: Professional Greeter
    [12B50] 0xA4AA0096C801838C: Professional Greeter
-   [12B51] 0x3EC054EF6B0A8FEA: Most Common Relationship Status set with the Relationship Transmogrifier: {0.String}
-   [12B52] 0x21CDD070509CC2DF: Total Simoleans earned from Blog Donations and Blog Buyouts: {0.Money}
-   [12B53] 0xC6DABC6F98AF591E: Total Number of Five Star Blogs Written: {0.Number}
-   [12B54] 0xC05000BED5E8AF90: Total Number of New Sims Met Via Sim Finder App: {0.Number}
+   [12B51] 0x3EC054EF6B0A8FEA: most common relationship set with the Relationship Transmogrifier - {0.String}
+   [12B52] 0x21CDD070509CC2DF: {0.Money} earned - Blog Donations and Buyouts
+   [12B53] 0xC6DABC6F98AF591E: {0.Number} Five Star Blogs written
+   [12B54] 0xC05000BED5E8AF90: {0.Number} Sims met via Sim Finder App
    [12B55] 0x58E607D5C84C9169: {0.SimName} has achieved the title of Always Wanted! Check {MA.his}{FA.her} Skill Journal for more information about the reward.
    [12B56] 0xB1AF48CE8A4D2EA0: Complete {0.Number} Street Art Masterpieces (Wall or Ground) and you will be able to create Street Art anywhere without permission or getting in trouble.
    [12B57] 0xAFA8C3FE3321B188: Always Wanted
@@ -76643,14 +76643,14 @@ Unknown3: 0x00000000
    [12B5E] 0x05133E93CF80EA40: {0.SimName} has achieved the title of Master Muralist! Check {MA.his}{FA.her} Skill Journal for more information about the reward.
    [12B5F] 0x64C18051FB5F3E63: Finish {0.Number} Murals and they will be more likely to become a Masterpiece.
    [12B60] 0x8EC3D049A2AF87A3: Master Muralist
-   [12B61] 0x7C281726E9F489E8: Simoleons Earned from Street Art: {0.Money}
+   [12B61] 0x7C281726E9F489E8: {0.Money} earned
    [12B62] 0x42D59A87D520B711: Most Valuable Ground Mural: {0.Money} 
    [12B63] 0xD29BE7261E7CC802: Most Valuable Wall Mural: {0.Money}
    [12B64] 0xEF38E8D69AE9DEDF: Mural Masterpieces: {0.Number} DO NOT TRANSLATE
    [12B65] 0x1A4DCA6E8D623FF9: Murals Created: {0.Number} DO NOT TRASNLATE
-   [12B66] 0xECDF0B7C5096F30C: Objects Tagged: {0.Number}
-   [12B67] 0xC616C1DCEC79D834: Mural Masterpieces: {0.Number} 
-   [12B68] 0xFC1FB89C33EACF81: Murals Created: {0.Number}
+   [12B66] 0xECDF0B7C5096F30C: {0.Number} objects tagged
+   [12B67] 0xC616C1DCEC79D834: {0.Number} murals created - Masterpieces
+   [12B68] 0xFC1FB89C33EACF81: {0.Number} murals created
    [12B69] 0xA6D663061DFBA22D: {0.SimName} has achieved the title of Precision Sprayer! Check {MA.his}{FA.her} Skill Journal for more information about the reward.
    [12B6A] 0x32F4AEF0F02242C4: Finish {0.Number} Street Art projects and all future Street Art projects will complete 15 percent faster.
    [12B6B] 0xF0EA86D83BB8FEF4: Precision Sprayer
