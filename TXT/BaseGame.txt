@@ -46223,12 +46223,12 @@ Unknown3: 0x00000000
    [0B48A] 0xD11446872B681AAC: {0.SimFirstName} knows the value of second-hand goods and made a good living from it! The consignment store will now offer {0.SimFirstName} a lower fee per sale.
    [0B48B] 0x0377FC88A4EC7CCF: Make {0.Money} Simoleons at the consigment store.
    [0B48C] 0xCB35E7B7E32EBB67: Consignment Profit
-   [0B48D] 0xB9B08DE061E7C811: Most Expensive Item Sold: {0.Money}
-   [0B48E] 0xD09690E8151D6CB8: Number of Items Returned Unsold: {0.Number}
-   [0B48F] 0x84B585C288D1E7F8: Number of Items Sold: {0.Number}
+   [0B48D] 0xB9B08DE061E7C811: {0.Money} - highest sale
+   [0B48E] 0xD09690E8151D6CB8: {0.Number} unsold items returned
+   [0B48F] 0x84B585C288D1E7F8: {0.Number} items sold
    [0B490] 0x1271C1CA1B26E889: Sold
    [0B491] 0x5631E04376EAD011: Number of Items Sold
-   [0B492] 0xDE4F23D0DE77119B: Reputation: {0.String}
+   [0B492] 0xDE4F23D0DE77119B: {0.String} Reputation
    [0B493] 0x44E226F60ACEC48C: Bad
    [0B494] 0xA52471AD3DFA8EBC: Decent
    [0B495] 0x5D73B35070B30BFC: Disgusting
@@ -46242,7 +46242,7 @@ Unknown3: 0x00000000
    [0B49D] 0x2994F7E8DC150049: Rock Bottom
    [0B49E] 0x3ECC6017D7EDFE66: Shady
    [0B49F] 0x572956BE9ECB3C1E: Sold Items
-   [0B4A0] 0xC04D91B173A1B85A: Total Amount of Money Made: {0.Money}
+   [0B4A0] 0xC04D91B173A1B85A: {0.Money} earned
    [0B4A1] 0x24C80CA48E06043F: Value
    [0B4A2] 0x48EFFD69D7D20B17: Value of Items Sold
    [0B4A3] 0x331C7BE865C3DBB4: Respond faster to Firefighting Emergencies!
@@ -46278,16 +46278,16 @@ Unknown3: 0x00000000
    [0B4C1] 0x5A83D689E3E496AC: Masterful {0.String}
    [0B4C2] 0x0B9DF444E0084F8E: Cannot Detonate something containing an infant!
    [0B4C3] 0x74A00B9AB25A86BC: Cannot Detonate objects in tombs.
-   [0B4C4] 0xDEB14BB8502EA1BB: Number of Big Inventions Made: {0.Number}
+   [0B4C4] 0xDEB14BB8502EA1BB: {0.Number} Big inventions made
    [0B4C5] 0x3E49DAE449BCE2CE: Number Made
    [0B4C6] 0x6F9333EB104632CB: How many the Sim has made
-   [0B4C7] 0x4F1FA27271C571A6: Number of Underground Adventures: {0.Number}
-   [0B4C8] 0x29B3CB86ED6EB345: Number of Objects Detonated: {0.Number}
-   [0B4C9] 0x1C00A7ACB9BC4E25: Amount of Scrap Collected: {0.Number}
-   [0B4CA] 0x78719E045C232509: Number of Travels through Time: {0.Number}
-   [0B4CB] 0xEDB4C26C49B09219: Number of Toys Made: {0.Number}
-   [0B4CC] 0x444D933D84675CDB: Number of Widgets Made: {0.Number}
-   [0B4CD] 0x3700A8529B9EAA2D: Percent of Inventions Discovered: {0.Number}%
+   [0B4C7] 0x4F1FA27271C571A6: {0.Number} underground adventures
+   [0B4C8] 0x29B3CB86ED6EB345: {0.Number} objects detonated
+   [0B4C9] 0x1C00A7ACB9BC4E25: {0.Number} scrap collected
+   [0B4CA] 0x78719E045C232509: {0.Number} Travels through Time
+   [0B4CB] 0xEDB4C26C49B09219: {0.Number} toys made
+   [0B4CC] 0x444D933D84675CDB: {0.Number} widgets made
+   [0B4CD] 0x3700A8529B9EAA2D: {0.Number}% inventions discovered
    [0B4CE] 0x99A5C4CCBEBDC708: Invention Name
    [0B4CF] 0x628D701BB356C696: Name of invention Sim has learned how to make
    [0B4D0] 0xE4779A3D464DB9E5: Scrap
@@ -46304,37 +46304,37 @@ Unknown3: 0x00000000
    [0B4DB] 0x1253FB7595F08747: Any Material
    [0B4DC] 0xAF2F36483FF45A16: Bar Stool
    [0B4DD] 0x7D991576704F7528: Bathroom Stuff
-   [0B4DE] 0x0A439288A49D7738: Brilliant Sculptures: {0.Number}
+   [0B4DE] 0x0A439288A49D7738: {0.Number} sculptures - Brilliant
    [0B4DF] 0x03672837EB2C12F0: Congratulations! {0.SimName} has become a Chiselmeister and can now sculpt faster.
    [0B4E0] 0x5DE64AE43B787313: Chiselmeisters have made at least {0.Number} sculptures and as a result can make sculptures faster.
    [0B4E1] 0xB0D5D896D24E6213: Chiselmeister
    [0B4E2] 0xBF5D149AEBC87085: Clay
    [0B4E3] 0x3CB56158D42510C2: Clay ({0.Money})
-   [0B4E4] 0x17FFA0ED4DFFA0FE: Clay Sculptures: {0.Number}
+   [0B4E4] 0x17FFA0ED4DFFA0FE: {0.Number} sculptures - clay
    [0B4E5] 0xD872377CA3CE799E: Coffee Table
    [0B4E6] 0xF2B10F44B10E4BDC: Dining Chair
    [0B4E7] 0x644ECAF890CD84CF: Dining Table
    [0B4E8] 0x7FB3F253B9FD75A3: End Table
-   [0B4E9] 0x89AB237A9C8DAD8F: Favorite Medium: {0.String}
+   [0B4E9] 0x89AB237A9C8DAD8F: {0.String} - favorite medium
    [0B4EA] 0x90FBB3539EC41D58: Furniture
-   [0B4EB] 0x317D162D5620A04E: Highest Value Sculpture Sold: {0.Money}
+   [0B4EB] 0x317D162D5620A04E: {0.Money} - highest value sculpture sold
    [0B4EC] 0x92C4B027C92817DB: Ice
    [0B4ED] 0x110B386B85DEF29C: Ice ({0.Money})
    [0B4EE] 0xEEE81422ECF0621E: {0.SimName} has become an Ice Personality sculptor. Ice sculptures made by {0.SimName} will no longer melt!
    [0B4EF] 0x18E81DC7E0FFB5F1: Ice Personality sculptors have made at least {0.Number} ice sculptures and because of their experience with the material, their sculptures never melt.
    [0B4F0] 0x98D5FC7ABE5EFABD: Ice Personality
-   [0B4F1] 0x5E56A7830822E8AC: Ice Sculptures: {0.Number}
+   [0B4F1] 0x5E56A7830822E8AC: {0.Number} sculptures - ice
    [0B4F2] 0x86E78625E4FB17EA: Light
    [0B4F3] 0x516222FD69FF0AFC: Living Chair
-   [0B4F4] 0x8913BD2EE38E4599: Masterpiece Sculptures: {0.Number}
+   [0B4F4] 0x8913BD2EE38E4599: {0.Number} sculptures - Masterpiece
    [0B4F5] 0xF4AF2763555A891D: {0.SimName} has become a Master Sculptor and will now be able to sell their sculptures for more.
    [0B4F6] 0xB40ACF2730363674: Master Sculptors have made at least {0.Number} sculptures from each material and are so famous people will pay more for sculptures made by them.
    [0B4F7] 0xE2D46F22E0CF74A4: Master Sculptor
    [0B4F8] 0x822B6B2CBB97505B: Metal
    [0B4F9] 0x777A1A4436DBF31C: Metal ({0.Number} Scrap)
-   [0B4FA] 0xC6C41DA0C2590D2C: Metal Sculptures: {0.Number}
-   [0B4FB] 0xDC19491F59F1FB67: Money Made: {0.Money}
-   [0B4FC] 0x6921DED6833704C8: Number of Sim Sculptures Made: {0.Number}
+   [0B4FA] 0xC6C41DA0C2590D2C: {0.Number} sculptures - metal
+   [0B4FB] 0xDC19491F59F1FB67: {0.Money} earned
+   [0B4FC] 0x6921DED6833704C8: {0.Number} sculptures - Sim
    [0B4FD] 0x55B0382011840738: Other
    [0B4FE] 0x9FA4CDC443DB5A69: {0.SimName} has become a Prolific Sculptor and can now sculpt for free!
    [0B4FF] 0xDB32D6AE1D1B71A0: Prolific Sculptors have made at least {0.Number} sculptures and, as a result, get a big bulk discount on materials! It is so big that they can sculpt for free!
@@ -46344,12 +46344,12 @@ Unknown3: 0x00000000
    [0B503] 0xF536F9945755DE8A: Stone ({0.Money})
    [0B504] 0xFFA19B015E794AB6: Topiary
    [0B505] 0x5AA7C70C90867151: Topiary ({0.Money})
-   [0B506] 0x7C7365B7EA1F3FB9: Topiary Sculptures: {0.Number}
-   [0B507] 0x4D86F8C838EACB07: Total Sculptures: {0.Number}
+   [0B506] 0x7C7365B7EA1F3FB9: {0.Number} sculptures - topiary
+   [0B507] 0x4D86F8C838EACB07: {0.Number} sculptures - total
    [0B508] 0x56A30E9AB03E9321: Wood
    [0B509] 0xADB180771B69C06E: Wood ({0.Money})
-   [0B50A] 0xD71FBA4EB47AC97A: Wood Sculptures: {0.Number}
-   [0B50B] 0x9297E4BE812B1D38: Stone Sculptures: {0.Number}
+   [0B50A] 0xD71FBA4EB47AC97A: {0.Number} sculptures - wood
+   [0B50B] 0x9297E4BE812B1D38: {0.Number} sculptures - stone
    [0B50C] 0xFDFC50B9F1CF6DCA: Occult Sims cannot receive makeovers
    [0B50D] 0xA21BCDEB4CBD016B: Pregnant Sims cannot receive makeovers
    [0B50E] 0xD8F1B972D5744ECE: Relationship is too low to Style
