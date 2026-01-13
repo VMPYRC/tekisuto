@@ -31272,14 +31272,14 @@ Unknown3: 0x00000000
    [07A23] 0x1E4ECD1F76E369DE: # Harvested
    [07A24] 0xD08C1C47DB224B15: {0.Number} planted
    [07A25] 0xA81F309BA2AAB044: This is how many have been harvested.
-   [07A26] 0x273777E117605E0E: {0.Number} Perfect items harvested
+   [07A26] 0x273777E117605E0E: {0.Number} items harvested - Perfect
    [07A27] 0x4CA03091A6B31B32: Plant Name
    [07A28] 0xBBB3FE799ADFE7AE: Plant History
    [07A29] 0x38180D9A6DB6BC80: The Plant's Name
    [07A2A] 0xDECEA395CB4896BE: Highest Quality
    [07A2B] 0x55877DBC82CB17A4: Highest Quality Harvestable from this Plant
-   [07A2C] 0x9FA97AB294BD62C9: {0.Number}% unique plants planted
-   [07A2D] 0x8305A3C5860A0D58: {0.Number} unknown seeds planted
+   [07A2C] 0x9FA97AB294BD62C9: {0.Number}% plant types planted
+   [07A2D] 0x8305A3C5860A0D58: {0.Number} planted - unknown seeds
    [07A2E] 0xB2D7786EC385F22E: Composition
    [07A2F] 0x38D0A0308C70C0AB: Compositions Learned
    [07A30] 0x10ED1682B9ED9893: {0.Number}% compositions learned
@@ -31299,7 +31299,7 @@ Unknown3: 0x00000000
    [07A3E] 0x1BC1CAE3C202658E: {0.SimFirstName} will start at Guitar Skill Level {1.Number} due to her early childhood Xylophone practice!
    [07A3F] 0xF94575897D69A498: Xylophone Enthusiast
    [07A40] 0xB343159FB02F441B: {0.Number} times Sims watched performances
-   [07A41] 0xA32C09A406A66280: {0.Number} electrical objects repaired
+   [07A41] 0xA32C09A406A66280: {0.Number} objects repaired - electrical
    [07A42] 0xD60653A6F0F349FC: Congratulations! {0.SimFirstName} has repaired enough electrical objects to complete the Electrician Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07A43] 0xD0AD34C41BC4ED1F: Electricians have repaired at least {0.Number} electrical objects. The experience gained means they will never be electrocuted by an electrical object again – what insurance!
    [07A44] 0x4E736366AD25D7B7: Electrician
@@ -31313,7 +31313,7 @@ Unknown3: 0x00000000
    [07A4C] 0x8888E248E43E260A: Congratulations! {0.SimFirstName} has repaired enough plumbing objects to complete the Plumber Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07A4D] 0xBF6F7209307D48DD: Plumbers have repaired at least {0.Number} plumbing objects. They are so good at repairs that plumbing objects repaired by them never break again.
    [07A4E] 0xEC8FBC59ECC71C11: Plumber
-   [07A4F] 0xA49D32464186F7F2: {0.Number} plumbing objects repaired
+   [07A4F] 0xA49D32464186F7F2: {0.Number} objects repaired - plumbing
    [07A50] 0x6328AF998AD89086: Difficulty Rating
    [07A51] 0x07B1D1C0F92A313C: How difficult this upgrade is to perform.
    [07A52] 0x11D646587E14B27F: {0.SimFirstName} achieved the highest skill level in {1.String} and will receive a hefty discount on all Build items purchased in the future!
@@ -31411,16 +31411,16 @@ Unknown3: 0x00000000
    [07AAE] 0x07A1FD1FCB0FF634: Type
    [07AAF] 0x1FE9BCB38A60005D: Type of Celestial Object
    [07AB0] 0xB0DD861C18A0B28E: Chess Record: {0.Number} Wins - {1.Number} Losses
-   [07AB1] 0x5B3FBE5A40F426E5: {0.Number} Brilliant paintings finished
+   [07AB1] 0x5B3FBE5A40F426E5: {0.Number} paintings finished - Brilliant
    [07AB2] 0xF29DF72AC212AACA: Congratulations! {0.SimFirstName} has painted enough paintings to complete the Brushmaster Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07AB3] 0xF96C6459B24BD29D: Brushmasters have painted at least {0.Number} paintings, and as a result, paint much faster than normal painters.
    [07AB4] 0x656818EB6D13C9D1: Brushmaster
    [07AB5] 0x10D752CFE3A33C07: Congratulations! {0.SimFirstName} has painted enough masterpieces to complete the Master Painter Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07AB6] 0x5A32315CCBB37C66: Master Painters have painted at least {0.Number} masterpieces. Every painting they sell is worth oodles more than the work of normal artists.
    [07AB7] 0x47F59381297286EA: Master Painter
-   [07AB8] 0xA4535727DC7B311D: {0.Number} Masterpiece paintings finished
+   [07AB8] 0xA4535727DC7B311D: {0.Number} paintings finished - Masterpiece
    [07AB9] 0xE7D1B89A5FE96DC0: {0.Money} earned
-   [07ABA] 0x8360204BE6F3C67B: {0.Money} - highest sold painting
+   [07ABA] 0x8360204BE6F3C67B: {0.Money} - highest painting sale
    [07ABB] 0x47D8F34502ADA58F: {0.Number} paintings created
    [07ABC] 0xFF19C94501C2B42F: Congratulations! {0.SimFirstName} has painted enough brilliant paintings to complete the Proficient Painter Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07ABD] 0xEC1FF8014C1314FE: Proficient Painters have proven their worth by painting at least {0.Number} brilliant paintings. They tend to paint far more brilliant paintings and masterpieces than less proficient Sims.
@@ -31443,7 +31443,7 @@ Unknown3: 0x00000000
    [07ACE] 0x595A5CBA6944AE93: Thank goodness! {0.SimFirstName} was just potty trained! And just in time, too!
    [07ACF] 0x4E398422A1DA851E: Number Written
    [07AD0] 0x069259CC6C58B6E1: Number of This Genre Written
-   [07AD1] 0x6FC0C8E0086EDB20: Current Book Completion: {0.Number}%
+   [07AD1] 0x6FC0C8E0086EDB20: {0.Number}% - current book completion
    [07AD2] 0xD5D568DFC7F5D64E: {0.SimFirstName}'s latest {1.Number} page article titled {2.String} has a real shot at becoming front page news. Journalism is lucky to have {0.SimFirstName} amongst its illustrious ranks.
    [07AD3] 0xD5D568DFC7F5D64D: Stop the presses! {0.SimFirstName} just finished writing {2.String}, a {1.Number} page exposé that will leave readers reeling. The field of journalism never saw it coming!
    [07AD4] 0xB316D471CF589DB8: {0.SimFirstName}'s {1.Number} page autobiography, {2.String}, is exactly the memoir {0.SimFirstName}'s fans have been pining for. A powerful piece, it details a life well lived.
@@ -31500,7 +31500,7 @@ Unknown3: 0x00000000
    [07B07] 0x0503CC08F1473D1A: {0.Money} earned
    [07B08] 0x1FAFB354EE50635F: {0.String} - most experienced genre
    [07B09] 0x4962857A72A1D6E4: {0.String} - most profitable book
-   [07B0A] 0xA810CB350D585E80: {0.String} ({1.Money} weekly royalties)
+   [07B0A] 0xA810CB350D585E80: {0.String} - {1.Money} weekly royalties
    [07B0B] 0xB160142A2A917A72: No Completed Books
    [07B0C] 0xF5C5BFE3B6D1B5A6: Congratulations! {0.SimFirstName} has written enough novels in a single genre to complete the Specialist Writer Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [07B0D] 0x50F18F94E2835229: Feature Article writers write gripping, investigative pieces that cause newspapers to fly off news stands. Nobody writes more hit or best-selling articles than these writers.
@@ -31544,7 +31544,7 @@ Unknown3: 0x00000000
    [07B33] 0x78A75B12A8610291: {0.Number} Hits
    [07B34] 0x9BBB2D0824CC6D58: {0.Number} pages written
    [07B35] 0xC47D8D1994C91703: {0.Number} books read
-   [07B36] 0x456C5ADD5B9E4F06: {0.Number} scrapped writings
+   [07B36] 0x456C5ADD5B9E4F06: {0.Number} writings scrapped
    [07B37] 0x5ABF04F59FE146C4: {0.Number} books completed
    [07B38] 0x6A3C4467EBBDEB5D: {0.SimFirstName} submitted a few chapters of {1.String} to the publisher and received {2.Money}. 
    [07B39] 0x6A3C4467EBBDEB5E: {0.SimFirstName} just got paid {2.Money} for submitting a few chapters of {1.String} to the publisher.
@@ -41195,7 +41195,7 @@ Unknown3: 0x00000000
    [0A0E6] 0xFAEB7F3C36212603: {0.SimName} just completed the Architectural Eye Skill Challenge and as a result, all {MA.his}{FA.her} photos featuring Landmarks will now be worth more!
    [0A0E7] 0x8C28EDB963403D82: Capture {0.Number} Unique Landmarks to increase the value of all photographs featuring Landmarks. ({1.Number} captured so far.)
    [0A0E8] 0xBF9FBA87E6B007EE: Architectural Eye
-   [0A0E9] 0x4A1D789B8151C99D: {0.Number} burglars photographed
+   [0A0E9] 0x4A1D789B8151C99D: {0.Number} burglars
    [0A0EA] 0x6EA56B5E246A1D86: Difficulty
    [0A0EB] 0xFADC26FC3249603C: How difficult this photography challenge is. The more difficult the challenge, the more Simoleons it will be worth.
    [0A0EC] 0xE4E816ACD811275C: {0.String} - {1.Number} photos - favorite aspect
@@ -41204,11 +41204,11 @@ Unknown3: 0x00000000
    [0A0EF] 0x1A9D04540AF15D95: No favorite style
    [0A0F0] 0x2708760C9732A6E4: {0.String} - {1.Number} photos - favorite subject
    [0A0F1] 0xBED7B2D5F257BDBA: No favorite subject
-   [0A0F2] 0x6AB5E0BA43F30957: {0.Number} Ghosts photographed
+   [0A0F2] 0x6AB5E0BA43F30957: {0.Number} Ghosts
    [0A0F3] 0x2CE92961591E833A: {0.SimName} just completed the Human Form Skill Challenge. If {0.SimName} takes photos of Sims {MA.he}{FA.she} knows, their relationship will improve!
    [0A0F4] 0x3461A2092AAABB8D: After capturing {0.Number} unique Sims, Human Form Experts can increase their relationship with Sims they already know by photographing them. ({1.Number} captured so far.)
    [0A0F5] 0x3FFB80C8378924C1: Human Form Expert
-   [0A0F6] 0x722185B7B80EAE0C: {0.Number} landmarks photographed
+   [0A0F6] 0x722185B7B80EAE0C: {0.Number} landmarks
    [0A0F7] 0xD3735F157AC3EE65: {0.Money} earned
    [0A0F8] 0xD40AA7CA765A208C: {0.Money} spent
    [0A0F9] 0x51374DA0BC47DD9B: Number
@@ -41226,10 +41226,10 @@ Unknown3: 0x00000000
    [0A105] 0x598B7EC4DCC7B28E: Complete {0.Number} different photo collections and taking pictures will be free of charge. ({1.Number} completed so far.)
    [0A106] 0x001608FD600433F2: Shutternut
    [0A107] 0xC7F00861B7A79721: Shutternut
-   [0A108] 0x03B4B532B8DDD87A: {0.Number} strangers photographed
+   [0A108] 0x03B4B532B8DDD87A: {0.Number} strangers
    [0A109] 0xDD76A9BB61329751: Subject Name
    [0A10A] 0xECC8FCE8FA752EE9: The name of the subject of this photography challenge
-   [0A10B] 0x8F7142FCF34E61F6: {0.Number} unique Sims photographed
+   [0A10B] 0x8F7142FCF34E61F6: {0.Number} unique Sims
    [0A10C] 0xB59480BAF86D7DD6: A Voyage Unlike Any Other
    [0A10D] 0x8EF6AA7213D9628E: Ancient Coins collected
    [0A10E] 0xC864E6A0ECF5FECF: Dive Wells explored
@@ -46300,7 +46300,7 @@ Unknown3: 0x00000000
    [0B4D7] 0x235A406AC9073EC9: Congratulations! {0.SimName} has completed the Widget Wonder Challenge and is now guaranteed to make Improved Widgets, and to make them faster than before.
    [0B4D8] 0x37884AC4EB109980: A Widget Wonder has created {0.Number} Widgets. As a result, all Widgets the Sim makes will be Improved Widgets and will have a bonus value. Widget creation time is shortened as well.
    [0B4D9] 0xB40EC3D24B332C68: Widget Wonder
-   [0B4DA] 0x633DB991B6291364: {1.String} for {0.Money} ({2.String}) - highest value painting sold
+   [0B4DA] 0x633DB991B6291364: {1.String} - {0.Money} - {2.String} - highest painting sale
    [0B4DB] 0x1253FB7595F08747: Any Material
    [0B4DC] 0xAF2F36483FF45A16: Bar Stool
    [0B4DD] 0x7D991576704F7528: Bathroom Stuff
@@ -46317,7 +46317,7 @@ Unknown3: 0x00000000
    [0B4E8] 0x7FB3F253B9FD75A3: End Table
    [0B4E9] 0x89AB237A9C8DAD8F: {0.String} - favorite medium
    [0B4EA] 0x90FBB3539EC41D58: Furniture
-   [0B4EB] 0x317D162D5620A04E: {0.Money} - highest value sculpture sold
+   [0B4EB] 0x317D162D5620A04E: {0.Money} - highest sculpture sale
    [0B4EC] 0x92C4B027C92817DB: Ice
    [0B4ED] 0x110B386B85DEF29C: Ice ({0.Money})
    [0B4EE] 0xEEE81422ECF0621E: {0.SimName} has become an Ice Personality sculptor. Ice sculptures made by {0.SimName} will no longer melt!
@@ -60451,16 +60451,16 @@ Unknown3: 0x00000000
    [0EC1E] 0x87EFF38B766B2901: Congratulations. {0.SimName} is now a master at stalking prey. As a reward it will now take {0.SimName} less time to find prey when stalking for prey.
    [0EC1F] 0xD1D9FD6E4EA7A7C8: Cats with Homing Whiskers have caught at least {0.Number} rare prey. As a reward the amount of time it takes to find prey is decreased.
    [0EC20] 0x022448CD06CD62B0: Homing Whiskers
-   [0EC21] 0x51CACBABDEA78127: {0.Number} beetles caught
-   [0EC22] 0x94D7C72DDB5A4CD3: {0.Number} birds caught
+   [0EC21] 0x51CACBABDEA78127: {0.Number} caught - beetles
+   [0EC22] 0x94D7C72DDB5A4CD3: {0.Number} caught - birds
    [0EC23] 0x36739B5CF4E1BE2D: {0.Number} critters caught - Common
    [0EC24] 0x33732C8E22EB719C: {0.Number} critters caught - Extraordinarily Unusual
-   [0EC25] 0x70B51A2DC676B860: {0.Number} fish caught
-   [0EC26] 0xFB703174F5D87FD6: {0.Number} lizards caught
+   [0EC25] 0x70B51A2DC676B860: {0.Number} caught - fish
+   [0EC26] 0xFB703174F5D87FD6: {0.Number} caught - lizards
    [0EC27] 0x1EB1472E2938BCAA: {0.Number} critters caught - Rare
-   [0EC28] 0xE6783F0FD4443C5C: {0.Number} rodents caught
-   [0EC29] 0x283B2675A3230AC2: {0.Number} snakes caught
-   [0EC2A] 0x7386404DE7BA1C6C: {0.Number} turtles caught
+   [0EC28] 0xE6783F0FD4443C5C: {0.Number} caught - rodents
+   [0EC29] 0x283B2675A3230AC2: {0.Number} caught - snakes
+   [0EC2A] 0x7386404DE7BA1C6C: {0.Number} caught - turtles
    [0EC2B] 0x626314D141F290BC: {0.Number} critters caught - Uncommon
    [0EC2C] 0x1A2568DA6656B8D0: Congratulations. {0.SimName} is now an expert of slithery creatures. As a reward {0.SimName} will always succesfully catch snakes, lizards, and turtles.
    [0EC2D] 0x89B3C910DC613B73: A Slither Stalker has caught {0.Number} reptiles. As a reward lizards, snakes, and turtles will always succesfully be caught.
@@ -60474,11 +60474,11 @@ Unknown3: 0x00000000
    [0EC35] 0x4B9E376DE2D8A831: Gem Finder
    [0EC36] 0xD6D4F9BB76C14C99: Metal Finders have found 50 or more Metals and have developed a knack for finding rare metals more easily!
    [0EC37] 0xDD13EE0C421FF845: Metal Finder
-   [0EC38] 0x5320459286F582E8: {0.Number} collected fragments assembled
-   [0EC39] 0x62ECADB2B12329E8: {0.Number} gems found
-   [0EC3A] 0x7D587790B29DDD8C: {0.Number} metals found
-   [0EC3B] 0xF671021A430F0FE6: {0.Number} rocks found
-   [0EC3C] 0x59B6994718E39910: {0.Number} collectable fragments found
+   [0EC38] 0x5320459286F582E8: {0.Number} fragments - assembled
+   [0EC39] 0x62ECADB2B12329E8: {0.Number} found - gems
+   [0EC3A] 0x7D587790B29DDD8C: {0.Number} found - metals
+   [0EC3B] 0xF671021A430F0FE6: {0.Number} found - rocks
+   [0EC3C] 0x59B6994718E39910: {0.Number} fragments - found
    [0EC3D] 0x50DCCF99A6AC12BF: Rock Finders have found 50 or more Rocks and have gained a boosted ability to find rare rocks more easily!
    [0EC3E] 0x37C32759D109E057: Rock Finder
    [0EC3F] 0xF7193CBE27ECA872: {0.SimFirstName} will start at Drum Skill Level {1.Number} due to his early childhood Xylophone practice!
