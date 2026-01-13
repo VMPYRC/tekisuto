@@ -31098,15 +31098,15 @@ Unknown3: 0x00000000
    [07975] 0xE01772F23BF33661: Congratulations! {0.SimFirstName} has dedicated enough hours to strength training to complete the Body Builder Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07976] 0xA5082D8F278F25A8: Body Builders have dedicated at least {0.Number} hours to strength workouts. This dedication pays off, because they are never fatigued after strength workouts.
    [07977] 0x8B6E69724ABCC490: Body Builder
-   [07978] 0xF3DABF970FCC3BD8: Distance Jogged: {0.Number} Kilometers
+   [07978] 0xF3DABF970FCC3BD8: {0.Number} km jogged
    [07979] 0x486C035D17343827: Congratulations! {0.SimFirstName} has dedicated enough hours to cardio exercise to complete the Fitness Nut Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [0797A] 0xB0F50C7D9D33F606: Fitness Nuts have spent {0.Number} hours focusing on cardio workouts. All that time experiencing the burn means they are no longer fatigued after cardio workouts.
    [0797B] 0xDE2F86028636078A: Fitness Nut
    [0797C] 0xBC2FD4FE6E642806: Good Pacing
    [0797D] 0x8342E58CC287594E: Good Pacing
    [0797E] 0x90ED303F992964C4: You can work out longer before getting fatigued if you pace yourself properly.
-   [0797F] 0xF9EA346FB3761588: Hours of Cardio Workouts: {0.Number}
-   [07980] 0x23EB4BCFFD59C995: Hours of Strength Workouts: {0.Number}
+   [0797F] 0xF9EA346FB3761588: {0.Number} of Cardio workouts
+   [07980] 0x23EB4BCFFD59C995: {0.Number} of Strength workouts
    [07981] 0x38A06DE4C8FC8086: Congratulations! {0.SimFirstName} has run far enough to complete Marathon Runner Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07982] 0x82E85294465275E9: Marathon Runners must run at least {0.Number} kilometers before they earn the title. However, accomplishing this incredible feat guarantees them a longer, healthier life.
    [07983] 0x4EE29E21AD1E2995: Marathon Runner
@@ -31121,34 +31121,34 @@ Unknown3: 0x00000000
    [0798C] 0x23B2B4DB9E4740A0: Quick Burst
    [0798D] 0x67DD7615A4E21A20: Quick Burst
    [0798E] 0x7F6018DDD9B981CE: Get all the benefits of exercising (as well as the drawbacks), but in much less time!
-   [0798F] 0x52C84AB11864B07C: Hours of Cardio Workouts: {0.String}
-   [07990] 0xEAA928E4C7E08F67: Hours of Strength Workouts: {0.String}
+   [0798F] 0x52C84AB11864B07C: {0.String} of Cardio workouts
+   [07990] 0xEAA928E4C7E08F67: {0.String} of Strength workouts
    [07991] 0x482FBA6279259FFC: Congratulations! {0.SimFirstName} has made enough Best Friends to complete the Everybody’s Best Friend Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07992] 0xBCED93EDA0B85F1F: To be Everybody's Best Friend, have at least {0.Number} best friends. Your Friends skip Good Friend and jump immediately to Best Friends.
    [07993] 0x400811C651C4D9B7: Everybody's Best Friend
-   [07994] 0xE846EB8B3FE30DA0: Best Friends Made: {0.Number}
+   [07994] 0xE846EB8B3FE30DA0: {0.Number} Best Friends made
    [07995] 0x1EF4D11312773CB1: Congratulations! {0.SimFirstName} has made enough acquaintances to complete the Celebrity Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07996] 0xD3CA4E01CA61BD78: Celebrities are acquaintances with at least {0.Number} local Sims. Celebrities are able to build relationships more quickly due to a hefty starting relationship bonus.
    [07997] 0x601B1E09B372D820: Celebrity
    [07998] 0x5D7D44CAC37F2BB8: Congratulations! {0.SimFirstName} has told enough successful jokes to complete the Comedian Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07999] 0x448467C9C8A79B2B: Comedians have successfully told {0.Number} jokes, which amounts to quite a few laughs. Jokes told by comedians rarely fall flat.
    [0799A] 0x53BED938F549152B: Comedian
-   [0799B] 0x9B09A22F11B5A4A6: Friendships Made: {0.Number}
-   [0799C] 0x531BB4916EB60A01: Additional Friends Needed for Next Level: {0.Number}
+   [0799B] 0x9B09A22F11B5A4A6: {0.Number} friendships made
+   [0799C] 0x531BB4916EB60A01: {0.Number} Friends needed for next level
    [0799D] 0x1665E7804572F98F: You do not have enough friends to advance to the next level
    [0799E] 0xBBEA391C72071893: Current Friends: {0.Number}\nTotal Friend Requirement: {1.Number}\nCurrent Relationships: {2.Number}\nTotal Relationship Requirement: {3.Number}
    [0799F] 0x1E425AECADA1D878: {0.SimName} has reached the current maximum level of Charisma skill. {0.SimName} needs at least {1.Number} friends and at least {2.Number} relationships to advance.
-   [079A0] 0x85EA77D5E04B108E: Funny Jokes Told: {0.Number}
+   [079A0] 0x85EA77D5E04B108E: {0.Number} funny jokes told
    [079A1] 0x4CA5FF7951EF829F: Congratulations! {0.SimFirstName} has learned enough traits about others to complete the Personable Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [079A2] 0x62E0E125649915EE: Personable Sims have learned at least {0.Number} Traits of their friends and neighbors. They are able to learn traits more quickly when conversing with new people.
    [079A3] 0x232E71911E73DA52: Personable
-   [079A4] 0xDC1E5CD5D67F0D50: Sims Known: {0.Number}
+   [079A4] 0xDC1E5CD5D67F0D50: {0.Number} Sims known
    [079A5] 0xE9B6F97F5A821687: Additional Relationships Needed for Next Level: {0.Number}
-   [079A6] 0x1F23A249C924F3B8: Smooth Recoveries Made: {0.Number}
+   [079A6] 0x1F23A249C924F3B8: {0.Number} smooth recoveries made
    [079A7] 0x514567195A9F396A: Congratulations! {0.SimFirstName} has made enough Friends to complete the Super Friendly Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [079A8] 0x2EF121E0194844BD: Super Friendly Sims can honestly say they have at least {0.Number} Friends. It seems like an impossibly large number of relationships to juggle, but for Super Friendly Sims, friendships never decay.
    [079A9] 0xB422ABBB57A49CF1: Super Friendly
-   [079AA] 0x483255B1BF3ADBBD: Traits Learned: {0.Number}
+   [079AA] 0x483255B1BF3ADBBD: {0.Number} traits learned
    [079AB] 0x2C5B17F722285505: Now that {0.SimFirstName} has found some rocks, he knows all the best palces to look for and and finish the ultimate collection.
    [079AC] 0x5074C4A383962BE0: Now that {0.SimFirstName} has found some rocks, she knows all the best palces to look for and and finish the ultimate collection.
    [079AD] 0xB34AFF1CF27A5AEC: Once your Sim finds at least half of the varieties of space rocks, it will be easier to find ones you haven’t yet stumbled across.
@@ -31156,44 +31156,44 @@ Unknown3: 0x00000000
    [079AF] 0x2CCB249D2848FBDC: Congratulations! {0.SimFirstName} has mastered the bugs, and has completed the Beetle Collector Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [079B0] 0x07C64248082FE87F: Catch {0.Number} types of beetles, and your Sim will never fail at catching butterflies or beetles again.
    [079B1] 0xB0E13CF13CD84F17: Beetle Collector
-   [079B2] 0x31ABFC4B251580CA: Beetles Collected: {0.Number}
-   [079B3] 0x2EE3D56B2987A30D: Butterflies Collected: {0.Number}
+   [079B2] 0x31ABFC4B251580CA: Beetles - {0.Number}
+   [079B3] 0x2EE3D56B2987A30D: Butterflies - {0.Number}
    [079B4] 0xAD49527A36C0C52E: Congratulations! {0.SimFirstName} has mastered the butterflies, and has completed the Butterfly Collector Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [079B5] 0x07EE4B1A7250D1C1: Catch {0.Number} types of butterflies to become a Butterfly Collector. Sims with this title are learned in the ways of the insect and will have an easier time finding beetles and butterflies.
    [079B6] 0x09D00936D308F24D: Butterfly Collector
    [079B7] 0xF84DD00FF56A606E: Congratulations! {0.SimFirstName} has mastered the gems, and has completed the Gem Collector Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [079B8] 0x9AB053A562FC8B01: Collect {0.Number} types of gems, and the rarest gem cut shape will be bestowed upon your Sim! Watch out… it’s valuable!
    [079B9] 0x57879E33E55B9E8D: Gem Collector
-   [079BA] 0x74E58DA5DB437234: Gems Collected: {0.Number}
-   [079BB] 0x953AF1368B150C68: Insects Donated to Science: {0.Number}
+   [079BA] 0x74E58DA5DB437234: Gems - {0.Number}
+   [079BB] 0x953AF1368B150C68: {0.Number} insects donated to science
    [079BC] 0xF22500B16077D0F6: Congratulations! {0.SimFirstName} has mastered the metals, and has completed the Metal Collector Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [079BD] 0xDE7C920F6905E6D9: Find {0.Number} unique metals, and your Sim will routinely get additional ingots returned in the mail.
    [079BE] 0x5DFA04E55B47C185: Metal Collector
-   [079BF] 0x5C5FD768DA5A113C: Metals Collected: {0.Number}
-   [079C0] 0xF204E7D20563BA97: Unique Beetles Found: {0.Number}%
-   [079C1] 0x5AA9360FDE5BAB70: Unique Butterflies Found: {0.Number}%
-   [079C2] 0x2F11B65D7C2988CF: Unique Gems Found: {0.Number}%
-   [079C3] 0x0EB2C53AE364C0A7: Unique Metals Found: {0.Number}%
-   [079C4] 0x1293D080E5BE80ED: Unique Rocks Analyzed: {0.Number}%
+   [079BF] 0x5C5FD768DA5A113C: Metals - {0.Number}
+   [079C0] 0xF204E7D20563BA97: Beetles - {0.Number}%
+   [079C1] 0x5AA9360FDE5BAB70: Butterflies - {0.Number}%
+   [079C2] 0x2F11B65D7C2988CF: Gems - {0.Number}%
+   [079C3] 0x0EB2C53AE364C0A7: Metals - {0.Number}%
+   [079C4] 0x1293D080E5BE80ED: Rocks - {0.Number}%
    [079C5] 0x13F2E7D00B6C907E: {0.SimFirstName} has found every rock.
    [079C6] 0xF868337AD32F1FF5: {0.SimFirstName} has found every rock.
    [079C7] 0x2B5C318675151FD1: Find all the space rocks, and your Sim will have more luck collecting ones of higher value.
    [079C8] 0x49850789B6B7B69D: Awesomest Rock Collector in the Universe
-   [079C9] 0x4FE5D095FE644184: Rocks Found: {0.Number}
+   [079C9] 0x4FE5D095FE644184: Rocks - {0.Number}
    [079CA] 0x5E3E7FB0F4C3F006: Appliances
    [079CB] 0xA8E5CD5D6EA3FBBC: Appliances used to prepare this recipe.
    [079CC] 0x54B494B12C49B2FE: Because of {0.SimFirstName}'s skill using the Toy Oven, he will start at Cooking skill level {1.Number}!
    [079CD] 0x7AA3EC354628A375: Because of {0.SimFirstName}'s skill using the Toy Oven, she will start at Cooking skill level {1.Number}!
    [079CE] 0x6A316DC4FD6D1A31: Cooking Bonus
    [079CF] 0x86B2880646BC1538: Counter
-   [079D0] 0xB69C98951DEB4B3A: Favorite Meal: {0.String}
+   [079D0] 0xB69C98951DEB4B3A: {0.String} - favorite meal
    [079D1] 0xE073A49D6AD9DC4C: Grill
-   [079D2] 0xB8A54CC9A3F00FD9: Highest Quality Meal: {0.String}
+   [079D2] 0xB8A54CC9A3F00FD9: {0.String} - highest quality meal
    [079D3] 0x1179B44F3C27442C: Ingredients
    [079D4] 0x3AA351A8A4499B32: Ingredients used to make this recipe.
    [079D5] 0x97AE229DAF0CCA06: Level
    [079D6] 0x6B61BD76DB9999BC: Skill level required to prepare this recipe.
-   [079D7] 0x89067D3E8527AE38: Meal Most Prepared: {0.String}
+   [079D7] 0x89067D3E8527AE38: {0.String} - most prepared meal
    [079D8] 0x007DAA6F815E47F4: Congratulations! {0.SimFirstName} has learned {1.Number} recipes to complete the Menu Maven Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [079D9] 0xF5FC0C5069E92FC7: Menu Mavens have learned to prepare at least {0.Number} recipes. Recipes are earned by improving the cooking skill and can be purchased at the bookstore. Menu Mavens prepare higher quality food.
    [079DA] 0x9C57E24F0FE903DF: Menu Maven
@@ -31202,8 +31202,8 @@ Unknown3: 0x00000000
    [079DD] 0xDEA2970122EB7E53: Quality
    [079DE] 0x6FD3E5E6D1BAADE3: Your Sim will tend to prepare this recipe at this quality.
    [079DF] 0x95C951A2CDA4CD50: Recipe
-   [079E0] 0xB37F327AFCD7A595: Recipes Known: {0.Number}%
-   [079E1] 0xD74FDE9191FCA68F: Recipes Prepared: {0.Number}
+   [079E0] 0xB37F327AFCD7A595: {0.Number}% recipes learned
+   [079E1] 0xD74FDE9191FCA68F: {0.Number} recipes prepared
    [079E2] 0xCF22F7BDA11091BC: Recipes Known
    [079E3] 0x96D588FEF184BBCE: Name of this recipe.
    [079E4] 0x299FD355A69D6E60: Congratulations! {0.SimFirstName} has prepared enough meals to complete the Star Chef Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
@@ -31218,9 +31218,9 @@ Unknown3: 0x00000000
    [079ED] 0xEF13A14B3135D141: Weight
    [079EE] 0xF497ED37F261B519: Heaviest Fish of this Type Caught
    [079EF] 0x002838BF8B634FD1: Fresh Water and Salt Water
-   [079F0] 0x259BDF310DDDD0CE: Most Money Earned from Selling a Fish: {0.String}
+   [079F0] 0x259BDF310DDDD0CE: {0.String} - highest sold fish
    [079F1] 0xCE33E3A13F6D9061: {0.String} for {1.Money}
-   [079F2] 0xEAA7491009E560A7: Number Caught: {0.Number}
+   [079F2] 0xEAA7491009E560A7: {0.Number} fish caught
    [079F3] 0x21476A0504945C84: {0.SimFirstName} caught a {1.String} {2.ObjectName} weighing {3.Number} kg worth at least {4.Money}.
    [079F4] 0x717CF8E70792C647: {0.SimFirstName} caught a {1.String} {2.ObjectName} weighing {3.Number} kg worth at least {4.Money}.
    [079F5] 0xB76F404B5CEE140D: Congratulations! {0.SimFirstName} has caught enough fish to complete the Commercial Fisherman Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
@@ -31229,16 +31229,16 @@ Unknown3: 0x00000000
    [079F8] 0xFCA176FF609E7FA2: Name
    [079F9] 0x13CF2EEC459DB79D: Fishing 
    [079FA] 0x1D3B82E1DA1BE4F0: Name of the Fish
-   [079FB] 0xD8EC34C75F8CE15A: Fish Types Caught: {0.Number}%
+   [079FB] 0xD8EC34C75F8CE15A: {0.Number}% fish types caught
    [079FC] 0xF194420BFAF138FC: Fresh Water
-   [079FD] 0x4868F10DA6A0FB6C: Heaviest Fish Caught: {0.String}
+   [079FD] 0x4868F10DA6A0FB6C: {0.String} - heaviest fish caught
    [079FE] 0x65E95B05175DA84F: {0.String} ({1.Number} kg)
    [079FF] 0x07D2FD2CA32017A2: Congratulations! {0.SimFirstName} has {1.Number} types of fish to complete the Amateur Ichthyologist Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [07A00] 0xC6A8E6A37A5C3905: Amateur Ichthyologists have caught at least {0.Number} types of fish. Their deep understanding of marine life helps them catch bigger fish than normal Sims.
    [07A01] 0x403D47B57E041FD9: Amateur Ichthyologist
    [07A02] 0x341D25C020665724: Level
    [07A03] 0x9ECB2F1D1664381A: Skill level required to catch this fish without bait.
-   [07A04] 0x893444442CAD7738: Total Money Earned from Fishing: {0.Money}
+   [07A04] 0x893444442CAD7738: {0.Money} earned
    [07A05] 0x9A0F0B5BDA545095: {0.SimFirstName} just caught a new type of Fish!
    [07A06] 0x1864C5B88956FD70: {0.SimFirstName} just caught a new type of Fish!
    [07A07] 0xD4FB9BE71FED93E4: {0.SimFirstName} just caught his biggest {1.String} ever!
@@ -31252,38 +31252,38 @@ Unknown3: 0x00000000
    [07A0F] 0x0F6619810BB91D92: Salt Water
    [07A10] 0xCF22358D77434CAF: Preferred Habitat
    [07A11] 0x9BBA03963AB0DE87: Fish are most commonly found in their preferred habitat.
-   [07A12] 0x788E468472E634C1: Best Harvestable: {0.String}
+   [07A12] 0x788E468472E634C1: {0.String} - best harvestable
    [07A13] 0x2E316F4A26AF2D21: Congratulations! {0.SimFirstName} has harvested enough perfect fruits and vegetables to complete the Botanical Boss Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07A14] 0x3009F4AF61A71E68: Botanical Bosses must harvest at least {0.Number} Perfect fruits and vegetables. After so many Perfect harvestables, the plants of Botanical Bosses almost never die from neglect.
    [07A15] 0xCB528AF380EB7250: Botanical Boss
    [07A16] 0x108C1F885E4B8DDB: Special Benefits
    [07A17] 0x17D006E0F6D48AFB: Benefits This Plant Provides
-   [07A18] 0xE50FD4506E64D994: Items Harvested: {0.Number}
+   [07A18] 0xE50FD4506E64D994: {0.Number} items harvested
    [07A19] 0x5234B4097AD1F0B8: Congratulations! {0.SimFirstName} has harvested enough fruits and vegetables to complete the Master Farmer Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07A1A] 0xE987A7561F67322B: Master Farmers have harvested at least {0.Number} fruits and vegetables. The plants of Master Farmers remain watered and fertilized longer, meaning their gardens are more efficient.
    [07A1B] 0xD53195C7247D642B: Master Farmer
    [07A1C] 0xA6A2D6A733937CB7: Congratulations! {0.SimFirstName} has mastered the plants and has completed the Master Planter Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [07A1D] 0x40C4CDDABDCD8416: A Master Planter must plant {0.Number} types of plant that can be planted in the game. Once you have mastered the varieties you will be able to reduce weed growth significantly on future plants.
    [07A1E] 0x03E6404C33A5205A: Master Planter
-   [07A1F] 0xEFD9D81950919B89: Largest Money Bag Harvested: {0.Money}
-   [07A20] 0x9C02C50397D2D0F3: Money Bags Harvested: {0.Number}
-   [07A21] 0xFE8D73E377F8785B: Money Earned: {0.Money}
+   [07A1F] 0xEFD9D81950919B89: {0.Money} - largest money bag harvested
+   [07A20] 0x9C02C50397D2D0F3: {0.Number} money bags harvested
+   [07A21] 0xFE8D73E377F8785B: {0.Money} earned
    [07A22] 0x4DB4ABA51E08F81E: N/A
    [07A23] 0x1E4ECD1F76E369DE: # Harvested
-   [07A24] 0xD08C1C47DB224B15: Number Planted: {0.Number}
+   [07A24] 0xD08C1C47DB224B15: {0.Number} planted
    [07A25] 0xA81F309BA2AAB044: This is how many have been harvested.
-   [07A26] 0x273777E117605E0E: Perfect Items Harvested: {0.Number}
+   [07A26] 0x273777E117605E0E: {0.Number} items harvested - Perfect
    [07A27] 0x4CA03091A6B31B32: Plant Name
    [07A28] 0xBBB3FE799ADFE7AE: Plant History
    [07A29] 0x38180D9A6DB6BC80: The Plant's Name
    [07A2A] 0xDECEA395CB4896BE: Highest Quality
    [07A2B] 0x55877DBC82CB17A4: Highest Quality Harvestable from this Plant
-   [07A2C] 0x9FA97AB294BD62C9: Unique Plants Planted: {0.Number}%
-   [07A2D] 0x8305A3C5860A0D58: Unknown Seeds Planted: {0.Number}
+   [07A2C] 0x9FA97AB294BD62C9: {0.Number}% plant types planted
+   [07A2D] 0x8305A3C5860A0D58: {0.Number} planted - unknown seeds
    [07A2E] 0xB2D7786EC385F22E: Composition
    [07A2F] 0x38D0A0308C70C0AB: Compositions Learned
-   [07A30] 0x10ED1682B9ED9893: Compositions Known: {0.Number}%
-   [07A31] 0x243ADA55A5EB02A3: Number of times compositions have been performed: {0.Number}
+   [07A30] 0x10ED1682B9ED9893: {0.Number}% compositions learned
+   [07A31] 0x243ADA55A5EB02A3: {0.Number} performances
    [07A32] 0xCE8B4C14EDE35DB2: Guitar Compositions
    [07A33] 0xFC2B32E0040DA502: Congratulations! {0.SimFirstName} has performed at enough parties and venues to complete the Guitar Star Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07A34] 0x8CCD21B3ACCB4EE5: Guitar Stars must play at {0.Number} Parties and Venues in the town to earn their title. Afterwards, they earn larger monetary rewards for tips and performances!
@@ -31291,15 +31291,15 @@ Unknown3: 0x00000000
    [07A36] 0x32788AFEA5D795D2: Congratulations! {0.SimFirstName} has learned to play every song to complete the Master Guitarist Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07A37] 0x4F19D00CA75E2675: Master Guitarists learn to play every song awarded to them and available for purchase at the store. After learning so many songs, they receive a special Master Track!
    [07A38] 0xBE586681D68DC509: Master Guitarist
-   [07A39] 0x1DC00786A7D69B5E: Money earned through playing guitar: {0.Money}
+   [07A39] 0x1DC00786A7D69B5E: {0.Money} earned
    [07A3A] 0x49D410A60E6A5700: Congratulations! {0.SimFirstName} has earned enough money playing guitar to complete the Money Maker Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07A3B] 0xBB67954B04E90823: Earn {0.Money} playing the guitar to earn a new Master Track to perform. Money can be earned through tips or by completing Opportunities. 
    [07A3C] 0x32C82D697A902063: Money Maker
    [07A3D] 0x056460563CF3CB7F: {0.SimFirstName} will start at Guitar Skill Level {1.Number} due to his early childhood Xylophone practice!
    [07A3E] 0x1BC1CAE3C202658E: {0.SimFirstName} will start at Guitar Skill Level {1.Number} due to her early childhood Xylophone practice!
    [07A3F] 0xF94575897D69A498: Xylophone Enthusiast
-   [07A40] 0xB343159FB02F441B: Number of times Sims have watched you perform: {0.Number}
-   [07A41] 0xA32C09A406A66280: Electrical Objects Repaired: {0.Number}
+   [07A40] 0xB343159FB02F441B: {0.Number} times Sims watched performances
+   [07A41] 0xA32C09A406A66280: {0.Number} objects repaired - electrical
    [07A42] 0xD60653A6F0F349FC: Congratulations! {0.SimFirstName} has repaired enough electrical objects to complete the Electrician Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07A43] 0xD0AD34C41BC4ED1F: Electricians have repaired at least {0.Number} electrical objects. The experience gained means they will never be electrocuted by an electrical object again – what insurance!
    [07A44] 0x4E736366AD25D7B7: Electrician
@@ -31307,13 +31307,13 @@ Unknown3: 0x00000000
    [07A46] 0x0174ED41A02C4ADC: Number of this upgrade you have succesfully completed.
    [07A47] 0x75B7C32C27B59B77: Number Succesfully Completed: {0.Number}
    [07A48] 0x2C6B9CD0928DD7A9: Applicable Objects
-   [07A49] 0x639978E6C67B2BBC: Objects Repaired: {0.Number}
+   [07A49] 0x639978E6C67B2BBC: {0.Number} objects repaired
    [07A4A] 0xF715E72E511D1EB1: The type of objects this upgrade can be performed on.
-   [07A4B] 0x8666D0EA8220BC20: Objects Upgraded: {0.Number}
+   [07A4B] 0x8666D0EA8220BC20: {0.Number} objects upgraded
    [07A4C] 0x8888E248E43E260A: Congratulations! {0.SimFirstName} has repaired enough plumbing objects to complete the Plumber Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07A4D] 0xBF6F7209307D48DD: Plumbers have repaired at least {0.Number} plumbing objects. They are so good at repairs that plumbing objects repaired by them never break again.
    [07A4E] 0xEC8FBC59ECC71C11: Plumber
-   [07A4F] 0xA49D32464186F7F2: Plumbing Objects Repaired: {0.Number}
+   [07A4F] 0xA49D32464186F7F2: {0.Number} objects repaired - plumbing
    [07A50] 0x6328AF998AD89086: Difficulty Rating
    [07A51] 0x07B1D1C0F92A313C: How difficult this upgrade is to perform.
    [07A52] 0x11D646587E14B27F: {0.SimFirstName} achieved the highest skill level in {1.String} and will receive a hefty discount on all Build items purchased in the future!
@@ -31321,7 +31321,7 @@ Unknown3: 0x00000000
    [07A54] 0x131C0775645A0EDE: {0.SimFirstName} will start at Handiness Skill Level {1.Number} due to early childhood blocks development!
    [07A55] 0x3B6D5E79C094B4B7: Childhood Contractor
    [07A56] 0x548949B241350620: Upgrades Completed
-   [07A57] 0x7E6F6946FC7B731D: Times Electrocuted: {0.Number}
+   [07A57] 0x7E6F6946FC7B731D: {0.Number} times electrocuted
    [07A58] 0xC815A30220E4281F: Congratulations! {0.SimFirstName} has upgraded enough objects to complete the Tinkerer Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07A59] 0x1B67EC35B4B8A26E: Tinkerers have finished at least {0.Number} unique upgrades on household items. Installing the "Unbreakable" upgrade on multiple objects only counts as one unique upgrade, so it helps to experiment with different upgrade options! Tinkerers never fail when upgrading objects.
    [07A5A] 0x379B2E522F13CAD2: Tinkerer
@@ -31343,7 +31343,7 @@ Unknown3: 0x00000000
    [07A6A] 0xC8B1BB6576E7C5E5: Souped-up speakers just sound better!
    [07A6B] 0xA71CABA4D2700FD1: Like it says – it never breaks!
    [07A6C] 0x369CC7CAA272E624: Get stereo sound for the whole house!
-   [07A6D] 0x0B622D1BD018F4CA: Unique Upgrades Completed: {0.Number}
+   [07A6D] 0x0B622D1BD018F4CA: {0.Number} unique upgrades completed
    [07A6E] 0x3902F8732D822D8F: Fireplace
    [07A6F] 0x866C4A910D6A51A6: Sprinkler
    [07A70] 0x3382CD6030E4402F: TV
@@ -31363,7 +31363,7 @@ Unknown3: 0x00000000
    [07A7E] 0x8A644CEA0839460A: Plumbing Objects, Stereo, Teleporter, TV, Computer, Dishwasher, Trash Compactor
    [07A7F] 0x1FEFE2762D207A9F: Stereo
    [07A80] 0x45244973354C7981: Upgrade
-   [07A81] 0xD04D4CB2317D5D60: Percent of Unique Upgrades Completed: {0.Number}%
+   [07A81] 0xD04D4CB2317D5D60: {0.Number}% unique upgrades completed
    [07A82] 0x481F3F13F8C12A59: Name of this upgrade.
    [07A83] 0x20D1AC396E68A866: Take Photo
    [07A84] 0xA97CD7A94621B05D: Take Photo
@@ -31373,7 +31373,7 @@ Unknown3: 0x00000000
    [07A88] 0xA05C6547ECC19286: Congratulations! {0.SimFirstName} has reached the fifth level of the competitive chess circuit and has completed the Chess Grand Master Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward. 
    [07A89] 0xA5954A65F0D17BE9: Chess Grand Masters have reached the coveted fifth level of the competitive chess circuit. There, they sit upon their throne, gazing downwards upon their victims. Those who engage Grand Masters in chess improve their abilities in logic and chess more quickly.
    [07A8A] 0x9805A008E5455F95: Grand Master
-   [07A8B] 0x1F4E418800B55DA9: Chess Rank: {0.String}
+   [07A8B] 0x1F4E418800B55DA9: Chess Rank - {0.String}
    [07A8C] 0xE7570319342E261B: Pawn
    [07A8D] 0xE7570319342E261A: Apprentice (Rank 1)
    [07A8E] 0xE7570319342E2619: Tenderfoot (Rank 2)
@@ -31385,12 +31385,12 @@ Unknown3: 0x00000000
    [07A94] 0xE5F659D95C1EEFC5: {0.SimName}
    [07A95] 0x3861A5F0D19E24C9: Description
    [07A96] 0x64459C4C822118CE: Description of Object
-   [07A97] 0x49EF90FE6603B899: Highest Ranked Opponent Defeated in Chess: {0.String}
+   [07A97] 0x49EF90FE6603B899: {0.String} - highest ranked Chess opponent defeated
    [07A98] 0x2533A107B07FD063: None Defeated
-   [07A99] 0x1D2284C46E21D3A5: Number Of Celestial Discoveries: {0.Number}
-   [07A9A] 0x16F154B60AB32F25: Number of Hours Spent Tutoring Children: {0.Number}
-   [07A9B] 0xA9C49A8D5E086C7C: Number of Hours Spent Tutoring Sims for Skills: {0.Number}
-   [07A9C] 0x8771EEEDFA13FB63: Number of Sims Tutored: {0.Number}
+   [07A99] 0x1D2284C46E21D3A5: {0.Number} celestial discoveries
+   [07A9A] 0x16F154B60AB32F25: {0.Number} hours spent tutoring children
+   [07A9B] 0xA9C49A8D5E086C7C: {0.Number} hours spent tutoring Sims for skills
+   [07A9C] 0x8771EEEDFA13FB63: {0.Number} Sims tutored
    [07A9D] 0x351F9C064592FC48: {0.SimFirstName} has achieved the highest skill level in {1.String} and can now tutor other Sims in this skill and others in which {0.SimFirstName} is more skilled than the student.
    [07A9E] 0xF5F3BF82AFC3E3EF: Due to early childhood reading and peg box experimentation, {0.SimFirstName} has gained a head start in the logic skill!
    [07A9F] 0x8CFCBE10950361C8: Clever Peg Box Tinkerer
@@ -31410,18 +31410,18 @@ Unknown3: 0x00000000
    [07AAD] 0xFA10BEBEA723FF6C: {0.SimFirstName} does not have a high enough {1.String} skill level to tutor {2.SimFirstName}! Improve the skill before teaching others!
    [07AAE] 0x07A1FD1FCB0FF634: Type
    [07AAF] 0x1FE9BCB38A60005D: Type of Celestial Object
-   [07AB0] 0xB0DD861C18A0B28E: Chess Record: Matches Won: {0.Number}, Matches Lost: {1.Number} 
-   [07AB1] 0x5B3FBE5A40F426E5: Number of Brilliant Paintings Finished: {0.Number}
+   [07AB0] 0xB0DD861C18A0B28E: Chess Record: {0.Number} Wins - {1.Number} Losses
+   [07AB1] 0x5B3FBE5A40F426E5: {0.Number} paintings finished - Brilliant
    [07AB2] 0xF29DF72AC212AACA: Congratulations! {0.SimFirstName} has painted enough paintings to complete the Brushmaster Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07AB3] 0xF96C6459B24BD29D: Brushmasters have painted at least {0.Number} paintings, and as a result, paint much faster than normal painters.
    [07AB4] 0x656818EB6D13C9D1: Brushmaster
    [07AB5] 0x10D752CFE3A33C07: Congratulations! {0.SimFirstName} has painted enough masterpieces to complete the Master Painter Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07AB6] 0x5A32315CCBB37C66: Master Painters have painted at least {0.Number} masterpieces. Every painting they sell is worth oodles more than the work of normal artists.
    [07AB7] 0x47F59381297286EA: Master Painter
-   [07AB8] 0xA4535727DC7B311D: Number of Masterpieces Painted: {0.Number}
-   [07AB9] 0xE7D1B89A5FE96DC0: Money Earned from Painting: {0.Money}
-   [07ABA] 0x8360204BE6F3C67B: Worth of Most Valuable Painting Sold: {0.Money}
-   [07ABB] 0x47D8F34502ADA58F: Number of Paintings Created: {0.Number}
+   [07AB8] 0xA4535727DC7B311D: {0.Number} paintings finished - Masterpiece
+   [07AB9] 0xE7D1B89A5FE96DC0: {0.Money} earned
+   [07ABA] 0x8360204BE6F3C67B: {0.Money} - highest painting sale
+   [07ABB] 0x47D8F34502ADA58F: {0.Number} paintings created
    [07ABC] 0xFF19C94501C2B42F: Congratulations! {0.SimFirstName} has painted enough brilliant paintings to complete the Proficient Painter Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07ABD] 0xEC1FF8014C1314FE: Proficient Painters have proven their worth by painting at least {0.Number} brilliant paintings. They tend to paint far more brilliant paintings and masterpieces than less proficient Sims.
    [07ABE] 0xAED9D2CFE0A8F662: Proficient Painter
@@ -31443,7 +31443,7 @@ Unknown3: 0x00000000
    [07ACE] 0x595A5CBA6944AE93: Thank goodness! {0.SimFirstName} was just potty trained! And just in time, too!
    [07ACF] 0x4E398422A1DA851E: Number Written
    [07AD0] 0x069259CC6C58B6E1: Number of This Genre Written
-   [07AD1] 0x6FC0C8E0086EDB20: Current Book Completion: {0.Number}%
+   [07AD1] 0x6FC0C8E0086EDB20: {0.Number}% - current book completion
    [07AD2] 0xD5D568DFC7F5D64E: {0.SimFirstName}'s latest {1.Number} page article titled {2.String} has a real shot at becoming front page news. Journalism is lucky to have {0.SimFirstName} amongst its illustrious ranks.
    [07AD3] 0xD5D568DFC7F5D64D: Stop the presses! {0.SimFirstName} just finished writing {2.String}, a {1.Number} page exposé that will leave readers reeling. The field of journalism never saw it coming!
    [07AD4] 0xB316D471CF589DB8: {0.SimFirstName}'s {1.Number} page autobiography, {2.String}, is exactly the memoir {0.SimFirstName}'s fans have been pining for. A powerful piece, it details a life well lived.
@@ -31497,10 +31497,10 @@ Unknown3: 0x00000000
    [07B04] 0x2FF80CE7EB237505: Genre
    [07B05] 0xF8057E8FFF6CC729: Average Length
    [07B06] 0x06FCF503D9C12F5C: Average number of pages
-   [07B07] 0x0503CC08F1473D1A: Money Earned Writing: {0.Money}
-   [07B08] 0x1FAFB354EE50635F: Most Experienced Genre: {0.String}
-   [07B09] 0x4962857A72A1D6E4: Most Profitable Book: {0.String}
-   [07B0A] 0xA810CB350D585E80: {0.String} (Royalties: {1.Money} per Week)
+   [07B07] 0x0503CC08F1473D1A: {0.Money} earned
+   [07B08] 0x1FAFB354EE50635F: {0.String} - most experienced genre
+   [07B09] 0x4962857A72A1D6E4: {0.String} - most profitable book
+   [07B0A] 0xA810CB350D585E80: {0.String} - {1.Money} weekly royalties
    [07B0B] 0xB160142A2A917A72: No Completed Books
    [07B0C] 0xF5C5BFE3B6D1B5A6: Congratulations! {0.SimFirstName} has written enough novels in a single genre to complete the Specialist Writer Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [07B0D] 0x50F18F94E2835229: Feature Article writers write gripping, investigative pieces that cause newspapers to fly off news stands. Nobody writes more hit or best-selling articles than these writers.
@@ -31539,13 +31539,13 @@ Unknown3: 0x00000000
    [07B2E] 0x6A23930E8DA6977F: Science Fiction Novelist
    [07B2F] 0xE5729921702353A2: Trashy Novelist
    [07B30] 0x580E35908A09BC56: Vaudeville Novelist
-   [07B31] 0xDB31B80E85D47573: Bestsellers: {0.Number}
-   [07B32] 0x32333FE8FF1528AB: Flops: {0.Number}
-   [07B33] 0x78A75B12A8610291: Hits: {0.Number}
-   [07B34] 0x9BBB2D0824CC6D58: Pages Written: {0.Number}
-   [07B35] 0xC47D8D1994C91703: Books Read: {0.Number}
-   [07B36] 0x456C5ADD5B9E4F06: Scrapped Writings: {0.Number}
-   [07B37] 0x5ABF04F59FE146C4: Completed Books: {0.Number}
+   [07B31] 0xDB31B80E85D47573: {0.Number} Bestsellers
+   [07B32] 0x32333FE8FF1528AB: {0.Number} flops
+   [07B33] 0x78A75B12A8610291: {0.Number} Hits
+   [07B34] 0x9BBB2D0824CC6D58: {0.Number} pages written
+   [07B35] 0xC47D8D1994C91703: {0.Number} books read
+   [07B36] 0x456C5ADD5B9E4F06: {0.Number} writings scrapped
+   [07B37] 0x5ABF04F59FE146C4: {0.Number} books completed
    [07B38] 0x6A3C4467EBBDEB5D: {0.SimFirstName} submitted a few chapters of {1.String} to the publisher and received {2.Money}. 
    [07B39] 0x6A3C4467EBBDEB5E: {0.SimFirstName} just got paid {2.Money} for submitting a few chapters of {1.String} to the publisher.
    [07B3A] 0x6A3C4467EBBDEB5F: {1.String} is going well! Submitting the last few chapters earned {0.SimFirstName} {2.Money}. 
@@ -31562,7 +31562,7 @@ Unknown3: 0x00000000
    [07B45] 0xB964A85483A9D302: Congratulations! {0.SimFirstName} has earned enough royalties to complete the Speed Writer Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [07B46] 0x2AEFC3C761C208E5: Speed Writers are so prolific that they've earned {0.Money} in royalties. Speed Writers write more quickly than normal writers.
    [07B47] 0xCC934B2060B3D3B9: Speed Writer
-   [07B48] 0xDB5C39DA8362D0CE: Current Weekly Royalties: {0.Money}
+   [07B48] 0xDB5C39DA8362D0CE: {0.Money} - current weekly royalties
    [07B49] 0x3DA72853C2EB2F2B: {0.SimFirstName} has learned all he can from the Xylophone. This is sure to aid him in skill development later in life!
    [07B4A] 0xB28A2DECBC7A8D92: {0.SimFirstName} has learned all she can from the Xylophone. This is sure to aid her in skill development later in life!
    [07B4B] 0x4596CD53FA2C1464: You've learned all you can!
@@ -39989,7 +39989,7 @@ Unknown3: 0x00000000
    [09C30] 0x3528CB48EECDBBE9: A Historical Hoarder has Collected {0.Number} Relics of each culture. Relics discovered by Historical Hoarders are {1.Number}% more valuable.
    [09C31] 0xCBA589A6625C421E: Historical Hoarder
    [09C32] 0x482531FDC3EB9855: Historical Hoarder
-   [09C33] 0x5D0197847E393342: Simoleons Earned Selling Relics
+   [09C33] 0x5D0197847E393342: Earned Selling Relics:
    [09C34] 0x2D0A844E600A6736: Most Valuable Found: {0.Money}
    [09C35] 0x8E955CEDA9968D87: Most Valuable Found:
    [09C36] 0xEFAA6EE6BCB3BB47: {0.SimFirstName} has just discovered a new Relic Collection called {1.String}! The {1.String} Collection has {2.Number} relics in it.
@@ -39998,10 +39998,10 @@ Unknown3: 0x00000000
    [09C39] 0x852FE0AFD4C3EFE3: {0.Money}
    [09C3A] 0xBEE613E617C4A881: Completed:
    [09C3B] 0x0E08DB19CD025ACC: Discovered:
-   [09C3C] 0x1DA9FC5A9E7F9061: Relics Found in Shang Simla:
+   [09C3C] 0x1DA9FC5A9E7F9061: Relics found in Shang Simla:
    [09C3D] 0x8E8F196C880B552D: Relics found in Al Simhara:
    [09C3E] 0x6BD3517185295B19: Relics found in Champs Les Sims:
-   [09C3F] 0x4500AD094981203F: Number of Relics Analyzed:
+   [09C3F] 0x4500AD094981203F: Relics Analyzed:
    [09C40] 0x7D06CD8BE84DA18C: Sites Excavated:
    [09C41] 0x020CA37C7BB32F14: Oldest Found: {0.Number} years old.
    [09C42] 0x3A9D50BD28DA208A: Oldest Found: Unknown
@@ -41147,24 +41147,24 @@ Unknown3: 0x00000000
    [0A0B6] 0xAB44B9B693827527: {0.SimName} defeated {1.SimName} in a Ranked Sparring Tournament Match. {2.Number}-{3.Number}
    [0A0B7] 0x963122693AD57B97: {0.SimName} defeated {1.SimName} in a Ranked Sparring Tournament Match, since {1.SimName} chickened out before a winner was declared! Last recorded score {2.Number}-{3.Number}
    [0A0B8] 0xC62433E4C36EA286: {0.SimName} defeated {1.SimName} in a Ranked Sparring Tournament Match, since {1.SimName} chickened out before a winner was declared! Last recorded score {2.Number}-{3.Number}
-   [0A0B9] 0xC6DA7E22D3BA5537: Meditative Focus Attained: {0.Number}
-   [0A0BA] 0x734E36C593A27E0F: Strongest Board Broken: {0.String}
-   [0A0BB] 0xE5EAF9DDFFBF16F2: Students Trained: {0.Number}
-   [0A0BC] 0xFB7999C491E1C063: Hours of Meditation: {0.Number}
-   [0A0BD] 0x61AACB30D090FCBC: Total Sparring Match Wins: {0.Number}
-   [0A0BE] 0x4087947E1330B226: Tournament Rank: {0.Number}
-   [0A0BF] 0xC60ECF34B5F0DD31: Tournament Wins: {0.Number} Losses: {1.Number}
+   [0A0B9] 0xC6DA7E22D3BA5537: {0.Number} meditative focus attained
+   [0A0BA] 0x734E36C593A27E0F: {0.String} - strongest board broken
+   [0A0BB] 0xE5EAF9DDFFBF16F2: {0.Number} students trained
+   [0A0BC] 0xFB7999C491E1C063: {0.Number} hours meditated
+   [0A0BD] 0x61AACB30D090FCBC: {0.Number} sparring matches won
+   [0A0BE] 0x4087947E1330B226: Tournament Rank {0.Number}
+   [0A0BF] 0xC60ECF34B5F0DD31: {0.Number} Wins - {1.Number} Losses
    [0A0C0] 0x673EAC5C22D3E81E: {0.SimName} has squished enough fruit to have Flavorful Feet! Nectar made by {0.SimName} will now be worth more!
    [0A0C1] 0x6DA1BDDC88EE37F1: After squishing {0.Number} batches of fruit, Nectar made by you will be worth more.
    [0A0C2] 0x741884C13A518CBD: Flavorful Feet
    [0A0C3] 0x10210F2061A8E758: Ingredients
    [0A0C4] 0x5DD8C2AF71C671F1: Ingredients in this Nectar
-   [0A0C5] 0xC8AF035F9ACC543C: Highest amount single bottle sold for: {0.Money}
-   [0A0C6] 0x19BF561DFF99C32D: Number of Different Combinations: {0.Number}
+   [0A0C5] 0xC8AF035F9ACC543C: {0.Money} - highest bottle sold
+   [0A0C6] 0x19BF561DFF99C32D: {0.Number} different combinations
    [0A0C7] 0x48864D4A9CF21498: Mix Master
    [0A0C8] 0xF29172F2191418B7: {0.SimName} has made enough different Nectar combinations to become a Mix Master! {0.SimName} can now predict a Nectar recipe’s final quality before making it!
    [0A0C9] 0xB2589D14697DB816: Make {0.Number} different Nectar combinations and your Sim will be able to predict a Nectar recipe's final quality before making it.
-   [0A0CA] 0x7F41367C22659FBA: Total made selling nectar: {0.Money}
+   [0A0CA] 0x7F41367C22659FBA: {0.Money} earned
    [0A0CB] 0x1392ED1C7FE31958: Most Valuable Combination: {0.String}, Base Value {1.Number}, Ingredients {2.String}
    [0A0CC] 0x6107CDE1187ADBE9: Most Valuable Combination: 
    [0A0CD] 0xFB8507B5B0FE3D76: Name of Nectar
@@ -41172,16 +41172,16 @@ Unknown3: 0x00000000
    [0A0CF] 0x8139A81CB9B7D4EA: {0.SimName} has made enough bottles of Nectar to become a Nectar Master! {0.SimName} will now make more bottles in every batch!
    [0A0D0] 0xC157991D5981233D: After making {0.Number} bottles of Nectar you'll make more bottles per batch.
    [0A0D1] 0x0EB4978578386F71: Master of Nectar Making
-   [0A0D2] 0x7FF7D237F0EF1B8E: Number of fruits used to make nectar: {0.Number}
-   [0A0D3] 0x1D1BA8CB1B9CE44F: Number of bottles made: {0.Number}
-   [0A0D4] 0x134BBB3373AE8767: Number of glasses had: {0.Number}
-   [0A0D5] 0xD64920DFB7A8ECA0: Number of Sims served: {0.Number}
+   [0A0D2] 0x7FF7D237F0EF1B8E: {0.Number} fruits used
+   [0A0D3] 0x1D1BA8CB1B9CE44F: {0.Number} bottles made
+   [0A0D4] 0x134BBB3373AE8767: {0.Number} glasses had
+   [0A0D5] 0xD64920DFB7A8ECA0: {0.Number} Sims served
    [0A0D6] 0x8867143D5080A754: Second Most Valuable Combination: {0.String}, Base Value {1.Number}, Ingredients {2.String}
    [0A0D7] 0xE7ED34F95D1C7CFD: Second Most Valuable Combination: 
    [0A0D8] 0x694BA35460F939E8: Most Valuable Nectars
    [0A0D9] 0x18E19419A6230AE1: Third Most Valuable Combination: {0.String}, Base Value {1.Number}, Ingredients {2.String}
    [0A0DA] 0x1F6B87C78DB2E438: Third Most Valuable Combination: 
-   [0A0DB] 0x08C18F754E24D11A: Number of times squished fruit: {0.Number}
+   [0A0DB] 0x08C18F754E24D11A: {0.Number} fruits squished
    [0A0DC] 0x434F3F872FEC5EA5: {0.String} worth {1.Money}
    [0A0DD] 0xA4D641F9067601AF: Value
    [0A0DE] 0x12524D1AD2E6EE68: Original Value of this Mixture
@@ -41195,22 +41195,22 @@ Unknown3: 0x00000000
    [0A0E6] 0xFAEB7F3C36212603: {0.SimName} just completed the Architectural Eye Skill Challenge and as a result, all {MA.his}{FA.her} photos featuring Landmarks will now be worth more!
    [0A0E7] 0x8C28EDB963403D82: Capture {0.Number} Unique Landmarks to increase the value of all photographs featuring Landmarks. ({1.Number} captured so far.)
    [0A0E8] 0xBF9FBA87E6B007EE: Architectural Eye
-   [0A0E9] 0x4A1D789B8151C99D: Burglars Photographed: {0.Number}
+   [0A0E9] 0x4A1D789B8151C99D: {0.Number} burglars
    [0A0EA] 0x6EA56B5E246A1D86: Difficulty
    [0A0EB] 0xFADC26FC3249603C: How difficult this photography challenge is. The more difficult the challenge, the more Simoleons it will be worth.
-   [0A0EC] 0xE4E816ACD811275C: Favorite Aspect: {0.String} ({1.Number} photos)
-   [0A0ED] 0xD530CE388A0A7EC2: Favorite Aspect: None
-   [0A0EE] 0xFB1E463A95C8A9B3: Favorite Style: {0.String} ({1.Number} photos)
-   [0A0EF] 0x1A9D04540AF15D95: Favorite Style: None
-   [0A0F0] 0x2708760C9732A6E4: Favorite Subject: {0.String} ({1.Number} photos)
-   [0A0F1] 0xBED7B2D5F257BDBA: Favorite Subject: None
-   [0A0F2] 0x6AB5E0BA43F30957: Ghosts Photographed: {0.Number}
+   [0A0EC] 0xE4E816ACD811275C: {0.String} - {1.Number} photos - favorite aspect
+   [0A0ED] 0xD530CE388A0A7EC2: No favorite aspect
+   [0A0EE] 0xFB1E463A95C8A9B3: {0.String} - {1.Number} photos - favorite style
+   [0A0EF] 0x1A9D04540AF15D95: No favorite style
+   [0A0F0] 0x2708760C9732A6E4: {0.String} - {1.Number} photos - favorite subject
+   [0A0F1] 0xBED7B2D5F257BDBA: No favorite subject
+   [0A0F2] 0x6AB5E0BA43F30957: {0.Number} Ghosts
    [0A0F3] 0x2CE92961591E833A: {0.SimName} just completed the Human Form Skill Challenge. If {0.SimName} takes photos of Sims {MA.he}{FA.she} knows, their relationship will improve!
    [0A0F4] 0x3461A2092AAABB8D: After capturing {0.Number} unique Sims, Human Form Experts can increase their relationship with Sims they already know by photographing them. ({1.Number} captured so far.)
    [0A0F5] 0x3FFB80C8378924C1: Human Form Expert
-   [0A0F6] 0x722185B7B80EAE0C: Landmarks Photographed: {0.Number}
-   [0A0F7] 0xD3735F157AC3EE65: Money Earned: {0.Money}
-   [0A0F8] 0xD40AA7CA765A208C: Money Spent: {0.Money}
+   [0A0F6] 0x722185B7B80EAE0C: {0.Number} landmarks
+   [0A0F7] 0xD3735F157AC3EE65: {0.Money} earned
+   [0A0F8] 0xD40AA7CA765A208C: {0.Money} spent
    [0A0F9] 0x51374DA0BC47DD9B: Number
    [0A0FA] 0xF44E53DAA2E029BB: How many photos you've taken of this subject
    [0A0FB] 0xD95D05B1032DD13B: Congratulations! {0.SimName} has achieved Paparazzi status. Photographs of Sims {MA.he}{FA.she} is not acquainted with will be worth more!
@@ -41218,7 +41218,7 @@ Unknown3: 0x00000000
    [0A0FD] 0xE102EF0FAFEA6056: Paparazzi
    [0A0FE] 0x82C8EDEDC7F1C7B4: {0.SimName} just completed the Photog Skill Challenge and as a result, {MA.his}{FA.her} photos will now be worth more!
    [0A0FF] 0x1A31E3CBF307CC87: Capture {0.Number} different subjects to increase the base value of your photographs. ({1.Number} captured so far.)
-   [0A100] 0xDFD47C6F9109F4E4: Photographs Taken: {0.Number}
+   [0A100] 0xDFD47C6F9109F4E4: {0.Number} photographs taken
    [0A101] 0xFE9A187CF79FDE9F: Photog
    [0A102] 0xFA034239F12CD34F: ?
    [0A103] 0xC052E3945859C2A7: Status
@@ -41226,10 +41226,10 @@ Unknown3: 0x00000000
    [0A105] 0x598B7EC4DCC7B28E: Complete {0.Number} different photo collections and taking pictures will be free of charge. ({1.Number} completed so far.)
    [0A106] 0x001608FD600433F2: Shutternut
    [0A107] 0xC7F00861B7A79721: Shutternut
-   [0A108] 0x03B4B532B8DDD87A: Strangers Photographed: {0.Number}
+   [0A108] 0x03B4B532B8DDD87A: {0.Number} strangers
    [0A109] 0xDD76A9BB61329751: Subject Name
    [0A10A] 0xECC8FCE8FA752EE9: The name of the subject of this photography challenge
-   [0A10B] 0x8F7142FCF34E61F6: Unique Sims Photographed: {0.Number}
+   [0A10B] 0x8F7142FCF34E61F6: {0.Number} unique Sims
    [0A10C] 0xB59480BAF86D7DD6: A Voyage Unlike Any Other
    [0A10D] 0x8EF6AA7213D9628E: Ancient Coins collected
    [0A10E] 0xC864E6A0ECF5FECF: Dive Wells explored
@@ -41239,26 +41239,26 @@ Unknown3: 0x00000000
    [0A112] 0x48DED583041DD26C: After disarming {0.Number} traps, you'll have a {1.Number}% higher chance of successfully disarming them.
    [0A113] 0x659CA2925DC180CB: Hazmat Sim
    [0A114] 0x043A67C0AECBE992: Mummies defeated
-   [0A115] 0x9450E376BB24278D: Total number of keystones used
-   [0A116] 0x5D78FD844588E497: Number of Crescent Keystones Used
-   [0A117] 0xCBE0F98DD025553F: Number of Escape Dusts used
-   [0A118] 0x55A114B21F90E624: Number of Heart Keystones used
-   [0A119] 0x0F2CDF042EA1FED4: Number of holes inspected
-   [0A11A] 0x571D02EADAC9C1C2: Number of Mummy Snacks eaten
-   [0A11B] 0x2D356C5E267B94FB: Number of Named Keystones used
-   [0A11C] 0xE0B0F75F81D56D2A: Number of Rubble Piles cleared
-   [0A11D] 0x3A04D5D2F9F58755: Number of Showers in a Can used
-   [0A11E] 0x981B38F035FBA48E: Number of Star Keystones Used
-   [0A11F] 0xE4C7DB478BBDE5F3: Number of times Cursed
-   [0A120] 0x7A472F8474F19CB2: Number of times Poisoned
-   [0A121] 0x1260582804576A94: Number of times Soaked
-   [0A122] 0x464BEFF2F1AE8601: Number of times Torched
-   [0A123] 0xFBA6B0B3A5A6F3FE: Number of Traps disarmed
-   [0A124] 0x0782EFF7A5FED717: Number of Treasure Chests opened
+   [0A115] 0x9450E376BB24278D: Keystones Used - Total
+   [0A116] 0x5D78FD844588E497: Keystones Used - Crescent
+   [0A117] 0xCBE0F98DD025553F: Escape Dusts used
+   [0A118] 0x55A114B21F90E624: Keystones Used - Heart
+   [0A119] 0x0F2CDF042EA1FED4: Holes inspected
+   [0A11A] 0x571D02EADAC9C1C2: Mummy Snacks eaten
+   [0A11B] 0x2D356C5E267B94FB: Keystones Used - Named
+   [0A11C] 0xE0B0F75F81D56D2A: Rubble Piles cleared
+   [0A11D] 0x3A04D5D2F9F58755: Showers in a Can used
+   [0A11E] 0x981B38F035FBA48E: Keystones Used - Star
+   [0A11F] 0xE4C7DB478BBDE5F3: Times Cursed
+   [0A120] 0x7A472F8474F19CB2: Times Poisoned
+   [0A121] 0x1260582804576A94: Times Soaked
+   [0A122] 0x464BEFF2F1AE8601: Times Torched
+   [0A123] 0xFBA6B0B3A5A6F3FE: Traps disarmed
+   [0A124] 0x0782EFF7A5FED717: Treasure Chests opened
    [0A125] 0x2D819C920B734C4B: {2.SimName} has cleared enough Rubble Piles to become a Rubble Excavator! {2.SimFirstName} can now clear Rubble Piles {1.Number}% faster!
    [0A126] 0xA7E4687DBFF6AA29: After excavating {0.Number} Rubble Piles, you'll excavate them {1.Number}% faster.
    [0A127] 0x2AC61B5AB0526AC2: Rubble Excavator
-   [0A128] 0xB0F7D293E6F15620: Switches Stood upon
+   [0A128] 0xB0F7D293E6F15620: Switches stood upon
    [0A129] 0x3E9983CADE440E70: Tomb Rooms Explored
    [0A12A] 0x7980446B69A6F409: Tombs Explored - China
    [0A12B] 0x6021B1D29C0CCECB: Tombs explored in China
@@ -41269,7 +41269,7 @@ Unknown3: 0x00000000
    [0A130] 0x13D44E2F0853AA75: {2.SimName} has dived in enough Dive Wells to become a Well Spelunker! {2.SimFirstName} can now clear Dive Wells {1.Number}% faster!
    [0A131] 0x61B8844739CA5387: After diving in {0.Number} Dive Wells, you'll be able to clear them {1.Number}% faster.
    [0A132] 0x7B136F04D61AC468: Well Spelunker
-   [0A133] 0xC924B4A34DE3219B: Number of Skeleton Keystones used
+   [0A133] 0xC924B4A34DE3219B: Keystones Used - Skeleton
    [0A134] 0x81176B3EF65B26CC: Bestseller
    [0A135] 0x157C7384E2FD9B3C: Flop
    [0A136] 0x262ADBA6DA494392: Hit
@@ -46205,8 +46205,8 @@ Unknown3: 0x00000000
    [0B478] 0x4521DA1B48360D58: Successfully vaccinated {0.Number} out of {1.Number} Sims.
    [0B479] 0x8D3EDEBB47821982: Vaccination session has ended.
    [0B47A] 0xAF021EE03AFEE631: {0.String}\n{1.String}\n{2.String}
-   [0B47B] 0x2F4DF730C80C6A85: Spirits Captured: {0.Number}
-   [0B47C] 0xB9BA57876AEBCB20: Spirits Sold For Science: {0.Number}
+   [0B47B] 0x2F4DF730C80C6A85: {0.Number} spirits captured
+   [0B47C] 0xB9BA57876AEBCB20: {0.Number} spirits sold for science
    [0B47D] 0xC9B30593350320BB: Item Type
    [0B47E] 0xEE3FEF1E76935A5B: Item Type
    [0B47F] 0x47466752004C2113: Book
@@ -46223,12 +46223,12 @@ Unknown3: 0x00000000
    [0B48A] 0xD11446872B681AAC: {0.SimFirstName} knows the value of second-hand goods and made a good living from it! The consignment store will now offer {0.SimFirstName} a lower fee per sale.
    [0B48B] 0x0377FC88A4EC7CCF: Make {0.Money} Simoleons at the consigment store.
    [0B48C] 0xCB35E7B7E32EBB67: Consignment Profit
-   [0B48D] 0xB9B08DE061E7C811: Most Expensive Item Sold: {0.Money}
-   [0B48E] 0xD09690E8151D6CB8: Number of Items Returned Unsold: {0.Number}
-   [0B48F] 0x84B585C288D1E7F8: Number of Items Sold: {0.Number}
+   [0B48D] 0xB9B08DE061E7C811: {0.Money} - highest sale
+   [0B48E] 0xD09690E8151D6CB8: {0.Number} unsold items returned
+   [0B48F] 0x84B585C288D1E7F8: {0.Number} items sold
    [0B490] 0x1271C1CA1B26E889: Sold
    [0B491] 0x5631E04376EAD011: Number of Items Sold
-   [0B492] 0xDE4F23D0DE77119B: Reputation: {0.String}
+   [0B492] 0xDE4F23D0DE77119B: {0.String} Reputation
    [0B493] 0x44E226F60ACEC48C: Bad
    [0B494] 0xA52471AD3DFA8EBC: Decent
    [0B495] 0x5D73B35070B30BFC: Disgusting
@@ -46242,7 +46242,7 @@ Unknown3: 0x00000000
    [0B49D] 0x2994F7E8DC150049: Rock Bottom
    [0B49E] 0x3ECC6017D7EDFE66: Shady
    [0B49F] 0x572956BE9ECB3C1E: Sold Items
-   [0B4A0] 0xC04D91B173A1B85A: Total Amount of Money Made: {0.Money}
+   [0B4A0] 0xC04D91B173A1B85A: {0.Money} earned
    [0B4A1] 0x24C80CA48E06043F: Value
    [0B4A2] 0x48EFFD69D7D20B17: Value of Items Sold
    [0B4A3] 0x331C7BE865C3DBB4: Respond faster to Firefighting Emergencies!
@@ -46278,16 +46278,16 @@ Unknown3: 0x00000000
    [0B4C1] 0x5A83D689E3E496AC: Masterful {0.String}
    [0B4C2] 0x0B9DF444E0084F8E: Cannot Detonate something containing an infant!
    [0B4C3] 0x74A00B9AB25A86BC: Cannot Detonate objects in tombs.
-   [0B4C4] 0xDEB14BB8502EA1BB: Number of Big Inventions Made: {0.Number}
+   [0B4C4] 0xDEB14BB8502EA1BB: {0.Number} Big inventions made
    [0B4C5] 0x3E49DAE449BCE2CE: Number Made
    [0B4C6] 0x6F9333EB104632CB: How many the Sim has made
-   [0B4C7] 0x4F1FA27271C571A6: Number of Underground Adventures: {0.Number}
-   [0B4C8] 0x29B3CB86ED6EB345: Number of Objects Detonated: {0.Number}
-   [0B4C9] 0x1C00A7ACB9BC4E25: Amount of Scrap Collected: {0.Number}
-   [0B4CA] 0x78719E045C232509: Number of Travels through Time: {0.Number}
-   [0B4CB] 0xEDB4C26C49B09219: Number of Toys Made: {0.Number}
-   [0B4CC] 0x444D933D84675CDB: Number of Widgets Made: {0.Number}
-   [0B4CD] 0x3700A8529B9EAA2D: Percent of Inventions Discovered: {0.Number}%
+   [0B4C7] 0x4F1FA27271C571A6: {0.Number} underground adventures
+   [0B4C8] 0x29B3CB86ED6EB345: {0.Number} objects detonated
+   [0B4C9] 0x1C00A7ACB9BC4E25: {0.Number} scrap collected
+   [0B4CA] 0x78719E045C232509: {0.Number} Travels through Time
+   [0B4CB] 0xEDB4C26C49B09219: {0.Number} toys made
+   [0B4CC] 0x444D933D84675CDB: {0.Number} widgets made
+   [0B4CD] 0x3700A8529B9EAA2D: {0.Number}% inventions discovered
    [0B4CE] 0x99A5C4CCBEBDC708: Invention Name
    [0B4CF] 0x628D701BB356C696: Name of invention Sim has learned how to make
    [0B4D0] 0xE4779A3D464DB9E5: Scrap
@@ -46300,41 +46300,41 @@ Unknown3: 0x00000000
    [0B4D7] 0x235A406AC9073EC9: Congratulations! {0.SimName} has completed the Widget Wonder Challenge and is now guaranteed to make Improved Widgets, and to make them faster than before.
    [0B4D8] 0x37884AC4EB109980: A Widget Wonder has created {0.Number} Widgets. As a result, all Widgets the Sim makes will be Improved Widgets and will have a bonus value. Widget creation time is shortened as well.
    [0B4D9] 0xB40EC3D24B332C68: Widget Wonder
-   [0B4DA] 0x633DB991B6291364: Most Valuable Painting Sold: {1.String} for {0.Money} ({2.String} Quality)
+   [0B4DA] 0x633DB991B6291364: {1.String} - {0.Money} - {2.String} - highest painting sale
    [0B4DB] 0x1253FB7595F08747: Any Material
    [0B4DC] 0xAF2F36483FF45A16: Bar Stool
    [0B4DD] 0x7D991576704F7528: Bathroom Stuff
-   [0B4DE] 0x0A439288A49D7738: Brilliant Sculptures: {0.Number}
+   [0B4DE] 0x0A439288A49D7738: {0.Number} sculptures - Brilliant
    [0B4DF] 0x03672837EB2C12F0: Congratulations! {0.SimName} has become a Chiselmeister and can now sculpt faster.
    [0B4E0] 0x5DE64AE43B787313: Chiselmeisters have made at least {0.Number} sculptures and as a result can make sculptures faster.
    [0B4E1] 0xB0D5D896D24E6213: Chiselmeister
    [0B4E2] 0xBF5D149AEBC87085: Clay
    [0B4E3] 0x3CB56158D42510C2: Clay ({0.Money})
-   [0B4E4] 0x17FFA0ED4DFFA0FE: Clay Sculptures: {0.Number}
+   [0B4E4] 0x17FFA0ED4DFFA0FE: {0.Number} sculptures - clay
    [0B4E5] 0xD872377CA3CE799E: Coffee Table
    [0B4E6] 0xF2B10F44B10E4BDC: Dining Chair
    [0B4E7] 0x644ECAF890CD84CF: Dining Table
    [0B4E8] 0x7FB3F253B9FD75A3: End Table
-   [0B4E9] 0x89AB237A9C8DAD8F: Favorite Medium: {0.String}
+   [0B4E9] 0x89AB237A9C8DAD8F: {0.String} - favorite medium
    [0B4EA] 0x90FBB3539EC41D58: Furniture
-   [0B4EB] 0x317D162D5620A04E: Highest Value Sculpture Sold: {0.Money}
+   [0B4EB] 0x317D162D5620A04E: {0.Money} - highest sculpture sale
    [0B4EC] 0x92C4B027C92817DB: Ice
    [0B4ED] 0x110B386B85DEF29C: Ice ({0.Money})
    [0B4EE] 0xEEE81422ECF0621E: {0.SimName} has become an Ice Personality sculptor. Ice sculptures made by {0.SimName} will no longer melt!
    [0B4EF] 0x18E81DC7E0FFB5F1: Ice Personality sculptors have made at least {0.Number} ice sculptures and because of their experience with the material, their sculptures never melt.
    [0B4F0] 0x98D5FC7ABE5EFABD: Ice Personality
-   [0B4F1] 0x5E56A7830822E8AC: Ice Sculptures: {0.Number}
+   [0B4F1] 0x5E56A7830822E8AC: {0.Number} sculptures - ice
    [0B4F2] 0x86E78625E4FB17EA: Light
    [0B4F3] 0x516222FD69FF0AFC: Living Chair
-   [0B4F4] 0x8913BD2EE38E4599: Masterpiece Sculptures: {0.Number}
+   [0B4F4] 0x8913BD2EE38E4599: {0.Number} sculptures - Masterpiece
    [0B4F5] 0xF4AF2763555A891D: {0.SimName} has become a Master Sculptor and will now be able to sell their sculptures for more.
    [0B4F6] 0xB40ACF2730363674: Master Sculptors have made at least {0.Number} sculptures from each material and are so famous people will pay more for sculptures made by them.
    [0B4F7] 0xE2D46F22E0CF74A4: Master Sculptor
    [0B4F8] 0x822B6B2CBB97505B: Metal
    [0B4F9] 0x777A1A4436DBF31C: Metal ({0.Number} Scrap)
-   [0B4FA] 0xC6C41DA0C2590D2C: Metal Sculptures: {0.Number}
-   [0B4FB] 0xDC19491F59F1FB67: Money Made: {0.Money}
-   [0B4FC] 0x6921DED6833704C8: Number of Sim Sculptures Made: {0.Number}
+   [0B4FA] 0xC6C41DA0C2590D2C: {0.Number} sculptures - metal
+   [0B4FB] 0xDC19491F59F1FB67: {0.Money} earned
+   [0B4FC] 0x6921DED6833704C8: {0.Number} sculptures - Sim
    [0B4FD] 0x55B0382011840738: Other
    [0B4FE] 0x9FA4CDC443DB5A69: {0.SimName} has become a Prolific Sculptor and can now sculpt for free!
    [0B4FF] 0xDB32D6AE1D1B71A0: Prolific Sculptors have made at least {0.Number} sculptures and, as a result, get a big bulk discount on materials! It is so big that they can sculpt for free!
@@ -46344,12 +46344,12 @@ Unknown3: 0x00000000
    [0B503] 0xF536F9945755DE8A: Stone ({0.Money})
    [0B504] 0xFFA19B015E794AB6: Topiary
    [0B505] 0x5AA7C70C90867151: Topiary ({0.Money})
-   [0B506] 0x7C7365B7EA1F3FB9: Topiary Sculptures: {0.Number}
-   [0B507] 0x4D86F8C838EACB07: Total Sculptures: {0.Number}
+   [0B506] 0x7C7365B7EA1F3FB9: {0.Number} sculptures - topiary
+   [0B507] 0x4D86F8C838EACB07: {0.Number} sculptures - total
    [0B508] 0x56A30E9AB03E9321: Wood
    [0B509] 0xADB180771B69C06E: Wood ({0.Money})
-   [0B50A] 0xD71FBA4EB47AC97A: Wood Sculptures: {0.Number}
-   [0B50B] 0x9297E4BE812B1D38: Stone Sculptures: {0.Number}
+   [0B50A] 0xD71FBA4EB47AC97A: {0.Number} sculptures - wood
+   [0B50B] 0x9297E4BE812B1D38: {0.Number} sculptures - stone
    [0B50C] 0xFDFC50B9F1CF6DCA: Occult Sims cannot receive makeovers
    [0B50D] 0xA21BCDEB4CBD016B: Pregnant Sims cannot receive makeovers
    [0B50E] 0xD8F1B972D5744ECE: Relationship is too low to Style
@@ -49844,12 +49844,12 @@ Unknown3: 0x00000000
    [0C2AF] 0xB0F68469A594A527: Rename Drink
    [0C2B0] 0x9E97E8898E3C6645: {Variation.1}
    [0C2B1] 0x2E27F2A022E5C811: Hey buddy, you forgot to pay your tab. Those drinks weren't free you know! The bill will be in the mail.
-   [0C2B2] 0x5B7EC18FF2B06C71: Great Drinks Made: {0.Number}
-   [0C2B3] 0x66D9727CB2550725: Drinks Made: {0.Number}
-   [0C2B4] 0xC2E36CEB04327BB1: Sims Served: {0.Number}
-   [0C2B5] 0x8B950C9266463C0F: Terrible Drinks Made: {0.Number}
-   [0C2B6] 0xB7DCD2D7BBF2928F: Unique Drinks Created: {0.Number}
-   [0C2B7] 0xFBD9A660348DBFFC: Money Earned Mixing Drinks: {0.Money}
+   [0C2B2] 0x5B7EC18FF2B06C71: {0.Number} drinks made - Great
+   [0C2B3] 0x66D9727CB2550725: {0.Number} drinks made
+   [0C2B4] 0xC2E36CEB04327BB1: {0.Number} Sims served
+   [0C2B5] 0x8B950C9266463C0F: {0.Number} drinks made - Terrible
+   [0C2B6] 0xB7DCD2D7BBF2928F: {0.Number} unique drinks created
+   [0C2B7] 0xFBD9A660348DBFFC: {0.Money} earned
    [0C2B8] 0x7B488D15E5E033B7: {Variation.1}
    [0C2B9] 0x1DA46E1806310DEF: Closing time! We'll be open tomorrow, so come on back for some more drinks!
    [0C2BA] 0x86839AB1FA92B2D1: {Variation.1}
@@ -49858,8 +49858,8 @@ Unknown3: 0x00000000
    [0C2BD] 0xE88B102CE1CCFA6A: Cheap drinks! Happy Hour has begun!
    [0C2BE] 0x49154DE4B122B13F: Open: {0.HourOfDay} - {1.HourOfDay}
    [0C2BF] 0x75233B361CB3FE81: Open: {0.HourOfDay} - {1.HourOfDay}\nHappy Hour: {2.HourOfDay}
-   [0C2C0] 0x558ED878C2A478FE: Compositions learned: {0.Number}%
-   [0C2C1] 0xCD07AA3FB5F1EE1C: Compositions played: {0.Number}
+   [0C2C0] 0x558ED878C2A478FE: {0.Number}% compositions learned
+   [0C2C1] 0xCD07AA3FB5F1EE1C: {0.Number} performances
    [0C2C2] 0x07CB952286516357: Bass Compositions
    [0C2C3] 0x5542BFE69F680C01: Congratulations! {0.SimFirstName} has performed at enough parties and venues to complete the Bass Star Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2C4] 0x4DE1E0BA6DCD48C8: Bass Stars must play at {0.Number} Parties and Venues in the town to earn their title. Afterwards, they earn larger monetary rewards for tips and performances!
@@ -49867,13 +49867,13 @@ Unknown3: 0x00000000
    [0C2C6] 0x7326BDB5E3371407: Congratulations! {0.SimFirstName} has learned to play every song to complete the Master Bassist Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2C7] 0x7F9EBA5B1BC4C466: Master Bassists learn to play every song awarded to them and available for purchase at the store. After learning so many songs, they receive a special Master Track!
    [0C2C8] 0xDFC443ACD64E0EEA: Master Bassist
-   [0C2C9] 0xF6797441869FFEDF: Money made: {0.Money}
+   [0C2C9] 0xF6797441869FFEDF: {0.Money} earned
    [0C2CA] 0xD0E3C441A63B0DDF: Congratulations! {0.SimFirstName} has earned enough money playing the Bass to complete the Money Maker Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2CB] 0x0815DAEE218F232E: Earn {0.Money} playing the Bass to earn a new Master Track to perform. Money can be earned through tips or by completing Opportunities. 
    [0C2CC] 0xCDBFC3490F73B192: Money Maker
-   [0C2CD] 0x8E6F1274D5574438: Times watched: {0.Number}
-   [0C2CE] 0x2E036430259B3128: Compositions learned: {0.Number}%
-   [0C2CF] 0x955442AA062710A2: Compositions played: {0.Number}
+   [0C2CD] 0x8E6F1274D5574438: {0.Number} times Sims watched performances
+   [0C2CE] 0x2E036430259B3128: {0.Number}% compositions learned
+   [0C2CF] 0x955442AA062710A2: {0.Number} performances
    [0C2D0] 0xFD8F9945883F4EA9: Drum Compositions
    [0C2D1] 0x3B8C1021A7458E3B: Congratulations! {0.SimFirstName} has performed at enough parties and venues to complete the Drum Star Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2D2] 0xFC83402BA53F1EEA: Drum Stars must play at {0.Number} Parties and Venues in the town to earn their title. Afterwards, they earn larger monetary rewards for tips and performances!
@@ -49881,17 +49881,17 @@ Unknown3: 0x00000000
    [0C2D4] 0xFC33897533532D61: Congratulations! {0.SimFirstName} has learned to play every song to complete the Master Drummer Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2D5] 0xD0D8DFEF7CBB22A8: Master Drummers learn to play every song awarded to them and available for purchase at the store. After learning so many songs, they receive a special Master Track!
    [0C2D6] 0xFEC1319F6870A990: Master Drummer
-   [0C2D7] 0xFB05AB846C78BDDD: Money made: {0.Money}
+   [0C2D7] 0xFB05AB846C78BDDD: {0.Money} earned
    [0C2D8] 0x79B413A2CC2B1B51: Congratulations! {0.SimFirstName} has earned enough money playing Drums to complete the Money Maker Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2D9] 0x35E0F26872A06498: Earn {0.Money} playing the Drums to earn a new Master Track. Money can be earned through tips or by completing Opportunities.
    [0C2DA] 0xD1F855CA441ED540: Money Maker
-   [0C2DB] 0xFD766ADE3CE882BE: Times watched: {0.Number}
+   [0C2DB] 0xFD766ADE3CE882BE: {0.Number} times Sims watched performances
    [0C2DC] 0xFF016236F0469AA1: Cooler Jets and better Ooo Bubbles buff.
    [0C2DD] 0x306115D555542E7D: You'll never lose again!
    [0C2DE] 0xD38B786D7BA32B1C: Hot Tub
    [0C2DF] 0xCF6B3003FEA87F0C: Dartboard
-   [0C2E0] 0xB7B1FAD7AD9F3C54: Compositions learned: {0.Number}%
-   [0C2E1] 0xA565F76A8CEED1D6: Compositions played: {0.Number}
+   [0C2E0] 0xB7B1FAD7AD9F3C54: {0.Number}% compositions learned
+   [0C2E1] 0xA565F76A8CEED1D6: {0.Number} performances
    [0C2E2] 0xAA196B393B6D75DD: Piano Compositions
    [0C2E3] 0xB1C3E5B092C263D7: Congratulations! {0.SimFirstName} has performed at enough parties and venues to complete the Piano Star Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2E4] 0x3A81A107F61861B6: Piano Stars must play at {0.Number} Parties and Venues in town to earn their title. Afterwards, they earn larger monetary rewards for tips and performances! 
@@ -49899,11 +49899,11 @@ Unknown3: 0x00000000
    [0C2E6] 0xE21AB4671B890CDD: Congratulations! {0.SimFirstName} has learned to play every song to complete the Master Pianist Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2E7] 0x86B2D3A15094A734: Master Pianists learn to play every song awarded to them and available for purchase at the store. After learning so many songs, they receive a special Master Track!
    [0C2E8] 0xC73FE300AA046864: Master Pianist
-   [0C2E9] 0xE371D9BB73569D19: Money made: {0.Money}
+   [0C2E9] 0xE371D9BB73569D19: {0.Money} earned
    [0C2EA] 0xF88FCD759C78937D: Congratulations! {0.SimFirstName} has earned enough money playing the Piano to complete the Money Maker Skill Challenge! Check {0.SimFirstName}’s Skill Journal for information about the reward.
    [0C2EB] 0xD528AA77285DB754: Earn {0.Money} playing the Piano to earn a new Master Track. Money can be earned through tips or by completing Opportunities.
    [0C2EC] 0x53068806545CB684: Money Maker
-   [0C2ED] 0x61BA9E6EB8C8A892: Times watched: {0.Number}
+   [0C2ED] 0x61BA9E6EB8C8A892: {0.Number} times Sims watched performances
    [0C2EE] 0xB40495B502A1D14C: {Variation.19}
    [0C2EF] 0xFE2E1F968B197D30: Spitting Llamas
    [0C2F0] 0x01DCDCCE5C4FB8A0: WooHoo Warriors
@@ -49934,7 +49934,7 @@ Unknown3: 0x00000000
    [0C309] 0x76B8F4D2DB8CA44D: Band has maximum number of bandmates.
    [0C30A] 0x3BAAB4FC2F64984E: Successfully play {0.Number} Gigs and your band will receive more pay for every gig thereafter. Take it all in, boost up your ego, and revel in the fact that you are…The Gig Master.
    [0C30B] 0x6B7B8A9682AD08B2: The Gig Master
-   [0C30C] 0x21D9A533EE8788F0: Total Gigs Played: {0.Number}
+   [0C30C] 0x21D9A533EE8788F0: {0.Number} gigs played
    [0C30D] 0x857C21FCDCC55E2D: Jam
    [0C30E] 0xFD2FB51E8B47A916: Start Jam Session...
    [0C30F] 0x974BFAAB235F1CF4: Jazz
@@ -54475,8 +54475,8 @@ Unknown3: 0x00000000
    [0D4C6] 0x84877DA62D5DF962: Master Chemist
    [0D4C7] 0x4DA7F47D7001EFEF: Improves your mood!
    [0D4C8] 0xF877B2F06D386189: Poof! Now you're home.
-   [0D4C9] 0x86EDCF9B2DDCAB91: Potions Discovered: {0.Number}%
-   [0D4CA] 0xCF207ADAEFE5DD0C: Number of Potions Made: {0.Number}
+   [0D4C9] 0x86EDCF9B2DDCAB91: {0.Number}% potions discovered
+   [0D4CA] 0xCF207ADAEFE5DD0C: {0.Number} potions made
    [0D4CB] 0x23F1F8A81F018632: Number Made
    [0D4CC] 0x08E192251BFE9C7F: How many of this type of potion have been made by this Sim.
    [0D4CD] 0xC290136C8711B63B: Potion Effect
@@ -60451,17 +60451,17 @@ Unknown3: 0x00000000
    [0EC1E] 0x87EFF38B766B2901: Congratulations. {0.SimName} is now a master at stalking prey. As a reward it will now take {0.SimName} less time to find prey when stalking for prey.
    [0EC1F] 0xD1D9FD6E4EA7A7C8: Cats with Homing Whiskers have caught at least {0.Number} rare prey. As a reward the amount of time it takes to find prey is decreased.
    [0EC20] 0x022448CD06CD62B0: Homing Whiskers
-   [0EC21] 0x51CACBABDEA78127: Beetles Caught: {0.Number}
-   [0EC22] 0x94D7C72DDB5A4CD3: Birds Caught: {0.Number}
-   [0EC23] 0x36739B5CF4E1BE2D: Common Critters Caught: {0.Number}
-   [0EC24] 0x33732C8E22EB719C: Extraordinarily Unusual Critters Caught: {0.Number}
-   [0EC25] 0x70B51A2DC676B860: Fish Caught: {0.Number}
-   [0EC26] 0xFB703174F5D87FD6: Lizards Caught: {0.Number}
-   [0EC27] 0x1EB1472E2938BCAA: Rare Critters Caught: {0.Number}
-   [0EC28] 0xE6783F0FD4443C5C: Rodents Caught: {0.Number}
-   [0EC29] 0x283B2675A3230AC2: Snakes Caught: {0.Number}
-   [0EC2A] 0x7386404DE7BA1C6C: Turtles Caught: {0.Number}
-   [0EC2B] 0x626314D141F290BC: Uncommon Critters Caught: {0.Number}
+   [0EC21] 0x51CACBABDEA78127: {0.Number} caught - beetles
+   [0EC22] 0x94D7C72DDB5A4CD3: {0.Number} caught - birds
+   [0EC23] 0x36739B5CF4E1BE2D: {0.Number} critters caught - Common
+   [0EC24] 0x33732C8E22EB719C: {0.Number} critters caught - Extraordinarily Unusual
+   [0EC25] 0x70B51A2DC676B860: {0.Number} caught - fish
+   [0EC26] 0xFB703174F5D87FD6: {0.Number} caught - lizards
+   [0EC27] 0x1EB1472E2938BCAA: {0.Number} critters caught - Rare
+   [0EC28] 0xE6783F0FD4443C5C: {0.Number} caught - rodents
+   [0EC29] 0x283B2675A3230AC2: {0.Number} caught - snakes
+   [0EC2A] 0x7386404DE7BA1C6C: {0.Number} caught - turtles
+   [0EC2B] 0x626314D141F290BC: {0.Number} critters caught - Uncommon
    [0EC2C] 0x1A2568DA6656B8D0: Congratulations. {0.SimName} is now an expert of slithery creatures. As a reward {0.SimName} will always succesfully catch snakes, lizards, and turtles.
    [0EC2D] 0x89B3C910DC613B73: A Slither Stalker has caught {0.Number} reptiles. As a reward lizards, snakes, and turtles will always succesfully be caught.
    [0EC2E] 0x87269F10B0ECAE73: Slither Stalker
@@ -60474,11 +60474,11 @@ Unknown3: 0x00000000
    [0EC35] 0x4B9E376DE2D8A831: Gem Finder
    [0EC36] 0xD6D4F9BB76C14C99: Metal Finders have found 50 or more Metals and have developed a knack for finding rare metals more easily!
    [0EC37] 0xDD13EE0C421FF845: Metal Finder
-   [0EC38] 0x5320459286F582E8: Number of Fragmented Objects Assembled: {0.Number}
-   [0EC39] 0x62ECADB2B12329E8: Number of Gems Found: {0.Number}
-   [0EC3A] 0x7D587790B29DDD8C: Number of Metals Found: {0.Number}
-   [0EC3B] 0xF671021A430F0FE6: Number of Rocks Found: {0.Number}
-   [0EC3C] 0x59B6994718E39910: Number of Collectable Fragments Found: {0.Number}
+   [0EC38] 0x5320459286F582E8: {0.Number} fragments - assembled
+   [0EC39] 0x62ECADB2B12329E8: {0.Number} found - gems
+   [0EC3A] 0x7D587790B29DDD8C: {0.Number} found - metals
+   [0EC3B] 0xF671021A430F0FE6: {0.Number} found - rocks
+   [0EC3C] 0x59B6994718E39910: {0.Number} fragments - found
    [0EC3D] 0x50DCCF99A6AC12BF: Rock Finders have found 50 or more Rocks and have gained a boosted ability to find rare rocks more easily!
    [0EC3E] 0x37C32759D109E057: Rock Finder
    [0EC3F] 0xF7193CBE27ECA872: {0.SimFirstName} will start at Drum Skill Level {1.Number} due to his early childhood Xylophone practice!
@@ -60486,11 +60486,11 @@ Unknown3: 0x00000000
    [0EC41] 0x34595016F3ABD528: Upgrade the Water Trough
    [0EC42] 0x1834EA7B90802A9F: Water Trough
    [0EC43] 0x90B3C04499F23C58: Cannot Detonate an object containing a pet.
-   [0EC44] 0x16DFF2E1E5B8FE04: Cross-Country Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
-   [0EC45] 0xBC4237069555A0D0: Perfect Jumps: {0.Number}
-   [0EC46] 0x064CCF869A1B050C: Show Jumping Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
-   [0EC47] 0xD2CE0435A9FF28A6: Jumps Attempted: {0.Number}
-   [0EC48] 0x6CDBF378FC87FC32: Poor Jumps: {0.Number}
+   [0EC44] 0x16DFF2E1E5B8FE04: Cross-Country - {0.Number} - {1.Number} - {2.Number}
+   [0EC45] 0xBC4237069555A0D0: {0.Number} jumps - Perfect
+   [0EC46] 0x064CCF869A1B050C: Competitions Won: Beginner - Advanced - International\nShow Jumping - {0.Number} - {1.Number} - {2.Number}
+   [0EC47] 0xD2CE0435A9FF28A6: {0.Number} jumps - attempted
+   [0EC48] 0x6CDBF378FC87FC32: {0.Number} jumps - Poor
    [0EC49] 0xCFD1DEC39E104C34: Comps.
    [0EC4A] 0xA4ADACCAA40BD12A: Competitions won with this Sim
    [0EC4B] 0x34399DE07B2214C2: Congratulations! {0.SimFirstName} has made enough perfect jumps to become a Frequent Flyer!\n\nCheck {0.SimFirstName}'s Skill Journal for information about the reward.
@@ -60512,10 +60512,10 @@ Unknown3: 0x00000000
    [0EC5B] 0x39DCE83E0532E8D1: Tireless Leaper
    [0EC5C] 0xBB68404D837269C6: {0.SimFirstName} will start at Piano Skill Level {1.Number} due to his early childhood Xylophone practice!
    [0EC5D] 0x558CE2F59C31AC7D: {0.SimFirstName} will start at Piano Skill Level {1.Number} due to her early childhood Xylophone practice!
-   [0EC5E] 0x40F41A53C5D18F84: Cross-Country Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
-   [0EC5F] 0x2D4985B6F89D04C0: Meters Galloped: {0.Number}
-   [0EC60] 0x09F4F64C5944F484: Racing Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
-   [0EC61] 0xC4396F04B87B0E22: Time Spent Training for Racing : {0.Number} Hours
+   [0EC5E] 0x40F41A53C5D18F84: Cross-Country - {0.Number} - {1.Number} - {2.Number}
+   [0EC5F] 0x2D4985B6F89D04C0: {0.Number} meters galloped
+   [0EC60] 0x09F4F64C5944F484: Competitions Won: Beginner - Advanced - International\nRacing - {0.Number} - {1.Number} - {2.Number}
+   [0EC61] 0xC4396F04B87B0E22: {0.Number} hours trained
    [0EC62] 0x91324EAFA01F9E5F: Congratulations! {0.SimFirstName} has won enough Equestrian Center competitions to earn the title of Champion Racehorse!\n\nCheck {0.SimFirstName}'s Skill Journal for information about the reward.
    [0EC63] 0x40F6FFD5381AA8AE: Champion Racehorses have won more than {0.Number} Advanced or International Racing Competitions at the Equestrian Center. Their racing fame makes them and their offspring far more valuable to horse buyers and breeders.
    [0EC64] 0xF80AB85837E76312: Champion Racehorse
@@ -60539,7 +60539,7 @@ Unknown3: 0x00000000
    [0EC76] 0xBC66E94D506D7514: Equestrian Center competitions won per category with this Horse.
    [0EC77] 0xA38E8F9B1FEA8173: Horses
    [0EC78] 0x8A2FDEA7C1741312: Racing : {0.Number}\nShow Jumping : {1.Number}\nCross-Country : {2.Number}
-   [0EC79] 0x7A5A35AC5B7ED423: Cross-Country Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
+   [0EC79] 0x7A5A35AC5B7ED423: Cross-Country - {0.Number} - {1.Number} - {2.Number}
    [0EC7A] 0x39FCC46CC4223B66: Cross-Country Competitions Won
    [0EC7B] 0x2CC2A4DAB4A78730: Congratulations! {0.SimFirstName} has won enough Equestrian Center competitions to earn the title of Equestrian Champion!\n\nCheck {0.SimFirstName}'s Skill Journal for information about the reward.
    [0EC7C] 0x32D7791D13E84753: Equestrian Champions have won at least {0.Number} Equestrian Center competitions at the Advanced or International level. They are so well-known in the riding world that they receive extra prize money from sponorships at every competition they win.
@@ -60548,22 +60548,22 @@ Unknown3: 0x00000000
    [0EC7F] 0x1BB0D008B82527B2: Horse Friends have been Best Friends with at least {0.Number} Horses. They're at ease around their equine buddies, and the Horses know it! Horses rarely shy away from being handled by a Horse Friend.
    [0EC80] 0x32163D13F259B09E: Horse Friend
    [0EC81] 0x976ECB8A2C7478E5: Horse
-   [0EC82] 0x045D20F3A79DCA58: Number of Best Friend Horses: {0.Number}
+   [0EC82] 0x045D20F3A79DCA58: {0.Number} Best Friend horses
    [0EC83] 0x64A935E43B3524A5: Horses that your Sim has ridden.
-   [0EC84] 0xBE873B4F2F5D8BF7: Show Jumping Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
+   [0EC84] 0xBE873B4F2F5D8BF7: Show Jumping - {0.Number} - {1.Number} - {2.Number}
    [0EC85] 0xC522B5F2899D81C3: Congratulations! {0.SimFirstName} has adopted enough wild Horses to complete the Mustang Master Skill Challenge!\n\nCheck {0.SimFirstName}'s Skill Journal for information about the reward.
    [0EC86] 0x919644D2517B1C42: Mustang Masters have adopted at least {0.Number} wild Horses, so they know how to bring out the best in a Horse. When a Mustang Master adopts a Wild Horse, {MA.he}{FA.she} can choose some of the Horse's traits.
    [0EC87] 0x1D2D233A525492AE: Mustang Master
-   [0EC88] 0x63F62E3F019EBB87: Racing Competitions Won: Beginner : {0.Number} | Advanced : {1.Number} | International : {2.Number}
+   [0EC88] 0x63F62E3F019EBB87: Competitions Won: Beginner - Advanced - International\nRacing - {0.Number} - {1.Number} - {2.Number}
    [0EC89] 0x88FCC73D4B713BC5: Congratulations! {0.SimFirstName} has won all three types of Equestrian Center competitions and achieved the Rider of Legends Skill Challenge!\n\nCheck {0.SimFirstName}'s Skill Journal for information about the reward.
    [0EC8A] 0x1A8489FC626151AC: To become a Rider of Legends, a Sim must win all three types of Equestrian Center competitions at the International level. For their dedication to the art of horsemanship, these Sims receive a truly epic equine statue. 
    [0EC8B] 0x271A4D5E6BB2FC5C: Rider of Legends
-   [0EC8C] 0x58875ACE295113FC: Racing Skill Level : {0.Number}\nJumping Skill Level : {1.Number}
+   [0EC8C] 0x58875ACE295113FC: Skill Levels:\nRacing - {0.Number}\nJumping - {1.Number}
    [0EC8D] 0x43738FC1339F27C6: Skills
    [0EC8E] 0x48C28B433931FE7C: The Horse's Riding and Jumping skill levels.
-   [0EC8F] 0x044C87B75DBB5342: Successful Jumps : {0.Number}
-   [0EC90] 0x3B3B2B32F4E8DC37: Unicorns Adopted : {0.Number}
-   [0EC91] 0xB96008E9B7865EB4: Wild Horses Adopted : {0.Number}
+   [0EC8F] 0x044C87B75DBB5342: {0.Number} successful jumps
+   [0EC90] 0x3B3B2B32F4E8DC37: {0.Number} Unicorns adopted
+   [0EC91] 0xB96008E9B7865EB4: {0.Number} wild horses adopted
    [0EC92] 0x2D77EF8B7A95871C: DEBUG Learn Trick...
    [0EC93] 0x5F789D09732A8348: {0.SimFirstName} learned to Play Dead!
    [0EC94] 0x102466D5D8869BE3: {0.SimFirstName} learned to Roll Over!
@@ -60571,13 +60571,13 @@ Unknown3: 0x00000000
    [0EC96] 0x1FB156B4AAFB07A4: {0.SimFirstName} learned to Sit!
    [0EC97] 0x1CA9F1820942F1CB: {0.SimFirstName} learned to Sit Up!
    [0EC98] 0xDF60C281E65CFF7A: {0.SimFirstName} learned to Speak!
-   [0EC99] 0x33B8F390CF3F7C17: Trick Exhibitions performed: {0.Number}\nTips earned: {1.Number} Simoleons
-   [0EC9A] 0x96AFB94A6923A925: Number of times Play Dead trick has been performed: {0.Number}
-   [0EC9B] 0xE4668069DA9D2EFE: Number of times Roll Over trick has been performed: {0.Number}
-   [0EC9C] 0xDC4E09E77844A369: Number of times Shake trick has been performed: {0.Number}
-   [0EC9D] 0x2B9EAEA36E699753: Number of times Sit trick has been performed: {0.Number}
-   [0EC9E] 0xE6D044E77EBE98C4: Number of times Sit Up trick has been performed: {0.Number}
-   [0EC9F] 0x0E1033E703EB48F5: Number of times Speak trick has been performed: {0.Number}
+   [0EC99] 0x33B8F390CF3F7C17: {0.Number} Trick Exhibitions performed\n§{1.Number} earned
+   [0EC9A] 0x96AFB94A6923A925: {0.Number} tricks performed - Play Dead
+   [0EC9B] 0xE4668069DA9D2EFE: {0.Number} tricks performed - Roll Over
+   [0EC9C] 0xDC4E09E77844A369: {0.Number} tricks performed - Shake
+   [0EC9D] 0x2B9EAEA36E699753: {0.Number} tricks performed - Sit
+   [0EC9E] 0xE6D044E77EBE98C4: {0.Number} tricks performed - Sit Up
+   [0EC9F] 0x0E1033E703EB48F5: {0.Number} tricks performed - Speak
    [0ECA0] 0x3ED97281C7AC2C7B: First, prove to me that you are a friend to all creatures. Only then will I consider your offer.
    [0ECA1] 0x7969855BC56EAE9D: Go Find a Gem
    [0ECA2] 0x9E6757D0B20A05D9: Go Find Some Metal
@@ -64749,8 +64749,8 @@ Unknown3: 0x00000000
    [0FCE8] 0x1569202924BF52CC: Jarvis
    [0FCE9] 0x6F486CE5FC05FD77: Catch all the different fireflies to become a champion Firefly Collector! Having found all of the firefly varieties, you'll have a much easier time collecting more fireflies and other insects.
    [0FCEA] 0xAF1D0EDE8F71F50F: Firefly Collector
-   [0FCEB] 0x5F36AE649AC8CE52: Fireflies Collected: {0.Number}
-   [0FCEC] 0x2D7EC91BFFF7704D: Unique Fireflies Found: {0.Number}%
+   [0FCEB] 0x5F36AE649AC8CE52: Fireflies - {0.Number}
+   [0FCEC] 0x2D7EC91BFFF7704D: Fireflies - {0.Number}%
    [0FCED] 0x63F97D584C4FD301: Create a Dimensional Gate
    [0FCEE] 0x3825D0DF8913903E: Makes the music coming from your Wall Mounted Speaker sound even better!
    [0FCEF] 0x3B1C89474D5CC118: Sims will never get nauseous again.
@@ -64759,7 +64759,7 @@ Unknown3: 0x00000000
    [0FCF2] 0x50B01F9FFB5EAD17: Wall Mounted Speaker
    [0FCF3] 0x254193F8248FBB8D: PlasmaPunch Gyroscopic Conductor
    [0FCF4] 0x68E780A64D0A0387: Karaoke Machine
-   [0FCF5] 0x1740D163388F64D6: Dominoes Record: Matches Won {0.Number}, Matches Lost: {1.Number} 
+   [0FCF5] 0x1740D163388F64D6: Dominoes Record: {0.Number} Wins - {1.Number} Losses
    [0FCF6] 0x45716E7163200BB5: DNT
    [0FCF7] 0x37D6987D79B8B42D: DNT
    [0FCF8] 0x24B7B91D890025A0: DNT
@@ -69085,18 +69085,18 @@ Unknown3: 0x00000000
    [10DD8] 0xDDEED3F5A57C985B: Potion Prodigy DO NOT TRANSLATE
    [10DD9] 0xB9344BA2224A448C: Highest Value Grown: {0.Money}
    [10DDA] 0xB9344BA2224A448F: Best Quality Grown: {0.String}
-   [10DDB] 0x6B0A2BCBD231F039: Most Expensive Gem Value: {0.Number}
-   [10DDC] 0x6B0A2BCBD231F03A: Number of Times Cut: {0.Number}
+   [10DDB] 0x6B0A2BCBD231F039: Highest Value Found: §{0.Number}
+   [10DDC] 0x6B0A2BCBD231F03A: Times Cut: {0.Number}
    [10DDD] 0xA9D78CB599BC167E: Highest Value Found: {0.Money}
    [10DDE] 0x3B1CB560F67634B9: Highest Value Found: {0.Money}
-   [10DDF] 0x3B1CB560F67634BA: Number of Ingots Created: {0.Number}
+   [10DDF] 0x3B1CB560F67634BA: Ingots Created: {0.Number}
    [10DE0] 0x81008E96BCE535E1: Congratulations! {0.SimName} has mastered the mushrooms, and has completed the Mushroom Collector Skill Challenge! Check {0.SimName}’s Skill Journal for information about the reward.
    [10DE1] 0xDEE17EBCF135D028: Find {0.Number} unique mushrooms, and the quality of mushrooms grown will increase.
    [10DE2] 0x830CF251218CC310: Mushroom Collector
-   [10DE3] 0xE07FF69FFDF5F911: Mushrooms Collected: {0.Number}
-   [10DE4] 0xF8E8E94468DEAC2C: Unique Mushrooms Found: {0.Number}%
-   [10DE5] 0xE926512A347B965E: Heaviest Fish Caught: {0.Number} kg
-   [10DE6] 0xE926512A347B965D: Preferred Fishing Bait: {0.String}
+   [10DE3] 0xE07FF69FFDF5F911: Mushrooms - {0.Number}
+   [10DE4] 0xF8E8E94468DEAC2C: Mushrooms - {0.Number}%
+   [10DE5] 0xE926512A347B965E: {0.Number} kg
+   [10DE6] 0xE926512A347B965D: Bait - {0.String}
    [10DE7] 0x8A1865BEBAA32A08: Recipe Name
    [10DE8] 0xD35B329484425B34: Alchemy Recipes
    [10DE9] 0x4EA9EB34E2C9E796: Name of the Alchemy Recipe
@@ -69110,12 +69110,12 @@ Unknown3: 0x00000000
    [10DF1] 0xF71EE722729D938E: Congratulations! {0.SimName} has achieved the title of Master Alchemist and has completed the Master Alchemist Skill Challenge! Check {0.SimName}’s Skill Journal for information about the reward.
    [10DF2] 0xBB6CFB377382A8A1: A Master Alchemist must learn all of the alchemy recipes. Once you have achieved this challenge, you will have a chance of not using up all of your ingredients when creating an alchemy recipe. Also, you will get discounts on items in the Elixir Store.
    [10DF3] 0xD392532591A3B72D: Master Alchemist
-   [10DF4] 0x7EE3BC4A9D1E8012: Money Earned Selling Elixirs: {0.Money}
-   [10DF5] 0x24759E8548490221: Number of Alchemy Recipes Discovered: {0.Number} of {1.Number} ({2.Number}%)
-   [10DF6] 0x2BFF75AA7165ED01: Number of Alchemy Elixirs Created: {0.Number}
-   [10DF7] 0xBEEF9159C763FF6F: Number of Alchemy Elixirs Thrown at Others: {0.Number}
-   [10DF8] 0x38232EF144519C42: Number of Supernaturals Turned into Humans: {0.Number}
-   [10DF9] 0xC0E7040B5B8D4C8A: Number of Sims Turned into Supernaturals: {0.Number}
+   [10DF4] 0x7EE3BC4A9D1E8012: {0.Money} earned
+   [10DF5] 0x24759E8548490221: {0.Number} of {1.Number} - {2.Number}% - recipes learned
+   [10DF6] 0x2BFF75AA7165ED01: {0.Number} elixirs - created
+   [10DF7] 0xBEEF9159C763FF6F: {0.Number} elixirs - thrown at others
+   [10DF8] 0x38232EF144519C42: {0.Number} Supernaturals turned into Humans
+   [10DF9] 0xC0E7040B5B8D4C8A: {0.Number} Sims turned into Supernaturals
    [10DFA] 0xA27A328EDCCBF4AB: Congratulations! {0.SimName} has completed the Excellent Elixirs challenge! Check {0.SimName}’s Skill Journal for information about the reward.
    [10DFB] 0xF13A05F9322D635A: Excellent Elixirs requires that {0.Number} elixirs be mixed. Once you have achieved this challenge, you will be able to create {1.Number} elixirs each time you Mix Elixirs at the Alchemy Station.
    [10DFC] 0xA0C00916C0BDFB86: Excellent Elixirs
@@ -71894,7 +71894,7 @@ Unknown3: 0x00000000
    [118D1] 0xB6A7C30C8F874632: {0.SimFirstName}'s soccer match ended in a draw.
    [118D2] 0xFB46190CB633A896: {0.SimFirstName} lost the soccer match.
    [118D3] 0x2A80FA0C630DE2CC: {0.SimFirstName} won the soccer match.
-   [118D4] 0x15FD1C5BB630D586: Soccer Rank: {0.String}
+   [118D4] 0x15FD1C5BB630D586: Soccer Rank {0.String}
    [118D5] 0x8DECB5D694FAD282: 0
    [118D6] 0x8DECB5D694FAD283: 1
    [118D7] 0x8DECB5D694FAD280: 2
@@ -71902,7 +71902,7 @@ Unknown3: 0x00000000
    [118D9] 0x8DECB5D694FAD286: 4
    [118DA] 0x8DECB5D694FAD287: 5
    [118DB] 0x692D67B1D776A846: {0.SimName} just improved {MA.his}{FA.her} Soccer Rank to {1.Number}
-   [118DC] 0xE176DAA3E66F6A81: Wins-Losses-Draws: {0.Number}-{1.Number}-{2.Number}
+   [118DC] 0xE176DAA3E66F6A81: {0.Number} Wins - {1.Number} Losses - {2.Number} Draws
    [118DD] 0x3B0AE27958860846: Make objects glow with the power of neon!
    [118DE] 0x7340D499ED534EE8: Terrify the citizens of your town.
    [118DF] 0x01FD9C79C921598D: This object will have cool explosions!
@@ -76590,47 +76590,47 @@ Unknown3: 0x00000000
    [12B29] 0x2A2331FC5B732AB5: {0.SimName} keeps getting even more popular within the Jocks group! So popular that they will be giving {0.SimFirstName} opportunities to Rent a Party for charity!
    [12B2A] 0x5C5604E9B1E778A7: The Jocks are taking a liking to {0.SimName} and want to see more of {MA.him}{FA.her}. {0.SimFirstName} is able to take Self Photos and will receive opportunities to host Bonfire parties!
    [12B2B] 0xEB0B8E0C62BFEF81: Trivia Challenges Won
-   [12B2C] 0x0E5BF58A2D93AEFE: Number of Sketchbook Sketches Created: {0.Number}
+   [12B2C] 0x0E5BF58A2D93AEFE: {0.Number} sketchbook sketches created
    [12B2D] 0x52A38E5199AA89D4: {0.SimName} has achieved the title of Experienced Experimentalist! Check {MA.his}{FA.her} Skill Journal for more information about the reward.
    [12B2E] 0x661451491AC2E827: Complete {0.Number} Experiments using the Science Research Station and/or the Group Science Project and receive an International Science Achievement Award Plaque and Cash Prize!
    [12B2F] 0xBCDBDDEBE88A183F: Experienced Experimentalist
-   [12B30] 0x338D205DD5F1673E: Experiments Completed: {0.Number}
-   [12B31] 0x0C900736DF369ED7: Experiment Epic Failures: {0.Number}
-   [12B32] 0x99C23C0C6F650507: Fish Analyzed: {0.Number}
+   [12B30] 0x338D205DD5F1673E: {0.Number} experiments completed
+   [12B31] 0x0C900736DF369ED7: {0.Number} experiments - Epic Failures
+   [12B32] 0x99C23C0C6F650507: {0.Number} analyzed - fish
    [12B33] 0x38F60437E336AA2B: {0.SimName} has achieved the title of Free Range Scientist! Check {MA.his}{FA.her} Skill Journal for more information about the reward.
    [12B34] 0x3A47BB5E22099FDA: Analyze a total of {0.Number} Plants, Fish, Insects, and Rocks to reduce the cool down time on Correlating Scientific Data.
    [12B35] 0x42B73BC280801C06: Free Range Scientist
    [12B36] 0xCA7B95D899F5D223: Give DNA Sample
-   [12B37] 0x30C02526CBD09D04: Insects Analyzed: {0.Number}
+   [12B37] 0x30C02526CBD09D04: {0.Number} analyzed - insects
    [12B38] 0x3E7FD0B1DB6E343E: New Collectables Discovered: {0.Number}
    [12B39] 0xC683283A6F46AC68: Unable to analyze harvestables. This plant is not yet ready.
-   [12B3A] 0x1851777C81402571: Objects Created: {0.Number}
-   [12B3B] 0x85AFBC0681579F87: Plants Analyzed: {0.Number}
+   [12B3A] 0x1851777C81402571: {0.Number} objects created
+   [12B3B] 0x85AFBC0681579F87: {0.Number} analyzed - plants
    [12B3C] 0xD6E315CD83D8A6FC: Fish must be in a bowl or tank to analyze.
-   [12B3D] 0x6A0528A3EAB3CEF5: Minerals Analyzed: {0.Number}
+   [12B3D] 0x6A0528A3EAB3CEF5: {0.Number} analyzed - minerals
    [12B3E] 0xFA95723BED0DA7FF: {0.SimName} has achieved the title of Scientific Pioneer! Check {MA.his}{FA.her} Skill Journal for more information about the reward. DO NOT TRANSLATE
    [12B3F] 0x4E3F945F98A0CBCE: Discover and name {0.Number} New Collectables to receive an International Science Achievement Award Plaque and Simoleons. DO NOT TRANSLATE
    [12B40] 0x70388ED8C446D832: Scientific Pioneer
-   [12B41] 0x7387C84E9CD7E003: Simoleons Earned from Correlating Scientific Data: {0.Money}
-   [12B42] 0x1B6F588158C9106E: Simoleons Earned From Selling Scientific Samples: {0.Money}
-   [12B43] 0x4FAF5888A802A4A6: Sims Tested: {0.Number}
-   [12B44] 0xF6904BDB6FE67012: Subjects Researched: {0.Number}
+   [12B41] 0x7387C84E9CD7E003: {0.Money} earned - correlate scientific data
+   [12B42] 0x1B6F588158C9106E: {0.Money} earned - scientific samples sold
+   [12B43] 0x4FAF5888A802A4A6: {0.Number} Sims tested
+   [12B44] 0xF6904BDB6FE67012: {0.Number} subjects researched
    [12B45] 0x015A57BF13EB112B: Add Caption Here
    [12B46] 0x8E191D4A5A3416AE: Sell the rights to {0.Number} different Blogs. As a result, your Sim will receive more donations from followers.
    [12B47] 0xFBC8153011BC4112: Blog Baron
    [12B48] 0xA8521569DFA6D581: Blog Baron
-   [12B49] 0xCA100079BBAA1AC9: Highest Number of Followers: {0.Number}
+   [12B49] 0xCA100079BBAA1AC9: {0.Number} followers - highest ever
    [12B4A] 0x1E63F36A1B21BDF9: Change the relationships of {0.Number} different Sims using the Relationship Transmogrifier to Romantic Interest or Partner. As a result, your Sim can use the 'Best Friends Forever' bit in the Relationship Transmogrifier app.
    [12B4B] 0x6369619051ED2DA5: Match Maker
    [12B4C] 0x74258FAF39F680C0: Match Maker
-   [12B4D] 0x36234965643DA3D2: Most Followers Gained from a single Blog Post: {0.Number}
+   [12B4D] 0x36234965643DA3D2: {0.Number} followers - highest gained from a single Blog Post
    [12B4E] 0xE5CF7E247E5ADE25: Meet {0.Number} different Sims using the Sim Finder App. As a result, your Sim will receive the 'Excited' buff every time they meet a new Sim via Sim Finder.
    [12B4F] 0x7666E992ACA33EF9: Professional Greeter
    [12B50] 0xA4AA0096C801838C: Professional Greeter
-   [12B51] 0x3EC054EF6B0A8FEA: Most Common Relationship Status set with the Relationship Transmogrifier: {0.String}
-   [12B52] 0x21CDD070509CC2DF: Total Simoleans earned from Blog Donations and Blog Buyouts: {0.Money}
-   [12B53] 0xC6DABC6F98AF591E: Total Number of Five Star Blogs Written: {0.Number}
-   [12B54] 0xC05000BED5E8AF90: Total Number of New Sims Met Via Sim Finder App: {0.Number}
+   [12B51] 0x3EC054EF6B0A8FEA: most common relationship set with the Relationship Transmogrifier - {0.String}
+   [12B52] 0x21CDD070509CC2DF: {0.Money} earned - Blog Donations and Buyouts
+   [12B53] 0xC6DABC6F98AF591E: {0.Number} Five Star Blogs written
+   [12B54] 0xC05000BED5E8AF90: {0.Number} Sims met via Sim Finder App
    [12B55] 0x58E607D5C84C9169: {0.SimName} has achieved the title of Always Wanted! Check {MA.his}{FA.her} Skill Journal for more information about the reward.
    [12B56] 0xB1AF48CE8A4D2EA0: Complete {0.Number} Street Art Masterpieces (Wall or Ground) and you will be able to create Street Art anywhere without permission or getting in trouble.
    [12B57] 0xAFA8C3FE3321B188: Always Wanted
@@ -76643,14 +76643,14 @@ Unknown3: 0x00000000
    [12B5E] 0x05133E93CF80EA40: {0.SimName} has achieved the title of Master Muralist! Check {MA.his}{FA.her} Skill Journal for more information about the reward.
    [12B5F] 0x64C18051FB5F3E63: Finish {0.Number} Murals and they will be more likely to become a Masterpiece.
    [12B60] 0x8EC3D049A2AF87A3: Master Muralist
-   [12B61] 0x7C281726E9F489E8: Simoleons Earned from Street Art: {0.Money}
+   [12B61] 0x7C281726E9F489E8: {0.Money} earned
    [12B62] 0x42D59A87D520B711: Most Valuable Ground Mural: {0.Money} 
    [12B63] 0xD29BE7261E7CC802: Most Valuable Wall Mural: {0.Money}
    [12B64] 0xEF38E8D69AE9DEDF: Mural Masterpieces: {0.Number} DO NOT TRANSLATE
    [12B65] 0x1A4DCA6E8D623FF9: Murals Created: {0.Number} DO NOT TRASNLATE
-   [12B66] 0xECDF0B7C5096F30C: Objects Tagged: {0.Number}
-   [12B67] 0xC616C1DCEC79D834: Mural Masterpieces: {0.Number} 
-   [12B68] 0xFC1FB89C33EACF81: Murals Created: {0.Number}
+   [12B66] 0xECDF0B7C5096F30C: {0.Number} objects tagged
+   [12B67] 0xC616C1DCEC79D834: {0.Number} murals created - Masterpieces
+   [12B68] 0xFC1FB89C33EACF81: {0.Number} murals created
    [12B69] 0xA6D663061DFBA22D: {0.SimName} has achieved the title of Precision Sprayer! Check {MA.his}{FA.her} Skill Journal for more information about the reward.
    [12B6A] 0x32F4AEF0F02242C4: Finish {0.Number} Street Art projects and all future Street Art projects will complete 15 percent faster.
    [12B6B] 0xF0EA86D83BB8FEF4: Precision Sprayer
@@ -78795,20 +78795,20 @@ Unknown3: 0x00000000
    [133C6] 0x4984B12FFF6615A1: Swim Here With Date
    [133C7] 0x2E480276F3A9E30A: Swim Here With Group
    [133C8] 0xE0B9BC2FC3CDE1D6: Swim Here With Pack
-   [133C9] 0x40DB18BCC383385D: Hightest Value Found: {0.Money}
-   [133CA] 0x75B63DE09A293094: Unique Seashells Found: {0.Number}%
-   [133CB] 0x25F953F736A61B87: Seashells Collected: {0.Number}
+   [133C9] 0x40DB18BCC383385D: Highest Value Found: {0.Money}
+   [133CA] 0x75B63DE09A293094: Seashells - {0.Number}%
+   [133CB] 0x25F953F736A61B87: Seashells - {0.Number}
    [133CC] 0xDB660001F6535A06: Look ma! No hands!
    [133CD] 0x6673D766F3BACB7C: I feel the need, the need for speed!
    [133CE] 0x5626C077F12E5CEC: That classic Sim Francisco sound.
    [133CF] 0xEE837E29EA3AFE07: Houseboat Helm
    [133D0] 0x9B5B8D24031602F5: Houseboat Helm
    [133D1] 0x8BD091B7E266D4B1: Houseboat Helm
-   [133D2] 0x859675411195BD42: Message Bottles Collected: {0.Number}
-   [133D3] 0xAF800F8B65FB1BA7: Caves Explored: {0.Number}
-   [133D4] 0x01EAE3EC9AB38473: Treasure Chests Opened: {0.Number}
-   [133D5] 0x71030607AE8C69B4: Hours Spent Diving: {0.Number}
-   [133D6] 0xA67548533ABD87A7: Hours Spent Snorkeling: {0.Number}
+   [133D2] 0x859675411195BD42: {0.Number} collected - message bottles
+   [133D3] 0xAF800F8B65FB1BA7: {0.Number} caves explored
+   [133D4] 0x01EAE3EC9AB38473: {0.Number} treasure chests opened
+   [133D5] 0x71030607AE8C69B4: {0.Number} hours spent - diving
+   [133D6] 0xA67548533ABD87A7: {0.Number} hours spent - snorkeling
    [133D7] 0x14FD531164D1E8F6: {0.SimFirstName} already has a skill opportunity.
    [133D8] 0x6B42E6FD94A791C5: Congratulations! {0.SimFirstName} has collected enough shells to complete the Pearl Diver Skill Challenge! check {0.SimFirstName}'s Skill Journal for information about the reward. 
    [133D9] 0x5BD57170CD00C3AC: Pearl Divers have collected at least {0.Number} shells. Their reputation for collecting reputable finds helps them sell their shells at higher prices.
@@ -78816,9 +78816,9 @@ Unknown3: 0x00000000
    [133DB] 0x9221727AE1339557: Congratulations! {0.SimFirstName} has dedicated enough hours to snorkeling to complete the Savvy Snorklers Skill Challenge! Check {0.SimFirstName}'s Skill Journal for information about the reward. 
    [133DC] 0x2EBE72E855517236: Savvy Snorklers have spent at least {0.Number} hours snorkeling in water. Their experience scanning the underwater floor for hidden items gives them a higher chance of finding collectables while snorkeling.
    [133DD] 0xE8E52F263AEA8C7A: Savvy Snorkeler
-   [133DE] 0x4884DAB53DF5E8BA: Sea Life Collected: {0.Number}
-   [133DF] 0xABF56D4010201364: Times Mauled By Shark: {0.Number}
-   [133E0] 0xC231C2D872E1E610: Shells Collected: {0.Number}
+   [133DE] 0x4884DAB53DF5E8BA: {0.Number} collected - sea life
+   [133DF] 0xABF56D4010201364: {0.Number} times mauled by a Shark
+   [133E0] 0xC231C2D872E1E610: {0.Number} collected - shells
    [133E1] 0xE17CD1233C81C253: Congratulations! {0.SimFirstName} has explored underwater caves enough times to complete the Underwater Spelunker Skill Challenge! Check {0.SimFirstName}'s Skill Journal for more information.
    [133E2] 0xA34EEDF50B144212: Underwater Spelunkers are brave divers who have explored underwater caves at least {0.Number} times. Those many trips in to the dark caverns means the Underwater Spelunker is more likely to find collectables while exploring caves. 
    [133E3] 0x308FDD05DCFDE8FE: Underwater Spelunker
@@ -83689,14 +83689,14 @@ Unknown3: 0x00000000
    [146E4] 0x3E464D164EC68044: {0.SimFirstName} has been quite busy creating Nanites! From now on, Nanites will cost half as much to make!
    [146E5] 0x09F0A29CFFAE4E74: Create at least {0.Number} Nanites to become a Micro-Master. Once achieved, the cost of creating all Nanites is halved.
    [146E6] 0xC6D02543740EF76F: Micro-Master
-   [146E7] 0x49BAD3B1C379234F: Bots Created: {0.Number}
-   [146E8] 0xA61F2EF1ABDBD2FF: Bots Sold: {0.Number}
-   [146E9] 0xA4146397B07D7ACF: Nanites Created: {0.Number}
-   [146EA] 0x136752521DA7044A: Trait Chips Created: {0.Number}
-   [146EB] 0x2ADCC3B32FBF86DC: Trait Chips Discovered: {0.Number}
+   [146E7] 0x49BAD3B1C379234F: {0.Number} Bots created
+   [146E8] 0xA61F2EF1ABDBD2FF: {0.Number} Bots sold
+   [146E9] 0xA4146397B07D7ACF: {0.Number} nanites created
+   [146EA] 0x136752521DA7044A: {0.Number} trait chips - created
+   [146EB] 0x2ADCC3B32FBF86DC: {0.Number} trait chips - discovered
    [146EC] 0x331F46BFE6CDD709: Percent of Nanites Created: {0.Number}
    [146ED] 0x63D0177D0E187AD0: Known Trait Chip Recipes
-   [146EE] 0x8828394BCC1C99B4: Tips Earned from Tune Ups: {0.Number}
+   [146EE] 0x8828394BCC1C99B4: §{0.Number} earned - Tune Ups
    [146EF] 0x8CEA1BF35437F901: Unstable
    [146F0] 0x8CEA1BF35437F900: Fragile
    [146F1] 0xA9C67E781B1C1B30: Future Tech
@@ -83712,25 +83712,25 @@ Unknown3: 0x00000000
    [146FB] 0x22091147C1B129A2: Highest Value Found: {0.Number}
    [146FC] 0x51EBEB4086B90267: Collect at least one of each type of Nanite, and wild Nanites will start to appear around your personal Bot Building Station!
    [146FD] 0x23595B1485A6877F: Nanite Collector
-   [146FE] 0x38D1BEFBC7B94CC2: Nanites Collected: {0.Number}
-   [146FF] 0x734FE6ED30512B27: Unique Nanites Found: {0.Number}%
+   [146FE] 0x38D1BEFBC7B94CC2: Nanites - {0.Number}
+   [146FF] 0x734FE6ED30512B27: Nanites - {0.Number}%
    [14700] 0xC7AF1C0A1024E18C: {0.SimName} endured dreams of all kinds – including nightmares. It was worth it and now {MA.his}{FA.her} dreams will always start off good while using the Dream Pod!
    [14701] 0xBCB3AA57A872E72F: Dreams can have a profound effect on a Sim’s day. Become a Digital Dreamer by having {0.Number} unique dream outcomes and Dream Pod dreams will always begin with a Good Dream.
    [14702] 0x068B9875FE99CDC7: Digital Dreamer
-   [14703] 0x09C8F3F1790FEADD: Number of unique dream outcomes on the Dream Pod: {0.Number}
-   [14704] 0x849B8676C5BE1A91: Number of recipes programmed into the Food Synthesizer: {0.Number}
-   [14705] 0xA7655DC0B52D8C85: Number of tricks performed on Windcarver: {0.Number}
-   [14706] 0x52BDEBB4A0715727: Number of Jetpack Flights: {0.Number}
+   [14703] 0x09C8F3F1790FEADD: {0.Number} unique dream outcomes - Dream Pod
+   [14704] 0x849B8676C5BE1A91: {0.Number} recipes programmed - Food Synthesizer
+   [14705] 0xA7655DC0B52D8C85: {0.Number} tricks performed - Windcarver
+   [14706] 0x52BDEBB4A0715727: {0.Number} flights - Jetpack
    [14707] 0x72B1A9D64D8F6893: It was a long hunt for {0.SimName}, but {MA.he}{FA.she} finally caught all 10 Sprites and received the coveted 11th Sprite for the Holo Disc! 
    [14708] 0xC9317E3229094A52: Asking for a Sprite Form from others is a great way to increase your Sprite collection. Collect all 10 Sprites on the Holo Disc and receive an 11th Sprite!
    [14709] 0xAF083A11A657473E: Catch 'em All
-   [1470A] 0xD06752F06CBE142F: Number of times Sprites have been shared with the Holo Disc: {0.Number}
+   [1470A] 0xD06752F06CBE142F: {0.Number} Sprites shared - Holo Disc
    [1470B] 0xCB67CB921BDDB34E: {0.SimName}’s fingers are sore from programming so many Food Synthesizers, but on the bright side {MA.he}{FA.she} can now program Food Synthesizers to Improve Food Quality to Level 4!
    [1470C] 0xCAA067BECF355C61: Being a digital chef isn’t just about pressing a few buttons on a Food Synthesizer. It’s about pressing lots of buttons! Program a recipe onto {0.Number} unique Food Synthesizers and you’ll receive the ability to program Food Synthesizers to Improve Food Quality to Level 4!
    [1470D] 0xAD337327453DE6ED: Synthesized
    [1470E] 0xCA19DCCC5C54A29E: Cannot rummage through trash pile.
-   [1470F] 0x736B5D5378C4366D: Compositions Known: {0.Number}%
-   [14710] 0xFFDFFDC7AF343E91: Number of times compositions have been performed: {0.Number}
+   [1470F] 0x736B5D5378C4366D: {0.Number}% compositions learned
+   [14710] 0xFFDFFDC7AF343E91: {0.Number} performances
    [14711] 0xE54A67ADB3AF8264: Laser Rhythm-a-con Compositions
    [14712] 0x8E82211DFBBA3484: Congratulations! {0.SimFirstName} has performed at enough parties and venues to complete the Laser Rhythm-a-con Star Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [14713] 0xC99796E99A519217: Laser Rhythm-a-con Stars must play at {0.Number} Parties and Venues in the town to earn their title. Afterwards, they earn larger monetary rewards for tips and performances!
@@ -83738,11 +83738,11 @@ Unknown3: 0x00000000
    [14715] 0x0E034BFDC0DAB7AC: Congratulations! {0.SimFirstName} has learned to play every song to complete the Master Laser Rhythm-a-con Artist Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [14716] 0x5D51EFE5DB415BCF: A master at the Laser Rhythm-a-con has learned to play every song awarded to them and available for purchase at the store. After learning so many songs, they receive a special Master Track!
    [14717] 0xEFC09135EAE29267: Master Laser Rhythm-a-con Artist
-   [14718] 0x716C605A6607F984: Money earned through playing the Laser Rhythm-a-con: {0.Money}
+   [14718] 0x716C605A6607F984: {0.Money} earned
    [14719] 0x26FC036F5DA20D92: Congratulations! {0.SimFirstName} has earned enough money playing the Laser Rhythm-a-con to complete the Money Maker Skill Challenge!\n\nCheck {0.SimFirstName}’s Skill Journal for information about the reward.
    [1471A] 0x8576DB48461C0935: Earn {0.Money} playing the Laser Rhythm-a-con to earn a new Master Track to perform. Money can be earned through tips or by completing Opportunities.
    [1471B] 0x61A7580BFD93CBC9: Money Maker
-   [1471C] 0x31CC68F0C65AE529: Number of times Sims have watched you perform: {0.Number}
+   [1471C] 0x31CC68F0C65AE529: {0.Number} times Sims watched performances
    [1471D] 0xD0F6F05AD53D8001: Are you sure you want to start to change the Future now? When you complete the opportunity, it will override any effect currently occurring in Oasis Landing!
    [1471E] 0x7BCE0D1C2F4FCB34: {0.SimName} has been invited to stay over at {MA.his}{FA.her} Descendant's household for the night.
    [1471F] 0xF27C20FFCA71F441: Plumbots cannot receive this dare.
