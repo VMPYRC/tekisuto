@@ -41147,24 +41147,24 @@ Unknown3: 0x00000000
    [0A0B6] 0xAB44B9B693827527: {0.SimName} defeated {1.SimName} in a Ranked Sparring Tournament Match. {2.Number}-{3.Number}
    [0A0B7] 0x963122693AD57B97: {0.SimName} defeated {1.SimName} in a Ranked Sparring Tournament Match, since {1.SimName} chickened out before a winner was declared! Last recorded score {2.Number}-{3.Number}
    [0A0B8] 0xC62433E4C36EA286: {0.SimName} defeated {1.SimName} in a Ranked Sparring Tournament Match, since {1.SimName} chickened out before a winner was declared! Last recorded score {2.Number}-{3.Number}
-   [0A0B9] 0xC6DA7E22D3BA5537: Meditative Focus Attained: {0.Number}
-   [0A0BA] 0x734E36C593A27E0F: Strongest Board Broken: {0.String}
-   [0A0BB] 0xE5EAF9DDFFBF16F2: Students Trained: {0.Number}
-   [0A0BC] 0xFB7999C491E1C063: Hours of Meditation: {0.Number}
-   [0A0BD] 0x61AACB30D090FCBC: Total Sparring Match Wins: {0.Number}
-   [0A0BE] 0x4087947E1330B226: Tournament Rank: {0.Number}
-   [0A0BF] 0xC60ECF34B5F0DD31: Tournament Wins: {0.Number} Losses: {1.Number}
+   [0A0B9] 0xC6DA7E22D3BA5537: {0.Number} meditative focus attained
+   [0A0BA] 0x734E36C593A27E0F: {0.String} - strongest board broken
+   [0A0BB] 0xE5EAF9DDFFBF16F2: {0.Number} students trained
+   [0A0BC] 0xFB7999C491E1C063: {0.Number} hours meditated
+   [0A0BD] 0x61AACB30D090FCBC: {0.Number} sparring matches won
+   [0A0BE] 0x4087947E1330B226: Tournament Rank {0.Number}
+   [0A0BF] 0xC60ECF34B5F0DD31: {0.Number} Wins - {1.Number} Losses
    [0A0C0] 0x673EAC5C22D3E81E: {0.SimName} has squished enough fruit to have Flavorful Feet! Nectar made by {0.SimName} will now be worth more!
    [0A0C1] 0x6DA1BDDC88EE37F1: After squishing {0.Number} batches of fruit, Nectar made by you will be worth more.
    [0A0C2] 0x741884C13A518CBD: Flavorful Feet
    [0A0C3] 0x10210F2061A8E758: Ingredients
    [0A0C4] 0x5DD8C2AF71C671F1: Ingredients in this Nectar
-   [0A0C5] 0xC8AF035F9ACC543C: Highest amount single bottle sold for: {0.Money}
-   [0A0C6] 0x19BF561DFF99C32D: Number of Different Combinations: {0.Number}
+   [0A0C5] 0xC8AF035F9ACC543C: {0.Money} - highest bottle sold
+   [0A0C6] 0x19BF561DFF99C32D: {0.Number} different combinations
    [0A0C7] 0x48864D4A9CF21498: Mix Master
    [0A0C8] 0xF29172F2191418B7: {0.SimName} has made enough different Nectar combinations to become a Mix Master! {0.SimName} can now predict a Nectar recipe’s final quality before making it!
    [0A0C9] 0xB2589D14697DB816: Make {0.Number} different Nectar combinations and your Sim will be able to predict a Nectar recipe's final quality before making it.
-   [0A0CA] 0x7F41367C22659FBA: Total made selling nectar: {0.Money}
+   [0A0CA] 0x7F41367C22659FBA: {0.Money} earned
    [0A0CB] 0x1392ED1C7FE31958: Most Valuable Combination: {0.String}, Base Value {1.Number}, Ingredients {2.String}
    [0A0CC] 0x6107CDE1187ADBE9: Most Valuable Combination: 
    [0A0CD] 0xFB8507B5B0FE3D76: Name of Nectar
@@ -41172,16 +41172,16 @@ Unknown3: 0x00000000
    [0A0CF] 0x8139A81CB9B7D4EA: {0.SimName} has made enough bottles of Nectar to become a Nectar Master! {0.SimName} will now make more bottles in every batch!
    [0A0D0] 0xC157991D5981233D: After making {0.Number} bottles of Nectar you'll make more bottles per batch.
    [0A0D1] 0x0EB4978578386F71: Master of Nectar Making
-   [0A0D2] 0x7FF7D237F0EF1B8E: Number of fruits used to make nectar: {0.Number}
-   [0A0D3] 0x1D1BA8CB1B9CE44F: Number of bottles made: {0.Number}
-   [0A0D4] 0x134BBB3373AE8767: Number of glasses had: {0.Number}
-   [0A0D5] 0xD64920DFB7A8ECA0: Number of Sims served: {0.Number}
+   [0A0D2] 0x7FF7D237F0EF1B8E: {0.Number} fruits used
+   [0A0D3] 0x1D1BA8CB1B9CE44F: {0.Number} bottles made
+   [0A0D4] 0x134BBB3373AE8767: {0.Number} glasses had
+   [0A0D5] 0xD64920DFB7A8ECA0: {0.Number} Sims served
    [0A0D6] 0x8867143D5080A754: Second Most Valuable Combination: {0.String}, Base Value {1.Number}, Ingredients {2.String}
    [0A0D7] 0xE7ED34F95D1C7CFD: Second Most Valuable Combination: 
    [0A0D8] 0x694BA35460F939E8: Most Valuable Nectars
    [0A0D9] 0x18E19419A6230AE1: Third Most Valuable Combination: {0.String}, Base Value {1.Number}, Ingredients {2.String}
    [0A0DA] 0x1F6B87C78DB2E438: Third Most Valuable Combination: 
-   [0A0DB] 0x08C18F754E24D11A: Number of times squished fruit: {0.Number}
+   [0A0DB] 0x08C18F754E24D11A: {0.Number} fruits squished
    [0A0DC] 0x434F3F872FEC5EA5: {0.String} worth {1.Money}
    [0A0DD] 0xA4D641F9067601AF: Value
    [0A0DE] 0x12524D1AD2E6EE68: Original Value of this Mixture
@@ -41195,22 +41195,22 @@ Unknown3: 0x00000000
    [0A0E6] 0xFAEB7F3C36212603: {0.SimName} just completed the Architectural Eye Skill Challenge and as a result, all {MA.his}{FA.her} photos featuring Landmarks will now be worth more!
    [0A0E7] 0x8C28EDB963403D82: Capture {0.Number} Unique Landmarks to increase the value of all photographs featuring Landmarks. ({1.Number} captured so far.)
    [0A0E8] 0xBF9FBA87E6B007EE: Architectural Eye
-   [0A0E9] 0x4A1D789B8151C99D: Burglars Photographed: {0.Number}
+   [0A0E9] 0x4A1D789B8151C99D: {0.Number} burglars photographed
    [0A0EA] 0x6EA56B5E246A1D86: Difficulty
    [0A0EB] 0xFADC26FC3249603C: How difficult this photography challenge is. The more difficult the challenge, the more Simoleons it will be worth.
-   [0A0EC] 0xE4E816ACD811275C: Favorite Aspect: {0.String} ({1.Number} photos)
-   [0A0ED] 0xD530CE388A0A7EC2: Favorite Aspect: None
-   [0A0EE] 0xFB1E463A95C8A9B3: Favorite Style: {0.String} ({1.Number} photos)
-   [0A0EF] 0x1A9D04540AF15D95: Favorite Style: None
-   [0A0F0] 0x2708760C9732A6E4: Favorite Subject: {0.String} ({1.Number} photos)
-   [0A0F1] 0xBED7B2D5F257BDBA: Favorite Subject: None
-   [0A0F2] 0x6AB5E0BA43F30957: Ghosts Photographed: {0.Number}
+   [0A0EC] 0xE4E816ACD811275C: {0.String} - {1.Number} photos - favorite aspect
+   [0A0ED] 0xD530CE388A0A7EC2: No favorite aspect
+   [0A0EE] 0xFB1E463A95C8A9B3: {0.String} - {1.Number} photos - favorite style
+   [0A0EF] 0x1A9D04540AF15D95: No favorite style
+   [0A0F0] 0x2708760C9732A6E4: {0.String} - {1.Number} photos - favorite subject
+   [0A0F1] 0xBED7B2D5F257BDBA: No favorite subject
+   [0A0F2] 0x6AB5E0BA43F30957: {0.Number} Ghosts photographed
    [0A0F3] 0x2CE92961591E833A: {0.SimName} just completed the Human Form Skill Challenge. If {0.SimName} takes photos of Sims {MA.he}{FA.she} knows, their relationship will improve!
    [0A0F4] 0x3461A2092AAABB8D: After capturing {0.Number} unique Sims, Human Form Experts can increase their relationship with Sims they already know by photographing them. ({1.Number} captured so far.)
    [0A0F5] 0x3FFB80C8378924C1: Human Form Expert
-   [0A0F6] 0x722185B7B80EAE0C: Landmarks Photographed: {0.Number}
-   [0A0F7] 0xD3735F157AC3EE65: Money Earned: {0.Money}
-   [0A0F8] 0xD40AA7CA765A208C: Money Spent: {0.Money}
+   [0A0F6] 0x722185B7B80EAE0C: {0.Number} landmarks photographed
+   [0A0F7] 0xD3735F157AC3EE65: {0.Money} earned
+   [0A0F8] 0xD40AA7CA765A208C: {0.Money} spent
    [0A0F9] 0x51374DA0BC47DD9B: Number
    [0A0FA] 0xF44E53DAA2E029BB: How many photos you've taken of this subject
    [0A0FB] 0xD95D05B1032DD13B: Congratulations! {0.SimName} has achieved Paparazzi status. Photographs of Sims {MA.he}{FA.she} is not acquainted with will be worth more!
@@ -41218,7 +41218,7 @@ Unknown3: 0x00000000
    [0A0FD] 0xE102EF0FAFEA6056: Paparazzi
    [0A0FE] 0x82C8EDEDC7F1C7B4: {0.SimName} just completed the Photog Skill Challenge and as a result, {MA.his}{FA.her} photos will now be worth more!
    [0A0FF] 0x1A31E3CBF307CC87: Capture {0.Number} different subjects to increase the base value of your photographs. ({1.Number} captured so far.)
-   [0A100] 0xDFD47C6F9109F4E4: Photographs Taken: {0.Number}
+   [0A100] 0xDFD47C6F9109F4E4: {0.Number} photographs taken
    [0A101] 0xFE9A187CF79FDE9F: Photog
    [0A102] 0xFA034239F12CD34F: ?
    [0A103] 0xC052E3945859C2A7: Status
@@ -41226,10 +41226,10 @@ Unknown3: 0x00000000
    [0A105] 0x598B7EC4DCC7B28E: Complete {0.Number} different photo collections and taking pictures will be free of charge. ({1.Number} completed so far.)
    [0A106] 0x001608FD600433F2: Shutternut
    [0A107] 0xC7F00861B7A79721: Shutternut
-   [0A108] 0x03B4B532B8DDD87A: Strangers Photographed: {0.Number}
+   [0A108] 0x03B4B532B8DDD87A: {0.Number} strangers photographed
    [0A109] 0xDD76A9BB61329751: Subject Name
    [0A10A] 0xECC8FCE8FA752EE9: The name of the subject of this photography challenge
-   [0A10B] 0x8F7142FCF34E61F6: Unique Sims Photographed: {0.Number}
+   [0A10B] 0x8F7142FCF34E61F6: {0.Number} unique Sims photographed
    [0A10C] 0xB59480BAF86D7DD6: A Voyage Unlike Any Other
    [0A10D] 0x8EF6AA7213D9628E: Ancient Coins collected
    [0A10E] 0xC864E6A0ECF5FECF: Dive Wells explored
